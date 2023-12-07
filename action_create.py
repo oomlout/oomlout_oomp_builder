@@ -37,6 +37,7 @@ def main(**kwargs):
             if os.name == "nt":
                 os.system(f"xcopy /E /Y {repo_path_parts} {oomp_path_parts}")
             else:
+                oomp_path_parts = oomp_path_parts.replace("parts","")
                 os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
 
 
