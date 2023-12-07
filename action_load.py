@@ -7,6 +7,7 @@ import pickle
 #  settings
 directory_oomp = "" # directory of your oomp
 directory_oomp_parts = os.path.join(directory_oomp, "parts")
+directory_oomp_data = os.path.join(directory_oomp, "data")
 file_oomp_parts_pickle = os.path.join(directory_oomp, "temporary/parts.pickle")
 file_oomp_parts_yaml = os.path.join(directory_oomp, "temporary/parts.yaml")
 
@@ -19,6 +20,10 @@ def main(**kwargs):
     file_yaml_parts = []
     for file_name_yaml in file_names_yaml:
         file_yaml_parts += glob.glob(f"{directory_oomp_parts}/*/{file_name_yaml}")
+    #add data files
+    for file_name_yaml in file_names_yaml:
+        file_yaml_parts += glob.glob(f"{directory_oomp_data}/*/{file_name_yaml}")
+
     glob.glob(f"{directory_oomp_parts}/*/*.yaml")
     for file_yaml_part in file_yaml_parts:
         with open(file_yaml_part, 'r') as stream:
