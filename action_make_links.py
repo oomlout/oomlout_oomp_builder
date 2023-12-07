@@ -37,7 +37,12 @@ def main(**kwargs):
                         os.remove(link_dir)
                     target_dir = os.path.abspath(target_dir)
                     print(f"making link {target_dir} to {link_dir}")
-                    os.symlink(target_dir, link_dir, target_is_directory=True)
+                    try:
+                        os.symlink(target_dir, link_dir, target_is_directory=True)
+                    except e as Exception:
+                        print(e)
+                        print(f"failed to make link {target_dir} to {link_dir}")
+                        pass
                 
                 #import time
                 #delay ten seconds

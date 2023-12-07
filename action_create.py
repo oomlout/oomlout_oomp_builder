@@ -1,7 +1,6 @@
 # imports
 import os
 import yaml
-import shutil
 # settings
 #      cheange these
 directory_oomp = "" # directory to create your oomp
@@ -33,7 +32,15 @@ def main(**kwargs):
         repo_path_parts = os.path.join(repo_path, "parts")
         oomp_path_parts = os.path.join(directory_oomp, "parts")
         if os.path.exists(repo_path_parts):
-            shutil.copytree(repo_path_parts, oomp_path_parts, dirs_exist_ok=True)
+            print(f"copying {repo_path_parts} to {oomp_path_parts}")
+            #copy all files and overwrite if it exists use xcopy if windows and cp if linux
+            if os.name == "nt":
+                os.system(f"xcopy /E /Y {repo_path_parts} {oomp_path_parts}")
+            else:
+                os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
+
+
+            
 
 
 
