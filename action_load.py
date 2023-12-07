@@ -32,9 +32,9 @@ def main(**kwargs):
         if not isinstance(parts_yaml, list):
             parts_yaml = [parts_yaml]
         
-        for part_yaml in parts_yaml:
-            print(f"loading {id}")
+        for part_yaml in parts_yaml:            
             id = part_yaml["id"]
+            print(f"loading {id}")
             if id not in parts:
                 parts[id] = {}
             parts[id].update(part_yaml)
