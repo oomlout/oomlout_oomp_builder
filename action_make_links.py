@@ -39,7 +39,7 @@ def main(**kwargs):
                     print(f"making link {target_dir} to {link_dir}")
                     try:
                         os.symlink(target_dir, link_dir, target_is_directory=True)
-                    except e as Exception:
+                    except Exception as e: 
                         print(e)
                         print(f"failed to make link {target_dir} to {link_dir}")
                         pass
