@@ -10,7 +10,7 @@ utilities.append("https://github.com/oomlout/oomlout_oomp_utility_readme_generat
 def main(**kwargs):
     action_create.main(**kwargs)
     action_load.main(**kwargs)    
-    action_make_links.main(**kwargs)
+    #action_make_links.main(**kwargs)
 
     for utility in utilities:
         #clone utility from github into temporary
