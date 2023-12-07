@@ -33,11 +33,12 @@ def main(**kwargs):
             parts_yaml = [parts_yaml]
         
         for part_yaml in parts_yaml:
-            id = part_yaml["id"]
             print(f"loading {id}")
-            part_from_yaml = {}
-            part_from_yaml[id] = part_yaml
-            parts.update(part_from_yaml)
+            id = part_yaml["id"]
+            if id not in parts:
+                parts[id] = {}
+            parts[id].update(part_yaml)
+            
 
     if not os.path.exists(os.path.dirname(file_oomp_parts_pickle)):
         os.makedirs(os.path.dirname(file_oomp_parts_pickle))
@@ -50,9 +51,9 @@ def main(**kwargs):
     if not os.path.exists(os.path.dirname(file_oomp_parts_yaml)):
         os.makedirs(os.path.dirname(file_oomp_parts_yaml))
     # save parts to yaml
-    with open(file_oomp_parts_yaml, 'w') as stream:
-        print(f"saving {file_oomp_parts_yaml}")
-        yaml.dump(parts, stream)
+    #with open(file_oomp_parts_yaml, 'w') as stream:
+    #    print(f"saving {file_oomp_parts_yaml}")
+    #    yaml.dump(parts, stream)
 
     return parts
 

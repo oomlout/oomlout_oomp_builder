@@ -13,6 +13,7 @@ def main(**kwargs):
     parts = {}
     action_create.main(**kwargs)
     parts = action_load.main(**kwargs)    
+    kwargs["parts"] = parts
     #action_make_links.main(**kwargs)
 
     for utility in utilities:
