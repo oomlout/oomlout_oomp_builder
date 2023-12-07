@@ -54,6 +54,8 @@ def main(**kwargs):
         print(f"saving {file_oomp_parts_yaml}")
         yaml.dump(parts, stream)
 
+    return parts
+
 
 if __name__ == "__main__":
     kwargs = {}
