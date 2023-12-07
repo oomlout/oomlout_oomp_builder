@@ -7,7 +7,7 @@ directory_oomp = "" # directory to create your oomp
 #      don't change these
 directory_oomp_parts = os.path.join(directory_oomp, "parts")
 directory_temporary = "temporary" # directory to create your oomp
-repo_source_yaml = "repos_source.yaml"
+repo_source_yaml = "configuration/repos_source.yaml"
 
 
 def main(**kwargs):
