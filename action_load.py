@@ -22,12 +22,17 @@ def main(**kwargs):
     glob.glob(f"{directory_oomp_parts}/*/*.yaml")
     for file_yaml_part in file_yaml_parts:
         with open(file_yaml_part, 'r') as stream:
-            part_yaml = yaml.load(stream, Loader=yaml.FullLoader)
-        id = part_yaml["id"]
-        print(f"loading {id}")
-        part_from_yaml = {}
-        part_from_yaml[id] = part_yaml
-        parts.update(part_from_yaml)
+            parts_yaml = yaml.load(stream, Loader=yaml.FullLoader)
+        
+        if not isinstance(parts_yaml, list):
+            parts_yaml = [parts_yaml]
+        
+        for part_yaml in parts_yaml:
+            id = part_yaml["id"]
+            print(f"loading {id}")
+            part_from_yaml = {}
+            part_from_yaml[id] = part_yaml
+            parts.update(part_from_yaml)
 
     if not os.path.exists(os.path.dirname(file_oomp_parts_pickle)):
         os.makedirs(os.path.dirname(file_oomp_parts_pickle))
