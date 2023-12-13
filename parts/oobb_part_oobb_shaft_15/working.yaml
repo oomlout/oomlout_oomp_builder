@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: shaft_15
+description_main_capital: Shaft 15
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SHAFT_15
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
+directory: parts/oobb_part_oobb_shaft_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_15/working
+id: oobb_part_oobb_shaft_15
+id_no_class: part_shaft_15
+id_no_size: shaft_15
+id_no_type: shaft_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_shaft_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_15/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_15/working)<br>[Oobb
+  Part Oobb Shaft 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_15/working)<br><br>'
+markdown_short: '[oobb_part_oobb_shaft_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_15/working)<br><br>'
+md5: cff76ef0eb6278888172c94479fdfe20
+md5_10: cff76ef0eb
+md5_10_upper: CFF76EF0EB
+md5_5: cff76
+md5_5_upper: CFF76
+md5_6: cff76e
+md5_6_alpha: 844fi
+md5_6_alpha_upper: 844FI
+md5_6_upper: CFF76E
+name: Oobb Part Oobb Shaft 15
+name_no_class: Part Shaft 15
+name_no_size: Shaft 15
+name_no_size_short: Shaft 15
+name_no_type: Shaft 15
+oomp_key: oomp_oobb_part_oobb_shaft_15
+oomp_word: melon six new_moon
+oomp_word_emoji: ':melon: :six: :new_moon:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':six:'
+- ':new_moon:'
+oomp_word_list:
+- melon
+- six
+- new_moon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

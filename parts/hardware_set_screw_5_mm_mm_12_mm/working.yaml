@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 12_mm
+description_main_capital: 12 mm
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_MM
+description_only_numbers: '12'
+description_only_numbers_short: '12'
+description_or_color: '12'
+description_or_color_upper: '12'
+directory: parts/hardware_set_screw_5_mm_mm_12_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_12_mm/working
+id: hardware_set_screw_5_mm_mm_12_mm
+id_no_class: set_screw_5_mm_mm_12_mm
+id_no_size: 12_mm
+id_no_type: 5_mm_mm_12_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_set_screw_5_mm_mm_12_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_12_mm/working)<br>[ss12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_12_mm/working)<br>[Hardware
+  Set Screw 5 Mm Mm 12 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_12_mm/working)<br><br>'
+markdown_short: '[hardware_set_screw_5_mm_mm_12_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_12_mm/working)<br><br>'
+md5: db53eaeba3df8a5925665e96583017b6
+md5_10: db53eaeba3
+md5_10_upper: DB53EAEBA3
+md5_5: db53e
+md5_5_upper: DB53E
+md5_6: db53ea
+md5_6_alpha: 8k2y2
+md5_6_alpha_upper: 8K2Y2
+md5_6_upper: DB53EA
+name: Hardware Set Screw 5 Mm Mm 12 Mm
+name_no_class: Set Screw 5 Mm Mm 12 Mm
+name_no_size: 12 Mm
+name_no_size_short: 12 Mm
+name_no_type: 5 Mm Mm 12 Mm
+oomp_key: oomp_hardware_set_screw_5_mm_mm_12_mm
+oomp_word: tent fish tractor
+oomp_word_emoji: ':tent: :fish: :tractor:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':fish:'
+- ':tractor:'
+oomp_word_list:
+- tent
+- fish
+- tractor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ss12
+short_code_upper: SS12
+size: 5_mm_mm
+size_capital: 5 mm mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_MM
+type: set_screw
+type_capital: Set Screw
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SET_SCREW

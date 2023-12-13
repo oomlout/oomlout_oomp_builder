@@ -1,0 +1,104 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_led_10_mm_red
+distributors: []
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+  note: source footprint kicad_led_tht_led_d10_0mm
+  oomp_key: oomp_kicad_led_tht_led_d10_0mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l10r_electronic_led_10_mm_red//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l10r_electronic_led_10_mm_red
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10r_electronic_led_10_mm_red
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working
+id: electronic_led_10_mm_red
+id_no_class: led_10_mm_red
+id_no_size: red
+id_no_type: 10_mm_red
+kicad_reference: L
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[Electronic
+  Led 10 Mm Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
+markdown_short: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
+md5: f3ee341dcc022670fa172c7f658f6966
+md5_10: f3ee341dcc
+md5_10_upper: F3EE341DCC
+md5_5: f3ee3
+md5_5_upper: F3EE3
+md5_6: f3ee34
+md5_6_alpha: 9in1w
+md5_6_alpha_upper: 9IN1W
+md5_6_upper: F3EE34
+name: Electronic Led 10 Mm Red
+name_no_class: Led 10 Mm Red
+name_no_size: Red
+name_no_size_short: Red
+name_no_type: 10 Mm Red
+oomp_key: oomp_electronic_led_10_mm_red
+oomp_word: two ambulance mouse
+oomp_word_emoji: ':two: :ambulance: :mouse:'
+oomp_word_emoji_list:
+- ':two:'
+- ':ambulance:'
+- ':mouse:'
+oomp_word_list:
+- two
+- ambulance
+- mouse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l10r
+short_code_upper: L10R
+short_name: 10 Mm Red Led
+size: 10_mm
+size_capital: 10 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
+size_upper: 10_MM
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 17_mm_id_40_mm_od_17.4_mm_depth
+description_main_capital: 17 mm Id 40 mm Od 17.4 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 17_MM_ID_40_MM_OD_17.4_MM_DEPTH
+description_only_numbers: '1740174'
+description_only_numbers_short: 1M7
+description_or_color: 1M7
+description_or_color_upper: 1M7
+directory: parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth/working
+id: hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth
+id_no_class: bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth
+id_no_size: 17_mm_id_40_mm_od_17.4_mm_depth
+id_no_type: 5203_17_mm_id_40_mm_od_17.4_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth/working)<br>[Hardware
+  Bearing 5200 Series 5203 17 Mm Id 40 Mm Od 17.4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth/working)<br><br>'
+md5: e600b5cf0b064bc5491872892a07f6e9
+md5_10: e600b5cf0b
+md5_10_upper: E600B5CF0B
+md5_5: e600b
+md5_5_upper: E600B
+md5_6: e600b5
+md5_6_alpha: 8z2r9
+md5_6_alpha_upper: 8Z2R9
+md5_6_upper: E600B5
+name: Hardware Bearing 5200 Series 5203 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_class: Bearing 5200 Series 5203 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_size: 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_size_short: 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_type: 5203 17 Mm Id 40 Mm Od 17.4 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5203_17_mm_id_40_mm_od_17.4_mm_depth
+oomp_word: airplane bowtie tea
+oomp_word_emoji: ':airplane: :bowtie: :tea:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':bowtie:'
+- ':tea:'
+oomp_word_list:
+- airplane
+- bowtie
+- tea
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '5203'
+size_capital: '5203'
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5203'
+size_only_numbers_no_zeros: '523'
+size_upper: '5203'
+type: bearing_5200_series
+type_capital: Bearing 5200 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_5200_SERIES

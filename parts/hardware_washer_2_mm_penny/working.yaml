@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: penny
+description_main_capital: Penny
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PENNY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_washer_2_mm_penny
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny/working
+id: hardware_washer_2_mm_penny
+id_no_class: washer_2_mm_penny
+id_no_size: penny
+id_no_type: 2_mm_penny
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_washer_2_mm_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny/working)<br>[w2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny/working)<br>[Hardware
+  Washer 2 Mm Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny/working)<br><br>'
+markdown_short: '[hardware_washer_2_mm_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny/working)<br><br>'
+md5: b5325eb03aa4bde2b3a4be509a9e74f7
+md5_10: b5325eb03a
+md5_10_upper: B5325EB03A
+md5_5: b5325
+md5_5_upper: B5325
+md5_6: b5325e
+md5_6_alpha: 72iqm
+md5_6_alpha_upper: 72IQM
+md5_6_upper: B5325E
+name: Hardware Washer 2 Mm Penny
+name_no_class: Washer 2 Mm Penny
+name_no_size: Penny
+name_no_size_short: Penny
+name_no_type: 2 Mm Penny
+oomp_key: oomp_hardware_washer_2_mm_penny
+oomp_word: tea cat crocodile
+oomp_word_emoji: ':tea: :cat: :crocodile:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':cat:'
+- ':crocodile:'
+oomp_word_list:
+- tea
+- cat
+- crocodile
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w2
+short_code_upper: W2
+size: 2_mm
+size_capital: 2 mm
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: 2_MM
+type: washer
+type_capital: Washer
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WASHER

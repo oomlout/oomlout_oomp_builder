@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_thin_08_02_09
+description_main_capital: Tray Thin 08 02 09
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_THIN_08_02_09
+description_only_numbers: 080209
+description_only_numbers_short: 80k
+description_or_color: 80k
+description_or_color_upper: 80K
+directory: parts/oobb_part_oobb_tray_thin_08_02_09
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_thin_08_02_09/working
+id: oobb_part_oobb_tray_thin_08_02_09
+id_no_class: part_tray_thin_08_02_09
+id_no_size: tray_thin_08_02_09
+id_no_type: tray_thin_08_02_09
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_thin_08_02_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_thin_08_02_09/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_thin_08_02_09/working)<br>[Oobb
+  Part Oobb Tray Thin 08 02 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_thin_08_02_09/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_thin_08_02_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_thin_08_02_09/working)<br><br>'
+md5: 72174527fd11a2d2909a969a21ff2dca
+md5_10: 72174527fd
+md5_10_upper: 72174527FD
+md5_5: '72174'
+md5_5_upper: '72174'
+md5_6: '721745'
+md5_6_alpha: 4g9c5
+md5_6_alpha_upper: 4G9C5
+md5_6_upper: '721745'
+name: Oobb Part Oobb Tray Thin 08 02 09
+name_no_class: Part Tray Thin 08 02 09
+name_no_size: Tray Thin 08 02 09
+name_no_size_short: Tray Thin 08 02 09
+name_no_type: Tray Thin 08 02 09
+oomp_key: oomp_oobb_part_oobb_tray_thin_08_02_09
+oomp_word: dolls thumbsdown snake
+oomp_word_emoji: ':dolls: :thumbsdown: :snake:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':thumbsdown:'
+- ':snake:'
+oomp_word_list:
+- dolls
+- thumbsdown
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: jumper
+description_main_capital: Jumper
+description_main_first_letter: j
+description_main_first_letter_upper: J
+description_main_upper: JUMPER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_header_2_54_mm_jumper
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working
+id: electronic_header_2_54_mm_jumper
+id_no_class: header_2_54_mm_jumper
+id_no_size: jumper
+id_no_type: 2_54_mm_jumper
+kicad_reference: CONN
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[Electronic
+  Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
+md5: 92227bc2f8b61bf65d6b0a3dfb2c607c
+md5_10: 92227bc2f8
+md5_10_upper: 92227BC2F8
+md5_5: '92227'
+md5_5_upper: '92227'
+md5_6: 92227b
+md5_6_alpha: 5p9q3
+md5_6_alpha_upper: 5P9Q3
+md5_6_upper: 92227B
+name: Electronic Header 2 54 Mm Jumper
+name_no_class: Header 2 54 Mm Jumper
+name_no_size: Jumper
+name_no_size_short: Jumper
+name_no_type: 2 54 Mm Jumper
+oomp_key: oomp_electronic_header_2_54_mm_jumper
+oomp_word: paperclip lips computer
+oomp_word_emoji: ':paperclip: :lips: :computer:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':lips:'
+- ':computer:'
+oomp_word_list:
+- paperclip
+- lips
+- computer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hi1j
+short_code_upper: HI1J
+size: 2_54_mm
+size_capital: 2.54 mm
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+size_upper: 2_54_MM
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

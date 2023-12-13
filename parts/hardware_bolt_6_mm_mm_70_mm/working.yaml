@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 70_mm
+description_main_capital: 70 mm
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 70_MM
+description_only_numbers: '70'
+description_only_numbers_short: '70'
+description_or_color: '70'
+description_or_color_upper: '70'
+directory: parts/hardware_bolt_6_mm_mm_70_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_70_mm/working
+id: hardware_bolt_6_mm_mm_70_mm
+id_no_class: bolt_6_mm_mm_70_mm
+id_no_size: 70_mm
+id_no_type: 6_mm_mm_70_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_6_mm_mm_70_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_70_mm/working)<br>[b70](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_70_mm/working)<br>[Hardware
+  Bolt 6 Mm Mm 70 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_70_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_6_mm_mm_70_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_70_mm/working)<br><br>'
+md5: 579dc8fb4854b5415ad757fb93fbd955
+md5_10: 579dc8fb48
+md5_10_upper: 579DC8FB48
+md5_5: 579dc
+md5_5_upper: 579DC
+md5_6: 579dc8
+md5_6_alpha: 3f2ko
+md5_6_alpha_upper: 3F2KO
+md5_6_upper: 579DC8
+name: Hardware Bolt 6 Mm Mm 70 Mm
+name_no_class: Bolt 6 Mm Mm 70 Mm
+name_no_size: 70 Mm
+name_no_size_short: 70 Mm
+name_no_type: 6 Mm Mm 70 Mm
+oomp_key: oomp_hardware_bolt_6_mm_mm_70_mm
+oomp_word: rat hearts apple
+oomp_word_emoji: ':rat: :hearts: :apple:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':hearts:'
+- ':apple:'
+oomp_word_list:
+- rat
+- hearts
+- apple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b70
+short_code_upper: B70
+size: 6_mm_mm
+size_capital: 6 mm mm
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6_MM_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

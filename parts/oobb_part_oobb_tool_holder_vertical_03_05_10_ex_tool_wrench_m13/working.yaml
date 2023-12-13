@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+description_main_capital: Tool Holder Vertical 03 05.10 Ex Tool Wrench M13
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOOL_HOLDER_VERTICAL_03_05_10_EX_TOOL_WRENCH_M13
+description_only_numbers: '03051013'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13/working
+id: oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id_no_class: part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id_no_size: tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id_no_type: tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13/working)<br>[Oobb
+  Part Oobb Tool Holder Vertical 03 05 10 Ex Tool Wrench M13](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13/working)<br><br>'
+md5: b9023ef5ffba4fee7d89b4ec7071d2eb
+md5_10: b9023ef5ff
+md5_10_upper: B9023EF5FF
+md5_5: b9023
+md5_5_upper: B9023
+md5_6: b9023e
+md5_6_alpha: 77vi6
+md5_6_alpha_upper: 77VI6
+md5_6_upper: B9023E
+name: Oobb Part Oobb Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_class: Part Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_size: Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_size_short: Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_type: Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+oomp_key: oomp_oobb_part_oobb_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+oomp_word: fries blush monkey
+oomp_word_emoji: ':fries: :blush: :monkey:'
+oomp_word_emoji_list:
+- ':fries:'
+- ':blush:'
+- ':monkey:'
+oomp_word_list:
+- fries
+- blush
+- monkey
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

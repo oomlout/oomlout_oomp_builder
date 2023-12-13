@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plate_15_01_15
+description_main_capital: Plate 15 01.15
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_15_01_15
+description_only_numbers: '150115'
+description_only_numbers_short: 150k
+description_or_color: 150k
+description_or_color_upper: 150K
+directory: parts/oobb_part_oobb_plate_15_01_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_15_01_15/working
+id: oobb_part_oobb_plate_15_01_15
+id_no_class: part_plate_15_01_15
+id_no_size: plate_15_01_15
+id_no_type: plate_15_01_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_plate_15_01_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_15_01_15/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_15_01_15/working)<br>[Oobb
+  Part Oobb Plate 15 01 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_15_01_15/working)<br><br>'
+markdown_short: '[oobb_part_oobb_plate_15_01_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_15_01_15/working)<br><br>'
+md5: a40a57bc8437f2d6bc77b37f2e0b7474
+md5_10: a40a57bc84
+md5_10_upper: A40A57BC84
+md5_5: a40a5
+md5_5_upper: A40A5
+md5_6: a40a57
+md5_6_alpha: 6ef6f
+md5_6_alpha_upper: 6EF6F
+md5_6_upper: A40A57
+name: Oobb Part Oobb Plate 15 01 15
+name_no_class: Part Plate 15 01 15
+name_no_size: Plate 15 01 15
+name_no_size_short: Plate 15 01 15
+name_no_type: Plate 15 01 15
+oomp_key: oomp_oobb_part_oobb_plate_15_01_15
+oomp_word: book sleepy rat
+oomp_word_emoji: ':book: :sleepy: :rat:'
+oomp_word_emoji_list:
+- ':book:'
+- ':sleepy:'
+- ':rat:'
+oomp_word_list:
+- book
+- sleepy
+- rat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

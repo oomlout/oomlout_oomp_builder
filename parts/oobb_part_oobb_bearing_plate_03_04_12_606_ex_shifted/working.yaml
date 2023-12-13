@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: bearing_plate_03_04_12_606_ex_shifted
+description_main_capital: Bearing Plate 03 04.12.606 Ex Shifted
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEARING_PLATE_03_04_12_606_EX_SHIFTED
+description_only_numbers: '030412606'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted/working
+id: oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted
+id_no_class: part_bearing_plate_03_04_12_606_ex_shifted
+id_no_size: bearing_plate_03_04_12_606_ex_shifted
+id_no_type: bearing_plate_03_04_12_606_ex_shifted
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted/working)<br>[Oobb
+  Part Oobb Bearing Plate 03 04 12 606 Ex Shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted/working)<br><br>'
+markdown_short: '[oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted/working)<br><br>'
+md5: 5c048eff49040ddc0ddd569344635fd1
+md5_10: 5c048eff49
+md5_10_upper: 5C048EFF49
+md5_5: 5c048
+md5_5_upper: 5C048
+md5_6: 5c048e
+md5_6_alpha: 3l95a
+md5_6_alpha_upper: 3L95A
+md5_6_upper: 5C048E
+name: Oobb Part Oobb Bearing Plate 03 04 12 606 Ex Shifted
+name_no_class: Part Bearing Plate 03 04 12 606 Ex Shifted
+name_no_size: Bearing Plate 03 04 12 606 Ex Shifted
+name_no_size_short: Bearing Plate 03 04 12 606 Ex Shifted
+name_no_type: Bearing Plate 03 04 12 606 Ex Shifted
+oomp_key: oomp_oobb_part_oobb_bearing_plate_03_04_12_606_ex_shifted
+oomp_word: ox wink clipboard
+oomp_word_emoji: ':ox: :wink: :clipboard:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':wink:'
+- ':clipboard:'
+oomp_word_list:
+- ox
+- wink
+- clipboard
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

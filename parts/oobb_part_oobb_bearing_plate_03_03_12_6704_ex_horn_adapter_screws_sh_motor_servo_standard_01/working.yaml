@@ -1,0 +1,92 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+description_main_capital: Bearing Plate 03 03.12.6704 Ex Horn Adapter Screws Sh Motor
+  Servo Standard 01
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEARING_PLATE_03_03_12_6704_EX_HORN_ADAPTER_SCREWS_SH_MOTOR_SERVO_STANDARD_01
+description_only_numbers: '030312670401'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01/working
+id: oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+id_no_class: part_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+id_no_size: bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+id_no_type: bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01/working)<br>[Oobb
+  Part Oobb Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo Standard
+  01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01/working)<br><br>'
+markdown_short: '[oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01/working)<br><br>'
+md5: 484298030822e6fe08bf39832b6c6e82
+md5_10: '4842980308'
+md5_10_upper: '4842980308'
+md5_5: '48429'
+md5_5_upper: '48429'
+md5_6: '484298'
+md5_6_alpha: 2ti1k
+md5_6_alpha_upper: 2TI1K
+md5_6_upper: '484298'
+name: Oobb Part Oobb Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo
+  Standard 01
+name_no_class: Part Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo
+  Standard 01
+name_no_size: Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo Standard
+  01
+name_no_size_short: Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo
+  Standard 01
+name_no_type: Bearing Plate 03 03 12 6704 Ex Horn Adapter Screws Sh Motor Servo Standard
+  01
+oomp_key: oomp_oobb_part_oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01
+oomp_word: hatched_chick sheep tennis
+oomp_word_emoji: ':hatched_chick: :sheep: :tennis:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':sheep:'
+- ':tennis:'
+oomp_word_list:
+- hatched_chick
+- sheep
+- tennis
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

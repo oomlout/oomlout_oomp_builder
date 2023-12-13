@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plate_06_01_06
+description_main_capital: Plate 06 01 06
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_06_01_06
+description_only_numbers: '060106'
+description_only_numbers_short: 60k
+description_or_color: 60k
+description_or_color_upper: 60K
+directory: parts/oobb_part_oobb_plate_06_01_06
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_06_01_06/working
+id: oobb_part_oobb_plate_06_01_06
+id_no_class: part_plate_06_01_06
+id_no_size: plate_06_01_06
+id_no_type: plate_06_01_06
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_plate_06_01_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_06_01_06/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_06_01_06/working)<br>[Oobb
+  Part Oobb Plate 06 01 06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_06_01_06/working)<br><br>'
+markdown_short: '[oobb_part_oobb_plate_06_01_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_06_01_06/working)<br><br>'
+md5: 0e924594ced7f631b4bb73fd4722d771
+md5_10: 0e924594ce
+md5_10_upper: 0E924594CE
+md5_5: 0e924
+md5_5_upper: 0E924
+md5_6: 0e9245
+md5_6_alpha: kgud
+md5_6_alpha_upper: KGUD
+md5_6_upper: 0E9245
+name: Oobb Part Oobb Plate 06 01 06
+name_no_class: Part Plate 06 01 06
+name_no_size: Plate 06 01 06
+name_no_size_short: Plate 06 01 06
+name_no_type: Plate 06 01 06
+oomp_key: oomp_oobb_part_oobb_plate_06_01_06
+oomp_word: cupid paperclip snake
+oomp_word_emoji: ':cupid: :paperclip: :snake:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':paperclip:'
+- ':snake:'
+oomp_word_list:
+- cupid
+- paperclip
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_nut_m1d5
+description_main_capital: Hardware Nut M1D5
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_NUT_M1D5
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
+directory: parts/oobb_part_oobb_hardware_nut_m1d5
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m1d5/working
+id: oobb_part_oobb_hardware_nut_m1d5
+id_no_class: part_hardware_nut_m1d5
+id_no_size: hardware_nut_m1d5
+id_no_type: hardware_nut_m1d5
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_nut_m1d5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m1d5/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m1d5/working)<br>[Oobb
+  Part Oobb Hardware Nut M1D5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m1d5/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_nut_m1d5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m1d5/working)<br><br>'
+md5: 822f212fb88127a328a7bfa71f52411b
+md5_10: 822f212fb8
+md5_10_upper: 822F212FB8
+md5_5: 822f2
+md5_5_upper: 822F2
+md5_6: 822f21
+md5_6_alpha: 52v4x
+md5_6_alpha_upper: 52V4X
+md5_6_upper: 822F21
+name: Oobb Part Oobb Hardware Nut M1D5
+name_no_class: Part Hardware Nut M1D5
+name_no_size: Hardware Nut M1D5
+name_no_size_short: Hardware Nut M1D5
+name_no_type: Hardware Nut M1D5
+oomp_key: oomp_oobb_part_oobb_hardware_nut_m1d5
+oomp_word: radio cyclone feet
+oomp_word_emoji: ':radio: :cyclone: :feet:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':cyclone:'
+- ':feet:'
+oomp_word_list:
+- radio
+- cyclone
+- feet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_05_10_15
+description_main_capital: Tray 05.10 15
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_05_10_15
+description_only_numbers: '051015'
+description_only_numbers_short: 51k
+description_or_color: 51k
+description_or_color_upper: 51K
+directory: parts/oobb_part_oobb_tray_05_10_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_15/working
+id: oobb_part_oobb_tray_05_10_15
+id_no_class: part_tray_05_10_15
+id_no_size: tray_05_10_15
+id_no_type: tray_05_10_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_05_10_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_15/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_15/working)<br>[Oobb
+  Part Oobb Tray 05 10 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_15/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_05_10_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_15/working)<br><br>'
+md5: e8848810ebbfbd59d5a12cc790bcba37
+md5_10: e8848810eb
+md5_10_upper: E8848810EB
+md5_5: e8848
+md5_5_upper: E8848
+md5_6: e88488
+md5_6_alpha: 92lxk
+md5_6_alpha_upper: 92LXK
+md5_6_upper: E88488
+name: Oobb Part Oobb Tray 05 10 15
+name_no_class: Part Tray 05 10 15
+name_no_size: Tray 05 10 15
+name_no_size_short: Tray 05 10 15
+name_no_type: Tray 05 10 15
+oomp_key: oomp_oobb_part_oobb_tray_05_10_15
+oomp_word: tram key wrench
+oomp_word_emoji: ':tram: :key: :wrench:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':key:'
+- ':wrench:'
+oomp_word_list:
+- tram
+- key
+- wrench
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

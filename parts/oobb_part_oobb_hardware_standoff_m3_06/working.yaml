@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_standoff_m3_06
+description_main_capital: Hardware Standoff M3 06
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_STANDOFF_M3_06
+description_only_numbers: '306'
+description_only_numbers_short: '306'
+description_or_color: '306'
+description_or_color_upper: '306'
+directory: parts/oobb_part_oobb_hardware_standoff_m3_06
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_standoff_m3_06/working
+id: oobb_part_oobb_hardware_standoff_m3_06
+id_no_class: part_hardware_standoff_m3_06
+id_no_size: hardware_standoff_m3_06
+id_no_type: hardware_standoff_m3_06
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_standoff_m3_06/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_standoff_m3_06/working)<br>[Oobb
+  Part Oobb Hardware Standoff M3 06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_standoff_m3_06/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_standoff_m3_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_standoff_m3_06/working)<br><br>'
+md5: 7c0b398222589a761250534c196f1400
+md5_10: 7c0b398222
+md5_10_upper: 7C0B398222
+md5_5: 7c0b3
+md5_5_upper: 7C0B3
+md5_6: 7c0b39
+md5_6_alpha: 4u8mx
+md5_6_alpha_upper: 4U8MX
+md5_6_upper: 7C0B39
+name: Oobb Part Oobb Hardware Standoff M3 06
+name_no_class: Part Hardware Standoff M3 06
+name_no_size: Hardware Standoff M3 06
+name_no_size_short: Hardware Standoff M3 06
+name_no_type: Hardware Standoff M3 06
+oomp_key: oomp_oobb_part_oobb_hardware_standoff_m3_06
+oomp_word: tv sunglasses tiger
+oomp_word_emoji: ':tv: :sunglasses: :tiger:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':sunglasses:'
+- ':tiger:'
+oomp_word_list:
+- tv
+- sunglasses
+- tiger
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

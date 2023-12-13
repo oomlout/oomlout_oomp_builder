@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: bunting_alphabet_07_01_ex_V
+description_main_capital: Bunting Alphabet 07 01 Ex V
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BUNTING_ALPHABET_07_01_EX_V
+description_only_numbers: '0701'
+description_only_numbers_short: '701'
+description_or_color: '701'
+description_or_color_upper: '701'
+directory: parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V/working
+id: oobb_part_oobb_bunting_alphabet_07_01_ex_V
+id_no_class: part_bunting_alphabet_07_01_ex_V
+id_no_size: bunting_alphabet_07_01_ex_V
+id_no_type: bunting_alphabet_07_01_ex_V
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_bunting_alphabet_07_01_ex_V](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V/working)<br>[Oobb
+  Part Oobb Bunting Alphabet 07 01 Ex V](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V/working)<br><br>'
+markdown_short: '[oobb_part_oobb_bunting_alphabet_07_01_ex_V](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_V/working)<br><br>'
+md5: 8af0dfbda6cf20d890bf3f191de20945
+md5_10: 8af0dfbda6
+md5_10_upper: 8AF0DFBDA6
+md5_5: 8af0d
+md5_5_upper: 8AF0D
+md5_6: 8af0df
+md5_6_alpha: 5f5y7
+md5_6_alpha_upper: 5F5Y7
+md5_6_upper: 8AF0DF
+name: Oobb Part Oobb Bunting Alphabet 07 01 Ex V
+name_no_class: Part Bunting Alphabet 07 01 Ex V
+name_no_size: Bunting Alphabet 07 01 Ex V
+name_no_size_short: Bunting Alphabet 07 01 Ex V
+name_no_type: Bunting Alphabet 07 01 Ex V
+oomp_key: oomp_oobb_part_oobb_bunting_alphabet_07_01_ex_V
+oomp_word: envelope train fountain
+oomp_word_emoji: ':envelope: :train: :fountain:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':train:'
+- ':fountain:'
+oomp_word_list:
+- envelope
+- train
+- fountain
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

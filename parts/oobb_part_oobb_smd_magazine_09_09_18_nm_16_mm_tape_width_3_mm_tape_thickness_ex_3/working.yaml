@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+description_main_capital: Smd Magazine 09 09.18 Nm 16 mm Tape Width 3 mm Tape Thickness
+  Ex 3
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SMD_MAGAZINE_09_09_18_NM_16_MM_TAPE_WIDTH_3_MM_TAPE_THICKNESS_EX_3
+description_only_numbers: 0909181633
+description_only_numbers_short: 9M
+description_or_color: 9M
+description_or_color_upper: 9M
+directory: parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3/working
+id: oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_size: smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br>[Oobb
+  Part Oobb Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br><br>'
+markdown_short: '[oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br><br>'
+md5: f63da7d8da8bf8dcb9ca6de65570a67e
+md5_10: f63da7d8da
+md5_10_upper: F63DA7D8DA
+md5_5: f63da
+md5_5_upper: F63DA
+md5_6: f63da7
+md5_6_alpha: 9lvvr
+md5_6_alpha_upper: 9LVVR
+md5_6_upper: F63DA7
+name: Oobb Part Oobb Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_class: Part Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_size: Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_size_short: Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_type: Smd Magazine 09 09 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_oobb_smd_magazine_09_09_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: five cow guitar
+oomp_word_emoji: ':five: :cow: :guitar:'
+oomp_word_emoji_list:
+- ':five:'
+- ':cow:'
+- ':guitar:'
+oomp_word_list:
+- five
+- cow
+- guitar
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

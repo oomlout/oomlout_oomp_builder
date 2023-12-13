@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_vertical_07_06_18
+description_main_capital: Tray Vertical 07 06.18
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_VERTICAL_07_06_18
+description_only_numbers: 070618
+description_only_numbers_short: 71k
+description_or_color: 71k
+description_or_color_upper: 71K
+directory: parts/oobb_part_oobb_tray_vertical_07_06_18
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_07_06_18/working
+id: oobb_part_oobb_tray_vertical_07_06_18
+id_no_class: part_tray_vertical_07_06_18
+id_no_size: tray_vertical_07_06_18
+id_no_type: tray_vertical_07_06_18
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_vertical_07_06_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_07_06_18/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_07_06_18/working)<br>[Oobb
+  Part Oobb Tray Vertical 07 06 18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_07_06_18/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_vertical_07_06_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_07_06_18/working)<br><br>'
+md5: 88b5850d8c416b1d81b63639a9b6ec82
+md5_10: 88b5850d8c
+md5_10_upper: 88B5850D8C
+md5_5: 88b58
+md5_5_upper: 88B58
+md5_6: 88b585
+md5_6_alpha: 5c139
+md5_6_alpha_upper: 5C139
+md5_6_upper: 88B585
+name: Oobb Part Oobb Tray Vertical 07 06 18
+name_no_class: Part Tray Vertical 07 06 18
+name_no_size: Tray Vertical 07 06 18
+name_no_size_short: Tray Vertical 07 06 18
+name_no_type: Tray Vertical 07 06 18
+oomp_key: oomp_oobb_part_oobb_tray_vertical_07_06_18
+oomp_word: wrench tea bulb
+oomp_word_emoji: ':wrench: :tea: :bulb:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':tea:'
+- ':bulb:'
+oomp_word_list:
+- wrench
+- tea
+- bulb
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 80_mm_id_170_mm_od_68.26_mm_depth
+description_main_capital: 80 mm Id 170 mm Od 68.26 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_MM_ID_170_MM_OD_68.26_MM_DEPTH
+description_only_numbers: '801706826'
+description_only_numbers_short: 8M
+description_or_color: 8M
+description_or_color_upper: 8M
+directory: parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth/working
+id: hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth
+id_no_class: bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth
+id_no_size: 80_mm_id_170_mm_od_68.26_mm_depth
+id_no_type: 5316_80_mm_id_170_mm_od_68.26_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth/working)<br>[Hardware
+  Bearing 5300 Series 5316 80 Mm Id 170 Mm Od 68.26 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth/working)<br><br>'
+md5: d58f7ab41c0007daf9a4875b64fa2f0c
+md5_10: d58f7ab41c
+md5_10_upper: D58F7AB41C
+md5_5: d58f7
+md5_5_upper: D58F7
+md5_6: d58f7a
+md5_6_alpha: 8bzay
+md5_6_alpha_upper: 8BZAY
+md5_6_upper: D58F7A
+name: Hardware Bearing 5300 Series 5316 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_class: Bearing 5300 Series 5316 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_size: 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_size_short: 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_type: 5316 80 Mm Id 170 Mm Od 68.26 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5316_80_mm_id_170_mm_od_68.26_mm_depth
+oomp_word: house calendar camera
+oomp_word_emoji: ':house: :calendar: :camera:'
+oomp_word_emoji_list:
+- ':house:'
+- ':calendar:'
+- ':camera:'
+oomp_word_list:
+- house
+- calendar
+- camera
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '5316'
+size_capital: '5316'
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5316'
+size_only_numbers_no_zeros: '5316'
+size_upper: '5316'
+type: bearing_5300_series
+type_capital: Bearing 5300 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_5300_SERIES

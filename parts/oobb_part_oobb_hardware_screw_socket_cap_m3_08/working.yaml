@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_screw_socket_cap_m3_08
+description_main_capital: Hardware Screw Socket Cap M3 08
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_SCREW_SOCKET_CAP_M3_08
+description_only_numbers: '308'
+description_only_numbers_short: '308'
+description_or_color: '308'
+description_or_color_upper: '308'
+directory: parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08/working
+id: oobb_part_oobb_hardware_screw_socket_cap_m3_08
+id_no_class: part_hardware_screw_socket_cap_m3_08
+id_no_size: hardware_screw_socket_cap_m3_08
+id_no_type: hardware_screw_socket_cap_m3_08
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_screw_socket_cap_m3_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08/working)<br>[Oobb
+  Part Oobb Hardware Screw Socket Cap M3 08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_screw_socket_cap_m3_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_screw_socket_cap_m3_08/working)<br><br>'
+md5: e8ffa053769631b30941f2b44c11dec1
+md5_10: e8ffa05376
+md5_10_upper: E8FFA05376
+md5_5: e8ffa
+md5_5_upper: E8FFA
+md5_6: e8ffa0
+md5_6_alpha: 93a8w
+md5_6_alpha_upper: 93A8W
+md5_6_upper: E8FFA0
+name: Oobb Part Oobb Hardware Screw Socket Cap M3 08
+name_no_class: Part Hardware Screw Socket Cap M3 08
+name_no_size: Hardware Screw Socket Cap M3 08
+name_no_size_short: Hardware Screw Socket Cap M3 08
+name_no_type: Hardware Screw Socket Cap M3 08
+oomp_key: oomp_oobb_part_oobb_hardware_screw_socket_cap_m3_08
+oomp_word: tram trident ring
+oomp_word_emoji: ':tram: :trident: :ring:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':trident:'
+- ':ring:'
+oomp_word_list:
+- tram
+- trident
+- ring
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

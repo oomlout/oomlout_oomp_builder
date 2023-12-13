@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: bearing_plate_03_03_12_6705_sh_motor_tt_01
+description_main_capital: Bearing Plate 03 03.12.6705 Sh Motor Tt 01
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEARING_PLATE_03_03_12_6705_SH_MOTOR_TT_01
+description_only_numbers: '030312670501'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01/working
+id: oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01
+id_no_class: part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+id_no_size: bearing_plate_03_03_12_6705_sh_motor_tt_01
+id_no_type: bearing_plate_03_03_12_6705_sh_motor_tt_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01/working)<br>[Oobb
+  Part Oobb Bearing Plate 03 03 12 6705 Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01/working)<br><br>'
+markdown_short: '[oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01/working)<br><br>'
+md5: c5cc3bccd06d38ea5f1f4fdf787a1b42
+md5_10: c5cc3bccd0
+md5_10_upper: C5CC3BCCD0
+md5_5: c5cc3
+md5_5_upper: C5CC3
+md5_6: c5cc3b
+md5_6_alpha: 7pu7v
+md5_6_alpha_upper: 7PU7V
+md5_6_upper: C5CC3B
+name: Oobb Part Oobb Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_class: Part Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_size: Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_size_short: Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_type: Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+oomp_key: oomp_oobb_part_oobb_bearing_plate_03_03_12_6705_sh_motor_tt_01
+oomp_word: candy watermelon bear
+oomp_word_emoji: ':candy: :watermelon: :bear:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':watermelon:'
+- ':bear:'
+oomp_word_list:
+- candy
+- watermelon
+- bear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

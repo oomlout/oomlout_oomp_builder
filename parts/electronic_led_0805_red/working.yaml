@@ -1,0 +1,108 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_led_0805_red
+distributors: []
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric
+  note: source footprint kicad_led_smd_led_0805_2012metric
+  oomp_key: oomp_kicad_led_smd_led_0805_2012metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working
+id: electronic_led_0805_red
+id_no_class: led_0805_red
+id_no_size: red
+id_no_type: 0805_red
+kicad_reference: L
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[l8r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[Electronic
+  Led 0805 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br>'
+markdown_short: '[electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br>'
+md5: fb973f60131a78a8c7072cbdb940a30b
+md5_10: fb973f6013
+md5_10_upper: FB973F6013
+md5_5: fb973
+md5_5_upper: FB973
+md5_6: fb973f
+md5_6_alpha: 9tef3
+md5_6_alpha_upper: 9TEF3
+md5_6_upper: FB973F
+name: Electronic Led 0805 Red
+name_no_class: Led 0805 Red
+name_no_size: Red
+name_no_size_short: Red
+name_no_type: 0805 Red
+oomp_key: oomp_electronic_led_0805_red
+oomp_word: ok baseball horse
+oomp_word_emoji: ':ok: :baseball: :horse:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':baseball:'
+- ':horse:'
+oomp_word_list:
+- ok
+- baseball
+- horse
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l8r
+short_code_upper: L8R
+short_name: 0805 Red Led
+size: 0805
+size_capital: 0805
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: 0805
+size_only_numbers_no_zeros: '85'
+size_upper: 0805
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

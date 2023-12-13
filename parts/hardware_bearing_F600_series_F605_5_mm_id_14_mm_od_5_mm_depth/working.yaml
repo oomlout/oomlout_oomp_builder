@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_mm_id_14_mm_od_5_mm_depth
+description_main_capital: 5 mm Id 14 mm Od 5 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_MM_ID_14_MM_OD_5_MM_DEPTH
+description_only_numbers: '5145'
+description_only_numbers_short: 5k1
+description_or_color: 5k1
+description_or_color_upper: 5K1
+directory: parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth/working
+id: hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth
+id_no_size: 5_mm_id_14_mm_od_5_mm_depth
+id_no_type: F605_5_mm_id_14_mm_od_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth/working)<br>[Hardware
+  Bearing F600 Series F605 5 Mm Id 14 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth/working)<br><br>'
+md5: 0fda74c405ab214797f55561b7e72d33
+md5_10: 0fda74c405
+md5_10_upper: 0FDA74C405
+md5_5: 0fda7
+md5_5_upper: 0FDA7
+md5_6: 0fda74
+md5_6_alpha: m9o4
+md5_6_alpha_upper: M9O4
+md5_6_upper: 0FDA74
+name: Hardware Bearing F600 Series F605 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F605 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_size: 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_size_short: 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_type: F605 5 Mm Id 14 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F605_5_mm_id_14_mm_od_5_mm_depth
+oomp_word: sparkles hotel fireworks
+oomp_word_emoji: ':sparkles: :hotel: :fireworks:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':hotel:'
+- ':fireworks:'
+oomp_word_list:
+- sparkles
+- hotel
+- fireworks
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: F605
+size_capital: F605
+size_first_letter: F
+size_first_letter_upper: F
+size_only_numbers: '605'
+size_only_numbers_no_zeros: '65'
+size_upper: F605
+type: bearing_F600_series
+type_capital: Bearing F600 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_F600_SERIES

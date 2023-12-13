@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 20_mm_id_47_mm_od_20.6_mm_depth
+description_main_capital: 20 mm Id 47 mm Od 20.6 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 20_MM_ID_47_MM_OD_20.6_MM_DEPTH
+description_only_numbers: '2047206'
+description_only_numbers_short: 2M
+description_or_color: 2M
+description_or_color_upper: 2M
+directory: parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth/working
+id: hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_class: bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_size: 20_mm_id_47_mm_od_20.6_mm_depth
+id_no_type: 5204_20_mm_id_47_mm_od_20.6_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth/working)<br>[Hardware
+  Bearing 5200 Series 5204 20 Mm Id 47 Mm Od 20.6 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth/working)<br><br>'
+md5: 3125a468117405583176c6ea37ab3315
+md5_10: 3125a46811
+md5_10_upper: 3125A46811
+md5_5: 3125a
+md5_5_upper: 3125A
+md5_6: 3125a4
+md5_6_alpha: 1x19g
+md5_6_alpha_upper: 1X19G
+md5_6_upper: 3125A4
+name: Hardware Bearing 5200 Series 5204 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_class: Bearing 5200 Series 5204 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_size: 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_size_short: 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_type: 5204 20 Mm Id 47 Mm Od 20.6 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5204_20_mm_id_47_mm_od_20.6_mm_depth
+oomp_word: ocean ear book
+oomp_word_emoji: ':ocean: :ear: :book:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':ear:'
+- ':book:'
+oomp_word_list:
+- ocean
+- ear
+- book
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '5204'
+size_capital: '5204'
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5204'
+size_only_numbers_no_zeros: '524'
+size_upper: '5204'
+type: bearing_5200_series
+type_capital: Bearing 5200 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_5200_SERIES

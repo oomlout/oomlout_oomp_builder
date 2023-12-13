@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: holder_05_03_03_ex_motor_stepper_nema_17_flat
+description_main_capital: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HOLDER_05_03_03_EX_MOTOR_STEPPER_NEMA_17_FLAT
+description_only_numbers: '05030317'
+description_only_numbers_short: 5M
+description_or_color: 5M
+description_or_color_upper: 5M
+directory: parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat/working
+id: oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat
+id_no_class: part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+id_no_size: holder_05_03_03_ex_motor_stepper_nema_17_flat
+id_no_type: holder_05_03_03_ex_motor_stepper_nema_17_flat
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat/working)<br>[Oobb
+  Part Oobb Holder 05 03 03 Ex Motor Stepper Nema 17 Flat](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat/working)<br><br>'
+markdown_short: '[oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat/working)<br><br>'
+md5: 354a68e7a02c009d95f8f1214e9375c9
+md5_10: 354a68e7a0
+md5_10_upper: 354A68E7A0
+md5_5: 354a6
+md5_5_upper: 354A6
+md5_6: 354a68
+md5_6_alpha: 22uso
+md5_6_alpha_upper: 22USO
+md5_6_upper: 354A68
+name: Oobb Part Oobb Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_class: Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_size: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_size_short: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_type: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+oomp_key: oomp_oobb_part_oobb_holder_05_03_03_ex_motor_stepper_nema_17_flat
+oomp_word: hamster chicken mushroom
+oomp_word_emoji: ':hamster: :chicken: :mushroom:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':chicken:'
+- ':mushroom:'
+oomp_word_list:
+- hamster
+- chicken
+- mushroom
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

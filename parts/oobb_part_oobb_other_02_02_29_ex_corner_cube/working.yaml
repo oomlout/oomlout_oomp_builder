@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: other_02_02_29_ex_corner_cube
+description_main_capital: Other 02 02.29 Ex Corner Cube
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OTHER_02_02_29_EX_CORNER_CUBE
+description_only_numbers: 020229
+description_only_numbers_short: 20k
+description_or_color: 20k
+description_or_color_upper: 20K
+directory: parts/oobb_part_oobb_other_02_02_29_ex_corner_cube
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_02_02_29_ex_corner_cube/working
+id: oobb_part_oobb_other_02_02_29_ex_corner_cube
+id_no_class: part_other_02_02_29_ex_corner_cube
+id_no_size: other_02_02_29_ex_corner_cube
+id_no_type: other_02_02_29_ex_corner_cube
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_other_02_02_29_ex_corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_02_02_29_ex_corner_cube/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_02_02_29_ex_corner_cube/working)<br>[Oobb
+  Part Oobb Other 02 02 29 Ex Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_02_02_29_ex_corner_cube/working)<br><br>'
+markdown_short: '[oobb_part_oobb_other_02_02_29_ex_corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_02_02_29_ex_corner_cube/working)<br><br>'
+md5: 623512325d18e4ce8b0551c57d5d454c
+md5_10: 623512325d
+md5_10_upper: 623512325D
+md5_5: '62351'
+md5_5_upper: '62351'
+md5_6: '623512'
+md5_6_alpha: 3ty4y
+md5_6_alpha_upper: 3TY4Y
+md5_6_upper: '623512'
+name: Oobb Part Oobb Other 02 02 29 Ex Corner Cube
+name_no_class: Part Other 02 02 29 Ex Corner Cube
+name_no_size: Other 02 02 29 Ex Corner Cube
+name_no_size_short: Other 02 02 29 Ex Corner Cube
+name_no_type: Other 02 02 29 Ex Corner Cube
+oomp_key: oomp_oobb_part_oobb_other_02_02_29_ex_corner_cube
+oomp_word: tulip hamster anger
+oomp_word_emoji: ':tulip: :hamster: :anger:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':hamster:'
+- ':anger:'
+oomp_word_list:
+- tulip
+- hamster
+- anger
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: gear_03_06_ex_24_teeth_sh_motor_n20
+description_main_capital: Gear 03 06 Ex 24 Teeth Sh Motor N20
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GEAR_03_06_EX_24_TEETH_SH_MOTOR_N20
+description_only_numbers: '03062420'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20/working
+id: oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20
+id_no_class: part_gear_03_06_ex_24_teeth_sh_motor_n20
+id_no_size: gear_03_06_ex_24_teeth_sh_motor_n20
+id_no_type: gear_03_06_ex_24_teeth_sh_motor_n20
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20/working)<br>[Oobb
+  Part Oobb Gear 03 06 Ex 24 Teeth Sh Motor N20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20/working)<br><br>'
+markdown_short: '[oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20/working)<br><br>'
+md5: d37047af9686f1f2a588e2501781ff8b
+md5_10: d37047af96
+md5_10_upper: D37047AF96
+md5_5: d3704
+md5_5_upper: D3704
+md5_6: d37047
+md5_6_alpha: '89007'
+md5_6_alpha_upper: '89007'
+md5_6_upper: D37047
+name: Oobb Part Oobb Gear 03 06 Ex 24 Teeth Sh Motor N20
+name_no_class: Part Gear 03 06 Ex 24 Teeth Sh Motor N20
+name_no_size: Gear 03 06 Ex 24 Teeth Sh Motor N20
+name_no_size_short: Gear 03 06 Ex 24 Teeth Sh Motor N20
+name_no_type: Gear 03 06 Ex 24 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_oobb_gear_03_06_ex_24_teeth_sh_motor_n20
+oomp_word: tomato squirrel baby_chick
+oomp_word_emoji: ':tomato: :squirrel: :baby_chick:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':squirrel:'
+- ':baby_chick:'
+oomp_word_list:
+- tomato
+- squirrel
+- baby_chick
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

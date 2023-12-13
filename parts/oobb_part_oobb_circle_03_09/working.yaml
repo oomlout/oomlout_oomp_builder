@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: circle_03_09
+description_main_capital: Circle 03 09
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CIRCLE_03_09
+description_only_numbers: 0309
+description_only_numbers_short: '309'
+description_or_color: '309'
+description_or_color_upper: '309'
+directory: parts/oobb_part_oobb_circle_03_09
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_09/working
+id: oobb_part_oobb_circle_03_09
+id_no_class: part_circle_03_09
+id_no_size: circle_03_09
+id_no_type: circle_03_09
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_circle_03_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_09/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_09/working)<br>[Oobb
+  Part Oobb Circle 03 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_09/working)<br><br>'
+markdown_short: '[oobb_part_oobb_circle_03_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_09/working)<br><br>'
+md5: 334eb99e31346f957c7944d3f21c675f
+md5_10: 334eb99e31
+md5_10_upper: 334EB99E31
+md5_5: 334eb
+md5_5_upper: 334EB
+md5_6: 334eb9
+md5_6_alpha: 202ih
+md5_6_alpha_upper: 202IH
+md5_6_upper: 334EB9
+name: Oobb Part Oobb Circle 03 09
+name_no_class: Part Circle 03 09
+name_no_size: Circle 03 09
+name_no_size_short: Circle 03 09
+name_no_type: Circle 03 09
+oomp_key: oomp_oobb_part_oobb_circle_03_09
+oomp_word: dog honeybee fries
+oomp_word_emoji: ':dog: :honeybee: :fries:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':honeybee:'
+- ':fries:'
+oomp_word_list:
+- dog
+- honeybee
+- fries
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_threaded_insert_m3
+description_main_capital: Hardware Threaded Insert M3
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_THREADED_INSERT_M3
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
+directory: parts/oobb_part_oobb_hardware_threaded_insert_m3
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_threaded_insert_m3/working
+id: oobb_part_oobb_hardware_threaded_insert_m3
+id_no_class: part_hardware_threaded_insert_m3
+id_no_size: hardware_threaded_insert_m3
+id_no_type: hardware_threaded_insert_m3
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_threaded_insert_m3/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_threaded_insert_m3/working)<br>[Oobb
+  Part Oobb Hardware Threaded Insert M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_threaded_insert_m3/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_threaded_insert_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_threaded_insert_m3/working)<br><br>'
+md5: de26b697a872cdbfb435e50b7bc6f56b
+md5_10: de26b697a8
+md5_10_upper: DE26B697A8
+md5_5: de26b
+md5_5_upper: DE26B
+md5_6: de26b6
+md5_6_alpha: 8o1py
+md5_6_alpha_upper: 8O1PY
+md5_6_upper: DE26B6
+name: Oobb Part Oobb Hardware Threaded Insert M3
+name_no_class: Part Hardware Threaded Insert M3
+name_no_size: Hardware Threaded Insert M3
+name_no_size_short: Hardware Threaded Insert M3
+name_no_type: Hardware Threaded Insert M3
+oomp_key: oomp_oobb_part_oobb_hardware_threaded_insert_m3
+oomp_word: rainbow eyes beer
+oomp_word_emoji: ':rainbow: :eyes: :beer:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':eyes:'
+- ':beer:'
+oomp_word_list:
+- rainbow
+- eyes
+- beer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

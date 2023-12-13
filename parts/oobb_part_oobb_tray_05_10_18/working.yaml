@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_05_10_18
+description_main_capital: Tray 05.10 18
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_05_10_18
+description_only_numbers: 051018
+description_only_numbers_short: 51k
+description_or_color: 51k
+description_or_color_upper: 51K
+directory: parts/oobb_part_oobb_tray_05_10_18
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_18/working
+id: oobb_part_oobb_tray_05_10_18
+id_no_class: part_tray_05_10_18
+id_no_size: tray_05_10_18
+id_no_type: tray_05_10_18
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_05_10_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_18/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_18/working)<br>[Oobb
+  Part Oobb Tray 05 10 18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_18/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_05_10_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_05_10_18/working)<br><br>'
+md5: 29d2d7ef677d9c9ceda7110126fbcaab
+md5_10: 29d2d7ef67
+md5_10_upper: 29D2D7EF67
+md5_5: 29d2d
+md5_5_upper: 29D2D
+md5_6: 29d2d7
+md5_6_alpha: 1mqxj
+md5_6_alpha_upper: 1MQXJ
+md5_6_upper: 29D2D7
+name: Oobb Part Oobb Tray 05 10 18
+name_no_class: Part Tray 05 10 18
+name_no_size: Tray 05 10 18
+name_no_size_short: Tray 05 10 18
+name_no_type: Tray 05 10 18
+oomp_key: oomp_oobb_part_oobb_tray_05_10_18
+oomp_word: sunny pineapple office
+oomp_word_emoji: ':sunny: :pineapple: :office:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':pineapple:'
+- ':office:'
+oomp_word_list:
+- sunny
+- pineapple
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

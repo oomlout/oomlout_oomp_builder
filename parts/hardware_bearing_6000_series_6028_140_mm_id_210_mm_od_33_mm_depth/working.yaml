@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 140_mm_id_210_mm_od_33_mm_depth
+description_main_capital: 140 mm Id 210 mm Od 33 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 140_MM_ID_210_MM_OD_33_MM_DEPTH
+description_only_numbers: '14021033'
+description_only_numbers_short: 1M4
+description_or_color: 1M4
+description_or_color_upper: 1M4
+directory: parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth/working
+id: hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth
+id_no_class: bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth
+id_no_size: 140_mm_id_210_mm_od_33_mm_depth
+id_no_type: 6028_140_mm_id_210_mm_od_33_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth/working)<br>[Hardware
+  Bearing 6000 Series 6028 140 Mm Id 210 Mm Od 33 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth/working)<br><br>'
+md5: b8b80fc762f35ef2d575d62dbb2f5b95
+md5_10: b8b80fc762
+md5_10_upper: B8B80FC762
+md5_5: b8b80
+md5_5_upper: B8B80
+md5_6: b8b80f
+md5_6_alpha: 77gun
+md5_6_alpha_upper: 77GUN
+md5_6_upper: B8B80F
+name: Hardware Bearing 6000 Series 6028 140 Mm Id 210 Mm Od 33 Mm Depth
+name_no_class: Bearing 6000 Series 6028 140 Mm Id 210 Mm Od 33 Mm Depth
+name_no_size: 140 Mm Id 210 Mm Od 33 Mm Depth
+name_no_size_short: 140 Mm Id 210 Mm Od 33 Mm Depth
+name_no_type: 6028 140 Mm Id 210 Mm Od 33 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6028_140_mm_id_210_mm_od_33_mm_depth
+oomp_word: hamburger hamburger sparkles
+oomp_word_emoji: ':hamburger: :hamburger: :sparkles:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':hamburger:'
+- ':sparkles:'
+oomp_word_list:
+- hamburger
+- hamburger
+- sparkles
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '6028'
+size_capital: '6028'
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6028'
+size_only_numbers_no_zeros: '628'
+size_upper: '6028'
+type: bearing_6000_series
+type_capital: Bearing 6000 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_6000_SERIES

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_nut_m6
+description_main_capital: Hardware Nut M6
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_NUT_M6
+description_only_numbers: '6'
+description_only_numbers_short: '6'
+description_or_color: '6'
+description_or_color_upper: '6'
+directory: parts/oobb_part_oobb_hardware_nut_m6
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m6/working
+id: oobb_part_oobb_hardware_nut_m6
+id_no_class: part_hardware_nut_m6
+id_no_size: hardware_nut_m6
+id_no_type: hardware_nut_m6
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m6/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m6/working)<br>[Oobb
+  Part Oobb Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m6/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_nut_m6/working)<br><br>'
+md5: 6c6bffbb73aa4cbeb76a76b2ac8ac034
+md5_10: 6c6bffbb73
+md5_10_upper: 6C6BFFBB73
+md5_5: 6c6bf
+md5_5_upper: 6C6BF
+md5_6: 6c6bff
+md5_6_alpha: 48anz
+md5_6_alpha_upper: 48ANZ
+md5_6_upper: 6C6BFF
+name: Oobb Part Oobb Hardware Nut M6
+name_no_class: Part Hardware Nut M6
+name_no_size: Hardware Nut M6
+name_no_size_short: Hardware Nut M6
+name_no_type: Hardware Nut M6
+oomp_key: oomp_oobb_part_oobb_hardware_nut_m6
+oomp_word: blossom chestnut trident
+oomp_word_emoji: ':blossom: :chestnut: :trident:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':chestnut:'
+- ':trident:'
+oomp_word_list:
+- blossom
+- chestnut
+- trident
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

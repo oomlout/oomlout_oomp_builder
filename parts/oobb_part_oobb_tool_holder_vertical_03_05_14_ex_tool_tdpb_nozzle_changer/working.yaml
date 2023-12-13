@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+description_main_capital: Tool Holder Vertical 03 05.14 Ex Tool Tdpb Nozzle Changer
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOOL_HOLDER_VERTICAL_03_05_14_EX_TOOL_TDPB_NOZZLE_CHANGER
+description_only_numbers: '030514'
+description_only_numbers_short: 31k
+description_or_color: 31k
+description_or_color_upper: 31K
+directory: parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer/working
+id: oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_class: part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_size: tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_type: tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer/working)<br>[Oobb
+  Part Oobb Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer/working)<br><br>'
+md5: 12ba0707a71fd2046b617e7f9733a11d
+md5_10: 12ba0707a7
+md5_10_upper: 12BA0707A7
+md5_5: 12ba0
+md5_5_upper: 12BA0
+md5_6: 12ba07
+md5_6_alpha: qayv
+md5_6_alpha_upper: QAYV
+md5_6_upper: 12BA07
+name: Oobb Part Oobb Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_class: Part Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_size: Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_size_short: Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_type: Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+oomp_key: oomp_oobb_part_oobb_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+oomp_word: anger spaghetti cry
+oomp_word_emoji: ':anger: :spaghetti: :cry:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':spaghetti:'
+- ':cry:'
+oomp_word_list:
+- anger
+- spaghetti
+- cry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

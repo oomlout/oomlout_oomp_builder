@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: jig_tray_03_03_05_05_06
+description_main_capital: Jig Tray 03 03 05 05 06
+description_main_first_letter: j
+description_main_first_letter_upper: J
+description_main_upper: JIG_TRAY_03_03_05_05_06
+description_only_numbers: '0303050506'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_jig_tray_03_03_05_05_06
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_jig_tray_03_03_05_05_06/working
+id: oobb_part_oobb_jig_tray_03_03_05_05_06
+id_no_class: part_jig_tray_03_03_05_05_06
+id_no_size: jig_tray_03_03_05_05_06
+id_no_type: jig_tray_03_03_05_05_06
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_jig_tray_03_03_05_05_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_jig_tray_03_03_05_05_06/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_jig_tray_03_03_05_05_06/working)<br>[Oobb
+  Part Oobb Jig Tray 03 03 05 05 06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_jig_tray_03_03_05_05_06/working)<br><br>'
+markdown_short: '[oobb_part_oobb_jig_tray_03_03_05_05_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_jig_tray_03_03_05_05_06/working)<br><br>'
+md5: 4bb48a8fe8b4f25b39e918f4bdd246c7
+md5_10: 4bb48a8fe8
+md5_10_upper: 4BB48A8FE8
+md5_5: 4bb48
+md5_5_upper: 4BB48
+md5_6: 4bb48a
+md5_6_alpha: 2yc96
+md5_6_alpha_upper: 2YC96
+md5_6_upper: 4BB48A
+name: Oobb Part Oobb Jig Tray 03 03 05 05 06
+name_no_class: Part Jig Tray 03 03 05 05 06
+name_no_size: Jig Tray 03 03 05 05 06
+name_no_size_short: Jig Tray 03 03 05 05 06
+name_no_type: Jig Tray 03 03 05 05 06
+oomp_key: oomp_oobb_part_oobb_jig_tray_03_03_05_05_06
+oomp_word: penguin coffee envelope
+oomp_word_emoji: ':penguin: :coffee: :envelope:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':coffee:'
+- ':envelope:'
+oomp_word_list:
+- penguin
+- coffee
+- envelope
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

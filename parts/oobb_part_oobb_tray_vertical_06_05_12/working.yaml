@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_vertical_06_05_12
+description_main_capital: Tray Vertical 06 05.12
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_VERTICAL_06_05_12
+description_only_numbers: '060512'
+description_only_numbers_short: 61k
+description_or_color: 61k
+description_or_color_upper: 61K
+directory: parts/oobb_part_oobb_tray_vertical_06_05_12
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_06_05_12/working
+id: oobb_part_oobb_tray_vertical_06_05_12
+id_no_class: part_tray_vertical_06_05_12
+id_no_size: tray_vertical_06_05_12
+id_no_type: tray_vertical_06_05_12
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_vertical_06_05_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_06_05_12/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_06_05_12/working)<br>[Oobb
+  Part Oobb Tray Vertical 06 05 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_06_05_12/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_vertical_06_05_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_06_05_12/working)<br><br>'
+md5: b548a54391f0ffbb6567f229309fa6ec
+md5_10: b548a54391
+md5_10_upper: B548A54391
+md5_5: b548a
+md5_5_upper: B548A
+md5_6: b548a5
+md5_6_alpha: 72n51
+md5_6_alpha_upper: 72N51
+md5_6_upper: B548A5
+name: Oobb Part Oobb Tray Vertical 06 05 12
+name_no_class: Part Tray Vertical 06 05 12
+name_no_size: Tray Vertical 06 05 12
+name_no_size_short: Tray Vertical 06 05 12
+name_no_type: Tray Vertical 06 05 12
+oomp_key: oomp_oobb_part_oobb_tray_vertical_06_05_12
+oomp_word: tea hatched_chick headphones
+oomp_word_emoji: ':tea: :hatched_chick: :headphones:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':hatched_chick:'
+- ':headphones:'
+oomp_word_list:
+- tea
+- hatched_chick
+- headphones
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

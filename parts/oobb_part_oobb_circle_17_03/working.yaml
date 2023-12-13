@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: circle_17_03
+description_main_capital: Circle 17 03
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CIRCLE_17_03
+description_only_numbers: '1703'
+description_only_numbers_short: 1k7
+description_or_color: 1k7
+description_or_color_upper: 1K7
+directory: parts/oobb_part_oobb_circle_17_03
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_17_03/working
+id: oobb_part_oobb_circle_17_03
+id_no_class: part_circle_17_03
+id_no_size: circle_17_03
+id_no_type: circle_17_03
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_circle_17_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_17_03/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_17_03/working)<br>[Oobb
+  Part Oobb Circle 17 03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_17_03/working)<br><br>'
+markdown_short: '[oobb_part_oobb_circle_17_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_17_03/working)<br><br>'
+md5: 82e28327e52b7cf1a7de8bbc16600cd6
+md5_10: 82e28327e5
+md5_10_upper: 82E28327E5
+md5_5: 82e28
+md5_5_upper: 82E28
+md5_6: 82e283
+md5_6_alpha: 53ukj
+md5_6_alpha_upper: 53UKJ
+md5_6_upper: 82E283
+name: Oobb Part Oobb Circle 17 03
+name_no_class: Part Circle 17 03
+name_no_size: Circle 17 03
+name_no_size_short: Circle 17 03
+name_no_type: Circle 17 03
+oomp_key: oomp_oobb_part_oobb_circle_17_03
+oomp_word: radio sailboat lock
+oomp_word_emoji: ':radio: :sailboat: :lock:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':sailboat:'
+- ':lock:'
+oomp_word_list:
+- radio
+- sailboat
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

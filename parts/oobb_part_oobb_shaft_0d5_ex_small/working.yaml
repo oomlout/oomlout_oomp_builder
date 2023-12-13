@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: shaft_0d5_ex_small
+description_main_capital: Shaft 0D5 Ex Small
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SHAFT_0D5_EX_SMALL
+description_only_numbers: '05'
+description_only_numbers_short: '5'
+description_or_color: '5'
+description_or_color_upper: '5'
+directory: parts/oobb_part_oobb_shaft_0d5_ex_small
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_0d5_ex_small/working
+id: oobb_part_oobb_shaft_0d5_ex_small
+id_no_class: part_shaft_0d5_ex_small
+id_no_size: shaft_0d5_ex_small
+id_no_type: shaft_0d5_ex_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_shaft_0d5_ex_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_0d5_ex_small/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_0d5_ex_small/working)<br>[Oobb
+  Part Oobb Shaft 0D5 Ex Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_0d5_ex_small/working)<br><br>'
+markdown_short: '[oobb_part_oobb_shaft_0d5_ex_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_shaft_0d5_ex_small/working)<br><br>'
+md5: 3230a9fb5a6e75005a423ac5cd878877
+md5_10: 3230a9fb5a
+md5_10_upper: 3230A9FB5A
+md5_5: 3230a
+md5_5_upper: 3230A
+md5_6: 3230a9
+md5_6_alpha: 1yi09
+md5_6_alpha_upper: 1YI09
+md5_6_upper: 3230A9
+name: Oobb Part Oobb Shaft 0D5 Ex Small
+name_no_class: Part Shaft 0D5 Ex Small
+name_no_size: Shaft 0D5 Ex Small
+name_no_size_short: Shaft 0D5 Ex Small
+name_no_type: Shaft 0D5 Ex Small
+oomp_key: oomp_oobb_part_oobb_shaft_0d5_ex_small
+oomp_word: cat foggy sandal
+oomp_word_emoji: ':cat: :foggy: :sandal:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':foggy:'
+- ':sandal:'
+oomp_word_list:
+- cat
+- foggy
+- sandal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

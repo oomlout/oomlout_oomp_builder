@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plate_04_01_06
+description_main_capital: Plate 04 01 06
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_04_01_06
+description_only_numbers: '040106'
+description_only_numbers_short: 40k
+description_or_color: 40k
+description_or_color_upper: 40K
+directory: parts/oobb_part_oobb_plate_04_01_06
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_04_01_06/working
+id: oobb_part_oobb_plate_04_01_06
+id_no_class: part_plate_04_01_06
+id_no_size: plate_04_01_06
+id_no_type: plate_04_01_06
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_plate_04_01_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_04_01_06/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_04_01_06/working)<br>[Oobb
+  Part Oobb Plate 04 01 06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_04_01_06/working)<br><br>'
+markdown_short: '[oobb_part_oobb_plate_04_01_06](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_04_01_06/working)<br><br>'
+md5: 9826dfd1f88d5f187187db4d88bc1e31
+md5_10: 9826dfd1f8
+md5_10_upper: 9826DFD1F8
+md5_5: 9826d
+md5_5_upper: 9826D
+md5_6: 9826df
+md5_6_alpha: 5xpzz
+md5_6_alpha_upper: 5XPZZ
+md5_6_upper: 9826DF
+name: Oobb Part Oobb Plate 04 01 06
+name_no_class: Part Plate 04 01 06
+name_no_size: Plate 04 01 06
+name_no_size_short: Plate 04 01 06
+name_no_type: Plate 04 01 06
+oomp_key: oomp_oobb_part_oobb_plate_04_01_06
+oomp_word: tennis eyes fountain
+oomp_word_emoji: ':tennis: :eyes: :fountain:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':eyes:'
+- ':fountain:'
+oomp_word_list:
+- tennis
+- eyes
+- fountain
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 90_mm
+description_main_capital: 90 mm
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 90_MM
+description_only_numbers: '90'
+description_only_numbers_short: '90'
+description_or_color: '90'
+description_or_color_upper: '90'
+directory: parts/hardware_bolt_6_mm_mm_90_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_90_mm/working
+id: hardware_bolt_6_mm_mm_90_mm
+id_no_class: bolt_6_mm_mm_90_mm
+id_no_size: 90_mm
+id_no_type: 6_mm_mm_90_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_6_mm_mm_90_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_90_mm/working)<br>[b90](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_90_mm/working)<br>[Hardware
+  Bolt 6 Mm Mm 90 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_90_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_6_mm_mm_90_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_mm_90_mm/working)<br><br>'
+md5: 4b2615207999027742d008a6603ae0f4
+md5_10: 4b26152079
+md5_10_upper: 4B26152079
+md5_5: 4b261
+md5_5_upper: 4B261
+md5_6: 4b2615
+md5_6_alpha: 2xk45
+md5_6_alpha_upper: 2XK45
+md5_6_upper: 4B2615
+name: Hardware Bolt 6 Mm Mm 90 Mm
+name_no_class: Bolt 6 Mm Mm 90 Mm
+name_no_size: 90 Mm
+name_no_size_short: 90 Mm
+name_no_type: 6 Mm Mm 90 Mm
+oomp_key: oomp_hardware_bolt_6_mm_mm_90_mm
+oomp_word: penguin eyes poop
+oomp_word_emoji: ':penguin: :eyes: :poop:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':eyes:'
+- ':poop:'
+oomp_word_list:
+- penguin
+- eyes
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b90
+short_code_upper: B90
+size: 6_mm_mm
+size_capital: 6 mm mm
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6_MM_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

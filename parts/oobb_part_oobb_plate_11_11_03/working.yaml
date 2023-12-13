@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plate_11_11_03
+description_main_capital: Plate 11.11 03
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_11_11_03
+description_only_numbers: '111103'
+description_only_numbers_short: 111k
+description_or_color: 111k
+description_or_color_upper: 111K
+directory: parts/oobb_part_oobb_plate_11_11_03
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_11_11_03/working
+id: oobb_part_oobb_plate_11_11_03
+id_no_class: part_plate_11_11_03
+id_no_size: plate_11_11_03
+id_no_type: plate_11_11_03
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_plate_11_11_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_11_11_03/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_11_11_03/working)<br>[Oobb
+  Part Oobb Plate 11 11 03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_11_11_03/working)<br><br>'
+markdown_short: '[oobb_part_oobb_plate_11_11_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_11_11_03/working)<br><br>'
+md5: 5384dc8a086dccb243040f1f6b52feb8
+md5_10: 5384dc8a08
+md5_10_upper: 5384DC8A08
+md5_5: 5384d
+md5_5_upper: 5384D
+md5_6: 5384dc
+md5_6_alpha: 39bdo
+md5_6_alpha_upper: 39BDO
+md5_6_upper: 5384DC
+name: Oobb Part Oobb Plate 11 11 03
+name_no_class: Part Plate 11 11 03
+name_no_size: Plate 11 11 03
+name_no_size_short: Plate 11 11 03
+name_no_type: Plate 11 11 03
+oomp_key: oomp_oobb_part_oobb_plate_11_11_03
+oomp_word: fish key factory
+oomp_word_emoji: ':fish: :key: :factory:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':key:'
+- ':factory:'
+oomp_word_list:
+- fish
+- key
+- factory
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

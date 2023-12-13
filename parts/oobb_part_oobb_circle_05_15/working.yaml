@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: circle_05_15
+description_main_capital: Circle 05.15
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CIRCLE_05_15
+description_only_numbers: '0515'
+description_only_numbers_short: '515'
+description_or_color: '515'
+description_or_color_upper: '515'
+directory: parts/oobb_part_oobb_circle_05_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_05_15/working
+id: oobb_part_oobb_circle_05_15
+id_no_class: part_circle_05_15
+id_no_size: circle_05_15
+id_no_type: circle_05_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_circle_05_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_05_15/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_05_15/working)<br>[Oobb
+  Part Oobb Circle 05 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_05_15/working)<br><br>'
+markdown_short: '[oobb_part_oobb_circle_05_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_05_15/working)<br><br>'
+md5: cabe28041160f8686b89dd8bea25b3f7
+md5_10: cabe280411
+md5_10_upper: CABE280411
+md5_5: cabe2
+md5_5_upper: CABE2
+md5_6: cabe28
+md5_6_alpha: 7wsa0
+md5_6_alpha_upper: 7WSA0
+md5_6_upper: CABE28
+name: Oobb Part Oobb Circle 05 15
+name_no_class: Part Circle 05 15
+name_no_size: Circle 05 15
+name_no_size_short: Circle 05 15
+name_no_type: Circle 05 15
+oomp_key: oomp_oobb_part_oobb_circle_05_15
+oomp_word: cherries ramen tongue
+oomp_word_emoji: ':cherries: :ramen: :tongue:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':ramen:'
+- ':tongue:'
+oomp_word_list:
+- cherries
+- ramen
+- tongue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

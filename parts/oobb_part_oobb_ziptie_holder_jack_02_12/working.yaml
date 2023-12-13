@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ziptie_holder_jack_02_12
+description_main_capital: Ziptie Holder Jack 02.12
+description_main_first_letter: z
+description_main_first_letter_upper: Z
+description_main_upper: ZIPTIE_HOLDER_JACK_02_12
+description_only_numbers: '0212'
+description_only_numbers_short: '212'
+description_or_color: '212'
+description_or_color_upper: '212'
+directory: parts/oobb_part_oobb_ziptie_holder_jack_02_12
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_ziptie_holder_jack_02_12/working
+id: oobb_part_oobb_ziptie_holder_jack_02_12
+id_no_class: part_ziptie_holder_jack_02_12
+id_no_size: ziptie_holder_jack_02_12
+id_no_type: ziptie_holder_jack_02_12
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_ziptie_holder_jack_02_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_ziptie_holder_jack_02_12/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_ziptie_holder_jack_02_12/working)<br>[Oobb
+  Part Oobb Ziptie Holder Jack 02 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_ziptie_holder_jack_02_12/working)<br><br>'
+markdown_short: '[oobb_part_oobb_ziptie_holder_jack_02_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_ziptie_holder_jack_02_12/working)<br><br>'
+md5: e3e813b8fb1eaab3b0a98fd9a8b07d09
+md5_10: e3e813b8fb
+md5_10_upper: E3E813B8FB
+md5_5: e3e81
+md5_5_upper: E3E81
+md5_6: e3e813
+md5_6_alpha: 8w4r7
+md5_6_alpha_upper: 8W4R7
+md5_6_upper: E3E813
+name: Oobb Part Oobb Ziptie Holder Jack 02 12
+name_no_class: Part Ziptie Holder Jack 02 12
+name_no_size: Ziptie Holder Jack 02 12
+name_no_size_short: Ziptie Holder Jack 02 12
+name_no_type: Ziptie Holder Jack 02 12
+oomp_key: oomp_oobb_part_oobb_ziptie_holder_jack_02_12
+oomp_word: rowboat tram question
+oomp_word_emoji: ':rowboat: :tram: :question:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':tram:'
+- ':question:'
+oomp_word_list:
+- rowboat
+- tram
+- question
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

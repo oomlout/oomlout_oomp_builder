@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_vertical_2d5_03_18
+description_main_capital: Tray Vertical 2D5 03.18
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_VERTICAL_2D5_03_18
+description_only_numbers: '250318'
+description_only_numbers_short: 250k
+description_or_color: 250k
+description_or_color_upper: 250K
+directory: parts/oobb_part_oobb_tray_vertical_2d5_03_18
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_2d5_03_18/working
+id: oobb_part_oobb_tray_vertical_2d5_03_18
+id_no_class: part_tray_vertical_2d5_03_18
+id_no_size: tray_vertical_2d5_03_18
+id_no_type: tray_vertical_2d5_03_18
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_vertical_2d5_03_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_2d5_03_18/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_2d5_03_18/working)<br>[Oobb
+  Part Oobb Tray Vertical 2D5 03 18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_2d5_03_18/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_vertical_2d5_03_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_vertical_2d5_03_18/working)<br><br>'
+md5: a9b3c859e13c7034fbcc875361da00d6
+md5_10: a9b3c859e1
+md5_10_upper: A9B3C859E1
+md5_5: a9b3c
+md5_5_upper: A9B3C
+md5_6: a9b3c8
+md5_6_alpha: 6mdhk
+md5_6_alpha_upper: 6MDHK
+md5_6_upper: A9B3C8
+name: Oobb Part Oobb Tray Vertical 2D5 03 18
+name_no_class: Part Tray Vertical 2D5 03 18
+name_no_size: Tray Vertical 2D5 03 18
+name_no_size_short: Tray Vertical 2D5 03 18
+name_no_type: Tray Vertical 2D5 03 18
+oomp_key: oomp_oobb_part_oobb_tray_vertical_2d5_03_18
+oomp_word: sandal eyeglasses apple
+oomp_word_emoji: ':sandal: :eyeglasses: :apple:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':eyeglasses:'
+- ':apple:'
+oomp_word_list:
+- sandal
+- eyeglasses
+- apple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

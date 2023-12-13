@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+description_main_capital: Wheel 29.15.606 Ex Bearing Twenty Twenty Aluminium Extrusion
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHEEL_29_15_606_EX_BEARING_TWENTY_TWENTY_ALUMINIUM_EXTRUSION
+description_only_numbers: '2915606'
+description_only_numbers_short: 2M9
+description_or_color: 2M9
+description_or_color_upper: 2M9
+directory: parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion/working
+id: oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_class: part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_size: wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_type: wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion/working)<br>[Oobb
+  Part Oobb Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
+markdown_short: '[oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
+md5: 35b4abc421239e87f14d737d5333abe1
+md5_10: 35b4abc421
+md5_10_upper: 35B4ABC421
+md5_5: 35b4a
+md5_5_upper: 35B4A
+md5_6: 35b4ab
+md5_6_alpha: 23fsb
+md5_6_alpha_upper: 23FSB
+md5_6_upper: 35B4AB
+name: Oobb Part Oobb Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_class: Part Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_size: Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_size_short: Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_type: Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+oomp_key: oomp_oobb_part_oobb_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+oomp_word: hamster coffee boot
+oomp_word_emoji: ':hamster: :coffee: :boot:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':coffee:'
+- ':boot:'
+oomp_word_list:
+- hamster
+- coffee
+- boot
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

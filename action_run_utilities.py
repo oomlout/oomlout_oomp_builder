@@ -22,8 +22,13 @@ def main(**kwargs):
         else:
             os.system(f"git clone {utility} {repo_path}")
         
+        if not os.path.exists("temporary/__init__.py"):
+            # Create __init__.py
+            open("temporary/__init__.py", 'a').close()
+
         module_name = f"temporary.{repo_name}.working"
-        utility_module = __import__(module_name, fromlist=["temporary"])        
+        #utility_module = __import__(module_name, fromlist=["temporary"])        
+        utility_module = __import__(module_name, fromlist=[""])        
         kwargs["folder"] = "parts"
         utility_module.main(**kwargs)
 

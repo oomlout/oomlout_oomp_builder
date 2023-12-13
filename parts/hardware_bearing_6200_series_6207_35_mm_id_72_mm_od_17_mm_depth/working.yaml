@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 35_mm_id_72_mm_od_17_mm_depth
+description_main_capital: 35 mm Id 72 mm Od 17 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 35_MM_ID_72_MM_OD_17_MM_DEPTH
+description_only_numbers: '357217'
+description_only_numbers_short: 357k
+description_or_color: 357k
+description_or_color_upper: 357K
+directory: parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth/working
+id: hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth
+id_no_class: bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth
+id_no_size: 35_mm_id_72_mm_od_17_mm_depth
+id_no_type: 6207_35_mm_id_72_mm_od_17_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth/working)<br>[Hardware
+  Bearing 6200 Series 6207 35 Mm Id 72 Mm Od 17 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth/working)<br><br>'
+md5: 5710c2a692cb1cdbbe541d278a3fd07d
+md5_10: 5710c2a692
+md5_10_upper: 5710C2A692
+md5_5: 5710c
+md5_5_upper: 5710C
+md5_6: 5710c2
+md5_6_alpha: 3eapu
+md5_6_alpha_upper: 3EAPU
+md5_6_upper: 5710C2
+name: Hardware Bearing 6200 Series 6207 35 Mm Id 72 Mm Od 17 Mm Depth
+name_no_class: Bearing 6200 Series 6207 35 Mm Id 72 Mm Od 17 Mm Depth
+name_no_size: 35 Mm Id 72 Mm Od 17 Mm Depth
+name_no_size_short: 35 Mm Id 72 Mm Od 17 Mm Depth
+name_no_type: 6207 35 Mm Id 72 Mm Od 17 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6207_35_mm_id_72_mm_od_17_mm_depth
+oomp_word: rat star birthday
+oomp_word_emoji: ':rat: :star: :birthday:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':star:'
+- ':birthday:'
+oomp_word_list:
+- rat
+- star
+- birthday
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '6207'
+size_capital: '6207'
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6207'
+size_only_numbers_no_zeros: '627'
+size_upper: '6207'
+type: bearing_6200_series
+type_capital: Bearing 6200 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_6200_SERIES

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: holder_03_03_48_ex_motor_building_block_small_01_bottom
+description_main_capital: Holder 03 03.48 Ex Motor Building Block Small 01 Bottom
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HOLDER_03_03_48_EX_MOTOR_BUILDING_BLOCK_SMALL_01_BOTTOM
+description_only_numbers: 03034801
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom/working
+id: oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom
+id_no_class: part_holder_03_03_48_ex_motor_building_block_small_01_bottom
+id_no_size: holder_03_03_48_ex_motor_building_block_small_01_bottom
+id_no_type: holder_03_03_48_ex_motor_building_block_small_01_bottom
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom/working)<br>[Oobb
+  Part Oobb Holder 03 03 48 Ex Motor Building Block Small 01 Bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom/working)<br><br>'
+markdown_short: '[oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom/working)<br><br>'
+md5: a1a12eb508bbfad6d93105ceca9ff954
+md5_10: a1a12eb508
+md5_10_upper: A1A12EB508
+md5_5: a1a12
+md5_5_upper: A1A12
+md5_6: a1a12e
+md5_6_alpha: 6b19q
+md5_6_alpha_upper: 6B19Q
+md5_6_upper: A1A12E
+name: Oobb Part Oobb Holder 03 03 48 Ex Motor Building Block Small 01 Bottom
+name_no_class: Part Holder 03 03 48 Ex Motor Building Block Small 01 Bottom
+name_no_size: Holder 03 03 48 Ex Motor Building Block Small 01 Bottom
+name_no_size_short: Holder 03 03 48 Ex Motor Building Block Small 01 Bottom
+name_no_type: Holder 03 03 48 Ex Motor Building Block Small 01 Bottom
+oomp_key: oomp_oobb_part_oobb_holder_03_03_48_ex_motor_building_block_small_01_bottom
+oomp_word: trophy trophy zap
+oomp_word_emoji: ':trophy: :trophy: :zap:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':trophy:'
+- ':zap:'
+oomp_word_list:
+- trophy
+- trophy
+- zap
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hardware_bolt_m6_30
+description_main_capital: Hardware Bolt M6.30
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_BOLT_M6_30
+description_only_numbers: '630'
+description_only_numbers_short: '630'
+description_or_color: '630'
+description_or_color_upper: '630'
+directory: parts/oobb_part_oobb_hardware_bolt_m6_30
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_bolt_m6_30/working
+id: oobb_part_oobb_hardware_bolt_m6_30
+id_no_class: part_hardware_bolt_m6_30
+id_no_size: hardware_bolt_m6_30
+id_no_type: hardware_bolt_m6_30
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_hardware_bolt_m6_30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_bolt_m6_30/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_bolt_m6_30/working)<br>[Oobb
+  Part Oobb Hardware Bolt M6 30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_bolt_m6_30/working)<br><br>'
+markdown_short: '[oobb_part_oobb_hardware_bolt_m6_30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_hardware_bolt_m6_30/working)<br><br>'
+md5: cfe39287689caa19414ba5908688f720
+md5_10: cfe3928768
+md5_10_upper: CFE3928768
+md5_5: cfe39
+md5_5_upper: CFE39
+md5_6: cfe392
+md5_6_alpha: 840ia
+md5_6_alpha_upper: 840IA
+md5_6_upper: CFE392
+name: Oobb Part Oobb Hardware Bolt M6 30
+name_no_class: Part Hardware Bolt M6 30
+name_no_size: Hardware Bolt M6 30
+name_no_size_short: Hardware Bolt M6 30
+name_no_type: Hardware Bolt M6 30
+oomp_key: oomp_oobb_part_oobb_hardware_bolt_m6_30
+oomp_word: melon rowboat paperclip
+oomp_word_emoji: ':melon: :rowboat: :paperclip:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':rowboat:'
+- ':paperclip:'
+oomp_word_list:
+- melon
+- rowboat
+- paperclip
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

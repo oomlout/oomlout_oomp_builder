@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plate_12_01_21
+description_main_capital: Plate 12 01.21
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_12_01_21
+description_only_numbers: '120121'
+description_only_numbers_short: 120k
+description_or_color: 120k
+description_or_color_upper: 120K
+directory: parts/oobb_part_oobb_plate_12_01_21
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_12_01_21/working
+id: oobb_part_oobb_plate_12_01_21
+id_no_class: part_plate_12_01_21
+id_no_size: plate_12_01_21
+id_no_type: plate_12_01_21
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_plate_12_01_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_12_01_21/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_12_01_21/working)<br>[Oobb
+  Part Oobb Plate 12 01 21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_12_01_21/working)<br><br>'
+markdown_short: '[oobb_part_oobb_plate_12_01_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_plate_12_01_21/working)<br><br>'
+md5: 963a97cebd74d2b2654ed8f9becbbed0
+md5_10: 963a97cebd
+md5_10_upper: 963A97CEBD
+md5_5: 963a9
+md5_5_upper: 963A9
+md5_6: 963a97
+md5_6_alpha: 5v0rb
+md5_6_alpha_upper: 5V0RB
+md5_6_upper: 963A97
+name: Oobb Part Oobb Plate 12 01 21
+name_no_class: Part Plate 12 01 21
+name_no_size: Plate 12 01 21
+name_no_size_short: Plate 12 01 21
+name_no_type: Plate 12 01 21
+oomp_key: oomp_oobb_part_oobb_plate_12_01_21
+oomp_word: basketball koala baseball
+oomp_word_emoji: ':basketball: :koala: :baseball:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':koala:'
+- ':baseball:'
+oomp_word_list:
+- basketball
+- koala
+- baseball
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

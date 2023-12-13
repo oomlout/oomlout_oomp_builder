@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+description_main_capital: Other 2D5.1D5 06 Ex Timing Belt Clamp Gt2
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OTHER_2D5_1D5_06_EX_TIMING_BELT_CLAMP_GT2
+description_only_numbers: '2515062'
+description_only_numbers_short: 2M5
+description_or_color: 2M5
+description_or_color_upper: 2M5
+directory: parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2/working
+id: oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_class: part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_size: other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_type: other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2/working)<br>[Oobb
+  Part Oobb Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2/working)<br><br>'
+markdown_short: '[oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2/working)<br><br>'
+md5: c08570c5daf5620fd53ddb3523807aba
+md5_10: c08570c5da
+md5_10_upper: C08570C5DA
+md5_5: c0857
+md5_5_upper: C0857
+md5_6: c08570
+md5_6_alpha: 7ife8
+md5_6_alpha_upper: 7IFE8
+md5_6_upper: C08570
+name: Oobb Part Oobb Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_class: Part Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_size: Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_size_short: Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_type: Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+oomp_key: oomp_oobb_part_oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+oomp_word: bread bulb squirrel
+oomp_word_emoji: ':bread: :bulb: :squirrel:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':bulb:'
+- ':squirrel:'
+oomp_word_list:
+- bread
+- bulb
+- squirrel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

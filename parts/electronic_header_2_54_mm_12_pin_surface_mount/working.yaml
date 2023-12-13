@@ -1,0 +1,107 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: surface_mount
+description_extra_capital: Surface Mount
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SURFACE_MOUNT
+description_main: 12_pin
+description_main_capital: 12 Pin
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_PIN
+description_only_numbers: '12'
+description_only_numbers_short: '12'
+description_or_color: '12'
+description_or_color_upper: '12'
+directory: parts/electronic_header_2_54_mm_12_pin_surface_mount
+distributors:
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C917645.html
+  name: LCSC
+  part_number: C917645
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
+  note: source footprint kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
+  oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x12_p2_54mm_vertical_smd_pin1left
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi112psm_electronic_header_2_54_mm_12_pin_surface_mount//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi112psm_electronic_header_2_54_mm_12_pin_surface_mount
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi112psm_electronic_header_2_54_mm_12_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working
+id: electronic_header_2_54_mm_12_pin_surface_mount
+id_no_class: header_2_54_mm_12_pin_surface_mount
+id_no_size: 12_pin_surface_mount
+id_no_type: 2_54_mm_12_pin_surface_mount
+kicad_reference: CONN
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_12_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working)<br>[hi112psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working)<br>[Electronic
+  Header 2 54 Mm 12 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working)<br>[LCSC
+  - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_12_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount/working)<br>[LCSC
+  - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+md5: fbb478ce55f7b833e37f7e2e5a982737
+md5_10: fbb478ce55
+md5_10_upper: FBB478CE55
+md5_5: fbb47
+md5_5_upper: FBB47
+md5_6: fbb478
+md5_6_alpha: 9tk6w
+md5_6_alpha_upper: 9TK6W
+md5_6_upper: FBB478
+name: Electronic Header 2 54 Mm 12 Pin Surface Mount
+name_no_class: Header 2 54 Mm 12 Pin Surface Mount
+name_no_size: 12 Pin Surface Mount
+name_no_size_short: 12 Pin Surface Mount
+name_no_type: 2 54 Mm 12 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_surface_mount
+oomp_word: ok coffee bell
+oomp_word_emoji: ':ok: :coffee: :bell:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':coffee:'
+- ':bell:'
+oomp_word_list:
+- ok
+- coffee
+- bell
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hi112psm
+short_code_upper: HI112PSM
+size: 2_54_mm
+size_capital: 2.54 mm
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+size_upper: 2_54_MM
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x12_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x12_pin
+  oomp_key: oomp_kicad_connector_conn_01x12_pin
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

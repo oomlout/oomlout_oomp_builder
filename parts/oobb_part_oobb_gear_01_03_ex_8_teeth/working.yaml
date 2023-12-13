@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: gear_01_03_ex_8_teeth
+description_main_capital: Gear 01 03 Ex 8 Teeth
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GEAR_01_03_EX_8_TEETH
+description_only_numbers: 01038
+description_only_numbers_short: 1k
+description_or_color: 1k
+description_or_color_upper: 1K
+directory: parts/oobb_part_oobb_gear_01_03_ex_8_teeth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_01_03_ex_8_teeth/working
+id: oobb_part_oobb_gear_01_03_ex_8_teeth
+id_no_class: part_gear_01_03_ex_8_teeth
+id_no_size: gear_01_03_ex_8_teeth
+id_no_type: gear_01_03_ex_8_teeth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_gear_01_03_ex_8_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_01_03_ex_8_teeth/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_01_03_ex_8_teeth/working)<br>[Oobb
+  Part Oobb Gear 01 03 Ex 8 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_01_03_ex_8_teeth/working)<br><br>'
+markdown_short: '[oobb_part_oobb_gear_01_03_ex_8_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_01_03_ex_8_teeth/working)<br><br>'
+md5: 4f05b3f0b8ce8744b396920b358eee0f
+md5_10: 4f05b3f0b8
+md5_10_upper: 4F05B3F0B8
+md5_5: 4f05b
+md5_5_upper: 4F05B
+md5_6: 4f05b3
+md5_6_alpha: 32zzn
+md5_6_alpha_upper: 32ZZN
+md5_6_upper: 4F05B3
+name: Oobb Part Oobb Gear 01 03 Ex 8 Teeth
+name_no_class: Part Gear 01 03 Ex 8 Teeth
+name_no_size: Gear 01 03 Ex 8 Teeth
+name_no_size_short: Gear 01 03 Ex 8 Teeth
+name_no_type: Gear 01 03 Ex 8 Teeth
+oomp_key: oomp_oobb_part_oobb_gear_01_03_ex_8_teeth
+oomp_word: ant kissing eyeglasses
+oomp_word_emoji: ':ant: :kissing: :eyeglasses:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':kissing:'
+- ':eyeglasses:'
+oomp_word_list:
+- ant
+- kissing
+- eyeglasses
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

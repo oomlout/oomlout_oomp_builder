@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tray_01_01_18
+description_main_capital: Tray 01 01.18
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRAY_01_01_18
+description_only_numbers: 010118
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_oobb_tray_01_01_18
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_01_01_18/working
+id: oobb_part_oobb_tray_01_01_18
+id_no_class: part_tray_01_01_18
+id_no_size: tray_01_01_18
+id_no_type: tray_01_01_18
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tray_01_01_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_01_01_18/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_01_01_18/working)<br>[Oobb
+  Part Oobb Tray 01 01 18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_01_01_18/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tray_01_01_18](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tray_01_01_18/working)<br><br>'
+md5: 4da07bc8ac8d57722b2df7452dfce0f2
+md5_10: 4da07bc8ac
+md5_10_upper: 4DA07BC8AC
+md5_5: 4da07
+md5_5_upper: 4DA07
+md5_6: 4da07b
+md5_6_alpha: 311ff
+md5_6_alpha_upper: 311FF
+md5_6_upper: 4DA07B
+name: Oobb Part Oobb Tray 01 01 18
+name_no_class: Part Tray 01 01 18
+name_no_size: Tray 01 01 18
+name_no_size_short: Tray 01 01 18
+name_no_type: Tray 01 01 18
+oomp_key: oomp_oobb_part_oobb_tray_01_01_18
+oomp_word: bug ring computer
+oomp_word_emoji: ':bug: :ring: :computer:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':ring:'
+- ':computer:'
+oomp_word_list:
+- bug
+- ring
+- computer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

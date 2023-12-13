@@ -1,0 +1,90 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: through_hole
+description_extra_capital: Through Hole
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: THROUGH_HOLE
+description_main: 3_pin
+description_main_capital: 3 Pin
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_PIN
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
+directory: parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working
+id: electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_3_pin_through_hole
+id_no_size: 3_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_3_pin_through_hole
+kicad_reference: CONN
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br>[hjxh3pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br>[Electronic
+  Header 2 5 Mm Jst Xh 3 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br><br>'
+markdown_short: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br><br>'
+md5: ab6c71ff1bb308d3f3d7c616a87cc1c0
+md5_10: ab6c71ff1b
+md5_10_upper: AB6C71FF1B
+md5_5: ab6c7
+md5_5_upper: AB6C7
+md5_6: ab6c71
+md5_6_alpha: 6osj5
+md5_6_alpha_upper: 6OSJ5
+md5_6_upper: AB6C71
+name: Electronic Header 2 5 Mm Jst Xh 3 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 3 Pin Through Hole
+name_no_size: 3 Pin Through Hole
+name_no_size_short: 3 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 3 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+oomp_word: boot blossom bamboo
+oomp_word_emoji: ':boot: :blossom: :bamboo:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':blossom:'
+- ':bamboo:'
+oomp_word_list:
+- boot
+- blossom
+- bamboo
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hjxh3pth
+short_code_upper: HJXH3PTH
+size: 2_5_mm_jst_xh
+size_capital: 2.5 mm Jst Xh
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+size_upper: 2_5_MM_JST_XH
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x03_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin
+  oomp_key: oomp_kicad_connector_conn_01x03_pin
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 65_mm
+description_main_capital: 65 mm
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 65_MM
+description_only_numbers: '65'
+description_only_numbers_short: '65'
+description_or_color: '65'
+description_or_color_upper: '65'
+directory: parts/hardware_set_screw_5_mm_mm_65_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_65_mm/working
+id: hardware_set_screw_5_mm_mm_65_mm
+id_no_class: set_screw_5_mm_mm_65_mm
+id_no_size: 65_mm
+id_no_type: 5_mm_mm_65_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_set_screw_5_mm_mm_65_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_65_mm/working)<br>[ss65](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_65_mm/working)<br>[Hardware
+  Set Screw 5 Mm Mm 65 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_65_mm/working)<br><br>'
+markdown_short: '[hardware_set_screw_5_mm_mm_65_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_mm_65_mm/working)<br><br>'
+md5: 1d225364c2394788699fdb8f98ae4d7c
+md5_10: 1d225364c2
+md5_10_upper: 1D225364C2
+md5_5: 1d225
+md5_5_upper: 1D225
+md5_6: 1d2253
+md5_6_alpha: 14x8z
+md5_6_alpha_upper: 14X8Z
+md5_6_upper: 1D2253
+name: Hardware Set Screw 5 Mm Mm 65 Mm
+name_no_class: Set Screw 5 Mm Mm 65 Mm
+name_no_size: 65 Mm
+name_no_size_short: 65 Mm
+name_no_type: 5 Mm Mm 65 Mm
+oomp_key: oomp_hardware_set_screw_5_mm_mm_65_mm
+oomp_word: baby lips fish
+oomp_word_emoji: ':baby: :lips: :fish:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':lips:'
+- ':fish:'
+oomp_word_list:
+- baby
+- lips
+- fish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ss65
+short_code_upper: SS65
+size: 5_mm_mm
+size_capital: 5 mm mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_MM
+type: set_screw
+type_capital: Set Screw
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SET_SCREW

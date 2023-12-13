@@ -1,0 +1,103 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: through_hole
+description_main_capital: Through Hole
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: THROUGH_HOLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_nettie_2_nets_through_hole
+distributors: []
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_2_tht_pad0_3mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_2_tht_pad0_3mm
+  note: source footprint kicad_nettie_nettie_2_tht_pad0_3mm
+  oomp_key: oomp_kicad_nettie_nettie_2_tht_pad0_3mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt2th_electronic_nettie_2_nets_through_hole//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt2th_electronic_nettie_2_nets_through_hole
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt2th_electronic_nettie_2_nets_through_hole
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working
+id: electronic_nettie_2_nets_through_hole
+id_no_class: nettie_2_nets_through_hole
+id_no_size: through_hole
+id_no_type: 2_nets_through_hole
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[nt2th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br>[Electronic
+  Nettie 2 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br>'
+markdown_short: '[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole/working)<br><br>'
+md5: c86bdf842046e81ba413e322d79ac3dc
+md5_10: c86bdf8420
+md5_10_upper: C86BDF8420
+md5_5: c86bd
+md5_5_upper: C86BD
+md5_6: c86bdf
+md5_6_alpha: 7tivz
+md5_6_alpha_upper: 7TIVZ
+md5_6_upper: C86BDF
+name: Electronic Nettie 2 Nets Through Hole
+name_no_class: Nettie 2 Nets Through Hole
+name_no_size: Through Hole
+name_no_size_short: Through Hole
+name_no_type: 2 Nets Through Hole
+oomp_key: oomp_electronic_nettie_2_nets_through_hole
+oomp_word: apple chestnut fountain
+oomp_word_emoji: ':apple: :chestnut: :fountain:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':chestnut:'
+- ':fountain:'
+oomp_word_list:
+- apple
+- chestnut
+- fountain
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: nt2th
+short_code_upper: NT2TH
+size: 2_nets
+size_capital: 2 Nets
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: 2_NETS
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_2//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_2
+  oomp_key: oomp_kicad_device_nettie_2
+type: nettie
+type_capital: Nettie
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NETTIE

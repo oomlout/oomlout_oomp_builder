@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 45_mm_id_75_mm_od_10_mm_depth
+description_main_capital: 45 mm Id 75 mm Od 10 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 45_MM_ID_75_MM_OD_10_MM_DEPTH
+description_only_numbers: '457510'
+description_only_numbers_short: 458k
+description_or_color: 458k
+description_or_color_upper: 458K
+directory: parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth/working
+id: hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth
+id_no_class: bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth
+id_no_size: 45_mm_id_75_mm_od_10_mm_depth
+id_no_type: 16009_45_mm_id_75_mm_od_10_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth/working)<br>[Hardware
+  Bearing 16000 Series 16009 45 Mm Id 75 Mm Od 10 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth/working)<br><br>'
+md5: 2998fddc472606b3cc3e49f24ec90782
+md5_10: 2998fddc47
+md5_10_upper: 2998FDDC47
+md5_5: 2998f
+md5_5_upper: 2998F
+md5_6: 2998fd
+md5_6_alpha: 1mfi5
+md5_6_alpha_upper: 1MFI5
+md5_6_upper: 2998FD
+name: Hardware Bearing 16000 Series 16009 45 Mm Id 75 Mm Od 10 Mm Depth
+name_no_class: Bearing 16000 Series 16009 45 Mm Id 75 Mm Od 10 Mm Depth
+name_no_size: 45 Mm Id 75 Mm Od 10 Mm Depth
+name_no_size_short: 45 Mm Id 75 Mm Od 10 Mm Depth
+name_no_type: 16009 45 Mm Id 75 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16009_45_mm_id_75_mm_od_10_mm_depth
+oomp_word: sunny tennis parking
+oomp_word_emoji: ':sunny: :tennis: :parking:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':tennis:'
+- ':parking:'
+oomp_word_list:
+- sunny
+- tennis
+- parking
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: '16009'
+size_capital: '16009'
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '16009'
+size_only_numbers_no_zeros: '169'
+size_upper: '16009'
+type: bearing_16000_series
+type_capital: Bearing 16000 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_16000_SERIES

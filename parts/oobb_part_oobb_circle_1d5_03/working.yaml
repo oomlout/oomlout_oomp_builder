@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: circle_1d5_03
+description_main_capital: Circle 1D5 03
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CIRCLE_1D5_03
+description_only_numbers: '1503'
+description_only_numbers_short: 1k5
+description_or_color: 1k5
+description_or_color_upper: 1K5
+directory: parts/oobb_part_oobb_circle_1d5_03
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_1d5_03/working
+id: oobb_part_oobb_circle_1d5_03
+id_no_class: part_circle_1d5_03
+id_no_size: circle_1d5_03
+id_no_type: circle_1d5_03
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_circle_1d5_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_1d5_03/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_1d5_03/working)<br>[Oobb
+  Part Oobb Circle 1D5 03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_1d5_03/working)<br><br>'
+markdown_short: '[oobb_part_oobb_circle_1d5_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_1d5_03/working)<br><br>'
+md5: 56442935c6fad6f30b98138008db9c5e
+md5_10: 56442935c6
+md5_10_upper: 56442935C6
+md5_5: '56442'
+md5_5_upper: '56442'
+md5_6: '564429'
+md5_6_alpha: 3d6ax
+md5_6_alpha_upper: 3D6AX
+md5_6_upper: '564429'
+name: Oobb Part Oobb Circle 1D5 03
+name_no_class: Part Circle 1D5 03
+name_no_size: Circle 1D5 03
+name_no_size_short: Circle 1D5 03
+name_no_type: Circle 1D5 03
+oomp_key: oomp_oobb_part_oobb_circle_1d5_03
+oomp_word: ram panda_face sunny
+oomp_word_emoji: ':ram: :panda_face: :sunny:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':panda_face:'
+- ':sunny:'
+oomp_word_list:
+- ram
+- panda_face
+- sunny
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: circle_03_15
+description_main_capital: Circle 03.15
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CIRCLE_03_15
+description_only_numbers: '0315'
+description_only_numbers_short: '315'
+description_or_color: '315'
+description_or_color_upper: '315'
+directory: parts/oobb_part_oobb_circle_03_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_15/working
+id: oobb_part_oobb_circle_03_15
+id_no_class: part_circle_03_15
+id_no_size: circle_03_15
+id_no_type: circle_03_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_circle_03_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_15/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_15/working)<br>[Oobb
+  Part Oobb Circle 03 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_15/working)<br><br>'
+markdown_short: '[oobb_part_oobb_circle_03_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_circle_03_15/working)<br><br>'
+md5: cbb2805d3f41d7aaf86b26f10ce22b15
+md5_10: cbb2805d3f
+md5_10_upper: CBB2805D3F
+md5_5: cbb28
+md5_5_upper: CBB28
+md5_6: cbb280
+md5_6_alpha: 7y4jk
+md5_6_alpha_upper: 7Y4JK
+md5_6_upper: CBB280
+name: Oobb Part Oobb Circle 03 15
+name_no_class: Part Circle 03 15
+name_no_size: Circle 03 15
+name_no_size_short: Circle 03 15
+name_no_type: Circle 03 15
+oomp_key: oomp_oobb_part_oobb_circle_03_15
+oomp_word: grapes handbag hourglass
+oomp_word_emoji: ':grapes: :handbag: :hourglass:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':handbag:'
+- ':hourglass:'
+oomp_word_list:
+- grapes
+- handbag
+- hourglass
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

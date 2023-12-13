@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+description_main_capital: Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor
+  Controller Speed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MOUNTING_PLATE_04_04_03_RH_M3_MO_26_NM_ALIEXPRESS_MOTOR_CONTROLLER_SPEED
+description_only_numbers: '040403326'
+description_only_numbers_short: 4M
+description_or_color: 4M
+description_or_color_upper: 4M
+directory: parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working
+id: oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_class: part_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_size: mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_type: mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br>[Oobb
+  Part Oobb Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br><br>'
+markdown_short: '[oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br><br>'
+md5: 85fffc0d8f3e658e121b712d251b9571
+md5_10: 85fffc0d8f
+md5_10_upper: 85FFFC0D8F
+md5_5: 85fff
+md5_5_upper: 85FFF
+md5_6: 85fffc
+md5_6_alpha: 5883g
+md5_6_alpha_upper: 5883G
+md5_6_upper: 85FFFC
+name: Oobb Part Oobb Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+name_no_class: Part Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+name_no_size: Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
+name_no_size_short: Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+name_no_type: Mounting Plate 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
+oomp_key: oomp_oobb_part_oobb_mounting_plate_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+oomp_word: bulb trident up
+oomp_word_emoji: ':bulb: :trident: :up:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':trident:'
+- ':up:'
+oomp_word_list:
+- bulb
+- trident
+- up
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

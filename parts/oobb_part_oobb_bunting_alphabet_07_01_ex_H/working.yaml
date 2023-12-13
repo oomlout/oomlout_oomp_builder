@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: bunting_alphabet_07_01_ex_H
+description_main_capital: Bunting Alphabet 07 01 Ex H
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BUNTING_ALPHABET_07_01_EX_H
+description_only_numbers: '0701'
+description_only_numbers_short: '701'
+description_or_color: '701'
+description_or_color_upper: '701'
+directory: parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H/working
+id: oobb_part_oobb_bunting_alphabet_07_01_ex_H
+id_no_class: part_bunting_alphabet_07_01_ex_H
+id_no_size: bunting_alphabet_07_01_ex_H
+id_no_type: bunting_alphabet_07_01_ex_H
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_bunting_alphabet_07_01_ex_H](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H/working)<br>[Oobb
+  Part Oobb Bunting Alphabet 07 01 Ex H](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H/working)<br><br>'
+markdown_short: '[oobb_part_oobb_bunting_alphabet_07_01_ex_H](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_bunting_alphabet_07_01_ex_H/working)<br><br>'
+md5: f75e1596f6ebebee503c56569b40233b
+md5_10: f75e1596f6
+md5_10_upper: F75E1596F6
+md5_5: f75e1
+md5_5_upper: F75E1
+md5_6: f75e15
+md5_6_alpha: 9ngut
+md5_6_alpha_upper: 9NGUT
+md5_6_upper: F75E15
+name: Oobb Part Oobb Bunting Alphabet 07 01 Ex H
+name_no_class: Part Bunting Alphabet 07 01 Ex H
+name_no_size: Bunting Alphabet 07 01 Ex H
+name_no_size_short: Bunting Alphabet 07 01 Ex H
+name_no_type: Bunting Alphabet 07 01 Ex H
+oomp_key: oomp_oobb_part_oobb_bunting_alphabet_07_01_ex_H
+oomp_word: six crocodile poop
+oomp_word_emoji: ':six: :crocodile: :poop:'
+oomp_word_emoji_list:
+- ':six:'
+- ':crocodile:'
+- ':poop:'
+oomp_word_list:
+- six
+- crocodile
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

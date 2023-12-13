@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+description_main_capital: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key
+  Set Small
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOOL_HOLDER_VERTICAL_05_05_08_EX_TOOL_SCREWDRIVER_HEX_KEY_SET_SMALL
+description_only_numbers: 050508
+description_only_numbers_short: 51k
+description_or_color: 51k
+description_or_color_upper: 51K
+directory: parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small/working
+id: oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_class: part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_size: tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_type: tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small/working)<br>[Oobb
+  Part Oobb Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small/working)<br><br>'
+markdown_short: '[oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small/working)<br><br>'
+md5: 610191ffd2a912043a085e3f645ffbcc
+md5_10: 610191ffd2
+md5_10_upper: 610191FFD2
+md5_5: '61019'
+md5_5_upper: '61019'
+md5_6: '610191'
+md5_6_alpha: 3s9e9
+md5_6_alpha_upper: 3S9E9
+md5_6_upper: '610191'
+name: Oobb Part Oobb Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set
+  Small
+name_no_class: Part Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set
+  Small
+name_no_size: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+name_no_size_short: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set
+  Small
+name_no_type: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+oomp_key: oomp_oobb_part_oobb_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+oomp_word: bouquet smile pushpin
+oomp_word_emoji: ':bouquet: :smile: :pushpin:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':smile:'
+- ':pushpin:'
+oomp_word_list:
+- bouquet
+- smile
+- pushpin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

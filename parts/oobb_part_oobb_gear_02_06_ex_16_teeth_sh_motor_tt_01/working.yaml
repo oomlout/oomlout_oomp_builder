@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: gear_02_06_ex_16_teeth_sh_motor_tt_01
+description_main_capital: Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GEAR_02_06_EX_16_TEETH_SH_MOTOR_TT_01
+description_only_numbers: '02061601'
+description_only_numbers_short: 2M
+description_or_color: 2M
+description_or_color_upper: 2M
+directory: parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01/working
+id: oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01
+id_no_class: part_gear_02_06_ex_16_teeth_sh_motor_tt_01
+id_no_size: gear_02_06_ex_16_teeth_sh_motor_tt_01
+id_no_type: gear_02_06_ex_16_teeth_sh_motor_tt_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01/working)<br>[ob](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01/working)<br>[Oobb
+  Part Oobb Gear 02 06 Ex 16 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01/working)<br><br>'
+markdown_short: '[oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01/working)<br><br>'
+md5: bff49340450eb0f11caa0d4f8252de91
+md5_10: bff4934045
+md5_10_upper: BFF4934045
+md5_5: bff49
+md5_5_upper: BFF49
+md5_6: bff493
+md5_6_alpha: 7hms3
+md5_6_alpha_upper: 7HMS3
+md5_6_upper: BFF493
+name: Oobb Part Oobb Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+name_no_size: Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+name_no_size_short: Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+name_no_type: Gear 02 06 Ex 16 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_oobb_gear_02_06_ex_16_teeth_sh_motor_tt_01
+oomp_word: egg three books
+oomp_word_emoji: ':egg: :three: :books:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':three:'
+- ':books:'
+oomp_word_list:
+- egg
+- three
+- books
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ob
+short_code_upper: OB
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

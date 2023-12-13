@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_mm_id_22_mm_od_7_mm_depth
+description_main_capital: 8 mm Id 22 mm Od 7 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_MM_ID_22_MM_OD_7_MM_DEPTH
+description_only_numbers: '8227'
+description_only_numbers_short: 8k2
+description_or_color: 8k2
+description_or_color_upper: 8K2
+directory: parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth
+distributors: []
+filter: bearing
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth/working
+id: hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth
+id_no_class: bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth
+id_no_size: 8_mm_id_22_mm_od_7_mm_depth
+id_no_type: F608_8_mm_id_22_mm_od_7_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth/working)<br>[Hardware
+  Bearing F600 Series F608 8 Mm Id 22 Mm Od 7 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth/working)<br><br>'
+md5: 011152b6f1e4b0ff33d9f689ce74aead
+md5_10: 011152b6f1
+md5_10_upper: 011152B6F1
+md5_5: '01115'
+md5_5_upper: '01115'
+md5_6: '011152'
+md5_6_alpha: 1hzm
+md5_6_alpha_upper: 1HZM
+md5_6_upper: '011152'
+name: Hardware Bearing F600 Series F608 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_class: Bearing F600 Series F608 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_size: 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_size_short: 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_type: F608 8 Mm Id 22 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F608_8_mm_id_22_mm_od_7_mm_depth
+oomp_word: smile dizzy octopus
+oomp_word_emoji: ':smile: :dizzy: :octopus:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':dizzy:'
+- ':octopus:'
+oomp_word_list:
+- smile
+- dizzy
+- octopus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: F608
+size_capital: F608
+size_first_letter: F
+size_first_letter_upper: F
+size_only_numbers: '608'
+size_only_numbers_no_zeros: '68'
+size_upper: F608
+type: bearing_F600_series
+type_capital: Bearing F600 Series
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING_F600_SERIES

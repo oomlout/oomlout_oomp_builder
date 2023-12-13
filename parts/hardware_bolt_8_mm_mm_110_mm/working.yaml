@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 110_mm
+description_main_capital: 110 mm
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 110_MM
+description_only_numbers: '110'
+description_only_numbers_short: '110'
+description_or_color: '110'
+description_or_color_upper: '110'
+directory: parts/hardware_bolt_8_mm_mm_110_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_mm_110_mm/working
+id: hardware_bolt_8_mm_mm_110_mm
+id_no_class: bolt_8_mm_mm_110_mm
+id_no_size: 110_mm
+id_no_type: 8_mm_mm_110_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_8_mm_mm_110_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_mm_110_mm/working)<br>[b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_mm_110_mm/working)<br>[Hardware
+  Bolt 8 Mm Mm 110 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_mm_110_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_8_mm_mm_110_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_mm_110_mm/working)<br><br>'
+md5: 210a743a0954486dfd9b8c69c225f838
+md5_10: 210a743a09
+md5_10_upper: 210A743A09
+md5_5: 210a7
+md5_5_upper: 210A7
+md5_6: 210a74
+md5_6_alpha: 1aet0
+md5_6_alpha_upper: 1AET0
+md5_6_upper: 210A74
+name: Hardware Bolt 8 Mm Mm 110 Mm
+name_no_class: Bolt 8 Mm Mm 110 Mm
+name_no_size: 110 Mm
+name_no_size_short: 110 Mm
+name_no_type: 8 Mm Mm 110 Mm
+oomp_key: oomp_hardware_bolt_8_mm_mm_110_mm
+oomp_word: feet sleepy fireworks
+oomp_word_emoji: ':feet: :sleepy: :fireworks:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':sleepy:'
+- ':fireworks:'
+oomp_word_list:
+- feet
+- sleepy
+- fireworks
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b
+short_code_upper: B
+size: 8_mm_mm
+size_capital: 8 mm mm
+size_first_letter: '8'
+size_first_letter_upper: '8'
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
+size_upper: 8_MM_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT
