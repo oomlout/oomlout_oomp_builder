@@ -3,6 +3,10 @@ import yaml
 
 # settings
 utility_source_yaml = "configuration/utility_source.yaml"
+#check if file exists
+if not os.path.exists(utility_source_yaml):
+    print(f"{utility_source_yaml} doesn't exist using default")
+    utility_source_yaml = "configuration/utility_source_default.yaml"
 
 def main(**kwargs):
     utilities = []
