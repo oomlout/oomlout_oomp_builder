@@ -7,7 +7,12 @@ directory_oomp = "" # directory to create your oomp
 #      don't change these
 directory_oomp_parts = os.path.join(directory_oomp, "parts")
 directory_temporary = "temporary" # directory to create your oomp
+
 repo_source_yaml = "configuration/repos_source.yaml"
+#check if file exists
+if not os.path.exists(repo_source_yaml):
+    print(f"{repo_source_yaml} doesn't exist using default")
+    repo_source_yaml = "configuration/repos_source_default.yaml"
 
 
 def main(**kwargs):
