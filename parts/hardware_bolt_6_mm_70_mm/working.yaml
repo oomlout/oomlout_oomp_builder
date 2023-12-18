@@ -1,0 +1,100 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 70_mm
+description_main_capital: 70 mm
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 70_MM
+description_only_numbers: '70'
+description_only_numbers_short: '70'
+description_or_color: '70'
+description_or_color_upper: '70'
+directory: parts/hardware_bolt_6_mm_70_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_70_mm
+id: hardware_bolt_6_mm_70_mm
+id_no_class: bolt_6_mm_70_mm
+id_no_color: 70mm
+id_no_size: 70_mm
+id_no_type: 6_mm_70_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_6_mm_70_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_70_mm/working)<br>[b670](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_70_mm/working)<br>[Hardware
+  Bolt 6 Mm 70 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_70_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_6_mm_70_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_6_mm_70_mm/working)<br><br>'
+md5: 5422ee2176a90314e0b40c4c2f60e064
+md5_10: 5422ee2176
+md5_10_upper: 5422EE2176
+md5_5: 5422e
+md5_5_upper: 5422E
+md5_6: 5422ee
+md5_6_alpha: 3a6lq
+md5_6_alpha_upper: 3A6LQ
+md5_6_upper: 5422EE
+name: Hardware Bolt 6 Mm 70 Mm
+name_no_class: Bolt 6 Mm 70 Mm
+name_no_color: 70Mm
+name_no_size: 70 Mm
+name_no_size_short: 70 Mm
+name_no_type: 6 Mm 70 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: ''
+oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_length: 70 mm
+oomlout_bolt_length_no_unit: '70'
+oomlout_bolt_name: Bolt M6X70 mm  ()
+oomlout_bolt_size: M6
+oomlout_bolt_type: Bolt
+oomlout_bolt_type_diagram_diagram: type_diagram.svg
+oomlout_short_code: b6m70
+oomlout_short_code_upper: B6M70
+oomp_key: oomp_hardware_bolt_6_mm_70_mm
+oomp_word: whale lips ambulance
+oomp_word_emoji: ':whale: :lips: :ambulance:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':lips:'
+- ':ambulance:'
+oomp_word_list:
+- whale
+- lips
+- ambulance
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b670
+short_code_upper: B670
+size: 6_mm
+size_capital: 6 mm
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

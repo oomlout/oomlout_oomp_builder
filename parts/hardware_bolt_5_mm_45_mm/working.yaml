@@ -1,0 +1,100 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 45_mm
+description_main_capital: 45 mm
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 45_MM
+description_only_numbers: '45'
+description_only_numbers_short: '45'
+description_or_color: '45'
+description_or_color_upper: '45'
+directory: parts/hardware_bolt_5_mm_45_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_45_mm
+id: hardware_bolt_5_mm_45_mm
+id_no_class: bolt_5_mm_45_mm
+id_no_color: 45mm
+id_no_size: 45_mm
+id_no_type: 5_mm_45_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_5_mm_45_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_45_mm/working)<br>[b545](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_45_mm/working)<br>[Hardware
+  Bolt 5 Mm 45 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_45_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_5_mm_45_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_45_mm/working)<br><br>'
+md5: dd95d2779137e89c0acbe1a8e14dc250
+md5_10: dd95d27791
+md5_10_upper: DD95D27791
+md5_5: dd95d
+md5_5_upper: DD95D
+md5_6: dd95d2
+md5_6_alpha: 8n93m
+md5_6_alpha_upper: 8N93M
+md5_6_upper: DD95D2
+name: Hardware Bolt 5 Mm 45 Mm
+name_no_class: Bolt 5 Mm 45 Mm
+name_no_color: 45Mm
+name_no_size: 45 Mm
+name_no_size_short: 45 Mm
+name_no_type: 5 Mm 45 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: ''
+oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_length: 45 mm
+oomlout_bolt_length_no_unit: '45'
+oomlout_bolt_name: Bolt M5X45 mm  ()
+oomlout_bolt_size: M5
+oomlout_bolt_type: Bolt
+oomlout_bolt_type_diagram_diagram: type_diagram.svg
+oomlout_short_code: b5m45
+oomlout_short_code_upper: B5M45
+oomp_key: oomp_hardware_bolt_5_mm_45_mm
+oomp_word: stars telescope pineapple
+oomp_word_emoji: ':stars: :telescope: :pineapple:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':telescope:'
+- ':pineapple:'
+oomp_word_list:
+- stars
+- telescope
+- pineapple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b545
+short_code_upper: B545
+size: 5_mm
+size_capital: 5 mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

@@ -1,0 +1,100 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 95_mm
+description_main_capital: 95 mm
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 95_MM
+description_only_numbers: '95'
+description_only_numbers_short: '95'
+description_or_color: '95'
+description_or_color_upper: '95'
+directory: parts/hardware_bolt_8_mm_95_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_95_mm
+id: hardware_bolt_8_mm_95_mm
+id_no_class: bolt_8_mm_95_mm
+id_no_color: 95mm
+id_no_size: 95_mm
+id_no_type: 8_mm_95_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_8_mm_95_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_95_mm/working)<br>[b895](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_95_mm/working)<br>[Hardware
+  Bolt 8 Mm 95 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_95_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_8_mm_95_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_95_mm/working)<br><br>'
+md5: 7b7d1572da721769e2d8342463084df2
+md5_10: 7b7d1572da
+md5_10_upper: 7B7D1572DA
+md5_5: 7b7d1
+md5_5_upper: 7B7D1
+md5_6: 7b7d15
+md5_6_alpha: 4tgk5
+md5_6_alpha_upper: 4TGK5
+md5_6_upper: 7B7D15
+name: Hardware Bolt 8 Mm 95 Mm
+name_no_class: Bolt 8 Mm 95 Mm
+name_no_color: 95Mm
+name_no_size: 95 Mm
+name_no_size_short: 95 Mm
+name_no_type: 8 Mm 95 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: ''
+oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_length: 95 mm
+oomlout_bolt_length_no_unit: '95'
+oomlout_bolt_name: Bolt M8X95 mm  ()
+oomlout_bolt_size: M8
+oomlout_bolt_type: Bolt
+oomlout_bolt_type_diagram_diagram: type_diagram.svg
+oomlout_short_code: b8m95
+oomlout_short_code_upper: B8M95
+oomp_key: oomp_hardware_bolt_8_mm_95_mm
+oomp_word: computer phone poop
+oomp_word_emoji: ':computer: :phone: :poop:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':phone:'
+- ':poop:'
+oomp_word_list:
+- computer
+- phone
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b895
+short_code_upper: B895
+size: 8_mm
+size_capital: 8 mm
+size_first_letter: '8'
+size_first_letter_upper: '8'
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
+size_upper: 8_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

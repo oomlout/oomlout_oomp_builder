@@ -1,0 +1,100 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 120_mm
+description_main_capital: 120 mm
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 120_MM
+description_only_numbers: '120'
+description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
+directory: parts/hardware_bolt_8_mm_120_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_120_mm
+id: hardware_bolt_8_mm_120_mm
+id_no_class: bolt_8_mm_120_mm
+id_no_color: 120mm
+id_no_size: 120_mm
+id_no_type: 8_mm_120_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_8_mm_120_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_120_mm/working)<br>[b8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_120_mm/working)<br>[Hardware
+  Bolt 8 Mm 120 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_120_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_8_mm_120_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_120_mm/working)<br><br>'
+md5: c458a25c6d4eb7a56c0c193b2ec2fd2a
+md5_10: c458a25c6d
+md5_10_upper: C458A25C6D
+md5_5: c458a
+md5_5_upper: C458A
+md5_6: c458a2
+md5_6_alpha: 7nste
+md5_6_alpha_upper: 7NSTE
+md5_6_upper: C458A2
+name: Hardware Bolt 8 Mm 120 Mm
+name_no_class: Bolt 8 Mm 120 Mm
+name_no_color: 120Mm
+name_no_size: 120 Mm
+name_no_size_short: 120 Mm
+name_no_type: 8 Mm 120 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: ''
+oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_length: 120 mm
+oomlout_bolt_length_no_unit: '120'
+oomlout_bolt_name: Bolt M8X120 mm  ()
+oomlout_bolt_size: M8
+oomlout_bolt_type: Bolt
+oomlout_bolt_type_diagram_diagram: type_diagram.svg
+oomlout_short_code: b8m120
+oomlout_short_code_upper: B8M120
+oomp_key: oomp_hardware_bolt_8_mm_120_mm
+oomp_word: cookie water_buffalo violin
+oomp_word_emoji: ':cookie: :water_buffalo: :violin:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':water_buffalo:'
+- ':violin:'
+oomp_word_list:
+- cookie
+- water_buffalo
+- violin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b8
+short_code_upper: B8
+size: 8_mm
+size_capital: 8 mm
+size_first_letter: '8'
+size_first_letter_upper: '8'
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
+size_upper: 8_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT

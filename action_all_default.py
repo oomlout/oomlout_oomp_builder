@@ -12,11 +12,11 @@ def main(**kwargs):
     
     #      create
     import action_create
-    action_create.main(**kwargs)
+    #action_create.main(**kwargs)
     
     #      load in the yaml files
     import action_load
-    parts = action_load.main(**kwargs)    
+    #parts = action_load.main(**kwargs)    
     kwargs["parts"] = parts
     
     #      make links

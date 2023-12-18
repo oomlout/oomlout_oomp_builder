@@ -1,0 +1,100 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 35_mm
+description_main_capital: 35 mm
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 35_MM
+description_only_numbers: '35'
+description_only_numbers_short: '35'
+description_or_color: '35'
+description_or_color_upper: '35'
+directory: parts/hardware_bolt_5_mm_35_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_35_mm
+id: hardware_bolt_5_mm_35_mm
+id_no_class: bolt_5_mm_35_mm
+id_no_color: 35mm
+id_no_size: 35_mm
+id_no_type: 5_mm_35_mm
+kicad_reference: ''
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bolt_5_mm_35_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_35_mm/working)<br>[b535](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_35_mm/working)<br>[Hardware
+  Bolt 5 Mm 35 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_35_mm/working)<br><br>'
+markdown_short: '[hardware_bolt_5_mm_35_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_5_mm_35_mm/working)<br><br>'
+md5: 555c20e14a7b12e008e659060a8e23f3
+md5_10: 555c20e14a
+md5_10_upper: 555C20E14A
+md5_5: 555c2
+md5_5_upper: 555C2
+md5_6: 555c20
+md5_6_alpha: 3bwgw
+md5_6_alpha_upper: 3BWGW
+md5_6_upper: 555C20
+name: Hardware Bolt 5 Mm 35 Mm
+name_no_class: Bolt 5 Mm 35 Mm
+name_no_color: 35Mm
+name_no_size: 35 Mm
+name_no_size_short: 35 Mm
+name_no_type: 5 Mm 35 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: ''
+oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_length: 35 mm
+oomlout_bolt_length_no_unit: '35'
+oomlout_bolt_name: Bolt M5X35 mm  ()
+oomlout_bolt_size: M5
+oomlout_bolt_type: Bolt
+oomlout_bolt_type_diagram_diagram: type_diagram.svg
+oomlout_short_code: b5m35
+oomlout_short_code_upper: B5M35
+oomp_key: oomp_hardware_bolt_5_mm_35_mm
+oomp_word: dolphin ox skull
+oomp_word_emoji: ':dolphin: :ox: :skull:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':ox:'
+- ':skull:'
+oomp_word_list:
+- dolphin
+- ox
+- skull
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b535
+short_code_upper: B535
+size: 5_mm
+size_capital: 5 mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM
+type: bolt
+type_capital: Bolt
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOLT
