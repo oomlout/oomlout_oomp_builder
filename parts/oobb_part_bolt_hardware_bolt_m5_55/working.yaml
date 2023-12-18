@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m5_55
+directory: parts/oobb_part_bolt_hardware_bolt_m5_55
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_55
+id: oobb_part_bolt_hardware_bolt_m5_55
+id_no_class: part_bolt_hardware_bolt_m5_55
+id_no_color: hardwarem555
+id_no_size: hardware_m5_55
+id_no_type: bolt_hardware_bolt_m5_55
+manufacturer: ''
+md5: 241eeadfb74b527114edd758b9e620e8
+md5_10: 241eeadfb7
+md5_10_upper: 241EEADFB7
+md5_5: 241ee
+md5_5_upper: 241EE
+md5_6: 241eea
+md5_6_alpha: 1eqju
+md5_6_alpha_upper: 1EQJU
+md5_6_upper: 241EEA
+name: Oobb Part Bolt Hardware Bolt M5 55
+name_no_class: Part Bolt Hardware Bolt M5 55
+name_no_color: Hardwarem555
+name_no_size: Hardware M5 55
+name_no_type: Bolt Hardware Bolt M5 55
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_55
+oomp_word: droplet angel tractor
+oomp_word_emoji: ':droplet: :angel: :tractor:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':angel:'
+- ':tractor:'
+oomp_word_list:
+- droplet
+- angel
+- tractor
+part_number: ''
+size: bolt
+type: part

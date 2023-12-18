@@ -1,0 +1,40 @@
+classification: hardware
+color: F683_size
+description_extra: ''
+description_main: 3_mm_id_7_mm_od_3_mm_depth
+directory: parts/hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+id: hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_class: bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_color: 3_mm_id_7_mm_od_3_mm_depth
+id_no_size: F683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_type: F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+manufacturer: ''
+md5: 7bb277e7c4796db166cba8572f9b0b36
+md5_10: 7bb277e7c4
+md5_10_upper: 7BB277E7C4
+md5_5: 7bb27
+md5_5_upper: 7BB27
+md5_6: 7bb277
+md5_6_alpha: 4tr3r
+md5_6_alpha_upper: 4TR3R
+md5_6_upper: 7BB277
+name: Hardware Bearing F600 Series F683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_class: Bearing F600 Series F683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_color: 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_size: F683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_type: F600 Series F683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
+oomp_word: computer handbag gift
+oomp_word_emoji: ':computer: :handbag: :gift:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':handbag:'
+- ':gift:'
+oomp_word_list:
+- computer
+- handbag
+- gift
+part_number: ''
+size: F600_series
+type: bearing

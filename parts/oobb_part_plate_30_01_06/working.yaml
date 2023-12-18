@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '30_01_06'
+directory: parts/oobb_part_plate_30_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_30_01_06
+id: oobb_part_plate_30_01_06
+id_no_class: part_plate_30_01_06
+id_no_color: '300106'
+id_no_size: '30_01_06'
+id_no_type: plate_30_01_06
+manufacturer: ''
+md5: daf8aa38be0d21c97119be35b15c66b8
+md5_10: daf8aa38be
+md5_10_upper: DAF8AA38BE
+md5_5: daf8a
+md5_5_upper: DAF8A
+md5_6: daf8aa
+md5_6_alpha: 8jkx6
+md5_6_alpha_upper: 8JKX6
+md5_6_upper: DAF8AA
+name: Oobb Part Plate 30 01 06
+name_no_class: Part Plate 30 01 06
+name_no_color: '300106'
+name_no_size: 30 01 06
+name_no_type: Plate 30 01 06
+oomp_key: oomp_oobb_part_plate_30_01_06
+oomp_word: hotel seven lipstick
+oomp_word_emoji: ':hotel: :seven: :lipstick:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':seven:'
+- ':lipstick:'
+oomp_word_list:
+- hotel
+- seven
+- lipstick
+part_number: ''
+size: plate
+type: part

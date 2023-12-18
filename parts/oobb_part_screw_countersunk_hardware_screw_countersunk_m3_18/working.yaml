@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_18
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_18
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_18
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_18
+id_no_color: hardwarem318
+id_no_size: hardware_m3_18
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_18
+manufacturer: ''
+md5: 56b8475684221dac038fbff882b629e9
+md5_10: 56b8475684
+md5_10_upper: 56B8475684
+md5_5: 56b84
+md5_5_upper: 56B84
+md5_6: 56b847
+md5_6_alpha: 3dt8n
+md5_6_alpha_upper: 3DT8N
+md5_6_upper: 56B847
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 18
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 18
+name_no_color: Hardwarem318
+name_no_size: Hardware M3 18
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 18
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_18
+oomp_word: ram hamburger baby_chick
+oomp_word_emoji: ':ram: :hamburger: :baby_chick:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':hamburger:'
+- ':baby_chick:'
+oomp_word_list:
+- ram
+- hamburger
+- baby_chick
+part_number: ''
+size: screw_countersunk
+type: part

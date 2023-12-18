@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_02_15'
+directory: parts/oobb_part_tray_thin_11_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_02_15
+id: oobb_part_tray_thin_11_02_15
+id_no_class: part_tray_thin_11_02_15
+id_no_color: '110215'
+id_no_size: '11_02_15'
+id_no_type: tray_thin_11_02_15
+manufacturer: ''
+md5: de9f2b6def175bcab4029a1cd8ca9b77
+md5_10: de9f2b6def
+md5_10_upper: DE9F2B6DEF
+md5_5: de9f2
+md5_5_upper: DE9F2
+md5_6: de9f2b
+md5_6_alpha: 8opij
+md5_6_alpha_upper: 8OPIJ
+md5_6_upper: DE9F2B
+name: Oobb Part Tray Thin 11 02 15
+name_no_class: Part Tray Thin 11 02 15
+name_no_color: '110215'
+name_no_size: 11 02 15
+name_no_type: Tray Thin 11 02 15
+oomp_key: oomp_oobb_part_tray_thin_11_02_15
+oomp_word: rainbow diamonds cloud
+oomp_word_emoji: ':rainbow: :diamonds: :cloud:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':diamonds:'
+- ':cloud:'
+oomp_word_list:
+- rainbow
+- diamonds
+- cloud
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 19_pin
+directory: parts/electronic_socket_2_54_mm_19_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long
+id: electronic_socket_2_54_mm_19_pin_through_hole_long
+id_no_class: socket_2_54_mm_19_pin_through_hole_long
+id_no_color: 19pinthroughholelong
+id_no_size: 19_pin_through_hole_long
+id_no_type: 2_54_mm_19_pin_through_hole_long
+manufacturer: ''
+md5: 85cae0ca5dc3ca7640298b6d91c08137
+md5_10: 85cae0ca5d
+md5_10_upper: 85CAE0CA5D
+md5_5: 85cae
+md5_5_upper: 85CAE
+md5_6: 85cae0
+md5_6_alpha: 57xls
+md5_6_alpha_upper: 57XLS
+md5_6_upper: 85CAE0
+name: Electronic Socket 2 54 Mm 19 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 19 Pin Through Hole Long
+name_no_color: 19Pinthroughholelong
+name_no_size: 19 Pin Through Hole Long
+name_no_type: 2 54 Mm 19 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_19_pin_through_hole_long
+oomp_word: bulb cherries ship
+oomp_word_emoji: ':bulb: :cherries: :ship:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':cherries:'
+- ':ship:'
+oomp_word_list:
+- bulb
+- cherries
+- ship
+part_number: ''
+size: 2_54_mm
+type: socket

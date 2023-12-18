@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_06_ex_basic
+directory: parts/oobb_part_wire_03_03_06_ex_basic
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_basic
+id: oobb_part_wire_03_03_06_ex_basic
+id_no_class: part_wire_03_03_06_ex_basic
+id_no_color: 030306exbasic
+id_no_size: 03_03_06_ex_basic
+id_no_type: wire_03_03_06_ex_basic
+manufacturer: ''
+md5: 3edf3fa6ad6e82da60275c153a2311f3
+md5_10: 3edf3fa6ad
+md5_10_upper: 3EDF3FA6AD
+md5_5: 3edf3
+md5_5_upper: 3EDF3
+md5_6: 3edf3f
+md5_6_alpha: 2gbb3
+md5_6_alpha_upper: 2GBB3
+md5_6_upper: 3EDF3F
+name: Oobb Part Wire 03 03 06 Ex Basic
+name_no_class: Part Wire 03 03 06 Ex Basic
+name_no_color: 030306Exbasic
+name_no_size: 03 03 06 Ex Basic
+name_no_type: Wire 03 03 06 Ex Basic
+oomp_key: oomp_oobb_part_wire_03_03_06_ex_basic
+oomp_word: monkey fountain horse
+oomp_word_emoji: ':monkey: :fountain: :horse:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':fountain:'
+- ':horse:'
+oomp_word_list:
+- monkey
+- fountain
+- horse
+part_number: ''
+size: wire
+type: part

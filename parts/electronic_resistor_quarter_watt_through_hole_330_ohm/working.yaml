@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_330_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330_ohm
+id: electronic_resistor_quarter_watt_through_hole_330_ohm
+id_no_class: resistor_quarter_watt_through_hole_330_ohm
+id_no_color: 330ohm
+id_no_size: 330_ohm
+id_no_type: quarter_watt_through_hole_330_ohm
+manufacturer: ''
+md5: 3c119be7a2243936733916e16cf6f41f
+md5_10: 3c119be7a2
+md5_10_upper: 3C119BE7A2
+md5_5: 3c119
+md5_5_upper: 3C119
+md5_6: 3c119b
+md5_6_alpha: 2cdjv
+md5_6_alpha_upper: 2CDJV
+md5_6_upper: 3C119B
+name: Electronic Resistor Quarter Watt Through Hole 330 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 330 Ohm
+name_no_color: 330Ohm
+name_no_size: 330 Ohm
+name_no_type: Quarter Watt Through Hole 330 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_330_ohm
+oomp_word: pig dizzy ski
+oomp_word_emoji: ':pig: :dizzy: :ski:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':dizzy:'
+- ':ski:'
+oomp_word_list:
+- pig
+- dizzy
+- ski
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_09'
+directory: parts/oobb_part_tray_thin_12_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_09
+id: oobb_part_tray_thin_12_01_09
+id_no_class: part_tray_thin_12_01_09
+id_no_color: '120109'
+id_no_size: '12_01_09'
+id_no_type: tray_thin_12_01_09
+manufacturer: ''
+md5: b1e4d21fd889e11ad739ad45663eee63
+md5_10: b1e4d21fd8
+md5_10_upper: B1E4D21FD8
+md5_5: b1e4d
+md5_5_upper: B1E4D
+md5_6: b1e4d2
+md5_6_alpha: 6xvpu
+md5_6_alpha_upper: 6XVPU
+md5_6_upper: B1E4D2
+name: Oobb Part Tray Thin 12 01 09
+name_no_class: Part Tray Thin 12 01 09
+name_no_color: '120109'
+name_no_size: 12 01 09
+name_no_type: Tray Thin 12 01 09
+oomp_key: oomp_oobb_part_tray_thin_12_01_09
+oomp_word: briefcase anchor pineapple
+oomp_word_emoji: ':briefcase: :anchor: :pineapple:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':anchor:'
+- ':pineapple:'
+oomp_word_list:
+- briefcase
+- anchor
+- pineapple
+part_number: ''
+size: tray_thin
+type: part

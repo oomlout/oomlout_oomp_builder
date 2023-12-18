@@ -1,0 +1,40 @@
+classification: electronic
+color: linear
+description_extra: 3_3_volt
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_3_3_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt
+id: electronic_pmic_sot_223_linear_1117_3_3_volt
+id_no_class: pmic_sot_223_linear_1117_3_3_volt
+id_no_color: 1117_3_3_volt
+id_no_size: linear_1117_3_3_volt
+id_no_type: sot_223_linear_1117_3_3_volt
+manufacturer: ''
+md5: 24ed557c93e5cb4d939bb45cf16d2762
+md5_10: 24ed557c93
+md5_10_upper: 24ED557C93
+md5_5: 24ed5
+md5_5_upper: 24ED5
+md5_6: 24ed55
+md5_6_alpha: 1fvbp
+md5_6_alpha_upper: 1FVBP
+md5_6_upper: 24ED55
+name: Electronic Pmic Sot 223 Linear 1117 3 3 Volt
+name_no_class: Pmic Sot 223 Linear 1117 3 3 Volt
+name_no_color: 1117 3 3 Volt
+name_no_size: Linear 1117 3 3 Volt
+name_no_type: Sot 223 Linear 1117 3 3 Volt
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_3_3_volt
+oomp_word: droplet bus dolphin
+oomp_word_emoji: ':droplet: :bus: :dolphin:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':bus:'
+- ':dolphin:'
+oomp_word_list:
+- droplet
+- bus
+- dolphin
+part_number: ''
+size: sot_223
+type: pmic

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_07_12'
+directory: parts/oobb_part_tray_04_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_07_12
+id: oobb_part_tray_04_07_12
+id_no_class: part_tray_04_07_12
+id_no_color: '040712'
+id_no_size: '04_07_12'
+id_no_type: tray_04_07_12
+manufacturer: ''
+md5: 227a54bb8e3fc9f129ba933761b0d4a2
+md5_10: 227a54bb8e
+md5_10_upper: 227A54BB8E
+md5_5: 227a5
+md5_5_upper: 227A5
+md5_6: 227a54
+md5_6_alpha: 1cfh0
+md5_6_alpha_upper: 1CFH0
+md5_6_upper: 227A54
+name: Oobb Part Tray 04 07 12
+name_no_class: Part Tray 04 07 12
+name_no_color: '040712'
+name_no_size: 04 07 12
+name_no_type: Tray 04 07 12
+oomp_key: oomp_oobb_part_tray_04_07_12
+oomp_word: lips camera whale
+oomp_word_emoji: ':lips: :camera: :whale:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':camera:'
+- ':whale:'
+oomp_word_list:
+- lips
+- camera
+- whale
+part_number: ''
+size: tray
+type: part

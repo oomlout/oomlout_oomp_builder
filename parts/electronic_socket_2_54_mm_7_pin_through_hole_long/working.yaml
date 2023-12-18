@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 7_pin
+directory: parts/electronic_socket_2_54_mm_7_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole_long
+id: electronic_socket_2_54_mm_7_pin_through_hole_long
+id_no_class: socket_2_54_mm_7_pin_through_hole_long
+id_no_color: 7pinthroughholelong
+id_no_size: 7_pin_through_hole_long
+id_no_type: 2_54_mm_7_pin_through_hole_long
+manufacturer: ''
+md5: dc7eae56c433c2a3f01c9875e543c08a
+md5_10: dc7eae56c4
+md5_10_upper: DC7EAE56C4
+md5_5: dc7ea
+md5_5_upper: DC7EA
+md5_6: dc7eae
+md5_6_alpha: 8lpym
+md5_6_alpha_upper: 8LPYM
+md5_6_upper: DC7EAE
+name: Electronic Socket 2 54 Mm 7 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 7 Pin Through Hole Long
+name_no_color: 7Pinthroughholelong
+name_no_size: 7 Pin Through Hole Long
+name_no_type: 2 54 Mm 7 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_7_pin_through_hole_long
+oomp_word: factory fax jeans
+oomp_word_emoji: ':factory: :fax: :jeans:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':fax:'
+- ':jeans:'
+oomp_word_list:
+- factory
+- fax
+- jeans
+part_number: ''
+size: 2_54_mm
+type: socket

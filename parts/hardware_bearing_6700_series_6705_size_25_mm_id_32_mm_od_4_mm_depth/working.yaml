@@ -1,0 +1,40 @@
+classification: hardware
+color: 6705_size
+description_extra: ''
+description_main: 25_mm_id_32_mm_od_4_mm_depth
+directory: parts/hardware_bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+id: hardware_bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+id_no_class: bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+id_no_color: 25_mm_id_32_mm_od_4_mm_depth
+id_no_size: 6705_size_25_mm_id_32_mm_od_4_mm_depth
+id_no_type: 6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+manufacturer: ''
+md5: 521c119ccfa5c0da0a540d9338b8690f
+md5_10: 521c119ccf
+md5_10_upper: 521C119CCF
+md5_5: 521c1
+md5_5_upper: 521C1
+md5_6: 521c11
+md5_6_alpha: 37c41
+md5_6_alpha_upper: 37C41
+md5_6_upper: 521C11
+name: Hardware Bearing 6700 Series 6705 Size 25 Mm Id 32 Mm Od 4 Mm Depth
+name_no_class: Bearing 6700 Series 6705 Size 25 Mm Id 32 Mm Od 4 Mm Depth
+name_no_color: 25 Mm Id 32 Mm Od 4 Mm Depth
+name_no_size: 6705 Size 25 Mm Id 32 Mm Od 4 Mm Depth
+name_no_type: 6700 Series 6705 Size 25 Mm Id 32 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_6700_series_6705_size_25_mm_id_32_mm_od_4_mm_depth
+oomp_word: octopus dancer dizzy
+oomp_word_emoji: ':octopus: :dancer: :dizzy:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':dancer:'
+- ':dizzy:'
+oomp_word_list:
+- octopus
+- dancer
+- dizzy
+part_number: ''
+size: 6700_series
+type: bearing

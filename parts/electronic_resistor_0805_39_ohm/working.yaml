@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39_ohm
+directory: parts/electronic_resistor_0805_39_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_39_ohm
+id: electronic_resistor_0805_39_ohm
+id_no_class: resistor_0805_39_ohm
+id_no_color: 39ohm
+id_no_size: 39_ohm
+id_no_type: 0805_39_ohm
+manufacturer: ''
+md5: 09654c8063094b37d33bfd5d38e90780
+md5_10: 09654c8063
+md5_10_upper: 09654C8063
+md5_5: 09654
+md5_5_upper: 09654
+md5_6: 09654c
+md5_6_alpha: d74c
+md5_6_alpha_upper: D74C
+md5_6_upper: 09654C
+name: Electronic Resistor 0805 39 Ohm
+name_no_class: Resistor 0805 39 Ohm
+name_no_color: 39Ohm
+name_no_size: 39 Ohm
+name_no_type: 0805 39 Ohm
+oomp_key: oomp_electronic_resistor_0805_39_ohm
+oomp_word: angry maple_leaf turtle
+oomp_word_emoji: ':angry: :maple_leaf: :turtle:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':maple_leaf:'
+- ':turtle:'
+oomp_word_list:
+- angry
+- maple_leaf
+- turtle
+part_number: ''
+size: 0805
+type: resistor

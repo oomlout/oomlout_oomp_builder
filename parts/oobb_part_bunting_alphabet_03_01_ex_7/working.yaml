@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_7
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_7
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_7
+id: oobb_part_bunting_alphabet_03_01_ex_7
+id_no_class: part_bunting_alphabet_03_01_ex_7
+id_no_color: 0301ex7
+id_no_size: 03_01_ex_7
+id_no_type: bunting_alphabet_03_01_ex_7
+manufacturer: ''
+md5: 9e3af85ac4426768c0cf65dba78391a4
+md5_10: 9e3af85ac4
+md5_10_upper: 9E3AF85AC4
+md5_5: 9e3af
+md5_5_upper: 9E3AF
+md5_6: 9e3af8
+md5_6_alpha: 669dk
+md5_6_alpha_upper: 669DK
+md5_6_upper: 9E3AF8
+name: Oobb Part Bunting Alphabet 03 01 Ex 7
+name_no_class: Part Bunting Alphabet 03 01 Ex 7
+name_no_color: 0301Ex7
+name_no_size: 03 01 Ex 7
+name_no_type: Bunting Alphabet 03 01 Ex 7
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_7
+oomp_word: clubs koala seven
+oomp_word_emoji: ':clubs: :koala: :seven:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':koala:'
+- ':seven:'
+oomp_word_list:
+- clubs
+- koala
+- seven
+part_number: ''
+size: bunting_alphabet
+type: part

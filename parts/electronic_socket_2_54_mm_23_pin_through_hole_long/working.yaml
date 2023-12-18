@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 23_pin
+directory: parts/electronic_socket_2_54_mm_23_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_23_pin_through_hole_long
+id: electronic_socket_2_54_mm_23_pin_through_hole_long
+id_no_class: socket_2_54_mm_23_pin_through_hole_long
+id_no_color: 23pinthroughholelong
+id_no_size: 23_pin_through_hole_long
+id_no_type: 2_54_mm_23_pin_through_hole_long
+manufacturer: ''
+md5: f2506803f157410f3d91054584ce397d
+md5_10: f2506803f1
+md5_10_upper: F2506803F1
+md5_5: f2506
+md5_5_upper: F2506
+md5_6: f25068
+md5_6_alpha: 9gdbc
+md5_6_alpha_upper: 9GDBC
+md5_6_upper: F25068
+name: Electronic Socket 2 54 Mm 23 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 23 Pin Through Hole Long
+name_no_color: 23Pinthroughholelong
+name_no_size: 23 Pin Through Hole Long
+name_no_type: 2 54 Mm 23 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_23_pin_through_hole_long
+oomp_word: one beetle mushroom
+oomp_word_emoji: ':one: :beetle: :mushroom:'
+oomp_word_emoji_list:
+- ':one:'
+- ':beetle:'
+- ':mushroom:'
+oomp_word_list:
+- one
+- beetle
+- mushroom
+part_number: ''
+size: 2_54_mm
+type: socket

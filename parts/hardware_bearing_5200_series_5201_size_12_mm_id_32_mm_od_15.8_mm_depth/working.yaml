@@ -1,0 +1,40 @@
+classification: hardware
+color: 5201_size
+description_extra: ''
+description_main: 12_mm_id_32_mm_od_15.8_mm_depth
+directory: parts/hardware_bearing_5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+id: hardware_bearing_5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+id_no_class: bearing_5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+id_no_color: 12_mm_id_32_mm_od_15.8_mm_depth
+id_no_size: 5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+id_no_type: 5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+manufacturer: ''
+md5: 4bd3d629767a6e21db2947ba71496a19
+md5_10: 4bd3d62976
+md5_10_upper: 4BD3D62976
+md5_5: 4bd3d
+md5_5_upper: 4BD3D
+md5_6: 4bd3d6
+md5_6_alpha: 2yifq
+md5_6_alpha_upper: 2YIFQ
+md5_6_upper: 4BD3D6
+name: Hardware Bearing 5200 Series 5201 Size 12 Mm Id 32 Mm Od 15.8 Mm Depth
+name_no_class: Bearing 5200 Series 5201 Size 12 Mm Id 32 Mm Od 15.8 Mm Depth
+name_no_color: 12 Mm Id 32 Mm Od 15.8 Mm Depth
+name_no_size: 5201 Size 12 Mm Id 32 Mm Od 15.8 Mm Depth
+name_no_type: 5200 Series 5201 Size 12 Mm Id 32 Mm Od 15.8 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5201_size_12_mm_id_32_mm_od_15.8_mm_depth
+oomp_word: penguin tomato school
+oomp_word_emoji: ':penguin: :tomato: :school:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':tomato:'
+- ':school:'
+oomp_word_list:
+- penguin
+- tomato
+- school
+part_number: ''
+size: 5200_series
+type: bearing

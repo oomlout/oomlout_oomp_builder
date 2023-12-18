@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_06'
+directory: parts/oobb_part_plate_05_03_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_06
+id: oobb_part_plate_05_03_06
+id_no_class: part_plate_05_03_06
+id_no_color: '050306'
+id_no_size: '05_03_06'
+id_no_type: plate_05_03_06
+manufacturer: ''
+md5: 1a5e199c275591b48cb5f05ddb24b792
+md5_10: 1a5e199c27
+md5_10_upper: 1A5E199C27
+md5_5: 1a5e1
+md5_5_upper: 1A5E1
+md5_6: 1a5e19
+md5_6_alpha: 111cp
+md5_6_alpha_upper: 111CP
+md5_6_upper: 1A5E19
+name: Oobb Part Plate 05 03 06
+name_no_class: Part Plate 05 03 06
+name_no_color: '050306'
+name_no_size: 05 03 06
+name_no_type: Plate 05 03 06
+oomp_key: oomp_oobb_part_plate_05_03_06
+oomp_word: clap crocodile pray
+oomp_word_emoji: ':clap: :crocodile: :pray:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':crocodile:'
+- ':pray:'
+oomp_word_list:
+- clap
+- crocodile
+- pray
+part_number: ''
+size: plate
+type: part

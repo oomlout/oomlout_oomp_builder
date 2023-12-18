@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_8
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_8
+id: oobb_part_bunting_alphabet_13_01_ex_8
+id_no_class: part_bunting_alphabet_13_01_ex_8
+id_no_color: 1301ex8
+id_no_size: 13_01_ex_8
+id_no_type: bunting_alphabet_13_01_ex_8
+manufacturer: ''
+md5: 3d789e4bf96d8f3e3acf4da9ecd1ca3d
+md5_10: 3d789e4bf9
+md5_10_upper: 3D789E4BF9
+md5_5: 3d789
+md5_5_upper: 3D789
+md5_6: 3d789e
+md5_6_alpha: 2ecgu
+md5_6_alpha_upper: 2ECGU
+md5_6_upper: 3D789E
+name: Oobb Part Bunting Alphabet 13 01 Ex 8
+name_no_class: Part Bunting Alphabet 13 01 Ex 8
+name_no_color: 1301Ex8
+name_no_size: 13 01 Ex 8
+name_no_type: Bunting Alphabet 13 01 Ex 8
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_8
+oomp_word: cow bell clubs
+oomp_word_emoji: ':cow: :bell: :clubs:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':bell:'
+- ':clubs:'
+oomp_word_list:
+- cow
+- bell
+- clubs
+part_number: ''
+size: bunting_alphabet
+type: part

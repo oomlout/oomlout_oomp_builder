@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2_pin
+directory: parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_2_pin_surface_mount_right_angle
+id_no_color: 2pinsurfacemountrightangle
+id_no_size: 2_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_2_pin_surface_mount_right_angle
+manufacturer: ''
+md5: b2ef5e80cc3cc2efc7191be597c89007
+md5_10: b2ef5e80cc
+md5_10_upper: B2EF5E80CC
+md5_5: b2ef5
+md5_5_upper: B2EF5
+md5_6: b2ef5e
+md5_6_alpha: 6zcda
+md5_6_alpha_upper: 6ZCDA
+md5_6_upper: B2EF5E
+name: Electronic Header 1 Mm Jst Sh 2 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 2 Pin Surface Mount Right Angle
+name_no_color: 2Pinsurfacemountrightangle
+name_no_size: 2 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 2 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin_surface_mount_right_angle
+oomp_word: handbag truck crocodile
+oomp_word_emoji: ':handbag: :truck: :crocodile:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':truck:'
+- ':crocodile:'
+oomp_word_list:
+- handbag
+- truck
+- crocodile
+part_number: ''
+size: 1_mm_jst_sh
+type: header

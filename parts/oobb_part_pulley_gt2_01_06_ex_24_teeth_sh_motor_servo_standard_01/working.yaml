@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_24_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+id_no_color: 0106ex24teethshmotorservostandard01
+id_no_size: 01_06_ex_24_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: ad0e757dc98b92b73a68151e3d47a47e
+md5_10: ad0e757dc9
+md5_10_upper: AD0E757DC9
+md5_5: ad0e7
+md5_5_upper: AD0E7
+md5_6: ad0e75
+md5_6_alpha: 6r33p
+md5_6_alpha_upper: 6R33P
+md5_6_upper: AD0E75
+name: Oobb Part Pulley Gt2 01 06 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 01 06 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_color: 0106Ex24Teethshmotorservostandard01
+name_no_size: 01 06 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 01 06 Ex 24 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_24_teeth_sh_motor_servo_standard_01
+oomp_word: dress cupid ghost
+oomp_word_emoji: ':dress: :cupid: :ghost:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':cupid:'
+- ':ghost:'
+oomp_word_list:
+- dress
+- cupid
+- ghost
+part_number: ''
+size: pulley_gt2
+type: part

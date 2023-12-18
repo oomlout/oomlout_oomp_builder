@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_05_15'
+directory: parts/oobb_part_tray_03_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_05_15
+id: oobb_part_tray_03_05_15
+id_no_class: part_tray_03_05_15
+id_no_color: '030515'
+id_no_size: '03_05_15'
+id_no_type: tray_03_05_15
+manufacturer: ''
+md5: 776f15a97521a58e0372e3f0bb900fe1
+md5_10: 776f15a975
+md5_10_upper: 776F15A975
+md5_5: 776f1
+md5_5_upper: 776F1
+md5_6: 776f15
+md5_6_alpha: 4nrit
+md5_6_alpha_upper: 4NRIT
+md5_6_upper: 776F15
+name: Oobb Part Tray 03 05 15
+name_no_class: Part Tray 03 05 15
+name_no_color: '030515'
+name_no_size: 03 05 15
+name_no_type: Tray 03 05 15
+oomp_key: oomp_oobb_part_tray_03_05_15
+oomp_word: gift moon poop
+oomp_word_emoji: ':gift: :moon: :poop:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':moon:'
+- ':poop:'
+oomp_word_list:
+- gift
+- moon
+- poop
+part_number: ''
+size: tray
+type: part

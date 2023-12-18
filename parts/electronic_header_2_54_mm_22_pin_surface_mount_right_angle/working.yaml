@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 22_pin
+directory: parts/electronic_header_2_54_mm_22_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_22_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_22_pin_surface_mount_right_angle
+id_no_color: 22pinsurfacemountrightangle
+id_no_size: 22_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_22_pin_surface_mount_right_angle
+manufacturer: ''
+md5: b8b5f7b9443518702200ce79964fec24
+md5_10: b8b5f7b944
+md5_10_upper: B8B5F7B944
+md5_5: b8b5f
+md5_5_upper: B8B5F
+md5_6: b8b5f7
+md5_6_alpha: 77gfr
+md5_6_alpha_upper: 77GFR
+md5_6_upper: B8B5F7
+name: Electronic Header 2 54 Mm 22 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 22 Pin Surface Mount Right Angle
+name_no_color: 22Pinsurfacemountrightangle
+name_no_size: 22 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 22 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_22_pin_surface_mount_right_angle
+oomp_word: hamburger tea six
+oomp_word_emoji: ':hamburger: :tea: :six:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':tea:'
+- ':six:'
+oomp_word_list:
+- hamburger
+- tea
+- six
+part_number: ''
+size: 2_54_mm
+type: header

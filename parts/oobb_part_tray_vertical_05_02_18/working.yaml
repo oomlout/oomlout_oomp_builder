@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_02_18
+directory: parts/oobb_part_tray_vertical_05_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_02_18
+id: oobb_part_tray_vertical_05_02_18
+id_no_class: part_tray_vertical_05_02_18
+id_no_color: 050218
+id_no_size: 05_02_18
+id_no_type: tray_vertical_05_02_18
+manufacturer: ''
+md5: e5db1c205802af77e97414d1624da8c0
+md5_10: e5db1c2058
+md5_10_upper: E5DB1C2058
+md5_5: e5db1
+md5_5_upper: E5DB1
+md5_6: e5db1c
+md5_6_alpha: 8yvbw
+md5_6_alpha_upper: 8YVBW
+md5_6_upper: E5DB1C
+name: Oobb Part Tray Vertical 05 02 18
+name_no_class: Part Tray Vertical 05 02 18
+name_no_color: 050218
+name_no_size: 05 02 18
+name_no_type: Tray Vertical 05 02 18
+oomp_key: oomp_oobb_part_tray_vertical_05_02_18
+oomp_word: rocket tent dancer
+oomp_word_emoji: ':rocket: :tent: :dancer:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':tent:'
+- ':dancer:'
+oomp_word_list:
+- rocket
+- tent
+- dancer
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_14_ex_ninety_degree
+directory: parts/oobb_part_plate_03_03_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_14_ex_ninety_degree
+id: oobb_part_plate_03_03_14_ex_ninety_degree
+id_no_class: part_plate_03_03_14_ex_ninety_degree
+id_no_color: 030314exninetydegree
+id_no_size: 03_03_14_ex_ninety_degree
+id_no_type: plate_03_03_14_ex_ninety_degree
+manufacturer: ''
+md5: 1ec4b062a17347e49fbdbffced6be5d0
+md5_10: 1ec4b062a1
+md5_10_upper: 1EC4B062A1
+md5_5: 1ec4b
+md5_5_upper: 1EC4B
+md5_6: 1ec4b0
+md5_6_alpha: 177w0
+md5_6_alpha_upper: 177W0
+md5_6_upper: 1EC4B0
+name: Oobb Part Plate 03 03 14 Ex Ninety Degree
+name_no_class: Part Plate 03 03 14 Ex Ninety Degree
+name_no_color: 030314Exninetydegree
+name_no_size: 03 03 14 Ex Ninety Degree
+name_no_type: Plate 03 03 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_03_03_14_ex_ninety_degree
+oomp_word: angel cookie crown
+oomp_word_emoji: ':angel: :cookie: :crown:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':cookie:'
+- ':crown:'
+oomp_word_list:
+- angel
+- cookie
+- crown
+part_number: ''
+size: plate
+type: part

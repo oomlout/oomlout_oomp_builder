@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_18'
+directory: parts/oobb_part_tray_thin_12_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_05_18
+id: oobb_part_tray_thin_12_05_18
+id_no_class: part_tray_thin_12_05_18
+id_no_color: '120518'
+id_no_size: '12_05_18'
+id_no_type: tray_thin_12_05_18
+manufacturer: ''
+md5: d0c4d53f180a402b03d3aa5e70965b7c
+md5_10: d0c4d53f18
+md5_10_upper: D0C4D53F18
+md5_5: d0c4d
+md5_5_upper: D0C4D
+md5_6: d0c4d5
+md5_6_alpha: '85905'
+md5_6_alpha_upper: '85905'
+md5_6_upper: D0C4D5
+name: Oobb Part Tray Thin 12 05 18
+name_no_class: Part Tray Thin 12 05 18
+name_no_color: '120518'
+name_no_size: 12 05 18
+name_no_type: Tray Thin 12 05 18
+oomp_key: oomp_oobb_part_tray_thin_12_05_18
+oomp_word: banana cookie house
+oomp_word_emoji: ':banana: :cookie: :house:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':cookie:'
+- ':house:'
+oomp_word_list:
+- banana
+- cookie
+- house
+part_number: ''
+size: tray_thin
+type: part

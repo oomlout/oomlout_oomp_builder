@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 75_ohm
+directory: parts/electronic_resistor_0603_75_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_75_ohm
+id: electronic_resistor_0603_75_ohm
+id_no_class: resistor_0603_75_ohm
+id_no_color: 75ohm
+id_no_size: 75_ohm
+id_no_type: 0603_75_ohm
+manufacturer: ''
+md5: d79b14e343faa844a90b9eaf68f3e1c0
+md5_10: d79b14e343
+md5_10_upper: D79B14E343
+md5_5: d79b1
+md5_5_upper: D79B1
+md5_6: d79b14
+md5_6_alpha: 8euqc
+md5_6_alpha_upper: 8EUQC
+md5_6_upper: D79B14
+name: Electronic Resistor 0603 75 Ohm
+name_no_class: Resistor 0603 75 Ohm
+name_no_color: 75Ohm
+name_no_size: 75 Ohm
+name_no_type: 0603 75 Ohm
+oomp_key: oomp_electronic_resistor_0603_75_ohm
+oomp_word: office ski fire
+oomp_word_emoji: ':office: :ski: :fire:'
+oomp_word_emoji_list:
+- ':office:'
+- ':ski:'
+- ':fire:'
+oomp_word_list:
+- office
+- ski
+- fire
+part_number: ''
+size: '0603'
+type: resistor

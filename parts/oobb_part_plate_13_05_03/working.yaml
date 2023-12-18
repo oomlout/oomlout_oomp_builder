@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_05_03'
+directory: parts/oobb_part_plate_13_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_05_03
+id: oobb_part_plate_13_05_03
+id_no_class: part_plate_13_05_03
+id_no_color: '130503'
+id_no_size: '13_05_03'
+id_no_type: plate_13_05_03
+manufacturer: ''
+md5: d12c78b41935ecafe205ec614de92381
+md5_10: d12c78b419
+md5_10_upper: D12C78B419
+md5_5: d12c7
+md5_5_upper: D12C7
+md5_6: d12c78
+md5_6_alpha: 85th4
+md5_6_alpha_upper: 85TH4
+md5_6_upper: D12C78
+name: Oobb Part Plate 13 05 03
+name_no_class: Part Plate 13 05 03
+name_no_color: '130503'
+name_no_size: 13 05 03
+name_no_type: Plate 13 05 03
+oomp_key: oomp_oobb_part_plate_13_05_03
+oomp_word: pear snowflake bell
+oomp_word_emoji: ':pear: :snowflake: :bell:'
+oomp_word_emoji_list:
+- ':pear:'
+- ':snowflake:'
+- ':bell:'
+oomp_word_list:
+- pear
+- snowflake
+- bell
+part_number: ''
+size: plate
+type: part

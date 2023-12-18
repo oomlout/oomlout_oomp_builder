@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 5_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_5_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_5_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_5_pin_through_hole
+id_no_color: 5pinthroughhole
+id_no_size: 5_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_5_pin_through_hole
+manufacturer: ''
+md5: b6c36d0d820b39787ff07e7b5fc09226
+md5_10: b6c36d0d82
+md5_10_upper: B6C36D0D82
+md5_5: b6c36
+md5_5_upper: B6C36
+md5_6: b6c36d
+md5_6_alpha: 74pyl
+md5_6_alpha_upper: 74PYL
+md5_6_upper: B6C36D
+name: Electronic Header 2 5 Mm Jst Xh 5 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 5 Pin Through Hole
+name_no_color: 5Pinthroughhole
+name_no_size: 5 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 5 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_5_pin_through_hole
+oomp_word: beer cake shell
+oomp_word_emoji: ':beer: :cake: :shell:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':cake:'
+- ':shell:'
+oomp_word_list:
+- beer
+- cake
+- shell
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

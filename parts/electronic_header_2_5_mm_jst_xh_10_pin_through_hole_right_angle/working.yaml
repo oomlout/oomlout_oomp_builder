@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 10_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_10_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_10_pin_through_hole_right_angle
+id_no_color: 10pinthroughholerightangle
+id_no_size: 10_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_10_pin_through_hole_right_angle
+manufacturer: ''
+md5: b731e134e820141ec69fa6ee733d376a
+md5_10: b731e134e8
+md5_10_upper: B731E134E8
+md5_5: b731e
+md5_5_upper: B731E
+md5_6: b731e1
+md5_6_alpha: 75bs1
+md5_6_alpha_upper: 75BS1
+md5_6_upper: B731E1
+name: Electronic Header 2 5 Mm Jst Xh 10 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 10 Pin Through Hole Right Angle
+name_no_color: 10Pinthroughholerightangle
+name_no_size: 10 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 10 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_10_pin_through_hole_right_angle
+oomp_word: pizza ocean boat
+oomp_word_emoji: ':pizza: :ocean: :boat:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':ocean:'
+- ':boat:'
+oomp_word_list:
+- pizza
+- ocean
+- boat
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

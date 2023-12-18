@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7500_ohm
+directory: parts/electronic_resistor_0805_7500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_7500_ohm
+id: electronic_resistor_0805_7500_ohm
+id_no_class: resistor_0805_7500_ohm
+id_no_color: 7500ohm
+id_no_size: 7500_ohm
+id_no_type: 0805_7500_ohm
+manufacturer: ''
+md5: 1401e02c6794c7ec36d186f1b5a085b3
+md5_10: 1401e02c67
+md5_10_upper: 1401E02C67
+md5_5: 1401e
+md5_5_upper: 1401E
+md5_6: 1401e0
+md5_6_alpha: s3q8
+md5_6_alpha_upper: S3Q8
+md5_6_upper: 1401E0
+name: Electronic Resistor 0805 7500 Ohm
+name_no_class: Resistor 0805 7500 Ohm
+name_no_color: 7500Ohm
+name_no_size: 7500 Ohm
+name_no_type: 0805 7500 Ohm
+oomp_key: oomp_electronic_resistor_0805_7500_ohm
+oomp_word: fire smile ship
+oomp_word_emoji: ':fire: :smile: :ship:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':smile:'
+- ':ship:'
+oomp_word_list:
+- fire
+- smile
+- ship
+part_number: ''
+size: 0805
+type: resistor

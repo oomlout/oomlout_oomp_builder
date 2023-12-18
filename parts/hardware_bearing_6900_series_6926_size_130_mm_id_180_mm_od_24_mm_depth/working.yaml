@@ -1,0 +1,40 @@
+classification: hardware
+color: 6926_size
+description_extra: ''
+description_main: 130_mm_id_180_mm_od_24_mm_depth
+directory: parts/hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+id: hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+id_no_class: bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+id_no_color: 130_mm_id_180_mm_od_24_mm_depth
+id_no_size: 6926_size_130_mm_id_180_mm_od_24_mm_depth
+id_no_type: 6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+manufacturer: ''
+md5: 6b9ace877e6c0d9c910022ed5c3262eb
+md5_10: 6b9ace877e
+md5_10_upper: 6B9ACE877E
+md5_5: 6b9ac
+md5_5_upper: 6B9AC
+md5_6: 6b9ace
+md5_6_alpha: 475ce
+md5_6_alpha_upper: 475CE
+md5_6_upper: 6B9ACE
+name: Hardware Bearing 6900 Series 6926 Size 130 Mm Id 180 Mm Od 24 Mm Depth
+name_no_class: Bearing 6900 Series 6926 Size 130 Mm Id 180 Mm Od 24 Mm Depth
+name_no_color: 130 Mm Id 180 Mm Od 24 Mm Depth
+name_no_size: 6926 Size 130 Mm Id 180 Mm Od 24 Mm Depth
+name_no_type: 6900 Series 6926 Size 130 Mm Id 180 Mm Od 24 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
+oomp_word: chestnut golf peach
+oomp_word_emoji: ':chestnut: :golf: :peach:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':golf:'
+- ':peach:'
+oomp_word_list:
+- chestnut
+- golf
+- peach
+part_number: ''
+size: 6900_series
+type: bearing

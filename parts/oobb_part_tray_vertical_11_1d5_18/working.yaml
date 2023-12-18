@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_18
+directory: parts/oobb_part_tray_vertical_11_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_1d5_18
+id: oobb_part_tray_vertical_11_1d5_18
+id_no_class: part_tray_vertical_11_1d5_18
+id_no_color: 111d518
+id_no_size: 11_1d5_18
+id_no_type: tray_vertical_11_1d5_18
+manufacturer: ''
+md5: 692623c57a3ea9928e693683f5e2d999
+md5_10: 692623c57a
+md5_10_upper: 692623C57A
+md5_5: '69262'
+md5_5_upper: '69262'
+md5_6: '692623'
+md5_6_alpha: 43p5v
+md5_6_alpha_upper: 43P5V
+md5_6_upper: '692623'
+name: Oobb Part Tray Vertical 11 1D5 18
+name_no_class: Part Tray Vertical 11 1D5 18
+name_no_color: 111D518
+name_no_size: 11 1D5 18
+name_no_type: Tray Vertical 11 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_11_1d5_18
+oomp_word: cactus eyes kiss
+oomp_word_emoji: ':cactus: :eyes: :kiss:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':eyes:'
+- ':kiss:'
+oomp_word_list:
+- cactus
+- eyes
+- kiss
+part_number: ''
+size: tray_vertical
+type: part

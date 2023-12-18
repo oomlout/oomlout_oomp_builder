@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 020214nm12mmtapewidth15mmtapethicknessex1d5
+id_no_size: 02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: b97d516812e86f6a90e91e7fff94ecb8
+md5_10: b97d516812
+md5_10_upper: B97D516812
+md5_5: b97d5
+md5_5_upper: B97D5
+md5_6: b97d51
+md5_6_alpha: 78jtd
+md5_6_alpha_upper: 78JTD
+md5_6_upper: B97D51
+name: Oobb Part Smd Magazine 02 02 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 02 02 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 020214Nm12Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 02 02 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 02 02 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: fries phone snail
+oomp_word_emoji: ':fries: :phone: :snail:'
+oomp_word_emoji_list:
+- ':fries:'
+- ':phone:'
+- ':snail:'
+oomp_word_list:
+- fries
+- phone
+- snail
+part_number: ''
+size: smd_magazine
+type: part

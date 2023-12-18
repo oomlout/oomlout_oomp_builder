@@ -1,0 +1,40 @@
+classification: hardware
+color: MR63_size
+description_extra: ''
+description_main: 3_mm_id_6_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+id_no_color: 3_mm_id_6_mm_od_2.5_mm_depth
+id_no_size: MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: fe594bb0fb146191f3b2c0c7cb8dd593
+md5_10: fe594bb0fb
+md5_10_upper: FE594BB0FB
+md5_5: fe594
+md5_5_upper: FE594
+md5_6: fe594b
+md5_6_alpha: 9x9vv
+md5_6_alpha_upper: 9X9VV
+md5_6_upper: FE594B
+name: Hardware Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_color: 3 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_size: Mr63 Size 3 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
+oomp_word: recycle dragon penguin
+oomp_word_emoji: ':recycle: :dragon: :penguin:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':dragon:'
+- ':penguin:'
+oomp_word_list:
+- recycle
+- dragon
+- penguin
+part_number: ''
+size: MR_series
+type: bearing

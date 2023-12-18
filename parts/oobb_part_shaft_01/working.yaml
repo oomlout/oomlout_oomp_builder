@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01'
+directory: parts/oobb_part_shaft_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01
+id: oobb_part_shaft_01
+id_no_class: part_shaft_01
+id_no_color: '01'
+id_no_size: '01'
+id_no_type: shaft_01
+manufacturer: ''
+md5: 8a18db80e836bebc249b494a27e3544c
+md5_10: 8a18db80e8
+md5_10_upper: 8A18DB80E8
+md5_5: 8a18d
+md5_5_upper: 8A18D
+md5_6: 8a18db
+md5_6_alpha: 5dza3
+md5_6_alpha_upper: 5DZA3
+md5_6_upper: 8A18DB
+name: Oobb Part Shaft 01
+name_no_class: Part Shaft 01
+name_no_color: '01'
+name_no_size: '01'
+name_no_type: Shaft 01
+oomp_key: oomp_oobb_part_shaft_01
+oomp_word: envelope hand tent
+oomp_word_emoji: ':envelope: :hand: :tent:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':hand:'
+- ':tent:'
+oomp_word_list:
+- envelope
+- hand
+- tent
+part_number: ''
+size: shaft
+type: part

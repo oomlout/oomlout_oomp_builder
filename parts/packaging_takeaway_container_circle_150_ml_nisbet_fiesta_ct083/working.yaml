@@ -1,0 +1,40 @@
+classification: packaging
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id: packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id_no_class: takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id_no_color: nisbetfiestact083
+id_no_size: nisbet_fiesta_ct083
+id_no_type: 150_ml_nisbet_fiesta_ct083
+manufacturer: nisbet_fiesta
+md5: ffd7c6d358105b83d54bd7556a08c01f
+md5_10: ffd7c6d358
+md5_10_upper: FFD7C6D358
+md5_5: ffd7c
+md5_5_upper: FFD7C
+md5_6: ffd7c6
+md5_6_alpha: 9zdfq
+md5_6_alpha_upper: 9ZDFQ
+md5_6_upper: FFD7C6
+name: Packaging Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083
+name_no_class: Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083
+name_no_color: Nisbetfiestact083
+name_no_size: Nisbet Fiesta Ct083
+name_no_type: 150 Ml Nisbet Fiesta Ct083
+oomp_key: oomp_packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+oomp_word: trident office lollipop
+oomp_word_emoji: ':trident: :office: :lollipop:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':office:'
+- ':lollipop:'
+oomp_word_list:
+- trident
+- office
+- lollipop
+part_number: ct083
+size: 150_ml
+type: takeaway_container_circle

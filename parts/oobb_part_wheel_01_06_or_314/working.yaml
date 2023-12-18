@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_or_314
+directory: parts/oobb_part_wheel_01_06_or_314
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_01_06_or_314
+id: oobb_part_wheel_01_06_or_314
+id_no_class: part_wheel_01_06_or_314
+id_no_color: 0106or314
+id_no_size: 01_06_or_314
+id_no_type: wheel_01_06_or_314
+manufacturer: ''
+md5: e3346ec87b3e6e9b2e6f386c12b02983
+md5_10: e3346ec87b
+md5_10_upper: E3346EC87B
+md5_5: e3346
+md5_5_upper: E3346
+md5_6: e3346e
+md5_6_alpha: 8v59q
+md5_6_alpha_upper: 8V59Q
+md5_6_upper: E3346E
+name: Oobb Part Wheel 01 06 Or 314
+name_no_class: Part Wheel 01 06 Or 314
+name_no_color: 0106Or314
+name_no_size: 01 06 Or 314
+name_no_type: Wheel 01 06 Or 314
+oomp_key: oomp_oobb_part_wheel_01_06_or_314
+oomp_word: rowboat mouse new_moon
+oomp_word_emoji: ':rowboat: :mouse: :new_moon:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':mouse:'
+- ':new_moon:'
+oomp_word_list:
+- rowboat
+- mouse
+- new_moon
+part_number: ''
+size: wheel
+type: part

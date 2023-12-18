@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_03_09
+directory: parts/oobb_part_tray_thin_06_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_03_09
+id: oobb_part_tray_thin_06_03_09
+id_no_class: part_tray_thin_06_03_09
+id_no_color: 060309
+id_no_size: 06_03_09
+id_no_type: tray_thin_06_03_09
+manufacturer: ''
+md5: 8dba7e24ab0a500872a407835085b64a
+md5_10: 8dba7e24ab
+md5_10_upper: 8DBA7E24AB
+md5_5: 8dba7
+md5_5_upper: 8DBA7
+md5_6: 8dba7e
+md5_6_alpha: 5j2wu
+md5_6_alpha_upper: 5J2WU
+md5_6_upper: 8DBA7E
+name: Oobb Part Tray Thin 06 03 09
+name_no_class: Part Tray Thin 06 03 09
+name_no_color: 060309
+name_no_size: 06 03 09
+name_no_type: Tray Thin 06 03 09
+oomp_key: oomp_oobb_part_tray_thin_06_03_09
+oomp_word: scroll spaghetti fax
+oomp_word_emoji: ':scroll: :spaghetti: :fax:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':spaghetti:'
+- ':fax:'
+oomp_word_list:
+- scroll
+- spaghetti
+- fax
+part_number: ''
+size: tray_thin
+type: part

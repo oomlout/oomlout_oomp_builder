@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_12'
+directory: parts/oobb_part_plate_12_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_12
+id: oobb_part_plate_12_01_12
+id_no_class: part_plate_12_01_12
+id_no_color: '120112'
+id_no_size: '12_01_12'
+id_no_type: plate_12_01_12
+manufacturer: ''
+md5: 2bcc779a5cf4e6d1ec56661f6ac1ecad
+md5_10: 2bcc779a5c
+md5_10_upper: 2BCC779A5C
+md5_5: 2bcc7
+md5_5_upper: 2BCC7
+md5_6: 2bcc77
+md5_6_alpha: 1pit3
+md5_6_alpha_upper: 1PIT3
+md5_6_upper: 2BCC77
+name: Oobb Part Plate 12 01 12
+name_no_class: Part Plate 12 01 12
+name_no_color: '120112'
+name_no_size: 12 01 12
+name_no_type: Plate 12 01 12
+oomp_key: oomp_oobb_part_plate_12_01_12
+oomp_word: cloud watermelon gift
+oomp_word_emoji: ':cloud: :watermelon: :gift:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':watermelon:'
+- ':gift:'
+oomp_word_list:
+- cloud
+- watermelon
+- gift
+part_number: ''
+size: plate
+type: part

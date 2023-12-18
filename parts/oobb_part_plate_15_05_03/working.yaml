@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_05_03'
+directory: parts/oobb_part_plate_15_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_05_03
+id: oobb_part_plate_15_05_03
+id_no_class: part_plate_15_05_03
+id_no_color: '150503'
+id_no_size: '15_05_03'
+id_no_type: plate_15_05_03
+manufacturer: ''
+md5: 83ec864c75230a73c6a42e9cd83b5abf
+md5_10: 83ec864c75
+md5_10_upper: 83EC864C75
+md5_5: 83ec8
+md5_5_upper: 83EC8
+md5_6: 83ec86
+md5_6_alpha: 55b46
+md5_6_alpha_upper: 55B46
+md5_6_upper: 83EC86
+name: Oobb Part Plate 15 05 03
+name_no_class: Part Plate 15 05 03
+name_no_color: '150503'
+name_no_size: 15 05 03
+name_no_type: Plate 15 05 03
+oomp_key: oomp_oobb_part_plate_15_05_03
+oomp_word: lock taxi bath
+oomp_word_emoji: ':lock: :taxi: :bath:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':taxi:'
+- ':bath:'
+oomp_word_list:
+- lock
+- taxi
+- bath
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,44 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+directory: parts/oobb_part_mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id: oobb_part_mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_class: part_mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_color: 050403rhm3nmaliexpressdctodcconverterxl600948mmwidth25mmheight
+id_no_size: 05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_type: mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+manufacturer: ''
+md5: c2e526ce16486ff6db50932aad5ded9a
+md5_10: c2e526ce16
+md5_10_upper: C2E526CE16
+md5_5: c2e52
+md5_5_upper: C2E52
+md5_6: c2e526
+md5_6_alpha: 7lrfq
+md5_6_alpha_upper: 7LRFQ
+md5_6_upper: C2E526
+name: Oobb Part Mounting Plate 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009
+  48 Mm Width 25 Mm Height
+name_no_class: Part Mounting Plate 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter
+  Xl6009 48 Mm Width 25 Mm Height
+name_no_color: 050403Rhm3Nmaliexpressdctodcconverterxl600948Mmwidth25Mmheight
+name_no_size: 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25
+  Mm Height
+name_no_type: Mounting Plate 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009
+  48 Mm Width 25 Mm Height
+oomp_key: oomp_oobb_part_mounting_plate_05_04_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+oomp_word: birthday rocket eyes
+oomp_word_emoji: ':birthday: :rocket: :eyes:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':rocket:'
+- ':eyes:'
+oomp_word_list:
+- birthday
+- rocket
+- eyes
+part_number: ''
+size: mounting_plate
+type: part

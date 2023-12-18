@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2_pin
+directory: parts/electronic_socket_2_54_mm_2_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole
+id: electronic_socket_2_54_mm_2_pin_through_hole
+id_no_class: socket_2_54_mm_2_pin_through_hole
+id_no_color: 2pinthroughhole
+id_no_size: 2_pin_through_hole
+id_no_type: 2_54_mm_2_pin_through_hole
+manufacturer: ''
+md5: b748e7ee1e9e9c0953b013e92ed6a1b7
+md5_10: b748e7ee1e
+md5_10_upper: B748E7EE1E
+md5_5: b748e
+md5_5_upper: B748E
+md5_6: b748e7
+md5_6_alpha: 75gbr
+md5_6_alpha_upper: 75GBR
+md5_6_upper: B748E7
+name: Electronic Socket 2 54 Mm 2 Pin Through Hole
+name_no_class: Socket 2 54 Mm 2 Pin Through Hole
+name_no_color: 2Pinthroughhole
+name_no_size: 2 Pin Through Hole
+name_no_type: 2 54 Mm 2 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_2_pin_through_hole
+oomp_word: pizza hatched_chick helicopter
+oomp_word_emoji: ':pizza: :hatched_chick: :helicopter:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':hatched_chick:'
+- ':helicopter:'
+oomp_word_list:
+- pizza
+- hatched_chick
+- helicopter
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_ex_72_teeth
+directory: parts/oobb_part_gear_09_06_ex_72_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_06_ex_72_teeth
+id: oobb_part_gear_09_06_ex_72_teeth
+id_no_class: part_gear_09_06_ex_72_teeth
+id_no_color: 0906ex72teeth
+id_no_size: 09_06_ex_72_teeth
+id_no_type: gear_09_06_ex_72_teeth
+manufacturer: ''
+md5: 8478c684accb0f20b92fed52d8a5aae2
+md5_10: 8478c684ac
+md5_10_upper: 8478C684AC
+md5_5: 8478c
+md5_5_upper: 8478C
+md5_6: 8478c6
+md5_6_alpha: 562ti
+md5_6_alpha_upper: 562TI
+md5_6_upper: 8478C6
+name: Oobb Part Gear 09 06 Ex 72 Teeth
+name_no_class: Part Gear 09 06 Ex 72 Teeth
+name_no_color: 0906Ex72Teeth
+name_no_size: 09 06 Ex 72 Teeth
+name_no_type: Gear 09 06 Ex 72 Teeth
+oomp_key: oomp_oobb_part_gear_09_06_ex_72_teeth
+oomp_word: key bell lollipop
+oomp_word_emoji: ':key: :bell: :lollipop:'
+oomp_word_emoji_list:
+- ':key:'
+- ':bell:'
+- ':lollipop:'
+oomp_word_list:
+- key
+- bell
+- lollipop
+part_number: ''
+size: gear
+type: part

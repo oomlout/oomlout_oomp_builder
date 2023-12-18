@@ -1,0 +1,40 @@
+classification: hardware
+color: 6328_size
+description_extra: ''
+description_main: 140_mm_id_300_mm_od_62_mm_depth
+directory: parts/hardware_bearing_6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+id: hardware_bearing_6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+id_no_class: bearing_6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+id_no_color: 140_mm_id_300_mm_od_62_mm_depth
+id_no_size: 6328_size_140_mm_id_300_mm_od_62_mm_depth
+id_no_type: 6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+manufacturer: ''
+md5: 3122cb85e25b765a371faa25e115c3cc
+md5_10: 3122cb85e2
+md5_10_upper: 3122CB85E2
+md5_5: 3122c
+md5_5_upper: 3122C
+md5_6: 3122cb
+md5_6_alpha: 1x0p7
+md5_6_alpha_upper: 1X0P7
+md5_6_upper: 3122CB
+name: Hardware Bearing 6300 Series 6328 Size 140 Mm Id 300 Mm Od 62 Mm Depth
+name_no_class: Bearing 6300 Series 6328 Size 140 Mm Id 300 Mm Od 62 Mm Depth
+name_no_color: 140 Mm Id 300 Mm Od 62 Mm Depth
+name_no_size: 6328 Size 140 Mm Id 300 Mm Od 62 Mm Depth
+name_no_type: 6300 Series 6328 Size 140 Mm Id 300 Mm Od 62 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6328_size_140_mm_id_300_mm_od_62_mm_depth
+oomp_word: ocean lips grapes
+oomp_word_emoji: ':ocean: :lips: :grapes:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':lips:'
+- ':grapes:'
+oomp_word_list:
+- ocean
+- lips
+- grapes
+part_number: ''
+size: 6300_series
+type: bearing

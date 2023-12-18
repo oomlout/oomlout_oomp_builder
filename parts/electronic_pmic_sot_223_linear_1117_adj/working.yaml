@@ -1,0 +1,40 @@
+classification: electronic
+color: linear
+description_extra: adj
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_adj
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+id: electronic_pmic_sot_223_linear_1117_adj
+id_no_class: pmic_sot_223_linear_1117_adj
+id_no_color: 1117_adj
+id_no_size: linear_1117_adj
+id_no_type: sot_223_linear_1117_adj
+manufacturer: ''
+md5: cdc5644737274c72642f6d91b99a7aaa
+md5_10: cdc5644737
+md5_10_upper: CDC5644737
+md5_5: cdc56
+md5_5_upper: CDC56
+md5_6: cdc564
+md5_6_alpha: 811es
+md5_6_alpha_upper: 811ES
+md5_6_upper: CDC564
+name: Electronic Pmic Sot 223 Linear 1117 Adj
+name_no_class: Pmic Sot 223 Linear 1117 Adj
+name_no_color: 1117 Adj
+name_no_size: Linear 1117 Adj
+name_no_type: Sot 223 Linear 1117 Adj
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+oomp_word: strawberry candy sunflower
+oomp_word_emoji: ':strawberry: :candy: :sunflower:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':candy:'
+- ':sunflower:'
+oomp_word_list:
+- strawberry
+- candy
+- sunflower
+part_number: ''
+size: sot_223
+type: pmic

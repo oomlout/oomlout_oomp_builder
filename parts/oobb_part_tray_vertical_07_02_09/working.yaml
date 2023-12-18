@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_02_09
+directory: parts/oobb_part_tray_vertical_07_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_02_09
+id: oobb_part_tray_vertical_07_02_09
+id_no_class: part_tray_vertical_07_02_09
+id_no_color: 070209
+id_no_size: 07_02_09
+id_no_type: tray_vertical_07_02_09
+manufacturer: ''
+md5: 132bb9c2c9886a2ef7903ac8963f9d29
+md5_10: 132bb9c2c9
+md5_10_upper: 132BB9C2C9
+md5_5: 132bb
+md5_5_upper: 132BB
+md5_6: 132bb9
+md5_6_alpha: qxfd
+md5_6_alpha_upper: QXFD
+md5_6_upper: 132BB9
+name: Oobb Part Tray Vertical 07 02 09
+name_no_class: Part Tray Vertical 07 02 09
+name_no_color: 070209
+name_no_size: 07 02 09
+name_no_type: Tray Vertical 07 02 09
+oomp_key: oomp_oobb_part_tray_vertical_07_02_09
+oomp_word: question cloud fries
+oomp_word_emoji: ':question: :cloud: :fries:'
+oomp_word_emoji_list:
+- ':question:'
+- ':cloud:'
+- ':fries:'
+oomp_word_list:
+- question
+- cloud
+- fries
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_tt_01
+id: oobb_part_gear_02_03_ex_16_teeth_sh_motor_tt_01
+id_no_class: part_gear_02_03_ex_16_teeth_sh_motor_tt_01
+id_no_color: 0203ex16teethshmotortt01
+id_no_size: 02_03_ex_16_teeth_sh_motor_tt_01
+id_no_type: gear_02_03_ex_16_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: aa945b3ea4f034ebafd443156e26402b
+md5_10: aa945b3ea4
+md5_10_upper: AA945B3EA4
+md5_5: aa945
+md5_5_upper: AA945
+md5_6: aa945b
+md5_6_alpha: 6nluj
+md5_6_alpha_upper: 6NLUJ
+md5_6_upper: AA945B
+name: Oobb Part Gear 02 03 Ex 16 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 02 03 Ex 16 Teeth Sh Motor Tt 01
+name_no_color: 0203Ex16Teethshmotortt01
+name_no_size: 02 03 Ex 16 Teeth Sh Motor Tt 01
+name_no_type: Gear 02 03 Ex 16 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth_sh_motor_tt_01
+oomp_word: lipstick microscope rooster
+oomp_word_emoji: ':lipstick: :microscope: :rooster:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':microscope:'
+- ':rooster:'
+oomp_word_list:
+- lipstick
+- microscope
+- rooster
+part_number: ''
+size: gear
+type: part

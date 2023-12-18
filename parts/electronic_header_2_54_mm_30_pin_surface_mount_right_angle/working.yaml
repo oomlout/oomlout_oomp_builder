@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 30_pin
+directory: parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_30_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_30_pin_surface_mount_right_angle
+id_no_color: 30pinsurfacemountrightangle
+id_no_size: 30_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_30_pin_surface_mount_right_angle
+manufacturer: ''
+md5: acf8557c8125aa362899087e1394bded
+md5_10: acf8557c81
+md5_10_upper: ACF8557C81
+md5_5: acf85
+md5_5_upper: ACF85
+md5_6: acf855
+md5_6_alpha: 6qyqd
+md5_6_alpha_upper: 6QYQD
+md5_6_upper: ACF855
+name: Electronic Header 2 54 Mm 30 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 30 Pin Surface Mount Right Angle
+name_no_color: 30Pinsurfacemountrightangle
+name_no_size: 30 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 30 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_30_pin_surface_mount_right_angle
+oomp_word: shirt seven dolphin
+oomp_word_emoji: ':shirt: :seven: :dolphin:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':seven:'
+- ':dolphin:'
+oomp_word_list:
+- shirt
+- seven
+- dolphin
+part_number: ''
+size: 2_54_mm
+type: header

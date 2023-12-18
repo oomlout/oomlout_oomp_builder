@@ -1,0 +1,40 @@
+classification: hardware
+color: F634_size
+description_extra: ''
+description_main: 4_mm_id_16_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_color: 4_mm_id_16_mm_od_5_mm_depth
+id_no_size: F634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_type: F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+manufacturer: ''
+md5: 530080dbef4ffca23ab0c3ee79c15e23
+md5_10: 530080dbef
+md5_10_upper: 530080DBEF
+md5_5: '53008'
+md5_5_upper: '53008'
+md5_6: '530080'
+md5_6_alpha: 38l8g
+md5_6_alpha_upper: 38L8G
+md5_6_upper: '530080'
+name: Hardware Bearing F600 Series F634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_color: 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_size: F634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_type: F600 Series F634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
+oomp_word: fish bowtie hourglass
+oomp_word_emoji: ':fish: :bowtie: :hourglass:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':bowtie:'
+- ':hourglass:'
+oomp_word_list:
+- fish
+- bowtie
+- hourglass
+part_number: ''
+size: F600_series
+type: bearing

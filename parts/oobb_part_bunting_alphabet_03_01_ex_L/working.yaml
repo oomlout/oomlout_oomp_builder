@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_l
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_l
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_l
+id: oobb_part_bunting_alphabet_03_01_ex_l
+id_no_class: part_bunting_alphabet_03_01_ex_l
+id_no_color: 0301exl
+id_no_size: 03_01_ex_l
+id_no_type: bunting_alphabet_03_01_ex_l
+manufacturer: ''
+md5: 978a2a4cbf178d6098625c784d303a01
+md5_10: 978a2a4cbf
+md5_10_upper: 978A2A4CBF
+md5_5: 978a2
+md5_5_upper: 978A2
+md5_6: 978a2a
+md5_6_alpha: 5wv1m
+md5_6_alpha_upper: 5WV1M
+md5_6_upper: 978A2A
+name: Oobb Part Bunting Alphabet 03 01 Ex L
+name_no_class: Part Bunting Alphabet 03 01 Ex L
+name_no_color: 0301Exl
+name_no_size: 03 01 Ex L
+name_no_type: Bunting Alphabet 03 01 Ex L
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_l
+oomp_word: baseball envelope umbrella
+oomp_word_emoji: ':baseball: :envelope: :umbrella:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':envelope:'
+- ':umbrella:'
+oomp_word_list:
+- baseball
+- envelope
+- umbrella
+part_number: ''
+size: bunting_alphabet
+type: part

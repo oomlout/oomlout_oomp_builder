@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_08_12'
+directory: parts/oobb_part_tray_vertical_11_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_08_12
+id: oobb_part_tray_vertical_11_08_12
+id_no_class: part_tray_vertical_11_08_12
+id_no_color: '110812'
+id_no_size: '11_08_12'
+id_no_type: tray_vertical_11_08_12
+manufacturer: ''
+md5: 6175d157bcbf7b6aeb79706a07c4690f
+md5_10: 6175d157bc
+md5_10_upper: 6175D157BC
+md5_5: 6175d
+md5_5_upper: 6175D
+md5_6: 6175d1
+md5_6_alpha: 3swcx
+md5_6_alpha_upper: 3SWCX
+md5_6_upper: 6175D1
+name: Oobb Part Tray Vertical 11 08 12
+name_no_class: Part Tray Vertical 11 08 12
+name_no_color: '110812'
+name_no_size: 11 08 12
+name_no_type: Tray Vertical 11 08 12
+oomp_key: oomp_oobb_part_tray_vertical_11_08_12
+oomp_word: bouquet ghost pear
+oomp_word_emoji: ':bouquet: :ghost: :pear:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':ghost:'
+- ':pear:'
+oomp_word_list:
+- bouquet
+- ghost
+- pear
+part_number: ''
+size: tray_vertical
+type: part

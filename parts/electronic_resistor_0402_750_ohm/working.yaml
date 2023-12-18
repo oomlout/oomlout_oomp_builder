@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 750_ohm
+directory: parts/electronic_resistor_0402_750_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_750_ohm
+id: electronic_resistor_0402_750_ohm
+id_no_class: resistor_0402_750_ohm
+id_no_color: 750ohm
+id_no_size: 750_ohm
+id_no_type: 0402_750_ohm
+manufacturer: ''
+md5: f5af364f866e749135e758485a09c455
+md5_10: f5af364f86
+md5_10_upper: F5AF364F86
+md5_5: f5af3
+md5_5_upper: F5AF3
+md5_6: f5af36
+md5_6_alpha: 9l3qu
+md5_6_alpha_upper: 9L3QU
+md5_6_upper: F5AF36
+name: Electronic Resistor 0402 750 Ohm
+name_no_class: Resistor 0402 750 Ohm
+name_no_color: 750Ohm
+name_no_size: 750 Ohm
+name_no_type: 0402 750 Ohm
+oomp_key: oomp_electronic_resistor_0402_750_ohm
+oomp_word: four tophat rabbit
+oomp_word_emoji: ':four: :tophat: :rabbit:'
+oomp_word_emoji_list:
+- ':four:'
+- ':tophat:'
+- ':rabbit:'
+oomp_word_list:
+- four
+- tophat
+- rabbit
+part_number: ''
+size: '0402'
+type: resistor

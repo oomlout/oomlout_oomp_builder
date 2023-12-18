@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 10_pin
+directory: parts/electronic_socket_2_54_mm_10_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole
+id: electronic_socket_2_54_mm_10_pin_through_hole
+id_no_class: socket_2_54_mm_10_pin_through_hole
+id_no_color: 10pinthroughhole
+id_no_size: 10_pin_through_hole
+id_no_type: 2_54_mm_10_pin_through_hole
+manufacturer: ''
+md5: 7c22425d8dfc19b2c745ae32643c73b4
+md5_10: 7c22425d8d
+md5_10_upper: 7C22425D8D
+md5_5: 7c224
+md5_5_upper: 7C224
+md5_6: 7c2242
+md5_6_alpha: 4ud6q
+md5_6_alpha_upper: 4UD6Q
+md5_6_upper: 7C2242
+name: Electronic Socket 2 54 Mm 10 Pin Through Hole
+name_no_class: Socket 2 54 Mm 10 Pin Through Hole
+name_no_color: 10Pinthroughhole
+name_no_size: 10 Pin Through Hole
+name_no_type: 2 54 Mm 10 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_10_pin_through_hole
+oomp_word: tv lips sheep
+oomp_word_emoji: ':tv: :lips: :sheep:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':lips:'
+- ':sheep:'
+oomp_word_list:
+- tv
+- lips
+- sheep
+part_number: ''
+size: 2_54_mm
+type: socket

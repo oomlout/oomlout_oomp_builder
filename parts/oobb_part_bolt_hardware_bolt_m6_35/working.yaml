@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_35
+directory: parts/oobb_part_bolt_hardware_bolt_m6_35
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35
+id: oobb_part_bolt_hardware_bolt_m6_35
+id_no_class: part_bolt_hardware_bolt_m6_35
+id_no_color: hardwarem635
+id_no_size: hardware_m6_35
+id_no_type: bolt_hardware_bolt_m6_35
+manufacturer: ''
+md5: bcc95d12641b4178ba11576933095306
+md5_10: bcc95d1264
+md5_10_upper: BCC95D1264
+md5_5: bcc95
+md5_5_upper: BCC95
+md5_6: bcc95d
+md5_6_alpha: 7d6jh
+md5_6_alpha_upper: 7D6JH
+md5_6_upper: BCC95D
+name: Oobb Part Bolt Hardware Bolt M6 35
+name_no_class: Part Bolt Hardware Bolt M6 35
+name_no_color: Hardwarem635
+name_no_size: Hardware M6 35
+name_no_type: Bolt Hardware Bolt M6 35
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_35
+oomp_word: sushi lemon blowfish
+oomp_word_emoji: ':sushi: :lemon: :blowfish:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':lemon:'
+- ':blowfish:'
+oomp_word_list:
+- sushi
+- lemon
+- blowfish
+part_number: ''
+size: bolt
+type: part

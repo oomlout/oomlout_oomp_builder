@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_02_12'
+directory: parts/oobb_part_tray_vertical_03_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_02_12
+id: oobb_part_tray_vertical_03_02_12
+id_no_class: part_tray_vertical_03_02_12
+id_no_color: '030212'
+id_no_size: '03_02_12'
+id_no_type: tray_vertical_03_02_12
+manufacturer: ''
+md5: 5a90ae2573b179217a742612667d26ba
+md5_10: 5a90ae2573
+md5_10_upper: 5A90AE2573
+md5_5: 5a90a
+md5_5_upper: 5A90A
+md5_6: 5a90ae
+md5_6_alpha: 3j7ou
+md5_6_alpha_upper: 3J7OU
+md5_6_upper: 5A90AE
+name: Oobb Part Tray Vertical 03 02 12
+name_no_class: Part Tray Vertical 03 02 12
+name_no_color: '030212'
+name_no_size: 03 02 12
+name_no_type: Tray Vertical 03 02 12
+oomp_key: oomp_oobb_part_tray_vertical_03_02_12
+oomp_word: goat scissors jeans
+oomp_word_emoji: ':goat: :scissors: :jeans:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':scissors:'
+- ':jeans:'
+oomp_word_list:
+- goat
+- scissors
+- jeans
+part_number: ''
+size: tray_vertical
+type: part

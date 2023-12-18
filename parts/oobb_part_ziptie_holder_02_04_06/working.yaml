@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_04_06'
+directory: parts/oobb_part_ziptie_holder_02_04_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_02_04_06
+id: oobb_part_ziptie_holder_02_04_06
+id_no_class: part_ziptie_holder_02_04_06
+id_no_color: '020406'
+id_no_size: '02_04_06'
+id_no_type: ziptie_holder_02_04_06
+manufacturer: ''
+md5: 78d4d72a39d193882e2cdd3dda7c0b9a
+md5_10: 78d4d72a39
+md5_10_upper: 78D4D72A39
+md5_5: 78d4d
+md5_5_upper: 78D4D
+md5_6: 78d4d7
+md5_6_alpha: 4pq6v
+md5_6_alpha_upper: 4PQ6V
+md5_6_upper: 78D4D7
+name: Oobb Part Ziptie Holder 02 04 06
+name_no_class: Part Ziptie Holder 02 04 06
+name_no_color: '020406'
+name_no_size: 02 04 06
+name_no_type: Ziptie Holder 02 04 06
+oomp_key: oomp_oobb_part_ziptie_holder_02_04_06
+oomp_word: bell corn office
+oomp_word_emoji: ':bell: :corn: :office:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':corn:'
+- ':office:'
+oomp_word_list:
+- bell
+- corn
+- office
+part_number: ''
+size: ziptie_holder
+type: part

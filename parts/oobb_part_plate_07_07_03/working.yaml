@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_03'
+directory: parts/oobb_part_plate_07_07_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_07_03
+id: oobb_part_plate_07_07_03
+id_no_class: part_plate_07_07_03
+id_no_color: '070703'
+id_no_size: '07_07_03'
+id_no_type: plate_07_07_03
+manufacturer: ''
+md5: f2404bdce1a0d6e329df7597e588168e
+md5_10: f2404bdce1
+md5_10_upper: F2404BDCE1
+md5_5: f2404
+md5_5_upper: F2404
+md5_6: f2404b
+md5_6_alpha: 9ga4r
+md5_6_alpha_upper: 9GA4R
+md5_6_upper: F2404B
+name: Oobb Part Plate 07 07 03
+name_no_class: Part Plate 07 07 03
+name_no_color: '070703'
+name_no_size: 07 07 03
+name_no_type: Plate 07 07 03
+oomp_key: oomp_oobb_part_plate_07_07_03
+oomp_word: one racehorse penguin
+oomp_word_emoji: ':one: :racehorse: :penguin:'
+oomp_word_emoji_list:
+- ':one:'
+- ':racehorse:'
+- ':penguin:'
+oomp_word_list:
+- one
+- racehorse
+- penguin
+part_number: ''
+size: plate
+type: part

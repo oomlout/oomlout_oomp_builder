@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06'
+directory: parts/oobb_part_shaft_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06
+id: oobb_part_shaft_06
+id_no_class: part_shaft_06
+id_no_color: '06'
+id_no_size: '06'
+id_no_type: shaft_06
+manufacturer: ''
+md5: 28e1f9f4f2b9300207c7ab6df047f22f
+md5_10: 28e1f9f4f2
+md5_10_upper: 28E1F9F4F2
+md5_5: 28e1f
+md5_5_upper: 28E1F
+md5_6: 28e1f9
+md5_6_alpha: 1lfcp
+md5_6_alpha_upper: 1LFCP
+md5_6_upper: 28E1F9
+name: Oobb Part Shaft 06
+name_no_class: Part Shaft 06
+name_no_color: '06'
+name_no_size: '06'
+name_no_type: Shaft 06
+oomp_key: oomp_oobb_part_shaft_06
+oomp_word: tongue boat eight
+oomp_word_emoji: ':tongue: :boat: :eight:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':boat:'
+- ':eight:'
+oomp_word_list:
+- tongue
+- boat
+- eight
+part_number: ''
+size: shaft
+type: part

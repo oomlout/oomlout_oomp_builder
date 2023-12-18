@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700_ohm
+directory: parts/electronic_resistor_0402_4700_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700_ohm
+id: electronic_resistor_0402_4700_ohm
+id_no_class: resistor_0402_4700_ohm
+id_no_color: 4700ohm
+id_no_size: 4700_ohm
+id_no_type: 0402_4700_ohm
+manufacturer: ''
+md5: b5dd74ab93cea496596d628179ee139e
+md5_10: b5dd74ab93
+md5_10_upper: B5DD74AB93
+md5_5: b5dd7
+md5_5_upper: B5DD7
+md5_6: b5dd74
+md5_6_alpha: 73gj8
+md5_6_alpha_upper: 73GJ8
+md5_6_upper: B5DD74
+name: Electronic Resistor 0402 4700 Ohm
+name_no_class: Resistor 0402 4700 Ohm
+name_no_color: 4700Ohm
+name_no_size: 4700 Ohm
+name_no_type: 0402 4700 Ohm
+oomp_key: oomp_electronic_resistor_0402_4700_ohm
+oomp_word: tea stars fireworks
+oomp_word_emoji: ':tea: :stars: :fireworks:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':stars:'
+- ':fireworks:'
+oomp_word_list:
+- tea
+- stars
+- fireworks
+part_number: ''
+size: '0402'
+type: resistor

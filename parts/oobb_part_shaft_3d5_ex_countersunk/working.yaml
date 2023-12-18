@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5_ex_countersunk
+directory: parts/oobb_part_shaft_3d5_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_ex_countersunk
+id: oobb_part_shaft_3d5_ex_countersunk
+id_no_class: part_shaft_3d5_ex_countersunk
+id_no_color: 3d5excountersunk
+id_no_size: 3d5_ex_countersunk
+id_no_type: shaft_3d5_ex_countersunk
+manufacturer: ''
+md5: 314eb9099531c10493c19369a04404f3
+md5_10: 314eb90995
+md5_10_upper: 314EB90995
+md5_5: 314eb
+md5_5_upper: 314EB
+md5_6: 314eb9
+md5_6_alpha: 1x9dl
+md5_6_alpha_upper: 1X9DL
+md5_6_upper: 314EB9
+name: Oobb Part Shaft 3D5 Ex Countersunk
+name_no_class: Part Shaft 3D5 Ex Countersunk
+name_no_color: 3D5Excountersunk
+name_no_size: 3D5 Ex Countersunk
+name_no_type: Shaft 3D5 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_3d5_ex_countersunk
+oomp_word: ocean honeybee fries
+oomp_word_emoji: ':ocean: :honeybee: :fries:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':honeybee:'
+- ':fries:'
+oomp_word_list:
+- ocean
+- honeybee
+- fries
+part_number: ''
+size: shaft
+type: part

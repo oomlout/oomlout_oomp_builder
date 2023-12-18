@@ -1,0 +1,40 @@
+classification: hardware
+color: 629_size
+description_extra: ''
+description_main: 9_mm_id_26_mm_od_8_mm_depth
+directory: parts/hardware_bearing_600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+id: hardware_bearing_600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+id_no_class: bearing_600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+id_no_color: 9_mm_id_26_mm_od_8_mm_depth
+id_no_size: 629_size_9_mm_id_26_mm_od_8_mm_depth
+id_no_type: 600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+manufacturer: ''
+md5: a9d5b992ce5131a505d8577be9a5efb9
+md5_10: a9d5b992ce
+md5_10_upper: A9D5B992CE
+md5_5: a9d5b
+md5_5_upper: A9D5B
+md5_6: a9d5b9
+md5_6_alpha: 6mk6x
+md5_6_alpha_upper: 6MK6X
+md5_6_upper: A9D5B9
+name: Hardware Bearing 600 Series 629 Size 9 Mm Id 26 Mm Od 8 Mm Depth
+name_no_class: Bearing 600 Series 629 Size 9 Mm Id 26 Mm Od 8 Mm Depth
+name_no_color: 9 Mm Id 26 Mm Od 8 Mm Depth
+name_no_size: 629 Size 9 Mm Id 26 Mm Od 8 Mm Depth
+name_no_type: 600 Series 629 Size 9 Mm Id 26 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_629_size_9_mm_id_26_mm_od_8_mm_depth
+oomp_word: sandal house fries
+oomp_word_emoji: ':sandal: :house: :fries:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':house:'
+- ':fries:'
+oomp_word_list:
+- sandal
+- house
+- fries
+part_number: ''
+size: 600_series
+type: bearing

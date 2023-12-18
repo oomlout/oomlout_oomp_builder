@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_05_09'
+directory: parts/oobb_part_tray_thin_11_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_05_09
+id: oobb_part_tray_thin_11_05_09
+id_no_class: part_tray_thin_11_05_09
+id_no_color: '110509'
+id_no_size: '11_05_09'
+id_no_type: tray_thin_11_05_09
+manufacturer: ''
+md5: 3b2f1d51c4a1fd71f7f430393ae778ce
+md5_10: 3b2f1d51c4
+md5_10_upper: 3B2F1D51C4
+md5_5: 3b2f1
+md5_5_upper: 3B2F1
+md5_6: 3b2f1d
+md5_6_alpha: 2b4t9
+md5_6_alpha_upper: 2B4T9
+md5_6_upper: 3B2F1D
+name: Oobb Part Tray Thin 11 05 09
+name_no_class: Part Tray Thin 11 05 09
+name_no_color: '110509'
+name_no_size: 11 05 09
+name_no_type: Tray Thin 11 05 09
+oomp_key: oomp_oobb_part_tray_thin_11_05_09
+oomp_word: bear cyclone baby
+oomp_word_emoji: ':bear: :cyclone: :baby:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':cyclone:'
+- ':baby:'
+oomp_word_list:
+- bear
+- cyclone
+- baby
+part_number: ''
+size: tray_thin
+type: part

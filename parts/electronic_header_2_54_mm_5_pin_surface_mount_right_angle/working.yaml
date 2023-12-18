@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 5_pin
+directory: parts/electronic_header_2_54_mm_5_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_5_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_5_pin_surface_mount_right_angle
+id_no_color: 5pinsurfacemountrightangle
+id_no_size: 5_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_5_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 7ba179d9a3734b1fa241ad25ad74ef50
+md5_10: 7ba179d9a3
+md5_10_upper: 7BA179D9A3
+md5_5: 7ba17
+md5_5_upper: 7BA17
+md5_6: 7ba179
+md5_6_alpha: 4tnqx
+md5_6_alpha_upper: 4TNQX
+md5_6_upper: 7BA179
+name: Electronic Header 2 54 Mm 5 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 5 Pin Surface Mount Right Angle
+name_no_color: 5Pinsurfacemountrightangle
+name_no_size: 5 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 5 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_5_pin_surface_mount_right_angle
+oomp_word: computer trophy balloon
+oomp_word_emoji: ':computer: :trophy: :balloon:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':trophy:'
+- ':balloon:'
+oomp_word_list:
+- computer
+- trophy
+- balloon
+part_number: ''
+size: 2_54_mm
+type: header

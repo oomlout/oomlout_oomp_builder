@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33000_ohm
+directory: parts/electronic_resistor_0402_33000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_33000_ohm
+id: electronic_resistor_0402_33000_ohm
+id_no_class: resistor_0402_33000_ohm
+id_no_color: 33000ohm
+id_no_size: 33000_ohm
+id_no_type: 0402_33000_ohm
+manufacturer: ''
+md5: e4150f2a2602aedae30a876ff69b3e27
+md5_10: e4150f2a26
+md5_10_upper: E4150F2A26
+md5_5: e4150
+md5_5_upper: E4150
+md5_6: e4150f
+md5_6_alpha: 8wdn3
+md5_6_alpha_upper: 8WDN3
+md5_6_upper: E4150F
+name: Electronic Resistor 0402 33000 Ohm
+name_no_class: Resistor 0402 33000 Ohm
+name_no_color: 33000Ohm
+name_no_size: 33000 Ohm
+name_no_type: 0402 33000 Ohm
+oomp_key: oomp_electronic_resistor_0402_33000_ohm
+oomp_word: anchor poop sparkles
+oomp_word_emoji: ':anchor: :poop: :sparkles:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':poop:'
+- ':sparkles:'
+oomp_word_list:
+- anchor
+- poop
+- sparkles
+part_number: ''
+size: '0402'
+type: resistor

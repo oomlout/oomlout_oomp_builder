@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_8_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_01_06_ex_8_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06_ex_8_teeth_sh_motor_tt_01
+id: oobb_part_gear_01_06_ex_8_teeth_sh_motor_tt_01
+id_no_class: part_gear_01_06_ex_8_teeth_sh_motor_tt_01
+id_no_color: 0106ex8teethshmotortt01
+id_no_size: 01_06_ex_8_teeth_sh_motor_tt_01
+id_no_type: gear_01_06_ex_8_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 9fe0f5513edf55dfe31bc077f1e61b5f
+md5_10: 9fe0f5513e
+md5_10_upper: 9FE0F5513E
+md5_5: 9fe0f
+md5_5_upper: 9FE0F
+md5_6: 9fe0f5
+md5_6_alpha: 68kqd
+md5_6_alpha_upper: 68KQD
+md5_6_upper: 9FE0F5
+name: Oobb Part Gear 01 06 Ex 8 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 01 06 Ex 8 Teeth Sh Motor Tt 01
+name_no_color: 0106Ex8Teethshmotortt01
+name_no_size: 01 06 Ex 8 Teeth Sh Motor Tt 01
+name_no_type: Gear 01 06 Ex 8 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_01_06_ex_8_teeth_sh_motor_tt_01
+oomp_word: diamonds ship four
+oomp_word_emoji: ':diamonds: :ship: :four:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':ship:'
+- ':four:'
+oomp_word_list:
+- diamonds
+- ship
+- four
+part_number: ''
+size: gear
+type: part

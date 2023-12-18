@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_18
+directory: parts/oobb_part_tray_thin_04_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_03_18
+id: oobb_part_tray_thin_04_03_18
+id_no_class: part_tray_thin_04_03_18
+id_no_color: 040318
+id_no_size: 04_03_18
+id_no_type: tray_thin_04_03_18
+manufacturer: ''
+md5: ec9244547650cfc5819a836fe30365f8
+md5_10: ec92445476
+md5_10_upper: EC92445476
+md5_5: ec924
+md5_5_upper: EC924
+md5_6: ec9244
+md5_6_alpha: 98ax0
+md5_6_alpha_upper: 98AX0
+md5_6_upper: EC9244
+name: Oobb Part Tray Thin 04 03 18
+name_no_class: Part Tray Thin 04 03 18
+name_no_color: 040318
+name_no_size: 04 03 18
+name_no_type: Tray Thin 04 03 18
+oomp_key: oomp_oobb_part_tray_thin_04_03_18
+oomp_word: taxi paperclip panda_face
+oomp_word_emoji: ':taxi: :paperclip: :panda_face:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':paperclip:'
+- ':panda_face:'
+oomp_word_list:
+- taxi
+- paperclip
+- panda_face
+part_number: ''
+size: tray_thin
+type: part

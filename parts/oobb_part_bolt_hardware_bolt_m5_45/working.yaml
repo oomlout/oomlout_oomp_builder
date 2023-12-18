@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m5_45
+directory: parts/oobb_part_bolt_hardware_bolt_m5_45
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_45
+id: oobb_part_bolt_hardware_bolt_m5_45
+id_no_class: part_bolt_hardware_bolt_m5_45
+id_no_color: hardwarem545
+id_no_size: hardware_m5_45
+id_no_type: bolt_hardware_bolt_m5_45
+manufacturer: ''
+md5: 1f89112306c8d0d0b08daf04da6f3a22
+md5_10: 1f89112306
+md5_10_upper: 1F89112306
+md5_5: 1f891
+md5_5_upper: 1F891
+md5_6: 1f8911
+md5_6_alpha: 18aoh
+md5_6_alpha_upper: 18AOH
+md5_6_upper: 1F8911
+name: Oobb Part Bolt Hardware Bolt M5 45
+name_no_class: Part Bolt Hardware Bolt M5 45
+name_no_color: Hardwarem545
+name_no_size: Hardware M5 45
+name_no_type: Bolt Hardware Bolt M5 45
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_45
+oomp_word: princess hammer dizzy
+oomp_word_emoji: ':princess: :hammer: :dizzy:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':hammer:'
+- ':dizzy:'
+oomp_word_list:
+- princess
+- hammer
+- dizzy
+part_number: ''
+size: bolt
+type: part

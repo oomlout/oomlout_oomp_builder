@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_03_12'
+directory: parts/oobb_part_tray_thin_04_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_03_12
+id: oobb_part_tray_thin_04_03_12
+id_no_class: part_tray_thin_04_03_12
+id_no_color: '040312'
+id_no_size: '04_03_12'
+id_no_type: tray_thin_04_03_12
+manufacturer: ''
+md5: de3fee03778a3768d131594b3f130492
+md5_10: de3fee0377
+md5_10_upper: DE3FEE0377
+md5_5: de3fe
+md5_5_upper: DE3FE
+md5_6: de3fee
+md5_6_alpha: 8o6pa
+md5_6_alpha_upper: 8O6PA
+md5_6_upper: DE3FEE
+name: Oobb Part Tray Thin 04 03 12
+name_no_class: Part Tray Thin 04 03 12
+name_no_color: '040312'
+name_no_size: 04 03 12
+name_no_type: Tray Thin 04 03 12
+oomp_key: oomp_oobb_part_tray_thin_04_03_12
+oomp_word: rainbow horse ambulance
+oomp_word_emoji: ':rainbow: :horse: :ambulance:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':horse:'
+- ':ambulance:'
+oomp_word_list:
+- rainbow
+- horse
+- ambulance
+part_number: ''
+size: tray_thin
+type: part

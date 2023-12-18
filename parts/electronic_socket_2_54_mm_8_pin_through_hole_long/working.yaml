@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 8_pin
+directory: parts/electronic_socket_2_54_mm_8_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_8_pin_through_hole_long
+id: electronic_socket_2_54_mm_8_pin_through_hole_long
+id_no_class: socket_2_54_mm_8_pin_through_hole_long
+id_no_color: 8pinthroughholelong
+id_no_size: 8_pin_through_hole_long
+id_no_type: 2_54_mm_8_pin_through_hole_long
+manufacturer: ''
+md5: 0fb75c2bd87c7b65ad9ffa98f0837015
+md5_10: 0fb75c2bd8
+md5_10_upper: 0FB75C2BD8
+md5_5: 0fb75
+md5_5_upper: 0FB75
+md5_6: 0fb75c
+md5_6_alpha: m2qk
+md5_6_alpha_upper: M2QK
+md5_6_upper: 0FB75C
+name: Electronic Socket 2 54 Mm 8 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 8 Pin Through Hole Long
+name_no_color: 8Pinthroughholelong
+name_no_size: 8 Pin Through Hole Long
+name_no_type: 2 54 Mm 8 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_8_pin_through_hole_long
+oomp_word: sparkles pizza ox
+oomp_word_emoji: ':sparkles: :pizza: :ox:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':pizza:'
+- ':ox:'
+oomp_word_list:
+- sparkles
+- pizza
+- ox
+part_number: ''
+size: 2_54_mm
+type: socket

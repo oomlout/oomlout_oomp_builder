@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_03_12'
+directory: parts/oobb_part_tray_vertical_04_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_03_12
+id: oobb_part_tray_vertical_04_03_12
+id_no_class: part_tray_vertical_04_03_12
+id_no_color: '040312'
+id_no_size: '04_03_12'
+id_no_type: tray_vertical_04_03_12
+manufacturer: ''
+md5: cc5ccd001e9a1245e772cfa4a04fd049
+md5_10: cc5ccd001e
+md5_10_upper: CC5CCD001E
+md5_5: cc5cc
+md5_5_upper: CC5CC
+md5_6: cc5ccd
+md5_6_alpha: 7z26l
+md5_6_alpha_upper: 7Z26L
+md5_6_upper: CC5CCD
+name: Oobb Part Tray Vertical 04 03 12
+name_no_class: Part Tray Vertical 04 03 12
+name_no_color: '040312'
+name_no_size: 04 03 12
+name_no_type: Tray Vertical 04 03 12
+oomp_key: oomp_oobb_part_tray_vertical_04_03_12
+oomp_word: watermelon ox strawberry
+oomp_word_emoji: ':watermelon: :ox: :strawberry:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':ox:'
+- ':strawberry:'
+oomp_word_list:
+- watermelon
+- ox
+- strawberry
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_18'
+directory: parts/oobb_part_tray_thin_12_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_12_18
+id: oobb_part_tray_thin_12_12_18
+id_no_class: part_tray_thin_12_12_18
+id_no_color: '121218'
+id_no_size: '12_12_18'
+id_no_type: tray_thin_12_12_18
+manufacturer: ''
+md5: ee21ee2e266e6467fca76ee1506fffcf
+md5_10: ee21ee2e26
+md5_10_upper: EE21EE2E26
+md5_5: ee21e
+md5_5_upper: EE21E
+md5_6: ee21ee
+md5_6_alpha: 9ahv2
+md5_6_alpha_upper: 9AHV2
+md5_6_upper: EE21EE
+name: Oobb Part Tray Thin 12 12 18
+name_no_class: Part Tray Thin 12 12 18
+name_no_color: '121218'
+name_no_size: 12 12 18
+name_no_type: Tray Thin 12 12 18
+oomp_key: oomp_oobb_part_tray_thin_12_12_18
+oomp_word: ambulance feet ambulance
+oomp_word_emoji: ':ambulance: :feet: :ambulance:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':feet:'
+- ':ambulance:'
+oomp_word_list:
+- ambulance
+- feet
+- ambulance
+part_number: ''
+size: tray_thin
+type: part

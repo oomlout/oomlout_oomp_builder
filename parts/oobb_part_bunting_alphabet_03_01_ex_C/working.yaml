@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_c
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_c
+id: oobb_part_bunting_alphabet_03_01_ex_c
+id_no_class: part_bunting_alphabet_03_01_ex_c
+id_no_color: 0301exc
+id_no_size: 03_01_ex_c
+id_no_type: bunting_alphabet_03_01_ex_c
+manufacturer: ''
+md5: 90f0c669fce696e0c774178f1dd1a4d6
+md5_10: 90f0c669fc
+md5_10_upper: 90F0C669FC
+md5_5: 90f0c
+md5_5_upper: 90F0C
+md5_6: 90f0c6
+md5_6_alpha: 5nlc6
+md5_6_alpha_upper: 5NLC6
+md5_6_upper: 90F0C6
+name: Oobb Part Bunting Alphabet 03 01 Ex C
+name_no_class: Part Bunting Alphabet 03 01 Ex C
+name_no_color: 0301Exc
+name_no_size: 03 01 Ex C
+name_no_type: Bunting Alphabet 03 01 Ex C
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_c
+oomp_word: scissors train lollipop
+oomp_word_emoji: ':scissors: :train: :lollipop:'
+oomp_word_emoji_list:
+- ':scissors:'
+- ':train:'
+- ':lollipop:'
+oomp_word_list:
+- scissors
+- train
+- lollipop
+part_number: ''
+size: bunting_alphabet
+type: part

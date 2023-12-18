@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_1d5_15
+directory: parts/oobb_part_tray_thin_12_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_1d5_15
+id: oobb_part_tray_thin_12_1d5_15
+id_no_class: part_tray_thin_12_1d5_15
+id_no_color: 121d515
+id_no_size: 12_1d5_15
+id_no_type: tray_thin_12_1d5_15
+manufacturer: ''
+md5: 1f8a7c2110b890d1561a4a5579a1e3e7
+md5_10: 1f8a7c2110
+md5_10_upper: 1F8A7C2110
+md5_5: 1f8a7
+md5_5_upper: 1F8A7
+md5_6: 1f8a7c
+md5_6_alpha: 18ayk
+md5_6_alpha_upper: 18AYK
+md5_6_upper: 1F8A7C
+name: Oobb Part Tray Thin 12 1D5 15
+name_no_class: Part Tray Thin 12 1D5 15
+name_no_color: 121D515
+name_no_size: 12 1D5 15
+name_no_type: Tray Thin 12 1D5 15
+oomp_key: oomp_oobb_part_tray_thin_12_1d5_15
+oomp_word: princess envelope tv
+oomp_word_emoji: ':princess: :envelope: :tv:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':envelope:'
+- ':tv:'
+oomp_word_list:
+- princess
+- envelope
+- tv
+part_number: ''
+size: tray_thin
+type: part

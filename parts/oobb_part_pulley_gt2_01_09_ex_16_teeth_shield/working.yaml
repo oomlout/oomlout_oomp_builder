@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_16_teeth_shield
+directory: parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield
+id: oobb_part_pulley_gt2_01_09_ex_16_teeth_shield
+id_no_class: part_pulley_gt2_01_09_ex_16_teeth_shield
+id_no_color: 0109ex16teethshield
+id_no_size: 01_09_ex_16_teeth_shield
+id_no_type: pulley_gt2_01_09_ex_16_teeth_shield
+manufacturer: ''
+md5: 1009cfef92c930cf43ab850ce62e86c2
+md5_10: 1009cfef92
+md5_10_upper: 1009CFEF92
+md5_5: 1009c
+md5_5_upper: 1009C
+md5_6: 1009cf
+md5_6_alpha: mj0v
+md5_6_alpha_upper: MJ0V
+md5_6_upper: 1009CF
+name: Oobb Part Pulley Gt2 01 09 Ex 16 Teeth Shield
+name_no_class: Part Pulley Gt2 01 09 Ex 16 Teeth Shield
+name_no_color: 0109Ex16Teethshield
+name_no_size: 01 09 Ex 16 Teeth Shield
+name_no_type: Pulley Gt2 01 09 Ex 16 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_16_teeth_shield
+oomp_word: star angry melon
+oomp_word_emoji: ':star: :angry: :melon:'
+oomp_word_emoji_list:
+- ':star:'
+- ':angry:'
+- ':melon:'
+oomp_word_list:
+- star
+- angry
+- melon
+part_number: ''
+size: pulley_gt2
+type: part

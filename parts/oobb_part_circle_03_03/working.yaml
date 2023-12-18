@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03'
+directory: parts/oobb_part_circle_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_03_03
+id: oobb_part_circle_03_03
+id_no_class: part_circle_03_03
+id_no_color: '0303'
+id_no_size: '03_03'
+id_no_type: circle_03_03
+manufacturer: ''
+md5: effb11d6c76773e31195394bec5187f8
+md5_10: effb11d6c7
+md5_10_upper: EFFB11D6C7
+md5_5: effb1
+md5_5_upper: EFFB1
+md5_6: effb11
+md5_6_alpha: 9d3bl
+md5_6_alpha_upper: 9D3BL
+md5_6_upper: EFFB11
+name: Oobb Part Circle 03 03
+name_no_class: Part Circle 03 03
+name_no_color: '0303'
+name_no_size: 03 03
+name_no_type: Circle 03 03
+oomp_key: oomp_oobb_part_circle_03_03
+oomp_word: truck ok dizzy
+oomp_word_emoji: ':truck: :ok: :dizzy:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':ok:'
+- ':dizzy:'
+oomp_word_list:
+- truck
+- ok
+- dizzy
+part_number: ''
+size: circle
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_09'
+directory: parts/oobb_part_tray_vertical_10_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_09_09
+id: oobb_part_tray_vertical_10_09_09
+id_no_class: part_tray_vertical_10_09_09
+id_no_color: '100909'
+id_no_size: '10_09_09'
+id_no_type: tray_vertical_10_09_09
+manufacturer: ''
+md5: 4ceec6abccbb194f109e03e5dfc7de63
+md5_10: 4ceec6abcc
+md5_10_upper: 4CEEC6ABCC
+md5_5: 4ceec
+md5_5_upper: 4CEEC
+md5_6: 4ceec6
+md5_6_alpha: 302bq
+md5_6_alpha_upper: 302BQ
+md5_6_upper: 4CEEC6
+name: Oobb Part Tray Vertical 10 09 09
+name_no_class: Part Tray Vertical 10 09 09
+name_no_color: '100909'
+name_no_size: 10 09 09
+name_no_type: Tray Vertical 10 09 09
+oomp_key: oomp_oobb_part_tray_vertical_10_09_09
+oomp_word: turtle ambulance lollipop
+oomp_word_emoji: ':turtle: :ambulance: :lollipop:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':ambulance:'
+- ':lollipop:'
+oomp_word_list:
+- turtle
+- ambulance
+- lollipop
+part_number: ''
+size: tray_vertical
+type: part

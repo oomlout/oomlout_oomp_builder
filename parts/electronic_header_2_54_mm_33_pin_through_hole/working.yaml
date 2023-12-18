@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 33_pin
+directory: parts/electronic_header_2_54_mm_33_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_through_hole
+id: electronic_header_2_54_mm_33_pin_through_hole
+id_no_class: header_2_54_mm_33_pin_through_hole
+id_no_color: 33pinthroughhole
+id_no_size: 33_pin_through_hole
+id_no_type: 2_54_mm_33_pin_through_hole
+manufacturer: ''
+md5: f809b82f66a4c399831a47df3b801968
+md5_10: f809b82f66
+md5_10_upper: F809B82F66
+md5_5: f809b
+md5_5_upper: F809B
+md5_6: f809b8
+md5_6_alpha: 9oerc
+md5_6_alpha_upper: 9OERC
+md5_6_upper: F809B8
+name: Electronic Header 2 54 Mm 33 Pin Through Hole
+name_no_class: Header 2 54 Mm 33 Pin Through Hole
+name_no_color: 33Pinthroughhole
+name_no_size: 33 Pin Through Hole
+name_no_type: 2 54 Mm 33 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_through_hole
+oomp_word: seven angry hamburger
+oomp_word_emoji: ':seven: :angry: :hamburger:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':angry:'
+- ':hamburger:'
+oomp_word_list:
+- seven
+- angry
+- hamburger
+part_number: ''
+size: 2_54_mm
+type: header

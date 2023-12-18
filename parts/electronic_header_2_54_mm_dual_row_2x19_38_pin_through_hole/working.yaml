@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x19_38_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x19_38_pin_through_hole
+id_no_color: 2x1938pinthroughhole
+id_no_size: 2x19_38_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x19_38_pin_through_hole
+manufacturer: ''
+md5: caf82789868cf6a78d8976270dbc2f0e
+md5_10: caf8278986
+md5_10_upper: CAF8278986
+md5_5: caf82
+md5_5_upper: CAF82
+md5_6: caf827
+md5_6_alpha: 7x3qf
+md5_6_alpha_upper: 7X3QF
+md5_6_upper: CAF827
+name: Electronic Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole
+name_no_color: 2X1938Pinthroughhole
+name_no_size: 2X19 38 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X19 38 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
+oomp_word: cherries seven nose
+oomp_word_emoji: ':cherries: :seven: :nose:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':seven:'
+- ':nose:'
+oomp_word_list:
+- cherries
+- seven
+- nose
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

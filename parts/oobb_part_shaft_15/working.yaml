@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15'
+directory: parts/oobb_part_shaft_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15
+id: oobb_part_shaft_15
+id_no_class: part_shaft_15
+id_no_color: '15'
+id_no_size: '15'
+id_no_type: shaft_15
+manufacturer: ''
+md5: af06abfad2834e56636fa9934c26d2e2
+md5_10: af06abfad2
+md5_10_upper: AF06ABFAD2
+md5_5: af06a
+md5_5_upper: AF06A
+md5_6: af06ab
+md5_6_alpha: 6tup7
+md5_6_alpha_upper: 6TUP7
+md5_6_upper: AF06AB
+name: Oobb Part Shaft 15
+name_no_class: Part Shaft 15
+name_no_color: '15'
+name_no_size: '15'
+name_no_type: Shaft 15
+oomp_key: oomp_oobb_part_shaft_15
+oomp_word: tophat sleeping boot
+oomp_word_emoji: ':tophat: :sleeping: :boot:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':sleeping:'
+- ':boot:'
+oomp_word_list:
+- tophat
+- sleeping
+- boot
+part_number: ''
+size: shaft
+type: part

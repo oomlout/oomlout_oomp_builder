@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5_pole
+directory: parts/electronic_connector_wago_221_5_pole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole
+id: electronic_connector_wago_221_5_pole
+id_no_class: connector_wago_221_5_pole
+id_no_color: 5pole
+id_no_size: 5_pole
+id_no_type: wago_221_5_pole
+manufacturer: ''
+md5: 813104a7c3359293a498667faa9147d3
+md5_10: 813104a7c3
+md5_10_upper: 813104A7C3
+md5_5: '81310'
+md5_5_upper: '81310'
+md5_6: '813104'
+md5_6_alpha: 51gxw
+md5_6_alpha_upper: 51GXW
+md5_6_upper: '813104'
+name: Electronic Connector Wago 221 5 Pole
+name_no_class: Connector Wago 221 5 Pole
+name_no_color: 5Pole
+name_no_size: 5 Pole
+name_no_type: Wago 221 5 Pole
+oomp_key: oomp_electronic_connector_wago_221_5_pole
+oomp_word: watch ocean wink
+oomp_word_emoji: ':watch: :ocean: :wink:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':ocean:'
+- ':wink:'
+oomp_word_list:
+- watch
+- ocean
+- wink
+part_number: ''
+size: wago_221
+type: connector

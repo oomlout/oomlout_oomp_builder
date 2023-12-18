@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_06_12'
+directory: parts/oobb_part_tray_06_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_06_12
+id: oobb_part_tray_06_06_12
+id_no_class: part_tray_06_06_12
+id_no_color: '060612'
+id_no_size: '06_06_12'
+id_no_type: tray_06_06_12
+manufacturer: ''
+md5: 2378f4baf2795faad9752bbebd64174d
+md5_10: 2378f4baf2
+md5_10_upper: 2378F4BAF2
+md5_5: 2378f
+md5_5_upper: 2378F
+md5_6: 2378f4
+md5_6_alpha: 1dtro
+md5_6_alpha_upper: 1DTRO
+md5_6_upper: 2378F4
+name: Oobb Part Tray 06 06 12
+name_no_class: Part Tray 06 06 12
+name_no_color: '060612'
+name_no_size: 06 06 12
+name_no_type: Tray 06 06 12
+oomp_key: oomp_oobb_part_tray_06_06_12
+oomp_word: kiss bell three
+oomp_word_emoji: ':kiss: :bell: :three:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':bell:'
+- ':three:'
+oomp_word_list:
+- kiss
+- bell
+- three
+part_number: ''
+size: tray
+type: part

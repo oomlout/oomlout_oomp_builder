@@ -1,0 +1,40 @@
+classification: hardware
+color: MR93_size
+description_extra: ''
+description_main: 3_mm_id_9_mm_od_4_mm_depth
+directory: parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+id: hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+id_no_class: bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+id_no_color: 3_mm_id_9_mm_od_4_mm_depth
+id_no_size: MR93_size_3_mm_id_9_mm_od_4_mm_depth
+id_no_type: MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+manufacturer: ''
+md5: 300e87079b36fc1c173acc39cf960750
+md5_10: 300e87079b
+md5_10_upper: 300E87079B
+md5_5: 300e8
+md5_5_upper: 300E8
+md5_6: 300e87
+md5_6_alpha: 1vi4n
+md5_6_alpha_upper: 1VI4N
+md5_6_upper: 300E87
+name: Hardware Bearing Mr Series Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth
+name_no_class: Bearing Mr Series Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 9 Mm Od 4 Mm Depth
+name_no_size: Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth
+name_no_type: Mr Series Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+oomp_word: foggy cupid toilet
+oomp_word_emoji: ':foggy: :cupid: :toilet:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':cupid:'
+- ':toilet:'
+oomp_word_list:
+- foggy
+- cupid
+- toilet
+part_number: ''
+size: MR_series
+type: bearing

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+directory: parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+id: oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_class: part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 020210nm8mmtapewidth2mmtapethicknessex2
+id_no_size: 02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_type: smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+md5: 32ffd0f680bf45d8f15ca7796c402d7b
+md5_10: 32ffd0f680
+md5_10_upper: 32FFD0F680
+md5_5: 32ffd
+md5_5_upper: 32FFD
+md5_6: 32ffd0
+md5_6_alpha: 1zmxc
+md5_6_alpha_upper: 1ZMXC
+md5_6_upper: 32FFD0
+name: Oobb Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_class: Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness Ex
+  2
+name_no_color: 020210Nm8Mmtapewidth2Mmtapethicknessex2
+name_no_size: 02 02 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_type: Smd Magazine 02 02 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness Ex 2
+oomp_key: oomp_oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness_ex_2
+oomp_word: cat trident banana
+oomp_word_emoji: ':cat: :trident: :banana:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':trident:'
+- ':banana:'
+oomp_word_list:
+- cat
+- trident
+- banana
+part_number: ''
+size: smd_magazine
+type: part

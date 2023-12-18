@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: package_marking_t4
+description_main: ''
+directory: parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+id: electronic_diode_sod_123_package_marking_t4_1n4148w
+id_no_class: diode_sod_123_package_marking_t4_1n4148w
+id_no_color: packagemarkingt41n4148w
+id_no_size: package_marking_t4_1n4148w
+id_no_type: sod_123_package_marking_t4_1n4148w
+manufacturer: ''
+md5: 35b545ced662ea6b79a91d4e083ad0fd
+md5_10: 35b545ced6
+md5_10_upper: 35B545CED6
+md5_5: 35b54
+md5_5_upper: 35B54
+md5_6: 35b545
+md5_6_alpha: 23fwl
+md5_6_alpha_upper: 23FWL
+md5_6_upper: 35B545
+name: Electronic Diode Sod 123 Package Marking T4 1N4148W
+name_no_class: Diode Sod 123 Package Marking T4 1N4148W
+name_no_color: Packagemarkingt41N4148W
+name_no_size: Package Marking T4 1N4148W
+name_no_type: Sod 123 Package Marking T4 1N4148W
+oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
+oomp_word: hamster tea snake
+oomp_word_emoji: ':hamster: :tea: :snake:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':tea:'
+- ':snake:'
+oomp_word_list:
+- hamster
+- tea
+- snake
+part_number: 1n4148w
+size: sod_123
+type: diode

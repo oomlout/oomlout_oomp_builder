@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_1d5_12
+directory: parts/oobb_part_tray_thin_04_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_1d5_12
+id: oobb_part_tray_thin_04_1d5_12
+id_no_class: part_tray_thin_04_1d5_12
+id_no_color: 041d512
+id_no_size: 04_1d5_12
+id_no_type: tray_thin_04_1d5_12
+manufacturer: ''
+md5: a2001432563b4e0805c10a519ced1fe1
+md5_10: a200143256
+md5_10_upper: A200143256
+md5_5: a2001
+md5_5_upper: A2001
+md5_6: a20014
+md5_6_alpha: 6bk0k
+md5_6_alpha_upper: 6BK0K
+md5_6_upper: A20014
+name: Oobb Part Tray Thin 04 1D5 12
+name_no_class: Part Tray Thin 04 1D5 12
+name_no_color: 041D512
+name_no_size: 04 1D5 12
+name_no_type: Tray Thin 04 1D5 12
+oomp_key: oomp_oobb_part_tray_thin_04_1d5_12
+oomp_word: violin bowtie fire
+oomp_word_emoji: ':violin: :bowtie: :fire:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':bowtie:'
+- ':fire:'
+oomp_word_list:
+- violin
+- bowtie
+- fire
+part_number: ''
+size: tray_thin
+type: part

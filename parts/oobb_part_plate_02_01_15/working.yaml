@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_01_15'
+directory: parts/oobb_part_plate_02_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_01_15
+id: oobb_part_plate_02_01_15
+id_no_class: part_plate_02_01_15
+id_no_color: '020115'
+id_no_size: '02_01_15'
+id_no_type: plate_02_01_15
+manufacturer: ''
+md5: 5fedd97ae2fa2475e236200a6b751bf8
+md5_10: 5fedd97ae2
+md5_10_upper: 5FEDD97AE2
+md5_5: 5fedd
+md5_5_upper: 5FEDD
+md5_6: 5fedd9
+md5_6_alpha: 3qqxl
+md5_6_alpha_upper: 3QQXL
+md5_6_upper: 5FEDD9
+name: Oobb Part Plate 02 01 15
+name_no_class: Part Plate 02 01 15
+name_no_color: '020115'
+name_no_size: 02 01 15
+name_no_type: Plate 02 01 15
+oomp_key: oomp_oobb_part_plate_02_01_15
+oomp_word: leopard bus bank
+oomp_word_emoji: ':leopard: :bus: :bank:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':bus:'
+- ':bank:'
+oomp_word_list:
+- leopard
+- bus
+- bank
+part_number: ''
+size: plate
+type: part

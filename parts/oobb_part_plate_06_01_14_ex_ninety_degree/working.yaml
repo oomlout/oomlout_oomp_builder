@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_06_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_01_14_ex_ninety_degree
+id: oobb_part_plate_06_01_14_ex_ninety_degree
+id_no_class: part_plate_06_01_14_ex_ninety_degree
+id_no_color: 060114exninetydegree
+id_no_size: 06_01_14_ex_ninety_degree
+id_no_type: plate_06_01_14_ex_ninety_degree
+manufacturer: ''
+md5: c755bf35ac267cf53221e1851f0d9cc9
+md5_10: c755bf35ac
+md5_10_upper: C755BF35AC
+md5_5: c755b
+md5_5_upper: C755B
+md5_6: c755bf
+md5_6_alpha: 7rzy7
+md5_6_alpha_upper: 7RZY7
+md5_6_upper: C755BF
+name: Oobb Part Plate 06 01 14 Ex Ninety Degree
+name_no_class: Part Plate 06 01 14 Ex Ninety Degree
+name_no_color: 060114Exninetydegree
+name_no_size: 06 01 14 Ex Ninety Degree
+name_no_type: Plate 06 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_06_01_14_ex_ninety_degree
+oomp_word: honey_pot dolphin egg
+oomp_word_emoji: ':honey_pot: :dolphin: :egg:'
+oomp_word_emoji_list:
+- ':honey_pot:'
+- ':dolphin:'
+- ':egg:'
+oomp_word_list:
+- honey_pot
+- dolphin
+- egg
+part_number: ''
+size: plate
+type: part

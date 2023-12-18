@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 22_mm
-description_main_capital: 22 mm
-description_main_first_letter: '2'
-description_main_first_letter_upper: '2'
-description_main_upper: 22_MM
-description_only_numbers: '22'
-description_only_numbers_short: '22'
-description_or_color: '22'
-description_or_color_upper: '22'
 directory: parts/hardware_set_screw_6_mm_22_mm
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_6_mm_22_mm
 id: hardware_set_screw_6_mm_22_mm
 id_no_class: set_screw_6_mm_22_mm
 id_no_color: 22mm
 id_no_size: 22_mm
 id_no_type: 6_mm_22_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_set_screw_6_mm_22_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_6_mm_22_mm/working)<br>[ss622](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_6_mm_22_mm/working)<br>[Hardware
-  Set Screw 6 Mm 22 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_6_mm_22_mm/working)<br><br>'
-markdown_short: '[hardware_set_screw_6_mm_22_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_6_mm_22_mm/working)<br><br>'
 md5: 26bcf665ef714ff1e4205ae6c78a0e18
 md5_10: 26bcf665ef
 md5_10_upper: 26BCF665EF
@@ -55,17 +23,14 @@ name: Hardware Set Screw 6 Mm 22 Mm
 name_no_class: Set Screw 6 Mm 22 Mm
 name_no_color: 22Mm
 name_no_size: 22 Mm
-name_no_size_short: 22 Mm
 name_no_type: 6 Mm 22 Mm
 oomlout_bolt_color: ''
-oomlout_bolt_head_type: ''
-oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_head_type: Bolt
 oomlout_bolt_length: 22 mm
 oomlout_bolt_length_no_unit: '22'
-oomlout_bolt_name: Set Screw M6X22 mm  ()
+oomlout_bolt_name: Set Screw M6X22 mm  (Bolt)
 oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
-oomlout_bolt_type_diagram_diagram: type_diagram.svg
 oomlout_short_code: ss6m22
 oomlout_short_code_upper: SS6M22
 oomp_key: oomp_hardware_set_screw_6_mm_22_mm
@@ -80,21 +45,5 @@ oomp_word_list:
 - sushi
 - five
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ss622
-short_code_upper: SS622
 size: 6_mm
-size_capital: 6 mm
-size_first_letter: '6'
-size_first_letter_upper: '6'
-size_only_numbers: '6'
-size_only_numbers_no_zeros: '6'
-size_upper: 6_MM
 type: set_screw
-type_capital: Set Screw
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SET_SCREW

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 7_pin
+directory: parts/electronic_socket_2_54_mm_7_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_7_pin_through_hole
+id: electronic_socket_2_54_mm_7_pin_through_hole
+id_no_class: socket_2_54_mm_7_pin_through_hole
+id_no_color: 7pinthroughhole
+id_no_size: 7_pin_through_hole
+id_no_type: 2_54_mm_7_pin_through_hole
+manufacturer: ''
+md5: 7138c554da3072a5b5966c892eec794c
+md5_10: 7138c554da
+md5_10_upper: 7138C554DA
+md5_5: 7138c
+md5_5_upper: 7138C
+md5_6: 7138c5
+md5_6_alpha: 4f1dx
+md5_6_alpha_upper: 4F1DX
+md5_6_upper: 7138C5
+name: Electronic Socket 2 54 Mm 7 Pin Through Hole
+name_no_class: Socket 2 54 Mm 7 Pin Through Hole
+name_no_color: 7Pinthroughhole
+name_no_size: 7 Pin Through Hole
+name_no_type: 2 54 Mm 7 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_7_pin_through_hole
+oomp_word: bamboo frog candy
+oomp_word_emoji: ':bamboo: :frog: :candy:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':frog:'
+- ':candy:'
+oomp_word_list:
+- bamboo
+- frog
+- candy
+part_number: ''
+size: 2_54_mm
+type: socket

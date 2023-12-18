@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_09
+directory: parts/oobb_part_plate_05_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_09
+id: oobb_part_plate_05_03_09
+id_no_class: part_plate_05_03_09
+id_no_color: 050309
+id_no_size: 05_03_09
+id_no_type: plate_05_03_09
+manufacturer: ''
+md5: 7fe638130eeee6fc00d0e7e32825f629
+md5_10: 7fe638130e
+md5_10_upper: 7FE638130E
+md5_5: 7fe63
+md5_5_upper: 7FE63
+md5_6: 7fe638
+md5_6_alpha: 4znlk
+md5_6_alpha_upper: 4ZNLK
+md5_6_upper: 7FE638
+name: Oobb Part Plate 05 03 09
+name_no_class: Part Plate 05 03 09
+name_no_color: 050309
+name_no_size: 05 03 09
+name_no_type: Plate 05 03 09
+oomp_key: oomp_oobb_part_plate_05_03_09
+oomp_word: speaker airplane frog
+oomp_word_emoji: ':speaker: :airplane: :frog:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':airplane:'
+- ':frog:'
+oomp_word_list:
+- speaker
+- airplane
+- frog
+part_number: ''
+size: plate
+type: part

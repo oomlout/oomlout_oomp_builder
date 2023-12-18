@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 36_pin
+directory: parts/electronic_header_2_54_mm_36_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_through_hole
+id: electronic_header_2_54_mm_36_pin_through_hole
+id_no_class: header_2_54_mm_36_pin_through_hole
+id_no_color: 36pinthroughhole
+id_no_size: 36_pin_through_hole
+id_no_type: 2_54_mm_36_pin_through_hole
+manufacturer: ''
+md5: 35ce424084f3a811da8aa007d10ff862
+md5_10: 35ce424084
+md5_10_upper: 35CE424084
+md5_5: 35ce4
+md5_5_upper: 35CE4
+md5_6: 35ce42
+md5_6_alpha: 23kua
+md5_6_alpha_upper: 23KUA
+md5_6_upper: 35CE42
+name: Electronic Header 2 54 Mm 36 Pin Through Hole
+name_no_class: Header 2 54 Mm 36 Pin Through Hole
+name_no_color: 36Pinthroughhole
+name_no_size: 36 Pin Through Hole
+name_no_type: 2 54 Mm 36 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_36_pin_through_hole
+oomp_word: hamster peach sheep
+oomp_word_emoji: ':hamster: :peach: :sheep:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':peach:'
+- ':sheep:'
+oomp_word_list:
+- hamster
+- peach
+- sheep
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_21'
+directory: parts/oobb_part_plate_19_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_21
+id: oobb_part_plate_19_01_21
+id_no_class: part_plate_19_01_21
+id_no_color: '190121'
+id_no_size: '19_01_21'
+id_no_type: plate_19_01_21
+manufacturer: ''
+md5: c550d83933a4b88bd9a795b5f23daa91
+md5_10: c550d83933
+md5_10_upper: C550D83933
+md5_5: c550d
+md5_5_upper: C550D
+md5_6: c550d8
+md5_6_alpha: 7p5ug
+md5_6_alpha_upper: 7P5UG
+md5_6_upper: C550D8
+name: Oobb Part Plate 19 01 21
+name_no_class: Part Plate 19 01 21
+name_no_color: '190121'
+name_no_size: 19 01 21
+name_no_type: Plate 19 01 21
+oomp_key: oomp_oobb_part_plate_19_01_21
+oomp_word: candy beetle hospital
+oomp_word_emoji: ':candy: :beetle: :hospital:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':beetle:'
+- ':hospital:'
+oomp_word_list:
+- candy
+- beetle
+- hospital
+part_number: ''
+size: plate
+type: part

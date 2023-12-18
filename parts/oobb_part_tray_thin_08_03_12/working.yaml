@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_03_12
+directory: parts/oobb_part_tray_thin_08_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_03_12
+id: oobb_part_tray_thin_08_03_12
+id_no_class: part_tray_thin_08_03_12
+id_no_color: 080312
+id_no_size: 08_03_12
+id_no_type: tray_thin_08_03_12
+manufacturer: ''
+md5: b37d9a918c2a10f7e34b951988cbf7e3
+md5_10: b37d9a918c
+md5_10_upper: B37D9A918C
+md5_5: b37d9
+md5_5_upper: B37D9
+md5_6: b37d9a
+md5_6_alpha: 704gq
+md5_6_alpha_upper: 704GQ
+md5_6_upper: B37D9A
+name: Oobb Part Tray Thin 08 03 12
+name_no_class: Part Tray Thin 08 03 12
+name_no_color: 080312
+name_no_size: 08 03 12
+name_no_type: Tray Thin 08 03 12
+oomp_key: oomp_oobb_part_tray_thin_08_03_12
+oomp_word: eyeglasses phone golf
+oomp_word_emoji: ':eyeglasses: :phone: :golf:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':phone:'
+- ':golf:'
+oomp_word_list:
+- eyeglasses
+- phone
+- golf
+part_number: ''
+size: tray_thin
+type: part

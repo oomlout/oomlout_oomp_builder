@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_05_03'
+directory: parts/oobb_part_plate_20_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_05_03
+id: oobb_part_plate_20_05_03
+id_no_class: part_plate_20_05_03
+id_no_color: '200503'
+id_no_size: '20_05_03'
+id_no_type: plate_20_05_03
+manufacturer: ''
+md5: d64c34959571964fb642386c91be0e64
+md5_10: d64c349595
+md5_10_upper: D64C349595
+md5_5: d64c3
+md5_5_upper: D64C3
+md5_6: d64c34
+md5_6_alpha: 8d0l0
+md5_6_alpha_upper: 8D0L0
+md5_6_upper: D64C34
+name: Oobb Part Plate 20 05 03
+name_no_class: Part Plate 20 05 03
+name_no_color: '200503'
+name_no_size: 20 05 03
+name_no_type: Plate 20 05 03
+oomp_key: oomp_oobb_part_plate_20_05_03
+oomp_word: school turtle mouse
+oomp_word_emoji: ':school: :turtle: :mouse:'
+oomp_word_emoji_list:
+- ':school:'
+- ':turtle:'
+- ':mouse:'
+oomp_word_list:
+- school
+- turtle
+- mouse
+part_number: ''
+size: plate
+type: part

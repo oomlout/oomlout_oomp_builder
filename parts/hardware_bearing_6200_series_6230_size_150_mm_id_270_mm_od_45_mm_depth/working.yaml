@@ -1,0 +1,40 @@
+classification: hardware
+color: 6230_size
+description_extra: ''
+description_main: 150_mm_id_270_mm_od_45_mm_depth
+directory: parts/hardware_bearing_6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+id: hardware_bearing_6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+id_no_class: bearing_6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+id_no_color: 150_mm_id_270_mm_od_45_mm_depth
+id_no_size: 6230_size_150_mm_id_270_mm_od_45_mm_depth
+id_no_type: 6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+manufacturer: ''
+md5: a14a6dbc45a7d30d154935d7565fd5e6
+md5_10: a14a6dbc45
+md5_10_upper: A14A6DBC45
+md5_5: a14a6
+md5_5_upper: A14A6
+md5_6: a14a6d
+md5_6_alpha: 6ak4t
+md5_6_alpha_upper: 6AK4T
+md5_6_upper: A14A6D
+name: Hardware Bearing 6200 Series 6230 Size 150 Mm Id 270 Mm Od 45 Mm Depth
+name_no_class: Bearing 6200 Series 6230 Size 150 Mm Id 270 Mm Od 45 Mm Depth
+name_no_color: 150 Mm Id 270 Mm Od 45 Mm Depth
+name_no_size: 6230 Size 150 Mm Id 270 Mm Od 45 Mm Depth
+name_no_type: 6200 Series 6230 Size 150 Mm Id 270 Mm Od 45 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6230_size_150_mm_id_270_mm_od_45_mm_depth
+oomp_word: trophy chicken shell
+oomp_word_emoji: ':trophy: :chicken: :shell:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':chicken:'
+- ':shell:'
+oomp_word_list:
+- trophy
+- chicken
+- shell
+part_number: ''
+size: 6200_series
+type: bearing

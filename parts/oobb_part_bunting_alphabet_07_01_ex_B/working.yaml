@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_b
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_b
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_b
+id: oobb_part_bunting_alphabet_07_01_ex_b
+id_no_class: part_bunting_alphabet_07_01_ex_b
+id_no_color: 0701exb
+id_no_size: 07_01_ex_b
+id_no_type: bunting_alphabet_07_01_ex_b
+manufacturer: ''
+md5: 8a18c12c5acec3ff7b836818f13e1a8a
+md5_10: 8a18c12c5a
+md5_10_upper: 8A18C12C5A
+md5_5: 8a18c
+md5_5_upper: 8A18C
+md5_6: 8a18c1
+md5_6_alpha: 5dz9d
+md5_6_alpha_upper: 5DZ9D
+md5_6_upper: 8A18C1
+name: Oobb Part Bunting Alphabet 07 01 Ex B
+name_no_class: Part Bunting Alphabet 07 01 Ex B
+name_no_color: 0701Exb
+name_no_size: 07 01 Ex B
+name_no_type: Bunting Alphabet 07 01 Ex B
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_b
+oomp_word: envelope hand doughnut
+oomp_word_emoji: ':envelope: :hand: :doughnut:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':hand:'
+- ':doughnut:'
+oomp_word_list:
+- envelope
+- hand
+- doughnut
+part_number: ''
+size: bunting_alphabet
+type: part

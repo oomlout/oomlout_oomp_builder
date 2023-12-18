@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_l
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_l
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_l
+id: oobb_part_bunting_alphabet_05_01_ex_l
+id_no_class: part_bunting_alphabet_05_01_ex_l
+id_no_color: 0501exl
+id_no_size: 05_01_ex_l
+id_no_type: bunting_alphabet_05_01_ex_l
+manufacturer: ''
+md5: ce96fe889b1dee665844b8a7e667a7e2
+md5_10: ce96fe889b
+md5_10_upper: CE96FE889B
+md5_5: ce96f
+md5_5_upper: CE96F
+md5_6: ce96fe
+md5_6_alpha: 826ta
+md5_6_alpha_upper: 826TA
+md5_6_upper: CE96FE
+name: Oobb Part Bunting Alphabet 05 01 Ex L
+name_no_class: Part Bunting Alphabet 05 01 Ex L
+name_no_color: 0501Exl
+name_no_size: 05 01 Ex L
+name_no_type: Bunting Alphabet 05 01 Ex L
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_l
+oomp_word: peach basketball recycle
+oomp_word_emoji: ':peach: :basketball: :recycle:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':basketball:'
+- ':recycle:'
+oomp_word_list:
+- peach
+- basketball
+- recycle
+part_number: ''
+size: bunting_alphabet
+type: part

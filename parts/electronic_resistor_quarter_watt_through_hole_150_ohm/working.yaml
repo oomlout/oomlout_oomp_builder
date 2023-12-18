@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_150_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150_ohm
+id: electronic_resistor_quarter_watt_through_hole_150_ohm
+id_no_class: resistor_quarter_watt_through_hole_150_ohm
+id_no_color: 150ohm
+id_no_size: 150_ohm
+id_no_type: quarter_watt_through_hole_150_ohm
+manufacturer: ''
+md5: 01096dbc33a9fd78a3766ce80708bb23
+md5_10: 01096dbc33
+md5_10_upper: 01096DBC33
+md5_5: 01096
+md5_5_upper: 01096
+md5_6: 01096d
+md5_6_alpha: 1gfh
+md5_6_alpha_upper: 1GFH
+md5_6_upper: 01096D
+name: Electronic Resistor Quarter Watt Through Hole 150 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 150 Ohm
+name_no_color: 150Ohm
+name_no_size: 150 Ohm
+name_no_type: Quarter Watt Through Hole 150 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_150_ohm
+oomp_word: smile angry shell
+oomp_word_emoji: ':smile: :angry: :shell:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':angry:'
+- ':shell:'
+oomp_word_list:
+- smile
+- angry
+- shell
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

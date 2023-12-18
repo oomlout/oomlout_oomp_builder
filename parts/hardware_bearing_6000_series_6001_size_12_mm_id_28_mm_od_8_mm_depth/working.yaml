@@ -1,0 +1,40 @@
+classification: hardware
+color: 6001_size
+description_extra: ''
+description_main: 12_mm_id_28_mm_od_8_mm_depth
+directory: parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+id: hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+id_no_class: bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+id_no_color: 12_mm_id_28_mm_od_8_mm_depth
+id_no_size: 6001_size_12_mm_id_28_mm_od_8_mm_depth
+id_no_type: 6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+manufacturer: ''
+md5: e7e32d6594d7d177b56e2934f226f539
+md5_10: e7e32d6594
+md5_10_upper: E7E32D6594
+md5_5: e7e32
+md5_5_upper: E7E32
+md5_6: e7e32d
+md5_6_alpha: 91q25
+md5_6_alpha_upper: 91Q25
+md5_6_upper: E7E32D
+name: Hardware Bearing 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth
+name_no_class: Bearing 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth
+name_no_color: 12 Mm Id 28 Mm Od 8 Mm Depth
+name_no_size: 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth
+name_no_type: 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+oomp_word: helicopter rowboat snowman
+oomp_word_emoji: ':helicopter: :rowboat: :snowman:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':rowboat:'
+- ':snowman:'
+oomp_word_list:
+- helicopter
+- rowboat
+- snowman
+part_number: ''
+size: 6000_series
+type: bearing

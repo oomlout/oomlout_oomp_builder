@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_12_18
+directory: parts/oobb_part_tray_04_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_18
+id: oobb_part_tray_04_12_18
+id_no_class: part_tray_04_12_18
+id_no_color: 041218
+id_no_size: 04_12_18
+id_no_type: tray_04_12_18
+manufacturer: ''
+md5: ba98671e9812cfde1cf3c8ddc01c0d7f
+md5_10: ba98671e98
+md5_10_upper: BA98671E98
+md5_5: ba986
+md5_5_upper: BA986
+md5_6: ba9867
+md5_6_alpha: 7a3qf
+md5_6_alpha_upper: 7A3QF
+md5_6_upper: BA9867
+name: Oobb Part Tray 04 12 18
+name_no_class: Part Tray 04 12 18
+name_no_color: 041218
+name_no_size: 04 12 18
+name_no_type: Tray 04 12 18
+oomp_key: oomp_oobb_part_tray_04_12_18
+oomp_word: spaghetti tennis herb
+oomp_word_emoji: ':spaghetti: :tennis: :herb:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':tennis:'
+- ':herb:'
+oomp_word_list:
+- spaghetti
+- tennis
+- herb
+part_number: ''
+size: tray
+type: part

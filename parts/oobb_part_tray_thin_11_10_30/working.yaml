@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_10_30'
+directory: parts/oobb_part_tray_thin_11_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_10_30
+id: oobb_part_tray_thin_11_10_30
+id_no_class: part_tray_thin_11_10_30
+id_no_color: '111030'
+id_no_size: '11_10_30'
+id_no_type: tray_thin_11_10_30
+manufacturer: ''
+md5: 614efdc99effeaf2479261f06ef7f495
+md5_10: 614efdc99e
+md5_10_upper: 614EFDC99E
+md5_5: 614ef
+md5_5_upper: 614EF
+md5_6: 614efd
+md5_6_alpha: 3soot
+md5_6_alpha_upper: 3SOOT
+md5_6_upper: 614EFD
+name: Oobb Part Tray Thin 11 10 30
+name_no_class: Part Tray Thin 11 10 30
+name_no_color: '111030'
+name_no_size: 11 10 30
+name_no_type: Tray Thin 11 10 30
+oomp_key: oomp_oobb_part_tray_thin_11_10_30
+oomp_word: bouquet honeybee parking
+oomp_word_emoji: ':bouquet: :honeybee: :parking:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':honeybee:'
+- ':parking:'
+oomp_word_list:
+- bouquet
+- honeybee
+- parking
+part_number: ''
+size: tray_thin
+type: part

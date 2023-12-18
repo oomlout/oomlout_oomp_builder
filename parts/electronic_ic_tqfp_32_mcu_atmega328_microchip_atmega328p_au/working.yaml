@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_class: ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_color: atmega328_microchip_atmega328p_au
+id_no_size: mcu_atmega328_microchip_atmega328p_au
+id_no_type: tqfp_32_mcu_atmega328_microchip_atmega328p_au
+manufacturer: microchip
+md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
+md5_10: 16166fb725
+md5_10_upper: 16166FB725
+md5_5: '16166'
+md5_5_upper: '16166'
+md5_6: 16166f
+md5_6_alpha: v0xb
+md5_6_alpha_upper: V0XB
+md5_6_upper: 16166F
+name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
+name_no_class: Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
+name_no_color: Atmega328 Microchip Atmega328P Au
+name_no_size: Mcu Atmega328 Microchip Atmega328P Au
+name_no_type: Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au
+oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+oomp_word: thumbsup thumbsup moon
+oomp_word_emoji: ':thumbsup: :thumbsup: :moon:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':thumbsup:'
+- ':moon:'
+oomp_word_list:
+- thumbsup
+- thumbsup
+- moon
+part_number: atmega328p_au
+size: tqfp_32
+type: ic

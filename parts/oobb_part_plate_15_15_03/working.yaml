@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_15_03'
+directory: parts/oobb_part_plate_15_15_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_15_03
+id: oobb_part_plate_15_15_03
+id_no_class: part_plate_15_15_03
+id_no_color: '151503'
+id_no_size: '15_15_03'
+id_no_type: plate_15_15_03
+manufacturer: ''
+md5: 926128624747048bcbf13669b1a7b926
+md5_10: '9261286247'
+md5_10_upper: '9261286247'
+md5_5: '92612'
+md5_5_upper: '92612'
+md5_6: '926128'
+md5_6_alpha: 5pm3s
+md5_6_alpha_upper: 5PM3S
+md5_6_upper: '926128'
+name: Oobb Part Plate 15 15 03
+name_no_class: Part Plate 15 15 03
+name_no_color: '151503'
+name_no_size: 15 15 03
+name_no_type: Plate 15 15 03
+oomp_key: oomp_oobb_part_plate_15_15_03
+oomp_word: paperclip bouquet tongue
+oomp_word_emoji: ':paperclip: :bouquet: :tongue:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':bouquet:'
+- ':tongue:'
+oomp_word_list:
+- paperclip
+- bouquet
+- tongue
+part_number: ''
+size: plate
+type: part

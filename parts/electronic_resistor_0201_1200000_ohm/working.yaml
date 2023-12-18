@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1200000_ohm
+directory: parts/electronic_resistor_0201_1200000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1200000_ohm
+id: electronic_resistor_0201_1200000_ohm
+id_no_class: resistor_0201_1200000_ohm
+id_no_color: 1200000ohm
+id_no_size: 1200000_ohm
+id_no_type: 0201_1200000_ohm
+manufacturer: ''
+md5: 35fa5f415e35ea5f40469d818a90ec1c
+md5_10: 35fa5f415e
+md5_10_upper: 35FA5F415E
+md5_5: 35fa5
+md5_5_upper: 35FA5
+md5_6: 35fa5f
+md5_6_alpha: 23tjz
+md5_6_alpha_upper: 23TJZ
+md5_6_upper: 35FA5F
+name: Electronic Resistor 0201 1200000 Ohm
+name_no_class: Resistor 0201 1200000 Ohm
+name_no_color: 1200000Ohm
+name_no_size: 1200000 Ohm
+name_no_type: 0201 1200000 Ohm
+oomp_key: oomp_electronic_resistor_0201_1200000_ohm
+oomp_word: hamster nine leopard
+oomp_word_emoji: ':hamster: :nine: :leopard:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':nine:'
+- ':leopard:'
+oomp_word_list:
+- hamster
+- nine
+- leopard
+part_number: ''
+size: '0201'
+type: resistor

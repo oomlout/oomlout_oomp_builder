@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_8_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_8_mm_penny
+id: hardware_washer_8_mm_penny
+id_no_class: washer_8_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 8_mm_penny
+manufacturer: ''
+md5: b7e0f21b4a17fc602a203d1d4ea7e582
+md5_10: b7e0f21b4a
+md5_10_upper: B7E0F21B4A
+md5_5: b7e0f
+md5_5_upper: B7E0F
+md5_6: b7e0f2
+md5_6_alpha: 76acy
+md5_6_alpha_upper: 76ACY
+md5_6_upper: B7E0F2
+name: Hardware Washer 8 Mm Penny
+name_no_class: Washer 8 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 8 Mm Penny
+oomp_key: oomp_hardware_washer_8_mm_penny
+oomp_word: pizza ship one
+oomp_word_emoji: ':pizza: :ship: :one:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':ship:'
+- ':one:'
+oomp_word_list:
+- pizza
+- ship
+- one
+part_number: ''
+size: 8_mm
+type: washer

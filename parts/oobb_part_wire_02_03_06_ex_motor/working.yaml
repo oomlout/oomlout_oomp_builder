@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_06_ex_motor
+directory: parts/oobb_part_wire_02_03_06_ex_motor
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_02_03_06_ex_motor
+id: oobb_part_wire_02_03_06_ex_motor
+id_no_class: part_wire_02_03_06_ex_motor
+id_no_color: 020306exmotor
+id_no_size: 02_03_06_ex_motor
+id_no_type: wire_02_03_06_ex_motor
+manufacturer: ''
+md5: 24352ea5f2b4da77dc1f8a413e2a9dd5
+md5_10: 24352ea5f2
+md5_10_upper: 24352EA5F2
+md5_5: '24352'
+md5_5_upper: '24352'
+md5_6: 24352e
+md5_6_alpha: 1euy6
+md5_6_alpha_upper: 1EUY6
+md5_6_upper: 24352E
+name: Oobb Part Wire 02 03 06 Ex Motor
+name_no_class: Part Wire 02 03 06 Ex Motor
+name_no_color: 020306Exmotor
+name_no_size: 02 03 06 Ex Motor
+name_no_type: Wire 02 03 06 Ex Motor
+oomp_key: oomp_oobb_part_wire_02_03_06_ex_motor
+oomp_word: droplet hamster zap
+oomp_word_emoji: ':droplet: :hamster: :zap:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':hamster:'
+- ':zap:'
+oomp_word_list:
+- droplet
+- hamster
+- zap
+part_number: ''
+size: wire
+type: part

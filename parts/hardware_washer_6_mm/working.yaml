@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_6_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_6_mm
+id: hardware_washer_6_mm
+id_no_class: washer_6_mm
+id_no_color: 6mm
+id_no_size: 6_mm
+id_no_type: 6_mm
+manufacturer: ''
+md5: 6bcfdec28d3ef5ea20459a809ea8fdb4
+md5_10: 6bcfdec28d
+md5_10_upper: 6BCFDEC28D
+md5_5: 6bcfd
+md5_5_upper: 6BCFD
+md5_6: 6bcfde
+md5_6_alpha: 47ftq
+md5_6_alpha_upper: 47FTQ
+md5_6_upper: 6BCFDE
+name: Hardware Washer 6 Mm
+name_no_class: Washer 6 Mm
+name_no_color: 6Mm
+name_no_size: 6 Mm
+name_no_type: 6 Mm
+oomp_key: oomp_hardware_washer_6_mm
+oomp_word: chestnut melon rainbow
+oomp_word_emoji: ':chestnut: :melon: :rainbow:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':melon:'
+- ':rainbow:'
+oomp_word_list:
+- chestnut
+- melon
+- rainbow
+part_number: ''
+size: 6_mm
+type: washer

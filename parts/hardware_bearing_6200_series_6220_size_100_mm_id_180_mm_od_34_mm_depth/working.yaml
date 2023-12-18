@@ -1,0 +1,40 @@
+classification: hardware
+color: 6220_size
+description_extra: ''
+description_main: 100_mm_id_180_mm_od_34_mm_depth
+directory: parts/hardware_bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+id: hardware_bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+id_no_class: bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+id_no_color: 100_mm_id_180_mm_od_34_mm_depth
+id_no_size: 6220_size_100_mm_id_180_mm_od_34_mm_depth
+id_no_type: 6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+manufacturer: ''
+md5: d8abdba59c29ba401f207c20354a874b
+md5_10: d8abdba59c
+md5_10_upper: D8ABDBA59C
+md5_5: d8abd
+md5_5_upper: D8ABD
+md5_6: d8abdb
+md5_6_alpha: 8gcm3
+md5_6_alpha_upper: 8GCM3
+md5_6_upper: D8ABDB
+name: Hardware Bearing 6200 Series 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth
+name_no_class: Bearing 6200 Series 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth
+name_no_color: 100 Mm Id 180 Mm Od 34 Mm Depth
+name_no_size: 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth
+name_no_type: 6200 Series 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
+oomp_word: hospital boot tent
+oomp_word_emoji: ':hospital: :boot: :tent:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':boot:'
+- ':tent:'
+oomp_word_list:
+- hospital
+- boot
+- tent
+part_number: ''
+size: 6200_series
+type: bearing

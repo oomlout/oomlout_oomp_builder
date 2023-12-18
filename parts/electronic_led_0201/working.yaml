@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201
+id: electronic_led_0201
+id_no_class: led_0201
+id_no_color: '0201'
+id_no_size: '0201'
+id_no_type: '0201'
+manufacturer: ''
+md5: 734a19bea8740b6c233a98d84ee91ee7
+md5_10: 734a19bea8
+md5_10_upper: 734A19BEA8
+md5_5: 734a1
+md5_5_upper: 734A1
+md5_6: 734a19
+md5_6_alpha: 4hxy1
+md5_6_alpha_upper: 4HXY1
+md5_6_upper: 734A19
+name: Electronic Led 0201
+name_no_class: Led 0201
+name_no_color: '0201'
+name_no_size: '0201'
+name_no_type: '0201'
+oomp_key: oomp_electronic_led_0201
+oomp_word: flags chicken pray
+oomp_word_emoji: ':flags: :chicken: :pray:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':chicken:'
+- ':pray:'
+oomp_word_list:
+- flags
+- chicken
+- pray
+part_number: ''
+size: '0201'
+type: led

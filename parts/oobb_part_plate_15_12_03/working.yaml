@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_12_03'
+directory: parts/oobb_part_plate_15_12_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_12_03
+id: oobb_part_plate_15_12_03
+id_no_class: part_plate_15_12_03
+id_no_color: '151203'
+id_no_size: '15_12_03'
+id_no_type: plate_15_12_03
+manufacturer: ''
+md5: 7e16f785add58c9a6925e9b3cfd3674c
+md5_10: 7e16f785ad
+md5_10_upper: 7E16F785AD
+md5_5: 7e16f
+md5_5_upper: 7E16F
+md5_6: 7e16f7
+md5_6_alpha: 4x43b
+md5_6_alpha_upper: 4X43B
+md5_6_upper: 7E16F7
+name: Oobb Part Plate 15 12 03
+name_no_class: Part Plate 15 12 03
+name_no_color: '151203'
+name_no_size: 15 12 03
+name_no_type: Plate 15 12 03
+oomp_key: oomp_oobb_part_plate_15_12_03
+oomp_word: fax thumbsup six
+oomp_word_emoji: ':fax: :thumbsup: :six:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':thumbsup:'
+- ':six:'
+oomp_word_list:
+- fax
+- thumbsup
+- six
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1000_ohm
+directory: parts/electronic_resistor_0201_1000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_1000_ohm
+id: electronic_resistor_0201_1000_ohm
+id_no_class: resistor_0201_1000_ohm
+id_no_color: 1000ohm
+id_no_size: 1000_ohm
+id_no_type: 0201_1000_ohm
+manufacturer: ''
+md5: 7d3edbc4f53a165405c54f8660a29681
+md5_10: 7d3edbc4f5
+md5_10_upper: 7D3EDBC4F5
+md5_5: 7d3ed
+md5_5_upper: 7D3ED
+md5_6: 7d3edb
+md5_6_alpha: 4vxej
+md5_6_alpha_upper: 4VXEJ
+md5_6_upper: 7D3EDB
+name: Electronic Resistor 0201 1000 Ohm
+name_no_class: Resistor 0201 1000 Ohm
+name_no_color: 1000Ohm
+name_no_size: 1000 Ohm
+name_no_type: 0201 1000 Ohm
+oomp_key: oomp_electronic_resistor_0201_1000_ohm
+oomp_word: phone monkey tent
+oomp_word_emoji: ':phone: :monkey: :tent:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':monkey:'
+- ':tent:'
+oomp_word_list:
+- phone
+- monkey
+- tent
+part_number: ''
+size: '0201'
+type: resistor

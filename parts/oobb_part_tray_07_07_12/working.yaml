@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_12'
+directory: parts/oobb_part_tray_07_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_07_12
+id: oobb_part_tray_07_07_12
+id_no_class: part_tray_07_07_12
+id_no_color: '070712'
+id_no_size: '07_07_12'
+id_no_type: tray_07_07_12
+manufacturer: ''
+md5: 3b438a6e26fd1b7bb0e7a1a8ba5b8f4e
+md5_10: 3b438a6e26
+md5_10_upper: 3B438A6E26
+md5_5: 3b438
+md5_5_upper: 3B438
+md5_6: 3b438a
+md5_6_alpha: 2b8ui
+md5_6_alpha_upper: 2B8UI
+md5_6_upper: 3B438A
+name: Oobb Part Tray 07 07 12
+name_no_class: Part Tray 07 07 12
+name_no_color: '070712'
+name_no_size: 07 07 12
+name_no_type: Tray 07 07 12
+oomp_key: oomp_oobb_part_tray_07_07_12
+oomp_word: bear elephant envelope
+oomp_word_emoji: ':bear: :elephant: :envelope:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':elephant:'
+- ':envelope:'
+oomp_word_list:
+- bear
+- elephant
+- envelope
+part_number: ''
+size: tray
+type: part

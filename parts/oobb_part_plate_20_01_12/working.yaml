@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_01_12'
+directory: parts/oobb_part_plate_20_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_12
+id: oobb_part_plate_20_01_12
+id_no_class: part_plate_20_01_12
+id_no_color: '200112'
+id_no_size: '20_01_12'
+id_no_type: plate_20_01_12
+manufacturer: ''
+md5: 70fc811f9ec27b82434f46c1c125f745
+md5_10: 70fc811f9e
+md5_10_upper: 70FC811F9E
+md5_5: 70fc8
+md5_5_upper: 70FC8
+md5_6: 70fc81
+md5_6_alpha: 4ephd
+md5_6_alpha_upper: 4EPHD
+md5_6_upper: 70FC81
+name: Oobb Part Plate 20 01 12
+name_no_class: Part Plate 20 01 12
+name_no_color: '200112'
+name_no_size: 20 01 12
+name_no_type: Plate 20 01 12
+oomp_key: oomp_oobb_part_plate_20_01_12
+oomp_word: squirrel up watch
+oomp_word_emoji: ':squirrel: :up: :watch:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':up:'
+- ':watch:'
+oomp_word_list:
+- squirrel
+- up
+- watch
+part_number: ''
+size: plate
+type: part

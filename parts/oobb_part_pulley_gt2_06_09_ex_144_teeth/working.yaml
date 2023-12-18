@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_ex_144_teeth
+directory: parts/oobb_part_pulley_gt2_06_09_ex_144_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09_ex_144_teeth
+id: oobb_part_pulley_gt2_06_09_ex_144_teeth
+id_no_class: part_pulley_gt2_06_09_ex_144_teeth
+id_no_color: 0609ex144teeth
+id_no_size: 06_09_ex_144_teeth
+id_no_type: pulley_gt2_06_09_ex_144_teeth
+manufacturer: ''
+md5: 05f79bc9f581b13074dad726f827b59e
+md5_10: 05f79bc9f5
+md5_10_upper: 05F79BC9F5
+md5_5: 05f79
+md5_5_upper: 05F79
+md5_6: 05f79b
+md5_6_alpha: 8dqz
+md5_6_alpha_upper: 8DQZ
+md5_6_upper: 05F79B
+name: Oobb Part Pulley Gt2 06 09 Ex 144 Teeth
+name_no_class: Part Pulley Gt2 06 09 Ex 144 Teeth
+name_no_color: 0609Ex144Teeth
+name_no_size: 06 09 Ex 144 Teeth
+name_no_type: Pulley Gt2 06 09 Ex 144 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_06_09_ex_144_teeth
+oomp_word: kissing six ski
+oomp_word_emoji: ':kissing: :six: :ski:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':six:'
+- ':ski:'
+oomp_word_list:
+- kissing
+- six
+- ski
+part_number: ''
+size: pulley_gt2
+type: part

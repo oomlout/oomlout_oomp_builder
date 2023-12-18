@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_21'
+directory: parts/oobb_part_plate_05_05_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_21
+id: oobb_part_plate_05_05_21
+id_no_class: part_plate_05_05_21
+id_no_color: '050521'
+id_no_size: '05_05_21'
+id_no_type: plate_05_05_21
+manufacturer: ''
+md5: 28892b482f4146885e675f4fe0ac054e
+md5_10: 28892b482f
+md5_10_upper: 28892B482F
+md5_5: '28892'
+md5_5_upper: '28892'
+md5_6: 28892b
+md5_6_alpha: 1kxt7
+md5_6_alpha_upper: 1KXT7
+md5_6_upper: 28892B
+name: Oobb Part Plate 05 05 21
+name_no_class: Part Plate 05 05 21
+name_no_color: '050521'
+name_no_size: 05 05 21
+name_no_type: Plate 05 05 21
+oomp_key: oomp_oobb_part_plate_05_05_21
+oomp_word: tongue hammer cloud
+oomp_word_emoji: ':tongue: :hammer: :cloud:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':hammer:'
+- ':cloud:'
+oomp_word_list:
+- tongue
+- hammer
+- cloud
+part_number: ''
+size: plate
+type: part

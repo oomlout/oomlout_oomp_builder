@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 39_pin
+directory: parts/electronic_header_2_54_mm_39_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_long
+id: electronic_header_2_54_mm_39_pin_through_hole_long
+id_no_class: header_2_54_mm_39_pin_through_hole_long
+id_no_color: 39pinthroughholelong
+id_no_size: 39_pin_through_hole_long
+id_no_type: 2_54_mm_39_pin_through_hole_long
+manufacturer: ''
+md5: 897d63a63435625991108433fe47c70d
+md5_10: 897d63a634
+md5_10_upper: 897D63A634
+md5_5: 897d6
+md5_5_upper: 897D6
+md5_6: 897d63
+md5_6_alpha: 5d4kj
+md5_6_alpha_upper: 5D4KJ
+md5_6_upper: 897D63
+name: Electronic Header 2 54 Mm 39 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 39 Pin Through Hole Long
+name_no_color: 39Pinthroughholelong
+name_no_size: 39 Pin Through Hole Long
+name_no_type: 2 54 Mm 39 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_39_pin_through_hole_long
+oomp_word: hammer phone rose
+oomp_word_emoji: ':hammer: :phone: :rose:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':phone:'
+- ':rose:'
+oomp_word_list:
+- hammer
+- phone
+- rose
+part_number: ''
+size: 2_54_mm
+type: header

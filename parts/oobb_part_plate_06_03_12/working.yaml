@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_12'
+directory: parts/oobb_part_plate_06_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_12
+id: oobb_part_plate_06_03_12
+id_no_class: part_plate_06_03_12
+id_no_color: '060312'
+id_no_size: '06_03_12'
+id_no_type: plate_06_03_12
+manufacturer: ''
+md5: 80bb858602d6a75ff03e78d8ed49ef48
+md5_10: 80bb858602
+md5_10_upper: 80BB858602
+md5_5: 80bb8
+md5_5_upper: 80BB8
+md5_6: 80bb85
+md5_6_alpha: 50tqd
+md5_6_alpha_upper: 50TQD
+md5_6_upper: 80BB85
+name: Oobb Part Plate 06 03 12
+name_no_class: Part Plate 06 03 12
+name_no_color: '060312'
+name_no_size: 06 03 12
+name_no_type: Plate 06 03 12
+oomp_key: oomp_oobb_part_plate_06_03_12
+oomp_word: hourglass curry bulb
+oomp_word_emoji: ':hourglass: :curry: :bulb:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':curry:'
+- ':bulb:'
+oomp_word_list:
+- hourglass
+- curry
+- bulb
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_15'
+directory: parts/oobb_part_tray_vertical_10_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_10_15
+id: oobb_part_tray_vertical_10_10_15
+id_no_class: part_tray_vertical_10_10_15
+id_no_color: '101015'
+id_no_size: '10_10_15'
+id_no_type: tray_vertical_10_10_15
+manufacturer: ''
+md5: c1c220de49faee61b123a4352ad14faf
+md5_10: c1c220de49
+md5_10_upper: C1C220DE49
+md5_5: c1c22
+md5_5_upper: C1C22
+md5_6: c1c220
+md5_6_alpha: 7k5y8
+md5_6_alpha_upper: 7K5Y8
+md5_6_upper: C1C220
+name: Oobb Part Tray Vertical 10 10 15
+name_no_class: Part Tray Vertical 10 10 15
+name_no_color: '101015'
+name_no_size: 10 10 15
+name_no_type: Tray Vertical 10 10 15
+oomp_key: oomp_oobb_part_tray_vertical_10_10_15
+oomp_word: doughnut birthday skull
+oomp_word_emoji: ':doughnut: :birthday: :skull:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':birthday:'
+- ':skull:'
+oomp_word_list:
+- doughnut
+- birthday
+- skull
+part_number: ''
+size: tray_vertical
+type: part

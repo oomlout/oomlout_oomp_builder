@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 12_pin
+directory: parts/electronic_header_2_54_mm_12_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_12_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_12_pin_surface_mount_right_angle
+id_no_color: 12pinsurfacemountrightangle
+id_no_size: 12_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_12_pin_surface_mount_right_angle
+manufacturer: ''
+md5: c67ee0306cc738eedf8334f9ac2f1381
+md5_10: c67ee0306c
+md5_10_upper: C67EE0306C
+md5_5: c67ee
+md5_5_upper: C67EE
+md5_6: c67ee0
+md5_6_alpha: 7qti8
+md5_6_alpha_upper: 7QTI8
+md5_6_upper: C67EE0
+name: Electronic Header 2 54 Mm 12 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 12 Pin Surface Mount Right Angle
+name_no_color: 12Pinsurfacemountrightangle
+name_no_size: 12 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 12 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_surface_mount_right_angle
+oomp_word: lollipop fax ship
+oomp_word_emoji: ':lollipop: :fax: :ship:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':fax:'
+- ':ship:'
+oomp_word_list:
+- lollipop
+- fax
+- ship
+part_number: ''
+size: 2_54_mm
+type: header

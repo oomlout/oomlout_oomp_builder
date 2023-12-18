@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_12'
+directory: parts/oobb_part_tray_vertical_12_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_03_12
+id: oobb_part_tray_vertical_12_03_12
+id_no_class: part_tray_vertical_12_03_12
+id_no_color: '120312'
+id_no_size: '12_03_12'
+id_no_type: tray_vertical_12_03_12
+manufacturer: ''
+md5: 7da64daa12a36e77cbf7f8ed5dbc32aa
+md5_10: 7da64daa12
+md5_10_upper: 7DA64DAA12
+md5_5: 7da64
+md5_5_upper: 7DA64
+md5_6: 7da64d
+md5_6_alpha: 4whu5
+md5_6_alpha_upper: 4WHU5
+md5_6_upper: 7DA64D
+name: Oobb Part Tray Vertical 12 03 12
+name_no_class: Part Tray Vertical 12 03 12
+name_no_color: '120312'
+name_no_size: 12 03 12
+name_no_type: Tray Vertical 12 03 12
+oomp_key: oomp_oobb_part_tray_vertical_12_03_12
+oomp_word: phone trumpet bug
+oomp_word_emoji: ':phone: :trumpet: :bug:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':trumpet:'
+- ':bug:'
+oomp_word_list:
+- phone
+- trumpet
+- bug
+part_number: ''
+size: tray_vertical
+type: part

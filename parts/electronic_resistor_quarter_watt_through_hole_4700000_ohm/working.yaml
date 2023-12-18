@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_4700000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_4700000_ohm
+id: electronic_resistor_quarter_watt_through_hole_4700000_ohm
+id_no_class: resistor_quarter_watt_through_hole_4700000_ohm
+id_no_color: 4700000ohm
+id_no_size: 4700000_ohm
+id_no_type: quarter_watt_through_hole_4700000_ohm
+manufacturer: ''
+md5: 05f3eb0c88c80cbb578446a6e23ef433
+md5_10: 05f3eb0c88
+md5_10_upper: 05F3EB0C88
+md5_5: 05f3e
+md5_5_upper: 05F3E
+md5_6: 05f3eb
+md5_6_alpha: 8d0r
+md5_6_alpha_upper: 8D0R
+md5_6_upper: 05F3EB
+name: Electronic Resistor Quarter Watt Through Hole 4700000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 4700000 Ohm
+name_no_color: 4700000Ohm
+name_no_size: 4700000 Ohm
+name_no_type: Quarter Watt Through Hole 4700000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_4700000_ohm
+oomp_word: kissing two car
+oomp_word_emoji: ':kissing: :two: :car:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':two:'
+- ':car:'
+oomp_word_list:
+- kissing
+- two
+- car
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

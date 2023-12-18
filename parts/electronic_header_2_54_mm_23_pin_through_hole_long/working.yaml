@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 23_pin
+directory: parts/electronic_header_2_54_mm_23_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_through_hole_long
+id: electronic_header_2_54_mm_23_pin_through_hole_long
+id_no_class: header_2_54_mm_23_pin_through_hole_long
+id_no_color: 23pinthroughholelong
+id_no_size: 23_pin_through_hole_long
+id_no_type: 2_54_mm_23_pin_through_hole_long
+manufacturer: ''
+md5: 45828d9b9591f13f2479ad5f3a630dfb
+md5_10: 45828d9b95
+md5_10_upper: 45828D9B95
+md5_5: '45828'
+md5_5_upper: '45828'
+md5_6: 45828d
+md5_6_alpha: 2pmz1
+md5_6_alpha_upper: 2PMZ1
+md5_6_upper: 45828D
+name: Electronic Header 2 54 Mm 23 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 23 Pin Through Hole Long
+name_no_color: 23Pinthroughholelong
+name_no_size: 23 Pin Through Hole Long
+name_no_type: 2 54 Mm 23 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_23_pin_through_hole_long
+oomp_word: snake radio scroll
+oomp_word_emoji: ':snake: :radio: :scroll:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':radio:'
+- ':scroll:'
+oomp_word_list:
+- snake
+- radio
+- scroll
+part_number: ''
+size: 2_54_mm
+type: header

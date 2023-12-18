@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7500_ohm
+directory: parts/electronic_resistor_0201_7500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_7500_ohm
+id: electronic_resistor_0201_7500_ohm
+id_no_class: resistor_0201_7500_ohm
+id_no_color: 7500ohm
+id_no_size: 7500_ohm
+id_no_type: 0201_7500_ohm
+manufacturer: ''
+md5: 4bd2ecb7a857e620573f5a8a6adc3a6d
+md5_10: 4bd2ecb7a8
+md5_10_upper: 4BD2ECB7A8
+md5_5: 4bd2e
+md5_5_upper: 4BD2E
+md5_6: 4bd2ec
+md5_6_alpha: 2yi98
+md5_6_alpha_upper: 2YI98
+md5_6_upper: 4BD2EC
+name: Electronic Resistor 0201 7500 Ohm
+name_no_class: Resistor 0201 7500 Ohm
+name_no_color: 7500Ohm
+name_no_size: 7500 Ohm
+name_no_type: 0201 7500 Ohm
+oomp_key: oomp_electronic_resistor_0201_7500_ohm
+oomp_word: penguin pineapple taxi
+oomp_word_emoji: ':penguin: :pineapple: :taxi:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':pineapple:'
+- ':taxi:'
+oomp_word_list:
+- penguin
+- pineapple
+- taxi
+part_number: ''
+size: '0201'
+type: resistor

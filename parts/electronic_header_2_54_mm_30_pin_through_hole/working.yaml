@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 30_pin
+directory: parts/electronic_header_2_54_mm_30_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_through_hole
+id: electronic_header_2_54_mm_30_pin_through_hole
+id_no_class: header_2_54_mm_30_pin_through_hole
+id_no_color: 30pinthroughhole
+id_no_size: 30_pin_through_hole
+id_no_type: 2_54_mm_30_pin_through_hole
+manufacturer: ''
+md5: cfa885cf659b061bec91d83d6ac0a002
+md5_10: cfa885cf65
+md5_10_upper: CFA885CF65
+md5_5: cfa88
+md5_5_upper: CFA88
+md5_6: cfa885
+md5_6_alpha: 83oud
+md5_6_alpha_upper: 83OUD
+md5_6_upper: CFA885
+name: Electronic Header 2 54 Mm 30 Pin Through Hole
+name_no_class: Header 2 54 Mm 30 Pin Through Hole
+name_no_color: 30Pinthroughhole
+name_no_size: 30 Pin Through Hole
+name_no_type: 2 54 Mm 30 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_30_pin_through_hole
+oomp_word: melon shoe bulb
+oomp_word_emoji: ':melon: :shoe: :bulb:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':shoe:'
+- ':bulb:'
+oomp_word_list:
+- melon
+- shoe
+- bulb
+part_number: ''
+size: 2_54_mm
+type: header

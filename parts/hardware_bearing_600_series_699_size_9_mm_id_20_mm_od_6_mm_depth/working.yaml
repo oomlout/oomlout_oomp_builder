@@ -1,0 +1,40 @@
+classification: hardware
+color: 699_size
+description_extra: ''
+description_main: 9_mm_id_20_mm_od_6_mm_depth
+directory: parts/hardware_bearing_600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+id: hardware_bearing_600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_class: bearing_600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_color: 9_mm_id_20_mm_od_6_mm_depth
+id_no_size: 699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_type: 600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+manufacturer: ''
+md5: 8d99bbf35ba07fb3f5eb03a57a1ffc3e
+md5_10: 8d99bbf35b
+md5_10_upper: 8D99BBF35B
+md5_5: 8d99b
+md5_5_upper: 8D99B
+md5_6: 8d99bb
+md5_6_alpha: 5iwfv
+md5_6_alpha_upper: 5IWFV
+md5_6_upper: 8D99BB
+name: Hardware Bearing 600 Series 699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_class: Bearing 600 Series 699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_color: 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_size: 699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_type: 600 Series 699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_699_size_9_mm_id_20_mm_od_6_mm_depth
+oomp_word: scroll bowling curry
+oomp_word_emoji: ':scroll: :bowling: :curry:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':bowling:'
+- ':curry:'
+oomp_word_list:
+- scroll
+- bowling
+- curry
+part_number: ''
+size: 600_series
+type: bearing

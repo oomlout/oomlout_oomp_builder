@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_03_15'
+directory: parts/oobb_part_tray_vertical_11_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_03_15
+id: oobb_part_tray_vertical_11_03_15
+id_no_class: part_tray_vertical_11_03_15
+id_no_color: '110315'
+id_no_size: '11_03_15'
+id_no_type: tray_vertical_11_03_15
+manufacturer: ''
+md5: 004a785db8f8d47d51844065109623cc
+md5_10: 004a785db8
+md5_10_upper: 004A785DB8
+md5_5: 004a7
+md5_5_upper: 004A7
+md5_6: 004a78
+md5_6_alpha: epk
+md5_6_alpha_upper: EPK
+md5_6_upper: 004A78
+name: Oobb Part Tray Vertical 11 03 15
+name_no_class: Part Tray Vertical 11 03 15
+name_no_color: '110315'
+name_no_size: 11 03 15
+name_no_type: Tray Vertical 11 03 15
+oomp_key: oomp_oobb_part_tray_vertical_11_03_15
+oomp_word: bowtie chicken bell
+oomp_word_emoji: ':bowtie: :chicken: :bell:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':chicken:'
+- ':bell:'
+oomp_word_list:
+- bowtie
+- chicken
+- bell
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_06_15
+directory: parts/oobb_part_tray_thin_08_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_15
+id: oobb_part_tray_thin_08_06_15
+id_no_class: part_tray_thin_08_06_15
+id_no_color: 080615
+id_no_size: 08_06_15
+id_no_type: tray_thin_08_06_15
+manufacturer: ''
+md5: 702f0ed7715376fb5b95abf290de1588
+md5_10: 702f0ed771
+md5_10_upper: 702F0ED771
+md5_5: 702f0
+md5_5_upper: 702F0
+md5_6: 702f0e
+md5_6_alpha: 4dkwe
+md5_6_alpha_upper: 4DKWE
+md5_6_upper: 702F0E
+name: Oobb Part Tray Thin 08 06 15
+name_no_class: Part Tray Thin 08 06 15
+name_no_color: 080615
+name_no_size: 08 06 15
+name_no_type: Tray Thin 08 06 15
+oomp_key: oomp_oobb_part_tray_thin_08_06_15
+oomp_word: squirrel cyclone cupid
+oomp_word_emoji: ':squirrel: :cyclone: :cupid:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':cyclone:'
+- ':cupid:'
+oomp_word_list:
+- squirrel
+- cyclone
+- cupid
+part_number: ''
+size: tray_thin
+type: part

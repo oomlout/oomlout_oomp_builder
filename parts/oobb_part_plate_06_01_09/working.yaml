@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_01_09
+directory: parts/oobb_part_plate_06_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_01_09
+id: oobb_part_plate_06_01_09
+id_no_class: part_plate_06_01_09
+id_no_color: 060109
+id_no_size: 06_01_09
+id_no_type: plate_06_01_09
+manufacturer: ''
+md5: 659f1efb6536692924ff1e4964279938
+md5_10: 659f1efb65
+md5_10_upper: 659F1EFB65
+md5_5: 659f1
+md5_5_upper: 659F1
+md5_6: 659f1e
+md5_6_alpha: 3yqse
+md5_6_alpha_upper: 3YQSE
+md5_6_upper: 659F1E
+name: Oobb Part Plate 06 01 09
+name_no_class: Part Plate 06 01 09
+name_no_color: 060109
+name_no_size: 06 01 09
+name_no_type: Plate 06 01 09
+oomp_key: oomp_oobb_part_plate_06_01_09
+oomp_word: maple_leaf diamonds angel
+oomp_word_emoji: ':maple_leaf: :diamonds: :angel:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':diamonds:'
+- ':angel:'
+oomp_word_list:
+- maple_leaf
+- diamonds
+- angel
+part_number: ''
+size: plate
+type: part

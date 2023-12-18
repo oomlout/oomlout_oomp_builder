@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_21'
+directory: parts/oobb_part_plate_01_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_21
+id: oobb_part_plate_01_01_21
+id_no_class: part_plate_01_01_21
+id_no_color: '010121'
+id_no_size: '01_01_21'
+id_no_type: plate_01_01_21
+manufacturer: ''
+md5: 0cbc717f26cef611f0d41369390f9371
+md5_10: 0cbc717f26
+md5_10_upper: 0CBC717F26
+md5_5: 0cbc7
+md5_5_upper: 0CBC7
+md5_6: 0cbc71
+md5_6_alpha: hw1d
+md5_6_alpha_upper: HW1D
+md5_6_upper: 0CBC71
+name: Oobb Part Plate 01 01 21
+name_no_class: Part Plate 01 01 21
+name_no_color: '010121'
+name_no_size: 01 01 21
+name_no_type: Plate 01 01 21
+oomp_key: oomp_oobb_part_plate_01_01_21
+oomp_word: alien sushi bamboo
+oomp_word_emoji: ':alien: :sushi: :bamboo:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':sushi:'
+- ':bamboo:'
+oomp_word_list:
+- alien
+- sushi
+- bamboo
+part_number: ''
+size: plate
+type: part

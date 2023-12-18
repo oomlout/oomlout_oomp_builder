@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_09
+directory: parts/oobb_part_smd_magazine_joiner_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_05_09
+id: oobb_part_smd_magazine_joiner_05_09
+id_no_class: part_smd_magazine_joiner_05_09
+id_no_color: 0509
+id_no_size: 05_09
+id_no_type: smd_magazine_joiner_05_09
+manufacturer: ''
+md5: 30a12067b14496f27cb59cf29e822c24
+md5_10: 30a12067b1
+md5_10_upper: 30A12067B1
+md5_5: 30a12
+md5_5_upper: 30A12
+md5_6: 30a120
+md5_6_alpha: 1wb34
+md5_6_alpha_upper: 1WB34
+md5_6_upper: 30A120
+name: Oobb Part Smd Magazine Joiner 05 09
+name_no_class: Part Smd Magazine Joiner 05 09
+name_no_color: 0509
+name_no_size: 05 09
+name_no_type: Smd Magazine Joiner 05 09
+oomp_key: oomp_oobb_part_smd_magazine_joiner_05_09
+oomp_word: foggy trophy skull
+oomp_word_emoji: ':foggy: :trophy: :skull:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':trophy:'
+- ':skull:'
+oomp_word_list:
+- foggy
+- trophy
+- skull
+part_number: ''
+size: smd_magazine_joiner
+type: part

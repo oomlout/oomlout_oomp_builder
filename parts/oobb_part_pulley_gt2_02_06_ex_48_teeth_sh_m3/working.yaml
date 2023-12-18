@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_48_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_m3
+id: oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_m3
+id_no_class: part_pulley_gt2_02_06_ex_48_teeth_sh_m3
+id_no_color: 0206ex48teethshm3
+id_no_size: 02_06_ex_48_teeth_sh_m3
+id_no_type: pulley_gt2_02_06_ex_48_teeth_sh_m3
+manufacturer: ''
+md5: 308e334d6974b228851132562c073772
+md5_10: 308e334d69
+md5_10_upper: 308E334D69
+md5_5: 308e3
+md5_5_upper: 308E3
+md5_6: 308e33
+md5_6_alpha: 1w7cj
+md5_6_alpha_upper: 1W7CJ
+md5_6_upper: 308E33
+name: Oobb Part Pulley Gt2 02 06 Ex 48 Teeth Sh M3
+name_no_class: Part Pulley Gt2 02 06 Ex 48 Teeth Sh M3
+name_no_color: 0206Ex48Teethshm3
+name_no_size: 02 06 Ex 48 Teeth Sh M3
+name_no_type: Pulley Gt2 02 06 Ex 48 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_m3
+oomp_word: foggy clipboard dog
+oomp_word_emoji: ':foggy: :clipboard: :dog:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':clipboard:'
+- ':dog:'
+oomp_word_list:
+- foggy
+- clipboard
+- dog
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_07_15'
+directory: parts/oobb_part_tray_vertical_11_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_07_15
+id: oobb_part_tray_vertical_11_07_15
+id_no_class: part_tray_vertical_11_07_15
+id_no_color: '110715'
+id_no_size: '11_07_15'
+id_no_type: tray_vertical_11_07_15
+manufacturer: ''
+md5: 0a5877cc35481c685a7b7392ace39738
+md5_10: 0a5877cc35
+md5_10_upper: 0A5877CC35
+md5_5: 0a587
+md5_5_upper: 0A587
+md5_6: 0a5877
+md5_6_alpha: ej5j
+md5_6_alpha_upper: EJ5J
+md5_6_upper: 0A5877
+name: Oobb Part Tray Vertical 11 07 15
+name_no_class: Part Tray Vertical 11 07 15
+name_no_color: '110715'
+name_no_size: 11 07 15
+name_no_type: Tray Vertical 11 07 15
+oomp_key: oomp_oobb_part_tray_vertical_11_07_15
+oomp_word: sleepy water_buffalo gift
+oomp_word_emoji: ':sleepy: :water_buffalo: :gift:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':water_buffalo:'
+- ':gift:'
+oomp_word_list:
+- sleepy
+- water_buffalo
+- gift
+part_number: ''
+size: tray_vertical
+type: part

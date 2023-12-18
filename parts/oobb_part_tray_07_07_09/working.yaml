@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_09
+directory: parts/oobb_part_tray_07_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_07_09
+id: oobb_part_tray_07_07_09
+id_no_class: part_tray_07_07_09
+id_no_color: 070709
+id_no_size: 07_07_09
+id_no_type: tray_07_07_09
+manufacturer: ''
+md5: eb60da1e3895f49f61bfaf7880d12b4b
+md5_10: eb60da1e38
+md5_10_upper: EB60DA1E38
+md5_5: eb60d
+md5_5_upper: EB60D
+md5_6: eb60da
+md5_6_alpha: 96ml6
+md5_6_alpha_upper: 96ML6
+md5_6_upper: EB60DA
+name: Oobb Part Tray 07 07 09
+name_no_class: Part Tray 07 07 09
+name_no_color: 070709
+name_no_size: 07 07 09
+name_no_type: Tray 07 07 09
+oomp_key: oomp_oobb_part_tray_07_07_09
+oomp_word: car poodle hotel
+oomp_word_emoji: ':car: :poodle: :hotel:'
+oomp_word_emoji_list:
+- ':car:'
+- ':poodle:'
+- ':hotel:'
+oomp_word_list:
+- car
+- poodle
+- hotel
+part_number: ''
+size: tray
+type: part

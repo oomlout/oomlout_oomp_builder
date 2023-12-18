@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_30'
+directory: parts/oobb_part_tray_vertical_01_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_01_01_30
+id: oobb_part_tray_vertical_01_01_30
+id_no_class: part_tray_vertical_01_01_30
+id_no_color: '010130'
+id_no_size: '01_01_30'
+id_no_type: tray_vertical_01_01_30
+manufacturer: ''
+md5: 697c0275a3257dbb0411eab6561c0089
+md5_10: 697c0275a3
+md5_10_upper: 697C0275A3
+md5_5: 697c0
+md5_5_upper: 697C0
+md5_6: 697c02
+md5_6_alpha: 4464i
+md5_6_alpha_upper: 4464I
+md5_6_upper: 697C02
+name: Oobb Part Tray Vertical 01 01 30
+name_no_class: Part Tray Vertical 01 01 30
+name_no_color: '010130'
+name_no_size: 01 01 30
+name_no_type: Tray Vertical 01 01 30
+oomp_key: oomp_oobb_part_tray_vertical_01_01_30
+oomp_word: cactus tv blush
+oomp_word_emoji: ':cactus: :tv: :blush:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':tv:'
+- ':blush:'
+oomp_word_list:
+- cactus
+- tv
+- blush
+part_number: ''
+size: tray_vertical
+type: part

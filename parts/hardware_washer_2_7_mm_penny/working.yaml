@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_2_7_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_7_mm_penny
+id: hardware_washer_2_7_mm_penny
+id_no_class: washer_2_7_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 2_7_mm_penny
+manufacturer: ''
+md5: 262ede3c3b670ca4d8f8b0266155b108
+md5_10: 262ede3c3b
+md5_10_upper: 262EDE3C3B
+md5_5: 262ed
+md5_5_upper: 262ED
+md5_6: 262ede
+md5_6_alpha: 1hmu6
+md5_6_alpha_upper: 1HMU6
+md5_6_upper: 262EDE
+name: Hardware Washer 2 7 Mm Penny
+name_no_class: Washer 2 7 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 2 7 Mm Penny
+oomp_key: oomp_hardware_washer_2_7_mm_penny
+oomp_word: eyes zap rainbow
+oomp_word_emoji: ':eyes: :zap: :rainbow:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':zap:'
+- ':rainbow:'
+oomp_word_list:
+- eyes
+- zap
+- rainbow
+part_number: ''
+size: 2_7_mm
+type: washer

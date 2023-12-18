@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_white
+id: electronic_led_10_mm_white
+id_no_class: led_10_mm_white
+id_no_color: white
+id_no_size: white
+id_no_type: 10_mm_white
+manufacturer: ''
+md5: 54d73c94ea96407643c2147bcb839b65
+md5_10: 54d73c94ea
+md5_10_upper: 54D73C94EA
+md5_5: 54d73
+md5_5_upper: 54D73
+md5_6: 54d73c
+md5_6_alpha: 3b67w
+md5_6_alpha_upper: 3B67W
+md5_6_upper: 54D73C
+name: Electronic Led 10 Mm White
+name_no_class: Led 10 Mm White
+name_no_color: White
+name_no_size: White
+name_no_type: 10 Mm White
+oomp_key: oomp_electronic_led_10_mm_white
+oomp_word: whale office pig
+oomp_word_emoji: ':whale: :office: :pig:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':office:'
+- ':pig:'
+oomp_word_list:
+- whale
+- office
+- pig
+part_number: ''
+size: 10_mm
+type: led

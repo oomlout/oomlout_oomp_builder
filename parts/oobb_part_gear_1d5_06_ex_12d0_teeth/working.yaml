@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_06_ex_12d0_teeth
+directory: parts/oobb_part_gear_1d5_06_ex_12d0_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06_ex_12d0_teeth
+id: oobb_part_gear_1d5_06_ex_12d0_teeth
+id_no_class: part_gear_1d5_06_ex_12d0_teeth
+id_no_color: 1d506ex12d0teeth
+id_no_size: 1d5_06_ex_12d0_teeth
+id_no_type: gear_1d5_06_ex_12d0_teeth
+manufacturer: ''
+md5: 326613ebc8fd5c6d5c660d7daa9a3941
+md5_10: 326613ebc8
+md5_10_upper: 326613EBC8
+md5_5: '32661'
+md5_5_upper: '32661'
+md5_6: '326613'
+md5_6_alpha: 1ysk3
+md5_6_alpha_upper: 1YSK3
+md5_6_upper: '326613'
+name: Oobb Part Gear 1D5 06 Ex 12D0 Teeth
+name_no_class: Part Gear 1D5 06 Ex 12D0 Teeth
+name_no_color: 1D506Ex12D0Teeth
+name_no_size: 1D5 06 Ex 12D0 Teeth
+name_no_type: Gear 1D5 06 Ex 12D0 Teeth
+oomp_key: oomp_oobb_part_gear_1d5_06_ex_12d0_teeth
+oomp_word: cat leaves question
+oomp_word_emoji: ':cat: :leaves: :question:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':leaves:'
+- ':question:'
+oomp_word_list:
+- cat
+- leaves
+- question
+part_number: ''
+size: gear
+type: part

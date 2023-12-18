@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_15'
+directory: parts/oobb_part_tray_thin_10_09_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_09_15
+id: oobb_part_tray_thin_10_09_15
+id_no_class: part_tray_thin_10_09_15
+id_no_color: '100915'
+id_no_size: '10_09_15'
+id_no_type: tray_thin_10_09_15
+manufacturer: ''
+md5: 132832d5cd58a4fddff16cd8da611c9e
+md5_10: 132832d5cd
+md5_10_upper: 132832D5CD
+md5_5: '13283'
+md5_5_upper: '13283'
+md5_6: '132832'
+md5_6_alpha: qwqa
+md5_6_alpha_upper: QWQA
+md5_6_upper: '132832'
+name: Oobb Part Tray Thin 10 09 15
+name_no_class: Part Tray Thin 10 09 15
+name_no_color: '100915'
+name_no_size: 10 09 15
+name_no_type: Tray Thin 10 09 15
+oomp_key: oomp_oobb_part_tray_thin_10_09_15
+oomp_word: question tongue cat
+oomp_word_emoji: ':question: :tongue: :cat:'
+oomp_word_emoji_list:
+- ':question:'
+- ':tongue:'
+- ':cat:'
+oomp_word_list:
+- question
+- tongue
+- cat
+part_number: ''
+size: tray_thin
+type: part

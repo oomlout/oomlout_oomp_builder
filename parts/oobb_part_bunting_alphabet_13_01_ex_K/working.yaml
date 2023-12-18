@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_k
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_k
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_k
+id: oobb_part_bunting_alphabet_13_01_ex_k
+id_no_class: part_bunting_alphabet_13_01_ex_k
+id_no_color: 1301exk
+id_no_size: 13_01_ex_k
+id_no_type: bunting_alphabet_13_01_ex_k
+manufacturer: ''
+md5: ea8eea1543feb2e3317a75f1929ef0b0
+md5_10: ea8eea1543
+md5_10_upper: EA8EEA1543
+md5_5: ea8ee
+md5_5_upper: EA8EE
+md5_6: ea8eea
+md5_6_alpha: 95h4a
+md5_6_alpha_upper: 95H4A
+md5_6_upper: EA8EEA
+name: Oobb Part Bunting Alphabet 13 01 Ex K
+name_no_class: Part Bunting Alphabet 13 01 Ex K
+name_no_color: 1301Exk
+name_no_size: 13 01 Ex K
+name_no_type: Bunting Alphabet 13 01 Ex K
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_k
+oomp_word: tractor clipboard tractor
+oomp_word_emoji: ':tractor: :clipboard: :tractor:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':clipboard:'
+- ':tractor:'
+oomp_word_list:
+- tractor
+- clipboard
+- tractor
+part_number: ''
+size: bunting_alphabet
+type: part

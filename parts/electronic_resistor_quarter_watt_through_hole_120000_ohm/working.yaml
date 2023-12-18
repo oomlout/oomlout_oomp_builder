@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_120000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_120000_ohm
+id: electronic_resistor_quarter_watt_through_hole_120000_ohm
+id_no_class: resistor_quarter_watt_through_hole_120000_ohm
+id_no_color: 120000ohm
+id_no_size: 120000_ohm
+id_no_type: quarter_watt_through_hole_120000_ohm
+manufacturer: ''
+md5: 0ad46cc8e02d47966fd6044dcf590e90
+md5_10: 0ad46cc8e0
+md5_10_upper: 0AD46CC8E0
+md5_5: 0ad46
+md5_5_upper: 0AD46
+md5_6: 0ad46c
+md5_6_alpha: f7n0
+md5_6_alpha_upper: F7N0
+md5_6_upper: 0AD46C
+name: Electronic Resistor Quarter Watt Through Hole 120000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 120000 Ohm
+name_no_color: 120000Ohm
+name_no_size: 120000 Ohm
+name_no_type: Quarter Watt Through Hole 120000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_120000_ohm
+oomp_word: sleepy corn blossom
+oomp_word_emoji: ':sleepy: :corn: :blossom:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':corn:'
+- ':blossom:'
+oomp_word_list:
+- sleepy
+- corn
+- blossom
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

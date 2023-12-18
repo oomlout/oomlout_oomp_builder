@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_09
+directory: parts/oobb_part_tray_09_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_09_09
+id: oobb_part_tray_09_09_09
+id_no_class: part_tray_09_09_09
+id_no_color: 090909
+id_no_size: 09_09_09
+id_no_type: tray_09_09_09
+manufacturer: ''
+md5: a432b6b1c6fd100061d9a91d3e7fb274
+md5_10: a432b6b1c6
+md5_10_upper: A432B6B1C6
+md5_5: a432b
+md5_5_upper: A432B
+md5_6: a432b6
+md5_6_alpha: 6en5i
+md5_6_alpha_upper: 6EN5I
+md5_6_upper: A432B6
+name: Oobb Part Tray 09 09 09
+name_no_class: Part Tray 09 09 09
+name_no_color: 090909
+name_no_size: 09 09 09
+name_no_type: Tray 09 09 09
+oomp_key: oomp_oobb_part_tray_09_09_09
+oomp_word: book cat beer
+oomp_word_emoji: ':book: :cat: :beer:'
+oomp_word_emoji_list:
+- ':book:'
+- ':cat:'
+- ':beer:'
+oomp_word_list:
+- book
+- cat
+- beer
+part_number: ''
+size: tray
+type: part

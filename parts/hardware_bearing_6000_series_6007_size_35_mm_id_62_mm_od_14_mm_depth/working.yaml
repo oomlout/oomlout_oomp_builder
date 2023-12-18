@@ -1,0 +1,40 @@
+classification: hardware
+color: 6007_size
+description_extra: ''
+description_main: 35_mm_id_62_mm_od_14_mm_depth
+directory: parts/hardware_bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+id: hardware_bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+id_no_class: bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+id_no_color: 35_mm_id_62_mm_od_14_mm_depth
+id_no_size: 6007_size_35_mm_id_62_mm_od_14_mm_depth
+id_no_type: 6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+manufacturer: ''
+md5: 067a91e890f8db7dcd51f55203ff49f1
+md5_10: 067a91e890
+md5_10_upper: 067A91E890
+md5_5: 067a9
+md5_5_upper: 067A9
+md5_6: 067a91
+md5_6_alpha: 93m9
+md5_6_alpha_upper: 93M9
+md5_6_upper: 067A91
+name: Hardware Bearing 6000 Series 6007 Size 35 Mm Id 62 Mm Od 14 Mm Depth
+name_no_class: Bearing 6000 Series 6007 Size 35 Mm Id 62 Mm Od 14 Mm Depth
+name_no_color: 35 Mm Id 62 Mm Od 14 Mm Depth
+name_no_size: 6007 Size 35 Mm Id 62 Mm Od 14 Mm Depth
+name_no_type: 6000 Series 6007 Size 35 Mm Id 62 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
+oomp_word: sleeping camera pushpin
+oomp_word_emoji: ':sleeping: :camera: :pushpin:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':camera:'
+- ':pushpin:'
+oomp_word_list:
+- sleeping
+- camera
+- pushpin
+part_number: ''
+size: 6000_series
+type: bearing

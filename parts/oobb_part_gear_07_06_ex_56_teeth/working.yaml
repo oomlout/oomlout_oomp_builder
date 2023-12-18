@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_ex_56_teeth
+directory: parts/oobb_part_gear_07_06_ex_56_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06_ex_56_teeth
+id: oobb_part_gear_07_06_ex_56_teeth
+id_no_class: part_gear_07_06_ex_56_teeth
+id_no_color: 0706ex56teeth
+id_no_size: 07_06_ex_56_teeth
+id_no_type: gear_07_06_ex_56_teeth
+manufacturer: ''
+md5: 4fa4ad9d9bd32dc854093c8e49b91df9
+md5_10: 4fa4ad9d9b
+md5_10_upper: 4FA4AD9D9B
+md5_5: 4fa4a
+md5_5_upper: 4FA4A
+md5_6: 4fa4ad
+md5_6_alpha: 33ve5
+md5_6_alpha_upper: 33VE5
+md5_6_upper: 4FA4AD
+name: Oobb Part Gear 07 06 Ex 56 Teeth
+name_no_class: Part Gear 07 06 Ex 56 Teeth
+name_no_color: 0706Ex56Teeth
+name_no_size: 07 06 Ex 56 Teeth
+name_no_type: Gear 07 06 Ex 56 Teeth
+oomp_key: oomp_oobb_part_gear_07_06_ex_56_teeth
+oomp_word: ant book dress
+oomp_word_emoji: ':ant: :book: :dress:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':book:'
+- ':dress:'
+oomp_word_list:
+- ant
+- book
+- dress
+part_number: ''
+size: gear
+type: part

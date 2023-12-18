@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120000_ohm
+directory: parts/electronic_resistor_1206_120000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120000_ohm
+id: electronic_resistor_1206_120000_ohm
+id_no_class: resistor_1206_120000_ohm
+id_no_color: 120000ohm
+id_no_size: 120000_ohm
+id_no_type: 1206_120000_ohm
+manufacturer: ''
+md5: 30408f80476e17214fe1b447a834c66b
+md5_10: 30408f8047
+md5_10_upper: 30408F8047
+md5_5: '30408'
+md5_5_upper: '30408'
+md5_6: 30408f
+md5_6_alpha: 1vs0f
+md5_6_alpha_upper: 1VS0F
+md5_6_upper: 30408F
+name: Electronic Resistor 1206 120000 Ohm
+name_no_class: Resistor 1206 120000 Ohm
+name_no_color: 120000Ohm
+name_no_size: 120000 Ohm
+name_no_type: 1206 120000 Ohm
+oomp_key: oomp_electronic_resistor_1206_120000_ohm
+oomp_word: foggy racehorse calendar
+oomp_word_emoji: ':foggy: :racehorse: :calendar:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':racehorse:'
+- ':calendar:'
+oomp_word_list:
+- foggy
+- racehorse
+- calendar
+part_number: ''
+size: '1206'
+type: resistor

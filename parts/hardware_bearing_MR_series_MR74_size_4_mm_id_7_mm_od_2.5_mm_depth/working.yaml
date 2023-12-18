@@ -1,0 +1,40 @@
+classification: hardware
+color: MR74_size
+description_extra: ''
+description_main: 4_mm_id_7_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_color: 4_mm_id_7_mm_od_2.5_mm_depth
+id_no_size: MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: bc343f7eb67a05a951f165a7523dbd0b
+md5_10: bc343f7eb6
+md5_10_upper: BC343F7EB6
+md5_5: bc343
+md5_5_upper: BC343
+md5_6: bc343f
+md5_6_alpha: 7cd33
+md5_6_alpha_upper: 7CD33
+md5_6_upper: BC343F
+name: Hardware Bearing Mr Series Mr74 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr74 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_color: 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_size: Mr74 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr74 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
+oomp_word: sushi mouse horse
+oomp_word_emoji: ':sushi: :mouse: :horse:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':mouse:'
+- ':horse:'
+oomp_word_list:
+- sushi
+- mouse
+- horse
+part_number: ''
+size: MR_series
+type: bearing

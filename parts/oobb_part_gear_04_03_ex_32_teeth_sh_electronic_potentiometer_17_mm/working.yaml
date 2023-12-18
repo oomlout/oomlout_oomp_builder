@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0403ex32teethshelectronicpotentiometer17mm
+id_no_size: 04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 0b56613595e15c3836ea5caf03e4c630
+md5_10: 0b56613595
+md5_10_upper: 0B56613595
+md5_5: 0b566
+md5_5_upper: 0B566
+md5_6: 0b5661
+md5_6_alpha: fxb5
+md5_6_alpha_upper: FXB5
+md5_6_upper: 0B5661
+name: Oobb Part Gear 04 03 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 04 03 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0403Ex32Teethshelectronicpotentiometer17Mm
+name_no_size: 04 03 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 04 03 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_04_03_ex_32_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: sunglasses ram bouquet
+oomp_word_emoji: ':sunglasses: :ram: :bouquet:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':ram:'
+- ':bouquet:'
+oomp_word_list:
+- sunglasses
+- ram
+- bouquet
+part_number: ''
+size: gear
+type: part

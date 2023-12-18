@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_10_12'
+directory: parts/oobb_part_tray_03_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_10_12
+id: oobb_part_tray_03_10_12
+id_no_class: part_tray_03_10_12
+id_no_color: '031012'
+id_no_size: '03_10_12'
+id_no_type: tray_03_10_12
+manufacturer: ''
+md5: 5c5a05a784c927075389b9590e2784dc
+md5_10: 5c5a05a784
+md5_10_upper: 5C5A05A784
+md5_5: 5c5a0
+md5_5_upper: 5C5A0
+md5_6: 5c5a05
+md5_6_alpha: 3lq11
+md5_6_alpha_upper: 3LQ11
+md5_6_upper: 5C5A05
+name: Oobb Part Tray 03 10 12
+name_no_class: Part Tray 03 10 12
+name_no_color: '031012'
+name_no_size: 03 10 12
+name_no_type: Tray 03 10 12
+oomp_key: oomp_oobb_part_tray_03_10_12
+oomp_word: ox goat kissing
+oomp_word_emoji: ':ox: :goat: :kissing:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':goat:'
+- ':kissing:'
+oomp_word_list:
+- ox
+- goat
+- kissing
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+directory: parts/oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+id: oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+id_no_class: part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+id_no_color: 030321exelectronicbutton11mmpanelmountx4
+id_no_size: 03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+id_no_type: holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+manufacturer: ''
+md5: 72ff57c6387382f5d0c58927810aea70
+md5_10: 72ff57c638
+md5_10_upper: 72FF57C638
+md5_5: 72ff5
+md5_5_upper: 72FF5
+md5_6: 72ff57
+md5_6_alpha: 4hj6f
+md5_6_alpha_upper: 4HJ6F
+md5_6_upper: 72FF57
+name: Oobb Part Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_class: Part Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_color: 030321Exelectronicbutton11Mmpanelmountx4
+name_no_size: 03 03 21 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_type: Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount X4
+oomp_key: oomp_oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount_x4
+oomp_word: dolls trident rat
+oomp_word_emoji: ':dolls: :trident: :rat:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':trident:'
+- ':rat:'
+oomp_word_list:
+- dolls
+- trident
+- rat
+part_number: ''
+size: holder
+type: part

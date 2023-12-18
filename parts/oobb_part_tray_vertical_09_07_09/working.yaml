@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_07_09
+directory: parts/oobb_part_tray_vertical_09_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_07_09
+id: oobb_part_tray_vertical_09_07_09
+id_no_class: part_tray_vertical_09_07_09
+id_no_color: 090709
+id_no_size: 09_07_09
+id_no_type: tray_vertical_09_07_09
+manufacturer: ''
+md5: 231a25acea820b43286929f012408ba7
+md5_10: 231a25acea
+md5_10_upper: 231A25ACEA
+md5_5: 231a2
+md5_5_upper: 231A2
+md5_6: 231a25
+md5_6_alpha: 1db1h
+md5_6_alpha_upper: 1DB1H
+md5_6_upper: 231A25
+name: Oobb Part Tray Vertical 09 07 09
+name_no_class: Part Tray Vertical 09 07 09
+name_no_color: 090709
+name_no_size: 09 07 09
+name_no_type: Tray Vertical 09 07 09
+oomp_key: oomp_oobb_part_tray_vertical_09_07_09
+oomp_word: kiss clap ear
+oomp_word_emoji: ':kiss: :clap: :ear:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':clap:'
+- ':ear:'
+oomp_word_list:
+- kiss
+- clap
+- ear
+part_number: ''
+size: tray_vertical
+type: part

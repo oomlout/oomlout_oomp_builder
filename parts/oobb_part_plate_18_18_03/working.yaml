@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '18_18_03'
+directory: parts/oobb_part_plate_18_18_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_18_03
+id: oobb_part_plate_18_18_03
+id_no_class: part_plate_18_18_03
+id_no_color: '181803'
+id_no_size: '18_18_03'
+id_no_type: plate_18_18_03
+manufacturer: ''
+md5: 212bb40db9c996dea2d567395072a2af
+md5_10: 212bb40db9
+md5_10_upper: 212BB40DB9
+md5_5: 212bb
+md5_5_upper: 212BB
+md5_6: 212bb4
+md5_6_alpha: 1aldg
+md5_6_alpha_upper: 1ALDG
+md5_6_upper: 212BB4
+name: Oobb Part Plate 18 18 03
+name_no_class: Part Plate 18 18 03
+name_no_color: '181803'
+name_no_size: 18 18 03
+name_no_type: Plate 18 18 03
+oomp_key: oomp_oobb_part_plate_18_18_03
+oomp_word: feet cloud coffee
+oomp_word_emoji: ':feet: :cloud: :coffee:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':cloud:'
+- ':coffee:'
+oomp_word_list:
+- feet
+- cloud
+- coffee
+part_number: ''
+size: plate
+type: part

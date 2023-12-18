@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_20_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_m3
+id: oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_m3
+id_no_class: part_pulley_gt2_01_06_ex_20_teeth_sh_m3
+id_no_color: 0106ex20teethshm3
+id_no_size: 01_06_ex_20_teeth_sh_m3
+id_no_type: pulley_gt2_01_06_ex_20_teeth_sh_m3
+manufacturer: ''
+md5: ae46d5df8574ee76b9bc0ad7a88e6c80
+md5_10: ae46d5df85
+md5_10_upper: AE46D5DF85
+md5_5: ae46d
+md5_5_upper: AE46D
+md5_6: ae46d5
+md5_6_alpha: 6sst1
+md5_6_alpha_upper: 6SST1
+md5_6_upper: AE46D5
+name: Oobb Part Pulley Gt2 01 06 Ex 20 Teeth Sh M3
+name_no_class: Part Pulley Gt2 01 06 Ex 20 Teeth Sh M3
+name_no_color: 0106Ex20Teethshm3
+name_no_size: 01 06 Ex 20 Teeth Sh M3
+name_no_type: Pulley Gt2 01 06 Ex 20 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_m3
+oomp_word: jeans bird house
+oomp_word_emoji: ':jeans: :bird: :house:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':bird:'
+- ':house:'
+oomp_word_list:
+- jeans
+- bird
+- house
+part_number: ''
+size: pulley_gt2
+type: part

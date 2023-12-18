@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_21'
+directory: parts/oobb_part_plate_07_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_21
+id: oobb_part_plate_07_01_21
+id_no_class: part_plate_07_01_21
+id_no_color: '070121'
+id_no_size: '07_01_21'
+id_no_type: plate_07_01_21
+manufacturer: ''
+md5: bd977135ee41a9c8896210fb628cdb67
+md5_10: bd977135ee
+md5_10_upper: BD977135EE
+md5_5: bd977
+md5_5_upper: BD977
+md5_6: bd9771
+md5_6_alpha: 7eb8x
+md5_6_alpha_upper: 7EB8X
+md5_6_upper: BD9771
+name: Oobb Part Plate 07 01 21
+name_no_class: Part Plate 07 01 21
+name_no_color: '070121'
+name_no_size: 07 01 21
+name_no_type: Plate 07 01 21
+oomp_key: oomp_oobb_part_plate_07_01_21
+oomp_word: rice baseball bamboo
+oomp_word_emoji: ':rice: :baseball: :bamboo:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':baseball:'
+- ':bamboo:'
+oomp_word_list:
+- rice
+- baseball
+- bamboo
+part_number: ''
+size: plate
+type: part

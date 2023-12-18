@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_30
+directory: parts/oobb_part_tray_thin_08_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_04_30
+id: oobb_part_tray_thin_08_04_30
+id_no_class: part_tray_thin_08_04_30
+id_no_color: 080430
+id_no_size: 08_04_30
+id_no_type: tray_thin_08_04_30
+manufacturer: ''
+md5: 4e9d1beba8220ef2c844d9a25d1945ec
+md5_10: 4e9d1beba8
+md5_10_upper: 4E9D1BEBA8
+md5_5: 4e9d1
+md5_5_upper: 4E9D1
+md5_6: 4e9d1b
+md5_6_alpha: 32fbv
+md5_6_alpha_upper: 32FBV
+md5_6_upper: 4E9D1B
+name: Oobb Part Tray Thin 08 04 30
+name_no_class: Part Tray Thin 08 04 30
+name_no_color: 080430
+name_no_size: 08 04 30
+name_no_type: Tray Thin 08 04 30
+oomp_key: oomp_oobb_part_tray_thin_08_04_30
+oomp_word: honeybee hearts muscle
+oomp_word_emoji: ':honeybee: :hearts: :muscle:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':hearts:'
+- ':muscle:'
+oomp_word_list:
+- honeybee
+- hearts
+- muscle
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '32_01_12'
+directory: parts/oobb_part_plate_32_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_32_01_12
+id: oobb_part_plate_32_01_12
+id_no_class: part_plate_32_01_12
+id_no_color: '320112'
+id_no_size: '32_01_12'
+id_no_type: plate_32_01_12
+manufacturer: ''
+md5: d44529b72a5632df60ea9d14e0539d3f
+md5_10: d44529b72a
+md5_10_upper: D44529B72A
+md5_5: d4452
+md5_5_upper: D4452
+md5_6: d44529
+md5_6_alpha: 8a621
+md5_6_alpha_upper: 8A621
+md5_6_upper: D44529
+name: Oobb Part Plate 32 01 12
+name_no_class: Part Plate 32 01 12
+name_no_color: '320112'
+name_no_size: 32 01 12
+name_no_type: Plate 32 01 12
+oomp_key: oomp_oobb_part_plate_32_01_12
+oomp_word: corn snake sunny
+oomp_word_emoji: ':corn: :snake: :sunny:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':snake:'
+- ':sunny:'
+oomp_word_list:
+- corn
+- snake
+- sunny
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_10_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14_ex_ninety_degree
+id: oobb_part_plate_10_01_14_ex_ninety_degree
+id_no_class: part_plate_10_01_14_ex_ninety_degree
+id_no_color: 100114exninetydegree
+id_no_size: 10_01_14_ex_ninety_degree
+id_no_type: plate_10_01_14_ex_ninety_degree
+manufacturer: ''
+md5: 068fc6683c3fcf7894a3b2fa1d4e5ce3
+md5_10: 068fc6683c
+md5_10_upper: 068FC6683C
+md5_5: 068fc
+md5_5_upper: 068FC
+md5_6: 068fc6
+md5_6_alpha: 97t2
+md5_6_alpha_upper: 97T2
+md5_6_upper: 068FC6
+name: Oobb Part Plate 10 01 14 Ex Ninety Degree
+name_no_class: Part Plate 10 01 14 Ex Ninety Degree
+name_no_color: 100114Exninetydegree
+name_no_size: 10 01 14 Ex Ninety Degree
+name_no_type: Plate 10 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_10_01_14_ex_ninety_degree
+oomp_word: sleeping calendar lollipop
+oomp_word_emoji: ':sleeping: :calendar: :lollipop:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':calendar:'
+- ':lollipop:'
+oomp_word_list:
+- sleeping
+- calendar
+- lollipop
+part_number: ''
+size: plate
+type: part

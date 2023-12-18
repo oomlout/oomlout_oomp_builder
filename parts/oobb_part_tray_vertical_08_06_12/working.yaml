@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_06_12
+directory: parts/oobb_part_tray_vertical_08_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_06_12
+id: oobb_part_tray_vertical_08_06_12
+id_no_class: part_tray_vertical_08_06_12
+id_no_color: 080612
+id_no_size: 08_06_12
+id_no_type: tray_vertical_08_06_12
+manufacturer: ''
+md5: bc5a039f7e731532d6f2717c30b19db4
+md5_10: bc5a039f7e
+md5_10_upper: BC5A039F7E
+md5_5: bc5a0
+md5_5_upper: BC5A0
+md5_6: bc5a03
+md5_6_alpha: 7ckjn
+md5_6_alpha_upper: 7CKJN
+md5_6_upper: BC5A03
+name: Oobb Part Tray Vertical 08 06 12
+name_no_class: Part Tray Vertical 08 06 12
+name_no_color: 080612
+name_no_size: 08 06 12
+name_no_type: Tray Vertical 08 06 12
+oomp_key: oomp_oobb_part_tray_vertical_08_06_12
+oomp_word: sushi goat grin
+oomp_word_emoji: ':sushi: :goat: :grin:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':goat:'
+- ':grin:'
+oomp_word_list:
+- sushi
+- goat
+- grin
+part_number: ''
+size: tray_vertical
+type: part

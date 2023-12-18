@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680000_ohm
+directory: parts/electronic_resistor_0603_680000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_680000_ohm
+id: electronic_resistor_0603_680000_ohm
+id_no_class: resistor_0603_680000_ohm
+id_no_color: 680000ohm
+id_no_size: 680000_ohm
+id_no_type: 0603_680000_ohm
+manufacturer: ''
+md5: 1f974ed7a7ddadf05f1c88b311db97f5
+md5_10: 1f974ed7a7
+md5_10_upper: 1F974ED7A7
+md5_5: 1f974
+md5_5_upper: 1F974
+md5_6: 1f974e
+md5_6_alpha: 18dhq
+md5_6_alpha_upper: 18DHQ
+md5_6_upper: 1F974E
+name: Electronic Resistor 0603 680000 Ohm
+name_no_class: Resistor 0603 680000 Ohm
+name_no_color: 680000Ohm
+name_no_size: 680000 Ohm
+name_no_type: 0603 680000 Ohm
+oomp_key: oomp_electronic_resistor_0603_680000_ohm
+oomp_word: princess baseball honeybee
+oomp_word_emoji: ':princess: :baseball: :honeybee:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':baseball:'
+- ':honeybee:'
+oomp_word_list:
+- princess
+- baseball
+- honeybee
+part_number: ''
+size: '0603'
+type: resistor

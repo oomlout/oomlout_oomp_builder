@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_13_ex_tool_wire_strippers_generic_120_red
+directory: parts/oobb_part_tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+id: oobb_part_tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+id_no_class: part_tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+id_no_color: 050513extoolwirestrippersgeneric120red
+id_no_size: 05_05_13_ex_tool_wire_strippers_generic_120_red
+id_no_type: tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+manufacturer: ''
+md5: ed59dcae96253c5c18801247db2d8206
+md5_10: ed59dcae96
+md5_10_upper: ED59DCAE96
+md5_5: ed59d
+md5_5_upper: ED59D
+md5_6: ed59dc
+md5_6_alpha: 99ecc
+md5_6_alpha_upper: 99ECC
+md5_6_upper: ED59DC
+name: Oobb Part Tool Holder Vertical 05 05 13 Ex Tool Wire Strippers Generic 120 Red
+name_no_class: Part Tool Holder Vertical 05 05 13 Ex Tool Wire Strippers Generic 120
+  Red
+name_no_color: 050513Extoolwirestrippersgeneric120Red
+name_no_size: 05 05 13 Ex Tool Wire Strippers Generic 120 Red
+name_no_type: Tool Holder Vertical 05 05 13 Ex Tool Wire Strippers Generic 120 Red
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_13_ex_tool_wire_strippers_generic_120_red
+oomp_word: bus dragon factory
+oomp_word_emoji: ':bus: :dragon: :factory:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':dragon:'
+- ':factory:'
+oomp_word_list:
+- bus
+- dragon
+- factory
+part_number: ''
+size: tool_holder_vertical
+type: part

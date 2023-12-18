@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+id_no_color: 7pinsurfacemountrightangle
+id_no_size: 7_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+manufacturer: ''
+md5: eabf8e3b0612998e95cd7f3e93f5b7ba
+md5_10: eabf8e3b06
+md5_10_upper: EABF8E3B06
+md5_5: eabf8
+md5_5_upper: EABF8
+md5_6: eabf8e
+md5_6_alpha: 95qq6
+md5_6_alpha_upper: 95QQ6
+md5_6_upper: EABF8E
+name: Electronic Header 2 5 Mm Jst Xh 7 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 7 Pin Surface Mount Right Angle
+name_no_color: 7Pinsurfacemountrightangle
+name_no_size: 7 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 7 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_7_pin_surface_mount_right_angle
+oomp_word: tractor egg clipboard
+oomp_word_emoji: ':tractor: :egg: :clipboard:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':egg:'
+- ':clipboard:'
+oomp_word_list:
+- tractor
+- egg
+- clipboard
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

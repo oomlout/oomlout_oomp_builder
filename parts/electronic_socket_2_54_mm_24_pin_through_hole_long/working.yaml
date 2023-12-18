@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 24_pin
+directory: parts/electronic_socket_2_54_mm_24_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole_long
+id: electronic_socket_2_54_mm_24_pin_through_hole_long
+id_no_class: socket_2_54_mm_24_pin_through_hole_long
+id_no_color: 24pinthroughholelong
+id_no_size: 24_pin_through_hole_long
+id_no_type: 2_54_mm_24_pin_through_hole_long
+manufacturer: ''
+md5: 248856cb03df439eb78d4e9820b9394a
+md5_10: 248856cb03
+md5_10_upper: 248856CB03
+md5_5: '24885'
+md5_5_upper: '24885'
+md5_6: '248856'
+md5_6_alpha: 1fbdi
+md5_6_alpha_upper: 1FBDI
+md5_6_upper: '248856'
+name: Electronic Socket 2 54 Mm 24 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 24 Pin Through Hole Long
+name_no_color: 24Pinthroughholelong
+name_no_size: 24 Pin Through Hole Long
+name_no_type: 2 54 Mm 24 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_24_pin_through_hole_long
+oomp_word: droplet wrench ram
+oomp_word_emoji: ':droplet: :wrench: :ram:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':wrench:'
+- ':ram:'
+oomp_word_list:
+- droplet
+- wrench
+- ram
+part_number: ''
+size: 2_54_mm
+type: socket

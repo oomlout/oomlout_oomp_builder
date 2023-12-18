@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_08_18'
+directory: parts/oobb_part_tray_vertical_10_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_08_18
+id: oobb_part_tray_vertical_10_08_18
+id_no_class: part_tray_vertical_10_08_18
+id_no_color: '100818'
+id_no_size: '10_08_18'
+id_no_type: tray_vertical_10_08_18
+manufacturer: ''
+md5: 1174ace5bd42b933f715fae9f0c0b9f5
+md5_10: 1174ace5bd
+md5_10_upper: 1174ACE5BD
+md5_5: 1174a
+md5_5_upper: 1174A
+md5_6: 1174ac
+md5_6_alpha: oip8
+md5_6_alpha_upper: OIP8
+md5_6_upper: 1174AC
+name: Oobb Part Tray Vertical 10 08 18
+name_no_class: Part Tray Vertical 10 08 18
+name_no_color: '100818'
+name_no_size: 10 08 18
+name_no_type: Tray Vertical 10 08 18
+oomp_key: oomp_oobb_part_tray_vertical_10_08_18
+oomp_word: dizzy fireworks shirt
+oomp_word_emoji: ':dizzy: :fireworks: :shirt:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':fireworks:'
+- ':shirt:'
+oomp_word_list:
+- dizzy
+- fireworks
+- shirt
+part_number: ''
+size: tray_vertical
+type: part

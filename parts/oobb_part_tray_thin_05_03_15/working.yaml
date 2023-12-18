@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_15'
+directory: parts/oobb_part_tray_thin_05_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_03_15
+id: oobb_part_tray_thin_05_03_15
+id_no_class: part_tray_thin_05_03_15
+id_no_color: '050315'
+id_no_size: '05_03_15'
+id_no_type: tray_thin_05_03_15
+manufacturer: ''
+md5: 7a7cd28186d7ad080fe5d86ec88e6a81
+md5_10: 7a7cd28186
+md5_10_upper: 7A7CD28186
+md5_5: 7a7cd
+md5_5_upper: 7A7CD
+md5_6: 7a7cd2
+md5_6_alpha: 4s1xu
+md5_6_alpha_upper: 4S1XU
+md5_6_upper: 7A7CD2
+name: Oobb Part Tray Thin 05 03 15
+name_no_class: Part Tray Thin 05 03 15
+name_no_color: '050315'
+name_no_size: 05 03 15
+name_no_type: Tray Thin 05 03 15
+oomp_key: oomp_oobb_part_tray_thin_05_03_15
+oomp_word: camera tv pineapple
+oomp_word_emoji: ':camera: :tv: :pineapple:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':tv:'
+- ':pineapple:'
+oomp_word_list:
+- camera
+- tv
+- pineapple
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_05_18'
+directory: parts/oobb_part_tray_vertical_10_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_05_18
+id: oobb_part_tray_vertical_10_05_18
+id_no_class: part_tray_vertical_10_05_18
+id_no_color: '100518'
+id_no_size: '10_05_18'
+id_no_type: tray_vertical_10_05_18
+manufacturer: ''
+md5: 458317867569002c0ae57ba56d7372ff
+md5_10: '4583178675'
+md5_10_upper: '4583178675'
+md5_5: '45831'
+md5_5_upper: '45831'
+md5_6: '458317'
+md5_6_alpha: 2pn2v
+md5_6_alpha_upper: 2PN2V
+md5_6_upper: '458317'
+name: Oobb Part Tray Vertical 10 05 18
+name_no_class: Part Tray Vertical 10 05 18
+name_no_color: '100518'
+name_no_size: 10 05 18
+name_no_type: Tray Vertical 10 05 18
+oomp_key: oomp_oobb_part_tray_vertical_10_05_18
+oomp_word: snake lock thumbsdown
+oomp_word_emoji: ':snake: :lock: :thumbsdown:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':lock:'
+- ':thumbsdown:'
+oomp_word_list:
+- snake
+- lock
+- thumbsdown
+part_number: ''
+size: tray_vertical
+type: part

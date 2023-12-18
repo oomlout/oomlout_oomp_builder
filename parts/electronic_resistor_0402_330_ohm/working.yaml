@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330_ohm
+directory: parts/electronic_resistor_0402_330_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330_ohm
+id: electronic_resistor_0402_330_ohm
+id_no_class: resistor_0402_330_ohm
+id_no_color: 330ohm
+id_no_size: 330_ohm
+id_no_type: 0402_330_ohm
+manufacturer: ''
+md5: 6a15cd4ddfffdcef378baf6bcfac050b
+md5_10: 6a15cd4ddf
+md5_10_upper: 6A15CD4DDF
+md5_5: 6a15c
+md5_5_upper: 6A15C
+md5_6: 6a15cd
+md5_6_alpha: 450i5
+md5_6_alpha_upper: 450I5
+md5_6_upper: 6A15CD
+name: Electronic Resistor 0402 330 Ohm
+name_no_class: Resistor 0402 330 Ohm
+name_no_color: 330Ohm
+name_no_size: 330 Ohm
+name_no_type: 0402 330 Ohm
+oomp_key: oomp_electronic_resistor_0402_330_ohm
+oomp_word: palm_tree poop strawberry
+oomp_word_emoji: ':palm_tree: :poop: :strawberry:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':poop:'
+- ':strawberry:'
+oomp_word_list:
+- palm_tree
+- poop
+- strawberry
+part_number: ''
+size: '0402'
+type: resistor

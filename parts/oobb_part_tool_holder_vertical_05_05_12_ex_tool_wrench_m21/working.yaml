@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_12_ex_tool_wrench_m21
+directory: parts/oobb_part_tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+id: oobb_part_tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+id_no_class: part_tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+id_no_color: 050512extoolwrenchm21
+id_no_size: 05_05_12_ex_tool_wrench_m21
+id_no_type: tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+manufacturer: ''
+md5: 4a24193c2ccd01f21747fb78e3d4864a
+md5_10: 4a24193c2c
+md5_10_upper: 4A24193C2C
+md5_5: 4a241
+md5_5_upper: 4A241
+md5_6: 4a2419
+md5_6_alpha: 2w55l
+md5_6_alpha_upper: 2W55L
+md5_6_upper: 4A2419
+name: Oobb Part Tool Holder Vertical 05 05 12 Ex Tool Wrench M21
+name_no_class: Part Tool Holder Vertical 05 05 12 Ex Tool Wrench M21
+name_no_color: 050512Extoolwrenchm21
+name_no_size: 05 05 12 Ex Tool Wrench M21
+name_no_type: Tool Holder Vertical 05 05 12 Ex Tool Wrench M21
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_12_ex_tool_wrench_m21
+oomp_word: chicken droplet pray
+oomp_word_emoji: ':chicken: :droplet: :pray:'
+oomp_word_emoji_list:
+- ':chicken:'
+- ':droplet:'
+- ':pray:'
+oomp_word_list:
+- chicken
+- droplet
+- pray
+part_number: ''
+size: tool_holder_vertical
+type: part

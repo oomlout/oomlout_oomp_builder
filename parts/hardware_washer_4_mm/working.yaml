@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_4_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_4_mm
+id: hardware_washer_4_mm
+id_no_class: washer_4_mm
+id_no_color: 4mm
+id_no_size: 4_mm
+id_no_type: 4_mm
+manufacturer: ''
+md5: 3c3262660f38ced331f9efa027a2121c
+md5_10: 3c3262660f
+md5_10_upper: 3C3262660F
+md5_5: 3c326
+md5_5_upper: 3C326
+md5_6: 3c3262
+md5_6_alpha: 2ck0y
+md5_6_alpha_upper: 2CK0Y
+md5_6_upper: 3C3262
+name: Hardware Washer 4 Mm
+name_no_class: Washer 4 Mm
+name_no_color: 4Mm
+name_no_size: 4 Mm
+name_no_type: 4 Mm
+oomp_key: oomp_hardware_washer_4_mm
+oomp_word: pig cat tulip
+oomp_word_emoji: ':pig: :cat: :tulip:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':cat:'
+- ':tulip:'
+oomp_word_list:
+- pig
+- cat
+- tulip
+part_number: ''
+size: 4_mm
+type: washer

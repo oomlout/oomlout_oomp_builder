@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_short
+id: electronic_header_2_54_mm_7_pin_through_hole_short
+id_no_class: header_2_54_mm_7_pin_through_hole_short
+id_no_color: 7pinthroughholeshort
+id_no_size: 7_pin_through_hole_short
+id_no_type: 2_54_mm_7_pin_through_hole_short
+manufacturer: ''
+md5: 052f75e6c767a9e6f2950be8a00204b7
+md5_10: 052f75e6c7
+md5_10_upper: 052F75E6C7
+md5_5: 052f7
+md5_5_upper: 052F7
+md5_6: 052f75
+md5_6_alpha: 7a7p
+md5_6_alpha_upper: 7A7P
+md5_6_upper: 052F75
+name: Electronic Header 2 54 Mm 7 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 7 Pin Through Hole Short
+name_no_color: 7Pinthroughholeshort
+name_no_size: 7 Pin Through Hole Short
+name_no_type: 2 54 Mm 7 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_through_hole_short
+oomp_word: kissing cyclone ghost
+oomp_word_emoji: ':kissing: :cyclone: :ghost:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':cyclone:'
+- ':ghost:'
+oomp_word_list:
+- kissing
+- cyclone
+- ghost
+part_number: ''
+size: 2_54_mm
+type: header

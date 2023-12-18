@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_05_12'
+directory: parts/oobb_part_tray_vertical_11_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_05_12
+id: oobb_part_tray_vertical_11_05_12
+id_no_class: part_tray_vertical_11_05_12
+id_no_color: '110512'
+id_no_size: '11_05_12'
+id_no_type: tray_vertical_11_05_12
+manufacturer: ''
+md5: 3afa2af588d424909a452609267c2275
+md5_10: 3afa2af588
+md5_10_upper: 3AFA2AF588
+md5_5: 3afa2
+md5_5_upper: 3AFA2
+md5_6: 3afa2a
+md5_6_alpha: 2aucq
+md5_6_alpha_upper: 2AUCQ
+md5_6_upper: 3AFA2A
+name: Oobb Part Tray Vertical 11 05 12
+name_no_class: Part Tray Vertical 11 05 12
+name_no_color: '110512'
+name_no_size: 11 05 12
+name_no_type: Tray Vertical 11 05 12
+oomp_key: oomp_oobb_part_tray_vertical_11_05_12
+oomp_word: koala nine umbrella
+oomp_word_emoji: ':koala: :nine: :umbrella:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':nine:'
+- ':umbrella:'
+oomp_word_list:
+- koala
+- nine
+- umbrella
+part_number: ''
+size: tray_vertical
+type: part

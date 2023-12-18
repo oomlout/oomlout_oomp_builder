@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_ex_72_teeth
+directory: parts/oobb_part_pulley_gt2_03_06_ex_72_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_ex_72_teeth
+id: oobb_part_pulley_gt2_03_06_ex_72_teeth
+id_no_class: part_pulley_gt2_03_06_ex_72_teeth
+id_no_color: 0306ex72teeth
+id_no_size: 03_06_ex_72_teeth
+id_no_type: pulley_gt2_03_06_ex_72_teeth
+manufacturer: ''
+md5: dd0dade5251df68d726fa040011546a0
+md5_10: dd0dade525
+md5_10_upper: DD0DADE525
+md5_5: dd0da
+md5_5_upper: DD0DA
+md5_6: dd0dad
+md5_6_alpha: 8mi7h
+md5_6_alpha_upper: 8MI7H
+md5_6_upper: DD0DAD
+name: Oobb Part Pulley Gt2 03 06 Ex 72 Teeth
+name_no_class: Part Pulley Gt2 03 06 Ex 72 Teeth
+name_no_color: 0306Ex72Teeth
+name_no_size: 03 06 Ex 72 Teeth
+name_no_type: Pulley Gt2 03 06 Ex 72 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_03_06_ex_72_teeth
+oomp_word: stars heart dress
+oomp_word_emoji: ':stars: :heart: :dress:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':heart:'
+- ':dress:'
+oomp_word_list:
+- stars
+- heart
+- dress
+part_number: ''
+size: pulley_gt2
+type: part

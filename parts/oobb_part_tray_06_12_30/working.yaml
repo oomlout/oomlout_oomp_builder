@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_12_30'
+directory: parts/oobb_part_tray_06_12_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_12_30
+id: oobb_part_tray_06_12_30
+id_no_class: part_tray_06_12_30
+id_no_color: '061230'
+id_no_size: '06_12_30'
+id_no_type: tray_06_12_30
+manufacturer: ''
+md5: 0038fa7f4d120044c9b63c8d14ef4029
+md5_10: 0038fa7f4d
+md5_10_upper: 0038FA7F4D
+md5_5: 0038f
+md5_5_upper: 0038F
+md5_6: 0038fa
+md5_6_alpha: b96
+md5_6_alpha_upper: B96
+md5_6_upper: 0038FA
+name: Oobb Part Tray 06 12 30
+name_no_class: Part Tray 06 12 30
+name_no_color: '061230'
+name_no_size: 06 12 30
+name_no_type: Tray 06 12 30
+oomp_key: oomp_oobb_part_tray_06_12_30
+oomp_word: bowtie frog nine
+oomp_word_emoji: ':bowtie: :frog: :nine:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':frog:'
+- ':nine:'
+oomp_word_list:
+- bowtie
+- frog
+- nine
+part_number: ''
+size: tray
+type: part

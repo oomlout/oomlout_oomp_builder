@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_06'
+directory: parts/oobb_part_plate_03_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_06
+id: oobb_part_plate_03_01_06
+id_no_class: part_plate_03_01_06
+id_no_color: '030106'
+id_no_size: '03_01_06'
+id_no_type: plate_03_01_06
+manufacturer: ''
+md5: 4d46e897aee1fc04ffd2f1f5647c92d9
+md5_10: 4d46e897ae
+md5_10_upper: 4D46E897AE
+md5_5: 4d46e
+md5_5_upper: 4D46E
+md5_6: 4d46e8
+md5_6_alpha: 30jqg
+md5_6_alpha_upper: 30JQG
+md5_6_upper: 4D46E8
+name: Oobb Part Plate 03 01 06
+name_no_class: Part Plate 03 01 06
+name_no_color: '030106'
+name_no_size: 03 01 06
+name_no_type: Plate 03 01 06
+oomp_key: oomp_oobb_part_plate_03_01_06
+oomp_word: bug bird tram
+oomp_word_emoji: ':bug: :bird: :tram:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':bird:'
+- ':tram:'
+oomp_word_list:
+- bug
+- bird
+- tram
+part_number: ''
+size: plate
+type: part

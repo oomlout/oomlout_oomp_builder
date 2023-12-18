@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_01_06'
+directory: parts/oobb_part_plate_21_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_01_06
+id: oobb_part_plate_21_01_06
+id_no_class: part_plate_21_01_06
+id_no_color: '210106'
+id_no_size: '21_01_06'
+id_no_type: plate_21_01_06
+manufacturer: ''
+md5: 6c407b3907497705c12fef76c21a0405
+md5_10: 6c407b3907
+md5_10_upper: 6C407B3907
+md5_5: 6c407
+md5_5_upper: 6C407
+md5_6: 6c407b
+md5_6_alpha: 4822j
+md5_6_alpha_upper: 4822J
+md5_6_upper: 6C407B
+name: Oobb Part Plate 21 01 06
+name_no_class: Part Plate 21 01 06
+name_no_color: '210106'
+name_no_size: 21 01 06
+name_no_type: Plate 21 01 06
+oomp_key: oomp_oobb_part_plate_21_01_06
+oomp_word: blossom racehorse computer
+oomp_word_emoji: ':blossom: :racehorse: :computer:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':racehorse:'
+- ':computer:'
+oomp_word_list:
+- blossom
+- racehorse
+- computer
+part_number: ''
+size: plate
+type: part

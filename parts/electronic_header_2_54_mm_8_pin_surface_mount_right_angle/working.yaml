@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 8_pin
+directory: parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_8_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_8_pin_surface_mount_right_angle
+id_no_color: 8pinsurfacemountrightangle
+id_no_size: 8_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_8_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 4c4fbf9290c5a4b724d80bd28d62b148
+md5_10: 4c4fbf9290
+md5_10_upper: 4C4FBF9290
+md5_5: 4c4fb
+md5_5_upper: 4C4FB
+md5_6: 4c4fbf
+md5_6_alpha: 2z6wv
+md5_6_alpha_upper: 2Z6WV
+md5_6_upper: 4C4FBF
+name: Electronic Header 2 54 Mm 8 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 8 Pin Surface Mount Right Angle
+name_no_color: 8Pinsurfacemountrightangle
+name_no_size: 8 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 8 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_8_pin_surface_mount_right_angle
+oomp_word: turtle ant egg
+oomp_word_emoji: ':turtle: :ant: :egg:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':ant:'
+- ':egg:'
+oomp_word_list:
+- turtle
+- ant
+- egg
+part_number: ''
+size: 2_54_mm
+type: header

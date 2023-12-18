@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_03_15
+directory: parts/oobb_part_tray_vertical_08_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_03_15
+id: oobb_part_tray_vertical_08_03_15
+id_no_class: part_tray_vertical_08_03_15
+id_no_color: 080315
+id_no_size: 08_03_15
+id_no_type: tray_vertical_08_03_15
+manufacturer: ''
+md5: 855af96c550d904496c4951933d89cc6
+md5_10: 855af96c55
+md5_10_upper: 855AF96C55
+md5_5: 855af
+md5_5_upper: 855AF
+md5_6: 855af9
+md5_6_alpha: 57bi1
+md5_6_alpha_upper: 57BI1
+md5_6_upper: 855AF9
+name: Oobb Part Tray Vertical 08 03 15
+name_no_class: Part Tray Vertical 08 03 15
+name_no_color: 080315
+name_no_size: 08 03 15
+name_no_type: Tray Vertical 08 03 15
+oomp_key: oomp_oobb_part_tray_vertical_08_03_15
+oomp_word: bulb goat eight
+oomp_word_emoji: ':bulb: :goat: :eight:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':goat:'
+- ':eight:'
+oomp_word_list:
+- bulb
+- goat
+- eight
+part_number: ''
+size: tray_vertical
+type: part

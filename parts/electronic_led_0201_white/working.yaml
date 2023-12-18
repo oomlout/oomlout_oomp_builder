@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_white
+id: electronic_led_0201_white
+id_no_class: led_0201_white
+id_no_color: white
+id_no_size: white
+id_no_type: 0201_white
+manufacturer: ''
+md5: 3ca01c0bb6a677f0210c15c0249af747
+md5_10: 3ca01c0bb6
+md5_10_upper: 3CA01C0BB6
+md5_5: 3ca01
+md5_5_upper: 3CA01
+md5_6: 3ca01c
+md5_6_alpha: 2d5p8
+md5_6_alpha_upper: 2D5P8
+md5_6_upper: 3CA01C
+name: Electronic Led 0201 White
+name_no_class: Led 0201 White
+name_no_color: White
+name_no_size: White
+name_no_type: 0201 White
+oomp_key: oomp_electronic_led_0201_white
+oomp_word: pig ring dancer
+oomp_word_emoji: ':pig: :ring: :dancer:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':ring:'
+- ':dancer:'
+oomp_word_list:
+- pig
+- ring
+- dancer
+part_number: ''
+size: '0201'
+type: led

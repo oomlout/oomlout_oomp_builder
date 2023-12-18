@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 6_pin
+directory: parts/electronic_header_2_54_mm_6_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_6_pin_surface_mount
+id: electronic_header_2_54_mm_6_pin_surface_mount
+id_no_class: header_2_54_mm_6_pin_surface_mount
+id_no_color: 6pinsurfacemount
+id_no_size: 6_pin_surface_mount
+id_no_type: 2_54_mm_6_pin_surface_mount
+manufacturer: ''
+md5: 86f0864a6e233fbefda1af42f4e8feb7
+md5_10: 86f0864a6e
+md5_10_upper: 86F0864A6E
+md5_5: 86f08
+md5_5_upper: 86F08
+md5_6: 86f086
+md5_6_alpha: 59jly
+md5_6_alpha_upper: 59JLY
+md5_6_upper: 86F086
+name: Electronic Header 2 54 Mm 6 Pin Surface Mount
+name_no_class: Header 2 54 Mm 6 Pin Surface Mount
+name_no_color: 6Pinsurfacemount
+name_no_size: 6 Pin Surface Mount
+name_no_type: 2 54 Mm 6 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_6_pin_surface_mount
+oomp_word: bath train bath
+oomp_word_emoji: ':bath: :train: :bath:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':train:'
+- ':bath:'
+oomp_word_list:
+- bath
+- train
+- bath
+part_number: ''
+size: 2_54_mm
+type: header

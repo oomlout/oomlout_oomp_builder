@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_1d5_18
+directory: parts/oobb_part_tray_vertical_07_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_1d5_18
+id: oobb_part_tray_vertical_07_1d5_18
+id_no_class: part_tray_vertical_07_1d5_18
+id_no_color: 071d518
+id_no_size: 07_1d5_18
+id_no_type: tray_vertical_07_1d5_18
+manufacturer: ''
+md5: 8387f5e1d75b28472ed3dff4508057ea
+md5_10: 8387f5e1d7
+md5_10_upper: 8387F5E1D7
+md5_5: 8387f
+md5_5_upper: 8387F
+md5_6: 8387f5
+md5_6_alpha: 54r91
+md5_6_alpha_upper: 54R91
+md5_6_upper: 8387F5
+name: Oobb Part Tray Vertical 07 1D5 18
+name_no_class: Part Tray Vertical 07 1D5 18
+name_no_color: 071D518
+name_no_size: 07 1D5 18
+name_no_type: Tray Vertical 07 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_07_1d5_18
+oomp_word: lock toilet four
+oomp_word_emoji: ':lock: :toilet: :four:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':toilet:'
+- ':four:'
+oomp_word_list:
+- lock
+- toilet
+- four
+part_number: ''
+size: tray_vertical
+type: part

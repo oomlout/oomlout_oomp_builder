@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_2_7_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_7_mm
+id: hardware_washer_2_7_mm
+id_no_class: washer_2_7_mm
+id_no_color: 27mm
+id_no_size: 2_7_mm
+id_no_type: 2_7_mm
+manufacturer: ''
+md5: dd353238d291d9a1fae3c6e8ec202d16
+md5_10: dd353238d2
+md5_10_upper: DD353238D2
+md5_5: dd353
+md5_5_upper: DD353
+md5_6: dd3532
+md5_6_alpha: 8mq0i
+md5_6_alpha_upper: 8MQ0I
+md5_6_upper: DD3532
+name: Hardware Washer 2 7 Mm
+name_no_class: Washer 2 7 Mm
+name_no_color: 27Mm
+name_no_size: 2 7 Mm
+name_no_type: 2 7 Mm
+oomp_key: oomp_hardware_washer_2_7_mm
+oomp_word: stars hamster cat
+oomp_word_emoji: ':stars: :hamster: :cat:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':hamster:'
+- ':cat:'
+oomp_word_list:
+- stars
+- hamster
+- cat
+part_number: ''
+size: 2_7_mm
+type: washer

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6018_size
+description_extra: ''
+description_main: 90_mm_id_140_mm_od_24_mm_depth
+directory: parts/hardware_bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+id: hardware_bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+id_no_class: bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+id_no_color: 90_mm_id_140_mm_od_24_mm_depth
+id_no_size: 6018_size_90_mm_id_140_mm_od_24_mm_depth
+id_no_type: 6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+manufacturer: ''
+md5: 707f1ddfdf9d2b00ac478c67aa0adcd9
+md5_10: 707f1ddfdf
+md5_10_upper: 707F1DDFDF
+md5_5: 707f1
+md5_5_upper: 707F1
+md5_6: 707f1d
+md5_6_alpha: 4e0pp
+md5_6_alpha_upper: 4E0PP
+md5_6_upper: 707F1D
+name: Hardware Bearing 6000 Series 6018 Size 90 Mm Id 140 Mm Od 24 Mm Depth
+name_no_class: Bearing 6000 Series 6018 Size 90 Mm Id 140 Mm Od 24 Mm Depth
+name_no_color: 90 Mm Id 140 Mm Od 24 Mm Depth
+name_no_size: 6018 Size 90 Mm Id 140 Mm Od 24 Mm Depth
+name_no_type: 6000 Series 6018 Size 90 Mm Id 140 Mm Od 24 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
+oomp_word: squirrel speaker baby
+oomp_word_emoji: ':squirrel: :speaker: :baby:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':speaker:'
+- ':baby:'
+oomp_word_list:
+- squirrel
+- speaker
+- baby
+part_number: ''
+size: 6000_series
+type: bearing

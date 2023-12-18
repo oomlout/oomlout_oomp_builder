@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_07_09'
+directory: parts/oobb_part_tray_vertical_12_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_07_09
+id: oobb_part_tray_vertical_12_07_09
+id_no_class: part_tray_vertical_12_07_09
+id_no_color: '120709'
+id_no_size: '12_07_09'
+id_no_type: tray_vertical_12_07_09
+manufacturer: ''
+md5: fee7224987daa26ce2aad41fe950c1d0
+md5_10: fee7224987
+md5_10_upper: FEE7224987
+md5_5: fee72
+md5_5_upper: FEE72
+md5_6: fee722
+md5_6_alpha: 9y1wi
+md5_6_alpha_upper: 9Y1WI
+md5_6_upper: FEE722
+name: Oobb Part Tray Vertical 12 07 09
+name_no_class: Part Tray Vertical 12 07 09
+name_no_color: '120709'
+name_no_size: 12 07 09
+name_no_type: Tray Vertical 12 07 09
+oomp_key: oomp_oobb_part_tray_vertical_12_07_09
+oomp_word: recycle helicopter lips
+oomp_word_emoji: ':recycle: :helicopter: :lips:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':helicopter:'
+- ':lips:'
+oomp_word_list:
+- recycle
+- helicopter
+- lips
+part_number: ''
+size: tray_vertical
+type: part

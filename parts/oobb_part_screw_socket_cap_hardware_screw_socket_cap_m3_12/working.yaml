@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_12
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_12
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_12
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_12
+id_no_color: hardwarem312
+id_no_size: hardware_m3_12
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_12
+manufacturer: ''
+md5: 458c183b6495f0cd45310cc3c116563e
+md5_10: 458c183b64
+md5_10_upper: 458C183B64
+md5_5: 458c1
+md5_5_upper: 458C1
+md5_6: 458c18
+md5_6_alpha: 2pouw
+md5_6_alpha_upper: 2POUW
+md5_6_upper: 458C18
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 12
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 12
+name_no_color: Hardwarem312
+name_no_size: Hardware M3 12
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 12
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_12
+oomp_word: snake pill hand
+oomp_word_emoji: ':snake: :pill: :hand:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':pill:'
+- ':hand:'
+oomp_word_list:
+- snake
+- pill
+- hand
+part_number: ''
+size: screw_socket_cap
+type: part

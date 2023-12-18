@@ -1,0 +1,40 @@
+classification: hardware
+color: 6907_size
+description_extra: ''
+description_main: 35_mm_id_55_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+id: hardware_bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+id_no_class: bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+id_no_color: 35_mm_id_55_mm_od_10_mm_depth
+id_no_size: 6907_size_35_mm_id_55_mm_od_10_mm_depth
+id_no_type: 6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+manufacturer: ''
+md5: 73dd9ec7daf376c140ccde68fa18272f
+md5_10: 73dd9ec7da
+md5_10_upper: 73DD9EC7DA
+md5_5: 73dd9
+md5_5_upper: 73DD9
+md5_6: 73dd9e
+md5_6_alpha: 4ir32
+md5_6_alpha_upper: 4IR32
+md5_6_upper: 73DD9E
+name: Hardware Bearing 6900 Series 6907 Size 35 Mm Id 55 Mm Od 10 Mm Depth
+name_no_class: Bearing 6900 Series 6907 Size 35 Mm Id 55 Mm Od 10 Mm Depth
+name_no_color: 35 Mm Id 55 Mm Od 10 Mm Depth
+name_no_size: 6907 Size 35 Mm Id 55 Mm Od 10 Mm Depth
+name_no_type: 6900 Series 6907 Size 35 Mm Id 55 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
+oomp_word: flags stars clubs
+oomp_word_emoji: ':flags: :stars: :clubs:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':stars:'
+- ':clubs:'
+oomp_word_list:
+- flags
+- stars
+- clubs
+part_number: ''
+size: 6900_series
+type: bearing

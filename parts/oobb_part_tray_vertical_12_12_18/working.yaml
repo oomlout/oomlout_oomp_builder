@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_18'
+directory: parts/oobb_part_tray_vertical_12_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_12_18
+id: oobb_part_tray_vertical_12_12_18
+id_no_class: part_tray_vertical_12_12_18
+id_no_color: '121218'
+id_no_size: '12_12_18'
+id_no_type: tray_vertical_12_12_18
+manufacturer: ''
+md5: a92e106194410fefe5c141e79ec5d101
+md5_10: a92e106194
+md5_10_upper: A92E106194
+md5_5: a92e1
+md5_5_upper: A92E1
+md5_6: a92e10
+md5_6_alpha: 6ln2o
+md5_6_alpha_upper: 6LN2O
+md5_6_upper: A92E10
+name: Oobb Part Tray Vertical 12 12 18
+name_no_class: Part Tray Vertical 12 12 18
+name_no_color: '121218'
+name_no_size: 12 12 18
+name_no_type: Tray Vertical 12 12 18
+oomp_key: oomp_oobb_part_tray_vertical_12_12_18
+oomp_word: sandal zap star
+oomp_word_emoji: ':sandal: :zap: :star:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':zap:'
+- ':star:'
+oomp_word_list:
+- sandal
+- zap
+- star
+part_number: ''
+size: tray_vertical
+type: part

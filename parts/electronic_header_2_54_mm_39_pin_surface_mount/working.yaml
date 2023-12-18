@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 39_pin
+directory: parts/electronic_header_2_54_mm_39_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_surface_mount
+id: electronic_header_2_54_mm_39_pin_surface_mount
+id_no_class: header_2_54_mm_39_pin_surface_mount
+id_no_color: 39pinsurfacemount
+id_no_size: 39_pin_surface_mount
+id_no_type: 2_54_mm_39_pin_surface_mount
+manufacturer: ''
+md5: ffd4779a34cf89d4479d88a4de61d701
+md5_10: ffd4779a34
+md5_10_upper: FFD4779A34
+md5_5: ffd47
+md5_5_upper: FFD47
+md5_6: ffd477
+md5_6_alpha: 9zcs7
+md5_6_alpha_upper: 9ZCS7
+md5_6_upper: FFD477
+name: Electronic Header 2 54 Mm 39 Pin Surface Mount
+name_no_class: Header 2 54 Mm 39 Pin Surface Mount
+name_no_color: 39Pinsurfacemount
+name_no_size: 39 Pin Surface Mount
+name_no_type: 2 54 Mm 39 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_39_pin_surface_mount
+oomp_word: trident corn gift
+oomp_word_emoji: ':trident: :corn: :gift:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':corn:'
+- ':gift:'
+oomp_word_list:
+- trident
+- corn
+- gift
+part_number: ''
+size: 2_54_mm
+type: header

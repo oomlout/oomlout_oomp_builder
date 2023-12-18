@@ -1,0 +1,40 @@
+classification: hardware
+color: 5209_size
+description_extra: ''
+description_main: 45_mm_id_85_mm_od_30.1_mm_depth
+directory: parts/hardware_bearing_5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+id: hardware_bearing_5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+id_no_class: bearing_5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+id_no_color: 45_mm_id_85_mm_od_30.1_mm_depth
+id_no_size: 5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+id_no_type: 5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+manufacturer: ''
+md5: 16aaff5a9d64262c68bf912fcab13d12
+md5_10: 16aaff5a9d
+md5_10_upper: 16AAFF5A9D
+md5_5: 16aaf
+md5_5_upper: 16AAF
+md5_6: 16aaff
+md5_6_alpha: vu9r
+md5_6_alpha_upper: VU9R
+md5_6_upper: 16AAFF
+name: Hardware Bearing 5200 Series 5209 Size 45 Mm Id 85 Mm Od 30.1 Mm Depth
+name_no_class: Bearing 5200 Series 5209 Size 45 Mm Id 85 Mm Od 30.1 Mm Depth
+name_no_color: 45 Mm Id 85 Mm Od 30.1 Mm Depth
+name_no_size: 5209 Size 45 Mm Id 85 Mm Od 30.1 Mm Depth
+name_no_type: 5200 Series 5209 Size 45 Mm Id 85 Mm Od 30.1 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5209_size_45_mm_id_85_mm_od_30.1_mm_depth
+oomp_word: thumbsup lipstick trident
+oomp_word_emoji: ':thumbsup: :lipstick: :trident:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':lipstick:'
+- ':trident:'
+oomp_word_list:
+- thumbsup
+- lipstick
+- trident
+part_number: ''
+size: 5200_series
+type: bearing

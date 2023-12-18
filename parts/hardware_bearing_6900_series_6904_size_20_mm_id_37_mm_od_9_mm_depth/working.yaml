@@ -1,0 +1,40 @@
+classification: hardware
+color: 6904_size
+description_extra: ''
+description_main: 20_mm_id_37_mm_od_9_mm_depth
+directory: parts/hardware_bearing_6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+id: hardware_bearing_6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+id_no_class: bearing_6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+id_no_color: 20_mm_id_37_mm_od_9_mm_depth
+id_no_size: 6904_size_20_mm_id_37_mm_od_9_mm_depth
+id_no_type: 6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+manufacturer: ''
+md5: a2eafe8e0e342a7718eaa97268072b55
+md5_10: a2eafe8e0e
+md5_10_upper: A2EAFE8E0E
+md5_5: a2eaf
+md5_5_upper: A2EAF
+md5_6: a2eafe
+md5_6_alpha: 6cuf2
+md5_6_alpha_upper: 6CUF2
+md5_6_upper: A2EAFE
+name: Hardware Bearing 6900 Series 6904 Size 20 Mm Id 37 Mm Od 9 Mm Depth
+name_no_class: Bearing 6900 Series 6904 Size 20 Mm Id 37 Mm Od 9 Mm Depth
+name_no_color: 20 Mm Id 37 Mm Od 9 Mm Depth
+name_no_size: 6904 Size 20 Mm Id 37 Mm Od 9 Mm Depth
+name_no_type: 6900 Series 6904 Size 20 Mm Id 37 Mm Od 9 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6904_size_20_mm_id_37_mm_od_9_mm_depth
+oomp_word: violin tractor recycle
+oomp_word_emoji: ':violin: :tractor: :recycle:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':tractor:'
+- ':recycle:'
+oomp_word_list:
+- violin
+- tractor
+- recycle
+part_number: ''
+size: 6900_series
+type: bearing

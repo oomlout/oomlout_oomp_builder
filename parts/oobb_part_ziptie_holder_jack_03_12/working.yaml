@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_12'
+directory: parts/oobb_part_ziptie_holder_jack_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_03_12
+id: oobb_part_ziptie_holder_jack_03_12
+id_no_class: part_ziptie_holder_jack_03_12
+id_no_color: '0312'
+id_no_size: '03_12'
+id_no_type: ziptie_holder_jack_03_12
+manufacturer: ''
+md5: aefd574e82cba12290e70394cd1db9d5
+md5_10: aefd574e82
+md5_10_upper: AEFD574E82
+md5_5: aefd5
+md5_5_upper: AEFD5
+md5_6: aefd57
+md5_6_alpha: 6tsuv
+md5_6_alpha_upper: 6TSUV
+md5_6_upper: AEFD57
+name: Oobb Part Ziptie Holder Jack 03 12
+name_no_class: Part Ziptie Holder Jack 03 12
+name_no_color: '0312'
+name_no_size: 03 12
+name_no_type: Ziptie Holder Jack 03 12
+oomp_key: oomp_oobb_part_ziptie_holder_jack_03_12
+oomp_word: jeans parking rat
+oomp_word_emoji: ':jeans: :parking: :rat:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':parking:'
+- ':rat:'
+oomp_word_list:
+- jeans
+- parking
+- rat
+part_number: ''
+size: ziptie_holder_jack
+type: part

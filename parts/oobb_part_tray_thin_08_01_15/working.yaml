@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_15
+directory: parts/oobb_part_tray_thin_08_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_01_15
+id: oobb_part_tray_thin_08_01_15
+id_no_class: part_tray_thin_08_01_15
+id_no_color: 080115
+id_no_size: 08_01_15
+id_no_type: tray_thin_08_01_15
+manufacturer: ''
+md5: 3b2bd78bfd41f4a4d0ce83967050a2b3
+md5_10: 3b2bd78bfd
+md5_10_upper: 3B2BD78BFD
+md5_5: 3b2bd
+md5_5_upper: 3B2BD
+md5_6: 3b2bd7
+md5_6_alpha: 2b45z
+md5_6_alpha_upper: 2B45Z
+md5_6_upper: 3B2BD7
+name: Oobb Part Tray Thin 08 01 15
+name_no_class: Part Tray Thin 08 01 15
+name_no_color: 080115
+name_no_size: 08 01 15
+name_no_type: Tray Thin 08 01 15
+oomp_key: oomp_oobb_part_tray_thin_08_01_15
+oomp_word: bear cloud office
+oomp_word_emoji: ':bear: :cloud: :office:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':cloud:'
+- ':office:'
+oomp_word_list:
+- bear
+- cloud
+- office
+part_number: ''
+size: tray_thin
+type: part

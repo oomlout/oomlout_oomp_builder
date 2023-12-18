@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_06
+directory: parts/oobb_part_plate_09_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_06
+id: oobb_part_plate_09_01_06
+id_no_class: part_plate_09_01_06
+id_no_color: 090106
+id_no_size: 09_01_06
+id_no_type: plate_09_01_06
+manufacturer: ''
+md5: be62c4913ed54a87196fc436a35770c8
+md5_10: be62c4913e
+md5_10_upper: BE62C4913E
+md5_5: be62c
+md5_5_upper: BE62C
+md5_6: be62c4
+md5_6_alpha: 7ffes
+md5_6_alpha_upper: 7FFES
+md5_6_upper: BE62C4
+name: Oobb Part Plate 09 01 06
+name_no_class: Part Plate 09 01 06
+name_no_color: 090106
+name_no_size: 09 01 06
+name_no_type: Plate 09 01 06
+oomp_key: oomp_oobb_part_plate_09_01_06
+oomp_word: ramen tulip cookie
+oomp_word_emoji: ':ramen: :tulip: :cookie:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':tulip:'
+- ':cookie:'
+oomp_word_list:
+- ramen
+- tulip
+- cookie
+part_number: ''
+size: plate
+type: part

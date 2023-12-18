@@ -1,0 +1,40 @@
+classification: hardware
+color: 5316_size
+description_extra: ''
+description_main: 80_mm_id_170_mm_od_68.26_mm_depth
+directory: parts/hardware_bearing_5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+id: hardware_bearing_5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+id_no_class: bearing_5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+id_no_color: 80_mm_id_170_mm_od_68.26_mm_depth
+id_no_size: 5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+id_no_type: 5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+manufacturer: ''
+md5: 33c242c474501b9b761946b01e4aa304
+md5_10: 33c242c474
+md5_10_upper: 33C242C474
+md5_5: 33c24
+md5_5_upper: 33C24
+md5_6: 33c242
+md5_6_alpha: 20pc2
+md5_6_alpha_upper: 20PC2
+md5_6_upper: 33C242
+name: Hardware Bearing 5300 Series 5316 Size 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_class: Bearing 5300 Series 5316 Size 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_color: 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_size: 5316 Size 80 Mm Id 170 Mm Od 68.26 Mm Depth
+name_no_type: 5300 Series 5316 Size 80 Mm Id 170 Mm Od 68.26 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5316_size_80_mm_id_170_mm_od_68.26_mm_depth
+oomp_word: dog birthday sheep
+oomp_word_emoji: ':dog: :birthday: :sheep:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':birthday:'
+- ':sheep:'
+oomp_word_list:
+- dog
+- birthday
+- sheep
+part_number: ''
+size: 5300_series
+type: bearing

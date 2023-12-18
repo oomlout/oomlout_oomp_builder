@@ -1,0 +1,40 @@
+classification: hardware
+color: 633_size
+description_extra: ''
+description_main: 3_mm_id_13_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+id: hardware_bearing_600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+id_no_class: bearing_600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+id_no_color: 3_mm_id_13_mm_od_5_mm_depth
+id_no_size: 633_size_3_mm_id_13_mm_od_5_mm_depth
+id_no_type: 600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+manufacturer: ''
+md5: 6283bf00b87dbb308a04696182cc3e01
+md5_10: 6283bf00b8
+md5_10_upper: 6283BF00B8
+md5_5: 6283b
+md5_5_upper: 6283B
+md5_6: 6283bf
+md5_6_alpha: 3udof
+md5_6_alpha_upper: 3UDOF
+md5_6_upper: 6283BF
+name: Hardware Bearing 600 Series 633 Size 3 Mm Id 13 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 633 Size 3 Mm Id 13 Mm Od 5 Mm Depth
+name_no_color: 3 Mm Id 13 Mm Od 5 Mm Depth
+name_no_size: 633 Size 3 Mm Id 13 Mm Od 5 Mm Depth
+name_no_type: 600 Series 633 Size 3 Mm Id 13 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_633_size_3_mm_id_13_mm_od_5_mm_depth
+oomp_word: tulip lock egg
+oomp_word_emoji: ':tulip: :lock: :egg:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':lock:'
+- ':egg:'
+oomp_word_list:
+- tulip
+- lock
+- egg
+part_number: ''
+size: 600_series
+type: bearing

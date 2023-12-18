@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_15'
+directory: parts/oobb_part_plate_04_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_15
+id: oobb_part_plate_04_01_15
+id_no_class: part_plate_04_01_15
+id_no_color: '040115'
+id_no_size: '04_01_15'
+id_no_type: plate_04_01_15
+manufacturer: ''
+md5: 2c43438ded7c24449aa6e406c4c846bf
+md5_10: 2c43438ded
+md5_10_upper: 2C43438DED
+md5_5: 2c434
+md5_5_upper: 2C434
+md5_6: 2c4343
+md5_6_alpha: 1q69v
+md5_6_alpha_upper: 1Q69V
+md5_6_upper: 2C4343
+name: Oobb Part Plate 04 01 15
+name_no_class: Part Plate 04 01 15
+name_no_color: '040115'
+name_no_size: 04 01 15
+name_no_type: Plate 04 01 15
+oomp_key: oomp_oobb_part_plate_04_01_15
+oomp_word: snowflake elephant elephant
+oomp_word_emoji: ':snowflake: :elephant: :elephant:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':elephant:'
+- ':elephant:'
+oomp_word_list:
+- snowflake
+- elephant
+- elephant
+part_number: ''
+size: plate
+type: part

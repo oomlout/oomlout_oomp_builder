@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3300000_ohm
+directory: parts/electronic_resistor_0603_3300000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300000_ohm
+id: electronic_resistor_0603_3300000_ohm
+id_no_class: resistor_0603_3300000_ohm
+id_no_color: 3300000ohm
+id_no_size: 3300000_ohm
+id_no_type: 0603_3300000_ohm
+manufacturer: ''
+md5: 4e6b3cb84582efd3086feb34f1a51205
+md5_10: 4e6b3cb845
+md5_10_upper: 4E6B3CB845
+md5_5: 4e6b3
+md5_5_upper: 4E6B3
+md5_6: 4e6b3c
+md5_6_alpha: 325h8
+md5_6_alpha_upper: 325H8
+md5_6_upper: 4E6B3C
+name: Electronic Resistor 0603 3300000 Ohm
+name_no_class: Resistor 0603 3300000 Ohm
+name_no_color: 3300000Ohm
+name_no_size: 3300000 Ohm
+name_no_type: 0603 3300000 Ohm
+oomp_key: oomp_electronic_resistor_0603_3300000_ohm
+oomp_word: honeybee chestnut pig
+oomp_word_emoji: ':honeybee: :chestnut: :pig:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':chestnut:'
+- ':pig:'
+oomp_word_list:
+- honeybee
+- chestnut
+- pig
+part_number: ''
+size: '0603'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_05_12'
+directory: parts/oobb_part_tray_vertical_07_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_05_12
+id: oobb_part_tray_vertical_07_05_12
+id_no_class: part_tray_vertical_07_05_12
+id_no_color: '070512'
+id_no_size: '07_05_12'
+id_no_type: tray_vertical_07_05_12
+manufacturer: ''
+md5: e34e3a65ebe318e0a68d9dd3c6f42305
+md5_10: e34e3a65eb
+md5_10_upper: E34E3A65EB
+md5_5: e34e3
+md5_5_upper: E34E3
+md5_6: e34e3a
+md5_6_alpha: 8vad6
+md5_6_alpha_upper: 8VAD6
+md5_6_upper: E34E3A
+name: Oobb Part Tray Vertical 07 05 12
+name_no_class: Part Tray Vertical 07 05 12
+name_no_color: '070512'
+name_no_size: 07 05 12
+name_no_type: Tray Vertical 07 05 12
+oomp_key: oomp_oobb_part_tray_vertical_07_05_12
+oomp_word: rowboat honeybee koala
+oomp_word_emoji: ':rowboat: :honeybee: :koala:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':honeybee:'
+- ':koala:'
+oomp_word_list:
+- rowboat
+- honeybee
+- koala
+part_number: ''
+size: tray_vertical
+type: part

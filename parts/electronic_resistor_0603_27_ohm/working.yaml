@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27_ohm
+directory: parts/electronic_resistor_0603_27_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_27_ohm
+id: electronic_resistor_0603_27_ohm
+id_no_class: resistor_0603_27_ohm
+id_no_color: 27ohm
+id_no_size: 27_ohm
+id_no_type: 0603_27_ohm
+manufacturer: ''
+md5: e595d51196291047fe02e340c3d9d489
+md5_10: e595d51196
+md5_10_upper: E595D51196
+md5_5: e595d
+md5_5_upper: E595D
+md5_6: e595d5
+md5_6_alpha: 8yhn9
+md5_6_alpha_upper: 8YHN9
+md5_6_upper: E595D5
+name: Electronic Resistor 0603 27 Ohm
+name_no_class: Resistor 0603 27 Ohm
+name_no_color: 27Ohm
+name_no_size: 27 Ohm
+name_no_type: 0603 27 Ohm
+oomp_key: oomp_electronic_resistor_0603_27_ohm
+oomp_word: rocket telescope house
+oomp_word_emoji: ':rocket: :telescope: :house:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':telescope:'
+- ':house:'
+oomp_word_list:
+- rocket
+- telescope
+- house
+part_number: ''
+size: '0603'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_12'
+directory: parts/oobb_part_tray_10_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_10_12
+id: oobb_part_tray_10_10_12
+id_no_class: part_tray_10_10_12
+id_no_color: '101012'
+id_no_size: '10_10_12'
+id_no_type: tray_10_10_12
+manufacturer: ''
+md5: 33642699d9cdddc1d506abe491dd7095
+md5_10: 33642699d9
+md5_10_upper: 33642699D9
+md5_5: '33642'
+md5_5_upper: '33642'
+md5_6: '336426'
+md5_6_alpha: 206qu
+md5_6_alpha_upper: 206QU
+md5_6_upper: '336426'
+name: Oobb Part Tray 10 10 12
+name_no_class: Part Tray 10 10 12
+name_no_color: '101012'
+name_no_size: 10 10 12
+name_no_type: Tray 10 10 12
+oomp_key: oomp_oobb_part_tray_10_10_12
+oomp_word: dog sunflower eyes
+oomp_word_emoji: ':dog: :sunflower: :eyes:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':sunflower:'
+- ':eyes:'
+oomp_word_list:
+- dog
+- sunflower
+- eyes
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_03'
+directory: parts/oobb_part_plate_06_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_05_03
+id: oobb_part_plate_06_05_03
+id_no_class: part_plate_06_05_03
+id_no_color: '060503'
+id_no_size: '06_05_03'
+id_no_type: plate_06_05_03
+manufacturer: ''
+md5: 9cdcfa83d1c24724850a695f3990b181
+md5_10: 9cdcfa83d1
+md5_10_upper: 9CDCFA83D1
+md5_5: 9cdcf
+md5_5_upper: 9CDCF
+md5_6: 9cdcfa
+md5_6_alpha: 64c8q
+md5_6_alpha_upper: 64C8Q
+md5_6_upper: 9CDCFA
+name: Oobb Part Plate 06 05 03
+name_no_class: Part Plate 06 05 03
+name_no_color: '060503'
+name_no_size: 06 05 03
+name_no_type: Plate 06 05 03
+oomp_key: oomp_oobb_part_plate_06_05_03
+oomp_word: spades factory nine
+oomp_word_emoji: ':spades: :factory: :nine:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':factory:'
+- ':nine:'
+oomp_word_list:
+- spades
+- factory
+- nine
+part_number: ''
+size: plate
+type: part

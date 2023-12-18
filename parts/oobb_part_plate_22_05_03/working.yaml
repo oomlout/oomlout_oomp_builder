@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '22_05_03'
+directory: parts/oobb_part_plate_22_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_05_03
+id: oobb_part_plate_22_05_03
+id_no_class: part_plate_22_05_03
+id_no_color: '220503'
+id_no_size: '22_05_03'
+id_no_type: plate_22_05_03
+manufacturer: ''
+md5: 4b2ffb7682f864d6da7454682aaff883
+md5_10: 4b2ffb7682
+md5_10_upper: 4B2FFB7682
+md5_5: 4b2ff
+md5_5_upper: 4B2FF
+md5_6: 4b2ffb
+md5_6_alpha: 2xm2j
+md5_6_alpha_upper: 2XM2J
+md5_6_upper: 4B2FFB
+name: Oobb Part Plate 22 05 03
+name_no_class: Part Plate 22 05 03
+name_no_color: '220503'
+name_no_size: 22 05 03
+name_no_type: Plate 22 05 03
+oomp_key: oomp_oobb_part_plate_22_05_03
+oomp_word: penguin cyclone ok
+oomp_word_emoji: ':penguin: :cyclone: :ok:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':cyclone:'
+- ':ok:'
+oomp_word_list:
+- penguin
+- cyclone
+- ok
+part_number: ''
+size: plate
+type: part

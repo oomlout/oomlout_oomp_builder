@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_6_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_6_mm_penny
+id: hardware_washer_6_mm_penny
+id_no_class: washer_6_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 6_mm_penny
+manufacturer: ''
+md5: 2109ba8a174cce42de73eff99187a7d1
+md5_10: 2109ba8a17
+md5_10_upper: 2109BA8A17
+md5_5: 2109b
+md5_5_upper: 2109B
+md5_6: 2109ba
+md5_6_alpha: 1aenu
+md5_6_alpha_upper: 1AENU
+md5_6_upper: 2109BA
+name: Hardware Washer 6 Mm Penny
+name_no_class: Washer 6 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 6 Mm Penny
+oomp_key: oomp_hardware_washer_6_mm_penny
+oomp_word: feet angry spaghetti
+oomp_word_emoji: ':feet: :angry: :spaghetti:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':angry:'
+- ':spaghetti:'
+oomp_word_list:
+- feet
+- angry
+- spaghetti
+part_number: ''
+size: 6_mm
+type: washer

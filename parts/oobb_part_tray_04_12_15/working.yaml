@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_12_15'
+directory: parts/oobb_part_tray_04_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_15
+id: oobb_part_tray_04_12_15
+id_no_class: part_tray_04_12_15
+id_no_color: '041215'
+id_no_size: '04_12_15'
+id_no_type: tray_04_12_15
+manufacturer: ''
+md5: c9b570dfa553ea28337b5327b121185a
+md5_10: c9b570dfa5
+md5_10_upper: C9B570DFA5
+md5_5: c9b57
+md5_5_upper: C9B57
+md5_6: c9b570
+md5_6_alpha: 7vbzk
+md5_6_alpha_upper: 7VBZK
+md5_6_upper: C9B570
+name: Oobb Part Tray 04 12 15
+name_no_class: Part Tray 04 12 15
+name_no_color: '041215'
+name_no_size: 04 12 15
+name_no_type: Tray 04 12 15
+oomp_key: oomp_oobb_part_tray_04_12_15
+oomp_word: lemon tea squirrel
+oomp_word_emoji: ':lemon: :tea: :squirrel:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':tea:'
+- ':squirrel:'
+oomp_word_list:
+- lemon
+- tea
+- squirrel
+part_number: ''
+size: tray
+type: part

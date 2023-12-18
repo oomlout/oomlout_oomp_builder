@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_06_12'
+directory: parts/oobb_part_tray_03_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_06_12
+id: oobb_part_tray_03_06_12
+id_no_class: part_tray_03_06_12
+id_no_color: '030612'
+id_no_size: '03_06_12'
+id_no_type: tray_03_06_12
+manufacturer: ''
+md5: acaa444d5b80c8d9450f2c39e2136706
+md5_10: acaa444d5b
+md5_10_upper: ACAA444D5B
+md5_5: acaa4
+md5_5_upper: ACAA4
+md5_6: acaa44
+md5_6_alpha: 6qjb8
+md5_6_alpha_upper: 6QJB8
+md5_6_upper: ACAA44
+name: Oobb Part Tray 03 06 12
+name_no_class: Part Tray 03 06 12
+name_no_color: '030612'
+name_no_size: 03 06 12
+name_no_type: Tray 03 06 12
+oomp_key: oomp_oobb_part_tray_03_06_12
+oomp_word: shirt lipstick panda_face
+oomp_word_emoji: ':shirt: :lipstick: :panda_face:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':lipstick:'
+- ':panda_face:'
+oomp_word_list:
+- shirt
+- lipstick
+- panda_face
+part_number: ''
+size: tray
+type: part

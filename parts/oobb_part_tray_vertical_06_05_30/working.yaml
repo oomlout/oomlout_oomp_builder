@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_30'
+directory: parts/oobb_part_tray_vertical_06_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_30
+id: oobb_part_tray_vertical_06_05_30
+id_no_class: part_tray_vertical_06_05_30
+id_no_color: '060530'
+id_no_size: '06_05_30'
+id_no_type: tray_vertical_06_05_30
+manufacturer: ''
+md5: 2dc9f6b9470b4f8326214aa9b1de36ca
+md5_10: 2dc9f6b947
+md5_10_upper: 2DC9F6B947
+md5_5: 2dc9f
+md5_5_upper: 2DC9F
+md5_6: 2dc9f6
+md5_6_alpha: 1sbg6
+md5_6_alpha_upper: 1SBG6
+md5_6_upper: 2DC9F6
+name: Oobb Part Tray Vertical 06 05 30
+name_no_class: Part Tray Vertical 06 05 30
+name_no_color: '060530'
+name_no_size: 06 05 30
+name_no_type: Tray Vertical 06 05 30
+oomp_key: oomp_oobb_part_tray_vertical_06_05_30
+oomp_word: snowman lemon five
+oomp_word_emoji: ':snowman: :lemon: :five:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':lemon:'
+- ':five:'
+oomp_word_list:
+- snowman
+- lemon
+- five
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_a
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_a
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_a
+id: oobb_part_bunting_alphabet_03_01_ex_a
+id_no_class: part_bunting_alphabet_03_01_ex_a
+id_no_color: 0301exa
+id_no_size: 03_01_ex_a
+id_no_type: bunting_alphabet_03_01_ex_a
+manufacturer: ''
+md5: 763852a69f6bb9ddd56ecadbffbf94f1
+md5_10: 763852a69f
+md5_10_upper: 763852A69F
+md5_5: '76385'
+md5_5_upper: '76385'
+md5_6: '763852'
+md5_6_alpha: 4m24y
+md5_6_alpha_upper: 4M24Y
+md5_6_upper: '763852'
+name: Oobb Part Bunting Alphabet 03 01 Ex A
+name_no_class: Part Bunting Alphabet 03 01 Ex A
+name_no_color: 0301Exa
+name_no_size: 03 01 Ex A
+name_no_type: Bunting Alphabet 03 01 Ex A
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_a
+oomp_word: santa frog octopus
+oomp_word_emoji: ':santa: :frog: :octopus:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':frog:'
+- ':octopus:'
+oomp_word_list:
+- santa
+- frog
+- octopus
+part_number: ''
+size: bunting_alphabet
+type: part

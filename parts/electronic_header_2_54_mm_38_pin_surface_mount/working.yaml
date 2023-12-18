@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 38_pin
+directory: parts/electronic_header_2_54_mm_38_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_surface_mount
+id: electronic_header_2_54_mm_38_pin_surface_mount
+id_no_class: header_2_54_mm_38_pin_surface_mount
+id_no_color: 38pinsurfacemount
+id_no_size: 38_pin_surface_mount
+id_no_type: 2_54_mm_38_pin_surface_mount
+manufacturer: ''
+md5: e9fe12e37ec0fbd01b7914149e3ebdf1
+md5_10: e9fe12e37e
+md5_10_upper: E9FE12E37E
+md5_5: e9fe1
+md5_5_upper: E9FE1
+md5_6: e9fe12
+md5_6_alpha: 94oia
+md5_6_alpha_upper: 94OIA
+md5_6_upper: E9FE12
+name: Electronic Header 2 54 Mm 38 Pin Surface Mount
+name_no_class: Header 2 54 Mm 38 Pin Surface Mount
+name_no_color: 38Pinsurfacemount
+name_no_size: 38 Pin Surface Mount
+name_no_type: 2 54 Mm 38 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_38_pin_surface_mount
+oomp_word: bike recycle anger
+oomp_word_emoji: ':bike: :recycle: :anger:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':recycle:'
+- ':anger:'
+oomp_word_list:
+- bike
+- recycle
+- anger
+part_number: ''
+size: 2_54_mm
+type: header

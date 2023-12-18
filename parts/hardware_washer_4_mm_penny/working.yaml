@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_4_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_4_mm_penny
+id: hardware_washer_4_mm_penny
+id_no_class: washer_4_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 4_mm_penny
+manufacturer: ''
+md5: 649a49b222cb031650a0b9a342fe484d
+md5_10: 649a49b222
+md5_10_upper: 649A49B222
+md5_5: 649a4
+md5_5_upper: 649A4
+md5_6: 649a49
+md5_6_alpha: 3xb9l
+md5_6_alpha_upper: 3XB9L
+md5_6_upper: 649A49
+name: Hardware Washer 4 Mm Penny
+name_no_class: Washer 4 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 4 Mm Penny
+oomp_key: oomp_hardware_washer_4_mm_penny
+oomp_word: sunflower golf hatching_chick
+oomp_word_emoji: ':sunflower: :golf: :hatching_chick:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':golf:'
+- ':hatching_chick:'
+oomp_word_list:
+- sunflower
+- golf
+- hatching_chick
+part_number: ''
+size: 4_mm
+type: washer

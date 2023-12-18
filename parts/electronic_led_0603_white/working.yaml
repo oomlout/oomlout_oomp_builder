@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white
+id: electronic_led_0603_white
+id_no_class: led_0603_white
+id_no_color: white
+id_no_size: white
+id_no_type: 0603_white
+manufacturer: ''
+md5: 38354b7df7b71e990bfa750bcdf943fd
+md5_10: 38354b7df7
+md5_10_upper: 38354B7DF7
+md5_5: '38354'
+md5_5_upper: '38354'
+md5_6: 38354b
+md5_6_alpha: 26ybv
+md5_6_alpha_upper: 26YBV
+md5_6_upper: 38354B
+name: Electronic Led 0603 White
+name_no_class: Led 0603 White
+name_no_color: White
+name_no_size: White
+name_no_type: 0603 White
+oomp_key: oomp_electronic_led_0603_white
+oomp_word: frog hamster penguin
+oomp_word_emoji: ':frog: :hamster: :penguin:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':hamster:'
+- ':penguin:'
+oomp_word_list:
+- frog
+- hamster
+- penguin
+part_number: ''
+size: '0603'
+type: led

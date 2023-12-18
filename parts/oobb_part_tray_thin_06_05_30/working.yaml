@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_30'
+directory: parts/oobb_part_tray_thin_06_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_05_30
+id: oobb_part_tray_thin_06_05_30
+id_no_class: part_tray_thin_06_05_30
+id_no_color: '060530'
+id_no_size: '06_05_30'
+id_no_type: tray_thin_06_05_30
+manufacturer: ''
+md5: 72c57c3bb754b4dd92d563634a70e2ac
+md5_10: 72c57c3bb7
+md5_10_upper: 72C57C3BB7
+md5_5: 72c57
+md5_5_upper: 72C57
+md5_6: 72c57c
+md5_6_alpha: 4h7r0
+md5_6_alpha_upper: 4H7R0
+md5_6_upper: 72C57C
+name: Oobb Part Tray Thin 06 05 30
+name_no_class: Part Tray Thin 06 05 30
+name_no_color: '060530'
+name_no_size: 06 05 30
+name_no_type: Tray Thin 06 05 30
+oomp_key: oomp_oobb_part_tray_thin_06_05_30
+oomp_word: dolls candy tv
+oomp_word_emoji: ':dolls: :candy: :tv:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':candy:'
+- ':tv:'
+oomp_word_list:
+- dolls
+- candy
+- tv
+part_number: ''
+size: tray_thin
+type: part

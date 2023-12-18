@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 4_pin
+directory: parts/electronic_socket_2_54_mm_4_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long
+id: electronic_socket_2_54_mm_4_pin_through_hole_long
+id_no_class: socket_2_54_mm_4_pin_through_hole_long
+id_no_color: 4pinthroughholelong
+id_no_size: 4_pin_through_hole_long
+id_no_type: 2_54_mm_4_pin_through_hole_long
+manufacturer: ''
+md5: c1835e2fbb1816dccea731b19e50eaf6
+md5_10: c1835e2fbb
+md5_10_upper: C1835E2FBB
+md5_5: c1835
+md5_5_upper: C1835
+md5_6: c1835e
+md5_6_alpha: 7jtjy
+md5_6_alpha_upper: 7JTJY
+md5_6_upper: C1835E
+name: Electronic Socket 2 54 Mm 4 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 4 Pin Through Hole Long
+name_no_color: 4Pinthroughholelong
+name_no_size: 4 Pin Through Hole Long
+name_no_type: 2 54 Mm 4 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_4_pin_through_hole_long
+oomp_word: doughnut lock crocodile
+oomp_word_emoji: ':doughnut: :lock: :crocodile:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':lock:'
+- ':crocodile:'
+oomp_word_list:
+- doughnut
+- lock
+- crocodile
+part_number: ''
+size: 2_54_mm
+type: socket

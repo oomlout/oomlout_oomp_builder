@@ -1,0 +1,40 @@
+classification: hardware
+color: 6316_size
+description_extra: ''
+description_main: 80_mm_id_170_mm_od_39_mm_depth
+directory: parts/hardware_bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+id: hardware_bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+id_no_class: bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+id_no_color: 80_mm_id_170_mm_od_39_mm_depth
+id_no_size: 6316_size_80_mm_id_170_mm_od_39_mm_depth
+id_no_type: 6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+manufacturer: ''
+md5: 83d3c277b4ddf429cec9cda5b7148e8d
+md5_10: 83d3c277b4
+md5_10_upper: 83D3C277B4
+md5_5: 83d3c
+md5_5_upper: 83D3C
+md5_6: 83d3c2
+md5_6_alpha: '55682'
+md5_6_alpha_upper: '55682'
+md5_6_upper: 83D3C2
+name: Hardware Bearing 6300 Series 6316 Size 80 Mm Id 170 Mm Od 39 Mm Depth
+name_no_class: Bearing 6300 Series 6316 Size 80 Mm Id 170 Mm Od 39 Mm Depth
+name_no_color: 80 Mm Id 170 Mm Od 39 Mm Depth
+name_no_size: 6316 Size 80 Mm Id 170 Mm Od 39 Mm Depth
+name_no_type: 6300 Series 6316 Size 80 Mm Id 170 Mm Od 39 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
+oomp_word: lock tomato birthday
+oomp_word_emoji: ':lock: :tomato: :birthday:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':tomato:'
+- ':birthday:'
+oomp_word_list:
+- lock
+- tomato
+- birthday
+part_number: ''
+size: 6300_series
+type: bearing

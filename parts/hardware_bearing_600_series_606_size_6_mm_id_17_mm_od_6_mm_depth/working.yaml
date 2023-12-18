@@ -1,0 +1,40 @@
+classification: hardware
+color: 606_size
+description_extra: ''
+description_main: 6_mm_id_17_mm_od_6_mm_depth
+directory: parts/hardware_bearing_600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+id: hardware_bearing_600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_class: bearing_600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_color: 6_mm_id_17_mm_od_6_mm_depth
+id_no_size: 606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_type: 600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+manufacturer: ''
+md5: a795a1608c179f5904eb6928596eed7c
+md5_10: a795a1608c
+md5_10_upper: A795A1608C
+md5_5: a795a
+md5_5_upper: A795A
+md5_6: a795a1
+md5_6_alpha: 6jee9
+md5_6_alpha_upper: 6JEE9
+md5_6_upper: A795A1
+name: Hardware Bearing 600 Series 606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_class: Bearing 600 Series 606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_color: 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_size: 606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_type: 600 Series 606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_606_size_6_mm_id_17_mm_od_6_mm_depth
+oomp_word: guitar telescope trophy
+oomp_word_emoji: ':guitar: :telescope: :trophy:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':telescope:'
+- ':trophy:'
+oomp_word_list:
+- guitar
+- telescope
+- trophy
+part_number: ''
+size: 600_series
+type: bearing

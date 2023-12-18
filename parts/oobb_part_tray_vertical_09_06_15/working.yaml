@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_15
+directory: parts/oobb_part_tray_vertical_09_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_06_15
+id: oobb_part_tray_vertical_09_06_15
+id_no_class: part_tray_vertical_09_06_15
+id_no_color: 090615
+id_no_size: 09_06_15
+id_no_type: tray_vertical_09_06_15
+manufacturer: ''
+md5: d8a750ada4329af5480f3a59be580b40
+md5_10: d8a750ada4
+md5_10_upper: D8A750ADA4
+md5_5: d8a75
+md5_5_upper: D8A75
+md5_6: d8a750
+md5_6_alpha: 8gbps
+md5_6_alpha_upper: 8GBPS
+md5_6_upper: D8A750
+name: Oobb Part Tray Vertical 09 06 15
+name_no_class: Part Tray Vertical 09 06 15
+name_no_color: 090615
+name_no_size: 09 06 15
+name_no_type: Tray Vertical 09 06 15
+oomp_key: oomp_oobb_part_tray_vertical_09_06_15
+oomp_word: hospital guitar beetle
+oomp_word_emoji: ':hospital: :guitar: :beetle:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':guitar:'
+- ':beetle:'
+oomp_word_list:
+- hospital
+- guitar
+- beetle
+part_number: ''
+size: tray_vertical
+type: part

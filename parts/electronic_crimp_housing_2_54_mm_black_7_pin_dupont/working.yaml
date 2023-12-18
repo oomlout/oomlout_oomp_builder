@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 7_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_7_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_7_pin_dupont
+id_no_color: 7_pin_dupont
+id_no_size: black_7_pin_dupont
+id_no_type: 2_54_mm_black_7_pin_dupont
+manufacturer: ''
+md5: 00ac109cc5cd23b617f8cd8a23194bfd
+md5_10: 00ac109cc5
+md5_10_upper: 00AC109CC5
+md5_5: 00ac1
+md5_5_upper: 00AC1
+md5_6: 00ac10
+md5_6_alpha: xzk
+md5_6_alpha_upper: XZK
+md5_6_upper: 00AC10
+name: Electronic Crimp Housing 2 54 Mm Black 7 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 7 Pin Dupont
+name_no_color: 7 Pin Dupont
+name_no_size: Black 7 Pin Dupont
+name_no_type: 2 54 Mm Black 7 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_7_pin_dupont
+oomp_word: bowtie shirt star
+oomp_word_emoji: ':bowtie: :shirt: :star:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':shirt:'
+- ':star:'
+oomp_word_list:
+- bowtie
+- shirt
+- star
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

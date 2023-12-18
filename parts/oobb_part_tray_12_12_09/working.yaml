@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_09'
+directory: parts/oobb_part_tray_12_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_12_09
+id: oobb_part_tray_12_12_09
+id_no_class: part_tray_12_12_09
+id_no_color: '121209'
+id_no_size: '12_12_09'
+id_no_type: tray_12_12_09
+manufacturer: ''
+md5: be077761ce159aac89097e2c6e3b9ed9
+md5_10: be077761ce
+md5_10_upper: BE077761CE
+md5_5: be077
+md5_5_upper: BE077
+md5_6: be0777
+md5_6_alpha: 7exdj
+md5_6_alpha_upper: 7EXDJ
+md5_6_upper: BE0777
+name: Oobb Part Tray 12 12 09
+name_no_class: Part Tray 12 12 09
+name_no_color: '121209'
+name_no_size: 12 12 09
+name_no_type: Tray 12 12 09
+oomp_key: oomp_oobb_part_tray_12_12_09
+oomp_word: ramen cry gift
+oomp_word_emoji: ':ramen: :cry: :gift:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':cry:'
+- ':gift:'
+oomp_word_list:
+- ramen
+- cry
+- gift
+part_number: ''
+size: tray
+type: part

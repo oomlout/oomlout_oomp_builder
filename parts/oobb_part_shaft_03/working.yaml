@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03'
+directory: parts/oobb_part_shaft_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03
+id: oobb_part_shaft_03
+id_no_class: part_shaft_03
+id_no_color: '03'
+id_no_size: '03'
+id_no_type: shaft_03
+manufacturer: ''
+md5: e61dd6dba4a8c9b139ff00e2740505f6
+md5_10: e61dd6dba4
+md5_10_upper: E61DD6DBA4
+md5_5: e61dd
+md5_5_upper: E61DD
+md5_6: e61dd6
+md5_6_alpha: 8z8ie
+md5_6_alpha_upper: 8Z8IE
+md5_6_upper: E61DD6
+name: Oobb Part Shaft 03
+name_no_class: Part Shaft 03
+name_no_color: '03'
+name_no_size: '03'
+name_no_type: Shaft 03
+oomp_key: oomp_oobb_part_shaft_03
+oomp_word: airplane baby school
+oomp_word_emoji: ':airplane: :baby: :school:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':baby:'
+- ':school:'
+oomp_word_list:
+- airplane
+- baby
+- school
+part_number: ''
+size: shaft
+type: part

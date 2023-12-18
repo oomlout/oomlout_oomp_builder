@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_09
+directory: parts/oobb_part_tray_thin_11_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_09
+id: oobb_part_tray_thin_11_1d5_09
+id_no_class: part_tray_thin_11_1d5_09
+id_no_color: 111d509
+id_no_size: 11_1d5_09
+id_no_type: tray_thin_11_1d5_09
+manufacturer: ''
+md5: 429f15164f6c15788e544cc1ba31dad5
+md5_10: 429f15164f
+md5_10_upper: 429F15164F
+md5_5: 429f1
+md5_5_upper: 429F1
+md5_6: 429f15
+md5_6_alpha: 2lkwl
+md5_6_alpha_upper: 2LKWL
+md5_6_upper: 429F15
+name: Oobb Part Tray Thin 11 1D5 09
+name_no_class: Part Tray Thin 11 1D5 09
+name_no_color: 111D509
+name_no_size: 11 1D5 09
+name_no_type: Tray Thin 11 1D5 09
+oomp_key: oomp_oobb_part_tray_thin_11_1d5_09
+oomp_word: sheep diamonds poop
+oomp_word_emoji: ':sheep: :diamonds: :poop:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':diamonds:'
+- ':poop:'
+oomp_word_list:
+- sheep
+- diamonds
+- poop
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+directory: parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id: oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_class: part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 030318nm16mmtapewidth2mmtapethicknessex2
+id_no_size: 03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_type: smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+md5: f30c770d06a5853c5de405ab3f57619d
+md5_10: f30c770d06
+md5_10_upper: F30C770D06
+md5_5: f30c7
+md5_5_upper: F30C7
+md5_6: f30c77
+md5_6_alpha: 9hegn
+md5_6_alpha_upper: 9HEGN
+md5_6_upper: F30C77
+name: Oobb Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_class: Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness
+  Ex 2
+name_no_color: 030318Nm16Mmtapewidth2Mmtapethicknessex2
+name_no_size: 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_type: Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+oomp_key: oomp_oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+oomp_word: two alien gift
+oomp_word_emoji: ':two: :alien: :gift:'
+oomp_word_emoji_list:
+- ':two:'
+- ':alien:'
+- ':gift:'
+oomp_word_list:
+- two
+- alien
+- gift
+part_number: ''
+size: smd_magazine
+type: part

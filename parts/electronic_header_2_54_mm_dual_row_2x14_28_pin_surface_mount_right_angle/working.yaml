@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x14_28_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+id_no_color: 2x1428pinsurfacemountrightangle
+id_no_size: 2x14_28_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 7ccb9a6578d47f67713f39a70339a6c6
+md5_10: 7ccb9a6578
+md5_10_upper: 7CCB9A6578
+md5_5: 7ccb9
+md5_5_upper: 7CCB9
+md5_6: 7ccb9a
+md5_6_alpha: 4vamy
+md5_6_alpha_upper: 4VAMY
+md5_6_upper: 7CCB9A
+name: Electronic Header 2 54 Mm Dual Row 2X14 28 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X14 28 Pin Surface Mount Right Angle
+name_no_color: 2X1428Pinsurfacemountrightangle
+name_no_size: 2X14 28 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X14 28 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount_right_angle
+oomp_word: tv grapes golf
+oomp_word_emoji: ':tv: :grapes: :golf:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':grapes:'
+- ':golf:'
+oomp_word_list:
+- tv
+- grapes
+- golf
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

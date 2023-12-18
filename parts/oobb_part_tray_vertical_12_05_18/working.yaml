@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_18'
+directory: parts/oobb_part_tray_vertical_12_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_05_18
+id: oobb_part_tray_vertical_12_05_18
+id_no_class: part_tray_vertical_12_05_18
+id_no_color: '120518'
+id_no_size: '12_05_18'
+id_no_type: tray_vertical_12_05_18
+manufacturer: ''
+md5: 6736e90756f6b94cabce70884f61d7ad
+md5_10: 6736e90756
+md5_10_upper: 6736E90756
+md5_5: 6736e
+md5_5_upper: 6736E
+md5_6: 6736e9
+md5_6_alpha: 40zc9
+md5_6_alpha_upper: 40ZC9
+md5_6_upper: 6736E9
+name: Oobb Part Tray Vertical 12 05 18
+name_no_class: Part Tray Vertical 12 05 18
+name_no_color: '120518'
+name_no_size: 12 05 18
+name_no_type: Tray Vertical 12 05 18
+oomp_key: oomp_oobb_part_tray_vertical_12_05_18
+oomp_word: herb rabbit bike
+oomp_word_emoji: ':herb: :rabbit: :bike:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':rabbit:'
+- ':bike:'
+oomp_word_list:
+- herb
+- rabbit
+- bike
+part_number: ''
+size: tray_vertical
+type: part

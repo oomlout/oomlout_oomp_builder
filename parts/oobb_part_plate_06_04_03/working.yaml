@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_04_03'
+directory: parts/oobb_part_plate_06_04_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_04_03
+id: oobb_part_plate_06_04_03
+id_no_class: part_plate_06_04_03
+id_no_color: '060403'
+id_no_size: '06_04_03'
+id_no_type: plate_06_04_03
+manufacturer: ''
+md5: 44b9e25952987853f5d80ed99ab1905b
+md5_10: 44b9e25952
+md5_10_upper: 44B9E25952
+md5_5: 44b9e
+md5_5_upper: 44B9E
+md5_6: 44b9e2
+md5_6_alpha: 2ojc2
+md5_6_alpha_upper: 2OJC2
+md5_6_upper: 44B9E2
+name: Oobb Part Plate 06 04 03
+name_no_class: Part Plate 06 04 03
+name_no_color: '060403'
+name_no_size: 06 04 03
+name_no_type: Plate 06 04 03
+oomp_key: oomp_oobb_part_plate_06_04_03
+oomp_word: panda_face fries sailboat
+oomp_word_emoji: ':panda_face: :fries: :sailboat:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':fries:'
+- ':sailboat:'
+oomp_word_list:
+- panda_face
+- fries
+- sailboat
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6900_size
+description_extra: ''
+description_main: 10_mm_id_22_mm_od_6_mm_depth
+directory: parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+id: hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+id_no_class: bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+id_no_color: 10_mm_id_22_mm_od_6_mm_depth
+id_no_size: 6900_size_10_mm_id_22_mm_od_6_mm_depth
+id_no_type: 6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+manufacturer: ''
+md5: 084dedde554315b2cb33174f991caeb3
+md5_10: 084dedde55
+md5_10_upper: 084DEDDE55
+md5_5: 084de
+md5_5_upper: 084DE
+md5_6: 084ded
+md5_6_alpha: bnxp
+md5_6_alpha_upper: BNXP
+md5_6_upper: 084DED
+name: Hardware Bearing 6900 Series 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth
+name_no_class: Bearing 6900 Series 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth
+name_no_color: 10 Mm Id 22 Mm Od 6 Mm Depth
+name_no_size: 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth
+name_no_type: 6900 Series 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+oomp_word: scream bug bus
+oomp_word_emoji: ':scream: :bug: :bus:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':bug:'
+- ':bus:'
+oomp_word_list:
+- scream
+- bug
+- bus
+part_number: ''
+size: 6900_series
+type: bearing

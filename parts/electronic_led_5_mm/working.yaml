@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm
+id: electronic_led_5_mm
+id_no_class: led_5_mm
+id_no_color: 5mm
+id_no_size: 5_mm
+id_no_type: 5_mm
+manufacturer: ''
+md5: 7297cd778d1471689ae0db398d716719
+md5_10: 7297cd778d
+md5_10_upper: 7297CD778D
+md5_5: 7297c
+md5_5_upper: 7297C
+md5_6: 7297cd
+md5_6_alpha: 4gyq5
+md5_6_alpha_upper: 4GYQ5
+md5_6_upper: 7297CD
+name: Electronic Led 5 Mm
+name_no_class: Led 5 Mm
+name_no_color: 5Mm
+name_no_size: 5 Mm
+name_no_type: 5 Mm
+oomp_key: oomp_electronic_led_5_mm
+oomp_word: dolls baseball strawberry
+oomp_word_emoji: ':dolls: :baseball: :strawberry:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':baseball:'
+- ':strawberry:'
+oomp_word_list:
+- dolls
+- baseball
+- strawberry
+part_number: ''
+size: 5_mm
+type: led

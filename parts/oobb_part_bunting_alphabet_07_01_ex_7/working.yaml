@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_7
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_7
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_7
+id: oobb_part_bunting_alphabet_07_01_ex_7
+id_no_class: part_bunting_alphabet_07_01_ex_7
+id_no_color: 0701ex7
+id_no_size: 07_01_ex_7
+id_no_type: bunting_alphabet_07_01_ex_7
+manufacturer: ''
+md5: 96db4b4d2a2e178cc030fb57141f4011
+md5_10: 96db4b4d2a
+md5_10_upper: 96DB4B4D2A
+md5_5: 96db4
+md5_5_upper: 96DB4
+md5_6: 96db4b
+md5_6_alpha: 5vwi3
+md5_6_alpha_upper: 5VWI3
+md5_6_upper: 96DB4B
+name: Oobb Part Bunting Alphabet 07 01 Ex 7
+name_no_class: Part Bunting Alphabet 07 01 Ex 7
+name_no_color: 0701Ex7
+name_no_size: 07 01 Ex 7
+name_no_type: Bunting Alphabet 07 01 Ex 7
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_7
+oomp_word: basketball tent penguin
+oomp_word_emoji: ':basketball: :tent: :penguin:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':tent:'
+- ':penguin:'
+oomp_word_list:
+- basketball
+- tent
+- penguin
+part_number: ''
+size: bunting_alphabet
+type: part

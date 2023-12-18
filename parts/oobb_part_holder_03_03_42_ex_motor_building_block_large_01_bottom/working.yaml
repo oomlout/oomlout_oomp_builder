@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_42_ex_motor_building_block_large_01_bottom
+directory: parts/oobb_part_holder_03_03_42_ex_motor_building_block_large_01_bottom
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_42_ex_motor_building_block_large_01_bottom
+id: oobb_part_holder_03_03_42_ex_motor_building_block_large_01_bottom
+id_no_class: part_holder_03_03_42_ex_motor_building_block_large_01_bottom
+id_no_color: 030342exmotorbuildingblocklarge01bottom
+id_no_size: 03_03_42_ex_motor_building_block_large_01_bottom
+id_no_type: holder_03_03_42_ex_motor_building_block_large_01_bottom
+manufacturer: ''
+md5: 68abdfa8becf5c328e3107e0836c1ed5
+md5_10: 68abdfa8be
+md5_10_upper: 68ABDFA8BE
+md5_5: 68abd
+md5_5_upper: 68ABD
+md5_6: 68abdf
+md5_6_alpha: 4310f
+md5_6_alpha_upper: 4310F
+md5_6_upper: 68ABDF
+name: Oobb Part Holder 03 03 42 Ex Motor Building Block Large 01 Bottom
+name_no_class: Part Holder 03 03 42 Ex Motor Building Block Large 01 Bottom
+name_no_color: 030342Exmotorbuildingblocklarge01Bottom
+name_no_size: 03 03 42 Ex Motor Building Block Large 01 Bottom
+name_no_type: Holder 03 03 42 Ex Motor Building Block Large 01 Bottom
+oomp_key: oomp_oobb_part_holder_03_03_42_ex_motor_building_block_large_01_bottom
+oomp_word: mushroom boot fountain
+oomp_word_emoji: ':mushroom: :boot: :fountain:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':boot:'
+- ':fountain:'
+oomp_word_list:
+- mushroom
+- boot
+- fountain
+part_number: ''
+size: holder
+type: part

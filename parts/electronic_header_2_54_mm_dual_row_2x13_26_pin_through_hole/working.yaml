@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x13_26_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x13_26_pin_through_hole
+id_no_color: 2x1326pinthroughhole
+id_no_size: 2x13_26_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x13_26_pin_through_hole
+manufacturer: ''
+md5: 9edb9e2a2ab210be2912037a60b80ff3
+md5_10: 9edb9e2a2a
+md5_10_upper: 9EDB9E2A2A
+md5_5: 9edb9
+md5_5_upper: 9EDB9
+md5_6: 9edb9e
+md5_6_alpha: 6753y
+md5_6_alpha_upper: 6753Y
+md5_6_upper: 9EDB9E
+name: Electronic Header 2 54 Mm Dual Row 2X13 26 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X13 26 Pin Through Hole
+name_no_color: 2X1326Pinthroughhole
+name_no_size: 2X13 26 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X13 26 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole
+oomp_word: clubs tent clubs
+oomp_word_emoji: ':clubs: :tent: :clubs:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':tent:'
+- ':clubs:'
+oomp_word_list:
+- clubs
+- tent
+- clubs
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

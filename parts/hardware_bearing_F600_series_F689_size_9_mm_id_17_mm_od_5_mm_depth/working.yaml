@@ -1,0 +1,40 @@
+classification: hardware
+color: F689_size
+description_extra: ''
+description_main: 9_mm_id_17_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+id_no_color: 9_mm_id_17_mm_od_5_mm_depth
+id_no_size: F689_size_9_mm_id_17_mm_od_5_mm_depth
+id_no_type: F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+manufacturer: ''
+md5: dc4e9f3df242341904edd064f85539c6
+md5_10: dc4e9f3df2
+md5_10_upper: DC4E9F3DF2
+md5_5: dc4e9
+md5_5_upper: DC4E9
+md5_6: dc4e9f
+md5_6_alpha: 8lggv
+md5_6_alpha_upper: 8LGGV
+md5_6_upper: DC4E9F
+name: Hardware Bearing F600 Series F689 Size 9 Mm Id 17 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F689 Size 9 Mm Id 17 Mm Od 5 Mm Depth
+name_no_color: 9 Mm Id 17 Mm Od 5 Mm Depth
+name_no_size: F689 Size 9 Mm Id 17 Mm Od 5 Mm Depth
+name_no_type: F600 Series F689 Size 9 Mm Id 17 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F689_size_9_mm_id_17_mm_od_5_mm_depth
+oomp_word: factory honeybee diamonds
+oomp_word_emoji: ':factory: :honeybee: :diamonds:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':honeybee:'
+- ':diamonds:'
+oomp_word_list:
+- factory
+- honeybee
+- diamonds
+part_number: ''
+size: F600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 390_ohm
+directory: parts/electronic_resistor_0201_390_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm
+id: electronic_resistor_0201_390_ohm
+id_no_class: resistor_0201_390_ohm
+id_no_color: 390ohm
+id_no_size: 390_ohm
+id_no_type: 0201_390_ohm
+manufacturer: ''
+md5: f421d2f94c62c3ad3f5a104e65cc099a
+md5_10: f421d2f94c
+md5_10_upper: F421D2F94C
+md5_5: f421d
+md5_5_upper: F421D
+md5_6: f421d2
+md5_6_alpha: 9ix8y
+md5_6_alpha_upper: 9IX8Y
+md5_6_upper: F421D2
+name: Electronic Resistor 0201 390 Ohm
+name_no_class: Resistor 0201 390 Ohm
+name_no_color: 390Ohm
+name_no_size: 390 Ohm
+name_no_type: 0201 390 Ohm
+oomp_key: oomp_electronic_resistor_0201_390_ohm
+oomp_word: three feet pineapple
+oomp_word_emoji: ':three: :feet: :pineapple:'
+oomp_word_emoji_list:
+- ':three:'
+- ':feet:'
+- ':pineapple:'
+oomp_word_list:
+- three
+- feet
+- pineapple
+part_number: ''
+size: '0201'
+type: resistor

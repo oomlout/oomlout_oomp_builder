@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_09_03'
+directory: parts/oobb_part_plate_15_09_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_09_03
+id: oobb_part_plate_15_09_03
+id_no_class: part_plate_15_09_03
+id_no_color: '150903'
+id_no_size: '15_09_03'
+id_no_type: plate_15_09_03
+manufacturer: ''
+md5: a7cbc907b3e176de1b42547ed9f06e1b
+md5_10: a7cbc907b3
+md5_10_upper: A7CBC907B3
+md5_5: a7cbc
+md5_5_upper: A7CBC
+md5_6: a7cbc9
+md5_6_alpha: 6jp3d
+md5_6_alpha_upper: 6JP3D
+md5_6_upper: A7CBC9
+name: Oobb Part Plate 15 09 03
+name_no_class: Part Plate 15 09 03
+name_no_color: '150903'
+name_no_size: 15 09 03
+name_no_type: Plate 15 09 03
+oomp_key: oomp_oobb_part_plate_15_09_03
+oomp_word: guitar grapes lemon
+oomp_word_emoji: ':guitar: :grapes: :lemon:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':grapes:'
+- ':lemon:'
+oomp_word_list:
+- guitar
+- grapes
+- lemon
+part_number: ''
+size: plate
+type: part

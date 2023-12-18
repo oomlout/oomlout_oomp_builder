@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '18_01_09'
+directory: parts/oobb_part_plate_18_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_01_09
+id: oobb_part_plate_18_01_09
+id_no_class: part_plate_18_01_09
+id_no_color: '180109'
+id_no_size: '18_01_09'
+id_no_type: plate_18_01_09
+manufacturer: ''
+md5: 395c6ffdb04b70727716e8a6bbdf2cc5
+md5_10: 395c6ffdb0
+md5_10_upper: 395C6FFDB0
+md5_5: 395c6
+md5_5_upper: 395C6
+md5_6: 395c6f
+md5_6_alpha: 28kmn
+md5_6_alpha_upper: 28KMN
+md5_6_upper: 395C6F
+name: Oobb Part Plate 18 01 09
+name_no_class: Part Plate 18 01 09
+name_no_color: '180109'
+name_no_size: 18 01 09
+name_no_type: Plate 18 01 09
+oomp_key: oomp_oobb_part_plate_18_01_09
+oomp_word: tiger ox moon
+oomp_word_emoji: ':tiger: :ox: :moon:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':ox:'
+- ':moon:'
+oomp_word_list:
+- tiger
+- ox
+- moon
+part_number: ''
+size: plate
+type: part

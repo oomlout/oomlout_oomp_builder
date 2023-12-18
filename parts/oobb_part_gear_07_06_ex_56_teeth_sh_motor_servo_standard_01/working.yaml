@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_ex_56_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+id_no_color: 0706ex56teethshmotorservostandard01
+id_no_size: 07_06_ex_56_teeth_sh_motor_servo_standard_01
+id_no_type: gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 0e6934d7eca9812b936a203f2014a4a3
+md5_10: 0e6934d7ec
+md5_10_upper: 0E6934D7EC
+md5_5: 0e693
+md5_5_upper: 0E693
+md5_6: 0e6934
+md5_6_alpha: k8qc
+md5_6_alpha_upper: K8QC
+md5_6_upper: 0E6934
+name: Oobb Part Gear 07 06 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 07 06 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_color: 0706Ex56Teethshmotorservostandard01
+name_no_size: 07 06 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 07 06 Ex 56 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_07_06_ex_56_teeth_sh_motor_servo_standard_01
+oomp_word: cupid cactus mouse
+oomp_word_emoji: ':cupid: :cactus: :mouse:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':cactus:'
+- ':mouse:'
+oomp_word_list:
+- cupid
+- cactus
+- mouse
+part_number: ''
+size: gear
+type: part

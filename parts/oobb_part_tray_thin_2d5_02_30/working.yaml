@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_30
+directory: parts/oobb_part_tray_thin_2d5_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_02_30
+id: oobb_part_tray_thin_2d5_02_30
+id_no_class: part_tray_thin_2d5_02_30
+id_no_color: 2d50230
+id_no_size: 2d5_02_30
+id_no_type: tray_thin_2d5_02_30
+manufacturer: ''
+md5: f171fdcbf37a74dd5b56b355141b14ee
+md5_10: f171fdcbf3
+md5_10_upper: F171FDCBF3
+md5_5: f171f
+md5_5_upper: F171F
+md5_6: f171fd
+md5_6_alpha: 9f5dp
+md5_6_alpha_upper: 9F5DP
+md5_6_upper: F171FD
+name: Oobb Part Tray Thin 2D5 02 30
+name_no_class: Part Tray Thin 2D5 02 30
+name_no_color: 2D50230
+name_no_size: 2D5 02 30
+name_no_type: Tray Thin 2D5 02 30
+oomp_key: oomp_oobb_part_tray_thin_2d5_02_30
+oomp_word: ticket bamboo parking
+oomp_word_emoji: ':ticket: :bamboo: :parking:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':bamboo:'
+- ':parking:'
+oomp_word_list:
+- ticket
+- bamboo
+- parking
+part_number: ''
+size: tray_thin
+type: part

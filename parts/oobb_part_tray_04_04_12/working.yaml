@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_04_12'
+directory: parts/oobb_part_tray_04_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_04_12
+id: oobb_part_tray_04_04_12
+id_no_class: part_tray_04_04_12
+id_no_color: '040412'
+id_no_size: '04_04_12'
+id_no_type: tray_04_04_12
+manufacturer: ''
+md5: 77b0c1f13e7fc0d07ddd73bd2d8f5f89
+md5_10: 77b0c1f13e
+md5_10_upper: 77B0C1F13E
+md5_5: 77b0c
+md5_5_upper: 77B0C
+md5_6: 77b0c1
+md5_6_alpha: 4o4ht
+md5_6_alpha_upper: 4O4HT
+md5_6_upper: 77B0C1
+name: Oobb Part Tray 04 04 12
+name_no_class: Part Tray 04 04 12
+name_no_color: '040412'
+name_no_size: 04 04 12
+name_no_type: Tray 04 04 12
+oomp_key: oomp_oobb_part_tray_04_04_12
+oomp_word: gift crown doughnut
+oomp_word_emoji: ':gift: :crown: :doughnut:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':crown:'
+- ':doughnut:'
+oomp_word_list:
+- gift
+- crown
+- doughnut
+part_number: ''
+size: tray
+type: part

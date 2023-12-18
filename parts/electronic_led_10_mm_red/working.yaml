@@ -1,0 +1,40 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red
+id: electronic_led_10_mm_red
+id_no_class: led_10_mm_red
+id_no_color: red
+id_no_size: red
+id_no_type: 10_mm_red
+manufacturer: ''
+md5: f3ee341dcc022670fa172c7f658f6966
+md5_10: f3ee341dcc
+md5_10_upper: F3EE341DCC
+md5_5: f3ee3
+md5_5_upper: F3EE3
+md5_6: f3ee34
+md5_6_alpha: 9in1w
+md5_6_alpha_upper: 9IN1W
+md5_6_upper: F3EE34
+name: Electronic Led 10 Mm Red
+name_no_class: Led 10 Mm Red
+name_no_color: Red
+name_no_size: Red
+name_no_type: 10 Mm Red
+oomp_key: oomp_electronic_led_10_mm_red
+oomp_word: two ambulance mouse
+oomp_word_emoji: ':two: :ambulance: :mouse:'
+oomp_word_emoji_list:
+- ':two:'
+- ':ambulance:'
+- ':mouse:'
+oomp_word_list:
+- two
+- ambulance
+- mouse
+part_number: ''
+size: 10_mm
+type: led

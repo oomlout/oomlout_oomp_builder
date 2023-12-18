@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 40_pin
+directory: parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_40_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_40_pin_surface_mount_right_angle
+id_no_color: 40pinsurfacemountrightangle
+id_no_size: 40_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_40_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 2f77b3898399f5543ac79361e0ed7b2f
+md5_10: 2f77b38983
+md5_10_upper: 2F77B38983
+md5_5: 2f77b
+md5_5_upper: 2F77B
+md5_6: 2f77b3
+md5_6_alpha: 1uoc3
+md5_6_alpha_upper: 1UOC3
+md5_6_upper: 2F77B3
+name: Electronic Header 2 54 Mm 40 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 40 Pin Surface Mount Right Angle
+name_no_color: 40Pinsurfacemountrightangle
+name_no_size: 40 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 40 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_40_pin_surface_mount_right_angle
+oomp_word: cyclone gift eyeglasses
+oomp_word_emoji: ':cyclone: :gift: :eyeglasses:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':gift:'
+- ':eyeglasses:'
+oomp_word_list:
+- cyclone
+- gift
+- eyeglasses
+part_number: ''
+size: 2_54_mm
+type: header

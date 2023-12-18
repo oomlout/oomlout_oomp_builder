@@ -1,0 +1,40 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: accelerometer
+directory: parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+id: electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+id_no_class: ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+id_no_color: accelerometer_sensortek_stk8321
+id_no_size: sensor_accelerometer_sensortek_stk8321
+id_no_type: lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+manufacturer: sensortek
+md5: 53a50685369ad5aa7c430e8df214d3c7
+md5_10: 53a5068536
+md5_10_upper: 53A5068536
+md5_5: 53a50
+md5_5_upper: 53A50
+md5_6: 53a506
+md5_6_alpha: 39hqe
+md5_6_alpha_upper: 39HQE
+md5_6_upper: 53A506
+name: Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321
+name_no_class: Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321
+name_no_color: Accelerometer Sensortek Stk8321
+name_no_size: Sensor Accelerometer Sensortek Stk8321
+name_no_type: Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321
+oomp_key: oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+oomp_word: fish headphones sleeping
+oomp_word_emoji: ':fish: :headphones: :sleeping:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':headphones:'
+- ':sleeping:'
+oomp_word_list:
+- fish
+- headphones
+- sleeping
+part_number: stk8321
+size: lga_12_pin_2_mm_x_2_mm
+type: ic

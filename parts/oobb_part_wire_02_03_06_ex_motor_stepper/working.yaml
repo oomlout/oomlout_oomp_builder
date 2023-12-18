@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_06_ex_motor_stepper
+directory: parts/oobb_part_wire_02_03_06_ex_motor_stepper
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_02_03_06_ex_motor_stepper
+id: oobb_part_wire_02_03_06_ex_motor_stepper
+id_no_class: part_wire_02_03_06_ex_motor_stepper
+id_no_color: 020306exmotorstepper
+id_no_size: 02_03_06_ex_motor_stepper
+id_no_type: wire_02_03_06_ex_motor_stepper
+manufacturer: ''
+md5: 3e922083b1ea419fd364413db3a44175
+md5_10: 3e922083b1
+md5_10_upper: 3E922083B1
+md5_5: 3e922
+md5_5_upper: 3E922
+md5_6: 3e9220
+md5_6_alpha: 2fw2o
+md5_6_alpha_upper: 2FW2O
+md5_6_upper: 3E9220
+name: Oobb Part Wire 02 03 06 Ex Motor Stepper
+name_no_class: Part Wire 02 03 06 Ex Motor Stepper
+name_no_color: 020306Exmotorstepper
+name_no_size: 02 03 06 Ex Motor Stepper
+name_no_type: Wire 02 03 06 Ex Motor Stepper
+oomp_key: oomp_oobb_part_wire_02_03_06_ex_motor_stepper
+oomp_word: monkey paperclip skull
+oomp_word_emoji: ':monkey: :paperclip: :skull:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':paperclip:'
+- ':skull:'
+oomp_word_list:
+- monkey
+- paperclip
+- skull
+part_number: ''
+size: wire
+type: part

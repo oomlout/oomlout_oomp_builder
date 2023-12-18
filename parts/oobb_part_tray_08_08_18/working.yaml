@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_08_18
+directory: parts/oobb_part_tray_08_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_08_18
+id: oobb_part_tray_08_08_18
+id_no_class: part_tray_08_08_18
+id_no_color: 080818
+id_no_size: 08_08_18
+id_no_type: tray_08_08_18
+manufacturer: ''
+md5: 5299f6562169d27cb935014e83e8bbab
+md5_10: 5299f65621
+md5_10_upper: 5299F65621
+md5_5: 5299f
+md5_5_upper: 5299F
+md5_6: 5299f6
+md5_6_alpha: 380za
+md5_6_alpha_upper: 380ZA
+md5_6_upper: 5299F6
+name: Oobb Part Tray 08 08 18
+name_no_class: Part Tray 08 08 18
+name_no_color: 080818
+name_no_size: 08 08 18
+name_no_type: Tray 08 08 18
+oomp_key: oomp_oobb_part_tray_08_08_18
+oomp_word: octopus bowling five
+oomp_word_emoji: ':octopus: :bowling: :five:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':bowling:'
+- ':five:'
+oomp_word_list:
+- octopus
+- bowling
+- five
+part_number: ''
+size: tray
+type: part

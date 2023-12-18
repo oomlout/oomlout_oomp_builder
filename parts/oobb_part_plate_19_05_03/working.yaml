@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_05_03'
+directory: parts/oobb_part_plate_19_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_05_03
+id: oobb_part_plate_19_05_03
+id_no_class: part_plate_19_05_03
+id_no_color: '190503'
+id_no_size: '19_05_03'
+id_no_type: plate_19_05_03
+manufacturer: ''
+md5: 0a69a676d197dab8516599b2ff127575
+md5_10: 0a69a676d1
+md5_10_upper: 0A69A676D1
+md5_5: 0a69a
+md5_5_upper: 0A69A
+md5_6: 0a69a6
+md5_6_alpha: emjq
+md5_6_alpha_upper: EMJQ
+md5_6_upper: 0A69A6
+name: Oobb Part Plate 19 05 03
+name_no_class: Part Plate 19 05 03
+name_no_color: '190503'
+name_no_size: 19 05 03
+name_no_type: Plate 19 05 03
+oomp_key: oomp_oobb_part_plate_19_05_03
+oomp_word: sleepy cactus trumpet
+oomp_word_emoji: ':sleepy: :cactus: :trumpet:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':cactus:'
+- ':trumpet:'
+oomp_word_list:
+- sleepy
+- cactus
+- trumpet
+part_number: ''
+size: plate
+type: part

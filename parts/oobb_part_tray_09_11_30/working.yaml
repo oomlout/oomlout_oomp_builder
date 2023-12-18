@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_11_30
+directory: parts/oobb_part_tray_09_11_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_11_30
+id: oobb_part_tray_09_11_30
+id_no_class: part_tray_09_11_30
+id_no_color: 091130
+id_no_size: 09_11_30
+id_no_type: tray_09_11_30
+manufacturer: ''
+md5: 5a942ec14b848c03e3d86285643e43f6
+md5_10: 5a942ec14b
+md5_10_upper: 5A942EC14B
+md5_5: 5a942
+md5_5_upper: 5A942
+md5_6: 5a942e
+md5_6_alpha: 3j8dq
+md5_6_alpha_upper: 3J8DQ
+md5_6_upper: 5A942E
+name: Oobb Part Tray 09 11 30
+name_no_class: Part Tray 09 11 30
+name_no_color: 091130
+name_no_size: 09 11 30
+name_no_type: Tray 09 11 30
+oomp_key: oomp_oobb_part_tray_09_11_30
+oomp_word: goat microscope zap
+oomp_word_emoji: ':goat: :microscope: :zap:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':microscope:'
+- ':zap:'
+oomp_word_list:
+- goat
+- microscope
+- zap
+part_number: ''
+size: tray
+type: part

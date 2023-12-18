@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 040414nm12mmtapewidth4mmtapethicknessex4
+id_no_size: 04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: c05bcdd9c0e7d11d790730daa42bf68b
+md5_10: c05bcdd9c0
+md5_10_upper: C05BCDD9C0
+md5_5: c05bc
+md5_5_upper: C05BC
+md5_6: c05bcd
+md5_6_alpha: 7i765
+md5_6_alpha_upper: 7I765
+md5_6_upper: C05BCD
+name: Oobb Part Smd Magazine 04 04 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 04 04 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 040414Nm12Mmtapewidth4Mmtapethicknessex4
+name_no_size: 04 04 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 04 04 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: bread rooster strawberry
+oomp_word_emoji: ':bread: :rooster: :strawberry:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':rooster:'
+- ':strawberry:'
+oomp_word_list:
+- bread
+- rooster
+- strawberry
+part_number: ''
+size: smd_magazine
+type: part

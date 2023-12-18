@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_18
+directory: parts/oobb_part_tray_02_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_06_18
+id: oobb_part_tray_02_06_18
+id_no_class: part_tray_02_06_18
+id_no_color: 020618
+id_no_size: 02_06_18
+id_no_type: tray_02_06_18
+manufacturer: ''
+md5: 01b274ac03ee3f2c5b2d2b3232146507
+md5_10: 01b274ac03
+md5_10_upper: 01B274AC03
+md5_5: 01b27
+md5_5_upper: 01B27
+md5_6: 01b274
+md5_6_alpha: 2dtg
+md5_6_alpha_upper: 2DTG
+md5_6_upper: 01B274
+name: Oobb Part Tray 02 06 18
+name_no_class: Part Tray 02 06 18
+name_no_color: 020618
+name_no_size: 02 06 18
+name_no_type: Tray 02 06 18
+oomp_key: oomp_oobb_part_tray_02_06_18
+oomp_word: smile handbag fireworks
+oomp_word_emoji: ':smile: :handbag: :fireworks:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':handbag:'
+- ':fireworks:'
+oomp_word_list:
+- smile
+- handbag
+- fireworks
+part_number: ''
+size: tray
+type: part

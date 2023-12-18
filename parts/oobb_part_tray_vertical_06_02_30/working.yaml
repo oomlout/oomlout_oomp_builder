@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_02_30'
+directory: parts/oobb_part_tray_vertical_06_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_02_30
+id: oobb_part_tray_vertical_06_02_30
+id_no_class: part_tray_vertical_06_02_30
+id_no_color: '060230'
+id_no_size: '06_02_30'
+id_no_type: tray_vertical_06_02_30
+manufacturer: ''
+md5: 4e4799737c2ca75606b6348b70071979
+md5_10: 4e4799737c
+md5_10_upper: 4E4799737C
+md5_5: 4e479
+md5_5_upper: 4E479
+md5_6: 4e4799
+md5_6_alpha: 31yft
+md5_6_alpha_upper: 31YFT
+md5_6_upper: 4E4799
+name: Oobb Part Tray Vertical 06 02 30
+name_no_class: Part Tray Vertical 06 02 30
+name_no_color: '060230'
+name_no_size: 06 02 30
+name_no_type: Tray Vertical 06 02 30
+oomp_key: oomp_oobb_part_tray_vertical_06_02_30
+oomp_word: honeybee baby_chick bowling
+oomp_word_emoji: ':honeybee: :baby_chick: :bowling:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':baby_chick:'
+- ':bowling:'
+oomp_word_list:
+- honeybee
+- baby_chick
+- bowling
+part_number: ''
+size: tray_vertical
+type: part

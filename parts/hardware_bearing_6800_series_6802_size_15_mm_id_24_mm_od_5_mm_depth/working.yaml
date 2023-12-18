@@ -1,0 +1,40 @@
+classification: hardware
+color: 6802_size
+description_extra: ''
+description_main: 15_mm_id_24_mm_od_5_mm_depth
+directory: parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+id: hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+id_no_class: bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+id_no_color: 15_mm_id_24_mm_od_5_mm_depth
+id_no_size: 6802_size_15_mm_id_24_mm_od_5_mm_depth
+id_no_type: 6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+manufacturer: ''
+md5: 101845349dc9772d9429dbad74251805
+md5_10: 101845349d
+md5_10_upper: 101845349D
+md5_5: '10184'
+md5_5_upper: '10184'
+md5_6: '101845'
+md5_6_alpha: mlvp
+md5_6_alpha_upper: MLVP
+md5_6_upper: '101845'
+name: Hardware Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
+name_no_class: Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
+name_no_color: 15 Mm Id 24 Mm Od 5 Mm Depth
+name_no_size: 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
+name_no_type: 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+oomp_word: star hand snake
+oomp_word_emoji: ':star: :hand: :snake:'
+oomp_word_emoji_list:
+- ':star:'
+- ':hand:'
+- ':snake:'
+oomp_word_list:
+- star
+- hand
+- snake
+part_number: ''
+size: 6800_series
+type: bearing

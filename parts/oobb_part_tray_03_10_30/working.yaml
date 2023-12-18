@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_10_30'
+directory: parts/oobb_part_tray_03_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_10_30
+id: oobb_part_tray_03_10_30
+id_no_class: part_tray_03_10_30
+id_no_color: '031030'
+id_no_size: '03_10_30'
+id_no_type: tray_03_10_30
+manufacturer: ''
+md5: 11812a47260ae583d42bcf6a28e4a886
+md5_10: 11812a4726
+md5_10_upper: 11812A4726
+md5_5: '11812'
+md5_5_upper: '11812'
+md5_6: 11812a
+md5_6_alpha: ol62
+md5_6_alpha_upper: OL62
+md5_6_upper: 11812A
+name: Oobb Part Tray 03 10 30
+name_no_class: Part Tray 03 10 30
+name_no_color: '031030'
+name_no_size: 03 10 30
+name_no_type: Tray 03 10 30
+oomp_key: oomp_oobb_part_tray_03_10_30
+oomp_word: dizzy watch umbrella
+oomp_word_emoji: ':dizzy: :watch: :umbrella:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':watch:'
+- ':umbrella:'
+oomp_word_list:
+- dizzy
+- watch
+- umbrella
+part_number: ''
+size: tray
+type: part

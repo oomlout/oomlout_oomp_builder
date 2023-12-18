@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_09
+directory: parts/oobb_part_tray_thin_09_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_05_09
+id: oobb_part_tray_thin_09_05_09
+id_no_class: part_tray_thin_09_05_09
+id_no_color: 090509
+id_no_size: 09_05_09
+id_no_type: tray_thin_09_05_09
+manufacturer: ''
+md5: b8ab461a6068b592de89d75b029979a1
+md5_10: b8ab461a60
+md5_10_upper: B8AB461A60
+md5_5: b8ab4
+md5_5_upper: B8AB4
+md5_6: b8ab46
+md5_6_alpha: 77ebq
+md5_6_alpha_upper: 77EBQ
+md5_6_upper: B8AB46
+name: Oobb Part Tray Thin 09 05 09
+name_no_class: Part Tray Thin 09 05 09
+name_no_color: 090509
+name_no_size: 09 05 09
+name_no_type: Tray Thin 09 05 09
+oomp_key: oomp_oobb_part_tray_thin_09_05_09
+oomp_word: hamburger boot bird
+oomp_word_emoji: ':hamburger: :boot: :bird:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':boot:'
+- ':bird:'
+oomp_word_list:
+- hamburger
+- boot
+- bird
+part_number: ''
+size: tray_thin
+type: part

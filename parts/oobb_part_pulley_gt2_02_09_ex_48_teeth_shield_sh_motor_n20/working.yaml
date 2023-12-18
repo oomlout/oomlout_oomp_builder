@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_48_teeth_shield_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+id: oobb_part_pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+id_no_class: part_pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+id_no_color: 0209ex48teethshieldshmotorn20
+id_no_size: 02_09_ex_48_teeth_shield_sh_motor_n20
+id_no_type: pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+manufacturer: ''
+md5: 473f9591d0f1ce46413f2501d69260cd
+md5_10: 473f9591d0
+md5_10_upper: 473F9591D0
+md5_5: 473f9
+md5_5_upper: 473F9
+md5_6: 473f95
+md5_6_alpha: 2s2vp
+md5_6_alpha_upper: 2S2VP
+md5_6_upper: 473F95
+name: Oobb Part Pulley Gt2 02 09 Ex 48 Teeth Shield Sh Motor N20
+name_no_class: Part Pulley Gt2 02 09 Ex 48 Teeth Shield Sh Motor N20
+name_no_color: 0209Ex48Teethshieldshmotorn20
+name_no_size: 02 09 Ex 48 Teeth Shield Sh Motor N20
+name_no_type: Pulley Gt2 02 09 Ex 48 Teeth Shield Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_48_teeth_shield_sh_motor_n20
+oomp_word: baby_chick horse telescope
+oomp_word_emoji: ':baby_chick: :horse: :telescope:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':horse:'
+- ':telescope:'
+oomp_word_list:
+- baby_chick
+- horse
+- telescope
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_12_12'
+directory: parts/oobb_part_tray_07_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_12
+id: oobb_part_tray_07_12_12
+id_no_class: part_tray_07_12_12
+id_no_color: '071212'
+id_no_size: '07_12_12'
+id_no_type: tray_07_12_12
+manufacturer: ''
+md5: 47e1219f9eda90a4053580103d1f0603
+md5_10: 47e1219f9e
+md5_10_upper: 47E1219F9E
+md5_5: 47e12
+md5_5_upper: 47E12
+md5_6: 47e121
+md5_6_alpha: 2sysh
+md5_6_alpha_upper: 2SYSH
+md5_6_upper: 47E121
+name: Oobb Part Tray 07 12 12
+name_no_class: Part Tray 07 12 12
+name_no_color: '071212'
+name_no_size: 07 12 12
+name_no_type: Tray 07 12 12
+oomp_key: oomp_oobb_part_tray_07_12_12
+oomp_word: baby_chick boat feet
+oomp_word_emoji: ':baby_chick: :boat: :feet:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':boat:'
+- ':feet:'
+oomp_word_list:
+- baby_chick
+- boat
+- feet
+part_number: ''
+size: tray
+type: part

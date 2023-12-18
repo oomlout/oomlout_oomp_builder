@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_u
+directory: parts/oobb_part_plate_03_03_03_ex_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_03_ex_u
+id: oobb_part_plate_03_03_03_ex_u
+id_no_class: part_plate_03_03_03_ex_u
+id_no_color: 030303exu
+id_no_size: 03_03_03_ex_u
+id_no_type: plate_03_03_03_ex_u
+manufacturer: ''
+md5: aae4fa21fcde9079bd31500c5cb832c5
+md5_10: aae4fa21fc
+md5_10_upper: AAE4FA21FC
+md5_5: aae4f
+md5_5_upper: AAE4F
+md5_6: aae4fa
+md5_6_alpha: 6o1ru
+md5_6_alpha_upper: 6O1RU
+md5_6_upper: AAE4FA
+name: Oobb Part Plate 03 03 03 Ex U
+name_no_class: Part Plate 03 03 03 Ex U
+name_no_color: 030303Exu
+name_no_size: 03 03 03 Ex U
+name_no_type: Plate 03 03 03 Ex U
+oomp_key: oomp_oobb_part_plate_03_03_03_ex_u
+oomp_word: lipstick anchor nine
+oomp_word_emoji: ':lipstick: :anchor: :nine:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':anchor:'
+- ':nine:'
+oomp_word_list:
+- lipstick
+- anchor
+- nine
+part_number: ''
+size: plate
+type: part

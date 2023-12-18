@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_06_15'
+directory: parts/oobb_part_tray_thin_06_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_06_15
+id: oobb_part_tray_thin_06_06_15
+id_no_class: part_tray_thin_06_06_15
+id_no_color: '060615'
+id_no_size: '06_06_15'
+id_no_type: tray_thin_06_06_15
+manufacturer: ''
+md5: 6f632c40993b1b72d67c6b0e9ce1b158
+md5_10: 6f632c4099
+md5_10_upper: 6F632C4099
+md5_5: 6f632
+md5_5_upper: 6F632
+md5_6: 6f632c
+md5_6_alpha: 4cgmk
+md5_6_alpha_upper: 4CGMK
+md5_6_upper: 6F632C
+name: Oobb Part Tray Thin 06 06 15
+name_no_class: Part Tray Thin 06 06 15
+name_no_color: '060615'
+name_no_size: 06 06 15
+name_no_type: Tray Thin 06 06 15
+oomp_key: oomp_oobb_part_tray_thin_06_06_15
+oomp_word: moon rose snowflake
+oomp_word_emoji: ':moon: :rose: :snowflake:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':rose:'
+- ':snowflake:'
+oomp_word_list:
+- moon
+- rose
+- snowflake
+part_number: ''
+size: tray_thin
+type: part

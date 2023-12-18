@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_02_03'
+directory: parts/oobb_part_plate_03_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_02_03
+id: oobb_part_plate_03_02_03
+id_no_class: part_plate_03_02_03
+id_no_color: '030203'
+id_no_size: '03_02_03'
+id_no_type: plate_03_02_03
+manufacturer: ''
+md5: 997234c2c7e5edb55e7d2a2f11b70801
+md5_10: 997234c2c7
+md5_10_upper: 997234C2C7
+md5_5: '99723'
+md5_5_upper: '99723'
+md5_6: '997234'
+md5_6_alpha: 5zjg4
+md5_6_alpha_upper: 5ZJG4
+md5_6_upper: '997234'
+name: Oobb Part Plate 03 02 03
+name_no_class: Part Plate 03 02 03
+name_no_color: '030203'
+name_no_size: 03 02 03
+name_no_type: Plate 03 02 03
+oomp_key: oomp_oobb_part_plate_03_02_03
+oomp_word: bowling dolls mouse
+oomp_word_emoji: ':bowling: :dolls: :mouse:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':dolls:'
+- ':mouse:'
+oomp_word_list:
+- bowling
+- dolls
+- mouse
+part_number: ''
+size: plate
+type: part

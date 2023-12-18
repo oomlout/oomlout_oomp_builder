@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_03'
+directory: parts/oobb_part_plate_12_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_05_03
+id: oobb_part_plate_12_05_03
+id_no_class: part_plate_12_05_03
+id_no_color: '120503'
+id_no_size: '12_05_03'
+id_no_type: plate_12_05_03
+manufacturer: ''
+md5: ac9e377a338eff5def20719d8628b3bc
+md5_10: ac9e377a33
+md5_10_upper: AC9E377A33
+md5_5: ac9e3
+md5_5_upper: AC9E3
+md5_6: ac9e37
+md5_6_alpha: 6qgxj
+md5_6_alpha_upper: 6QGXJ
+md5_6_upper: AC9E37
+name: Oobb Part Plate 12 05 03
+name_no_class: Part Plate 12 05 03
+name_no_color: '120503'
+name_no_size: 12 05 03
+name_no_type: Plate 12 05 03
+oomp_key: oomp_oobb_part_plate_12_05_03
+oomp_word: shirt clubs wolf
+oomp_word_emoji: ':shirt: :clubs: :wolf:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':clubs:'
+- ':wolf:'
+oomp_word_list:
+- shirt
+- clubs
+- wolf
+part_number: ''
+size: plate
+type: part

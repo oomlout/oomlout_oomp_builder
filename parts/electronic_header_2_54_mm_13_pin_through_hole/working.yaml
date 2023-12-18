@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 13_pin
+directory: parts/electronic_header_2_54_mm_13_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_through_hole
+id: electronic_header_2_54_mm_13_pin_through_hole
+id_no_class: header_2_54_mm_13_pin_through_hole
+id_no_color: 13pinthroughhole
+id_no_size: 13_pin_through_hole
+id_no_type: 2_54_mm_13_pin_through_hole
+manufacturer: ''
+md5: 46d892bb0771d574d225fcb38c93efa1
+md5_10: 46d892bb07
+md5_10_upper: 46D892BB07
+md5_5: 46d89
+md5_5_upper: 46D89
+md5_6: 46d892
+md5_6_alpha: 2rij6
+md5_6_alpha_upper: 2RIJ6
+md5_6_upper: 46D892
+name: Electronic Header 2 54 Mm 13 Pin Through Hole
+name_no_class: Header 2 54 Mm 13 Pin Through Hole
+name_no_color: 13Pinthroughhole
+name_no_size: 13 Pin Through Hole
+name_no_type: 2 54 Mm 13 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_13_pin_through_hole
+oomp_word: bird hospital paperclip
+oomp_word_emoji: ':bird: :hospital: :paperclip:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':hospital:'
+- ':paperclip:'
+oomp_word_list:
+- bird
+- hospital
+- paperclip
+part_number: ''
+size: 2_54_mm
+type: header

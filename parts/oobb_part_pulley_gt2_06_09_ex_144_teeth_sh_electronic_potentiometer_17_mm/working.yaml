@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0609ex144teethshelectronicpotentiometer17mm
+id_no_size: 06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: df4085302a4699c59a55b836c9bfff39
+md5_10: df4085302a
+md5_10_upper: DF4085302A
+md5_5: df408
+md5_5_upper: DF408
+md5_6: df4085
+md5_6_alpha: 8pldx
+md5_6_alpha_upper: 8PLDX
+md5_6_upper: DF4085
+name: Oobb Part Pulley Gt2 06 09 Ex 144 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Pulley Gt2 06 09 Ex 144 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0609Ex144Teethshelectronicpotentiometer17Mm
+name_no_size: 06 09 Ex 144 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 06 09 Ex 144 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: fountain racehorse bulb
+oomp_word_emoji: ':fountain: :racehorse: :bulb:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':racehorse:'
+- ':bulb:'
+oomp_word_list:
+- fountain
+- racehorse
+- bulb
+part_number: ''
+size: pulley_gt2
+type: part

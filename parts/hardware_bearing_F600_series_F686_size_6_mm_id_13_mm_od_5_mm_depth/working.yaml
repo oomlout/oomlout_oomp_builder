@@ -1,0 +1,40 @@
+classification: hardware
+color: F686_size
+description_extra: ''
+description_main: 6_mm_id_13_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+id_no_color: 6_mm_id_13_mm_od_5_mm_depth
+id_no_size: F686_size_6_mm_id_13_mm_od_5_mm_depth
+id_no_type: F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+manufacturer: ''
+md5: 02402f4852f7c8dcf0c6471d6778a2e6
+md5_10: 02402f4852
+md5_10_upper: 02402F4852
+md5_5: '02402'
+md5_5_upper: '02402'
+md5_6: 02402f
+md5_6_alpha: 35tb
+md5_6_alpha_upper: 35TB
+md5_6_upper: 02402F
+name: Hardware Bearing F600 Series F686 Size 6 Mm Id 13 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F686 Size 6 Mm Id 13 Mm Od 5 Mm Depth
+name_no_color: 6 Mm Id 13 Mm Od 5 Mm Depth
+name_no_size: F686 Size 6 Mm Id 13 Mm Od 5 Mm Depth
+name_no_type: F600 Series F686 Size 6 Mm Id 13 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+oomp_word: blush racehorse cyclone
+oomp_word_emoji: ':blush: :racehorse: :cyclone:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':racehorse:'
+- ':cyclone:'
+oomp_word_list:
+- blush
+- racehorse
+- cyclone
+part_number: ''
+size: F600_series
+type: bearing

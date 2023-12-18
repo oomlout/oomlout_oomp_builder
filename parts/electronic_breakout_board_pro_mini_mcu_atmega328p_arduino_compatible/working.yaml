@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: arduino_compatible
+description_main: atmega328p
+directory: parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
+id: electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
+id_no_class: breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
+id_no_color: atmega328p_arduino_compatible
+id_no_size: mcu_atmega328p_arduino_compatible
+id_no_type: pro_mini_mcu_atmega328p_arduino_compatible
+manufacturer: ''
+md5: 42ad02af84350acebe9c36ed66484b92
+md5_10: 42ad02af84
+md5_10_upper: 42AD02AF84
+md5_5: 42ad0
+md5_5_upper: 42AD0
+md5_6: 42ad02
+md5_6_alpha: 2lnnm
+md5_6_alpha_upper: 2LNNM
+md5_6_upper: 42AD02
+name: Electronic Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible
+name_no_class: Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible
+name_no_color: Atmega328P Arduino Compatible
+name_no_size: Mcu Atmega328P Arduino Compatible
+name_no_type: Pro Mini Mcu Atmega328P Arduino Compatible
+oomp_key: oomp_electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
+oomp_word: sheep dress blush
+oomp_word_emoji: ':sheep: :dress: :blush:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':dress:'
+- ':blush:'
+oomp_word_list:
+- sheep
+- dress
+- blush
+part_number: ''
+size: pro_mini
+type: breakout_board

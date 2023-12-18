@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '17_01_21'
+directory: parts/oobb_part_plate_17_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_17_01_21
+id: oobb_part_plate_17_01_21
+id_no_class: part_plate_17_01_21
+id_no_color: '170121'
+id_no_size: '17_01_21'
+id_no_type: plate_17_01_21
+manufacturer: ''
+md5: acf4b1a0409f2930546078cdaacde75a
+md5_10: acf4b1a040
+md5_10_upper: ACF4B1A040
+md5_5: acf4b
+md5_5_upper: ACF4B
+md5_6: acf4b1
+md5_6_alpha: 6qy0h
+md5_6_alpha_upper: 6QY0H
+md5_6_upper: ACF4B1
+name: Oobb Part Plate 17 01 21
+name_no_class: Part Plate 17 01 21
+name_no_color: '170121'
+name_no_size: 17 01 21
+name_no_type: Plate 17 01 21
+oomp_key: oomp_oobb_part_plate_17_01_21
+oomp_word: shirt three briefcase
+oomp_word_emoji: ':shirt: :three: :briefcase:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':three:'
+- ':briefcase:'
+oomp_word_list:
+- shirt
+- three
+- briefcase
+part_number: ''
+size: plate
+type: part

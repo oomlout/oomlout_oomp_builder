@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_02_18
+directory: parts/oobb_part_tray_thin_09_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_02_18
+id: oobb_part_tray_thin_09_02_18
+id_no_class: part_tray_thin_09_02_18
+id_no_color: 090218
+id_no_size: 09_02_18
+id_no_type: tray_thin_09_02_18
+manufacturer: ''
+md5: 6511f3817f1db754c9911d13f9779baa
+md5_10: 6511f3817f
+md5_10_upper: 6511F3817F
+md5_5: 6511f
+md5_5_upper: 6511F
+md5_6: 6511f3
+md5_6_alpha: 3xywj
+md5_6_alpha_upper: 3XYWJ
+md5_6_upper: 6511F3
+name: Oobb Part Tray Thin 09 02 18
+name_no_class: Part Tray Thin 09 02 18
+name_no_color: 090218
+name_no_size: 09 02 18
+name_no_type: Tray Thin 09 02 18
+oomp_key: oomp_oobb_part_tray_thin_09_02_18
+oomp_word: maple_leaf dizzy two
+oomp_word_emoji: ':maple_leaf: :dizzy: :two:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':dizzy:'
+- ':two:'
+oomp_word_list:
+- maple_leaf
+- dizzy
+- two
+part_number: ''
+size: tray_thin
+type: part

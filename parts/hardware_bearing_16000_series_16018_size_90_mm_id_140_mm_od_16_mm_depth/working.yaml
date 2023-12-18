@@ -1,0 +1,40 @@
+classification: hardware
+color: 16018_size
+description_extra: ''
+description_main: 90_mm_id_140_mm_od_16_mm_depth
+directory: parts/hardware_bearing_16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+id: hardware_bearing_16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+id_no_class: bearing_16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+id_no_color: 90_mm_id_140_mm_od_16_mm_depth
+id_no_size: 16018_size_90_mm_id_140_mm_od_16_mm_depth
+id_no_type: 16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+manufacturer: ''
+md5: 112805ed0489c0b1d73f33aae0574b8f
+md5_10: 112805ed04
+md5_10_upper: 112805ED04
+md5_5: '11280'
+md5_5_upper: '11280'
+md5_6: '112805'
+md5_6_alpha: o3k5
+md5_6_alpha_upper: O3K5
+md5_6_upper: '112805'
+name: Hardware Bearing 16000 Series 16018 Size 90 Mm Id 140 Mm Od 16 Mm Depth
+name_no_class: Bearing 16000 Series 16018 Size 90 Mm Id 140 Mm Od 16 Mm Depth
+name_no_color: 90 Mm Id 140 Mm Od 16 Mm Depth
+name_no_size: 16018 Size 90 Mm Id 140 Mm Od 16 Mm Depth
+name_no_type: 16000 Series 16018 Size 90 Mm Id 140 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16018_size_90_mm_id_140_mm_od_16_mm_depth
+oomp_word: dizzy tongue kissing
+oomp_word_emoji: ':dizzy: :tongue: :kissing:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':tongue:'
+- ':kissing:'
+oomp_word_list:
+- dizzy
+- tongue
+- kissing
+part_number: ''
+size: 16000_series
+type: bearing

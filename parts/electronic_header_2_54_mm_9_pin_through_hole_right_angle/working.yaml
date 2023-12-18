@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 9_pin
+directory: parts/electronic_header_2_54_mm_9_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_9_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_9_pin_through_hole_right_angle
+id_no_color: 9pinthroughholerightangle
+id_no_size: 9_pin_through_hole_right_angle
+id_no_type: 2_54_mm_9_pin_through_hole_right_angle
+manufacturer: ''
+md5: 6b4275af597d7dc644cab0593ecf8510
+md5_10: 6b4275af59
+md5_10_upper: 6B4275AF59
+md5_5: 6b427
+md5_5_upper: 6B427
+md5_6: 6b4275
+md5_6_alpha: 46nw5
+md5_6_alpha_upper: 46NW5
+md5_6_upper: 6B4275
+name: Electronic Header 2 54 Mm 9 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 9 Pin Through Hole Right Angle
+name_no_color: 9Pinthroughholerightangle
+name_no_size: 9 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 9 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_9_pin_through_hole_right_angle
+oomp_word: chestnut sheep ghost
+oomp_word_emoji: ':chestnut: :sheep: :ghost:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':sheep:'
+- ':ghost:'
+oomp_word_list:
+- chestnut
+- sheep
+- ghost
+part_number: ''
+size: 2_54_mm
+type: header

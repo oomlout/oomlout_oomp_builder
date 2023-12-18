@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7500000_ohm
+directory: parts/electronic_resistor_0402_7500000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500000_ohm
+id: electronic_resistor_0402_7500000_ohm
+id_no_class: resistor_0402_7500000_ohm
+id_no_color: 7500000ohm
+id_no_size: 7500000_ohm
+id_no_type: 0402_7500000_ohm
+manufacturer: ''
+md5: 01bded33973ffc21394ea7d57bee648a
+md5_10: 01bded3397
+md5_10_upper: 01BDED3397
+md5_5: 01bde
+md5_5_upper: 01BDE
+md5_6: 01bded
+md5_6_alpha: 2g31
+md5_6_alpha_upper: 2G31
+md5_6_upper: 01BDED
+name: Electronic Resistor 0402 7500000 Ohm
+name_no_class: Resistor 0402 7500000 Ohm
+name_no_color: 7500000Ohm
+name_no_size: 7500000 Ohm
+name_no_type: 0402 7500000 Ohm
+oomp_key: oomp_electronic_resistor_0402_7500000_ohm
+oomp_word: smile rice bus
+oomp_word_emoji: ':smile: :rice: :bus:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':rice:'
+- ':bus:'
+oomp_word_list:
+- smile
+- rice
+- bus
+part_number: ''
+size: '0402'
+type: resistor

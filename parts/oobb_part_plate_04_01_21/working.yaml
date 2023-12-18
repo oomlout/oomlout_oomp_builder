@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_21'
+directory: parts/oobb_part_plate_04_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_21
+id: oobb_part_plate_04_01_21
+id_no_class: part_plate_04_01_21
+id_no_color: '040121'
+id_no_size: '04_01_21'
+id_no_type: plate_04_01_21
+manufacturer: ''
+md5: 36ed097e6ce70607ee466425d1a3c55a
+md5_10: 36ed097e6c
+md5_10_upper: 36ED097E6C
+md5_5: 36ed0
+md5_5_upper: 36ED0
+md5_6: 36ed09
+md5_6_alpha: 255hl
+md5_6_alpha_upper: 255HL
+md5_6_upper: 36ED09
+name: Oobb Part Plate 04 01 21
+name_no_class: Part Plate 04 01 21
+name_no_color: '040121'
+name_no_size: 04 01 21
+name_no_type: Plate 04 01 21
+oomp_key: oomp_oobb_part_plate_04_01_21
+oomp_word: rabbit bus angry
+oomp_word_emoji: ':rabbit: :bus: :angry:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':bus:'
+- ':angry:'
+oomp_word_list:
+- rabbit
+- bus
+- angry
+part_number: ''
+size: plate
+type: part

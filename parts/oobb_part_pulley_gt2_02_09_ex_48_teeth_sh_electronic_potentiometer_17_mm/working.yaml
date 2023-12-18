@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0209ex48teethshelectronicpotentiometer17mm
+id_no_size: 02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 2a738570c93fea0be186fd2e35fa8265
+md5_10: 2a738570c9
+md5_10_upper: 2A738570C9
+md5_5: 2a738
+md5_5_upper: 2A738
+md5_6: 2a7385
+md5_6_alpha: 1nmo5
+md5_6_alpha_upper: 1NMO5
+md5_6_upper: 2A7385
+name: Oobb Part Pulley Gt2 02 09 Ex 48 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Pulley Gt2 02 09 Ex 48 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0209Ex48Teethshelectronicpotentiometer17Mm
+name_no_size: 02 09 Ex 48 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 02 09 Ex 48 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: umbrella flags bulb
+oomp_word_emoji: ':umbrella: :flags: :bulb:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':flags:'
+- ':bulb:'
+oomp_word_list:
+- umbrella
+- flags
+- bulb
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_06'
+directory: parts/oobb_part_plate_06_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_01_06
+id: oobb_part_plate_06_01_06
+id_no_class: part_plate_06_01_06
+id_no_color: '060106'
+id_no_size: '06_01_06'
+id_no_type: plate_06_01_06
+manufacturer: ''
+md5: 35635b05c21870a6f863b4e2e0ebd528
+md5_10: 35635b05c2
+md5_10_upper: 35635B05C2
+md5_5: '35635'
+md5_5_upper: '35635'
+md5_6: 35635b
+md5_6_alpha: 22zq3
+md5_6_alpha_upper: 22ZQ3
+md5_6_upper: 35635B
+name: Oobb Part Plate 06 01 06
+name_no_class: Part Plate 06 01 06
+name_no_color: '060106'
+name_no_size: 06 01 06
+name_no_type: Plate 06 01 06
+oomp_key: oomp_oobb_part_plate_06_01_06
+oomp_word: hamster rose rooster
+oomp_word_emoji: ':hamster: :rose: :rooster:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':rose:'
+- ':rooster:'
+oomp_word_list:
+- hamster
+- rose
+- rooster
+part_number: ''
+size: plate
+type: part

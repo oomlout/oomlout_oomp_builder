@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '24_01_06'
+directory: parts/oobb_part_plate_24_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_24_01_06
+id: oobb_part_plate_24_01_06
+id_no_class: part_plate_24_01_06
+id_no_color: '240106'
+id_no_size: '24_01_06'
+id_no_type: plate_24_01_06
+manufacturer: ''
+md5: f0b44ab22fa30154a24ac358daf4d779
+md5_10: f0b44ab22f
+md5_10_upper: F0B44AB22F
+md5_5: f0b44
+md5_5_upper: F0B44
+md5_6: f0b44a
+md5_6_alpha: 9e3wq
+md5_6_alpha_upper: 9E3WQ
+md5_6_upper: F0B44A
+name: Oobb Part Plate 24 01 06
+name_no_class: Part Plate 24 01 06
+name_no_color: '240106'
+name_no_size: 24 01 06
+name_no_type: Plate 24 01 06
+oomp_key: oomp_oobb_part_plate_24_01_06
+oomp_word: train coffee chicken
+oomp_word_emoji: ':train: :coffee: :chicken:'
+oomp_word_emoji_list:
+- ':train:'
+- ':coffee:'
+- ':chicken:'
+oomp_word_list:
+- train
+- coffee
+- chicken
+part_number: ''
+size: plate
+type: part

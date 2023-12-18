@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_09
+directory: parts/oobb_part_tray_thin_1d5_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_1d5_03_09
+id: oobb_part_tray_thin_1d5_03_09
+id_no_class: part_tray_thin_1d5_03_09
+id_no_color: 1d50309
+id_no_size: 1d5_03_09
+id_no_type: tray_thin_1d5_03_09
+manufacturer: ''
+md5: 390ab68ec690f2821e3c150a89dc0041
+md5_10: 390ab68ec6
+md5_10_upper: 390AB68EC6
+md5_5: 390ab
+md5_5_upper: 390AB
+md5_6: 390ab6
+md5_6_alpha: 284hi
+md5_6_alpha_upper: 284HI
+md5_6_upper: 390AB6
+name: Oobb Part Tray Thin 1D5 03 09
+name_no_class: Part Tray Thin 1D5 03 09
+name_no_color: 1D50309
+name_no_size: 1D5 03 09
+name_no_type: Tray Thin 1D5 03 09
+oomp_key: oomp_oobb_part_tray_thin_1d5_03_09
+oomp_word: tiger sleepy beer
+oomp_word_emoji: ':tiger: :sleepy: :beer:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':sleepy:'
+- ':beer:'
+oomp_word_list:
+- tiger
+- sleepy
+- beer
+part_number: ''
+size: tray_thin
+type: part

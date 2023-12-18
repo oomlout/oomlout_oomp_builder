@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_05_03'
+directory: parts/oobb_part_plate_14_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_05_03
+id: oobb_part_plate_14_05_03
+id_no_class: part_plate_14_05_03
+id_no_color: '140503'
+id_no_size: '14_05_03'
+id_no_type: plate_14_05_03
+manufacturer: ''
+md5: fca78b15fccf5747658a92e4c69ea161
+md5_10: fca78b15fc
+md5_10_upper: FCA78B15FC
+md5_5: fca78
+md5_5_upper: FCA78
+md5_6: fca78b
+md5_6_alpha: 9uw7f
+md5_6_alpha_upper: 9UW7F
+md5_6_upper: FCA78B
+name: Oobb Part Plate 14 05 03
+name_no_class: Part Plate 14 05 03
+name_no_color: '140503'
+name_no_size: 14 05 03
+name_no_type: Plate 14 05 03
+oomp_key: oomp_oobb_part_plate_14_05_03
+oomp_word: up guitar door
+oomp_word_emoji: ':up: :guitar: :door:'
+oomp_word_emoji_list:
+- ':up:'
+- ':guitar:'
+- ':door:'
+oomp_word_list:
+- up
+- guitar
+- door
+part_number: ''
+size: plate
+type: part

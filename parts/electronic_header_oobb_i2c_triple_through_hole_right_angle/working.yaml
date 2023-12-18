@@ -1,0 +1,40 @@
+classification: electronic
+color: i2c
+description_extra: through_hole_right_angle
+description_main: triple
+directory: parts/electronic_header_oobb_i2c_triple_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle
+id: electronic_header_oobb_i2c_triple_through_hole_right_angle
+id_no_class: header_oobb_i2c_triple_through_hole_right_angle
+id_no_color: triple_through_hole_right_angle
+id_no_size: i2c_triple_through_hole_right_angle
+id_no_type: oobb_i2c_triple_through_hole_right_angle
+manufacturer: ''
+md5: 67ca50fd99f5cc1b0533cd2d61a48702
+md5_10: 67ca50fd99
+md5_10_upper: 67CA50FD99
+md5_5: 67ca5
+md5_5_upper: 67CA5
+md5_6: 67ca50
+md5_6_alpha: 41sgg
+md5_6_alpha_upper: 41SGG
+md5_6_upper: 67CA50
+name: Electronic Header Oobb I2C Triple Through Hole Right Angle
+name_no_class: Header Oobb I2C Triple Through Hole Right Angle
+name_no_color: Triple Through Hole Right Angle
+name_no_size: I2C Triple Through Hole Right Angle
+name_no_type: Oobb I2C Triple Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_i2c_triple_through_hole_right_angle
+oomp_word: herb cherries beetle
+oomp_word_emoji: ':herb: :cherries: :beetle:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':cherries:'
+- ':beetle:'
+oomp_word_list:
+- herb
+- cherries
+- beetle
+part_number: ''
+size: oobb
+type: header

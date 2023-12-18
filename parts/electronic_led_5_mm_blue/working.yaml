@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue
+id: electronic_led_5_mm_blue
+id_no_class: led_5_mm_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 5_mm_blue
+manufacturer: ''
+md5: ce34411c59ac93ef3b913e98d5574849
+md5_10: ce34411c59
+md5_10_upper: CE34411C59
+md5_5: ce344
+md5_5_upper: CE344
+md5_6: ce3441
+md5_6_alpha: 81nb5
+md5_6_alpha_upper: 81NB5
+md5_6_upper: CE3441
+name: Electronic Led 5 Mm Blue
+name_no_class: Led 5 Mm Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 5 Mm Blue
+oomp_key: oomp_electronic_led_5_mm_blue
+oomp_word: peach mouse camel
+oomp_word_emoji: ':peach: :mouse: :camel:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':mouse:'
+- ':camel:'
+oomp_word_list:
+- peach
+- mouse
+- camel
+part_number: ''
+size: 5_mm
+type: led

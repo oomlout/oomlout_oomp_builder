@@ -1,0 +1,40 @@
+classification: hardware
+color: 5214_size
+description_extra: ''
+description_main: 70_mm_id_125_mm_od_39.6_mm_depth
+directory: parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+id: hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+id_no_class: bearing_5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+id_no_color: 70_mm_id_125_mm_od_39.6_mm_depth
+id_no_size: 5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+id_no_type: 5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+manufacturer: ''
+md5: bbbb3773bfd8a7b5d7432481adcb7f00
+md5_10: bbbb3773bf
+md5_10_upper: BBBB3773BF
+md5_5: bbbb3
+md5_5_upper: BBBB3
+md5_6: bbbb37
+md5_6_alpha: 7bp6f
+md5_6_alpha_upper: 7BP6F
+md5_6_upper: BBBB37
+name: Hardware Bearing 5200 Series 5214 Size 70 Mm Id 125 Mm Od 39.6 Mm Depth
+name_no_class: Bearing 5200 Series 5214 Size 70 Mm Id 125 Mm Od 39.6 Mm Depth
+name_no_color: 70 Mm Id 125 Mm Od 39.6 Mm Depth
+name_no_size: 5214 Size 70 Mm Id 125 Mm Od 39.6 Mm Depth
+name_no_type: 5200 Series 5214 Size 70 Mm Id 125 Mm Od 39.6 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39.6_mm_depth
+oomp_word: curry curry wolf
+oomp_word_emoji: ':curry: :curry: :wolf:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':curry:'
+- ':wolf:'
+oomp_word_list:
+- curry
+- curry
+- wolf
+part_number: ''
+size: 5200_series
+type: bearing

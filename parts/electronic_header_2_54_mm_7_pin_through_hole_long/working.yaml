@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_long
+id: electronic_header_2_54_mm_7_pin_through_hole_long
+id_no_class: header_2_54_mm_7_pin_through_hole_long
+id_no_color: 7pinthroughholelong
+id_no_size: 7_pin_through_hole_long
+id_no_type: 2_54_mm_7_pin_through_hole_long
+manufacturer: ''
+md5: a3541e68b484a4fc951309e1e690464f
+md5_10: a3541e68b4
+md5_10_upper: A3541E68B4
+md5_5: a3541
+md5_5_upper: A3541
+md5_6: a3541e
+md5_6_alpha: 6df6m
+md5_6_alpha_upper: 6DF6M
+md5_6_upper: A3541E
+name: Electronic Header 2 54 Mm 7 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 7 Pin Through Hole Long
+name_no_color: 7Pinthroughholelong
+name_no_size: 7 Pin Through Hole Long
+name_no_type: 2 54 Mm 7 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_through_hole_long
+oomp_word: pencil whale angel
+oomp_word_emoji: ':pencil: :whale: :angel:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':whale:'
+- ':angel:'
+oomp_word_list:
+- pencil
+- whale
+- angel
+part_number: ''
+size: 2_54_mm
+type: header

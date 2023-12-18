@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 0_ohm
+directory: parts/electronic_resistor_0402_0_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_0_ohm
+id: electronic_resistor_0402_0_ohm
+id_no_class: resistor_0402_0_ohm
+id_no_color: 0ohm
+id_no_size: 0_ohm
+id_no_type: 0402_0_ohm
+manufacturer: ''
+md5: f61b961aa55fd900194a6e1e19ed5e67
+md5_10: f61b961aa5
+md5_10_upper: F61B961AA5
+md5_5: f61b9
+md5_5_upper: F61B9
+md5_6: f61b96
+md5_6_alpha: 9lp5i
+md5_6_alpha_upper: 9LP5I
+md5_6_upper: F61B96
+name: Electronic Resistor 0402 0 Ohm
+name_no_class: Resistor 0402 0 Ohm
+name_no_color: 0Ohm
+name_no_size: 0 Ohm
+name_no_type: 0402 0 Ohm
+oomp_key: oomp_electronic_resistor_0402_0_ohm
+oomp_word: five muscle basketball
+oomp_word_emoji: ':five: :muscle: :basketball:'
+oomp_word_emoji_list:
+- ':five:'
+- ':muscle:'
+- ':basketball:'
+oomp_word_list:
+- five
+- muscle
+- basketball
+part_number: ''
+size: '0402'
+type: resistor

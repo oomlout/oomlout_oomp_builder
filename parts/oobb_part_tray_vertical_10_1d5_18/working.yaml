@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_1d5_18
+directory: parts/oobb_part_tray_vertical_10_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_1d5_18
+id: oobb_part_tray_vertical_10_1d5_18
+id_no_class: part_tray_vertical_10_1d5_18
+id_no_color: 101d518
+id_no_size: 10_1d5_18
+id_no_type: tray_vertical_10_1d5_18
+manufacturer: ''
+md5: f21422d16654d9e378bdf61ef71a00c9
+md5_10: f21422d166
+md5_10_upper: F21422D166
+md5_5: f2142
+md5_5_upper: F2142
+md5_6: f21422
+md5_6_alpha: 9g1eq
+md5_6_alpha_upper: 9G1EQ
+md5_6_upper: F21422
+name: Oobb Part Tray Vertical 10 1D5 18
+name_no_class: Part Tray Vertical 10 1D5 18
+name_no_color: 101D518
+name_no_size: 10 1D5 18
+name_no_type: Tray Vertical 10 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_10_1d5_18
+oomp_word: one fire lips
+oomp_word_emoji: ':one: :fire: :lips:'
+oomp_word_emoji_list:
+- ':one:'
+- ':fire:'
+- ':lips:'
+oomp_word_list:
+- one
+- fire
+- lips
+part_number: ''
+size: tray_vertical
+type: part

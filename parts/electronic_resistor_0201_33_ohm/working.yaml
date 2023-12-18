@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33_ohm
+directory: parts/electronic_resistor_0201_33_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_33_ohm
+id: electronic_resistor_0201_33_ohm
+id_no_class: resistor_0201_33_ohm
+id_no_color: 33ohm
+id_no_size: 33_ohm
+id_no_type: 0201_33_ohm
+manufacturer: ''
+md5: b040250fc4baab3147145596f7b841ca
+md5_10: b040250fc4
+md5_10_upper: B040250FC4
+md5_5: b0402
+md5_5_upper: B0402
+md5_6: b04025
+md5_6_alpha: 6vkmd
+md5_6_alpha_upper: 6VKMD
+md5_6_upper: B04025
+name: Electronic Resistor 0201 33 Ohm
+name_no_class: Resistor 0201 33 Ohm
+name_no_color: 33Ohm
+name_no_size: 33 Ohm
+name_no_type: 0201 33 Ohm
+oomp_key: oomp_electronic_resistor_0201_33_ohm
+oomp_word: crown racehorse ear
+oomp_word_emoji: ':crown: :racehorse: :ear:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':racehorse:'
+- ':ear:'
+oomp_word_list:
+- crown
+- racehorse
+- ear
+part_number: ''
+size: '0201'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_07_03
+directory: parts/oobb_part_plate_09_07_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_07_03
+id: oobb_part_plate_09_07_03
+id_no_class: part_plate_09_07_03
+id_no_color: 090703
+id_no_size: 09_07_03
+id_no_type: plate_09_07_03
+manufacturer: ''
+md5: 1095304d97e6fc9979f1c55ce1984dbe
+md5_10: 1095304d97
+md5_10_upper: 1095304D97
+md5_5: '10953'
+md5_5_upper: '10953'
+md5_6: '109530'
+md5_6_alpha: nak0
+md5_6_alpha_upper: NAK0
+md5_6_upper: '109530'
+name: Oobb Part Plate 09 07 03
+name_no_class: Part Plate 09 07 03
+name_no_color: 090703
+name_no_size: 09 07 03
+name_no_type: Plate 09 07 03
+oomp_key: oomp_oobb_part_plate_09_07_03
+oomp_word: star telescope foggy
+oomp_word_emoji: ':star: :telescope: :foggy:'
+oomp_word_emoji_list:
+- ':star:'
+- ':telescope:'
+- ':foggy:'
+oomp_word_list:
+- star
+- telescope
+- foggy
+part_number: ''
+size: plate
+type: part

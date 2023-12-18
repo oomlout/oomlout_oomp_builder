@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_40_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+id_no_color: 0206ex40teethshieldshm3
+id_no_size: 02_06_ex_40_teeth_shield_sh_m3
+id_no_type: pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+manufacturer: ''
+md5: a9efef85085f03e2760703d4b5587277
+md5_10: a9efef8508
+md5_10_upper: A9EFEF8508
+md5_5: a9efe
+md5_5_upper: A9EFE
+md5_6: a9efef
+md5_6_alpha: 6mpdb
+md5_6_alpha_upper: 6MPDB
+md5_6_upper: A9EFEF
+name: Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 02 06 Ex 40 Teeth Shield Sh M3
+name_no_color: 0206Ex40Teethshieldshm3
+name_no_size: 02 06 Ex 40 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 02 06 Ex 40 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_m3
+oomp_word: sandal truck truck
+oomp_word_emoji: ':sandal: :truck: :truck:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':truck:'
+- ':truck:'
+oomp_word_list:
+- sandal
+- truck
+- truck
+part_number: ''
+size: pulley_gt2
+type: part

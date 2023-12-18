@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_09
+directory: parts/oobb_part_tray_vertical_2d5_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_02_09
+id: oobb_part_tray_vertical_2d5_02_09
+id_no_class: part_tray_vertical_2d5_02_09
+id_no_color: 2d50209
+id_no_size: 2d5_02_09
+id_no_type: tray_vertical_2d5_02_09
+manufacturer: ''
+md5: 519dfb46f78d9499986d1b663043eb26
+md5_10: 519dfb46f7
+md5_10_upper: 519DFB46F7
+md5_5: 519df
+md5_5_upper: 519DF
+md5_6: 519dfb
+md5_6_alpha: 36n7f
+md5_6_alpha_upper: 36N7F
+md5_6_upper: 519DFB
+name: Oobb Part Tray Vertical 2D5 02 09
+name_no_class: Part Tray Vertical 2D5 02 09
+name_no_color: 2D50209
+name_no_size: 2D5 02 09
+name_no_type: Tray Vertical 2D5 02 09
+oomp_key: oomp_oobb_part_tray_vertical_2d5_02_09
+oomp_word: snail hearts ok
+oomp_word_emoji: ':snail: :hearts: :ok:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':hearts:'
+- ':ok:'
+oomp_word_list:
+- snail
+- hearts
+- ok
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 16005_size
+description_extra: ''
+description_main: 25_mm_id_47_mm_od_8_mm_depth
+directory: parts/hardware_bearing_16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+id: hardware_bearing_16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+id_no_class: bearing_16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+id_no_color: 25_mm_id_47_mm_od_8_mm_depth
+id_no_size: 16005_size_25_mm_id_47_mm_od_8_mm_depth
+id_no_type: 16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+manufacturer: ''
+md5: 1fa23e2e3f577bc83e9d36c69464312d
+md5_10: 1fa23e2e3f
+md5_10_upper: 1FA23E2E3F
+md5_5: 1fa23
+md5_5_upper: 1FA23
+md5_6: 1fa23e
+md5_6_alpha: 18fni
+md5_6_alpha_upper: 18FNI
+md5_6_upper: 1FA23E
+name: Hardware Bearing 16000 Series 16005 Size 25 Mm Id 47 Mm Od 8 Mm Depth
+name_no_class: Bearing 16000 Series 16005 Size 25 Mm Id 47 Mm Od 8 Mm Depth
+name_no_color: 25 Mm Id 47 Mm Od 8 Mm Depth
+name_no_size: 16005 Size 25 Mm Id 47 Mm Od 8 Mm Depth
+name_no_type: 16000 Series 16005 Size 25 Mm Id 47 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16005_size_25_mm_id_47_mm_od_8_mm_depth
+oomp_word: princess violin monkey
+oomp_word_emoji: ':princess: :violin: :monkey:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':violin:'
+- ':monkey:'
+oomp_word_list:
+- princess
+- violin
+- monkey
+part_number: ''
+size: 16000_series
+type: bearing

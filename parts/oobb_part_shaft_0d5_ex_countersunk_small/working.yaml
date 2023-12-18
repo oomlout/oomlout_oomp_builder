@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5_ex_countersunk_small
+directory: parts/oobb_part_shaft_0d5_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5_ex_countersunk_small
+id: oobb_part_shaft_0d5_ex_countersunk_small
+id_no_class: part_shaft_0d5_ex_countersunk_small
+id_no_color: 0d5excountersunksmall
+id_no_size: 0d5_ex_countersunk_small
+id_no_type: shaft_0d5_ex_countersunk_small
+manufacturer: ''
+md5: 9c410fae148e34cca2e09d0dd2e4106d
+md5_10: 9c410fae14
+md5_10_upper: 9C410FAE14
+md5_5: 9c410
+md5_5_upper: 9C410
+md5_6: 9c410f
+md5_6_alpha: 63hfz
+md5_6_alpha_upper: 63HFZ
+md5_6_upper: 9C410F
+name: Oobb Part Shaft 0D5 Ex Countersunk Small
+name_no_class: Part Shaft 0D5 Ex Countersunk Small
+name_no_color: 0D5Excountersunksmall
+name_no_size: 0D5 Ex Countersunk Small
+name_no_type: Shaft 0D5 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_0d5_ex_countersunk_small
+oomp_word: spades camel sparkles
+oomp_word_emoji: ':spades: :camel: :sparkles:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':camel:'
+- ':sparkles:'
+oomp_word_list:
+- spades
+- camel
+- sparkles
+part_number: ''
+size: shaft
+type: part

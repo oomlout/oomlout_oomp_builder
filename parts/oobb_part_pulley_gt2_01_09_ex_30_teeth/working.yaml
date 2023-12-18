@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth
+id_no_color: 0109ex30teeth
+id_no_size: 01_09_ex_30_teeth
+id_no_type: pulley_gt2_01_09_ex_30_teeth
+manufacturer: ''
+md5: df82cd3a9dd77d50a592fd96eb75c969
+md5_10: df82cd3a9d
+md5_10_upper: DF82CD3A9D
+md5_5: df82c
+md5_5_upper: DF82C
+md5_6: df82cd
+md5_6_alpha: 8pyh9
+md5_6_alpha_upper: 8PYH9
+md5_6_upper: DF82CD
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth
+name_no_color: 0109Ex30Teeth
+name_no_size: 01 09 Ex 30 Teeth
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth
+oomp_word: fountain radio strawberry
+oomp_word_emoji: ':fountain: :radio: :strawberry:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':radio:'
+- ':strawberry:'
+oomp_word_list:
+- fountain
+- radio
+- strawberry
+part_number: ''
+size: pulley_gt2
+type: part

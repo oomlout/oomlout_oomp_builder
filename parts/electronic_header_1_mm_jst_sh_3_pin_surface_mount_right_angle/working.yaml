@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 3_pin
+directory: parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+id_no_color: 3pinsurfacemountrightangle
+id_no_size: 3_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_3_pin_surface_mount_right_angle
+manufacturer: ''
+md5: f8650f316ba5d2c2484f5444500fcf5a
+md5_10: f8650f316b
+md5_10_upper: F8650F316B
+md5_5: f8650
+md5_5_upper: F8650
+md5_6: f8650f
+md5_6_alpha: 9owsv
+md5_6_alpha_upper: 9OWSV
+md5_6_upper: F8650F
+name: Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle
+name_no_color: 3Pinsurfacemountrightangle
+name_no_size: 3 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 3 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+oomp_word: seven maple_leaf sparkles
+oomp_word_emoji: ':seven: :maple_leaf: :sparkles:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':maple_leaf:'
+- ':sparkles:'
+oomp_word_list:
+- seven
+- maple_leaf
+- sparkles
+part_number: ''
+size: 1_mm_jst_sh
+type: header

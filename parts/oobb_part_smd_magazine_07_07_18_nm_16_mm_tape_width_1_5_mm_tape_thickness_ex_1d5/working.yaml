@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 070718nm16mmtapewidth15mmtapethicknessex1d5
+id_no_size: 07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 4afa7edcb82af7ac20b2f67a2b437da7
+md5_10: 4afa7edcb8
+md5_10_upper: 4AFA7EDCB8
+md5_5: 4afa7
+md5_5_upper: 4AFA7
+md5_6: 4afa7e
+md5_6_alpha: 2xbi6
+md5_6_alpha_upper: 2XBI6
+md5_6_upper: 4AFA7E
+name: Oobb Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 070718Nm16Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 07 07 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 07 07 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: chicken nine fax
+oomp_word_emoji: ':chicken: :nine: :fax:'
+oomp_word_emoji_list:
+- ':chicken:'
+- ':nine:'
+- ':fax:'
+oomp_word_list:
+- chicken
+- nine
+- fax
+part_number: ''
+size: smd_magazine
+type: part

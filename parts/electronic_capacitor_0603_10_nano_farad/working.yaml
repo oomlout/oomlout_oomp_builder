@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_nano_farad
+directory: parts/electronic_capacitor_0603_10_nano_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+id: electronic_capacitor_0603_10_nano_farad
+id_no_class: capacitor_0603_10_nano_farad
+id_no_color: 10nanofarad
+id_no_size: 10_nano_farad
+id_no_type: 0603_10_nano_farad
+manufacturer: ''
+md5: 33c290430a925ac7c87bd31db1d1a8b7
+md5_10: 33c290430a
+md5_10_upper: 33C290430A
+md5_5: 33c29
+md5_5_upper: 33C29
+md5_6: 33c290
+md5_6_alpha: 20pe8
+md5_6_alpha_upper: 20PE8
+md5_6_upper: 33C290
+name: Electronic Capacitor 0603 10 Nano Farad
+name_no_class: Capacitor 0603 10 Nano Farad
+name_no_color: 10Nanofarad
+name_no_size: 10 Nano Farad
+name_no_type: 0603 10 Nano Farad
+oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
+oomp_word: dog birthday scissors
+oomp_word_emoji: ':dog: :birthday: :scissors:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':birthday:'
+- ':scissors:'
+oomp_word_list:
+- dog
+- birthday
+- scissors
+part_number: ''
+size: '0603'
+type: capacitor

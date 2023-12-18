@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_d
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_d
+id: oobb_part_bunting_alphabet_13_01_ex_d
+id_no_class: part_bunting_alphabet_13_01_ex_d
+id_no_color: 1301exd
+id_no_size: 13_01_ex_d
+id_no_type: bunting_alphabet_13_01_ex_d
+manufacturer: ''
+md5: 6af20e4ae08b3e881da46cfa2a40528b
+md5_10: 6af20e4ae0
+md5_10_upper: 6AF20E4AE0
+md5_5: 6af20
+md5_5_upper: 6AF20
+md5_6: 6af20e
+md5_6_alpha: 4680e
+md5_6_alpha_upper: 4680E
+md5_6_upper: 6AF20E
+name: Oobb Part Bunting Alphabet 13 01 Ex D
+name_no_class: Part Bunting Alphabet 13 01 Ex D
+name_no_color: 1301Exd
+name_no_size: 13 01 Ex D
+name_no_type: Bunting Alphabet 13 01 Ex D
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_d
+oomp_word: palm_tree one cupid
+oomp_word_emoji: ':palm_tree: :one: :cupid:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':one:'
+- ':cupid:'
+oomp_word_list:
+- palm_tree
+- one
+- cupid
+part_number: ''
+size: bunting_alphabet
+type: part

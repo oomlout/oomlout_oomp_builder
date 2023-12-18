@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_ex_12d0_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+id: oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+id_no_class: part_gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+id_no_color: 1d503ex12d0teethshmotortt01
+id_no_size: 1d5_03_ex_12d0_teeth_sh_motor_tt_01
+id_no_type: gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 30369e4cbb77b3dc7fc2d09ed744940b
+md5_10: 30369e4cbb
+md5_10_upper: 30369E4CBB
+md5_5: '30369'
+md5_5_upper: '30369'
+md5_6: 30369e
+md5_6_alpha: 1vq1q
+md5_6_alpha_upper: 1VQ1Q
+md5_6_upper: 30369E
+name: Oobb Part Gear 1D5 03 Ex 12D0 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 1D5 03 Ex 12D0 Teeth Sh Motor Tt 01
+name_no_color: 1D503Ex12D0Teethshmotortt01
+name_no_size: 1D5 03 Ex 12D0 Teeth Sh Motor Tt 01
+name_no_type: Gear 1D5 03 Ex 12D0 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_tt_01
+oomp_word: foggy rabbit clubs
+oomp_word_emoji: ':foggy: :rabbit: :clubs:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':rabbit:'
+- ':clubs:'
+oomp_word_list:
+- foggy
+- rabbit
+- clubs
+part_number: ''
+size: gear
+type: part

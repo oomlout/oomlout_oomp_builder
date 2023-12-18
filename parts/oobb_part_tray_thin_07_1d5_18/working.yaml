@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_1d5_18
+directory: parts/oobb_part_tray_thin_07_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_1d5_18
+id: oobb_part_tray_thin_07_1d5_18
+id_no_class: part_tray_thin_07_1d5_18
+id_no_color: 071d518
+id_no_size: 07_1d5_18
+id_no_type: tray_thin_07_1d5_18
+manufacturer: ''
+md5: dabde065d376fb53f768d9c0cba91f17
+md5_10: dabde065d3
+md5_10_upper: DABDE065D3
+md5_5: dabde
+md5_5_upper: DABDE
+md5_6: dabde0
+md5_6_alpha: 8j9b4
+md5_6_alpha_upper: 8J9B4
+md5_6_upper: DABDE0
+name: Oobb Part Tray Thin 07 1D5 18
+name_no_class: Part Tray Thin 07 1D5 18
+name_no_color: 071D518
+name_no_size: 07 1D5 18
+name_no_type: Tray Thin 07 1D5 18
+oomp_key: oomp_oobb_part_tray_thin_07_1d5_18
+oomp_word: hotel rice ship
+oomp_word_emoji: ':hotel: :rice: :ship:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':rice:'
+- ':ship:'
+oomp_word_list:
+- hotel
+- rice
+- ship
+part_number: ''
+size: tray_thin
+type: part

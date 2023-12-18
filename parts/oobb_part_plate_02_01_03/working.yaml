@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_01_03'
+directory: parts/oobb_part_plate_02_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_01_03
+id: oobb_part_plate_02_01_03
+id_no_class: part_plate_02_01_03
+id_no_color: '020103'
+id_no_size: '02_01_03'
+id_no_type: plate_02_01_03
+manufacturer: ''
+md5: 2cd7a929d6149ee107814d7afa65e2cc
+md5_10: 2cd7a929d6
+md5_10_upper: 2CD7A929D6
+md5_5: 2cd7a
+md5_5_upper: 2CD7A
+md5_6: 2cd7a9
+md5_6_alpha: 1qzl5
+md5_6_alpha_upper: 1QZL5
+md5_6_upper: 2CD7A9
+name: Oobb Part Plate 02 01 03
+name_no_class: Part Plate 02 01 03
+name_no_color: '020103'
+name_no_size: 02 01 03
+name_no_type: Plate 02 01 03
+oomp_key: oomp_oobb_part_plate_02_01_03
+oomp_word: snowflake office sandal
+oomp_word_emoji: ':snowflake: :office: :sandal:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':office:'
+- ':sandal:'
+oomp_word_list:
+- snowflake
+- office
+- sandal
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 0_ohm
+directory: parts/electronic_resistor_0201_0_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_0_ohm
+id: electronic_resistor_0201_0_ohm
+id_no_class: resistor_0201_0_ohm
+id_no_color: 0ohm
+id_no_size: 0_ohm
+id_no_type: 0201_0_ohm
+manufacturer: ''
+md5: 7417b31b5e5c3007f5b33e34c4a5255c
+md5_10: 7417b31b5e
+md5_10_upper: 7417B31B5E
+md5_5: 7417b
+md5_5_upper: 7417B
+md5_6: 7417b3
+md5_6_alpha: 4j2k3
+md5_6_alpha_upper: 4J2K3
+md5_6_upper: 7417B3
+name: Electronic Resistor 0201 0 Ohm
+name_no_class: Resistor 0201 0 Ohm
+name_no_color: 0Ohm
+name_no_size: 0 Ohm
+name_no_type: 0201 0 Ohm
+oomp_key: oomp_electronic_resistor_0201_0_ohm
+oomp_word: fireworks thumbsdown eyeglasses
+oomp_word_emoji: ':fireworks: :thumbsdown: :eyeglasses:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':thumbsdown:'
+- ':eyeglasses:'
+oomp_word_list:
+- fireworks
+- thumbsdown
+- eyeglasses
+part_number: ''
+size: '0201'
+type: resistor

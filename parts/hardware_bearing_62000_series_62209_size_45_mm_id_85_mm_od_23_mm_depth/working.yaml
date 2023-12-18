@@ -1,0 +1,40 @@
+classification: hardware
+color: 62209_size
+description_extra: ''
+description_main: 45_mm_id_85_mm_od_23_mm_depth
+directory: parts/hardware_bearing_62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+id: hardware_bearing_62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+id_no_class: bearing_62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+id_no_color: 45_mm_id_85_mm_od_23_mm_depth
+id_no_size: 62209_size_45_mm_id_85_mm_od_23_mm_depth
+id_no_type: 62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+manufacturer: ''
+md5: dad7a42828e22647d1c7b2553a2660a8
+md5_10: dad7a42828
+md5_10_upper: DAD7A42828
+md5_5: dad7a
+md5_5_upper: DAD7A
+md5_6: dad7a4
+md5_6_alpha: 8jeec
+md5_6_alpha_upper: 8JEEC
+md5_6_upper: DAD7A4
+name: Hardware Bearing 62000 Series 62209 Size 45 Mm Id 85 Mm Od 23 Mm Depth
+name_no_class: Bearing 62000 Series 62209 Size 45 Mm Id 85 Mm Od 23 Mm Depth
+name_no_color: 45 Mm Id 85 Mm Od 23 Mm Depth
+name_no_size: 62209 Size 45 Mm Id 85 Mm Od 23 Mm Depth
+name_no_type: 62000 Series 62209 Size 45 Mm Id 85 Mm Od 23 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62209_size_45_mm_id_85_mm_od_23_mm_depth
+oomp_word: hotel office book
+oomp_word_emoji: ':hotel: :office: :book:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':office:'
+- ':book:'
+oomp_word_list:
+- hotel
+- office
+- book
+part_number: ''
+size: 62000_series
+type: bearing

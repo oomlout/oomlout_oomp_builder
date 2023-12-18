@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_h
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_h
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_h
+id: oobb_part_bunting_alphabet_13_01_ex_h
+id_no_class: part_bunting_alphabet_13_01_ex_h
+id_no_color: 1301exh
+id_no_size: 13_01_ex_h
+id_no_type: bunting_alphabet_13_01_ex_h
+manufacturer: ''
+md5: b44683d2eb9de57ffb0305a52997592e
+md5_10: b44683d2eb
+md5_10_upper: B44683D2EB
+md5_5: b4468
+md5_5_upper: B4468
+md5_6: b44683
+md5_6_alpha: 7185f
+md5_6_alpha_upper: 7185F
+md5_6_upper: B44683
+name: Oobb Part Bunting Alphabet 13 01 Ex H
+name_no_class: Part Bunting Alphabet 13 01 Ex H
+name_no_color: 1301Exh
+name_no_size: 13 01 Ex H
+name_no_type: Bunting Alphabet 13 01 Ex H
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_h
+oomp_word: coffee bird lock
+oomp_word_emoji: ':coffee: :bird: :lock:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':bird:'
+- ':lock:'
+oomp_word_list:
+- coffee
+- bird
+- lock
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_o
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_o
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_o
+id: oobb_part_bunting_alphabet_05_01_ex_o
+id_no_class: part_bunting_alphabet_05_01_ex_o
+id_no_color: 0501exo
+id_no_size: 05_01_ex_o
+id_no_type: bunting_alphabet_05_01_ex_o
+manufacturer: ''
+md5: e065b83b1e1fd1c0217110c27c8aff04
+md5_10: e065b83b1e
+md5_10_upper: E065B83B1E
+md5_5: e065b
+md5_5_upper: E065B
+md5_6: e065b8
+md5_6_alpha: 8r7aw
+md5_6_alpha_upper: 8R7AW
+md5_6_upper: E065B8
+name: Oobb Part Bunting Alphabet 05 01 Ex O
+name_no_class: Part Bunting Alphabet 05 01 Ex O
+name_no_color: 0501Exo
+name_no_size: 05 01 Ex O
+name_no_type: Bunting Alphabet 05 01 Ex O
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_o
+oomp_word: ship maple_leaf hamburger
+oomp_word_emoji: ':ship: :maple_leaf: :hamburger:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':maple_leaf:'
+- ':hamburger:'
+oomp_word_list:
+- ship
+- maple_leaf
+- hamburger
+part_number: ''
+size: bunting_alphabet
+type: part

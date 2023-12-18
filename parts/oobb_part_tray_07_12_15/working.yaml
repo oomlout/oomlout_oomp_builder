@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_12_15'
+directory: parts/oobb_part_tray_07_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_15
+id: oobb_part_tray_07_12_15
+id_no_class: part_tray_07_12_15
+id_no_color: '071215'
+id_no_size: '07_12_15'
+id_no_type: tray_07_12_15
+manufacturer: ''
+md5: 2149a0d76196728695a5c623099712ca
+md5_10: 2149a0d761
+md5_10_upper: 2149A0D761
+md5_5: 2149a
+md5_5_upper: 2149A
+md5_6: 2149a0
+md5_6_alpha: 1ara8
+md5_6_alpha_upper: 1ARA8
+md5_6_upper: 2149A0
+name: Oobb Part Tray 07 12 15
+name_no_class: Part Tray 07 12 15
+name_no_color: '071215'
+name_no_size: 07 12 15
+name_no_type: Tray 07 12 15
+oomp_key: oomp_oobb_part_tray_07_12_15
+oomp_word: feet hatching_chick ring
+oomp_word_emoji: ':feet: :hatching_chick: :ring:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':hatching_chick:'
+- ':ring:'
+oomp_word_list:
+- feet
+- hatching_chick
+- ring
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: i2c
+description_extra: through_hole_right_angle
+description_main: double
+directory: parts/electronic_header_oobb_i2c_double_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle
+id: electronic_header_oobb_i2c_double_through_hole_right_angle
+id_no_class: header_oobb_i2c_double_through_hole_right_angle
+id_no_color: double_through_hole_right_angle
+id_no_size: i2c_double_through_hole_right_angle
+id_no_type: oobb_i2c_double_through_hole_right_angle
+manufacturer: ''
+md5: 2c17791779757cb913c7d472d5ff163b
+md5_10: 2c17791779
+md5_10_upper: 2C17791779
+md5_5: 2c177
+md5_5_upper: 2C177
+md5_6: 2c1779
+md5_6_alpha: 1pxmh
+md5_6_alpha_upper: 1PXMH
+md5_6_upper: 2C1779
+name: Electronic Header Oobb I2C Double Through Hole Right Angle
+name_no_class: Header Oobb I2C Double Through Hole Right Angle
+name_no_color: Double Through Hole Right Angle
+name_no_size: I2C Double Through Hole Right Angle
+name_no_type: Oobb I2C Double Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_i2c_double_through_hole_right_angle
+oomp_word: snowflake thumbsdown balloon
+oomp_word_emoji: ':snowflake: :thumbsdown: :balloon:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':thumbsdown:'
+- ':balloon:'
+oomp_word_list:
+- snowflake
+- thumbsdown
+- balloon
+part_number: ''
+size: oobb
+type: header

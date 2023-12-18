@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_09
+directory: parts/oobb_part_plate_03_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_09
+id: oobb_part_plate_03_03_09
+id_no_class: part_plate_03_03_09
+id_no_color: 030309
+id_no_size: 03_03_09
+id_no_type: plate_03_03_09
+manufacturer: ''
+md5: 4109605799d1435b9e9dd86deeec9f22
+md5_10: '4109605799'
+md5_10_upper: '4109605799'
+md5_5: '41096'
+md5_5_upper: '41096'
+md5_6: '410960'
+md5_6_alpha: 2jcrk
+md5_6_alpha_upper: 2JCRK
+md5_6_upper: '410960'
+name: Oobb Part Plate 03 03 09
+name_no_class: Part Plate 03 03 09
+name_no_color: 030309
+name_no_size: 03 03 09
+name_no_type: Plate 03 03 09
+oomp_key: oomp_oobb_part_plate_03_03_09
+oomp_word: camel angry poodle
+oomp_word_emoji: ':camel: :angry: :poodle:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':angry:'
+- ':poodle:'
+oomp_word_list:
+- camel
+- angry
+- poodle
+part_number: ''
+size: plate
+type: part

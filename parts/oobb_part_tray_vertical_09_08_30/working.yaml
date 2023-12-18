@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_08_30
+directory: parts/oobb_part_tray_vertical_09_08_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_08_30
+id: oobb_part_tray_vertical_09_08_30
+id_no_class: part_tray_vertical_09_08_30
+id_no_color: 090830
+id_no_size: 09_08_30
+id_no_type: tray_vertical_09_08_30
+manufacturer: ''
+md5: 57203388fb77e501295ba5a2f404f569
+md5_10: 57203388fb
+md5_10_upper: 57203388FB
+md5_5: '57203'
+md5_5_upper: '57203'
+md5_6: '572033'
+md5_6_alpha: 3edrn
+md5_6_alpha_upper: 3EDRN
+md5_6_upper: '572033'
+name: Oobb Part Tray Vertical 09 08 30
+name_no_class: Part Tray Vertical 09 08 30
+name_no_color: 090830
+name_no_size: 09 08 30
+name_no_type: Tray Vertical 09 08 30
+oomp_key: oomp_oobb_part_tray_vertical_09_08_30
+oomp_word: rat skull dog
+oomp_word_emoji: ':rat: :skull: :dog:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':skull:'
+- ':dog:'
+oomp_word_list:
+- rat
+- skull
+- dog
+part_number: ''
+size: tray_vertical
+type: part

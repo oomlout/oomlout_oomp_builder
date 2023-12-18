@@ -1,0 +1,40 @@
+classification: hardware
+color: 6810_size
+description_extra: ''
+description_main: 50_mm_id_65_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+id: hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+id_no_class: bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+id_no_color: 50_mm_id_65_mm_od_7_mm_depth
+id_no_size: 6810_size_50_mm_id_65_mm_od_7_mm_depth
+id_no_type: 6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+manufacturer: ''
+md5: cb4eb99a384ce4439e763e05c6830f0a
+md5_10: cb4eb99a38
+md5_10_upper: CB4EB99A38
+md5_5: cb4eb
+md5_5_upper: CB4EB
+md5_6: cb4eb9
+md5_6_alpha: 7xku1
+md5_6_alpha_upper: 7XKU1
+md5_6_upper: CB4EB9
+name: Hardware Bearing 6800 Series 6810 Size 50 Mm Id 65 Mm Od 7 Mm Depth
+name_no_class: Bearing 6800 Series 6810 Size 50 Mm Id 65 Mm Od 7 Mm Depth
+name_no_color: 50 Mm Id 65 Mm Od 7 Mm Depth
+name_no_size: 6810 Size 50 Mm Id 65 Mm Od 7 Mm Depth
+name_no_type: 6800 Series 6810 Size 50 Mm Id 65 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+oomp_word: grapes honeybee fries
+oomp_word_emoji: ':grapes: :honeybee: :fries:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':honeybee:'
+- ':fries:'
+oomp_word_list:
+- grapes
+- honeybee
+- fries
+part_number: ''
+size: 6800_series
+type: bearing

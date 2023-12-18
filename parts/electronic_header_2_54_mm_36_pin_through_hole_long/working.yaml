@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 36_pin
+directory: parts/electronic_header_2_54_mm_36_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_through_hole_long
+id: electronic_header_2_54_mm_36_pin_through_hole_long
+id_no_class: header_2_54_mm_36_pin_through_hole_long
+id_no_color: 36pinthroughholelong
+id_no_size: 36_pin_through_hole_long
+id_no_type: 2_54_mm_36_pin_through_hole_long
+manufacturer: ''
+md5: 9b6980ab9e9e28f30fce5756e2408016
+md5_10: 9b6980ab9e
+md5_10_upper: 9B6980AB9E
+md5_5: 9b698
+md5_5_upper: 9B698
+md5_6: 9b6980
+md5_6_alpha: 62av4
+md5_6_alpha_upper: 62AV4
+md5_6_upper: 9B6980
+name: Electronic Header 2 54 Mm 36 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 36 Pin Through Hole Long
+name_no_color: 36Pinthroughholelong
+name_no_size: 36 Pin Through Hole Long
+name_no_type: 2 54 Mm 36 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_36_pin_through_hole_long
+oomp_word: ski cactus hourglass
+oomp_word_emoji: ':ski: :cactus: :hourglass:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':cactus:'
+- ':hourglass:'
+oomp_word_list:
+- ski
+- cactus
+- hourglass
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_r
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_r
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_r
+id: oobb_part_bunting_alphabet_03_01_ex_r
+id_no_class: part_bunting_alphabet_03_01_ex_r
+id_no_color: 0301exr
+id_no_size: 03_01_ex_r
+id_no_type: bunting_alphabet_03_01_ex_r
+manufacturer: ''
+md5: b005625b68753d5e9d7f6e7a09687403
+md5_10: b005625b68
+md5_10_upper: B005625B68
+md5_5: b0056
+md5_5_upper: B0056
+md5_6: b00562
+md5_6_alpha: 6v90i
+md5_6_alpha_upper: 6V90I
+md5_6_upper: B00562
+name: Oobb Part Bunting Alphabet 03 01 Ex R
+name_no_class: Part Bunting Alphabet 03 01 Ex R
+name_no_color: 0301Exr
+name_no_size: 03 01 Ex R
+name_no_type: Bunting Alphabet 03 01 Ex R
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_r
+oomp_word: crown kissing tulip
+oomp_word_emoji: ':crown: :kissing: :tulip:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':kissing:'
+- ':tulip:'
+oomp_word_list:
+- crown
+- kissing
+- tulip
+part_number: ''
+size: bunting_alphabet
+type: part

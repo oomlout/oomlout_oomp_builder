@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_15
+directory: parts/oobb_part_tray_thin_09_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_04_15
+id: oobb_part_tray_thin_09_04_15
+id_no_class: part_tray_thin_09_04_15
+id_no_color: 090415
+id_no_size: 09_04_15
+id_no_type: tray_thin_09_04_15
+manufacturer: ''
+md5: a7119fb7b4c0c5c9c4b7dc7685144b91
+md5_10: a7119fb7b4
+md5_10_upper: A7119FB7B4
+md5_5: a7119
+md5_5_upper: A7119
+md5_6: a7119f
+md5_6_alpha: 6iobj
+md5_6_alpha_upper: 6IOBJ
+md5_6_upper: A7119F
+name: Oobb Part Tray Thin 09 04 15
+name_no_class: Part Tray Thin 09 04 15
+name_no_color: 090415
+name_no_size: 09 04 15
+name_no_type: Tray Thin 09 04 15
+oomp_key: oomp_oobb_part_tray_thin_09_04_15
+oomp_word: guitar dizzy diamonds
+oomp_word_emoji: ':guitar: :dizzy: :diamonds:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':dizzy:'
+- ':diamonds:'
+oomp_word_list:
+- guitar
+- dizzy
+- diamonds
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 10_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+id_no_color: 10pinsurfacemountrightangle
+id_no_size: 10_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 1e928c6250e097adb7a9ddc9e0e16350
+md5_10: 1e928c6250
+md5_10_upper: 1E928C6250
+md5_5: 1e928
+md5_5_upper: 1E928
+md5_6: 1e928c
+md5_6_alpha: 16xzg
+md5_6_alpha_upper: 16XZG
+md5_6_upper: 1E928C
+name: Electronic Header 2 5 Mm Jst Xh 10 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 10 Pin Surface Mount Right Angle
+name_no_color: 10Pinsurfacemountrightangle
+name_no_size: 10 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 10 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_10_pin_surface_mount_right_angle
+oomp_word: angel paperclip pill
+oomp_word_emoji: ':angel: :paperclip: :pill:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':paperclip:'
+- ':pill:'
+oomp_word_list:
+- angel
+- paperclip
+- pill
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

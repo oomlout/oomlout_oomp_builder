@@ -1,0 +1,44 @@
+classification: electronic
+color: led_driver
+description_extra: ''
+description_main: led_matrix_driver_16_x_8
+directory: parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id: electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id_no_class: ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id_no_color: so28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id_no_size: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id_no_type: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+manufacturer: wuxi_i_core_electronics_co_ltd
+md5: 0f044b55d79afe75a134069d87ede35f
+md5_10: 0f044b55d7
+md5_10_upper: 0F044B55D7
+md5_5: 0f044
+md5_5_upper: 0F044
+md5_6: 0f044b
+md5_6_alpha: l3d7
+md5_6_alpha_upper: L3D7
+md5_6_upper: 0F044B
+name: Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+  Co Ltd Aip1640
+name_no_class: Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+  Co Ltd Aip1640
+name_no_color: So28 Wide Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640
+name_no_size: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+  Co Ltd Aip1640
+name_no_type: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+  Co Ltd Aip1640
+oomp_key: oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+oomp_word: sparkles wink penguin
+oomp_word_emoji: ':sparkles: :wink: :penguin:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':wink:'
+- ':penguin:'
+oomp_word_list:
+- sparkles
+- wink
+- penguin
+part_number: aip1640
+size: soic_28_wide
+type: ic

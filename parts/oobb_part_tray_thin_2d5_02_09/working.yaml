@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_09
+directory: parts/oobb_part_tray_thin_2d5_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_02_09
+id: oobb_part_tray_thin_2d5_02_09
+id_no_class: part_tray_thin_2d5_02_09
+id_no_color: 2d50209
+id_no_size: 2d5_02_09
+id_no_type: tray_thin_2d5_02_09
+manufacturer: ''
+md5: cb5048045ec3202397699a8e1592317f
+md5_10: cb5048045e
+md5_10_upper: CB5048045E
+md5_5: cb504
+md5_5_upper: CB504
+md5_6: cb5048
+md5_6_alpha: 7xl54
+md5_6_alpha_upper: 7XL54
+md5_6_upper: CB5048
+name: Oobb Part Tray Thin 2D5 02 09
+name_no_class: Part Tray Thin 2D5 02 09
+name_no_color: 2D50209
+name_no_size: 2D5 02 09
+name_no_type: Tray Thin 2D5 02 09
+oomp_key: oomp_oobb_part_tray_thin_2d5_02_09
+oomp_word: grapes beetle hatched_chick
+oomp_word_emoji: ':grapes: :beetle: :hatched_chick:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':beetle:'
+- ':hatched_chick:'
+oomp_word_list:
+- grapes
+- beetle
+- hatched_chick
+part_number: ''
+size: tray_thin
+type: part

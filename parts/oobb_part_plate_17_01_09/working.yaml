@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '17_01_09'
+directory: parts/oobb_part_plate_17_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_17_01_09
+id: oobb_part_plate_17_01_09
+id_no_class: part_plate_17_01_09
+id_no_color: '170109'
+id_no_size: '17_01_09'
+id_no_type: plate_17_01_09
+manufacturer: ''
+md5: 39853033eff96231319dfa902be4fd93
+md5_10: 39853033ef
+md5_10_upper: 39853033EF
+md5_5: '39853'
+md5_5_upper: '39853'
+md5_6: '398530'
+md5_6_alpha: 28sog
+md5_6_alpha_upper: 28SOG
+md5_6_upper: '398530'
+name: Oobb Part Plate 17 01 09
+name_no_class: Part Plate 17 01 09
+name_no_color: '170109'
+name_no_size: 17 01 09
+name_no_type: Plate 17 01 09
+oomp_key: oomp_oobb_part_plate_17_01_09
+oomp_word: tiger bulb foggy
+oomp_word_emoji: ':tiger: :bulb: :foggy:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':bulb:'
+- ':foggy:'
+oomp_word_list:
+- tiger
+- bulb
+- foggy
+part_number: ''
+size: plate
+type: part

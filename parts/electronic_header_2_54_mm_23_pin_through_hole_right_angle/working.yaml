@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 23_pin
+directory: parts/electronic_header_2_54_mm_23_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_23_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_23_pin_through_hole_right_angle
+id_no_color: 23pinthroughholerightangle
+id_no_size: 23_pin_through_hole_right_angle
+id_no_type: 2_54_mm_23_pin_through_hole_right_angle
+manufacturer: ''
+md5: 8f404d7a2a7a5375b9f05e20547de887
+md5_10: 8f404d7a2a
+md5_10_upper: 8F404D7A2A
+md5_5: 8f404
+md5_5_upper: 8F404
+md5_6: 8f404d
+md5_6_alpha: 5l7wt
+md5_6_alpha_upper: 5L7WT
+md5_6_upper: 8F404D
+name: Electronic Header 2 54 Mm 23 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 23 Pin Through Hole Right Angle
+name_no_color: 23Pinthroughholerightangle
+name_no_size: 23 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 23 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_23_pin_through_hole_right_angle
+oomp_word: calendar racehorse bug
+oomp_word_emoji: ':calendar: :racehorse: :bug:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':racehorse:'
+- ':bug:'
+oomp_word_list:
+- calendar
+- racehorse
+- bug
+part_number: ''
+size: 2_54_mm
+type: header

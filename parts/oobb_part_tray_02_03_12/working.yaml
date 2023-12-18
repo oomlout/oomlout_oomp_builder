@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_03_12'
+directory: parts/oobb_part_tray_02_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_03_12
+id: oobb_part_tray_02_03_12
+id_no_class: part_tray_02_03_12
+id_no_color: '020312'
+id_no_size: '02_03_12'
+id_no_type: tray_02_03_12
+manufacturer: ''
+md5: 5d4b7e74151a741b887c2cf505dd222f
+md5_10: 5d4b7e7415
+md5_10_upper: 5D4B7E7415
+md5_5: 5d4b7
+md5_5_upper: 5D4B7
+md5_6: 5d4b7e
+md5_6_alpha: 3n1q6
+md5_6_alpha_upper: 3N1Q6
+md5_6_upper: 5D4B7E
+name: Oobb Part Tray 02 03 12
+name_no_class: Part Tray 02 03 12
+name_no_color: '020312'
+name_no_size: 02 03 12
+name_no_type: Tray 02 03 12
+oomp_key: oomp_oobb_part_tray_02_03_12
+oomp_word: blowfish penguin fax
+oomp_word_emoji: ':blowfish: :penguin: :fax:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':penguin:'
+- ':fax:'
+oomp_word_list:
+- blowfish
+- penguin
+- fax
+part_number: ''
+size: tray
+type: part

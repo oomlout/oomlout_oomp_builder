@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100000_ohm
+directory: parts/electronic_resistor_0201_100000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_100000_ohm
+id: electronic_resistor_0201_100000_ohm
+id_no_class: resistor_0201_100000_ohm
+id_no_color: 100000ohm
+id_no_size: 100000_ohm
+id_no_type: 0201_100000_ohm
+manufacturer: ''
+md5: 2841761d57f8749b807a69f15974243d
+md5_10: 2841761d57
+md5_10_upper: 2841761D57
+md5_5: '28417'
+md5_5_upper: '28417'
+md5_6: '284176'
+md5_6_alpha: 1kjna
+md5_6_alpha_upper: 1KJNA
+md5_6_upper: '284176'
+name: Electronic Resistor 0201 100000 Ohm
+name_no_class: Resistor 0201 100000 Ohm
+name_no_color: 100000Ohm
+name_no_size: 100000 Ohm
+name_no_type: 0201 100000 Ohm
+oomp_key: oomp_electronic_resistor_0201_100000_ohm
+oomp_word: tongue camel santa
+oomp_word_emoji: ':tongue: :camel: :santa:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':camel:'
+- ':santa:'
+oomp_word_list:
+- tongue
+- camel
+- santa
+part_number: ''
+size: '0201'
+type: resistor

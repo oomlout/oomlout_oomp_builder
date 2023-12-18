@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x36_72_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+id_no_color: 2x3672pinsurfacemountrightangle
+id_no_size: 2x36_72_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 50f9e8c4cac84e1c1347561009320725
+md5_10: 50f9e8c4ca
+md5_10_upper: 50F9E8C4CA
+md5_5: 50f9e
+md5_5_upper: 50F9E
+md5_6: 50f9e8
+md5_6_alpha: 35qso
+md5_6_alpha_upper: 35QSO
+md5_6_upper: 50F9E8
+name: Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X36 72 Pin Surface Mount Right Angle
+name_no_color: 2X3672Pinsurfacemountrightangle
+name_no_size: 2X36 72 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X36 72 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount_right_angle
+oomp_word: beetle eight tram
+oomp_word_emoji: ':beetle: :eight: :tram:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':eight:'
+- ':tram:'
+oomp_word_list:
+- beetle
+- eight
+- tram
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

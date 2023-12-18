@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x18_36_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x18_36_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x18_36_pin_surface_mount
+id_no_color: 2x1836pinsurfacemount
+id_no_size: 2x18_36_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x18_36_pin_surface_mount
+manufacturer: ''
+md5: 42148509def25acdf9ecf41f22292243
+md5_10: 42148509de
+md5_10_upper: 42148509DE
+md5_5: '42148'
+md5_5_upper: '42148'
+md5_6: '421485'
+md5_6_alpha: 2ktj9
+md5_6_alpha_upper: 2KTJ9
+md5_6_upper: '421485'
+name: Electronic Header 2 54 Mm Dual Row 2X18 36 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X18 36 Pin Surface Mount
+name_no_color: 2X1836Pinsurfacemount
+name_no_size: 2X18 36 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X18 36 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x18_36_pin_surface_mount
+oomp_word: sheep fire bulb
+oomp_word_emoji: ':sheep: :fire: :bulb:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':fire:'
+- ':bulb:'
+oomp_word_list:
+- sheep
+- fire
+- bulb
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

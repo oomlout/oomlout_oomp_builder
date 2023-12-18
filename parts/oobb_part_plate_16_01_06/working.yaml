@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_01_06'
+directory: parts/oobb_part_plate_16_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_01_06
+id: oobb_part_plate_16_01_06
+id_no_class: part_plate_16_01_06
+id_no_color: '160106'
+id_no_size: '16_01_06'
+id_no_type: plate_16_01_06
+manufacturer: ''
+md5: 8ddf45a1def987d4351c9348a45442f5
+md5_10: 8ddf45a1de
+md5_10_upper: 8DDF45A1DE
+md5_5: 8ddf4
+md5_5_upper: 8DDF4
+md5_6: 8ddf45
+md5_6_alpha: 5ja6d
+md5_6_alpha_upper: 5JA6D
+md5_6_upper: 8DDF45
+name: Oobb Part Plate 16 01 06
+name_no_class: Part Plate 16 01 06
+name_no_color: '160106'
+name_no_size: 16 01 06
+name_no_type: Plate 16 01 06
+oomp_key: oomp_oobb_part_plate_16_01_06
+oomp_word: scroll fountain snake
+oomp_word_emoji: ':scroll: :fountain: :snake:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':fountain:'
+- ':snake:'
+oomp_word_list:
+- scroll
+- fountain
+- snake
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_06'
+directory: parts/oobb_part_plate_05_05_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_06
+id: oobb_part_plate_05_05_06
+id_no_class: part_plate_05_05_06
+id_no_color: '050506'
+id_no_size: '05_05_06'
+id_no_type: plate_05_05_06
+manufacturer: ''
+md5: 5341511165b660e6c0f4f57e3a6bfe22
+md5_10: '5341511165'
+md5_10_upper: '5341511165'
+md5_5: '53415'
+md5_5_upper: '53415'
+md5_6: '534151'
+md5_6_alpha: 38y1d
+md5_6_alpha_upper: 38Y1D
+md5_6_upper: '534151'
+name: Oobb Part Plate 05 05 06
+name_no_class: Part Plate 05 05 06
+name_no_color: '050506'
+name_no_size: 05 05 06
+name_no_type: Plate 05 05 06
+oomp_key: oomp_oobb_part_plate_05_05_06
+oomp_word: fish camel snail
+oomp_word_emoji: ':fish: :camel: :snail:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':camel:'
+- ':snail:'
+oomp_word_list:
+- fish
+- camel
+- snail
+part_number: ''
+size: plate
+type: part

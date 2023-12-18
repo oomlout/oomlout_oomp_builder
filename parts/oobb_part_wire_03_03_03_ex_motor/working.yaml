@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_motor
+directory: parts/oobb_part_wire_03_03_03_ex_motor
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03_ex_motor
+id: oobb_part_wire_03_03_03_ex_motor
+id_no_class: part_wire_03_03_03_ex_motor
+id_no_color: 030303exmotor
+id_no_size: 03_03_03_ex_motor
+id_no_type: wire_03_03_03_ex_motor
+manufacturer: ''
+md5: 5f3b44e68e7f7e8a69aa7b6dd5e8957e
+md5_10: 5f3b44e68e
+md5_10_upper: 5F3B44E68E
+md5_5: 5f3b4
+md5_5_upper: 5F3B4
+md5_6: 5f3b44
+md5_6_alpha: 3prno
+md5_6_alpha_upper: 3PRNO
+md5_6_upper: 5F3B44
+name: Oobb Part Wire 03 03 03 Ex Motor
+name_no_class: Part Wire 03 03 03 Ex Motor
+name_no_color: 030303Exmotor
+name_no_size: 03 03 03 Ex Motor
+name_no_type: Wire 03 03 03 Ex Motor
+oomp_key: oomp_oobb_part_wire_03_03_03_ex_motor
+oomp_word: leopard bear panda_face
+oomp_word_emoji: ':leopard: :bear: :panda_face:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':bear:'
+- ':panda_face:'
+oomp_word_list:
+- leopard
+- bear
+- panda_face
+part_number: ''
+size: wire
+type: part

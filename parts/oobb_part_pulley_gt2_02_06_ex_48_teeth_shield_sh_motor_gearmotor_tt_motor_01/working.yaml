@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0206ex48teethshieldshmotorgearmotorttmotor01
+id_no_size: 02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: 4cd398ddb3b025e22e9c2c3bd35f1554
+md5_10: 4cd398ddb3
+md5_10_upper: 4CD398DDB3
+md5_5: 4cd39
+md5_5_upper: 4CD39
+md5_6: 4cd398
+md5_6_alpha: 2zwyg
+md5_6_alpha_upper: 2ZWYG
+md5_6_upper: 4CD398
+name: Oobb Part Pulley Gt2 02 06 Ex 48 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 02 06 Ex 48 Teeth Shield Sh Motor Gearmotor Tt Motor
+  01
+name_no_color: 0206Ex48Teethshieldshmotorgearmotorttmotor01
+name_no_size: 02 06 Ex 48 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 02 06 Ex 48 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_motor_gearmotor_tt_motor_01
+oomp_word: turtle tomato tennis
+oomp_word_emoji: ':turtle: :tomato: :tennis:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':tomato:'
+- ':tennis:'
+oomp_word_list:
+- turtle
+- tomato
+- tennis
+part_number: ''
+size: pulley_gt2
+type: part

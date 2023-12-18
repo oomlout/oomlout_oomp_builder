@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 10_pin
+directory: parts/electronic_socket_2_54_mm_10_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole_long
+id: electronic_socket_2_54_mm_10_pin_through_hole_long
+id_no_class: socket_2_54_mm_10_pin_through_hole_long
+id_no_color: 10pinthroughholelong
+id_no_size: 10_pin_through_hole_long
+id_no_type: 2_54_mm_10_pin_through_hole_long
+manufacturer: ''
+md5: b7ffde9513a7d42477d54d8564259184
+md5_10: b7ffde9513
+md5_10_upper: B7FFDE9513
+md5_5: b7ffd
+md5_5_upper: B7FFD
+md5_6: b7ffde
+md5_6_alpha: 76ggu
+md5_6_alpha_upper: 76GGU
+md5_6_upper: B7FFDE
+name: Electronic Socket 2 54 Mm 10 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 10 Pin Through Hole Long
+name_no_color: 10Pinthroughholelong
+name_no_size: 10 Pin Through Hole Long
+name_no_type: 2 54 Mm 10 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_10_pin_through_hole_long
+oomp_word: pizza trident rainbow
+oomp_word_emoji: ':pizza: :trident: :rainbow:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':trident:'
+- ':rainbow:'
+oomp_word_list:
+- pizza
+- trident
+- rainbow
+part_number: ''
+size: 2_54_mm
+type: socket

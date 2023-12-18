@@ -1,0 +1,40 @@
+classification: hardware
+color: 6226_size
+description_extra: ''
+description_main: 130_mm_id_230_mm_od_40_mm_depth
+directory: parts/hardware_bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+id: hardware_bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+id_no_class: bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+id_no_color: 130_mm_id_230_mm_od_40_mm_depth
+id_no_size: 6226_size_130_mm_id_230_mm_od_40_mm_depth
+id_no_type: 6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+manufacturer: ''
+md5: 52ba92c2ed3ab8b8dad0ad171d297aa3
+md5_10: 52ba92c2ed
+md5_10_upper: 52BA92C2ED
+md5_5: 52ba9
+md5_5_upper: 52BA9
+md5_6: 52ba92
+md5_6_alpha: 387f6
+md5_6_alpha_upper: 387F6
+md5_6_upper: 52BA92
+name: Hardware Bearing 6200 Series 6226 Size 130 Mm Id 230 Mm Od 40 Mm Depth
+name_no_class: Bearing 6200 Series 6226 Size 130 Mm Id 230 Mm Od 40 Mm Depth
+name_no_color: 130 Mm Id 230 Mm Od 40 Mm Depth
+name_no_size: 6226 Size 130 Mm Id 230 Mm Od 40 Mm Depth
+name_no_type: 6200 Series 6226 Size 130 Mm Id 230 Mm Od 40 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
+oomp_word: octopus spaghetti paperclip
+oomp_word_emoji: ':octopus: :spaghetti: :paperclip:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':spaghetti:'
+- ':paperclip:'
+oomp_word_list:
+- octopus
+- spaghetti
+- paperclip
+part_number: ''
+size: 6200_series
+type: bearing

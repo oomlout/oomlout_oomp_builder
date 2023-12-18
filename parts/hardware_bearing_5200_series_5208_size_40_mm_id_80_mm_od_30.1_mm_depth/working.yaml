@@ -1,0 +1,40 @@
+classification: hardware
+color: 5208_size
+description_extra: ''
+description_main: 40_mm_id_80_mm_od_30.1_mm_depth
+directory: parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+id: hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+id_no_class: bearing_5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+id_no_color: 40_mm_id_80_mm_od_30.1_mm_depth
+id_no_size: 5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+id_no_type: 5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+manufacturer: ''
+md5: 02b445268286fb346a0700ff888c4229
+md5_10: 02b4452682
+md5_10_upper: 02B4452682
+md5_5: 02b44
+md5_5_upper: 02B44
+md5_6: 02b445
+md5_6_alpha: 3sqt
+md5_6_alpha_upper: 3SQT
+md5_6_upper: 02B445
+name: Hardware Bearing 5200 Series 5208 Size 40 Mm Id 80 Mm Od 30.1 Mm Depth
+name_no_class: Bearing 5200 Series 5208 Size 40 Mm Id 80 Mm Od 30.1 Mm Depth
+name_no_color: 40 Mm Id 80 Mm Od 30.1 Mm Depth
+name_no_size: 5208 Size 40 Mm Id 80 Mm Od 30.1 Mm Depth
+name_no_type: 5200 Series 5208 Size 40 Mm Id 80 Mm Od 30.1 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30.1_mm_depth
+oomp_word: blush coffee snake
+oomp_word_emoji: ':blush: :coffee: :snake:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':coffee:'
+- ':snake:'
+oomp_word_list:
+- blush
+- coffee
+- snake
+part_number: ''
+size: 5200_series
+type: bearing

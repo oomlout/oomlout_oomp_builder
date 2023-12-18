@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_30
+directory: parts/oobb_part_tray_vertical_09_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_01_30
+id: oobb_part_tray_vertical_09_01_30
+id_no_class: part_tray_vertical_09_01_30
+id_no_color: 090130
+id_no_size: 09_01_30
+id_no_type: tray_vertical_09_01_30
+manufacturer: ''
+md5: 469e7940635c33b3455a1a3dca819a24
+md5_10: 469e794063
+md5_10_upper: 469E794063
+md5_5: 469e7
+md5_5_upper: 469E7
+md5_6: 469e79
+md5_6_alpha: 2r721
+md5_6_alpha_upper: 2R721
+md5_6_upper: 469E79
+name: Oobb Part Tray Vertical 09 01 30
+name_no_class: Part Tray Vertical 09 01 30
+name_no_color: 090130
+name_no_size: 09 01 30
+name_no_type: Tray Vertical 09 01 30
+oomp_key: oomp_oobb_part_tray_vertical_09_01_30
+oomp_word: bird clubs balloon
+oomp_word_emoji: ':bird: :clubs: :balloon:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':clubs:'
+- ':balloon:'
+oomp_word_list:
+- bird
+- clubs
+- balloon
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: surface_mount
+directory: parts/electronic_socket_usb_micro_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount
+id: electronic_socket_usb_micro_surface_mount
+id_no_class: socket_usb_micro_surface_mount
+id_no_color: surfacemount
+id_no_size: surface_mount
+id_no_type: usb_micro_surface_mount
+manufacturer: ''
+md5: aae3e879c3fb0042b5bcdf92835870fd
+md5_10: aae3e879c3
+md5_10_upper: AAE3E879C3
+md5_5: aae3e
+md5_5_upper: AAE3E
+md5_6: aae3e8
+md5_6_alpha: 6o1k8
+md5_6_alpha_upper: 6O1K8
+md5_6_upper: AAE3E8
+name: Electronic Socket Usb Micro Surface Mount
+name_no_class: Socket Usb Micro Surface Mount
+name_no_color: Surfacemount
+name_no_size: Surface Mount
+name_no_type: Usb Micro Surface Mount
+oomp_key: oomp_electronic_socket_usb_micro_surface_mount
+oomp_word: lipstick rowboat tram
+oomp_word_emoji: ':lipstick: :rowboat: :tram:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':rowboat:'
+- ':tram:'
+oomp_word_list:
+- lipstick
+- rowboat
+- tram
+part_number: ''
+size: usb_micro
+type: socket

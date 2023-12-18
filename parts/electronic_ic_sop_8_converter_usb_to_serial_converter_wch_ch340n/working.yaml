@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+id_no_class: ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+id_no_color: usb_to_serial_wch_ch340n
+id_no_size: converter_usb_to_serial_converter_wch_ch340n
+id_no_type: sop_8_converter_usb_to_serial_converter_wch_ch340n
+manufacturer: wch
+md5: ad943042c130da51dd0876d34a6d99a2
+md5_10: ad943042c1
+md5_10_upper: AD943042C1
+md5_5: ad943
+md5_5_upper: AD943
+md5_6: ad9430
+md5_6_alpha: 6rtio
+md5_6_alpha_upper: 6RTIO
+md5_6_upper: AD9430
+name: Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N
+name_no_class: Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N
+name_no_color: Usb To Serial Wch Ch340N
+name_no_size: Converter Usb To Serial Converter Wch Ch340N
+name_no_type: Sop 8 Converter Usb To Serial Converter Wch Ch340N
+oomp_key: oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+oomp_word: dress microscope foggy
+oomp_word_emoji: ':dress: :microscope: :foggy:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':microscope:'
+- ':foggy:'
+oomp_word_list:
+- dress
+- microscope
+- foggy
+part_number: ch340n
+size: sop_8
+type: ic

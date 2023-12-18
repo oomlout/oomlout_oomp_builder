@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_4700_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_4700_ohm
+id: electronic_resistor_quarter_watt_through_hole_4700_ohm
+id_no_class: resistor_quarter_watt_through_hole_4700_ohm
+id_no_color: 4700ohm
+id_no_size: 4700_ohm
+id_no_type: quarter_watt_through_hole_4700_ohm
+manufacturer: ''
+md5: b323516987a924c4a942f77453108183
+md5_10: b323516987
+md5_10_upper: B323516987
+md5_5: b3235
+md5_5_upper: B3235
+md5_6: b32351
+md5_6_alpha: 6zmmp
+md5_6_alpha_upper: 6ZMMP
+md5_6_upper: B32351
+name: Electronic Resistor Quarter Watt Through Hole 4700 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 4700 Ohm
+name_no_color: 4700Ohm
+name_no_size: 4700 Ohm
+name_no_type: Quarter Watt Through Hole 4700 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_4700_ohm
+oomp_word: eyeglasses kiss snail
+oomp_word_emoji: ':eyeglasses: :kiss: :snail:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':kiss:'
+- ':snail:'
+oomp_word_list:
+- eyeglasses
+- kiss
+- snail
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

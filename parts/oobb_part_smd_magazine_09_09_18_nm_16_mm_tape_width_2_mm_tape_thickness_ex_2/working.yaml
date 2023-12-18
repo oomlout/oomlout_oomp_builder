@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+directory: parts/oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id: oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_class: part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 090918nm16mmtapewidth2mmtapethicknessex2
+id_no_size: 09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_type: smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+md5: 18969b6b11af2d12b00b53dff3a5e5a2
+md5_10: 18969b6b11
+md5_10_upper: 18969B6B11
+md5_5: '18969'
+md5_5_upper: '18969'
+md5_6: 18969b
+md5_6_alpha: yjdn
+md5_6_alpha_upper: YJDN
+md5_6_upper: 18969B
+name: Oobb Part Smd Magazine 09 09 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_class: Part Smd Magazine 09 09 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness
+  Ex 2
+name_no_color: 090918Nm16Mmtapewidth2Mmtapethicknessex2
+name_no_size: 09 09 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_type: Smd Magazine 09 09 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+oomp_key: oomp_oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+oomp_word: hand basketball ski
+oomp_word_emoji: ':hand: :basketball: :ski:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':basketball:'
+- ':ski:'
+oomp_word_list:
+- hand
+- basketball
+- ski
+part_number: ''
+size: smd_magazine
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_08_03'
+directory: parts/oobb_part_plate_15_08_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_08_03
+id: oobb_part_plate_15_08_03
+id_no_class: part_plate_15_08_03
+id_no_color: '150803'
+id_no_size: '15_08_03'
+id_no_type: plate_15_08_03
+manufacturer: ''
+md5: 0fa70cea16de5ed182a4f632b49f91c8
+md5_10: 0fa70cea16
+md5_10_upper: 0FA70CEA16
+md5_5: 0fa70
+md5_5_upper: 0FA70
+md5_6: 0fa70c
+md5_6_alpha: lzik
+md5_6_alpha_upper: LZIK
+md5_6_upper: 0FA70C
+name: Oobb Part Plate 15 08 03
+name_no_class: Part Plate 15 08 03
+name_no_color: '150803'
+name_no_size: 15 08 03
+name_no_type: Plate 15 08 03
+oomp_key: oomp_oobb_part_plate_15_08_03
+oomp_word: sparkles guitar alien
+oomp_word_emoji: ':sparkles: :guitar: :alien:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':guitar:'
+- ':alien:'
+oomp_word_list:
+- sparkles
+- guitar
+- alien
+part_number: ''
+size: plate
+type: part

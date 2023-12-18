@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_03_ex_8_teeth
+directory: parts/oobb_part_gear_01_03_ex_8_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_ex_8_teeth
+id: oobb_part_gear_01_03_ex_8_teeth
+id_no_class: part_gear_01_03_ex_8_teeth
+id_no_color: 0103ex8teeth
+id_no_size: 01_03_ex_8_teeth
+id_no_type: gear_01_03_ex_8_teeth
+manufacturer: ''
+md5: 3f8c900f3ad76193dacf2f7865dd1088
+md5_10: 3f8c900f3a
+md5_10_upper: 3F8C900F3A
+md5_5: 3f8c9
+md5_5_upper: 3F8C9
+md5_6: 3f8c90
+md5_6_alpha: 2h9jk
+md5_6_alpha_upper: 2H9JK
+md5_6_upper: 3F8C90
+name: Oobb Part Gear 01 03 Ex 8 Teeth
+name_no_class: Part Gear 01 03 Ex 8 Teeth
+name_no_color: 0103Ex8Teeth
+name_no_size: 01 03 Ex 8 Teeth
+name_no_type: Gear 01 03 Ex 8 Teeth
+oomp_key: oomp_oobb_part_gear_01_03_ex_8_teeth
+oomp_word: horse pill scissors
+oomp_word_emoji: ':horse: :pill: :scissors:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':pill:'
+- ':scissors:'
+oomp_word_list:
+- horse
+- pill
+- scissors
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6800_size
+description_extra: ''
+description_main: 10_mm_id_19_mm_od_5_mm_depth
+directory: parts/hardware_bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+id: hardware_bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+id_no_class: bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+id_no_color: 10_mm_id_19_mm_od_5_mm_depth
+id_no_size: 6800_size_10_mm_id_19_mm_od_5_mm_depth
+id_no_type: 6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+manufacturer: ''
+md5: 6ef3633717b8517a748eab4282168cd8
+md5_10: 6ef3633717
+md5_10_upper: 6EF3633717
+md5_5: 6ef36
+md5_5_upper: 6EF36
+md5_6: 6ef363
+md5_6_alpha: 4bujn
+md5_6_alpha_upper: 4BUJN
+md5_6_upper: 6EF363
+name: Hardware Bearing 6800 Series 6800 Size 10 Mm Id 19 Mm Od 5 Mm Depth
+name_no_class: Bearing 6800 Series 6800 Size 10 Mm Id 19 Mm Od 5 Mm Depth
+name_no_color: 10 Mm Id 19 Mm Od 5 Mm Depth
+name_no_size: 6800 Size 10 Mm Id 19 Mm Od 5 Mm Depth
+name_no_type: 6800 Series 6800 Size 10 Mm Id 19 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
+oomp_word: new_moon two rose
+oomp_word_emoji: ':new_moon: :two: :rose:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':two:'
+- ':rose:'
+oomp_word_list:
+- new_moon
+- two
+- rose
+part_number: ''
+size: 6800_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_5
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_5
+id: oobb_part_bunting_alphabet_05_01_ex_5
+id_no_class: part_bunting_alphabet_05_01_ex_5
+id_no_color: 0501ex5
+id_no_size: 05_01_ex_5
+id_no_type: bunting_alphabet_05_01_ex_5
+manufacturer: ''
+md5: ca7d5edf58c99a3f16c12345aa6aba70
+md5_10: ca7d5edf58
+md5_10_upper: CA7D5EDF58
+md5_5: ca7d5
+md5_5_upper: CA7D5
+md5_6: ca7d5e
+md5_6_alpha: 7wfha
+md5_6_alpha_upper: 7WFHA
+md5_6_upper: CA7D5E
+name: Oobb Part Bunting Alphabet 05 01 Ex 5
+name_no_class: Part Bunting Alphabet 05 01 Ex 5
+name_no_color: 0501Ex5
+name_no_size: 05 01 Ex 5
+name_no_type: Bunting Alphabet 05 01 Ex 5
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_5
+oomp_word: cherries phone crocodile
+oomp_word_emoji: ':cherries: :phone: :crocodile:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':phone:'
+- ':crocodile:'
+oomp_word_list:
+- cherries
+- phone
+- crocodile
+part_number: ''
+size: bunting_alphabet
+type: part

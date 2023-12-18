@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_01_15'
+directory: parts/oobb_part_plate_20_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_15
+id: oobb_part_plate_20_01_15
+id_no_class: part_plate_20_01_15
+id_no_color: '200115'
+id_no_size: '20_01_15'
+id_no_type: plate_20_01_15
+manufacturer: ''
+md5: a174981ba6ac3596c9728e1e7f120c36
+md5_10: a174981ba6
+md5_10_upper: A174981BA6
+md5_5: a1749
+md5_5_upper: A1749
+md5_6: a17498
+md5_6_alpha: 6asgo
+md5_6_alpha_upper: 6ASGO
+md5_6_upper: A17498
+name: Oobb Part Plate 20 01 15
+name_no_class: Part Plate 20 01 15
+name_no_color: '200115'
+name_no_size: 20 01 15
+name_no_type: Plate 20 01 15
+oomp_key: oomp_oobb_part_plate_20_01_15
+oomp_word: trophy fireworks tennis
+oomp_word_emoji: ':trophy: :fireworks: :tennis:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':fireworks:'
+- ':tennis:'
+oomp_word_list:
+- trophy
+- fireworks
+- tennis
+part_number: ''
+size: plate
+type: part

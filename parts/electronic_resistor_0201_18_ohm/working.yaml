@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 18_ohm
+directory: parts/electronic_resistor_0201_18_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_18_ohm
+id: electronic_resistor_0201_18_ohm
+id_no_class: resistor_0201_18_ohm
+id_no_color: 18ohm
+id_no_size: 18_ohm
+id_no_type: 0201_18_ohm
+manufacturer: ''
+md5: eb976abb57848dfc6abdf5574e80f73b
+md5_10: eb976abb57
+md5_10_upper: EB976ABB57
+md5_5: eb976
+md5_5_upper: EB976
+md5_6: eb976a
+md5_6_alpha: 96xd6
+md5_6_alpha_upper: 96XD6
+md5_6_upper: EB976A
+name: Electronic Resistor 0201 18 Ohm
+name_no_class: Resistor 0201 18 Ohm
+name_no_color: 18Ohm
+name_no_size: 18 Ohm
+name_no_type: 0201 18 Ohm
+oomp_key: oomp_electronic_resistor_0201_18_ohm
+oomp_word: car baseball palm_tree
+oomp_word_emoji: ':car: :baseball: :palm_tree:'
+oomp_word_emoji_list:
+- ':car:'
+- ':baseball:'
+- ':palm_tree:'
+oomp_word_list:
+- car
+- baseball
+- palm_tree
+part_number: ''
+size: '0201'
+type: resistor

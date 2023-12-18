@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_02_15'
+directory: parts/oobb_part_tray_thin_05_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_02_15
+id: oobb_part_tray_thin_05_02_15
+id_no_class: part_tray_thin_05_02_15
+id_no_color: '050215'
+id_no_size: '05_02_15'
+id_no_type: tray_thin_05_02_15
+manufacturer: ''
+md5: b740f1a2f8d220ef949eb0ffc20fd072
+md5_10: b740f1a2f8
+md5_10_upper: B740F1A2F8
+md5_5: b740f
+md5_5_upper: B740F
+md5_6: b740f1
+md5_6_alpha: 75er5
+md5_6_alpha_upper: 75ER5
+md5_6_upper: B740F1
+name: Oobb Part Tray Thin 05 02 15
+name_no_class: Part Tray Thin 05 02 15
+name_no_color: '050215'
+name_no_size: 05 02 15
+name_no_type: Tray Thin 05 02 15
+oomp_key: oomp_oobb_part_tray_thin_05_02_15
+oomp_word: pizza racehorse ticket
+oomp_word_emoji: ':pizza: :racehorse: :ticket:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':racehorse:'
+- ':ticket:'
+oomp_word_list:
+- pizza
+- racehorse
+- ticket
+part_number: ''
+size: tray_thin
+type: part

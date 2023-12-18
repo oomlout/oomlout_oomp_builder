@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_1d5_12
+directory: parts/oobb_part_tray_03_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_1d5_12
+id: oobb_part_tray_03_1d5_12
+id_no_class: part_tray_03_1d5_12
+id_no_color: 031d512
+id_no_size: 03_1d5_12
+id_no_type: tray_03_1d5_12
+manufacturer: ''
+md5: 26c71cd67face2d8101d9e240249208e
+md5_10: 26c71cd67f
+md5_10_upper: 26C71CD67F
+md5_5: 26c71
+md5_5_upper: 26C71
+md5_6: 26c71c
+md5_6_alpha: 1igws
+md5_6_alpha_upper: 1IGWS
+md5_6_upper: 26C71C
+name: Oobb Part Tray 03 1D5 12
+name_no_class: Part Tray 03 1D5 12
+name_no_color: 031D512
+name_no_size: 03 1D5 12
+name_no_type: Tray 03 1D5 12
+oomp_key: oomp_oobb_part_tray_03_1d5_12
+oomp_word: eyes honey_pot dancer
+oomp_word_emoji: ':eyes: :honey_pot: :dancer:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':honey_pot:'
+- ':dancer:'
+oomp_word_list:
+- eyes
+- honey_pot
+- dancer
+part_number: ''
+size: tray
+type: part

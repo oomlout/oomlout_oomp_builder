@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_10_18
+directory: parts/oobb_part_tray_02_10_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_10_18
+id: oobb_part_tray_02_10_18
+id_no_class: part_tray_02_10_18
+id_no_color: 021018
+id_no_size: 02_10_18
+id_no_type: tray_02_10_18
+manufacturer: ''
+md5: e699fb8edf5fcd9df47f080570cecf43
+md5_10: e699fb8edf
+md5_10_upper: E699FB8EDF
+md5_5: e699f
+md5_5_upper: E699F
+md5_6: e699fb
+md5_6_alpha: 8zx17
+md5_6_alpha_upper: 8ZX17
+md5_6_upper: E699FB
+name: Oobb Part Tray 02 10 18
+name_no_class: Part Tray 02 10 18
+name_no_color: 021018
+name_no_size: 02 10 18
+name_no_type: Tray 02 10 18
+oomp_key: oomp_oobb_part_tray_02_10_18
+oomp_word: airplane bowling ok
+oomp_word_emoji: ':airplane: :bowling: :ok:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':bowling:'
+- ':ok:'
+oomp_word_list:
+- airplane
+- bowling
+- ok
+part_number: ''
+size: tray
+type: part

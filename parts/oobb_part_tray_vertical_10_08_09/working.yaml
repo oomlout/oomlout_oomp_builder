@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_08_09'
+directory: parts/oobb_part_tray_vertical_10_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_08_09
+id: oobb_part_tray_vertical_10_08_09
+id_no_class: part_tray_vertical_10_08_09
+id_no_color: '100809'
+id_no_size: '10_08_09'
+id_no_type: tray_vertical_10_08_09
+manufacturer: ''
+md5: 8cb6e63bfdf46ce191e33e11755ba439
+md5_10: 8cb6e63bfd
+md5_10_upper: 8CB6E63BFD
+md5_5: 8cb6e
+md5_5_upper: 8CB6E
+md5_6: 8cb6e6
+md5_6_alpha: 5hnmu
+md5_6_alpha_upper: 5HNMU
+md5_6_upper: 8CB6E6
+name: Oobb Part Tray Vertical 10 08 09
+name_no_class: Part Tray Vertical 10 08 09
+name_no_color: '100809'
+name_no_size: 10 08 09
+name_no_type: Tray Vertical 10 08 09
+oomp_key: oomp_oobb_part_tray_vertical_10_08_09
+oomp_word: pill beer airplane
+oomp_word_emoji: ':pill: :beer: :airplane:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':beer:'
+- ':airplane:'
+oomp_word_list:
+- pill
+- beer
+- airplane
+part_number: ''
+size: tray_vertical
+type: part

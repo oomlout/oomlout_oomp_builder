@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2_pin
+directory: parts/electronic_header_2_54_mm_2_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_through_hole
+id: electronic_header_2_54_mm_2_pin_through_hole
+id_no_class: header_2_54_mm_2_pin_through_hole
+id_no_color: 2pinthroughhole
+id_no_size: 2_pin_through_hole
+id_no_type: 2_54_mm_2_pin_through_hole
+manufacturer: ''
+md5: 094b1425892ab707b4a221b29e2b0ded
+md5_10: 094b142589
+md5_10_upper: 094B142589
+md5_5: 094b1
+md5_5_upper: 094B1
+md5_6: 094b14
+md5_6_alpha: d1xw
+md5_6_alpha_upper: D1XW
+md5_6_upper: 094B14
+name: Electronic Header 2 54 Mm 2 Pin Through Hole
+name_no_class: Header 2 54 Mm 2 Pin Through Hole
+name_no_color: 2Pinthroughhole
+name_no_size: 2 Pin Through Hole
+name_no_type: 2 54 Mm 2 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_2_pin_through_hole
+oomp_word: angry penguin fire
+oomp_word_emoji: ':angry: :penguin: :fire:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':penguin:'
+- ':fire:'
+oomp_word_list:
+- angry
+- penguin
+- fire
+part_number: ''
+size: 2_54_mm
+type: header

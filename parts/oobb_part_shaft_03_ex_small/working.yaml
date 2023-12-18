@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_ex_small
+directory: parts/oobb_part_shaft_03_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03_ex_small
+id: oobb_part_shaft_03_ex_small
+id_no_class: part_shaft_03_ex_small
+id_no_color: 03exsmall
+id_no_size: 03_ex_small
+id_no_type: shaft_03_ex_small
+manufacturer: ''
+md5: c96f39b025175c65c6542cba371bfed7
+md5_10: c96f39b025
+md5_10_upper: C96F39B025
+md5_5: c96f3
+md5_5_upper: C96F3
+md5_6: c96f39
+md5_6_alpha: 7uy49
+md5_6_alpha_upper: 7UY49
+md5_6_upper: C96F39
+name: Oobb Part Shaft 03 Ex Small
+name_no_class: Part Shaft 03 Ex Small
+name_no_color: 03Exsmall
+name_no_size: 03 Ex Small
+name_no_type: Shaft 03 Ex Small
+oomp_key: oomp_oobb_part_shaft_03_ex_small
+oomp_word: lemon moon tiger
+oomp_word_emoji: ':lemon: :moon: :tiger:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':moon:'
+- ':tiger:'
+oomp_word_list:
+- lemon
+- moon
+- tiger
+part_number: ''
+size: shaft
+type: part

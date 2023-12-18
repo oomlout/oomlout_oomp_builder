@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1800_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_1800_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1800_ohm
+id: electronic_resistor_quarter_watt_through_hole_1800_ohm
+id_no_class: resistor_quarter_watt_through_hole_1800_ohm
+id_no_color: 1800ohm
+id_no_size: 1800_ohm
+id_no_type: quarter_watt_through_hole_1800_ohm
+manufacturer: ''
+md5: 6cf52305c9d7b45ab6e296ac6a4d999c
+md5_10: 6cf52305c9
+md5_10_upper: 6CF52305C9
+md5_5: 6cf52
+md5_5_upper: 6CF52
+md5_6: 6cf523
+md5_6_alpha: 491r7
+md5_6_alpha_upper: 491R7
+md5_6_upper: 6CF523
+name: Electronic Resistor Quarter Watt Through Hole 1800 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 1800 Ohm
+name_no_color: 1800Ohm
+name_no_size: 1800 Ohm
+name_no_type: Quarter Watt Through Hole 1800 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1800_ohm
+oomp_word: blossom four kiss
+oomp_word_emoji: ':blossom: :four: :kiss:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':four:'
+- ':kiss:'
+oomp_word_list:
+- blossom
+- four
+- kiss
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

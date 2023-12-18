@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_1d5_15
+directory: parts/oobb_part_tray_thin_07_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_1d5_15
+id: oobb_part_tray_thin_07_1d5_15
+id_no_class: part_tray_thin_07_1d5_15
+id_no_color: 071d515
+id_no_size: 07_1d5_15
+id_no_type: tray_thin_07_1d5_15
+manufacturer: ''
+md5: ea32172750d4d9cc13dd33e4dba33f0a
+md5_10: ea32172750
+md5_10_upper: EA32172750
+md5_5: ea321
+md5_5_upper: EA321
+md5_6: ea3217
+md5_6_alpha: 94ys7
+md5_6_alpha_upper: 94YS7
+md5_6_upper: EA3217
+name: Oobb Part Tray Thin 07 1D5 15
+name_no_class: Part Tray Thin 07 1D5 15
+name_no_color: 071D515
+name_no_size: 07 1D5 15
+name_no_type: Tray Thin 07 1D5 15
+oomp_key: oomp_oobb_part_tray_thin_07_1d5_15
+oomp_word: tractor cat thumbsdown
+oomp_word_emoji: ':tractor: :cat: :thumbsdown:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':cat:'
+- ':thumbsdown:'
+oomp_word_list:
+- tractor
+- cat
+- thumbsdown
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_18
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_18
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_18
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_18
+id_no_color: hardwarem318
+id_no_size: hardware_m3_18
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_18
+manufacturer: ''
+md5: 79dc186359a5a37f4858a95babfab257
+md5_10: 79dc186359
+md5_10_upper: 79DC186359
+md5_5: 79dc1
+md5_5_upper: 79DC1
+md5_6: 79dc18
+md5_6_alpha: 4r66w
+md5_6_alpha_upper: 4R66W
+md5_6_upper: 79DC18
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 18
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 18
+name_no_color: Hardwarem318
+name_no_size: Hardware M3 18
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 18
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_18
+oomp_word: balloon factory hand
+oomp_word_emoji: ':balloon: :factory: :hand:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':factory:'
+- ':hand:'
+oomp_word_list:
+- balloon
+- factory
+- hand
+part_number: ''
+size: screw_socket_cap
+type: part

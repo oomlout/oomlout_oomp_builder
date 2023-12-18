@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_09
+directory: parts/oobb_part_tray_03_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_03_09
+id: oobb_part_tray_03_03_09
+id_no_class: part_tray_03_03_09
+id_no_color: 030309
+id_no_size: 03_03_09
+id_no_type: tray_03_03_09
+manufacturer: ''
+md5: ab868e65edcebd56afa2f5edebaf5dc2
+md5_10: ab868e65ed
+md5_10_upper: AB868E65ED
+md5_5: ab868
+md5_5_upper: AB868
+md5_6: ab868e
+md5_6_alpha: 6oxou
+md5_6_alpha_upper: 6OXOU
+md5_6_upper: AB868E
+name: Oobb Part Tray 03 03 09
+name_no_class: Part Tray 03 03 09
+name_no_color: 030309
+name_no_size: 03 03 09
+name_no_type: Tray 03 03 09
+oomp_key: oomp_oobb_part_tray_03_03_09
+oomp_word: boot bath clipboard
+oomp_word_emoji: ':boot: :bath: :clipboard:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':bath:'
+- ':clipboard:'
+oomp_word_list:
+- boot
+- bath
+- clipboard
+part_number: ''
+size: tray
+type: part

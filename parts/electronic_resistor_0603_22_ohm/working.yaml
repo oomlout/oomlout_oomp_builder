@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_0603_22_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_22_ohm
+id: electronic_resistor_0603_22_ohm
+id_no_class: resistor_0603_22_ohm
+id_no_color: 22ohm
+id_no_size: 22_ohm
+id_no_type: 0603_22_ohm
+manufacturer: ''
+md5: c05ffab15f6ad66dd4e8eea25cb8b135
+md5_10: c05ffab15f
+md5_10_upper: C05FFAB15F
+md5_5: c05ff
+md5_5_upper: C05FF
+md5_6: c05ffa
+md5_6_alpha: 7i7zu
+md5_6_alpha_upper: 7I7ZU
+md5_6_upper: C05FFA
+name: Electronic Resistor 0603 22 Ohm
+name_no_class: Resistor 0603 22 Ohm
+name_no_color: 22Ohm
+name_no_size: 22 Ohm
+name_no_type: 0603 22 Ohm
+oomp_key: oomp_electronic_resistor_0603_22_ohm
+oomp_word: bread leopard nine
+oomp_word_emoji: ':bread: :leopard: :nine:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':leopard:'
+- ':nine:'
+oomp_word_list:
+- bread
+- leopard
+- nine
+part_number: ''
+size: '0603'
+type: resistor

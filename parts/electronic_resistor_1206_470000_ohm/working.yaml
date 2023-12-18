@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 470000_ohm
+directory: parts/electronic_resistor_1206_470000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_470000_ohm
+id: electronic_resistor_1206_470000_ohm
+id_no_class: resistor_1206_470000_ohm
+id_no_color: 470000ohm
+id_no_size: 470000_ohm
+id_no_type: 1206_470000_ohm
+manufacturer: ''
+md5: 46a3b78642fe9afbdb2d24c91b485c55
+md5_10: 46a3b78642
+md5_10_upper: 46A3B78642
+md5_5: 46a3b
+md5_5_upper: 46A3B
+md5_6: 46a3b7
+md5_6_alpha: 2r83b
+md5_6_alpha_upper: 2R83B
+md5_6_upper: 46A3B7
+name: Electronic Resistor 1206 470000 Ohm
+name_no_class: Resistor 1206 470000 Ohm
+name_no_color: 470000Ohm
+name_no_size: 470000 Ohm
+name_no_type: 1206 470000 Ohm
+oomp_key: oomp_electronic_resistor_1206_470000_ohm
+oomp_word: bird pencil pizza
+oomp_word_emoji: ':bird: :pencil: :pizza:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':pencil:'
+- ':pizza:'
+oomp_word_list:
+- bird
+- pencil
+- pizza
+part_number: ''
+size: '1206'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_07_12'
+directory: parts/oobb_part_tray_vertical_11_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_07_12
+id: oobb_part_tray_vertical_11_07_12
+id_no_class: part_tray_vertical_11_07_12
+id_no_color: '110712'
+id_no_size: '11_07_12'
+id_no_type: tray_vertical_11_07_12
+manufacturer: ''
+md5: 80ae4843efae4af330882f1c4e2180e9
+md5_10: 80ae4843ef
+md5_10_upper: 80AE4843EF
+md5_5: 80ae4
+md5_5_upper: 80AE4
+md5_6: 80ae48
+md5_6_alpha: 50r48
+md5_6_alpha_upper: 50R48
+md5_6_upper: 80AE48
+name: Oobb Part Tray Vertical 11 07 12
+name_no_class: Part Tray Vertical 11 07 12
+name_no_color: '110712'
+name_no_size: 11 07 12
+name_no_type: Tray Vertical 11 07 12
+oomp_key: oomp_oobb_part_tray_vertical_11_07_12
+oomp_word: hourglass jeans hatched_chick
+oomp_word_emoji: ':hourglass: :jeans: :hatched_chick:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':jeans:'
+- ':hatched_chick:'
+oomp_word_list:
+- hourglass
+- jeans
+- hatched_chick
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6324_size
+description_extra: ''
+description_main: 120_mm_id_260_mm_od_55_mm_depth
+directory: parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+id: hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+id_no_class: bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+id_no_color: 120_mm_id_260_mm_od_55_mm_depth
+id_no_size: 6324_size_120_mm_id_260_mm_od_55_mm_depth
+id_no_type: 6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+manufacturer: ''
+md5: 27a6ac9591e04b969289ef6d0acd19a8
+md5_10: 27a6ac9591
+md5_10_upper: 27A6AC9591
+md5_5: 27a6a
+md5_5_upper: 27A6A
+md5_6: 27a6ac
+md5_6_alpha: 1jp2k
+md5_6_alpha_upper: 1JP2K
+md5_6_upper: 27A6AC
+name: Hardware Bearing 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth
+name_no_class: Bearing 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth
+name_no_color: 120 Mm Id 260 Mm Od 55 Mm Depth
+name_no_size: 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth
+name_no_type: 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6324_size_120_mm_id_260_mm_od_55_mm_depth
+oomp_word: nose trumpet shirt
+oomp_word_emoji: ':nose: :trumpet: :shirt:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':trumpet:'
+- ':shirt:'
+oomp_word_list:
+- nose
+- trumpet
+- shirt
+part_number: ''
+size: 6300_series
+type: bearing

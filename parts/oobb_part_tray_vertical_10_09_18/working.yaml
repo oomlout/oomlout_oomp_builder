@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_18'
+directory: parts/oobb_part_tray_vertical_10_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_09_18
+id: oobb_part_tray_vertical_10_09_18
+id_no_class: part_tray_vertical_10_09_18
+id_no_color: '100918'
+id_no_size: '10_09_18'
+id_no_type: tray_vertical_10_09_18
+manufacturer: ''
+md5: f2d9e733429fd730a03b76a944663044
+md5_10: f2d9e73342
+md5_10_upper: F2D9E73342
+md5_5: f2d9e
+md5_5_upper: F2D9E
+md5_6: f2d9e7
+md5_6_alpha: 9h4h3
+md5_6_alpha_upper: 9H4H3
+md5_6_upper: F2D9E7
+name: Oobb Part Tray Vertical 10 09 18
+name_no_class: Part Tray Vertical 10 09 18
+name_no_color: '100918'
+name_no_size: 10 09 18
+name_no_type: Tray Vertical 10 09 18
+oomp_key: oomp_oobb_part_tray_vertical_10_09_18
+oomp_word: one bank helicopter
+oomp_word_emoji: ':one: :bank: :helicopter:'
+oomp_word_emoji_list:
+- ':one:'
+- ':bank:'
+- ':helicopter:'
+oomp_word_list:
+- one
+- bank
+- helicopter
+part_number: ''
+size: tray_vertical
+type: part

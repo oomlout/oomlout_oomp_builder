@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_16_03'
+directory: parts/oobb_part_plate_16_16_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_16_03
+id: oobb_part_plate_16_16_03
+id_no_class: part_plate_16_16_03
+id_no_color: '161603'
+id_no_size: '16_16_03'
+id_no_type: plate_16_16_03
+manufacturer: ''
+md5: 7c38d0198e68eccd74ec222f9811826c
+md5_10: 7c38d0198e
+md5_10_upper: 7C38D0198E
+md5_5: 7c38d
+md5_5_upper: 7C38D
+md5_6: 7c38d0
+md5_6_alpha: 4uhn4
+md5_6_alpha_upper: 4UHN4
+md5_6_upper: 7C38D0
+name: Oobb Part Plate 16 16 03
+name_no_class: Part Plate 16 16 03
+name_no_color: '161603'
+name_no_size: 16 16 03
+name_no_type: Plate 16 16 03
+oomp_key: oomp_oobb_part_plate_16_16_03
+oomp_word: tv frog banana
+oomp_word_emoji: ':tv: :frog: :banana:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':frog:'
+- ':banana:'
+oomp_word_list:
+- tv
+- frog
+- banana
+part_number: ''
+size: plate
+type: part

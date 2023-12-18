@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 090910nm8mmtapewidth15mmtapethicknessex1d5
+id_no_size: 09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 981bba836fb622bb70a19b7b40539e55
+md5_10: 981bba836f
+md5_10_upper: 981BBA836F
+md5_5: 981bb
+md5_5_upper: 981BB
+md5_6: 981bba
+md5_6_alpha: 5xnsq
+md5_6_alpha_upper: 5XNSQ
+md5_6_upper: 981BBA
+name: Oobb Part Smd Magazine 09 09 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 09 09 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 090910Nm8Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 09 09 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 09 09 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: tennis muscle spaghetti
+oomp_word_emoji: ':tennis: :muscle: :spaghetti:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':muscle:'
+- ':spaghetti:'
+oomp_word_list:
+- tennis
+- muscle
+- spaghetti
+part_number: ''
+size: smd_magazine
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_ohm
+directory: parts/electronic_resistor_0805_10_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_10_ohm
+id: electronic_resistor_0805_10_ohm
+id_no_class: resistor_0805_10_ohm
+id_no_color: 10ohm
+id_no_size: 10_ohm
+id_no_type: 0805_10_ohm
+manufacturer: ''
+md5: baacdb6df1f55620376f7a44eadb27c8
+md5_10: baacdb6df1
+md5_10_upper: BAACDB6DF1
+md5_5: baacd
+md5_5_upper: BAACD
+md5_6: baacdb
+md5_6_alpha: 7a7rv
+md5_6_alpha_upper: 7A7RV
+md5_6_upper: BAACDB
+name: Electronic Resistor 0805 10 Ohm
+name_no_class: Resistor 0805 10 Ohm
+name_no_color: 10Ohm
+name_no_size: 10 Ohm
+name_no_type: 0805 10 Ohm
+oomp_key: oomp_electronic_resistor_0805_10_ohm
+oomp_word: spaghetti shirt tent
+oomp_word_emoji: ':spaghetti: :shirt: :tent:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':shirt:'
+- ':tent:'
+oomp_word_list:
+- spaghetti
+- shirt
+- tent
+part_number: ''
+size: 0805
+type: resistor

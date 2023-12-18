@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_05_30'
+directory: parts/oobb_part_tray_vertical_07_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_05_30
+id: oobb_part_tray_vertical_07_05_30
+id_no_class: part_tray_vertical_07_05_30
+id_no_color: '070530'
+id_no_size: '07_05_30'
+id_no_type: tray_vertical_07_05_30
+manufacturer: ''
+md5: 709f879d8a3aaebbfd9818c1c2349dd4
+md5_10: 709f879d8a
+md5_10_upper: 709F879D8A
+md5_5: 709f8
+md5_5_upper: 709F8
+md5_6: 709f87
+md5_6_alpha: 4e747
+md5_6_alpha_upper: 4E747
+md5_6_upper: 709F87
+name: Oobb Part Tray Vertical 07 05 30
+name_no_class: Part Tray Vertical 07 05 30
+name_no_color: '070530'
+name_no_size: 07 05 30
+name_no_type: Tray Vertical 07 05 30
+oomp_key: oomp_oobb_part_tray_vertical_07_05_30
+oomp_word: squirrel diamonds toilet
+oomp_word_emoji: ':squirrel: :diamonds: :toilet:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':diamonds:'
+- ':toilet:'
+oomp_word_list:
+- squirrel
+- diamonds
+- toilet
+part_number: ''
+size: tray_vertical
+type: part

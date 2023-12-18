@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_08_18
+directory: parts/oobb_part_tray_03_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_18
+id: oobb_part_tray_03_08_18
+id_no_class: part_tray_03_08_18
+id_no_color: 030818
+id_no_size: 03_08_18
+id_no_type: tray_03_08_18
+manufacturer: ''
+md5: ab25891cd574395f647145382f5970ca
+md5_10: ab25891cd5
+md5_10_upper: AB25891CD5
+md5_5: ab258
+md5_5_upper: AB258
+md5_6: ab2589
+md5_6_alpha: 6oeix
+md5_6_alpha_upper: 6OEIX
+md5_6_upper: AB2589
+name: Oobb Part Tray 03 08 18
+name_no_class: Part Tray 03 08 18
+name_no_color: 030818
+name_no_size: 03 08 18
+name_no_type: Tray 03 08 18
+oomp_key: oomp_oobb_part_tray_03_08_18
+oomp_word: boot ear hammer
+oomp_word_emoji: ':boot: :ear: :hammer:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':ear:'
+- ':hammer:'
+oomp_word_list:
+- boot
+- ear
+- hammer
+part_number: ''
+size: tray
+type: part

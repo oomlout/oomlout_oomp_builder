@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '28_01_03'
+directory: parts/oobb_part_plate_28_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_28_01_03
+id: oobb_part_plate_28_01_03
+id_no_class: part_plate_28_01_03
+id_no_color: '280103'
+id_no_size: '28_01_03'
+id_no_type: plate_28_01_03
+manufacturer: ''
+md5: 26e62e6c535765ed8ce9f5346a40a248
+md5_10: 26e62e6c53
+md5_10_upper: 26E62E6C53
+md5_5: 26e62
+md5_5_upper: 26E62
+md5_6: 26e62e
+md5_6_alpha: 1in1q
+md5_6_alpha_upper: 1IN1Q
+md5_6_upper: 26E62E
+name: Oobb Part Plate 28 01 03
+name_no_class: Part Plate 28 01 03
+name_no_color: '280103'
+name_no_size: 28 01 03
+name_no_type: Plate 28 01 03
+oomp_key: oomp_oobb_part_plate_28_01_03
+oomp_word: eyes airplane zap
+oomp_word_emoji: ':eyes: :airplane: :zap:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':airplane:'
+- ':zap:'
+oomp_word_list:
+- eyes
+- airplane
+- zap
+part_number: ''
+size: plate
+type: part

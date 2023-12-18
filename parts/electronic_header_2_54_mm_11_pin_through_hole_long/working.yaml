@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 11_pin
+directory: parts/electronic_header_2_54_mm_11_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_through_hole_long
+id: electronic_header_2_54_mm_11_pin_through_hole_long
+id_no_class: header_2_54_mm_11_pin_through_hole_long
+id_no_color: 11pinthroughholelong
+id_no_size: 11_pin_through_hole_long
+id_no_type: 2_54_mm_11_pin_through_hole_long
+manufacturer: ''
+md5: 0145073a52ef3ba3f6842b428e038181
+md5_10: 0145073a52
+md5_10_upper: 0145073A52
+md5_5: '01450'
+md5_5_upper: '01450'
+md5_6: '014507'
+md5_6_alpha: 1s7b
+md5_6_alpha_upper: 1S7B
+md5_6_upper: '014507'
+name: Electronic Header 2 54 Mm 11 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 11 Pin Through Hole Long
+name_no_color: 11Pinthroughholelong
+name_no_size: 11 Pin Through Hole Long
+name_no_type: 2 54 Mm 11 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_11_pin_through_hole_long
+oomp_word: smile snake cry
+oomp_word_emoji: ':smile: :snake: :cry:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':snake:'
+- ':cry:'
+oomp_word_list:
+- smile
+- snake
+- cry
+part_number: ''
+size: 2_54_mm
+type: header

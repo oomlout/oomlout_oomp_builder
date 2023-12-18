@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2200_ohm
+directory: parts/electronic_resistor_0603_2200_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200_ohm
+id: electronic_resistor_0603_2200_ohm
+id_no_class: resistor_0603_2200_ohm
+id_no_color: 2200ohm
+id_no_size: 2200_ohm
+id_no_type: 0603_2200_ohm
+manufacturer: ''
+md5: 3124032f8066a1155c800fc6b165948a
+md5_10: 3124032f80
+md5_10_upper: 3124032F80
+md5_5: '31240'
+md5_5_upper: '31240'
+md5_6: '312403'
+md5_6_alpha: 1x0xv
+md5_6_alpha_upper: 1X0XV
+md5_6_upper: '312403'
+name: Electronic Resistor 0603 2200 Ohm
+name_no_class: Resistor 0603 2200 Ohm
+name_no_color: 2200Ohm
+name_no_size: 2200 Ohm
+name_no_type: 0603 2200 Ohm
+oomp_key: oomp_electronic_resistor_0603_2200_ohm
+oomp_word: ocean droplet grin
+oomp_word_emoji: ':ocean: :droplet: :grin:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':droplet:'
+- ':grin:'
+oomp_word_list:
+- ocean
+- droplet
+- grin
+part_number: ''
+size: '0603'
+type: resistor

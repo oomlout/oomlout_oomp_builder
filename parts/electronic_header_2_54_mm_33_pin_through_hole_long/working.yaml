@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 33_pin
+directory: parts/electronic_header_2_54_mm_33_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_through_hole_long
+id: electronic_header_2_54_mm_33_pin_through_hole_long
+id_no_class: header_2_54_mm_33_pin_through_hole_long
+id_no_color: 33pinthroughholelong
+id_no_size: 33_pin_through_hole_long
+id_no_type: 2_54_mm_33_pin_through_hole_long
+manufacturer: ''
+md5: f1378c7b299897612376efdfc5f86962
+md5_10: f1378c7b29
+md5_10_upper: F1378C7B29
+md5_5: f1378
+md5_5_upper: F1378
+md5_6: f1378c
+md5_6_alpha: 9etu4
+md5_6_alpha_upper: 9ETU4
+md5_6_upper: F1378C
+name: Electronic Header 2 54 Mm 33 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 33 Pin Through Hole Long
+name_no_color: 33Pinthroughholelong
+name_no_size: 33 Pin Through Hole Long
+name_no_type: 2 54 Mm 33 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_through_hole_long
+oomp_word: ticket wolf pill
+oomp_word_emoji: ':ticket: :wolf: :pill:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':wolf:'
+- ':pill:'
+oomp_word_list:
+- ticket
+- wolf
+- pill
+part_number: ''
+size: 2_54_mm
+type: header

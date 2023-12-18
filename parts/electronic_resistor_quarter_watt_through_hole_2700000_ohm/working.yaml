@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_2700000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_2700000_ohm
+id: electronic_resistor_quarter_watt_through_hole_2700000_ohm
+id_no_class: resistor_quarter_watt_through_hole_2700000_ohm
+id_no_color: 2700000ohm
+id_no_size: 2700000_ohm
+id_no_type: quarter_watt_through_hole_2700000_ohm
+manufacturer: ''
+md5: 1a4d34217a82a57e6112a8b6d3b0abbb
+md5_10: 1a4d34217a
+md5_10_upper: 1A4D34217A
+md5_5: 1a4d3
+md5_5_upper: 1A4D3
+md5_6: 1a4d34
+md5_6_alpha: 10y0k
+md5_6_alpha_upper: 10Y0K
+md5_6_upper: 1A4D34
+name: Electronic Resistor Quarter Watt Through Hole 2700000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 2700000 Ohm
+name_no_color: 2700000Ohm
+name_no_size: 2700000 Ohm
+name_no_type: Quarter Watt Through Hole 2700000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_2700000_ohm
+oomp_word: clap bug mouse
+oomp_word_emoji: ':clap: :bug: :mouse:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':bug:'
+- ':mouse:'
+oomp_word_list:
+- clap
+- bug
+- mouse
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

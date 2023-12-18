@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_30'
+directory: parts/oobb_part_tray_vertical_06_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_01_30
+id: oobb_part_tray_vertical_06_01_30
+id_no_class: part_tray_vertical_06_01_30
+id_no_color: '060130'
+id_no_size: '06_01_30'
+id_no_type: tray_vertical_06_01_30
+manufacturer: ''
+md5: 8fc289e328cc5ed7bae59df9e897e810
+md5_10: 8fc289e328
+md5_10_upper: 8FC289E328
+md5_5: 8fc28
+md5_5_upper: 8FC28
+md5_6: 8fc289
+md5_6_alpha: 5lxmx
+md5_6_alpha_upper: 5LXMX
+md5_6_upper: 8FC289
+name: Oobb Part Tray Vertical 06 01 30
+name_no_class: Part Tray Vertical 06 01 30
+name_no_color: '060130'
+name_no_size: 06 01 30
+name_no_type: Tray Vertical 06 01 30
+oomp_key: oomp_oobb_part_tray_vertical_06_01_30
+oomp_word: calendar birthday hammer
+oomp_word_emoji: ':calendar: :birthday: :hammer:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':birthday:'
+- ':hammer:'
+oomp_word_list:
+- calendar
+- birthday
+- hammer
+part_number: ''
+size: tray_vertical
+type: part

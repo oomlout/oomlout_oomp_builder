@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '25_03_03'
+directory: parts/oobb_part_plate_25_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_25_03_03
+id: oobb_part_plate_25_03_03
+id_no_class: part_plate_25_03_03
+id_no_color: '250303'
+id_no_size: '25_03_03'
+id_no_type: plate_25_03_03
+manufacturer: ''
+md5: 51f0f94ddd1bfaf13869575339dd91b9
+md5_10: 51f0f94ddd
+md5_10_upper: 51F0F94DDD
+md5_5: 51f0f
+md5_5_upper: 51F0F
+md5_6: 51f0f9
+md5_6_alpha: 373ll
+md5_6_alpha_upper: 373LL
+md5_6_upper: 51F0F9
+name: Oobb Part Plate 25 03 03
+name_no_class: Part Plate 25 03 03
+name_no_color: '250303'
+name_no_size: 25 03 03
+name_no_type: Plate 25 03 03
+oomp_key: oomp_oobb_part_plate_25_03_03
+oomp_word: snail train eight
+oomp_word_emoji: ':snail: :train: :eight:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':train:'
+- ':eight:'
+oomp_word_list:
+- snail
+- train
+- eight
+part_number: ''
+size: plate
+type: part

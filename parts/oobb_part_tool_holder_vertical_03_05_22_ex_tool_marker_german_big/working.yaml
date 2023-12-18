@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_22_ex_tool_marker_german_big
+directory: parts/oobb_part_tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+id: oobb_part_tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+id_no_class: part_tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+id_no_color: 030522extoolmarkergermanbig
+id_no_size: 03_05_22_ex_tool_marker_german_big
+id_no_type: tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+manufacturer: ''
+md5: 7a39f6bfee5ce88c4e7ee29e8a00f25f
+md5_10: 7a39f6bfee
+md5_10_upper: 7A39F6BFEE
+md5_5: 7a39f
+md5_5_upper: 7A39F
+md5_6: 7a39f6
+md5_6_alpha: 4roqe
+md5_6_alpha_upper: 4ROQE
+md5_6_upper: 7A39F6
+name: Oobb Part Tool Holder Vertical 03 05 22 Ex Tool Marker German Big
+name_no_class: Part Tool Holder Vertical 03 05 22 Ex Tool Marker German Big
+name_no_color: 030522Extoolmarkergermanbig
+name_no_size: 03 05 22 Ex Tool Marker German Big
+name_no_type: Tool Holder Vertical 03 05 22 Ex Tool Marker German Big
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_22_ex_tool_marker_german_big
+oomp_word: camera tiger five
+oomp_word_emoji: ':camera: :tiger: :five:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':tiger:'
+- ':five:'
+oomp_word_list:
+- camera
+- tiger
+- five
+part_number: ''
+size: tool_holder_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 9_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_9_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_9_pin_surface_mount
+id: electronic_header_2_5_mm_jst_xh_9_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_9_pin_surface_mount
+id_no_color: 9pinsurfacemount
+id_no_size: 9_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_9_pin_surface_mount
+manufacturer: ''
+md5: f3f8dc952a66e3310a4ce190a4e4ec6f
+md5_10: f3f8dc952a
+md5_10_upper: F3F8DC952A
+md5_5: f3f8d
+md5_5_upper: F3F8D
+md5_6: f3f8dc
+md5_6_alpha: 9ip5o
+md5_6_alpha_upper: 9IP5O
+md5_6_upper: F3F8DC
+name: Electronic Header 2 5 Mm Jst Xh 9 Pin Surface Mount
+name_no_class: Header 2 5 Mm Jst Xh 9 Pin Surface Mount
+name_no_color: 9Pinsurfacemount
+name_no_size: 9 Pin Surface Mount
+name_no_type: 2 5 Mm Jst Xh 9 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_9_pin_surface_mount
+oomp_word: two seven factory
+oomp_word_emoji: ':two: :seven: :factory:'
+oomp_word_emoji_list:
+- ':two:'
+- ':seven:'
+- ':factory:'
+oomp_word_list:
+- two
+- seven
+- factory
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

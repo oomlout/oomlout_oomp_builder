@@ -1,0 +1,40 @@
+classification: hardware
+color: 6805_size
+description_extra: ''
+description_main: 25_mm_id_37_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+id: hardware_bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+id_no_class: bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+id_no_color: 25_mm_id_37_mm_od_7_mm_depth
+id_no_size: 6805_size_25_mm_id_37_mm_od_7_mm_depth
+id_no_type: 6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+manufacturer: ''
+md5: 3906a4bc1f50587ff4170c6537dfc328
+md5_10: 3906a4bc1f
+md5_10_upper: 3906A4BC1F
+md5_5: 3906a
+md5_5_upper: 3906A
+md5_6: 3906a4
+md5_6_alpha: 283ok
+md5_6_alpha_upper: 283OK
+md5_6_upper: 3906A4
+name: Hardware Bearing 6800 Series 6805 Size 25 Mm Id 37 Mm Od 7 Mm Depth
+name_no_class: Bearing 6800 Series 6805 Size 25 Mm Id 37 Mm Od 7 Mm Depth
+name_no_color: 25 Mm Id 37 Mm Od 7 Mm Depth
+name_no_size: 6805 Size 25 Mm Id 37 Mm Od 7 Mm Depth
+name_no_type: 6800 Series 6805 Size 25 Mm Id 37 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
+oomp_word: tiger sleeping book
+oomp_word_emoji: ':tiger: :sleeping: :book:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':sleeping:'
+- ':book:'
+oomp_word_list:
+- tiger
+- sleeping
+- book
+part_number: ''
+size: 6800_series
+type: bearing

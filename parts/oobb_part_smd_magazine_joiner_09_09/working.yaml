@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09
+directory: parts/oobb_part_smd_magazine_joiner_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_09_09
+id: oobb_part_smd_magazine_joiner_09_09
+id_no_class: part_smd_magazine_joiner_09_09
+id_no_color: 0909
+id_no_size: 09_09
+id_no_type: smd_magazine_joiner_09_09
+manufacturer: ''
+md5: c9baff10d18e5fa739ff7011b72e5fe3
+md5_10: c9baff10d1
+md5_10_upper: C9BAFF10D1
+md5_5: c9baf
+md5_5_upper: C9BAF
+md5_6: c9baff
+md5_6_alpha: 7vd33
+md5_6_alpha_upper: 7VD33
+md5_6_upper: C9BAFF
+name: Oobb Part Smd Magazine Joiner 09 09
+name_no_class: Part Smd Magazine Joiner 09 09
+name_no_color: 0909
+name_no_size: 09 09
+name_no_type: Smd Magazine Joiner 09 09
+oomp_key: oomp_oobb_part_smd_magazine_joiner_09_09
+oomp_word: lemon spaghetti trident
+oomp_word_emoji: ':lemon: :spaghetti: :trident:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':spaghetti:'
+- ':trident:'
+oomp_word_list:
+- lemon
+- spaghetti
+- trident
+part_number: ''
+size: smd_magazine_joiner
+type: part

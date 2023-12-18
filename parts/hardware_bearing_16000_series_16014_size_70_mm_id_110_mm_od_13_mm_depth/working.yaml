@@ -1,0 +1,40 @@
+classification: hardware
+color: 16014_size
+description_extra: ''
+description_main: 70_mm_id_110_mm_od_13_mm_depth
+directory: parts/hardware_bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+id: hardware_bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+id_no_class: bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+id_no_color: 70_mm_id_110_mm_od_13_mm_depth
+id_no_size: 16014_size_70_mm_id_110_mm_od_13_mm_depth
+id_no_type: 16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+manufacturer: ''
+md5: 9c04ae9e883791d66acc84fa31dcedf9
+md5_10: 9c04ae9e88
+md5_10_upper: 9C04AE9E88
+md5_5: 9c04a
+md5_5_upper: 9C04A
+md5_6: 9c04ae
+md5_6_alpha: 635im
+md5_6_alpha_upper: 635IM
+md5_6_upper: 9C04AE
+name: Hardware Bearing 16000 Series 16014 Size 70 Mm Id 110 Mm Od 13 Mm Depth
+name_no_class: Bearing 16000 Series 16014 Size 70 Mm Id 110 Mm Od 13 Mm Depth
+name_no_color: 70 Mm Id 110 Mm Od 13 Mm Depth
+name_no_size: 16014 Size 70 Mm Id 110 Mm Od 13 Mm Depth
+name_no_type: 16000 Series 16014 Size 70 Mm Id 110 Mm Od 13 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
+oomp_word: spades wink jeans
+oomp_word_emoji: ':spades: :wink: :jeans:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':wink:'
+- ':jeans:'
+oomp_word_list:
+- spades
+- wink
+- jeans
+part_number: ''
+size: 16000_series
+type: bearing

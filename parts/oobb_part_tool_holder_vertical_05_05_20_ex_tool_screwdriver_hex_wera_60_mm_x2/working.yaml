@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+directory: parts/oobb_part_tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+id: oobb_part_tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+id_no_class: part_tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+id_no_color: 050520extoolscrewdriverhexwera60mmx2
+id_no_size: 05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+id_no_type: tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+manufacturer: ''
+md5: eaefb3abec34cb6b3a5323e054af11e4
+md5_10: eaefb3abec
+md5_10_upper: EAEFB3ABEC
+md5_5: eaefb
+md5_5_upper: EAEFB
+md5_6: eaefb3
+md5_6_alpha: 9608j
+md5_6_alpha_upper: 9608J
+md5_6_upper: EAEFB3
+name: Oobb Part Tool Holder Vertical 05 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X2
+name_no_class: Part Tool Holder Vertical 05 05 20 Ex Tool Screwdriver Hex Wera 60
+  Mm X2
+name_no_color: 050520Extoolscrewdriverhexwera60Mmx2
+name_no_size: 05 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X2
+name_no_type: Tool Holder Vertical 05 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X2
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_20_ex_tool_screwdriver_hex_wera_60_mm_x2
+oomp_word: tractor truck eyeglasses
+oomp_word_emoji: ':tractor: :truck: :eyeglasses:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':truck:'
+- ':eyeglasses:'
+oomp_word_list:
+- tractor
+- truck
+- eyeglasses
+part_number: ''
+size: tool_holder_vertical
+type: part

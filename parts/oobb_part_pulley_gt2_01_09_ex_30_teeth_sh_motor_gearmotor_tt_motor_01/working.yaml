@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0109ex30teethshmotorgearmotorttmotor01
+id_no_size: 01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: f35e0649668389b3871d68f5b1cb6ba2
+md5_10: f35e064966
+md5_10_upper: F35E064966
+md5_5: f35e0
+md5_5_upper: F35E0
+md5_6: f35e06
+md5_6_alpha: 9hukm
+md5_6_alpha_upper: 9HUKM
+md5_6_upper: F35E06
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_color: 0109Ex30Teethshmotorgearmotorttmotor01
+name_no_size: 01 09 Ex 30 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: two crocodile sleeping
+oomp_word_emoji: ':two: :crocodile: :sleeping:'
+oomp_word_emoji_list:
+- ':two:'
+- ':crocodile:'
+- ':sleeping:'
+oomp_word_list:
+- two
+- crocodile
+- sleeping
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x13_26_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+id_no_color: 2x1326pinthroughholerightangle
+id_no_size: 2x13_26_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+manufacturer: ''
+md5: 378770686cfe55ee583bc90da0ca9bee
+md5_10: 378770686c
+md5_10_upper: 378770686C
+md5_5: '37877'
+md5_5_upper: '37877'
+md5_6: '378770'
+md5_6_alpha: 25zzk
+md5_6_alpha_upper: 25ZZK
+md5_6_upper: '378770'
+name: Electronic Header 2 54 Mm Dual Row 2X13 26 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X13 26 Pin Through Hole Right Angle
+name_no_color: 2X1326Pinthroughholerightangle
+name_no_size: 2X13 26 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X13 26 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole_right_angle
+oomp_word: wolf toilet squirrel
+oomp_word_emoji: ':wolf: :toilet: :squirrel:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':toilet:'
+- ':squirrel:'
+oomp_word_list:
+- wolf
+- toilet
+- squirrel
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

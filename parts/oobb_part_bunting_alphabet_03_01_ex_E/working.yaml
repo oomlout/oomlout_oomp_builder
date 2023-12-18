@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_e
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_e
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_e
+id: oobb_part_bunting_alphabet_03_01_ex_e
+id_no_class: part_bunting_alphabet_03_01_ex_e
+id_no_color: 0301exe
+id_no_size: 03_01_ex_e
+id_no_type: bunting_alphabet_03_01_ex_e
+manufacturer: ''
+md5: 2cedc80a1ee3c814ba7f4f5e7b264470
+md5_10: 2cedc80a1e
+md5_10_upper: 2CEDC80A1E
+md5_5: 2cedc
+md5_5_upper: 2CEDC
+md5_6: 2cedc8
+md5_6_alpha: 1r3yg
+md5_6_alpha_upper: 1R3YG
+md5_6_upper: 2CEDC8
+name: Oobb Part Bunting Alphabet 03 01 Ex E
+name_no_class: Part Bunting Alphabet 03 01 Ex E
+name_no_color: 0301Exe
+name_no_size: 03 01 Ex E
+name_no_type: Bunting Alphabet 03 01 Ex E
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_e
+oomp_word: snowflake bus apple
+oomp_word_emoji: ':snowflake: :bus: :apple:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':bus:'
+- ':apple:'
+oomp_word_list:
+- snowflake
+- bus
+- apple
+part_number: ''
+size: bunting_alphabet
+type: part

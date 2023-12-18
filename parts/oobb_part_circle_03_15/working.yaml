@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_15'
+directory: parts/oobb_part_circle_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_03_15
+id: oobb_part_circle_03_15
+id_no_class: part_circle_03_15
+id_no_color: '0315'
+id_no_size: '03_15'
+id_no_type: circle_03_15
+manufacturer: ''
+md5: 7f7a3e0b21bfbe20e0da48f9ac3f8b73
+md5_10: 7f7a3e0b21
+md5_10_upper: 7F7A3E0B21
+md5_5: 7f7a3
+md5_5_upper: 7F7A3
+md5_6: 7f7a3e
+md5_6_alpha: 4z29q
+md5_6_alpha_upper: 4Z29Q
+md5_6_upper: 7F7A3E
+name: Oobb Part Circle 03 15
+name_no_class: Part Circle 03 15
+name_no_color: '0315'
+name_no_size: 03 15
+name_no_type: Circle 03 15
+oomp_key: oomp_oobb_part_circle_03_15
+oomp_word: speaker camera monkey
+oomp_word_emoji: ':speaker: :camera: :monkey:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':camera:'
+- ':monkey:'
+oomp_word_list:
+- speaker
+- camera
+- monkey
+part_number: ''
+size: circle
+type: part

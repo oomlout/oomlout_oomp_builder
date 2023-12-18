@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 6_pin
+directory: parts/electronic_socket_2_54_mm_6_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_6_pin_through_hole
+id: electronic_socket_2_54_mm_6_pin_through_hole
+id_no_class: socket_2_54_mm_6_pin_through_hole
+id_no_color: 6pinthroughhole
+id_no_size: 6_pin_through_hole
+id_no_type: 2_54_mm_6_pin_through_hole
+manufacturer: ''
+md5: 77daefefe90ce5a8224f201fb10c6c56
+md5_10: 77daefefe9
+md5_10_upper: 77DAEFEFE9
+md5_5: 77dae
+md5_5_upper: 77DAE
+md5_6: 77daef
+md5_6_alpha: 4octr
+md5_6_alpha_upper: 4OCTR
+md5_6_upper: 77DAEF
+name: Electronic Socket 2 54 Mm 6 Pin Through Hole
+name_no_class: Socket 2 54 Mm 6 Pin Through Hole
+name_no_color: 6Pinthroughhole
+name_no_size: 6 Pin Through Hole
+name_no_type: 2 54 Mm 6 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_6_pin_through_hole
+oomp_word: gift hotel truck
+oomp_word_emoji: ':gift: :hotel: :truck:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':hotel:'
+- ':truck:'
+oomp_word_list:
+- gift
+- hotel
+- truck
+part_number: ''
+size: 2_54_mm
+type: socket

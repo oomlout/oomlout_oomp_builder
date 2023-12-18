@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 9_pin
+directory: parts/electronic_header_2_54_mm_9_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_through_hole_long
+id: electronic_header_2_54_mm_9_pin_through_hole_long
+id_no_class: header_2_54_mm_9_pin_through_hole_long
+id_no_color: 9pinthroughholelong
+id_no_size: 9_pin_through_hole_long
+id_no_type: 2_54_mm_9_pin_through_hole_long
+manufacturer: ''
+md5: 5b2c823d8538318fc34f52adec4506c1
+md5_10: 5b2c823d85
+md5_10_upper: 5B2C823D85
+md5_5: 5b2c8
+md5_5_upper: 5B2C8
+md5_6: 5b2c82
+md5_6_alpha: 3k2gy
+md5_6_alpha_upper: 3K2GY
+md5_6_upper: 5B2C82
+name: Electronic Header 2 54 Mm 9 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 9 Pin Through Hole Long
+name_no_color: 9Pinthroughholelong
+name_no_size: 9 Pin Through Hole Long
+name_no_type: 2 54 Mm 9 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_9_pin_through_hole_long
+oomp_word: rooster snowflake radio
+oomp_word_emoji: ':rooster: :snowflake: :radio:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':snowflake:'
+- ':radio:'
+oomp_word_list:
+- rooster
+- snowflake
+- radio
+part_number: ''
+size: 2_54_mm
+type: header

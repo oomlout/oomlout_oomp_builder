@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_nut_m5
+directory: parts/oobb_part_nut_hardware_nut_m5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m5
+id: oobb_part_nut_hardware_nut_m5
+id_no_class: part_nut_hardware_nut_m5
+id_no_color: hardwarem5
+id_no_size: hardware_m5
+id_no_type: nut_hardware_nut_m5
+manufacturer: ''
+md5: 3da44b4382e37df852de3b0e20e5c512
+md5_10: 3da44b4382
+md5_10_upper: 3DA44B4382
+md5_5: 3da44
+md5_5_upper: 3DA44
+md5_6: 3da44b
+md5_6_alpha: 2el3f
+md5_6_alpha_upper: 2EL3F
+md5_6_upper: 3DA44B
+name: Oobb Part Nut Hardware Nut M5
+name_no_class: Part Nut Hardware Nut M5
+name_no_color: Hardwarem5
+name_no_size: Hardware M5
+name_no_type: Nut Hardware Nut M5
+oomp_key: oomp_oobb_part_nut_hardware_nut_m5
+oomp_word: cow book penguin
+oomp_word_emoji: ':cow: :book: :penguin:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':book:'
+- ':penguin:'
+oomp_word_list:
+- cow
+- book
+- penguin
+part_number: ''
+size: nut
+type: part

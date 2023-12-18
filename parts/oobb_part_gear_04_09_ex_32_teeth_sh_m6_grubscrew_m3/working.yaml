@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_09_ex_32_teeth_sh_m6_grubscrew_m3
+directory: parts/oobb_part_gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+id: oobb_part_gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+id_no_class: part_gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+id_no_color: 0409ex32teethshm6grubscrewm3
+id_no_size: 04_09_ex_32_teeth_sh_m6_grubscrew_m3
+id_no_type: gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+manufacturer: ''
+md5: d6961692ebf55784ffdc31f58efc6c96
+md5_10: d6961692eb
+md5_10_upper: D6961692EB
+md5_5: d6961
+md5_5_upper: D6961
+md5_6: d69616
+md5_6_alpha: 8df6e
+md5_6_alpha_upper: 8DF6E
+md5_6_upper: D69616
+name: Oobb Part Gear 04 09 Ex 32 Teeth Sh M6 Grubscrew M3
+name_no_class: Part Gear 04 09 Ex 32 Teeth Sh M6 Grubscrew M3
+name_no_color: 0409Ex32Teethshm6Grubscrewm3
+name_no_size: 04 09 Ex 32 Teeth Sh M6 Grubscrew M3
+name_no_type: Gear 04 09 Ex 32 Teeth Sh M6 Grubscrew M3
+oomp_key: oomp_oobb_part_gear_04_09_ex_32_teeth_sh_m6_grubscrew_m3
+oomp_word: school basketball thumbsup
+oomp_word_emoji: ':school: :basketball: :thumbsup:'
+oomp_word_emoji_list:
+- ':school:'
+- ':basketball:'
+- ':thumbsup:'
+oomp_word_list:
+- school
+- basketball
+- thumbsup
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_01_12'
+directory: parts/oobb_part_plate_14_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_12
+id: oobb_part_plate_14_01_12
+id_no_class: part_plate_14_01_12
+id_no_color: '140112'
+id_no_size: '14_01_12'
+id_no_type: plate_14_01_12
+manufacturer: ''
+md5: 061a439fdc74e7e32e4a8db6ce878885
+md5_10: 061a439fdc
+md5_10_upper: 061A439FDC
+md5_5: 061a4
+md5_5_upper: 061A4
+md5_6: 061a43
+md5_6_alpha: 8klf
+md5_6_alpha_upper: 8KLF
+md5_6_upper: 061A43
+name: Oobb Part Plate 14 01 12
+name_no_class: Part Plate 14 01 12
+name_no_color: '140112'
+name_no_size: 14 01 12
+name_no_type: Plate 14 01 12
+oomp_key: oomp_oobb_part_plate_14_01_12
+oomp_word: sleeping clap elephant
+oomp_word_emoji: ':sleeping: :clap: :elephant:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':clap:'
+- ':elephant:'
+oomp_word_list:
+- sleeping
+- clap
+- elephant
+part_number: ''
+size: plate
+type: part

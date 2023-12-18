@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue
+id: electronic_led_1206_blue
+id_no_class: led_1206_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 1206_blue
+manufacturer: ''
+md5: b479a89f585074b74fefdd18b419f86a
+md5_10: b479a89f58
+md5_10_upper: B479A89F58
+md5_5: b479a
+md5_5_upper: B479A
+md5_6: b479a8
+md5_6_alpha: 71i94
+md5_6_alpha_upper: 71I94
+md5_6_upper: B479A8
+name: Electronic Led 1206 Blue
+name_no_class: Led 1206 Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 1206 Blue
+oomp_key: oomp_electronic_led_1206_blue
+oomp_word: coffee balloon shoe
+oomp_word_emoji: ':coffee: :balloon: :shoe:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':balloon:'
+- ':shoe:'
+oomp_word_list:
+- coffee
+- balloon
+- shoe
+part_number: ''
+size: '1206'
+type: led

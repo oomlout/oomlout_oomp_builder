@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_12'
+directory: parts/oobb_part_tray_vertical_12_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_05_12
+id: oobb_part_tray_vertical_12_05_12
+id_no_class: part_tray_vertical_12_05_12
+id_no_color: '120512'
+id_no_size: '12_05_12'
+id_no_type: tray_vertical_12_05_12
+manufacturer: ''
+md5: cb08394a95070e2df2186332b1570d40
+md5_10: cb08394a95
+md5_10_upper: CB08394A95
+md5_5: cb083
+md5_5_upper: CB083
+md5_6: cb0839
+md5_6_alpha: 7x6wp
+md5_6_alpha_upper: 7X6WP
+md5_6_upper: CB0839
+name: Oobb Part Tray Vertical 12 05 12
+name_no_class: Part Tray Vertical 12 05 12
+name_no_color: '120512'
+name_no_size: 12 05 12
+name_no_type: Tray Vertical 12 05 12
+oomp_key: oomp_oobb_part_tray_vertical_12_05_12
+oomp_word: grapes scream tiger
+oomp_word_emoji: ':grapes: :scream: :tiger:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':scream:'
+- ':tiger:'
+oomp_word_list:
+- grapes
+- scream
+- tiger
+part_number: ''
+size: tray_vertical
+type: part

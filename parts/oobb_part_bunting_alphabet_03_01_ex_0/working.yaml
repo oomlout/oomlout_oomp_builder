@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_0
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_0
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_0
+id: oobb_part_bunting_alphabet_03_01_ex_0
+id_no_class: part_bunting_alphabet_03_01_ex_0
+id_no_color: 0301ex0
+id_no_size: 03_01_ex_0
+id_no_type: bunting_alphabet_03_01_ex_0
+manufacturer: ''
+md5: 2ac1151938a3bc8403bf23dfd00f895f
+md5_10: 2ac1151938
+md5_10_upper: 2AC1151938
+md5_5: 2ac11
+md5_5_upper: 2AC11
+md5_6: 2ac115
+md5_6_alpha: 1o1zp
+md5_6_alpha_upper: 1O1ZP
+md5_6_upper: 2AC115
+name: Oobb Part Bunting Alphabet 03 01 Ex 0
+name_no_class: Part Bunting Alphabet 03 01 Ex 0
+name_no_color: 0301Ex0
+name_no_size: 03 01 Ex 0
+name_no_type: Bunting Alphabet 03 01 Ex 0
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_0
+oomp_word: umbrella doughnut poop
+oomp_word_emoji: ':umbrella: :doughnut: :poop:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':doughnut:'
+- ':poop:'
+oomp_word_list:
+- umbrella
+- doughnut
+- poop
+part_number: ''
+size: bunting_alphabet
+type: part

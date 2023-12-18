@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6806
+directory: parts/oobb_part_bearing_hardware_bearing_6806
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6806
+id: oobb_part_bearing_hardware_bearing_6806
+id_no_class: part_bearing_hardware_bearing_6806
+id_no_color: hardware6806
+id_no_size: hardware_6806
+id_no_type: bearing_hardware_bearing_6806
+manufacturer: ''
+md5: fba3313c8955ed661a7885bc1775b059
+md5_10: fba3313c89
+md5_10_upper: FBA3313C89
+md5_5: fba33
+md5_5_upper: FBA33
+md5_6: fba331
+md5_6_alpha: 9tgs1
+md5_6_alpha_upper: 9TGS1
+md5_6_upper: FBA331
+name: Oobb Part Bearing Hardware Bearing 6806
+name_no_class: Part Bearing Hardware Bearing 6806
+name_no_color: Hardware6806
+name_no_size: Hardware 6806
+name_no_type: Bearing Hardware Bearing 6806
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6806
+oomp_word: ok pencil ocean
+oomp_word_emoji: ':ok: :pencil: :ocean:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':pencil:'
+- ':ocean:'
+oomp_word_list:
+- ok
+- pencil
+- ocean
+part_number: ''
+size: bearing
+type: part

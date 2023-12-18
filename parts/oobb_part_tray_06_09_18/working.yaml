@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_18
+directory: parts/oobb_part_tray_06_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_09_18
+id: oobb_part_tray_06_09_18
+id_no_class: part_tray_06_09_18
+id_no_color: 060918
+id_no_size: 06_09_18
+id_no_type: tray_06_09_18
+manufacturer: ''
+md5: c677a506e702a7cb324f3aa10f145e63
+md5_10: c677a506e7
+md5_10_upper: C677A506E7
+md5_5: c677a
+md5_5_upper: C677A
+md5_6: c677a5
+md5_6_alpha: 7qs2t
+md5_6_alpha_upper: 7QS2T
+md5_6_upper: C677A5
+name: Oobb Part Tray 06 09 18
+name_no_class: Part Tray 06 09 18
+name_no_color: 060918
+name_no_size: 06 09 18
+name_no_type: Tray 06 09 18
+oomp_key: oomp_oobb_part_tray_06_09_18
+oomp_word: lollipop gift headphones
+oomp_word_emoji: ':lollipop: :gift: :headphones:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':gift:'
+- ':headphones:'
+oomp_word_list:
+- lollipop
+- gift
+- headphones
+part_number: ''
+size: tray
+type: part

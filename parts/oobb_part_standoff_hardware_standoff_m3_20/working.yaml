@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_20
+directory: parts/oobb_part_standoff_hardware_standoff_m3_20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_20
+id: oobb_part_standoff_hardware_standoff_m3_20
+id_no_class: part_standoff_hardware_standoff_m3_20
+id_no_color: hardwarem320
+id_no_size: hardware_m3_20
+id_no_type: standoff_hardware_standoff_m3_20
+manufacturer: ''
+md5: 40e564cac56c4a590edfd70dd25fca00
+md5_10: 40e564cac5
+md5_10_upper: 40E564CAC5
+md5_5: 40e56
+md5_5_upper: 40E56
+md5_6: 40e564
+md5_6_alpha: 2j5no
+md5_6_alpha_upper: 2J5NO
+md5_6_upper: 40E564
+name: Oobb Part Standoff Hardware Standoff M3 20
+name_no_class: Part Standoff Hardware Standoff M3 20
+name_no_color: Hardwarem320
+name_no_size: Hardware M3 20
+name_no_type: Standoff Hardware Standoff M3 20
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_20
+oomp_word: racehorse rocket sunflower
+oomp_word_emoji: ':racehorse: :rocket: :sunflower:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':rocket:'
+- ':sunflower:'
+oomp_word_list:
+- racehorse
+- rocket
+- sunflower
+part_number: ''
+size: standoff
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_27000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27000_ohm
+id: electronic_resistor_quarter_watt_through_hole_27000_ohm
+id_no_class: resistor_quarter_watt_through_hole_27000_ohm
+id_no_color: 27000ohm
+id_no_size: 27000_ohm
+id_no_type: quarter_watt_through_hole_27000_ohm
+manufacturer: ''
+md5: e45c162d59ecac1d1d70389751256cf5
+md5_10: e45c162d59
+md5_10_upper: E45C162D59
+md5_5: e45c1
+md5_5_upper: E45C1
+md5_6: e45c16
+md5_6_alpha: 8wro6
+md5_6_alpha_upper: 8WRO6
+md5_6_upper: E45C16
+name: Electronic Resistor Quarter Watt Through Hole 27000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 27000 Ohm
+name_no_color: 27000Ohm
+name_no_size: 27000 Ohm
+name_no_type: Quarter Watt Through Hole 27000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_27000_ohm
+oomp_word: anchor ox thumbsup
+oomp_word_emoji: ':anchor: :ox: :thumbsup:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':ox:'
+- ':thumbsup:'
+oomp_word_list:
+- anchor
+- ox
+- thumbsup
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

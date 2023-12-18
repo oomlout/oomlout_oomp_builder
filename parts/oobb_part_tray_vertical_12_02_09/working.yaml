@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_02_09'
+directory: parts/oobb_part_tray_vertical_12_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_02_09
+id: oobb_part_tray_vertical_12_02_09
+id_no_class: part_tray_vertical_12_02_09
+id_no_color: '120209'
+id_no_size: '12_02_09'
+id_no_type: tray_vertical_12_02_09
+manufacturer: ''
+md5: fcf56913427195852b9f2c8d3a80065b
+md5_10: fcf5691342
+md5_10_upper: FCF5691342
+md5_5: fcf56
+md5_5_upper: FCF56
+md5_6: fcf569
+md5_6_alpha: 9vbl5
+md5_6_alpha_upper: 9VBL5
+md5_6_upper: FCF569
+name: Oobb Part Tray Vertical 12 02 09
+name_no_class: Part Tray Vertical 12 02 09
+name_no_color: '120209'
+name_no_size: 12 02 09
+name_no_type: Tray Vertical 12 02 09
+oomp_key: oomp_oobb_part_tray_vertical_12_02_09
+oomp_word: up four cactus
+oomp_word_emoji: ':up: :four: :cactus:'
+oomp_word_emoji_list:
+- ':up:'
+- ':four:'
+- ':cactus:'
+oomp_word_list:
+- up
+- four
+- cactus
+part_number: ''
+size: tray_vertical
+type: part

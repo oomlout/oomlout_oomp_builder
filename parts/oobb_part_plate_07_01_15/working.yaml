@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_15'
+directory: parts/oobb_part_plate_07_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_15
+id: oobb_part_plate_07_01_15
+id_no_class: part_plate_07_01_15
+id_no_color: '070115'
+id_no_size: '07_01_15'
+id_no_type: plate_07_01_15
+manufacturer: ''
+md5: d40050b7d3f45eea2c916ab743e371a2
+md5_10: d40050b7d3
+md5_10_upper: D40050B7D3
+md5_5: d4005
+md5_5_upper: D4005
+md5_6: d40050
+md5_6_alpha: 89sgg
+md5_6_alpha_upper: 89SGG
+md5_6_upper: D40050
+name: Oobb Part Plate 07 01 15
+name_no_class: Part Plate 07 01 15
+name_no_color: '070115'
+name_no_size: 07 01 15
+name_no_type: Plate 07 01 15
+oomp_key: oomp_oobb_part_plate_07_01_15
+oomp_word: corn bowtie beetle
+oomp_word_emoji: ':corn: :bowtie: :beetle:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':bowtie:'
+- ':beetle:'
+oomp_word_list:
+- corn
+- bowtie
+- beetle
+part_number: ''
+size: plate
+type: part

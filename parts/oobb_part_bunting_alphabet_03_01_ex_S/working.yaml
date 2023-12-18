@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_s
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_s
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_s
+id: oobb_part_bunting_alphabet_03_01_ex_s
+id_no_class: part_bunting_alphabet_03_01_ex_s
+id_no_color: 0301exs
+id_no_size: 03_01_ex_s
+id_no_type: bunting_alphabet_03_01_ex_s
+manufacturer: ''
+md5: 1a3fcbb58827516d63a6cf62a62afcbc
+md5_10: 1a3fcbb588
+md5_10_upper: 1A3FCBB588
+md5_5: 1a3fc
+md5_5_upper: 1A3FC
+md5_6: 1a3fcb
+md5_6_alpha: 10vd7
+md5_6_alpha_upper: 10VD7
+md5_6_upper: 1A3FCB
+name: Oobb Part Bunting Alphabet 03 01 Ex S
+name_no_class: Part Bunting Alphabet 03 01 Ex S
+name_no_color: 0301Exs
+name_no_size: 03 01 Ex S
+name_no_type: Bunting Alphabet 03 01 Ex S
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_s
+oomp_word: clap horse grapes
+oomp_word_emoji: ':clap: :horse: :grapes:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':horse:'
+- ':grapes:'
+oomp_word_list:
+- clap
+- horse
+- grapes
+part_number: ''
+size: bunting_alphabet
+type: part

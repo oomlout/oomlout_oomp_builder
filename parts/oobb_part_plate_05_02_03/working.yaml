@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_02_03'
+directory: parts/oobb_part_plate_05_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03
+id: oobb_part_plate_05_02_03
+id_no_class: part_plate_05_02_03
+id_no_color: '050203'
+id_no_size: '05_02_03'
+id_no_type: plate_05_02_03
+manufacturer: ''
+md5: 09f5ad9e6933369a042ec1917de2e128
+md5_10: 09f5ad9e69
+md5_10_upper: 09F5AD9E69
+md5_5: 09f5a
+md5_5_upper: 09F5A
+md5_6: 09f5ad
+md5_6_alpha: dzn1
+md5_6_alpha_upper: DZN1
+md5_6_upper: 09F5AD
+name: Oobb Part Plate 05 02 03
+name_no_class: Part Plate 05 02 03
+name_no_color: '050203'
+name_no_size: 05 02 03
+name_no_type: Plate 05 02 03
+oomp_key: oomp_oobb_part_plate_05_02_03
+oomp_word: angry four dress
+oomp_word_emoji: ':angry: :four: :dress:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':four:'
+- ':dress:'
+oomp_word_list:
+- angry
+- four
+- dress
+part_number: ''
+size: plate
+type: part

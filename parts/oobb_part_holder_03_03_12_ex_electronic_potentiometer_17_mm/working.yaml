@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_12_ex_electronic_potentiometer_17_mm
+directory: parts/oobb_part_holder_03_03_12_ex_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_12_ex_electronic_potentiometer_17_mm
+id: oobb_part_holder_03_03_12_ex_electronic_potentiometer_17_mm
+id_no_class: part_holder_03_03_12_ex_electronic_potentiometer_17_mm
+id_no_color: 030312exelectronicpotentiometer17mm
+id_no_size: 03_03_12_ex_electronic_potentiometer_17_mm
+id_no_type: holder_03_03_12_ex_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: af2c9b32f34fb4c9135b3d07d223044d
+md5_10: af2c9b32f3
+md5_10_upper: AF2C9B32F3
+md5_5: af2c9
+md5_5_upper: AF2C9
+md5_6: af2c9b
+md5_6_alpha: 6u26z
+md5_6_alpha_upper: 6U26Z
+md5_6_upper: AF2C9B
+name: Oobb Part Holder 03 03 12 Ex Electronic Potentiometer 17 Mm
+name_no_class: Part Holder 03 03 12 Ex Electronic Potentiometer 17 Mm
+name_no_color: 030312Exelectronicpotentiometer17Mm
+name_no_size: 03 03 12 Ex Electronic Potentiometer 17 Mm
+name_no_type: Holder 03 03 12 Ex Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_holder_03_03_12_ex_electronic_potentiometer_17_mm
+oomp_word: tophat snowflake ski
+oomp_word_emoji: ':tophat: :snowflake: :ski:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':snowflake:'
+- ':ski:'
+oomp_word_list:
+- tophat
+- snowflake
+- ski
+part_number: ''
+size: holder
+type: part

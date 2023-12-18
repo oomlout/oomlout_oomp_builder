@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_15'
+directory: parts/oobb_part_tray_11_11_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_11_15
+id: oobb_part_tray_11_11_15
+id_no_class: part_tray_11_11_15
+id_no_color: '111115'
+id_no_size: '11_11_15'
+id_no_type: tray_11_11_15
+manufacturer: ''
+md5: ad326e4132d0ce5c4a4bb82c95ebe12a
+md5_10: ad326e4132
+md5_10_upper: AD326E4132
+md5_5: ad326
+md5_5_upper: AD326
+md5_6: ad326e
+md5_6_alpha: 6ra7i
+md5_6_alpha_upper: 6RA7I
+md5_6_upper: AD326E
+name: Oobb Part Tray 11 11 15
+name_no_class: Part Tray 11 11 15
+name_no_color: '111115'
+name_no_size: 11 11 15
+name_no_type: Tray 11 11 15
+oomp_key: oomp_oobb_part_tray_11_11_15
+oomp_word: dress cat new_moon
+oomp_word_emoji: ':dress: :cat: :new_moon:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':cat:'
+- ':new_moon:'
+oomp_word_list:
+- dress
+- cat
+- new_moon
+part_number: ''
+size: tray
+type: part

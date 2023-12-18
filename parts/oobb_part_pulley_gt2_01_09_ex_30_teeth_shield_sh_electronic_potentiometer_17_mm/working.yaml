@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_color: 0109ex30teethshieldshelectronicpotentiometer17mm
+id_no_size: 01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 7c534a58bb6cdbb67d0599b8d6dc07f6
+md5_10: 7c534a58bb
+md5_10_upper: 7C534A58BB
+md5_5: 7c534
+md5_5_upper: 7C534
+md5_6: 7c534a
+md5_6_alpha: 4umve
+md5_6_alpha_upper: 4UMVE
+md5_6_upper: 7C534A
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Electronic Potentiometer 17
+  Mm
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Electronic Potentiometer
+  17 Mm
+name_no_color: 0109Ex30Teethshieldshelectronicpotentiometer17Mm
+name_no_size: 01 09 Ex 30 Teeth Shield Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_electronic_potentiometer_17_mm
+oomp_word: tv fish chicken
+oomp_word_emoji: ':tv: :fish: :chicken:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':fish:'
+- ':chicken:'
+oomp_word_list:
+- tv
+- fish
+- chicken
+part_number: ''
+size: pulley_gt2
+type: part

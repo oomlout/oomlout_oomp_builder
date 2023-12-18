@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_z
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_z
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_z
+id: oobb_part_bunting_alphabet_13_01_ex_z
+id_no_class: part_bunting_alphabet_13_01_ex_z
+id_no_color: 1301exz
+id_no_size: 13_01_ex_z
+id_no_type: bunting_alphabet_13_01_ex_z
+manufacturer: ''
+md5: 2447bd27f790154b9344b4cb58c906dd
+md5_10: 2447bd27f7
+md5_10_upper: 2447BD27F7
+md5_5: 2447b
+md5_5_upper: 2447B
+md5_6: 2447bd
+md5_6_alpha: 1eym5
+md5_6_alpha_upper: 1EYM5
+md5_6_upper: 2447BD
+name: Oobb Part Bunting Alphabet 13 01 Ex Z
+name_no_class: Part Bunting Alphabet 13 01 Ex Z
+name_no_color: 1301Exz
+name_no_size: 13 01 Ex Z
+name_no_type: Bunting Alphabet 13 01 Ex Z
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_z
+oomp_word: droplet baby_chick rice
+oomp_word_emoji: ':droplet: :baby_chick: :rice:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':baby_chick:'
+- ':rice:'
+oomp_word_list:
+- droplet
+- baby_chick
+- rice
+part_number: ''
+size: bunting_alphabet
+type: part

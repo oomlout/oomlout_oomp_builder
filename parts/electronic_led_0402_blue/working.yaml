@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0402_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_blue
+id: electronic_led_0402_blue
+id_no_class: led_0402_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 0402_blue
+manufacturer: ''
+md5: 22b454129ac0ad6c1c9401f368da8327
+md5_10: 22b454129a
+md5_10_upper: 22B454129A
+md5_5: 22b45
+md5_5_upper: 22B45
+md5_6: 22b454
+md5_6_alpha: 1cqxg
+md5_6_alpha_upper: 1CQXG
+md5_6_upper: 22B454
+name: Electronic Led 0402 Blue
+name_no_class: Led 0402 Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 0402 Blue
+oomp_key: oomp_electronic_led_0402_blue
+oomp_word: lips coffee whale
+oomp_word_emoji: ':lips: :coffee: :whale:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':coffee:'
+- ':whale:'
+oomp_word_list:
+- lips
+- coffee
+- whale
+part_number: ''
+size: '0402'
+type: led

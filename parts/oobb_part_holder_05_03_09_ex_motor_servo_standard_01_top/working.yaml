@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_09_ex_motor_servo_standard_01_top
+directory: parts/oobb_part_holder_05_03_09_ex_motor_servo_standard_01_top
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09_ex_motor_servo_standard_01_top
+id: oobb_part_holder_05_03_09_ex_motor_servo_standard_01_top
+id_no_class: part_holder_05_03_09_ex_motor_servo_standard_01_top
+id_no_color: 050309exmotorservostandard01top
+id_no_size: 05_03_09_ex_motor_servo_standard_01_top
+id_no_type: holder_05_03_09_ex_motor_servo_standard_01_top
+manufacturer: ''
+md5: fb059be20c455e7527e316704a6659da
+md5_10: fb059be20c
+md5_10_upper: FB059BE20C
+md5_5: fb059
+md5_5_upper: FB059
+md5_6: fb059b
+md5_6_alpha: 9slnf
+md5_6_alpha_upper: 9SLNF
+md5_6_upper: FB059B
+name: Oobb Part Holder 05 03 09 Ex Motor Servo Standard 01 Top
+name_no_class: Part Holder 05 03 09 Ex Motor Servo Standard 01 Top
+name_no_color: 050309Exmotorservostandard01Top
+name_no_size: 05 03 09 Ex Motor Servo Standard 01 Top
+name_no_type: Holder 05 03 09 Ex Motor Servo Standard 01 Top
+oomp_key: oomp_oobb_part_holder_05_03_09_ex_motor_servo_standard_01_top
+oomp_word: ok kissing ski
+oomp_word_emoji: ':ok: :kissing: :ski:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':kissing:'
+- ':ski:'
+oomp_word_list:
+- ok
+- kissing
+- ski
+part_number: ''
+size: holder
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 27_pin
+directory: parts/electronic_header_2_54_mm_27_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_short
+id: electronic_header_2_54_mm_27_pin_through_hole_short
+id_no_class: header_2_54_mm_27_pin_through_hole_short
+id_no_color: 27pinthroughholeshort
+id_no_size: 27_pin_through_hole_short
+id_no_type: 2_54_mm_27_pin_through_hole_short
+manufacturer: ''
+md5: b3bdc8ad52cf9922a60133e37d6b1ad0
+md5_10: b3bdc8ad52
+md5_10_upper: B3BDC8AD52
+md5_5: b3bdc
+md5_5_upper: B3BDC
+md5_6: b3bdc8
+md5_6_alpha: 70h54
+md5_6_alpha_upper: 70H54
+md5_6_upper: B3BDC8
+name: Electronic Header 2 54 Mm 27 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 27 Pin Through Hole Short
+name_no_color: 27Pinthroughholeshort
+name_no_size: 27 Pin Through Hole Short
+name_no_type: 2 54 Mm 27 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_27_pin_through_hole_short
+oomp_word: eyeglasses rice apple
+oomp_word_emoji: ':eyeglasses: :rice: :apple:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':rice:'
+- ':apple:'
+oomp_word_list:
+- eyeglasses
+- rice
+- apple
+part_number: ''
+size: 2_54_mm
+type: header

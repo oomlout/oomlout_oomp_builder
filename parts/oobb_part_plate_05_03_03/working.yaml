@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_03'
+directory: parts/oobb_part_plate_05_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_03
+id: oobb_part_plate_05_03_03
+id_no_class: part_plate_05_03_03
+id_no_color: '050303'
+id_no_size: '05_03_03'
+id_no_type: plate_05_03_03
+manufacturer: ''
+md5: 10a11a8387c14473517cfb637a1b7f60
+md5_10: 10a11a8387
+md5_10_upper: 10A11A8387
+md5_5: 10a11
+md5_5_upper: 10A11
+md5_6: 10a11a
+md5_6_alpha: ncwq
+md5_6_alpha_upper: NCWQ
+md5_6_upper: 10A11A
+name: Oobb Part Plate 05 03 03
+name_no_class: Part Plate 05 03 03
+name_no_color: '050303'
+name_no_size: 05 03 03
+name_no_type: Plate 05 03 03
+oomp_key: oomp_oobb_part_plate_05_03_03
+oomp_word: star trophy clap
+oomp_word_emoji: ':star: :trophy: :clap:'
+oomp_word_emoji_list:
+- ':star:'
+- ':trophy:'
+- ':clap:'
+oomp_word_list:
+- star
+- trophy
+- clap
+part_number: ''
+size: plate
+type: part

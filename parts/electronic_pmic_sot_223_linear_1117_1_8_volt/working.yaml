@@ -1,0 +1,40 @@
+classification: electronic
+color: linear
+description_extra: 1_8_volt
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_1_8_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
+id: electronic_pmic_sot_223_linear_1117_1_8_volt
+id_no_class: pmic_sot_223_linear_1117_1_8_volt
+id_no_color: 1117_1_8_volt
+id_no_size: linear_1117_1_8_volt
+id_no_type: sot_223_linear_1117_1_8_volt
+manufacturer: ''
+md5: 1ae2ec9bc6ca9d86e38f14487d5958be
+md5_10: 1ae2ec9bc6
+md5_10_upper: 1AE2EC9BC6
+md5_5: 1ae2e
+md5_5_upper: 1AE2E
+md5_6: 1ae2ec
+md5_6_alpha: 11rl8
+md5_6_alpha_upper: 11RL8
+md5_6_upper: 1AE2EC
+name: Electronic Pmic Sot 223 Linear 1117 1 8 Volt
+name_no_class: Pmic Sot 223 Linear 1117 1 8 Volt
+name_no_color: 1117 1 8 Volt
+name_no_size: Linear 1117 1 8 Volt
+name_no_type: Sot 223 Linear 1117 1 8 Volt
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_1_8_volt
+oomp_word: clap sailboat taxi
+oomp_word_emoji: ':clap: :sailboat: :taxi:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':sailboat:'
+- ':taxi:'
+oomp_word_list:
+- clap
+- sailboat
+- taxi
+part_number: ''
+size: sot_223
+type: pmic

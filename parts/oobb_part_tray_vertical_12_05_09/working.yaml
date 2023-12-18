@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_09'
+directory: parts/oobb_part_tray_vertical_12_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_05_09
+id: oobb_part_tray_vertical_12_05_09
+id_no_class: part_tray_vertical_12_05_09
+id_no_color: '120509'
+id_no_size: '12_05_09'
+id_no_type: tray_vertical_12_05_09
+manufacturer: ''
+md5: 612cd81825f7a5b49b2dd24538cca844
+md5_10: 612cd81825
+md5_10_upper: 612CD81825
+md5_5: 612cd
+md5_5_upper: 612CD
+md5_6: 612cd8
+md5_6_alpha: 3shy0
+md5_6_alpha_upper: 3SHY0
+md5_6_upper: 612CD8
+name: Oobb Part Tray Vertical 12 05 09
+name_no_class: Part Tray Vertical 12 05 09
+name_no_color: '120509'
+name_no_size: 12 05 09
+name_no_type: Tray Vertical 12 05 09
+oomp_key: oomp_oobb_part_tray_vertical_12_05_09
+oomp_word: bouquet snowflake hospital
+oomp_word_emoji: ':bouquet: :snowflake: :hospital:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':snowflake:'
+- ':hospital:'
+oomp_word_list:
+- bouquet
+- snowflake
+- hospital
+part_number: ''
+size: tray_vertical
+type: part

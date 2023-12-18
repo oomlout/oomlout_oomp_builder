@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_e
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_e
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_e
+id: oobb_part_bunting_alphabet_13_01_ex_e
+id_no_class: part_bunting_alphabet_13_01_ex_e
+id_no_color: 1301exe
+id_no_size: 13_01_ex_e
+id_no_type: bunting_alphabet_13_01_ex_e
+manufacturer: ''
+md5: 96b5752c21bba2cc91ac3624d5e1a8a0
+md5_10: 96b5752c21
+md5_10_upper: 96B5752C21
+md5_5: 96b57
+md5_5_upper: 96B57
+md5_6: 96b575
+md5_6_alpha: 5vp11
+md5_6_alpha_upper: 5VP11
+md5_6_upper: 96B575
+name: Oobb Part Bunting Alphabet 13 01 Ex E
+name_no_class: Part Bunting Alphabet 13 01 Ex E
+name_no_color: 1301Exe
+name_no_size: 13 01 Ex E
+name_no_type: Bunting Alphabet 13 01 Ex E
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_e
+oomp_word: basketball tea ghost
+oomp_word_emoji: ':basketball: :tea: :ghost:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':tea:'
+- ':ghost:'
+oomp_word_list:
+- basketball
+- tea
+- ghost
+part_number: ''
+size: bunting_alphabet
+type: part

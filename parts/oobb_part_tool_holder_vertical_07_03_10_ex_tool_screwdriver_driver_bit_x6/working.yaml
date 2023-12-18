@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_10_ex_tool_screwdriver_driver_bit_x6
+directory: parts/oobb_part_tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+id: oobb_part_tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+id_no_class: part_tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+id_no_color: 070310extoolscrewdriverdriverbitx6
+id_no_size: 07_03_10_ex_tool_screwdriver_driver_bit_x6
+id_no_type: tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+manufacturer: ''
+md5: a7502e969769cb42b3e1926304427986
+md5_10: a7502e9697
+md5_10_upper: A7502E9697
+md5_5: a7502
+md5_5_upper: A7502
+md5_6: a7502e
+md5_6_alpha: 6j0oe
+md5_6_alpha_upper: 6J0OE
+md5_6_upper: A7502E
+name: Oobb Part Tool Holder Vertical 07 03 10 Ex Tool Screwdriver Driver Bit X6
+name_no_class: Part Tool Holder Vertical 07 03 10 Ex Tool Screwdriver Driver Bit X6
+name_no_color: 070310Extoolscrewdriverdriverbitx6
+name_no_size: 07 03 10 Ex Tool Screwdriver Driver Bit X6
+name_no_type: Tool Holder Vertical 07 03 10 Ex Tool Screwdriver Driver Bit X6
+oomp_key: oomp_oobb_part_tool_holder_vertical_07_03_10_ex_tool_screwdriver_driver_bit_x6
+oomp_word: guitar beetle zap
+oomp_word_emoji: ':guitar: :beetle: :zap:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':beetle:'
+- ':zap:'
+oomp_word_list:
+- guitar
+- beetle
+- zap
+part_number: ''
+size: tool_holder_vertical
+type: part

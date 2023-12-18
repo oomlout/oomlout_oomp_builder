@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+directory: parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+id: oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_class: part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 070714nm12mmtapewidth2mmtapethicknessex2
+id_no_size: 07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_type: smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+md5: c5f74ad0d1e6dcaa6c4924673e7509a6
+md5_10: c5f74ad0d1
+md5_10_upper: C5F74AD0D1
+md5_5: c5f74
+md5_5_upper: C5F74
+md5_6: c5f74a
+md5_6_alpha: 7q2q2
+md5_6_alpha_upper: 7Q2Q2
+md5_6_upper: C5F74A
+name: Oobb Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_class: Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness
+  Ex 2
+name_no_color: 070714Nm12Mmtapewidth2Mmtapethicknessex2
+name_no_size: 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_type: Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness Ex 2
+oomp_key: oomp_oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+oomp_word: candy six chicken
+oomp_word_emoji: ':candy: :six: :chicken:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':six:'
+- ':chicken:'
+oomp_word_list:
+- candy
+- six
+- chicken
+part_number: ''
+size: smd_magazine
+type: part

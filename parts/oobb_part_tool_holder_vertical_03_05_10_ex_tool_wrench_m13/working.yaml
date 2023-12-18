@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_10_ex_tool_wrench_m13
+directory: parts/oobb_part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id: oobb_part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id_no_class: part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+id_no_color: 030510extoolwrenchm13
+id_no_size: 03_05_10_ex_tool_wrench_m13
+id_no_type: tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+manufacturer: ''
+md5: 0a8bb9ecff0fc81e0e97d88387d24c30
+md5_10: 0a8bb9ecff
+md5_10_upper: 0A8BB9ECFF
+md5_5: 0a8bb
+md5_5_upper: 0A8BB
+md5_6: 0a8bb9
+md5_6_alpha: eta1
+md5_6_alpha_upper: ETA1
+md5_6_upper: 0A8BB9
+name: Oobb Part Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_class: Part Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+name_no_color: 030510Extoolwrenchm13
+name_no_size: 03 05 10 Ex Tool Wrench M13
+name_no_type: Tool Holder Vertical 03 05 10 Ex Tool Wrench M13
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_10_ex_tool_wrench_m13
+oomp_word: sleepy door fries
+oomp_word_emoji: ':sleepy: :door: :fries:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':door:'
+- ':fries:'
+oomp_word_list:
+- sleepy
+- door
+- fries
+part_number: ''
+size: tool_holder_vertical
+type: part

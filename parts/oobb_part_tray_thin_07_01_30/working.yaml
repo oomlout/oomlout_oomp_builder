@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_30'
+directory: parts/oobb_part_tray_thin_07_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_01_30
+id: oobb_part_tray_thin_07_01_30
+id_no_class: part_tray_thin_07_01_30
+id_no_color: '070130'
+id_no_size: '07_01_30'
+id_no_type: tray_thin_07_01_30
+manufacturer: ''
+md5: 22c99f97671fe8b64f5c3c6d9d77df99
+md5_10: 22c99f9767
+md5_10_upper: 22C99F9767
+md5_5: 22c99
+md5_5_upper: 22C99
+md5_6: 22c99f
+md5_6_alpha: 1cv4v
+md5_6_alpha_upper: 1CV4V
+md5_6_upper: 22C99F
+name: Oobb Part Tray Thin 07 01 30
+name_no_class: Part Tray Thin 07 01 30
+name_no_color: '070130'
+name_no_size: 07 01 30
+name_no_type: Tray Thin 07 01 30
+oomp_key: oomp_oobb_part_tray_thin_07_01_30
+oomp_word: lips lemon diamonds
+oomp_word_emoji: ':lips: :lemon: :diamonds:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':lemon:'
+- ':diamonds:'
+oomp_word_list:
+- lips
+- lemon
+- diamonds
+part_number: ''
+size: tray_thin
+type: part

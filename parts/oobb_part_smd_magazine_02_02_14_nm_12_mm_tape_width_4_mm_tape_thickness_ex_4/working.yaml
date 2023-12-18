@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 020214nm12mmtapewidth4mmtapethicknessex4
+id_no_size: 02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: 0017dee4d2634b790271aea32b925129
+md5_10: 0017dee4d2
+md5_10_upper: 0017DEE4D2
+md5_5: 0017d
+md5_5_upper: 0017D
+md5_6: 0017de
+md5_6_alpha: 4pq
+md5_6_alpha_upper: 4PQ
+md5_6_upper: 0017DE
+name: Oobb Part Smd Magazine 02 02 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 02 02 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 020214Nm12Mmtapewidth4Mmtapethicknessex4
+name_no_size: 02 02 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 02 02 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: bowtie thumbsdown rainbow
+oomp_word_emoji: ':bowtie: :thumbsdown: :rainbow:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':thumbsdown:'
+- ':rainbow:'
+oomp_word_list:
+- bowtie
+- thumbsdown
+- rainbow
+part_number: ''
+size: smd_magazine
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_threaded_insert_m3
+directory: parts/oobb_part_threaded_insert_hardware_threaded_insert_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3
+id: oobb_part_threaded_insert_hardware_threaded_insert_m3
+id_no_class: part_threaded_insert_hardware_threaded_insert_m3
+id_no_color: hardwarem3
+id_no_size: hardware_m3
+id_no_type: threaded_insert_hardware_threaded_insert_m3
+manufacturer: ''
+md5: 5dc954fff52ddfc66987abd30dae5146
+md5_10: 5dc954fff5
+md5_10_upper: 5DC954FFF5
+md5_5: 5dc95
+md5_5_upper: 5DC95
+md5_6: 5dc954
+md5_6_alpha: 3nql0
+md5_6_alpha_upper: 3NQL0
+md5_6_upper: 5DC954
+name: Oobb Part Threaded Insert Hardware Threaded Insert M3
+name_no_class: Part Threaded Insert Hardware Threaded Insert M3
+name_no_color: Hardwarem3
+name_no_size: Hardware M3
+name_no_type: Threaded Insert Hardware Threaded Insert M3
+oomp_key: oomp_oobb_part_threaded_insert_hardware_threaded_insert_m3
+oomp_word: blowfish lemon whale
+oomp_word_emoji: ':blowfish: :lemon: :whale:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':lemon:'
+- ':whale:'
+oomp_word_list:
+- blowfish
+- lemon
+- whale
+part_number: ''
+size: threaded_insert
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: MR137_size
+description_extra: ''
+description_main: 7_mm_id_13_mm_od_4_mm_depth
+directory: parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+id: hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+id_no_class: bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+id_no_color: 7_mm_id_13_mm_od_4_mm_depth
+id_no_size: MR137_size_7_mm_id_13_mm_od_4_mm_depth
+id_no_type: MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+manufacturer: ''
+md5: d64d4da4dba4d645785cbd1b04e90323
+md5_10: d64d4da4db
+md5_10_upper: D64D4DA4DB
+md5_5: d64d4
+md5_5_upper: D64D4
+md5_6: d64d4d
+md5_6_alpha: 8d0st
+md5_6_alpha_upper: 8D0ST
+md5_6_upper: D64D4D
+name: Hardware Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth
+name_no_class: Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth
+name_no_color: 7 Mm Id 13 Mm Od 4 Mm Depth
+name_no_size: Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth
+name_no_type: Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
+oomp_word: school bug bug
+oomp_word_emoji: ':school: :bug: :bug:'
+oomp_word_emoji_list:
+- ':school:'
+- ':bug:'
+- ':bug:'
+oomp_word_list:
+- school
+- bug
+- bug
+part_number: ''
+size: MR_series
+type: bearing

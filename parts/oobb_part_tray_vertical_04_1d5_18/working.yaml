@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_1d5_18
+directory: parts/oobb_part_tray_vertical_04_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_1d5_18
+id: oobb_part_tray_vertical_04_1d5_18
+id_no_class: part_tray_vertical_04_1d5_18
+id_no_color: 041d518
+id_no_size: 04_1d5_18
+id_no_type: tray_vertical_04_1d5_18
+manufacturer: ''
+md5: e070181e7523eb4f28110023d302a233
+md5_10: e070181e75
+md5_10_upper: E070181E75
+md5_5: e0701
+md5_5_upper: E0701
+md5_6: e07018
+md5_6_alpha: 8r9co
+md5_6_alpha_upper: 8R9CO
+md5_6_upper: E07018
+name: Oobb Part Tray Vertical 04 1D5 18
+name_no_class: Part Tray Vertical 04 1D5 18
+name_no_color: 041D518
+name_no_size: 04 1D5 18
+name_no_type: Tray Vertical 04 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_04_1d5_18
+oomp_word: ship squirrel hand
+oomp_word_emoji: ':ship: :squirrel: :hand:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':squirrel:'
+- ':hand:'
+oomp_word_list:
+- ship
+- squirrel
+- hand
+part_number: ''
+size: tray_vertical
+type: part

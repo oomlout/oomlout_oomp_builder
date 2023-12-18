@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x3_6_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+id_no_color: 2x36pinsurfacemountrightangle
+id_no_size: 2x3_6_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+manufacturer: ''
+md5: e97e160b11dd3b54931d550b7935868c
+md5_10: e97e160b11
+md5_10_upper: E97E160B11
+md5_5: e97e1
+md5_5_upper: E97E1
+md5_6: e97e16
+md5_6_alpha: 93z86
+md5_6_alpha_upper: 93Z86
+md5_6_upper: E97E16
+name: Electronic Header 2 54 Mm Dual Row 2X3 6 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X3 6 Pin Surface Mount Right Angle
+name_no_color: 2X36Pinsurfacemountrightangle
+name_no_size: 2X3 6 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X3 6 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount_right_angle
+oomp_word: bike fax thumbsup
+oomp_word_emoji: ':bike: :fax: :thumbsup:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':fax:'
+- ':thumbsup:'
+oomp_word_list:
+- bike
+- fax
+- thumbsup
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

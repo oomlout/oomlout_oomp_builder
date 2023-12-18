@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_09
+directory: parts/oobb_part_tray_thin_03_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_01_09
+id: oobb_part_tray_thin_03_01_09
+id_no_class: part_tray_thin_03_01_09
+id_no_color: 030109
+id_no_size: 03_01_09
+id_no_type: tray_thin_03_01_09
+manufacturer: ''
+md5: 98cd5de6634630513cd5e667debf9e19
+md5_10: 98cd5de663
+md5_10_upper: 98CD5DE663
+md5_5: 98cd5
+md5_5_upper: 98CD5
+md5_6: 98cd5d
+md5_6_alpha: 5ymvx
+md5_6_alpha_upper: 5YMVX
+md5_6_upper: 98CD5D
+name: Oobb Part Tray Thin 03 01 09
+name_no_class: Part Tray Thin 03 01 09
+name_no_color: 030109
+name_no_size: 03 01 09
+name_no_type: Tray Thin 03 01 09
+oomp_key: oomp_oobb_part_tray_thin_03_01_09
+oomp_word: tennis strawberry blowfish
+oomp_word_emoji: ':tennis: :strawberry: :blowfish:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':strawberry:'
+- ':blowfish:'
+oomp_word_list:
+- tennis
+- strawberry
+- blowfish
+part_number: ''
+size: tray_thin
+type: part

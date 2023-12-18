@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_04'
+directory: parts/oobb_part_smd_magazine_lid_04_04
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_04_04
+id: oobb_part_smd_magazine_lid_04_04
+id_no_class: part_smd_magazine_lid_04_04
+id_no_color: '0404'
+id_no_size: '04_04'
+id_no_type: smd_magazine_lid_04_04
+manufacturer: ''
+md5: 3c3a3307edbd08829898abedc1abda2e
+md5_10: 3c3a3307ed
+md5_10_upper: 3C3A3307ED
+md5_5: 3c3a3
+md5_5_upper: 3C3A3
+md5_6: 3c3a33
+md5_6_alpha: 2clkj
+md5_6_alpha_upper: 2CLKJ
+md5_6_upper: 3C3A33
+name: Oobb Part Smd Magazine Lid 04 04
+name_no_class: Part Smd Magazine Lid 04 04
+name_no_color: '0404'
+name_no_size: 04 04
+name_no_type: Smd Magazine Lid 04 04
+oomp_key: oomp_oobb_part_smd_magazine_lid_04_04
+oomp_word: pig koala dog
+oomp_word_emoji: ':pig: :koala: :dog:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':koala:'
+- ':dog:'
+oomp_word_list:
+- pig
+- koala
+- dog
+part_number: ''
+size: smd_magazine_lid
+type: part

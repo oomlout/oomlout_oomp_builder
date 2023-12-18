@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33_ohm
+directory: parts/electronic_resistor_0603_33_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_33_ohm
+id: electronic_resistor_0603_33_ohm
+id_no_class: resistor_0603_33_ohm
+id_no_color: 33ohm
+id_no_size: 33_ohm
+id_no_type: 0603_33_ohm
+manufacturer: ''
+md5: 0a830d5e2694bbb990e62591e7d7df06
+md5_10: 0a830d5e26
+md5_10_upper: 0A830D5E26
+md5_5: 0a830
+md5_5_upper: 0A830
+md5_6: 0a830d
+md5_6_alpha: erkd
+md5_6_alpha_upper: ERKD
+md5_6_upper: 0A830D
+name: Electronic Resistor 0603 33 Ohm
+name_no_class: Resistor 0603 33 Ohm
+name_no_color: 33Ohm
+name_no_size: 33 Ohm
+name_no_type: 0603 33 Ohm
+oomp_key: oomp_electronic_resistor_0603_33_ohm
+oomp_word: sleepy lock heart
+oomp_word_emoji: ':sleepy: :lock: :heart:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':lock:'
+- ':heart:'
+oomp_word_list:
+- sleepy
+- lock
+- heart
+part_number: ''
+size: '0603'
+type: resistor

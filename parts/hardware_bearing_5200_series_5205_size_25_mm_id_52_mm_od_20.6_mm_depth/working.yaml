@@ -1,0 +1,40 @@
+classification: hardware
+color: 5205_size
+description_extra: ''
+description_main: 25_mm_id_52_mm_od_20.6_mm_depth
+directory: parts/hardware_bearing_5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+id: hardware_bearing_5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+id_no_class: bearing_5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+id_no_color: 25_mm_id_52_mm_od_20.6_mm_depth
+id_no_size: 5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+id_no_type: 5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+manufacturer: ''
+md5: 97704d3be90615f1c4e01fdf59a500ca
+md5_10: 97704d3be9
+md5_10_upper: 97704D3BE9
+md5_5: '97704'
+md5_5_upper: '97704'
+md5_6: 97704d
+md5_6_alpha: 5wpxp
+md5_6_alpha_upper: 5WPXP
+md5_6_upper: 97704D
+name: Hardware Bearing 5200 Series 5205 Size 25 Mm Id 52 Mm Od 20.6 Mm Depth
+name_no_class: Bearing 5200 Series 5205 Size 25 Mm Id 52 Mm Od 20.6 Mm Depth
+name_no_color: 25 Mm Id 52 Mm Od 20.6 Mm Depth
+name_no_size: 5205 Size 25 Mm Id 52 Mm Od 20.6 Mm Depth
+name_no_type: 5200 Series 5205 Size 25 Mm Id 52 Mm Od 20.6 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5205_size_25_mm_id_52_mm_od_20.6_mm_depth
+oomp_word: baseball squirrel bug
+oomp_word_emoji: ':baseball: :squirrel: :bug:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':squirrel:'
+- ':bug:'
+oomp_word_list:
+- baseball
+- squirrel
+- bug
+part_number: ''
+size: 5200_series
+type: bearing

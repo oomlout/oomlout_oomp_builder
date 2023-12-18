@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_l
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_l
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_l
+id: oobb_part_bunting_alphabet_13_01_ex_l
+id_no_class: part_bunting_alphabet_13_01_ex_l
+id_no_color: 1301exl
+id_no_size: 13_01_ex_l
+id_no_type: bunting_alphabet_13_01_ex_l
+manufacturer: ''
+md5: 357e3730c35388fad5a9f7131b5024d4
+md5_10: 357e3730c3
+md5_10_upper: 357E3730C3
+md5_5: 357e3
+md5_5_upper: 357E3
+md5_6: 357e37
+md5_6_alpha: '23513'
+md5_6_alpha_upper: '23513'
+md5_6_upper: 357E37
+name: Oobb Part Bunting Alphabet 13 01 Ex L
+name_no_class: Part Bunting Alphabet 13 01 Ex L
+name_no_color: 1301Exl
+name_no_size: 13 01 Ex L
+name_no_type: Bunting Alphabet 13 01 Ex L
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_l
+oomp_word: hamster fax wolf
+oomp_word_emoji: ':hamster: :fax: :wolf:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':fax:'
+- ':wolf:'
+oomp_word_list:
+- hamster
+- fax
+- wolf
+part_number: ''
+size: bunting_alphabet
+type: part

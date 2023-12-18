@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '34_01_03'
+directory: parts/oobb_part_plate_34_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_34_01_03
+id: oobb_part_plate_34_01_03
+id_no_class: part_plate_34_01_03
+id_no_color: '340103'
+id_no_size: '34_01_03'
+id_no_type: plate_34_01_03
+manufacturer: ''
+md5: ced94ad0b98965bff28f6f5c28163c79
+md5_10: ced94ad0b9
+md5_10_upper: CED94AD0B9
+md5_5: ced94
+md5_5_upper: CED94
+md5_6: ced94a
+md5_6_alpha: 82jwq
+md5_6_alpha_upper: 82JWQ
+md5_6_upper: CED94A
+name: Oobb Part Plate 34 01 03
+name_no_class: Part Plate 34 01 03
+name_no_color: '340103'
+name_no_size: 34 01 03
+name_no_type: Plate 34 01 03
+oomp_key: oomp_oobb_part_plate_34_01_03
+oomp_word: peach bank chicken
+oomp_word_emoji: ':peach: :bank: :chicken:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':bank:'
+- ':chicken:'
+oomp_word_list:
+- peach
+- bank
+- chicken
+part_number: ''
+size: plate
+type: part

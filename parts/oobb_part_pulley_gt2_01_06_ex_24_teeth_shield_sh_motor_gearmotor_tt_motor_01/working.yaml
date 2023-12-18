@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0106ex24teethshieldshmotorgearmotorttmotor01
+id_no_size: 01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: 40a7c9fcee23ceb7c8d1d8918a0f58aa
+md5_10: 40a7c9fcee
+md5_10_upper: 40A7C9FCEE
+md5_5: 40a7c
+md5_5_upper: 40A7C
+md5_6: 40a7c9
+md5_6_alpha: 2ithl
+md5_6_alpha_upper: 2ITHL
+md5_6_upper: 40A7C9
+name: Oobb Part Pulley Gt2 01 06 Ex 24 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 06 Ex 24 Teeth Shield Sh Motor Gearmotor Tt Motor
+  01
+name_no_color: 0106Ex24Teethshieldshmotorgearmotorttmotor01
+name_no_size: 01 06 Ex 24 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 06 Ex 24 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_24_teeth_shield_sh_motor_gearmotor_tt_motor_01
+oomp_word: racehorse guitar lemon
+oomp_word_emoji: ':racehorse: :guitar: :lemon:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':guitar:'
+- ':lemon:'
+oomp_word_list:
+- racehorse
+- guitar
+- lemon
+part_number: ''
+size: pulley_gt2
+type: part

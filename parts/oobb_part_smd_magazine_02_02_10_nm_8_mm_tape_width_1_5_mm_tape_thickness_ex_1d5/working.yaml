@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 020210nm8mmtapewidth15mmtapethicknessex1d5
+id_no_size: 02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 8cec4261dd50316947ce8c8ed028b9fb
+md5_10: 8cec4261dd
+md5_10_upper: 8CEC4261DD
+md5_5: 8cec4
+md5_5_upper: 8CEC4
+md5_6: 8cec42
+md5_6_alpha: 5hy6a
+md5_6_alpha_upper: 5HY6A
+md5_6_upper: 8CEC42
+name: Oobb Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 020210Nm8Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 02 02 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 02 02 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: pill taxi sheep
+oomp_word_emoji: ':pill: :taxi: :sheep:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':taxi:'
+- ':sheep:'
+oomp_word_list:
+- pill
+- taxi
+- sheep
+part_number: ''
+size: smd_magazine
+type: part

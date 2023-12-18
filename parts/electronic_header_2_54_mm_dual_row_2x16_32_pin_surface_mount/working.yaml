@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x16_32_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x16_32_pin_surface_mount
+id_no_color: 2x1632pinsurfacemount
+id_no_size: 2x16_32_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x16_32_pin_surface_mount
+manufacturer: ''
+md5: e6e620b6949f71e18a07d7a1dcfc8f5d
+md5_10: e6e620b694
+md5_10_upper: E6E620B694
+md5_5: e6e62
+md5_5_upper: E6E62
+md5_6: e6e620
+md5_6_alpha: 90c2o
+md5_6_alpha_upper: 90C2O
+md5_6_upper: E6E620
+name: Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X16 32 Pin Surface Mount
+name_no_color: 2X1632Pinsurfacemount
+name_no_size: 2X16 32 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X16 32 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount
+oomp_word: airplane airplane skull
+oomp_word_emoji: ':airplane: :airplane: :skull:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':airplane:'
+- ':skull:'
+oomp_word_list:
+- airplane
+- airplane
+- skull
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

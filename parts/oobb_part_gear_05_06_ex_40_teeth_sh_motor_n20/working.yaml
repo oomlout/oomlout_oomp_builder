@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_06_ex_40_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_05_06_ex_40_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth_sh_motor_n20
+id: oobb_part_gear_05_06_ex_40_teeth_sh_motor_n20
+id_no_class: part_gear_05_06_ex_40_teeth_sh_motor_n20
+id_no_color: 0506ex40teethshmotorn20
+id_no_size: 05_06_ex_40_teeth_sh_motor_n20
+id_no_type: gear_05_06_ex_40_teeth_sh_motor_n20
+manufacturer: ''
+md5: 30d7f8034c579d762cf17751b7745e2c
+md5_10: 30d7f8034c
+md5_10_upper: 30D7F8034C
+md5_5: 30d7f
+md5_5_upper: 30D7F
+md5_6: 30d7f8
+md5_6_alpha: 1wlx4
+md5_6_alpha_upper: 1WLX4
+md5_6_upper: 30D7F8
+name: Oobb Part Gear 05 06 Ex 40 Teeth Sh Motor N20
+name_no_class: Part Gear 05 06 Ex 40 Teeth Sh Motor N20
+name_no_color: 0506Ex40Teethshmotorn20
+name_no_size: 05 06 Ex 40 Teeth Sh Motor N20
+name_no_type: Gear 05 06 Ex 40 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_05_06_ex_40_teeth_sh_motor_n20
+oomp_word: foggy office seven
+oomp_word_emoji: ':foggy: :office: :seven:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':office:'
+- ':seven:'
+oomp_word_list:
+- foggy
+- office
+- seven
+part_number: ''
+size: gear
+type: part

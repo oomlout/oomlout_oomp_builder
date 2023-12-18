@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_12'
+directory: parts/oobb_part_tray_vertical_12_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_04_12
+id: oobb_part_tray_vertical_12_04_12
+id_no_class: part_tray_vertical_12_04_12
+id_no_color: '120412'
+id_no_size: '12_04_12'
+id_no_type: tray_vertical_12_04_12
+manufacturer: ''
+md5: fb86a9dd898639e415d4a2844986da26
+md5_10: fb86a9dd89
+md5_10_upper: FB86A9DD89
+md5_5: fb86a
+md5_5_upper: FB86A
+md5_6: fb86a9
+md5_6_alpha: 9tb55
+md5_6_alpha_upper: 9TB55
+md5_6_upper: FB86A9
+name: Oobb Part Tray Vertical 12 04 12
+name_no_class: Part Tray Vertical 12 04 12
+name_no_color: '120412'
+name_no_size: 12 04 12
+name_no_type: Tray Vertical 12 04 12
+oomp_key: oomp_oobb_part_tray_vertical_12_04_12
+oomp_word: ok bath sandal
+oomp_word_emoji: ':ok: :bath: :sandal:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':bath:'
+- ':sandal:'
+oomp_word_list:
+- ok
+- bath
+- sandal
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_ex_nut
+directory: parts/oobb_part_shaft_06_ex_nut
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06_ex_nut
+id: oobb_part_shaft_06_ex_nut
+id_no_class: part_shaft_06_ex_nut
+id_no_color: 06exnut
+id_no_size: 06_ex_nut
+id_no_type: shaft_06_ex_nut
+manufacturer: ''
+md5: 6db7d6befb9c69cc623b01e1300ab46a
+md5_10: 6db7d6befb
+md5_10_upper: 6DB7D6BEFB
+md5_5: 6db7d
+md5_5_upper: 6DB7D
+md5_6: 6db7d6
+md5_6_alpha: 4a47q
+md5_6_alpha_upper: 4A47Q
+md5_6_upper: 6DB7D6
+name: Oobb Part Shaft 06 Ex Nut
+name_no_class: Part Shaft 06 Ex Nut
+name_no_color: 06Exnut
+name_no_size: 06 Ex Nut
+name_no_type: Shaft 06 Ex Nut
+oomp_key: oomp_oobb_part_shaft_06_ex_nut
+oomp_word: shell pizza school
+oomp_word_emoji: ':shell: :pizza: :school:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':pizza:'
+- ':school:'
+oomp_word_list:
+- shell
+- pizza
+- school
+part_number: ''
+size: shaft
+type: part

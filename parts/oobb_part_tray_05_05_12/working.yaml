@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_12'
+directory: parts/oobb_part_tray_05_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_05_12
+id: oobb_part_tray_05_05_12
+id_no_class: part_tray_05_05_12
+id_no_color: '050512'
+id_no_size: '05_05_12'
+id_no_type: tray_05_05_12
+manufacturer: ''
+md5: 08fd7e12a5bf32bfd909865ddc6f253c
+md5_10: 08fd7e12a5
+md5_10_upper: 08FD7E12A5
+md5_5: 08fd7
+md5_5_upper: 08FD7
+md5_6: 08fd7e
+md5_6_alpha: cmm6
+md5_6_alpha_upper: CMM6
+md5_6_upper: 08FD7E
+name: Oobb Part Tray 05 05 12
+name_no_class: Part Tray 05 05 12
+name_no_color: '050512'
+name_no_size: 05 05 12
+name_no_type: Tray 05 05 12
+oomp_key: oomp_oobb_part_tray_05_05_12
+oomp_word: scream parking fax
+oomp_word_emoji: ':scream: :parking: :fax:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':parking:'
+- ':fax:'
+oomp_word_list:
+- scream
+- parking
+- fax
+part_number: ''
+size: tray
+type: part

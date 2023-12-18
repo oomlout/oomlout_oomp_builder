@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0603_68_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_68_ohm
+id: electronic_resistor_0603_68_ohm
+id_no_class: resistor_0603_68_ohm
+id_no_color: 68ohm
+id_no_size: 68_ohm
+id_no_type: 0603_68_ohm
+manufacturer: ''
+md5: e9d76e74a0491580aa3cf15c25b95642
+md5_10: e9d76e74a0
+md5_10_upper: E9D76E74A0
+md5_5: e9d76
+md5_5_upper: E9D76
+md5_6: e9d76e
+md5_6_alpha: 94gvi
+md5_6_alpha_upper: 94GVI
+md5_6_upper: E9D76E
+name: Electronic Resistor 0603 68 Ohm
+name_no_class: Resistor 0603 68 Ohm
+name_no_color: 68Ohm
+name_no_size: 68 Ohm
+name_no_type: 0603 68 Ohm
+oomp_key: oomp_electronic_resistor_0603_68_ohm
+oomp_word: bike office new_moon
+oomp_word_emoji: ':bike: :office: :new_moon:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':office:'
+- ':new_moon:'
+oomp_word_list:
+- bike
+- office
+- new_moon
+part_number: ''
+size: '0603'
+type: resistor

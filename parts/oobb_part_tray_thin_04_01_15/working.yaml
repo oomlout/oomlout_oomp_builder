@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_15'
+directory: parts/oobb_part_tray_thin_04_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_01_15
+id: oobb_part_tray_thin_04_01_15
+id_no_class: part_tray_thin_04_01_15
+id_no_color: '040115'
+id_no_size: '04_01_15'
+id_no_type: tray_thin_04_01_15
+manufacturer: ''
+md5: b3d87ea821ab5db31baffd545b1a8a09
+md5_10: b3d87ea821
+md5_10_upper: B3D87EA821
+md5_5: b3d87
+md5_5_upper: B3D87
+md5_6: b3d87e
+md5_6_alpha: 70mf2
+md5_6_alpha_upper: 70MF2
+md5_6_upper: B3D87E
+name: Oobb Part Tray Thin 04 01 15
+name_no_class: Part Tray Thin 04 01 15
+name_no_color: '040115'
+name_no_size: 04 01 15
+name_no_type: Tray Thin 04 01 15
+oomp_key: oomp_oobb_part_tray_thin_04_01_15
+oomp_word: eyeglasses hospital fax
+oomp_word_emoji: ':eyeglasses: :hospital: :fax:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':hospital:'
+- ':fax:'
+oomp_word_list:
+- eyeglasses
+- hospital
+- fax
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_09'
+directory: parts/oobb_part_plate_10_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_09
+id: oobb_part_plate_10_01_09
+id_no_class: part_plate_10_01_09
+id_no_color: '100109'
+id_no_size: '10_01_09'
+id_no_type: plate_10_01_09
+manufacturer: ''
+md5: 9f76e869dcc01b5306ea75c9acf11c19
+md5_10: 9f76e869dc
+md5_10_upper: 9F76E869DC
+md5_5: 9f76e
+md5_5_upper: 9F76E
+md5_6: 9f76e8
+md5_6_alpha: 67zs8
+md5_6_alpha_upper: 67ZS8
+md5_6_upper: 9F76E8
+name: Oobb Part Plate 10 01 09
+name_no_class: Part Plate 10 01 09
+name_no_color: '100109'
+name_no_size: 10 01 09
+name_no_type: Plate 10 01 09
+oomp_key: oomp_oobb_part_plate_10_01_09
+oomp_word: diamonds santa tram
+oomp_word_emoji: ':diamonds: :santa: :tram:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':santa:'
+- ':tram:'
+oomp_word_list:
+- diamonds
+- santa
+- tram
+part_number: ''
+size: plate
+type: part

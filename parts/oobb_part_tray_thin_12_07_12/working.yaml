@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_07_12'
+directory: parts/oobb_part_tray_thin_12_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_07_12
+id: oobb_part_tray_thin_12_07_12
+id_no_class: part_tray_thin_12_07_12
+id_no_color: '120712'
+id_no_size: '12_07_12'
+id_no_type: tray_thin_12_07_12
+manufacturer: ''
+md5: 3f0edec6dc57ba1f015b84b77e2db392
+md5_10: 3f0edec6dc
+md5_10_upper: 3F0EDEC6DC
+md5_5: 3f0ed
+md5_5_upper: 3F0ED
+md5_6: 3f0ede
+md5_6_alpha: 2gkpq
+md5_6_alpha_upper: 2GKPQ
+md5_6_upper: 3F0EDE
+name: Oobb Part Tray Thin 12 07 12
+name_no_class: Part Tray Thin 12 07 12
+name_no_color: '120712'
+name_no_size: 12 07 12
+name_no_type: Tray Thin 12 07 12
+oomp_key: oomp_oobb_part_tray_thin_12_07_12
+oomp_word: horse cupid rainbow
+oomp_word_emoji: ':horse: :cupid: :rainbow:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':cupid:'
+- ':rainbow:'
+oomp_word_list:
+- horse
+- cupid
+- rainbow
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_09_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_14_ex_ninety_degree
+id: oobb_part_plate_09_01_14_ex_ninety_degree
+id_no_class: part_plate_09_01_14_ex_ninety_degree
+id_no_color: 090114exninetydegree
+id_no_size: 09_01_14_ex_ninety_degree
+id_no_type: plate_09_01_14_ex_ninety_degree
+manufacturer: ''
+md5: fe2e7260f009dbaaeecb1461d82a22d7
+md5_10: fe2e7260f0
+md5_10_upper: FE2E7260F0
+md5_5: fe2e7
+md5_5_upper: FE2E7
+md5_6: fe2e72
+md5_6_alpha: 9x1f6
+md5_6_alpha_upper: 9X1F6
+md5_6_upper: FE2E72
+name: Oobb Part Plate 09 01 14 Ex Ninety Degree
+name_no_class: Part Plate 09 01 14 Ex Ninety Degree
+name_no_color: 090114Exninetydegree
+name_no_size: 09 01 14 Ex Ninety Degree
+name_no_type: Plate 09 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_09_01_14_ex_ninety_degree
+oomp_word: recycle zap dolls
+oomp_word_emoji: ':recycle: :zap: :dolls:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':zap:'
+- ':dolls:'
+oomp_word_list:
+- recycle
+- zap
+- dolls
+part_number: ''
+size: plate
+type: part

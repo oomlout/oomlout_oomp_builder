@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_12'
+directory: parts/oobb_part_tray_vertical_12_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_10_12
+id: oobb_part_tray_vertical_12_10_12
+id_no_class: part_tray_vertical_12_10_12
+id_no_color: '121012'
+id_no_size: '12_10_12'
+id_no_type: tray_vertical_12_10_12
+manufacturer: ''
+md5: 659869bb90cd6a5579d8881eac4247b5
+md5_10: 659869bb90
+md5_10_upper: 659869BB90
+md5_5: '65986'
+md5_5_upper: '65986'
+md5_6: '659869'
+md5_6_alpha: 3ypgp
+md5_6_alpha_upper: 3YPGP
+md5_6_upper: '659869'
+name: Oobb Part Tray Vertical 12 10 12
+name_no_class: Part Tray Vertical 12 10 12
+name_no_color: '121012'
+name_no_size: 12 10 12
+name_no_type: Tray Vertical 12 10 12
+oomp_key: oomp_oobb_part_tray_vertical_12_10_12
+oomp_word: maple_leaf tennis cactus
+oomp_word_emoji: ':maple_leaf: :tennis: :cactus:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':tennis:'
+- ':cactus:'
+oomp_word_list:
+- maple_leaf
+- tennis
+- cactus
+part_number: ''
+size: tray_vertical
+type: part

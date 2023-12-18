@@ -1,0 +1,40 @@
+classification: hardware
+color: 6310_size
+description_extra: ''
+description_main: 50_mm_id_110_mm_od_27_mm_depth
+directory: parts/hardware_bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+id: hardware_bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+id_no_class: bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+id_no_color: 50_mm_id_110_mm_od_27_mm_depth
+id_no_size: 6310_size_50_mm_id_110_mm_od_27_mm_depth
+id_no_type: 6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+manufacturer: ''
+md5: 889bc88af640f8e1f62b2359f4b3337a
+md5_10: 889bc88af6
+md5_10_upper: 889BC88AF6
+md5_5: 889bc
+md5_5_upper: 889BC
+md5_6: 889bc8
+md5_6_alpha: 5bw08
+md5_6_alpha_upper: 5BW08
+md5_6_upper: 889BC8
+name: Hardware Bearing 6300 Series 6310 Size 50 Mm Id 110 Mm Od 27 Mm Depth
+name_no_class: Bearing 6300 Series 6310 Size 50 Mm Id 110 Mm Od 27 Mm Depth
+name_no_color: 50 Mm Id 110 Mm Od 27 Mm Depth
+name_no_size: 6310 Size 50 Mm Id 110 Mm Od 27 Mm Depth
+name_no_type: 6300 Series 6310 Size 50 Mm Id 110 Mm Od 27 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
+oomp_word: wrench ski apple
+oomp_word_emoji: ':wrench: :ski: :apple:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':ski:'
+- ':apple:'
+oomp_word_list:
+- wrench
+- ski
+- apple
+part_number: ''
+size: 6300_series
+type: bearing

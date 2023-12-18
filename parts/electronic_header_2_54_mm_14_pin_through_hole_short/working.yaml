@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_through_hole_short
+id: electronic_header_2_54_mm_14_pin_through_hole_short
+id_no_class: header_2_54_mm_14_pin_through_hole_short
+id_no_color: 14pinthroughholeshort
+id_no_size: 14_pin_through_hole_short
+id_no_type: 2_54_mm_14_pin_through_hole_short
+manufacturer: ''
+md5: e254181b05c23528bcb3a65490b132d8
+md5_10: e254181b05
+md5_10_upper: E254181B05
+md5_5: e2541
+md5_5_upper: E2541
+md5_6: e25418
+md5_6_alpha: 8twyg
+md5_6_alpha_upper: 8TWYG
+md5_6_upper: E25418
+name: Electronic Header 2 54 Mm 14 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 14 Pin Through Hole Short
+name_no_color: 14Pinthroughholeshort
+name_no_size: 14 Pin Through Hole Short
+name_no_type: 2 54 Mm 14 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_through_hole_short
+oomp_word: sailboat whale hand
+oomp_word_emoji: ':sailboat: :whale: :hand:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':whale:'
+- ':hand:'
+oomp_word_list:
+- sailboat
+- whale
+- hand
+part_number: ''
+size: 2_54_mm
+type: header

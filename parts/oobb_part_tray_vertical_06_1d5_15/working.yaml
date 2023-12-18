@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_1d5_15
+directory: parts/oobb_part_tray_vertical_06_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_1d5_15
+id: oobb_part_tray_vertical_06_1d5_15
+id_no_class: part_tray_vertical_06_1d5_15
+id_no_color: 061d515
+id_no_size: 06_1d5_15
+id_no_type: tray_vertical_06_1d5_15
+manufacturer: ''
+md5: 5df75a3daeb22343a2ceb3a3cd95f141
+md5_10: 5df75a3dae
+md5_10_upper: 5DF75A3DAE
+md5_5: 5df75
+md5_5_upper: 5DF75
+md5_6: 5df75a
+md5_6_alpha: 3nzoa
+md5_6_alpha_upper: 3NZOA
+md5_6_upper: 5DF75A
+name: Oobb Part Tray Vertical 06 1D5 15
+name_no_class: Part Tray Vertical 06 1D5 15
+name_no_color: 061D515
+name_no_size: 06 1D5 15
+name_no_type: Tray Vertical 06 1D5 15
+oomp_key: oomp_oobb_part_tray_vertical_06_1d5_15
+oomp_word: blowfish six goat
+oomp_word_emoji: ':blowfish: :six: :goat:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':six:'
+- ':goat:'
+oomp_word_list:
+- blowfish
+- six
+- goat
+part_number: ''
+size: tray_vertical
+type: part

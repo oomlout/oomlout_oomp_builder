@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 15_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_15_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_15_ohm
+id: electronic_resistor_quarter_watt_through_hole_15_ohm
+id_no_class: resistor_quarter_watt_through_hole_15_ohm
+id_no_color: 15ohm
+id_no_size: 15_ohm
+id_no_type: quarter_watt_through_hole_15_ohm
+manufacturer: ''
+md5: 4cf920e6eedfed81a109ce509bc01b7c
+md5_10: 4cf920e6ee
+md5_10_upper: 4CF920E6EE
+md5_5: 4cf92
+md5_5_upper: 4CF92
+md5_6: 4cf920
+md5_6_alpha: 304dc
+md5_6_alpha_upper: 304DC
+md5_6_upper: 4CF920
+name: Electronic Resistor Quarter Watt Through Hole 15 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 15 Ohm
+name_no_color: 15Ohm
+name_no_size: 15 Ohm
+name_no_type: Quarter Watt Through Hole 15 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_15_ohm
+oomp_word: turtle eight skull
+oomp_word_emoji: ':turtle: :eight: :skull:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':eight:'
+- ':skull:'
+oomp_word_list:
+- turtle
+- eight
+- skull
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

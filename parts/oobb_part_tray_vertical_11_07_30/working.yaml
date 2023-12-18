@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_07_30'
+directory: parts/oobb_part_tray_vertical_11_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_07_30
+id: oobb_part_tray_vertical_11_07_30
+id_no_class: part_tray_vertical_11_07_30
+id_no_color: '110730'
+id_no_size: '11_07_30'
+id_no_type: tray_vertical_11_07_30
+manufacturer: ''
+md5: c6a3c128a1b52f6af66bff7bbe31e00d
+md5_10: c6a3c128a1
+md5_10_upper: C6A3C128A1
+md5_5: c6a3c
+md5_5_upper: C6A3C
+md5_6: c6a3c1
+md5_6_alpha: 7r0sh
+md5_6_alpha_upper: 7R0SH
+md5_6_upper: C6A3C1
+name: Oobb Part Tray Vertical 11 07 30
+name_no_class: Part Tray Vertical 11 07 30
+name_no_color: '110730'
+name_no_size: 11 07 30
+name_no_type: Tray Vertical 11 07 30
+oomp_key: oomp_oobb_part_tray_vertical_11_07_30
+oomp_word: lollipop pencil doughnut
+oomp_word_emoji: ':lollipop: :pencil: :doughnut:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':pencil:'
+- ':doughnut:'
+oomp_word_list:
+- lollipop
+- pencil
+- doughnut
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_s
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_s
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_s
+id: oobb_part_bunting_alphabet_07_01_ex_s
+id_no_class: part_bunting_alphabet_07_01_ex_s
+id_no_color: 0701exs
+id_no_size: 07_01_ex_s
+id_no_type: bunting_alphabet_07_01_ex_s
+manufacturer: ''
+md5: e4aa53f475d6604fa2e2566b81d1ae74
+md5_10: e4aa53f475
+md5_10_upper: E4AA53F475
+md5_5: e4aa5
+md5_5_upper: E4AA5
+md5_6: e4aa53
+md5_6_alpha: 8x74j
+md5_6_alpha_upper: 8X74J
+md5_6_upper: E4AA53
+name: Oobb Part Bunting Alphabet 07 01 Ex S
+name_no_class: Part Bunting Alphabet 07 01 Ex S
+name_no_color: 0701Exs
+name_no_size: 07 01 Ex S
+name_no_type: Bunting Alphabet 07 01 Ex S
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_s
+oomp_word: anchor lipstick fish
+oomp_word_emoji: ':anchor: :lipstick: :fish:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':lipstick:'
+- ':fish:'
+oomp_word_list:
+- anchor
+- lipstick
+- fish
+part_number: ''
+size: bunting_alphabet
+type: part

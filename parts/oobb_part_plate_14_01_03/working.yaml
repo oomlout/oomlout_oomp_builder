@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_01_03'
+directory: parts/oobb_part_plate_14_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_03
+id: oobb_part_plate_14_01_03
+id_no_class: part_plate_14_01_03
+id_no_color: '140103'
+id_no_size: '14_01_03'
+id_no_type: plate_14_01_03
+manufacturer: ''
+md5: 7f26cde994a8fc4410f7d15c6b779670
+md5_10: 7f26cde994
+md5_10_upper: 7F26CDE994
+md5_5: 7f26c
+md5_5_upper: 7F26C
+md5_6: 7f26cd
+md5_6_alpha: 4ylsd
+md5_6_alpha_upper: 4YLSD
+md5_6_upper: 7F26CD
+name: Oobb Part Plate 14 01 03
+name_no_class: Part Plate 14 01 03
+name_no_color: '140103'
+name_no_size: 14 01 03
+name_no_type: Plate 14 01 03
+oomp_key: oomp_oobb_part_plate_14_01_03
+oomp_word: speaker eyes strawberry
+oomp_word_emoji: ':speaker: :eyes: :strawberry:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':eyes:'
+- ':strawberry:'
+oomp_word_list:
+- speaker
+- eyes
+- strawberry
+part_number: ''
+size: plate
+type: part

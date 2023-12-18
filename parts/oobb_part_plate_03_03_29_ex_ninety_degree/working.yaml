@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_29_ex_ninety_degree
+directory: parts/oobb_part_plate_03_03_29_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_29_ex_ninety_degree
+id: oobb_part_plate_03_03_29_ex_ninety_degree
+id_no_class: part_plate_03_03_29_ex_ninety_degree
+id_no_color: 030329exninetydegree
+id_no_size: 03_03_29_ex_ninety_degree
+id_no_type: plate_03_03_29_ex_ninety_degree
+manufacturer: ''
+md5: 79596c917262649a33ccb32dd4ce225c
+md5_10: 79596c9172
+md5_10_upper: 79596C9172
+md5_5: '79596'
+md5_5_upper: '79596'
+md5_6: 79596c
+md5_6_alpha: 4qgdo
+md5_6_alpha_upper: 4QGDO
+md5_6_upper: 79596C
+name: Oobb Part Plate 03 03 29 Ex Ninety Degree
+name_no_class: Part Plate 03 03 29 Ex Ninety Degree
+name_no_color: 030329Exninetydegree
+name_no_size: 03 03 29 Ex Ninety Degree
+name_no_type: Plate 03 03 29 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_03_03_29_ex_ninety_degree
+oomp_word: balloon dragon blossom
+oomp_word_emoji: ':balloon: :dragon: :blossom:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':dragon:'
+- ':blossom:'
+oomp_word_list:
+- balloon
+- dragon
+- blossom
+part_number: ''
+size: plate
+type: part

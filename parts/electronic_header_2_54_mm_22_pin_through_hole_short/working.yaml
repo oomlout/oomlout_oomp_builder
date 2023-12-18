@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 22_pin
+directory: parts/electronic_header_2_54_mm_22_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole_short
+id: electronic_header_2_54_mm_22_pin_through_hole_short
+id_no_class: header_2_54_mm_22_pin_through_hole_short
+id_no_color: 22pinthroughholeshort
+id_no_size: 22_pin_through_hole_short
+id_no_type: 2_54_mm_22_pin_through_hole_short
+manufacturer: ''
+md5: d3cecccda788c99262ce91436a367957
+md5_10: d3cecccda7
+md5_10_upper: D3CECCCDA7
+md5_5: d3cec
+md5_5_upper: D3CEC
+md5_6: d3cecc
+md5_6_alpha: 89ioc
+md5_6_alpha_upper: 89IOC
+md5_6_upper: D3CECC
+name: Electronic Header 2 54 Mm 22 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 22 Pin Through Hole Short
+name_no_color: 22Pinthroughholeshort
+name_no_size: 22 Pin Through Hole Short
+name_no_type: 2 54 Mm 22 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_22_pin_through_hole_short
+oomp_word: tomato peach watermelon
+oomp_word_emoji: ':tomato: :peach: :watermelon:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':peach:'
+- ':watermelon:'
+oomp_word_list:
+- tomato
+- peach
+- watermelon
+part_number: ''
+size: 2_54_mm
+type: header

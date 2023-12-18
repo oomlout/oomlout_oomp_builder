@@ -1,0 +1,40 @@
+classification: hardware
+color: 6315_size
+description_extra: ''
+description_main: 75_mm_id_160_mm_od_37_mm_depth
+directory: parts/hardware_bearing_6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+id: hardware_bearing_6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+id_no_class: bearing_6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+id_no_color: 75_mm_id_160_mm_od_37_mm_depth
+id_no_size: 6315_size_75_mm_id_160_mm_od_37_mm_depth
+id_no_type: 6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+manufacturer: ''
+md5: 6205e844e7f1984f4f370db23412d9e9
+md5_10: 6205e844e7
+md5_10_upper: 6205E844E7
+md5_5: 6205e
+md5_5_upper: 6205E
+md5_6: 6205e8
+md5_6_alpha: 3totk
+md5_6_alpha_upper: 3TOTK
+md5_6_upper: 6205E8
+name: Hardware Bearing 6300 Series 6315 Size 75 Mm Id 160 Mm Od 37 Mm Depth
+name_no_class: Bearing 6300 Series 6315 Size 75 Mm Id 160 Mm Od 37 Mm Depth
+name_no_color: 75 Mm Id 160 Mm Od 37 Mm Depth
+name_no_size: 6315 Size 75 Mm Id 160 Mm Od 37 Mm Depth
+name_no_type: 6300 Series 6315 Size 75 Mm Id 160 Mm Od 37 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6315_size_75_mm_id_160_mm_od_37_mm_depth
+oomp_word: tulip kissing tram
+oomp_word_emoji: ':tulip: :kissing: :tram:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':kissing:'
+- ':tram:'
+oomp_word_list:
+- tulip
+- kissing
+- tram
+part_number: ''
+size: 6300_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_12_6705_sh_motor_tt_01
+directory: parts/oobb_part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+id: oobb_part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+id_no_class: part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+id_no_color: 0303126705shmotortt01
+id_no_size: 03_03_12_6705_sh_motor_tt_01
+id_no_type: bearing_plate_03_03_12_6705_sh_motor_tt_01
+manufacturer: ''
+md5: 2575fe592233682e0db2b9dffdfac6a9
+md5_10: 2575fe5922
+md5_10_upper: 2575FE5922
+md5_5: 2575f
+md5_5_upper: 2575F
+md5_6: 2575fe
+md5_6_alpha: 1gmbi
+md5_6_alpha_upper: 1GMBI
+md5_6_upper: 2575FE
+name: Oobb Part Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_class: Part Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+name_no_color: 0303126705Shmotortt01
+name_no_size: 03 03 12 6705 Sh Motor Tt 01
+name_no_type: Bearing Plate 03 03 12 6705 Sh Motor Tt 01
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6705_sh_motor_tt_01
+oomp_word: ear ghost recycle
+oomp_word_emoji: ':ear: :ghost: :recycle:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':ghost:'
+- ':recycle:'
+oomp_word_list:
+- ear
+- ghost
+- recycle
+part_number: ''
+size: bearing_plate
+type: part

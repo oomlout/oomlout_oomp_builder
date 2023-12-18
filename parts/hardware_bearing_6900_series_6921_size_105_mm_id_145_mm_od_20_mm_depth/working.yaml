@@ -1,0 +1,40 @@
+classification: hardware
+color: 6921_size
+description_extra: ''
+description_main: 105_mm_id_145_mm_od_20_mm_depth
+directory: parts/hardware_bearing_6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+id: hardware_bearing_6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+id_no_class: bearing_6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+id_no_color: 105_mm_id_145_mm_od_20_mm_depth
+id_no_size: 6921_size_105_mm_id_145_mm_od_20_mm_depth
+id_no_type: 6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+manufacturer: ''
+md5: c9120fdf8379cf7fa4241e7dff9c84ba
+md5_10: c9120fdf83
+md5_10_upper: C9120FDF83
+md5_5: c9120
+md5_5_upper: C9120
+md5_6: c9120f
+md5_6_alpha: 7ufpr
+md5_6_alpha_upper: 7UFPR
+md5_6_upper: C9120F
+name: Hardware Bearing 6900 Series 6921 Size 105 Mm Id 145 Mm Od 20 Mm Depth
+name_no_class: Bearing 6900 Series 6921 Size 105 Mm Id 145 Mm Od 20 Mm Depth
+name_no_color: 105 Mm Id 145 Mm Od 20 Mm Depth
+name_no_size: 6921 Size 105 Mm Id 145 Mm Od 20 Mm Depth
+name_no_type: 6900 Series 6921 Size 105 Mm Id 145 Mm Od 20 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6921_size_105_mm_id_145_mm_od_20_mm_depth
+oomp_word: lemon anger sparkles
+oomp_word_emoji: ':lemon: :anger: :sparkles:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':anger:'
+- ':sparkles:'
+oomp_word_list:
+- lemon
+- anger
+- sparkles
+part_number: ''
+size: 6900_series
+type: bearing

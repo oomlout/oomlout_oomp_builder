@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 27_pin
+directory: parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_27_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_27_pin_through_hole_right_angle
+id_no_color: 27pinthroughholerightangle
+id_no_size: 27_pin_through_hole_right_angle
+id_no_type: 2_54_mm_27_pin_through_hole_right_angle
+manufacturer: ''
+md5: 46a451f2b42e7ba1fc79aba0e6b45a71
+md5_10: 46a451f2b4
+md5_10_upper: 46A451F2B4
+md5_5: 46a45
+md5_5_upper: 46A45
+md5_6: 46a451
+md5_6_alpha: 2r87l
+md5_6_alpha_upper: 2R87L
+md5_6_upper: 46A451
+name: Electronic Header 2 54 Mm 27 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 27 Pin Through Hole Right Angle
+name_no_color: 27Pinthroughholerightangle
+name_no_size: 27 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 27 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_27_pin_through_hole_right_angle
+oomp_word: bird book snail
+oomp_word_emoji: ':bird: :book: :snail:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':book:'
+- ':snail:'
+oomp_word_list:
+- bird
+- book
+- snail
+part_number: ''
+size: 2_54_mm
+type: header

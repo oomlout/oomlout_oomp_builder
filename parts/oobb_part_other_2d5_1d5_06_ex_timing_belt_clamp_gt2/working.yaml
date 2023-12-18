@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_1d5_06_ex_timing_belt_clamp_gt2
+directory: parts/oobb_part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id: oobb_part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_class: part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_color: 2d51d506extimingbeltclampgt2
+id_no_size: 2d5_1d5_06_ex_timing_belt_clamp_gt2
+id_no_type: other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+manufacturer: ''
+md5: f1c7f83604aeaa98764ee0ee4a3a0ce5
+md5_10: f1c7f83604
+md5_10_upper: F1C7F83604
+md5_5: f1c7f
+md5_5_upper: F1C7F
+md5_6: f1c7f8
+md5_6_alpha: 9fmd4
+md5_6_alpha_upper: 9FMD4
+md5_6_upper: F1C7F8
+name: Oobb Part Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_class: Part Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_color: 2D51D506Extimingbeltclampgt2
+name_no_size: 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+name_no_type: Other 2D5 1D5 06 Ex Timing Belt Clamp Gt2
+oomp_key: oomp_oobb_part_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+oomp_word: ticket honey_pot seven
+oomp_word_emoji: ':ticket: :honey_pot: :seven:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':honey_pot:'
+- ':seven:'
+oomp_word_list:
+- ticket
+- honey_pot
+- seven
+part_number: ''
+size: other
+type: part

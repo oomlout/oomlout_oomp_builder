@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_12_30'
+directory: parts/oobb_part_tray_07_12_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_30
+id: oobb_part_tray_07_12_30
+id_no_class: part_tray_07_12_30
+id_no_color: '071230'
+id_no_size: '07_12_30'
+id_no_type: tray_07_12_30
+manufacturer: ''
+md5: 1315b77b07e9e774340827d170ad069a
+md5_10: 1315b77b07
+md5_10_upper: 1315B77B07
+md5_5: 1315b
+md5_5_upper: 1315B
+md5_6: 1315b7
+md5_6_alpha: qt2v
+md5_6_alpha_upper: QT2V
+md5_6_upper: 1315B7
+name: Oobb Part Tray 07 12 30
+name_no_class: Part Tray 07 12 30
+name_no_color: '071230'
+name_no_size: 07 12 30
+name_no_type: Tray 07 12 30
+oomp_key: oomp_oobb_part_tray_07_12_30
+oomp_word: question poop pizza
+oomp_word_emoji: ':question: :poop: :pizza:'
+oomp_word_emoji_list:
+- ':question:'
+- ':poop:'
+- ':pizza:'
+oomp_word_list:
+- question
+- poop
+- pizza
+part_number: ''
+size: tray
+type: part

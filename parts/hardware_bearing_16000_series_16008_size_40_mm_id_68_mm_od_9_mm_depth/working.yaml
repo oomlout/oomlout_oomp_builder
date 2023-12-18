@@ -1,0 +1,40 @@
+classification: hardware
+color: 16008_size
+description_extra: ''
+description_main: 40_mm_id_68_mm_od_9_mm_depth
+directory: parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+id: hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+id_no_class: bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+id_no_color: 40_mm_id_68_mm_od_9_mm_depth
+id_no_size: 16008_size_40_mm_id_68_mm_od_9_mm_depth
+id_no_type: 16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+manufacturer: ''
+md5: cf1ed09dbaba8a0412bf76d4e6811f7c
+md5_10: cf1ed09dba
+md5_10_upper: CF1ED09DBA
+md5_5: cf1ed
+md5_5_upper: CF1ED
+md5_6: cf1ed0
+md5_6_alpha: 82xn4
+md5_6_alpha_upper: 82XN4
+md5_6_upper: CF1ED0
+name: Hardware Bearing 16000 Series 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth
+name_no_class: Bearing 16000 Series 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth
+name_no_color: 40 Mm Id 68 Mm Od 9 Mm Depth
+name_no_size: 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth
+name_no_type: 16000 Series 16008 Size 40 Mm Id 68 Mm Od 9 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
+oomp_word: melon angel banana
+oomp_word_emoji: ':melon: :angel: :banana:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':angel:'
+- ':banana:'
+oomp_word_list:
+- melon
+- angel
+- banana
+part_number: ''
+size: 16000_series
+type: bearing

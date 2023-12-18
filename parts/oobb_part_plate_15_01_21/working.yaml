@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_01_21'
+directory: parts/oobb_part_plate_15_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_21
+id: oobb_part_plate_15_01_21
+id_no_class: part_plate_15_01_21
+id_no_color: '150121'
+id_no_size: '15_01_21'
+id_no_type: plate_15_01_21
+manufacturer: ''
+md5: a71902a6deb398614cd81b7ca8ee5bda
+md5_10: a71902a6de
+md5_10_upper: A71902A6DE
+md5_5: a7190
+md5_5_upper: A7190
+md5_6: a71902
+md5_6_alpha: 6ips2
+md5_6_alpha_upper: 6IPS2
+md5_6_upper: A71902
+name: Oobb Part Plate 15 01 21
+name_no_class: Part Plate 15 01 21
+name_no_color: '150121'
+name_no_size: 15 01 21
+name_no_type: Plate 15 01 21
+oomp_key: oomp_oobb_part_plate_15_01_21
+oomp_word: guitar pray blush
+oomp_word_emoji: ':guitar: :pray: :blush:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':pray:'
+- ':blush:'
+oomp_word_list:
+- guitar
+- pray
+- blush
+part_number: ''
+size: plate
+type: part

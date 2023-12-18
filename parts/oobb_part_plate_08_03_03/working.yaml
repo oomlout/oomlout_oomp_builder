@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_03_03
+directory: parts/oobb_part_plate_08_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_03_03
+id: oobb_part_plate_08_03_03
+id_no_class: part_plate_08_03_03
+id_no_color: 080303
+id_no_size: 08_03_03
+id_no_type: plate_08_03_03
+manufacturer: ''
+md5: 1c72a74e376a31d81cbd78d28d3ca4f6
+md5_10: 1c72a74e37
+md5_10_upper: 1C72A74E37
+md5_5: 1c72a
+md5_5_upper: 1C72A
+md5_6: 1c72a7
+md5_6_alpha: 13yjr
+md5_6_alpha_upper: 13YJR
+md5_6_upper: 1C72A7
+name: Oobb Part Plate 08 03 03
+name_no_class: Part Plate 08 03 03
+name_no_color: 080303
+name_no_size: 08 03 03
+name_no_type: Plate 08 03 03
+oomp_key: oomp_oobb_part_plate_08_03_03
+oomp_word: dancer dolls guitar
+oomp_word_emoji: ':dancer: :dolls: :guitar:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':dolls:'
+- ':guitar:'
+oomp_word_list:
+- dancer
+- dolls
+- guitar
+part_number: ''
+size: plate
+type: part

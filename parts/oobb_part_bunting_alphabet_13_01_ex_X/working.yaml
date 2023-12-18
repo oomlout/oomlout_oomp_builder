@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_x
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_x
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_x
+id: oobb_part_bunting_alphabet_13_01_ex_x
+id_no_class: part_bunting_alphabet_13_01_ex_x
+id_no_color: 1301exx
+id_no_size: 13_01_ex_x
+id_no_type: bunting_alphabet_13_01_ex_x
+manufacturer: ''
+md5: b53ceb5b9d10bbeb0c00589f84549ca9
+md5_10: b53ceb5b9d
+md5_10_upper: B53CEB5B9D
+md5_5: b53ce
+md5_5_upper: B53CE
+md5_6: b53ceb
+md5_6_alpha: 72ktn
+md5_6_alpha_upper: 72KTN
+md5_6_upper: B53CEB
+name: Oobb Part Bunting Alphabet 13 01 Ex X
+name_no_class: Part Bunting Alphabet 13 01 Ex X
+name_no_color: 1301Exx
+name_no_size: 13 01 Ex X
+name_no_type: Bunting Alphabet 13 01 Ex X
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_x
+oomp_word: tea pig car
+oomp_word_emoji: ':tea: :pig: :car:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':pig:'
+- ':car:'
+oomp_word_list:
+- tea
+- pig
+- car
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7500_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_7500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm
+id: electronic_resistor_quarter_watt_through_hole_7500_ohm
+id_no_class: resistor_quarter_watt_through_hole_7500_ohm
+id_no_color: 7500ohm
+id_no_size: 7500_ohm
+id_no_type: quarter_watt_through_hole_7500_ohm
+manufacturer: ''
+md5: 00dff531ebc8791ca870d491993b4049
+md5_10: 00dff531eb
+md5_10_upper: 00DFF531EB
+md5_5: 00dff
+md5_5_upper: 00DFF
+md5_6: 00dff5
+md5_6_alpha: 188l
+md5_6_alpha_upper: 188L
+md5_6_upper: 00DFF5
+name: Electronic Resistor Quarter Watt Through Hole 7500 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 7500 Ohm
+name_no_color: 7500Ohm
+name_no_size: 7500 Ohm
+name_no_type: Quarter Watt Through Hole 7500 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_7500_ohm
+oomp_word: bowtie fountain four
+oomp_word_emoji: ':bowtie: :fountain: :four:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':fountain:'
+- ':four:'
+oomp_word_list:
+- bowtie
+- fountain
+- four
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

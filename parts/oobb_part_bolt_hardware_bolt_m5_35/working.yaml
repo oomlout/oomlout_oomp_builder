@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m5_35
+directory: parts/oobb_part_bolt_hardware_bolt_m5_35
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_35
+id: oobb_part_bolt_hardware_bolt_m5_35
+id_no_class: part_bolt_hardware_bolt_m5_35
+id_no_color: hardwarem535
+id_no_size: hardware_m5_35
+id_no_type: bolt_hardware_bolt_m5_35
+manufacturer: ''
+md5: b1070ea6be8a35e81f2221d1f488b5fd
+md5_10: b1070ea6be
+md5_10_upper: B1070EA6BE
+md5_5: b1070
+md5_5_upper: B1070
+md5_6: b1070e
+md5_6_alpha: 6wnwu
+md5_6_alpha_upper: 6WNWU
+md5_6_upper: B1070E
+name: Oobb Part Bolt Hardware Bolt M5 35
+name_no_class: Part Bolt Hardware Bolt M5 35
+name_no_color: Hardwarem535
+name_no_size: Hardware M5 35
+name_no_type: Bolt Hardware Bolt M5 35
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_35
+oomp_word: briefcase cry cupid
+oomp_word_emoji: ':briefcase: :cry: :cupid:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':cry:'
+- ':cupid:'
+oomp_word_list:
+- briefcase
+- cry
+- cupid
+part_number: ''
+size: bolt
+type: part

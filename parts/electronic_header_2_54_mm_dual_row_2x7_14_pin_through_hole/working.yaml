@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x7_14_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x7_14_pin_through_hole
+id_no_color: 2x714pinthroughhole
+id_no_size: 2x7_14_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x7_14_pin_through_hole
+manufacturer: ''
+md5: dc93b63877f9b4e18addb08b27d87101
+md5_10: dc93b63877
+md5_10_upper: DC93B63877
+md5_5: dc93b
+md5_5_upper: DC93B
+md5_6: dc93b6
+md5_6_alpha: 8lu46
+md5_6_alpha_upper: 8LU46
+md5_6_upper: DC93B6
+name: Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole
+name_no_color: 2X714Pinthroughhole
+name_no_size: 2X7 14 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X7 14 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole
+oomp_word: factory books beer
+oomp_word_emoji: ':factory: :books: :beer:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':books:'
+- ':beer:'
+oomp_word_list:
+- factory
+- books
+- beer
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

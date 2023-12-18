@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_20
+directory: parts/oobb_part_bolt_hardware_bolt_m6_20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_20
+id: oobb_part_bolt_hardware_bolt_m6_20
+id_no_class: part_bolt_hardware_bolt_m6_20
+id_no_color: hardwarem620
+id_no_size: hardware_m6_20
+id_no_type: bolt_hardware_bolt_m6_20
+manufacturer: ''
+md5: 68023accf69a5e64e2eb1b4e3bd8df04
+md5_10: 68023accf6
+md5_10_upper: 68023ACCF6
+md5_5: '68023'
+md5_5_upper: '68023'
+md5_6: 68023a
+md5_6_alpha: 423i2
+md5_6_alpha_upper: 423I2
+md5_6_upper: 68023A
+name: Oobb Part Bolt Hardware Bolt M6 20
+name_no_class: Part Bolt Hardware Bolt M6 20
+name_no_color: Hardwarem620
+name_no_size: Hardware M6 20
+name_no_type: Bolt Hardware Bolt M6 20
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_20
+oomp_word: mushroom blush koala
+oomp_word_emoji: ':mushroom: :blush: :koala:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':blush:'
+- ':koala:'
+oomp_word_list:
+- mushroom
+- blush
+- koala
+part_number: ''
+size: bolt
+type: part

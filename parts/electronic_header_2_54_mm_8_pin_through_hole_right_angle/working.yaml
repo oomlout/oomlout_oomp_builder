@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 8_pin
+directory: parts/electronic_header_2_54_mm_8_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_8_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_8_pin_through_hole_right_angle
+id_no_color: 8pinthroughholerightangle
+id_no_size: 8_pin_through_hole_right_angle
+id_no_type: 2_54_mm_8_pin_through_hole_right_angle
+manufacturer: ''
+md5: cedc4622d18a7dd0c4c5d4b0f0bd1074
+md5_10: cedc4622d1
+md5_10_upper: CEDC4622D1
+md5_5: cedc4
+md5_5_upper: CEDC4
+md5_6: cedc46
+md5_6_alpha: 82khy
+md5_6_alpha_upper: 82KHY
+md5_6_upper: CEDC46
+name: Electronic Header 2 54 Mm 8 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 8 Pin Through Hole Right Angle
+name_no_color: 8Pinthroughholerightangle
+name_no_size: 8 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 8 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_8_pin_through_hole_right_angle
+oomp_word: peach factory bird
+oomp_word_emoji: ':peach: :factory: :bird:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':factory:'
+- ':bird:'
+oomp_word_list:
+- peach
+- factory
+- bird
+part_number: ''
+size: 2_54_mm
+type: header

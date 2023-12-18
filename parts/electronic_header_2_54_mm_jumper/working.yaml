@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: jumper
+directory: parts/electronic_header_2_54_mm_jumper
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper
+id: electronic_header_2_54_mm_jumper
+id_no_class: header_2_54_mm_jumper
+id_no_color: jumper
+id_no_size: jumper
+id_no_type: 2_54_mm_jumper
+manufacturer: ''
+md5: 92227bc2f8b61bf65d6b0a3dfb2c607c
+md5_10: 92227bc2f8
+md5_10_upper: 92227BC2F8
+md5_5: '92227'
+md5_5_upper: '92227'
+md5_6: 92227b
+md5_6_alpha: 5p9q3
+md5_6_alpha_upper: 5P9Q3
+md5_6_upper: 92227B
+name: Electronic Header 2 54 Mm Jumper
+name_no_class: Header 2 54 Mm Jumper
+name_no_color: Jumper
+name_no_size: Jumper
+name_no_type: 2 54 Mm Jumper
+oomp_key: oomp_electronic_header_2_54_mm_jumper
+oomp_word: paperclip lips computer
+oomp_word_emoji: ':paperclip: :lips: :computer:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':lips:'
+- ':computer:'
+oomp_word_list:
+- paperclip
+- lips
+- computer
+part_number: ''
+size: 2_54_mm
+type: header

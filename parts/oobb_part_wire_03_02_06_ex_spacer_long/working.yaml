@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_06_ex_spacer_long
+directory: parts/oobb_part_wire_03_02_06_ex_spacer_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06_ex_spacer_long
+id: oobb_part_wire_03_02_06_ex_spacer_long
+id_no_class: part_wire_03_02_06_ex_spacer_long
+id_no_color: 030206exspacerlong
+id_no_size: 03_02_06_ex_spacer_long
+id_no_type: wire_03_02_06_ex_spacer_long
+manufacturer: ''
+md5: a2f10519b4f0f28c94f3cc718c191a41
+md5_10: a2f10519b4
+md5_10_upper: A2F10519B4
+md5_5: a2f10
+md5_5_upper: A2F10
+md5_6: a2f105
+md5_6_alpha: 6cvlx
+md5_6_alpha_upper: 6CVLX
+md5_6_upper: A2F105
+name: Oobb Part Wire 03 02 06 Ex Spacer Long
+name_no_class: Part Wire 03 02 06 Ex Spacer Long
+name_no_color: 030206Exspacerlong
+name_no_size: 03 02 06 Ex Spacer Long
+name_no_type: Wire 03 02 06 Ex Spacer Long
+oomp_key: oomp_oobb_part_wire_03_02_06_ex_spacer_long
+oomp_word: violin ticket kissing
+oomp_word_emoji: ':violin: :ticket: :kissing:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':ticket:'
+- ':kissing:'
+oomp_word_list:
+- violin
+- ticket
+- kissing
+part_number: ''
+size: wire
+type: part

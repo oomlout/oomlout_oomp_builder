@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 070710nm8mmtapewidth4mmtapethicknessex4
+id_no_size: 07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: 2f208a722c00c3a84a5253cd83b6a03e
+md5_10: 2f208a722c
+md5_10_upper: 2F208A722C
+md5_5: 2f208
+md5_5_upper: 2F208
+md5_6: 2f208a
+md5_6_alpha: 1u74a
+md5_6_alpha_upper: 1U74A
+md5_6_upper: 2F208A
+name: Oobb Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex
+  4
+name_no_color: 070710Nm8Mmtapewidth4Mmtapethicknessex4
+name_no_size: 07 07 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 07 07 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: cyclone skull envelope
+oomp_word_emoji: ':cyclone: :skull: :envelope:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':skull:'
+- ':envelope:'
+oomp_word_list:
+- cyclone
+- skull
+- envelope
+part_number: ''
+size: smd_magazine
+type: part

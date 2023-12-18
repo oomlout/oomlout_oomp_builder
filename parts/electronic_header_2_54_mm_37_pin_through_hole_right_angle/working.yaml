@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 37_pin
+directory: parts/electronic_header_2_54_mm_37_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_37_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_37_pin_through_hole_right_angle
+id_no_color: 37pinthroughholerightangle
+id_no_size: 37_pin_through_hole_right_angle
+id_no_type: 2_54_mm_37_pin_through_hole_right_angle
+manufacturer: ''
+md5: ea692d189d1e373535b8b85f024654b7
+md5_10: ea692d189d
+md5_10_upper: EA692D189D
+md5_5: ea692
+md5_5_upper: EA692
+md5_6: ea692d
+md5_6_alpha: 959nx
+md5_6_alpha_upper: 959NX
+md5_6_upper: EA692D
+name: Electronic Header 2 54 Mm 37 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 37 Pin Through Hole Right Angle
+name_no_color: 37Pinthroughholerightangle
+name_no_size: 37 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 37 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_37_pin_through_hole_right_angle
+oomp_word: tractor cactus snowman
+oomp_word_emoji: ':tractor: :cactus: :snowman:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':cactus:'
+- ':snowman:'
+oomp_word_list:
+- tractor
+- cactus
+- snowman
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_09
+directory: parts/oobb_part_smd_magazine_joiner_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_04_09
+id: oobb_part_smd_magazine_joiner_04_09
+id_no_class: part_smd_magazine_joiner_04_09
+id_no_color: 0409
+id_no_size: 04_09
+id_no_type: smd_magazine_joiner_04_09
+manufacturer: ''
+md5: ce3aa8381b9212e11904624cb92bac1b
+md5_10: ce3aa8381b
+md5_10_upper: CE3AA8381B
+md5_5: ce3aa
+md5_5_upper: CE3AA
+md5_6: ce3aa8
+md5_6_alpha: 81oko
+md5_6_alpha_upper: 81OKO
+md5_6_upper: CE3AA8
+name: Oobb Part Smd Magazine Joiner 04 09
+name_no_class: Part Smd Magazine Joiner 04 09
+name_no_color: 0409
+name_no_size: 04 09
+name_no_type: Smd Magazine Joiner 04 09
+oomp_key: oomp_oobb_part_smd_magazine_joiner_04_09
+oomp_word: peach koala shoe
+oomp_word_emoji: ':peach: :koala: :shoe:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':koala:'
+- ':shoe:'
+oomp_word_list:
+- peach
+- koala
+- shoe
+part_number: ''
+size: smd_magazine_joiner
+type: part

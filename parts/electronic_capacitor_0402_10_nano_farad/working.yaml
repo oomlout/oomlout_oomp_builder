@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_nano_farad
+directory: parts/electronic_capacitor_0402_10_nano_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad
+id: electronic_capacitor_0402_10_nano_farad
+id_no_class: capacitor_0402_10_nano_farad
+id_no_color: 10nanofarad
+id_no_size: 10_nano_farad
+id_no_type: 0402_10_nano_farad
+manufacturer: ''
+md5: 6ab82773a09b6f3ae48a4a64e5fcce7c
+md5_10: 6ab82773a0
+md5_10_upper: 6AB82773A0
+md5_5: 6ab82
+md5_5_upper: 6AB82
+md5_6: 6ab827
+md5_6_alpha: 45wkn
+md5_6_alpha_upper: 45WKN
+md5_6_upper: 6AB827
+name: Electronic Capacitor 0402 10 Nano Farad
+name_no_class: Capacitor 0402 10 Nano Farad
+name_no_color: 10Nanofarad
+name_no_size: 10 Nano Farad
+name_no_type: 0402 10 Nano Farad
+oomp_key: oomp_electronic_capacitor_0402_10_nano_farad
+oomp_word: palm_tree hamburger nose
+oomp_word_emoji: ':palm_tree: :hamburger: :nose:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':hamburger:'
+- ':nose:'
+oomp_word_list:
+- palm_tree
+- hamburger
+- nose
+part_number: ''
+size: '0402'
+type: capacitor

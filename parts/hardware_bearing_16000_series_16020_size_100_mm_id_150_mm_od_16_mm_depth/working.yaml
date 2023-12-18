@@ -1,0 +1,40 @@
+classification: hardware
+color: 16020_size
+description_extra: ''
+description_main: 100_mm_id_150_mm_od_16_mm_depth
+directory: parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+id: hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+id_no_class: bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+id_no_color: 100_mm_id_150_mm_od_16_mm_depth
+id_no_size: 16020_size_100_mm_id_150_mm_od_16_mm_depth
+id_no_type: 16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+manufacturer: ''
+md5: ee54e51ffa7334ac5878188a046ee079
+md5_10: ee54e51ffa
+md5_10_upper: EE54E51FFA
+md5_5: ee54e
+md5_5_upper: EE54E
+md5_6: ee54e5
+md5_6_alpha: 9arxh
+md5_6_alpha_upper: 9ARXH
+md5_6_upper: EE54E5
+name: Hardware Bearing 16000 Series 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth
+name_no_class: Bearing 16000 Series 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth
+name_no_color: 100 Mm Id 150 Mm Od 16 Mm Depth
+name_no_size: 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth
+name_no_type: 16000 Series 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+oomp_word: ambulance whale rocket
+oomp_word_emoji: ':ambulance: :whale: :rocket:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':whale:'
+- ':rocket:'
+oomp_word_list:
+- ambulance
+- whale
+- rocket
+part_number: ''
+size: 16000_series
+type: bearing

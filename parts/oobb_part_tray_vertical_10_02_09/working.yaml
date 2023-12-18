@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_02_09'
+directory: parts/oobb_part_tray_vertical_10_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_02_09
+id: oobb_part_tray_vertical_10_02_09
+id_no_class: part_tray_vertical_10_02_09
+id_no_color: '100209'
+id_no_size: '10_02_09'
+id_no_type: tray_vertical_10_02_09
+manufacturer: ''
+md5: 1b022eae9f0d641ac11666a8b41d133f
+md5_10: 1b022eae9f
+md5_10_upper: 1B022EAE9F
+md5_5: 1b022
+md5_5_upper: 1B022
+md5_6: 1b022e
+md5_6_alpha: 11xri
+md5_6_alpha_upper: 11XRI
+md5_6_upper: 1B022E
+name: Oobb Part Tray Vertical 10 02 09
+name_no_class: Part Tray Vertical 10 02 09
+name_no_color: '100209'
+name_no_size: 10 02 09
+name_no_type: Tray Vertical 10 02 09
+oomp_key: oomp_oobb_part_tray_vertical_10_02_09
+oomp_word: muscle blush zap
+oomp_word_emoji: ':muscle: :blush: :zap:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':blush:'
+- ':zap:'
+oomp_word_list:
+- muscle
+- blush
+- zap
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 38_pin
+directory: parts/electronic_header_2_54_mm_38_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_38_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_38_pin_surface_mount_right_angle
+id_no_color: 38pinsurfacemountrightangle
+id_no_size: 38_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_38_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 5f3868ccf12c1b027dacc96752834138
+md5_10: 5f3868ccf1
+md5_10_upper: 5F3868CCF1
+md5_5: 5f386
+md5_5_upper: 5F386
+md5_6: 5f3868
+md5_6_alpha: 3pr3c
+md5_6_alpha_upper: 3PR3C
+md5_6_upper: 5F3868
+name: Electronic Header 2 54 Mm 38 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 38 Pin Surface Mount Right Angle
+name_no_color: 38Pinsurfacemountrightangle
+name_no_size: 38 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 38 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_38_pin_surface_mount_right_angle
+oomp_word: leopard frog mushroom
+oomp_word_emoji: ':leopard: :frog: :mushroom:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':frog:'
+- ':mushroom:'
+oomp_word_list:
+- leopard
+- frog
+- mushroom
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_02_15'
+directory: parts/oobb_part_tray_thin_04_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_02_15
+id: oobb_part_tray_thin_04_02_15
+id_no_class: part_tray_thin_04_02_15
+id_no_color: '040215'
+id_no_size: '04_02_15'
+id_no_type: tray_thin_04_02_15
+manufacturer: ''
+md5: 3abff839afda4a038310b206084f869a
+md5_10: 3abff839af
+md5_10_upper: 3ABFF839AF
+md5_5: 3abff
+md5_5_upper: 3ABFF
+md5_6: 3abff8
+md5_6_alpha: 2aiuw
+md5_6_alpha_upper: 2AIUW
+md5_6_upper: 3ABFF8
+name: Oobb Part Tray Thin 04 02 15
+name_no_class: Part Tray Thin 04 02 15
+name_no_color: '040215'
+name_no_size: 04 02 15
+name_no_type: Tray Thin 04 02 15
+oomp_key: oomp_oobb_part_tray_thin_04_02_15
+oomp_word: koala egg seven
+oomp_word_emoji: ':koala: :egg: :seven:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':egg:'
+- ':seven:'
+oomp_word_list:
+- koala
+- egg
+- seven
+part_number: ''
+size: tray_thin
+type: part

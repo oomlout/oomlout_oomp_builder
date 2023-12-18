@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_12'
+directory: parts/oobb_part_tray_vertical_12_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_01_12
+id: oobb_part_tray_vertical_12_01_12
+id_no_class: part_tray_vertical_12_01_12
+id_no_color: '120112'
+id_no_size: '12_01_12'
+id_no_type: tray_vertical_12_01_12
+manufacturer: ''
+md5: b2a0229300829a59df20ea1581e66ee1
+md5_10: b2a0229300
+md5_10_upper: B2A0229300
+md5_5: b2a02
+md5_5_upper: B2A02
+md5_6: b2a022
+md5_6_alpha: 6ywpu
+md5_6_alpha_upper: 6YWPU
+md5_6_upper: B2A022
+name: Oobb Part Tray Vertical 12 01 12
+name_no_class: Part Tray Vertical 12 01 12
+name_no_color: '120112'
+name_no_size: 12 01 12
+name_no_type: Tray Vertical 12 01 12
+oomp_key: oomp_oobb_part_tray_vertical_12_01_12
+oomp_word: handbag ring lips
+oomp_word_emoji: ':handbag: :ring: :lips:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':ring:'
+- ':lips:'
+oomp_word_list:
+- handbag
+- ring
+- lips
+part_number: ''
+size: tray_vertical
+type: part

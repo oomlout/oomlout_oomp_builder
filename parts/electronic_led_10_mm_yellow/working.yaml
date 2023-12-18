@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_yellow
+id: electronic_led_10_mm_yellow
+id_no_class: led_10_mm_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 10_mm_yellow
+manufacturer: ''
+md5: c57d40b259d49c26851da1f60ac9dc14
+md5_10: c57d40b259
+md5_10_upper: C57D40B259
+md5_5: c57d4
+md5_5_upper: C57D4
+md5_6: c57d40
+md5_6_alpha: 7pem8
+md5_6_alpha_upper: 7PEM8
+md5_6_upper: C57D40
+name: Electronic Led 10 Mm Yellow
+name_no_class: Led 10 Mm Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 10 Mm Yellow
+oomp_key: oomp_electronic_led_10_mm_yellow
+oomp_word: candy phone racehorse
+oomp_word_emoji: ':candy: :phone: :racehorse:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':phone:'
+- ':racehorse:'
+oomp_word_list:
+- candy
+- phone
+- racehorse
+part_number: ''
+size: 10_mm
+type: led

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_12
+directory: parts/oobb_part_tray_vertical_09_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_04_12
+id: oobb_part_tray_vertical_09_04_12
+id_no_class: part_tray_vertical_09_04_12
+id_no_color: 090412
+id_no_size: 09_04_12
+id_no_type: tray_vertical_09_04_12
+manufacturer: ''
+md5: b445417a3a7a1f0fcfd73b2dea47557d
+md5_10: b445417a3a
+md5_10_upper: B445417A3A
+md5_5: b4454
+md5_5_upper: B4454
+md5_6: b44541
+md5_6_alpha: 717wh
+md5_6_alpha_upper: 717WH
+md5_6_upper: B44541
+name: Oobb Part Tray Vertical 09 04 12
+name_no_class: Part Tray Vertical 09 04 12
+name_no_color: 090412
+name_no_size: 09 04 12
+name_no_type: Tray Vertical 09 04 12
+oomp_key: oomp_oobb_part_tray_vertical_09_04_12
+oomp_word: coffee snake camel
+oomp_word_emoji: ':coffee: :snake: :camel:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':snake:'
+- ':camel:'
+oomp_word_list:
+- coffee
+- snake
+- camel
+part_number: ''
+size: tray_vertical
+type: part

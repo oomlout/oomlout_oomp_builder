@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0306ex24teethshelectronicpotentiometer17mm
+id_no_size: 03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 544a015e8a63c76e777b9bd6a81a9b77
+md5_10: 544a015e8a
+md5_10_upper: 544A015E8A
+md5_5: 544a0
+md5_5_upper: 544A0
+md5_6: 544a01
+md5_6_alpha: 3aebl
+md5_6_alpha_upper: 3AEBL
+md5_6_upper: 544A01
+name: Oobb Part Gear 03 06 Ex 24 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 03 06 Ex 24 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0306Ex24Teethshelectronicpotentiometer17Mm
+name_no_size: 03 06 Ex 24 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 03 06 Ex 24 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_03_06_ex_24_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: whale chicken smile
+oomp_word_emoji: ':whale: :chicken: :smile:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':chicken:'
+- ':smile:'
+oomp_word_list:
+- whale
+- chicken
+- smile
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6807_size
+description_extra: ''
+description_main: 35_mm_id_47_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+id: hardware_bearing_6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+id_no_class: bearing_6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+id_no_color: 35_mm_id_47_mm_od_7_mm_depth
+id_no_size: 6807_size_35_mm_id_47_mm_od_7_mm_depth
+id_no_type: 6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+manufacturer: ''
+md5: f8526b0bbd89ce94823f4dc25b27bb0e
+md5_10: f8526b0bbd
+md5_10_upper: F8526B0BBD
+md5_5: f8526
+md5_5_upper: F8526
+md5_6: f8526b
+md5_6_alpha: 9ot4b
+md5_6_alpha_upper: 9OT4B
+md5_6_upper: F8526B
+name: Hardware Bearing 6800 Series 6807 Size 35 Mm Id 47 Mm Od 7 Mm Depth
+name_no_class: Bearing 6800 Series 6807 Size 35 Mm Id 47 Mm Od 7 Mm Depth
+name_no_color: 35 Mm Id 47 Mm Od 7 Mm Depth
+name_no_size: 6807 Size 35 Mm Id 47 Mm Od 7 Mm Depth
+name_no_type: 6800 Series 6807 Size 35 Mm Id 47 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6807_size_35_mm_id_47_mm_od_7_mm_depth
+oomp_word: seven octopus chestnut
+oomp_word_emoji: ':seven: :octopus: :chestnut:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':octopus:'
+- ':chestnut:'
+oomp_word_list:
+- seven
+- octopus
+- chestnut
+part_number: ''
+size: 6800_series
+type: bearing

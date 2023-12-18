@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_n
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_n
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_n
+id: oobb_part_bunting_alphabet_07_01_ex_n
+id_no_class: part_bunting_alphabet_07_01_ex_n
+id_no_color: 0701exn
+id_no_size: 07_01_ex_n
+id_no_type: bunting_alphabet_07_01_ex_n
+manufacturer: ''
+md5: a8879c52ae029890d04418971d7ba42b
+md5_10: a8879c52ae
+md5_10_upper: A8879C52AE
+md5_5: a8879
+md5_5_upper: A8879
+md5_6: a8879c
+md5_6_alpha: 6kq70
+md5_6_alpha_upper: 6KQ70
+md5_6_upper: A8879C
+name: Oobb Part Bunting Alphabet 07 01 Ex N
+name_no_class: Part Bunting Alphabet 07 01 Ex N
+name_no_color: 0701Exn
+name_no_size: 07 01 Ex N
+name_no_type: Bunting Alphabet 07 01 Ex N
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_n
+oomp_word: shoe toilet spades
+oomp_word_emoji: ':shoe: :toilet: :spades:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':toilet:'
+- ':spades:'
+oomp_word_list:
+- shoe
+- toilet
+- spades
+part_number: ''
+size: bunting_alphabet
+type: part

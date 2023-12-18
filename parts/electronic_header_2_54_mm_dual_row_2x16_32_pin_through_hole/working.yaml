@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x16_32_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x16_32_pin_through_hole
+id_no_color: 2x1632pinthroughhole
+id_no_size: 2x16_32_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x16_32_pin_through_hole
+manufacturer: ''
+md5: 334b4d9e46ef784ebe91ab67defae03c
+md5_10: 334b4d9e46
+md5_10_upper: 334B4D9E46
+md5_5: 334b4
+md5_5_upper: 334B4
+md5_6: 334b4d
+md5_6_alpha: 201u5
+md5_6_alpha_upper: 201U5
+md5_6_upper: 334B4D
+name: Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole
+name_no_color: 2X1632Pinthroughhole
+name_no_size: 2X16 32 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X16 32 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole
+oomp_word: dog penguin bug
+oomp_word_emoji: ':dog: :penguin: :bug:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':penguin:'
+- ':bug:'
+oomp_word_list:
+- dog
+- penguin
+- bug
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

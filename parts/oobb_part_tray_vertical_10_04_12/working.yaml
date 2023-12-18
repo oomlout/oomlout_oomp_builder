@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_04_12'
+directory: parts/oobb_part_tray_vertical_10_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_04_12
+id: oobb_part_tray_vertical_10_04_12
+id_no_class: part_tray_vertical_10_04_12
+id_no_color: '100412'
+id_no_size: '10_04_12'
+id_no_type: tray_vertical_10_04_12
+manufacturer: ''
+md5: 9bf7c78c06d8587e04624e6541076d5f
+md5_10: 9bf7c78c06
+md5_10_upper: 9BF7C78C06
+md5_5: 9bf7c
+md5_5_upper: 9BF7C
+md5_6: 9bf7c7
+md5_6_alpha: 632yv
+md5_6_alpha_upper: 632YV
+md5_6_upper: 9BF7C7
+name: Oobb Part Tray Vertical 10 04 12
+name_no_class: Part Tray Vertical 10 04 12
+name_no_color: '100412'
+name_no_size: 10 04 12
+name_no_type: Tray Vertical 10 04 12
+oomp_key: oomp_oobb_part_tray_vertical_10_04_12
+oomp_word: ski six honey_pot
+oomp_word_emoji: ':ski: :six: :honey_pot:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':six:'
+- ':honey_pot:'
+oomp_word_list:
+- ski
+- six
+- honey_pot
+part_number: ''
+size: tray_vertical
+type: part

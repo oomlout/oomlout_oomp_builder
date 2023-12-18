@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_2_5_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_5_mm
+id: hardware_washer_2_5_mm
+id_no_class: washer_2_5_mm
+id_no_color: 25mm
+id_no_size: 2_5_mm
+id_no_type: 2_5_mm
+manufacturer: ''
+md5: 870c3b197bd74475655e8cac82e4eb73
+md5_10: 870c3b197b
+md5_10_upper: 870C3B197B
+md5_5: 870c3
+md5_5_upper: 870C3
+md5_6: 870c3b
+md5_6_alpha: 59p2z
+md5_6_alpha_upper: 59P2Z
+md5_6_upper: 870C3B
+name: Hardware Washer 2 5 Mm
+name_no_class: Washer 2 5 Mm
+name_no_color: 25Mm
+name_no_size: 2 5 Mm
+name_no_type: 2 5 Mm
+oomp_key: oomp_hardware_washer_2_5_mm
+oomp_word: toilet alien bear
+oomp_word_emoji: ':toilet: :alien: :bear:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':alien:'
+- ':bear:'
+oomp_word_list:
+- toilet
+- alien
+- bear
+part_number: ''
+size: 2_5_mm
+type: washer

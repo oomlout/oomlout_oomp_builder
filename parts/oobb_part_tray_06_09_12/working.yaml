@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_12
+directory: parts/oobb_part_tray_06_09_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_09_12
+id: oobb_part_tray_06_09_12
+id_no_class: part_tray_06_09_12
+id_no_color: 060912
+id_no_size: 06_09_12
+id_no_type: tray_06_09_12
+manufacturer: ''
+md5: 5f355b42dc147b6de94f29c58a747506
+md5_10: 5f355b42dc
+md5_10_upper: 5F355B42DC
+md5_5: 5f355
+md5_5_upper: 5F355
+md5_6: 5f355b
+md5_6_alpha: 3pqhn
+md5_6_alpha_upper: 3PQHN
+md5_6_upper: 5F355B
+name: Oobb Part Tray 06 09 12
+name_no_class: Part Tray 06 09 12
+name_no_color: 060912
+name_no_size: 06 09 12
+name_no_type: Tray 06 09 12
+oomp_key: oomp_oobb_part_tray_06_09_12
+oomp_word: leopard hamster rooster
+oomp_word_emoji: ':leopard: :hamster: :rooster:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':hamster:'
+- ':rooster:'
+oomp_word_list:
+- leopard
+- hamster
+- rooster
+part_number: ''
+size: tray
+type: part

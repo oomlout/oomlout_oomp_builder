@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_surface_mount
+id: electronic_header_2_54_mm_7_pin_surface_mount
+id_no_class: header_2_54_mm_7_pin_surface_mount
+id_no_color: 7pinsurfacemount
+id_no_size: 7_pin_surface_mount
+id_no_type: 2_54_mm_7_pin_surface_mount
+manufacturer: ''
+md5: 84bf9c4d7a9c7f4cabfd43566f7c6b2d
+md5_10: 84bf9c4d7a
+md5_10_upper: 84BF9C4D7A
+md5_5: 84bf9
+md5_5_upper: 84BF9
+md5_6: 84bf9c
+md5_6_alpha: 56gt8
+md5_6_alpha_upper: 56GT8
+md5_6_upper: 84BF9C
+name: Electronic Header 2 54 Mm 7 Pin Surface Mount
+name_no_class: Header 2 54 Mm 7 Pin Surface Mount
+name_no_color: 7Pinsurfacemount
+name_no_size: 7 Pin Surface Mount
+name_no_type: 2 54 Mm 7 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_surface_mount
+oomp_word: key egg spades
+oomp_word_emoji: ':key: :egg: :spades:'
+oomp_word_emoji_list:
+- ':key:'
+- ':egg:'
+- ':spades:'
+oomp_word_list:
+- key
+- egg
+- spades
+part_number: ''
+size: 2_54_mm
+type: header

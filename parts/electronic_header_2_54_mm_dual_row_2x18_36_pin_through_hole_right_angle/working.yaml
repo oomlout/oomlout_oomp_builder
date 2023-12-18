@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x18_36_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+id_no_color: 2x1836pinthroughholerightangle
+id_no_size: 2x18_36_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+manufacturer: ''
+md5: 51ac96f010bdfea8ceb8d55d09b2b63f
+md5_10: 51ac96f010
+md5_10_upper: 51AC96F010
+md5_5: 51ac9
+md5_5_upper: 51AC9
+md5_6: 51ac96
+md5_6_alpha: 36q3a
+md5_6_alpha_upper: 36Q3A
+md5_6_upper: 51AC96
+name: Electronic Header 2 54 Mm Dual Row 2X18 36 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X18 36 Pin Through Hole Right Angle
+name_no_color: 2X1836Pinthroughholerightangle
+name_no_size: 2X18 36 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X18 36 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole_right_angle
+oomp_word: snail shirt basketball
+oomp_word_emoji: ':snail: :shirt: :basketball:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':shirt:'
+- ':basketball:'
+oomp_word_list:
+- snail
+- shirt
+- basketball
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

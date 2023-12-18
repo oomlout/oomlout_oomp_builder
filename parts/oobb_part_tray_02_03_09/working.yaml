@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_09
+directory: parts/oobb_part_tray_02_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_03_09
+id: oobb_part_tray_02_03_09
+id_no_class: part_tray_02_03_09
+id_no_color: 020309
+id_no_size: 02_03_09
+id_no_type: tray_02_03_09
+manufacturer: ''
+md5: fd25904efcc5c62fcfdbc350de90abc3
+md5_10: fd25904efc
+md5_10_upper: FD25904EFC
+md5_5: fd259
+md5_5_upper: FD259
+md5_6: fd2590
+md5_6_alpha: 9vl3k
+md5_6_alpha_upper: 9VL3K
+md5_6_upper: FD2590
+name: Oobb Part Tray 02 03 09
+name_no_class: Part Tray 02 03 09
+name_no_color: 020309
+name_no_size: 02 03 09
+name_no_type: Tray 02 03 09
+oomp_key: oomp_oobb_part_tray_02_03_09
+oomp_word: parking ear scissors
+oomp_word_emoji: ':parking: :ear: :scissors:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':ear:'
+- ':scissors:'
+oomp_word_list:
+- parking
+- ear
+- scissors
+part_number: ''
+size: tray
+type: part

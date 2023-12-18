@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_self_tapping_m2_08
+directory: parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
+id: oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
+id_no_class: part_screw_self_tapping_hardware_screw_self_tapping_m2_08
+id_no_color: hardwarem208
+id_no_size: hardware_m2_08
+id_no_type: screw_self_tapping_hardware_screw_self_tapping_m2_08
+manufacturer: ''
+md5: 55d0f2bac399142a8320b8e29bd64d5a
+md5_10: 55d0f2bac3
+md5_10_upper: 55D0F2BAC3
+md5_5: 55d0f
+md5_5_upper: 55D0F
+md5_6: 55d0f2
+md5_6_alpha: 3cjjm
+md5_6_alpha_upper: 3CJJM
+md5_6_upper: 55D0F2
+name: Oobb Part Screw Self Tapping Hardware Screw Self Tapping M2 08
+name_no_class: Part Screw Self Tapping Hardware Screw Self Tapping M2 08
+name_no_color: Hardwarem208
+name_no_size: Hardware M2 08
+name_no_type: Screw Self Tapping Hardware Screw Self Tapping M2 08
+oomp_key: oomp_oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
+oomp_word: dolphin banana one
+oomp_word_emoji: ':dolphin: :banana: :one:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':banana:'
+- ':one:'
+oomp_word_list:
+- dolphin
+- banana
+- one
+part_number: ''
+size: screw_self_tapping
+type: part

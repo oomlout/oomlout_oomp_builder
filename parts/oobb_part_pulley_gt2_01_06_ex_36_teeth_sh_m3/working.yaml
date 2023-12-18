@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_36_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_m3
+id: oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_m3
+id_no_class: part_pulley_gt2_01_06_ex_36_teeth_sh_m3
+id_no_color: 0106ex36teethshm3
+id_no_size: 01_06_ex_36_teeth_sh_m3
+id_no_type: pulley_gt2_01_06_ex_36_teeth_sh_m3
+manufacturer: ''
+md5: a853d1f3e6b749ddc084d8ac1af04915
+md5_10: a853d1f3e6
+md5_10_upper: A853D1F3E6
+md5_5: a853d
+md5_5_upper: A853D
+md5_6: a853d1
+md5_6_alpha: 6kfyp
+md5_6_alpha_upper: 6KFYP
+md5_6_upper: A853D1
+name: Oobb Part Pulley Gt2 01 06 Ex 36 Teeth Sh M3
+name_no_class: Part Pulley Gt2 01 06 Ex 36 Teeth Sh M3
+name_no_color: 0106Ex36Teethshm3
+name_no_size: 01 06 Ex 36 Teeth Sh M3
+name_no_type: Pulley Gt2 01 06 Ex 36 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_m3
+oomp_word: shoe fish pear
+oomp_word_emoji: ':shoe: :fish: :pear:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':fish:'
+- ':pear:'
+oomp_word_list:
+- shoe
+- fish
+- pear
+part_number: ''
+size: pulley_gt2
+type: part

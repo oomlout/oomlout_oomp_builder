@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 390000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_390000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_390000_ohm
+id: electronic_resistor_quarter_watt_through_hole_390000_ohm
+id_no_class: resistor_quarter_watt_through_hole_390000_ohm
+id_no_color: 390000ohm
+id_no_size: 390000_ohm
+id_no_type: quarter_watt_through_hole_390000_ohm
+manufacturer: ''
+md5: 449b6399289f73c29eb07ccbf5ef73be
+md5_10: 449b639928
+md5_10_upper: 449B639928
+md5_5: 449b6
+md5_5_upper: 449B6
+md5_6: 449b63
+md5_6_alpha: 2odb7
+md5_6_alpha_upper: 2ODB7
+md5_6_upper: 449B63
+name: Electronic Resistor Quarter Watt Through Hole 390000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 390000 Ohm
+name_no_color: 390000Ohm
+name_no_size: 390000 Ohm
+name_no_type: Quarter Watt Through Hole 390000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_390000_ohm
+oomp_word: panda_face ski rose
+oomp_word_emoji: ':panda_face: :ski: :rose:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':ski:'
+- ':rose:'
+oomp_word_list:
+- panda_face
+- ski
+- rose
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 32_pin
+directory: parts/electronic_header_2_54_mm_32_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_32_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_32_pin_through_hole_right_angle
+id_no_color: 32pinthroughholerightangle
+id_no_size: 32_pin_through_hole_right_angle
+id_no_type: 2_54_mm_32_pin_through_hole_right_angle
+manufacturer: ''
+md5: 363a8037866c3adbbdeac47f74f9e0d1
+md5_10: 363a803786
+md5_10_upper: 363A803786
+md5_5: 363a8
+md5_5_upper: 363A8
+md5_6: 363a80
+md5_6_alpha: '24680'
+md5_6_alpha_upper: '24680'
+md5_6_upper: 363A80
+name: Electronic Header 2 54 Mm 32 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 32 Pin Through Hole Right Angle
+name_no_color: 32Pinthroughholerightangle
+name_no_size: 32 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 32 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_32_pin_through_hole_right_angle
+oomp_word: rabbit koala hourglass
+oomp_word_emoji: ':rabbit: :koala: :hourglass:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':koala:'
+- ':hourglass:'
+oomp_word_list:
+- rabbit
+- koala
+- hourglass
+part_number: ''
+size: 2_54_mm
+type: header

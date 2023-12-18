@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_2_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_2_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_2_pin_through_hole
+id_no_color: 2pinthroughhole
+id_no_size: 2_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_2_pin_through_hole
+manufacturer: ''
+md5: a11516c76805527cdc3bd00179d58963
+md5_10: a11516c768
+md5_10_upper: A11516C768
+md5_5: a1151
+md5_5_upper: A1151
+md5_6: a11516
+md5_6_alpha: 6a9li
+md5_6_alpha_upper: 6A9LI
+md5_6_upper: A11516
+name: Electronic Header 2 5 Mm Jst Xh 2 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 2 Pin Through Hole
+name_no_color: 2Pinthroughhole
+name_no_size: 2 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 2 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_2_pin_through_hole
+oomp_word: trophy poop thumbsup
+oomp_word_emoji: ':trophy: :poop: :thumbsup:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':poop:'
+- ':thumbsup:'
+oomp_word_list:
+- trophy
+- poop
+- thumbsup
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

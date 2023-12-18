@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 470000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_470000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_470000_ohm
+id: electronic_resistor_quarter_watt_through_hole_470000_ohm
+id_no_class: resistor_quarter_watt_through_hole_470000_ohm
+id_no_color: 470000ohm
+id_no_size: 470000_ohm
+id_no_type: quarter_watt_through_hole_470000_ohm
+manufacturer: ''
+md5: 3eac2ee5563887e4ca03dee1db623085
+md5_10: 3eac2ee556
+md5_10_upper: 3EAC2EE556
+md5_5: 3eac2
+md5_5_upper: 3EAC2
+md5_6: 3eac2e
+md5_6_alpha: 2g17y
+md5_6_alpha_upper: 2G17Y
+md5_6_upper: 3EAC2E
+name: Electronic Resistor Quarter Watt Through Hole 470000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 470000 Ohm
+name_no_color: 470000Ohm
+name_no_size: 470000 Ohm
+name_no_type: Quarter Watt Through Hole 470000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_470000_ohm
+oomp_word: monkey shirt zap
+oomp_word_emoji: ':monkey: :shirt: :zap:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':shirt:'
+- ':zap:'
+oomp_word_list:
+- monkey
+- shirt
+- zap
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

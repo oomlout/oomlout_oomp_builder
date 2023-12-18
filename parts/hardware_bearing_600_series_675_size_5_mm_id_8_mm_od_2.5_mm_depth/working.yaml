@@ -1,0 +1,40 @@
+classification: hardware
+color: 675_size
+description_extra: ''
+description_main: 5_mm_id_8_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+id: hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_class: bearing_600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_color: 5_mm_id_8_mm_od_2.5_mm_depth
+id_no_size: 675_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_type: 600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: 98a72455a30840dba92273fd4433c23f
+md5_10: 98a72455a3
+md5_10_upper: 98A72455A3
+md5_5: 98a72
+md5_5_upper: 98A72
+md5_6: 98a724
+md5_6_alpha: 5yfc4
+md5_6_alpha_upper: 5YFC4
+md5_6_upper: 98A724
+name: Hardware Bearing 600 Series 675 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_class: Bearing 600 Series 675 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_color: 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_size: 675 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_type: 600 Series 675 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2.5_mm_depth
+oomp_word: tennis guitar droplet
+oomp_word_emoji: ':tennis: :guitar: :droplet:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':guitar:'
+- ':droplet:'
+oomp_word_list:
+- tennis
+- guitar
+- droplet
+part_number: ''
+size: 600_series
+type: bearing

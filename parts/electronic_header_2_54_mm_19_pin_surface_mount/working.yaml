@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 19_pin
+directory: parts/electronic_header_2_54_mm_19_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount
+id: electronic_header_2_54_mm_19_pin_surface_mount
+id_no_class: header_2_54_mm_19_pin_surface_mount
+id_no_color: 19pinsurfacemount
+id_no_size: 19_pin_surface_mount
+id_no_type: 2_54_mm_19_pin_surface_mount
+manufacturer: ''
+md5: 5d58db80bc9b3dce9bd41722701a808c
+md5_10: 5d58db80bc
+md5_10_upper: 5D58DB80BC
+md5_5: 5d58d
+md5_5_upper: 5D58D
+md5_6: 5d58db
+md5_6_alpha: 3n4d7
+md5_6_alpha_upper: 3N4D7
+md5_6_upper: 5D58DB
+name: Electronic Header 2 54 Mm 19 Pin Surface Mount
+name_no_class: Header 2 54 Mm 19 Pin Surface Mount
+name_no_color: 19Pinsurfacemount
+name_no_size: 19 Pin Surface Mount
+name_no_type: 2 54 Mm 19 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_19_pin_surface_mount
+oomp_word: blowfish water_buffalo tent
+oomp_word_emoji: ':blowfish: :water_buffalo: :tent:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':water_buffalo:'
+- ':tent:'
+oomp_word_list:
+- blowfish
+- water_buffalo
+- tent
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+directory: parts/oobb_part_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id: oobb_part_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_class: part_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_color: 2415606exbearingtwentytwentyaluminiumextrusion
+id_no_size: 24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_type: wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+md5: a00fbc9667532a7fd3cda5e226d2a553
+md5_10: a00fbc9667
+md5_10_upper: A00FBC9667
+md5_5: a00fb
+md5_5_upper: A00FB
+md5_6: a00fbc
+md5_6_alpha: 68tz0
+md5_6_alpha_upper: 68TZ0
+md5_6_upper: A00FBC
+name: Oobb Part Wheel 24 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_class: Part Wheel 24 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_color: 2415606Exbearingtwentytwentyaluminiumextrusion
+name_no_size: 24 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_type: Wheel 24 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+oomp_key: oomp_oobb_part_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+oomp_word: ring sparkles sushi
+oomp_word_emoji: ':ring: :sparkles: :sushi:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':sparkles:'
+- ':sushi:'
+oomp_word_list:
+- ring
+- sparkles
+- sushi
+part_number: ''
+size: wheel
+type: part

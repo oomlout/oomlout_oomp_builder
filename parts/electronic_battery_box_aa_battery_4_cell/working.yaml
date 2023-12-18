@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4_cell
+directory: parts/electronic_battery_box_aa_battery_4_cell
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell
+id: electronic_battery_box_aa_battery_4_cell
+id_no_class: battery_box_aa_battery_4_cell
+id_no_color: 4cell
+id_no_size: 4_cell
+id_no_type: aa_battery_4_cell
+manufacturer: ''
+md5: 19e5242d3e7933b364c61c2e3685fe77
+md5_10: 19e5242d3e
+md5_10_upper: 19E5242D3E
+md5_5: 19e52
+md5_5_upper: 19E52
+md5_6: 19e524
+md5_6_alpha: 10dgk
+md5_6_alpha_upper: 10DGK
+md5_6_upper: 19E524
+name: Electronic Battery Box Aa Battery 4 Cell
+name_no_class: Battery Box Aa Battery 4 Cell
+name_no_color: 4Cell
+name_no_size: 4 Cell
+name_no_type: Aa Battery 4 Cell
+oomp_key: oomp_electronic_battery_box_aa_battery_4_cell
+oomp_word: pray rocket droplet
+oomp_word_emoji: ':pray: :rocket: :droplet:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':rocket:'
+- ':droplet:'
+oomp_word_list:
+- pray
+- rocket
+- droplet
+part_number: ''
+size: aa_battery
+type: battery_box

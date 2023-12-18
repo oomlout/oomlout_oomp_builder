@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_0402_22_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_22_ohm
+id: electronic_resistor_0402_22_ohm
+id_no_class: resistor_0402_22_ohm
+id_no_color: 22ohm
+id_no_size: 22_ohm
+id_no_type: 0402_22_ohm
+manufacturer: ''
+md5: 6475a296bea487c84aca85f43c15a4da
+md5_10: 6475a296be
+md5_10_upper: 6475A296BE
+md5_5: 6475a
+md5_5_upper: 6475A
+md5_6: 6475a2
+md5_6_alpha: 3x40y
+md5_6_alpha_upper: 3X40Y
+md5_6_upper: 6475A2
+name: Electronic Resistor 0402 22 Ohm
+name_no_class: Resistor 0402 22 Ohm
+name_no_color: 22Ohm
+name_no_size: 22 Ohm
+name_no_type: 0402 22 Ohm
+oomp_key: oomp_electronic_resistor_0402_22_ohm
+oomp_word: sunflower ghost violin
+oomp_word_emoji: ':sunflower: :ghost: :violin:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':ghost:'
+- ':violin:'
+oomp_word_list:
+- sunflower
+- ghost
+- violin
+part_number: ''
+size: '0402'
+type: resistor

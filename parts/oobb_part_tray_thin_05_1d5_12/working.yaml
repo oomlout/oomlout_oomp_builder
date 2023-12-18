@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_1d5_12
+directory: parts/oobb_part_tray_thin_05_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_1d5_12
+id: oobb_part_tray_thin_05_1d5_12
+id_no_class: part_tray_thin_05_1d5_12
+id_no_color: 051d512
+id_no_size: 05_1d5_12
+id_no_type: tray_thin_05_1d5_12
+manufacturer: ''
+md5: fda18a6466078fdb504b5793e5f63988
+md5_10: fda18a6466
+md5_10_upper: FDA18A6466
+md5_5: fda18
+md5_5_upper: FDA18
+md5_6: fda18a
+md5_6_alpha: 9w9l6
+md5_6_alpha_upper: 9W9L6
+md5_6_upper: FDA18A
+name: Oobb Part Tray Thin 05 1D5 12
+name_no_class: Part Tray Thin 05 1D5 12
+name_no_color: 051D512
+name_no_size: 05 1D5 12
+name_no_type: Tray Thin 05 1D5 12
+oomp_key: oomp_oobb_part_tray_thin_05_1d5_12
+oomp_word: parking trophy envelope
+oomp_word_emoji: ':parking: :trophy: :envelope:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':trophy:'
+- ':envelope:'
+oomp_word_list:
+- parking
+- trophy
+- envelope
+part_number: ''
+size: tray_thin
+type: part

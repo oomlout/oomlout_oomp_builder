@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 18_pin
+directory: parts/electronic_header_2_54_mm_18_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_18_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_18_pin_surface_mount_right_angle
+id_no_color: 18pinsurfacemountrightangle
+id_no_size: 18_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_18_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 1250611d8356147437062b41bd0abb84
+md5_10: 1250611d83
+md5_10_upper: 1250611D83
+md5_5: '12506'
+md5_5_upper: '12506'
+md5_6: '125061'
+md5_6_alpha: pq3l
+md5_6_alpha_upper: PQ3L
+md5_6_upper: '125061'
+name: Electronic Header 2 54 Mm 18 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 18 Pin Surface Mount Right Angle
+name_no_color: 18Pinsurfacemountrightangle
+name_no_size: 18 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 18 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_18_pin_surface_mount_right_angle
+oomp_word: anger beetle bouquet
+oomp_word_emoji: ':anger: :beetle: :bouquet:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':beetle:'
+- ':bouquet:'
+oomp_word_list:
+- anger
+- beetle
+- bouquet
+part_number: ''
+size: 2_54_mm
+type: header

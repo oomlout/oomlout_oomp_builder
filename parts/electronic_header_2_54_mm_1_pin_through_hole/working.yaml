@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 1_pin
+directory: parts/electronic_header_2_54_mm_1_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole
+id: electronic_header_2_54_mm_1_pin_through_hole
+id_no_class: header_2_54_mm_1_pin_through_hole
+id_no_color: 1pinthroughhole
+id_no_size: 1_pin_through_hole
+id_no_type: 2_54_mm_1_pin_through_hole
+manufacturer: ''
+md5: 31ac5566c79e0f84e43018ba6faa34ca
+md5_10: 31ac5566c7
+md5_10_upper: 31AC5566C7
+md5_5: 31ac5
+md5_5_upper: 31AC5
+md5_6: 31ac55
+md5_6_alpha: 1xrv9
+md5_6_alpha_upper: 1XRV9
+md5_6_upper: 31AC55
+name: Electronic Header 2 54 Mm 1 Pin Through Hole
+name_no_class: Header 2 54 Mm 1 Pin Through Hole
+name_no_color: 1Pinthroughhole
+name_no_size: 1 Pin Through Hole
+name_no_type: 2 54 Mm 1 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole
+oomp_word: ocean shirt dolphin
+oomp_word_emoji: ':ocean: :shirt: :dolphin:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':shirt:'
+- ':dolphin:'
+oomp_word_list:
+- ocean
+- shirt
+- dolphin
+part_number: ''
+size: 2_54_mm
+type: header

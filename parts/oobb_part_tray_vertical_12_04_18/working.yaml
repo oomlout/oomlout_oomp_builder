@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_18'
+directory: parts/oobb_part_tray_vertical_12_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_04_18
+id: oobb_part_tray_vertical_12_04_18
+id_no_class: part_tray_vertical_12_04_18
+id_no_color: '120418'
+id_no_size: '12_04_18'
+id_no_type: tray_vertical_12_04_18
+manufacturer: ''
+md5: 539913f8e211ea6d576da3d0857b1bb9
+md5_10: 539913f8e2
+md5_10_upper: 539913F8E2
+md5_5: '53991'
+md5_5_upper: '53991'
+md5_6: '539913'
+md5_6_alpha: 39fdf
+md5_6_alpha_upper: 39FDF
+md5_6_upper: '539913'
+name: Oobb Part Tray Vertical 12 04 18
+name_no_class: Part Tray Vertical 12 04 18
+name_no_color: '120418'
+name_no_size: 12 04 18
+name_no_type: Tray Vertical 12 04 18
+oomp_key: oomp_oobb_part_tray_vertical_12_04_18
+oomp_word: fish bowling question
+oomp_word_emoji: ':fish: :bowling: :question:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':bowling:'
+- ':question:'
+oomp_word_list:
+- fish
+- bowling
+- question
+part_number: ''
+size: tray_vertical
+type: part

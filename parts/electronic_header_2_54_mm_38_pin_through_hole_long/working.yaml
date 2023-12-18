@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 38_pin
+directory: parts/electronic_header_2_54_mm_38_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole_long
+id: electronic_header_2_54_mm_38_pin_through_hole_long
+id_no_class: header_2_54_mm_38_pin_through_hole_long
+id_no_color: 38pinthroughholelong
+id_no_size: 38_pin_through_hole_long
+id_no_type: 2_54_mm_38_pin_through_hole_long
+manufacturer: ''
+md5: 2def9ee67a7351871864fadabb16314e
+md5_10: 2def9ee67a
+md5_10_upper: 2DEF9EE67A
+md5_5: 2def9
+md5_5_upper: 2DEF9
+md5_6: 2def9e
+md5_6_alpha: 1sivy
+md5_6_alpha_upper: 1SIVY
+md5_6_upper: 2DEF9E
+name: Electronic Header 2 54 Mm 38 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 38 Pin Through Hole Long
+name_no_color: 38Pinthroughholelong
+name_no_size: 38 Pin Through Hole Long
+name_no_type: 2 54 Mm 38 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_38_pin_through_hole_long
+oomp_word: snowman truck clubs
+oomp_word_emoji: ':snowman: :truck: :clubs:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':truck:'
+- ':clubs:'
+oomp_word_list:
+- snowman
+- truck
+- clubs
+part_number: ''
+size: 2_54_mm
+type: header

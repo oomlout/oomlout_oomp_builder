@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_06_30'
+directory: parts/oobb_part_tray_vertical_12_06_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_06_30
+id: oobb_part_tray_vertical_12_06_30
+id_no_class: part_tray_vertical_12_06_30
+id_no_color: '120630'
+id_no_size: '12_06_30'
+id_no_type: tray_vertical_12_06_30
+manufacturer: ''
+md5: d9a590be04be6e89cd3af0e89ae1ff47
+md5_10: d9a590be04
+md5_10_upper: D9A590BE04
+md5_5: d9a59
+md5_5_upper: D9A59
+md5_6: d9a590
+md5_6_alpha: 8hpxs
+md5_6_alpha_upper: 8HPXS
+md5_6_upper: D9A590
+name: Oobb Part Tray Vertical 12 06 30
+name_no_class: Part Tray Vertical 12 06 30
+name_no_color: '120630'
+name_no_size: 12 06 30
+name_no_type: Tray Vertical 12 06 30
+oomp_key: oomp_oobb_part_tray_vertical_12_06_30
+oomp_word: bank headphones scissors
+oomp_word_emoji: ':bank: :headphones: :scissors:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':headphones:'
+- ':scissors:'
+oomp_word_list:
+- bank
+- headphones
+- scissors
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 820_ohm
+directory: parts/electronic_resistor_1206_820_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_820_ohm
+id: electronic_resistor_1206_820_ohm
+id_no_class: resistor_1206_820_ohm
+id_no_color: 820ohm
+id_no_size: 820_ohm
+id_no_type: 1206_820_ohm
+manufacturer: ''
+md5: 77f11f33c0f7c8ea605a799733290bf7
+md5_10: 77f11f33c0
+md5_10_upper: 77F11F33C0
+md5_5: 77f11
+md5_5_upper: 77F11
+md5_6: 77f11f
+md5_6_alpha: 4oh7j
+md5_6_alpha_upper: 4OH7J
+md5_6_upper: 77F11F
+name: Electronic Resistor 1206 820 Ohm
+name_no_class: Resistor 1206 820 Ohm
+name_no_color: 820Ohm
+name_no_size: 820 Ohm
+name_no_type: 1206 820 Ohm
+oomp_key: oomp_electronic_resistor_1206_820_ohm
+oomp_word: gift ticket princess
+oomp_word_emoji: ':gift: :ticket: :princess:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':ticket:'
+- ':princess:'
+oomp_word_list:
+- gift
+- ticket
+- princess
+part_number: ''
+size: '1206'
+type: resistor

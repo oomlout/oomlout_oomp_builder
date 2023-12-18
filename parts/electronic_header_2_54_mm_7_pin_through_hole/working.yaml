@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole
+id: electronic_header_2_54_mm_7_pin_through_hole
+id_no_class: header_2_54_mm_7_pin_through_hole
+id_no_color: 7pinthroughhole
+id_no_size: 7_pin_through_hole
+id_no_type: 2_54_mm_7_pin_through_hole
+manufacturer: ''
+md5: 1025e3bed91d3678f3d2b7f55b8644fe
+md5_10: 1025e3bed9
+md5_10_upper: 1025E3BED9
+md5_5: 1025e
+md5_5_upper: 1025E
+md5_6: 1025e3
+md5_6_alpha: mokj
+md5_6_alpha_upper: MOKJ
+md5_6_upper: 1025E3
+name: Electronic Header 2 54 Mm 7 Pin Through Hole
+name_no_class: Header 2 54 Mm 7 Pin Through Hole
+name_no_color: 7Pinthroughhole
+name_no_size: 7 Pin Through Hole
+name_no_type: 2 54 Mm 7 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_through_hole
+oomp_word: star ear rowboat
+oomp_word_emoji: ':star: :ear: :rowboat:'
+oomp_word_emoji_list:
+- ':star:'
+- ':ear:'
+- ':rowboat:'
+oomp_word_list:
+- star
+- ear
+- rowboat
+part_number: ''
+size: 2_54_mm
+type: header

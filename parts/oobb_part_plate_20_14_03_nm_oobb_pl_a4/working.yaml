@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 20_14_03_nm_oobb_pl_a4
+directory: parts/oobb_part_plate_20_14_03_nm_oobb_pl_a4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_14_03_nm_oobb_pl_a4
+id: oobb_part_plate_20_14_03_nm_oobb_pl_a4
+id_no_class: part_plate_20_14_03_nm_pl_a4
+id_no_color: 201403nmpla4
+id_no_size: 20_14_03_nm_pl_a4
+id_no_type: plate_20_14_03_nm_pl_a4
+manufacturer: ''
+md5: 1525bc373b0eaa0005ad754deecf82dd
+md5_10: 1525bc373b
+md5_10_upper: 1525BC373B
+md5_5: 1525b
+md5_5_upper: 1525B
+md5_6: 1525bc
+md5_6_alpha: tpdo
+md5_6_alpha_upper: TPDO
+md5_6_upper: 1525BC
+name: Oobb Part Plate 20 14 03 Nm Oobb Pl A4
+name_no_class: Part Plate 20 14 03 Nm Pl A4
+name_no_color: 201403Nmpla4
+name_no_size: 20 14 03 Nm Pl A4
+name_no_type: Plate 20 14 03 Nm Pl A4
+oomp_key: oomp_oobb_part_plate_20_14_03_nm_oobb_pl_a4
+oomp_word: poop ear sushi
+oomp_word_emoji: ':poop: :ear: :sushi:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':ear:'
+- ':sushi:'
+oomp_word_list:
+- poop
+- ear
+- sushi
+part_number: ''
+size: plate
+type: part

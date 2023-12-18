@@ -1,0 +1,40 @@
+classification: hardware
+color: 6830_size
+description_extra: ''
+description_main: 150_mm_id_190_mm_od_20_mm_depth
+directory: parts/hardware_bearing_6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+id: hardware_bearing_6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+id_no_class: bearing_6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+id_no_color: 150_mm_id_190_mm_od_20_mm_depth
+id_no_size: 6830_size_150_mm_id_190_mm_od_20_mm_depth
+id_no_type: 6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+manufacturer: ''
+md5: 46c15443cd81e0403285712a79211954
+md5_10: 46c15443cd
+md5_10_upper: 46C15443CD
+md5_5: 46c15
+md5_5_upper: 46C15
+md5_6: 46c154
+md5_6_alpha: 2rdxw
+md5_6_alpha_upper: 2RDXW
+md5_6_upper: 46C154
+name: Hardware Bearing 6800 Series 6830 Size 150 Mm Id 190 Mm Od 20 Mm Depth
+name_no_class: Bearing 6800 Series 6830 Size 150 Mm Id 190 Mm Od 20 Mm Depth
+name_no_color: 150 Mm Id 190 Mm Od 20 Mm Depth
+name_no_size: 6830 Size 150 Mm Id 190 Mm Od 20 Mm Depth
+name_no_type: 6800 Series 6830 Size 150 Mm Id 190 Mm Od 20 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6830_size_150_mm_id_190_mm_od_20_mm_depth
+oomp_word: bird doughnut whale
+oomp_word_emoji: ':bird: :doughnut: :whale:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':doughnut:'
+- ':whale:'
+oomp_word_list:
+- bird
+- doughnut
+- whale
+part_number: ''
+size: 6800_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+id: electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+id_no_class: ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+id_no_color: atmega328_microchip_atmega328p_mn
+id_no_size: mcu_atmega328_microchip_atmega328p_mn
+id_no_type: qfn_28_mcu_atmega328_microchip_atmega328p_mn
+manufacturer: microchip
+md5: 4e3cebccf7cb76a5984fa97b7a893de9
+md5_10: 4e3cebccf7
+md5_10_upper: 4E3CEBCCF7
+md5_5: 4e3ce
+md5_5_upper: 4E3CE
+md5_6: 4e3ceb
+md5_6_alpha: 31wbv
+md5_6_alpha_upper: 31WBV
+md5_6_upper: 4E3CEB
+name: Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
+name_no_class: Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
+name_no_color: Atmega328 Microchip Atmega328P Mn
+name_no_size: Mcu Atmega328 Microchip Atmega328P Mn
+name_no_type: Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn
+oomp_key: oomp_electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+oomp_word: honeybee pig car
+oomp_word_emoji: ':honeybee: :pig: :car:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':pig:'
+- ':car:'
+oomp_word_list:
+- honeybee
+- pig
+- car
+part_number: atmega328p_mn
+size: qfn_28
+type: ic

@@ -1,0 +1,40 @@
+classification: hardware
+color: F699_size
+description_extra: ''
+description_main: 9_mm_id_20_mm_od_6_mm_depth
+directory: parts/hardware_bearing_F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+id: hardware_bearing_F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_class: bearing_F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_color: 9_mm_id_20_mm_od_6_mm_depth
+id_no_size: F699_size_9_mm_id_20_mm_od_6_mm_depth
+id_no_type: F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+manufacturer: ''
+md5: 292fd5dae1756e9344e42b3ff65c8691
+md5_10: 292fd5dae1
+md5_10_upper: 292FD5DAE1
+md5_5: 292fd
+md5_5_upper: 292FD
+md5_6: 292fd5
+md5_6_alpha: 1luqd
+md5_6_alpha_upper: 1LUQD
+md5_6_upper: 292FD5
+name: Hardware Bearing F600 Series F699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_class: Bearing F600 Series F699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_color: 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_size: F699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+name_no_type: F600 Series F699 Size 9 Mm Id 20 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F699_size_9_mm_id_20_mm_od_6_mm_depth
+oomp_word: sunny cyclone house
+oomp_word_emoji: ':sunny: :cyclone: :house:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':cyclone:'
+- ':house:'
+oomp_word_list:
+- sunny
+- cyclone
+- house
+part_number: ''
+size: F600_series
+type: bearing

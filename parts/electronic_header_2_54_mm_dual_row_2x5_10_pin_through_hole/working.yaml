@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x5_10_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x5_10_pin_through_hole
+id_no_color: 2x510pinthroughhole
+id_no_size: 2x5_10_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x5_10_pin_through_hole
+manufacturer: ''
+md5: 4741d1db73eef63dde6c227d1abef4c2
+md5_10: 4741d1db73
+md5_10_upper: 4741D1DB73
+md5_5: 4741d
+md5_5_upper: 4741D
+md5_6: 4741d1
+md5_6_alpha: 2s3bl
+md5_6_alpha_upper: 2S3BL
+md5_6_upper: 4741D1
+name: Electronic Header 2 54 Mm Dual Row 2X5 10 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X5 10 Pin Through Hole
+name_no_color: 2X510Pinthroughhole
+name_no_size: 2X5 10 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X5 10 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole
+oomp_word: baby_chick camel pear
+oomp_word_emoji: ':baby_chick: :camel: :pear:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':camel:'
+- ':pear:'
+oomp_word_list:
+- baby_chick
+- camel
+- pear
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

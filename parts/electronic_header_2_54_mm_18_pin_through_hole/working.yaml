@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 18_pin
+directory: parts/electronic_header_2_54_mm_18_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_through_hole
+id: electronic_header_2_54_mm_18_pin_through_hole
+id_no_class: header_2_54_mm_18_pin_through_hole
+id_no_color: 18pinthroughhole
+id_no_size: 18_pin_through_hole
+id_no_type: 2_54_mm_18_pin_through_hole
+manufacturer: ''
+md5: 5921e687ffa7b4fd5b6a3b494c64dcb6
+md5_10: 5921e687ff
+md5_10_upper: 5921E687FF
+md5_5: 5921e
+md5_5_upper: 5921E
+md5_6: 5921e6
+md5_6_alpha: 3h78m
+md5_6_alpha_upper: 3H78M
+md5_6_upper: 5921E6
+name: Electronic Header 2 54 Mm 18 Pin Through Hole
+name_no_class: Header 2 54 Mm 18 Pin Through Hole
+name_no_color: 18Pinthroughhole
+name_no_size: 18 Pin Through Hole
+name_no_type: 2 54 Mm 18 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_18_pin_through_hole
+oomp_word: dragon feet airplane
+oomp_word_emoji: ':dragon: :feet: :airplane:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':feet:'
+- ':airplane:'
+oomp_word_list:
+- dragon
+- feet
+- airplane
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_09
+directory: parts/oobb_part_tray_vertical_05_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_05_09
+id: oobb_part_tray_vertical_05_05_09
+id_no_class: part_tray_vertical_05_05_09
+id_no_color: 050509
+id_no_size: 05_05_09
+id_no_type: tray_vertical_05_05_09
+manufacturer: ''
+md5: c3e24e13259a94eaedaf595660a1d60c
+md5_10: c3e24e1325
+md5_10_upper: C3E24E1325
+md5_5: c3e24
+md5_5_upper: C3E24
+md5_6: c3e24e
+md5_6_alpha: 7n5fy
+md5_6_alpha_upper: 7N5FY
+md5_6_upper: C3E24E
+name: Oobb Part Tray Vertical 05 05 09
+name_no_class: Part Tray Vertical 05 05 09
+name_no_color: 050509
+name_no_size: 05 05 09
+name_no_type: Tray Vertical 05 05 09
+oomp_key: oomp_oobb_part_tray_vertical_05_05_09
+oomp_word: cake sailboat honeybee
+oomp_word_emoji: ':cake: :sailboat: :honeybee:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':sailboat:'
+- ':honeybee:'
+oomp_word_list:
+- cake
+- sailboat
+- honeybee
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 5305_size
+description_extra: ''
+description_main: 25_mm_id_62_mm_od_25.4_mm_depth
+directory: parts/hardware_bearing_5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+id: hardware_bearing_5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+id_no_class: bearing_5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+id_no_color: 25_mm_id_62_mm_od_25.4_mm_depth
+id_no_size: 5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+id_no_type: 5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+manufacturer: ''
+md5: 26e7e8011f7a1b0f59cfc5213ef1fdda
+md5_10: 26e7e8011f
+md5_10_upper: 26E7E8011F
+md5_5: 26e7e
+md5_5_upper: 26E7E
+md5_6: 26e7e8
+md5_6_alpha: 1ine0
+md5_6_alpha_upper: 1INE0
+md5_6_upper: 26E7E8
+name: Hardware Bearing 5300 Series 5305 Size 25 Mm Id 62 Mm Od 25.4 Mm Depth
+name_no_class: Bearing 5300 Series 5305 Size 25 Mm Id 62 Mm Od 25.4 Mm Depth
+name_no_color: 25 Mm Id 62 Mm Od 25.4 Mm Depth
+name_no_size: 5305 Size 25 Mm Id 62 Mm Od 25.4 Mm Depth
+name_no_type: 5300 Series 5305 Size 25 Mm Id 62 Mm Od 25.4 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5305_size_25_mm_id_62_mm_od_25.4_mm_depth
+oomp_word: eyes helicopter tram
+oomp_word_emoji: ':eyes: :helicopter: :tram:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':helicopter:'
+- ':tram:'
+oomp_word_list:
+- eyes
+- helicopter
+- tram
+part_number: ''
+size: 5300_series
+type: bearing

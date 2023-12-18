@@ -1,0 +1,40 @@
+classification: hardware
+color: 605_size
+description_extra: ''
+description_main: 5_mm_id_14_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+id: hardware_bearing_600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+id_no_class: bearing_600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+id_no_color: 5_mm_id_14_mm_od_5_mm_depth
+id_no_size: 605_size_5_mm_id_14_mm_od_5_mm_depth
+id_no_type: 600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+manufacturer: ''
+md5: 8e00a1875a06a57ff8abaf66b9dd1302
+md5_10: 8e00a1875a
+md5_10_upper: 8E00A1875A
+md5_5: 8e00a
+md5_5_upper: 8E00A
+md5_6: 8e00a1
+md5_6_alpha: 5jgrl
+md5_6_alpha_upper: 5JGRL
+md5_6_upper: 8E00A1
+name: Hardware Bearing 600 Series 605 Size 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 605 Size 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_color: 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_size: 605 Size 5 Mm Id 14 Mm Od 5 Mm Depth
+name_no_type: 600 Series 605 Size 5 Mm Id 14 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_605_size_5_mm_id_14_mm_od_5_mm_depth
+oomp_word: clipboard bowtie trophy
+oomp_word_emoji: ':clipboard: :bowtie: :trophy:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':bowtie:'
+- ':trophy:'
+oomp_word_list:
+- clipboard
+- bowtie
+- trophy
+part_number: ''
+size: 600_series
+type: bearing

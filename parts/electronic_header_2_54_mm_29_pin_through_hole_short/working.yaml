@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 29_pin
+directory: parts/electronic_header_2_54_mm_29_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_through_hole_short
+id: electronic_header_2_54_mm_29_pin_through_hole_short
+id_no_class: header_2_54_mm_29_pin_through_hole_short
+id_no_color: 29pinthroughholeshort
+id_no_size: 29_pin_through_hole_short
+id_no_type: 2_54_mm_29_pin_through_hole_short
+manufacturer: ''
+md5: c0c8c657912c8a0873ccd739236e4ca6
+md5_10: c0c8c65791
+md5_10_upper: C0C8C65791
+md5_5: c0c8c
+md5_5_upper: C0C8C
+md5_6: c0c8c6
+md5_6_alpha: 7isp2
+md5_6_alpha_upper: 7ISP2
+md5_6_upper: C0C8C6
+name: Electronic Header 2 54 Mm 29 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 29 Pin Through Hole Short
+name_no_color: 29Pinthroughholeshort
+name_no_size: 29 Pin Through Hole Short
+name_no_type: 2 54 Mm 29 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_29_pin_through_hole_short
+oomp_word: bread apple lollipop
+oomp_word_emoji: ':bread: :apple: :lollipop:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':apple:'
+- ':lollipop:'
+oomp_word_list:
+- bread
+- apple
+- lollipop
+part_number: ''
+size: 2_54_mm
+type: header

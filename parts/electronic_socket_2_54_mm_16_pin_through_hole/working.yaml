@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 16_pin
+directory: parts/electronic_socket_2_54_mm_16_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_16_pin_through_hole
+id: electronic_socket_2_54_mm_16_pin_through_hole
+id_no_class: socket_2_54_mm_16_pin_through_hole
+id_no_color: 16pinthroughhole
+id_no_size: 16_pin_through_hole
+id_no_type: 2_54_mm_16_pin_through_hole
+manufacturer: ''
+md5: 459f83af14de1aafa6b3151da4497501
+md5_10: 459f83af14
+md5_10_upper: 459F83AF14
+md5_5: 459f8
+md5_5_upper: 459F8
+md5_6: 459f83
+md5_6_alpha: 2psoz
+md5_6_alpha_upper: 2PSOZ
+md5_6_upper: 459F83
+name: Electronic Socket 2 54 Mm 16 Pin Through Hole
+name_no_class: Socket 2 54 Mm 16 Pin Through Hole
+name_no_color: 16Pinthroughhole
+name_no_size: 16 Pin Through Hole
+name_no_type: 2 54 Mm 16 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_16_pin_through_hole
+oomp_word: snake diamonds lock
+oomp_word_emoji: ':snake: :diamonds: :lock:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':diamonds:'
+- ':lock:'
+oomp_word_list:
+- snake
+- diamonds
+- lock
+part_number: ''
+size: 2_54_mm
+type: socket

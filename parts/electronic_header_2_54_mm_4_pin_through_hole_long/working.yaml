@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 4_pin
+directory: parts/electronic_header_2_54_mm_4_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_through_hole_long
+id: electronic_header_2_54_mm_4_pin_through_hole_long
+id_no_class: header_2_54_mm_4_pin_through_hole_long
+id_no_color: 4pinthroughholelong
+id_no_size: 4_pin_through_hole_long
+id_no_type: 2_54_mm_4_pin_through_hole_long
+manufacturer: ''
+md5: 6056993482340d64ea044e975236c568
+md5_10: '6056993482'
+md5_10_upper: '6056993482'
+md5_5: '60569'
+md5_5_upper: '60569'
+md5_6: '605699'
+md5_6_alpha: 3rbmh
+md5_6_alpha_upper: 3RBMH
+md5_6_upper: '605699'
+name: Electronic Header 2 54 Mm 4 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 4 Pin Through Hole Long
+name_no_color: 4Pinthroughholelong
+name_no_size: 4 Pin Through Hole Long
+name_no_type: 2 54 Mm 4 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_4_pin_through_hole_long
+oomp_word: poodle ram bowling
+oomp_word_emoji: ':poodle: :ram: :bowling:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':ram:'
+- ':bowling:'
+oomp_word_list:
+- poodle
+- ram
+- bowling
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_08_18'
+directory: parts/oobb_part_tray_thin_12_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_08_18
+id: oobb_part_tray_thin_12_08_18
+id_no_class: part_tray_thin_12_08_18
+id_no_color: '120818'
+id_no_size: '12_08_18'
+id_no_type: tray_thin_12_08_18
+manufacturer: ''
+md5: 6e0afb99bbb30d5ec3fb63edbe55eec3
+md5_10: 6e0afb99bb
+md5_10_upper: 6E0AFB99BB
+md5_5: 6e0af
+md5_5_upper: 6E0AF
+md5_6: 6e0afb
+md5_6_alpha: 4akmz
+md5_6_alpha_upper: 4AKMZ
+md5_6_upper: 6E0AFB
+name: Oobb Part Tray Thin 12 08 18
+name_no_class: Part Tray Thin 12 08 18
+name_no_color: '120818'
+name_no_size: 12 08 18
+name_no_type: Tray Thin 12 08 18
+oomp_key: oomp_oobb_part_tray_thin_12_08_18
+oomp_word: new_moon sleepy ok
+oomp_word_emoji: ':new_moon: :sleepy: :ok:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':sleepy:'
+- ':ok:'
+oomp_word_list:
+- new_moon
+- sleepy
+- ok
+part_number: ''
+size: tray_thin
+type: part

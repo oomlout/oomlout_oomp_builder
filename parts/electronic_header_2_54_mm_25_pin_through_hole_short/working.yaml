@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 25_pin
+directory: parts/electronic_header_2_54_mm_25_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_short
+id: electronic_header_2_54_mm_25_pin_through_hole_short
+id_no_class: header_2_54_mm_25_pin_through_hole_short
+id_no_color: 25pinthroughholeshort
+id_no_size: 25_pin_through_hole_short
+id_no_type: 2_54_mm_25_pin_through_hole_short
+manufacturer: ''
+md5: 6195980bda83aee7c1ebdf23ee713441
+md5_10: 6195980bda
+md5_10_upper: 6195980BDA
+md5_5: '61959'
+md5_5_upper: '61959'
+md5_6: '619598'
+md5_6_alpha: 3t2mw
+md5_6_alpha_upper: 3T2MW
+md5_6_upper: '619598'
+name: Electronic Header 2 54 Mm 25 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 25 Pin Through Hole Short
+name_no_color: 25Pinthroughholeshort
+name_no_size: 25 Pin Through Hole Short
+name_no_type: 2 54 Mm 25 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_25_pin_through_hole_short
+oomp_word: bouquet telescope tennis
+oomp_word_emoji: ':bouquet: :telescope: :tennis:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':telescope:'
+- ':tennis:'
+oomp_word_list:
+- bouquet
+- telescope
+- tennis
+part_number: ''
+size: 2_54_mm
+type: header

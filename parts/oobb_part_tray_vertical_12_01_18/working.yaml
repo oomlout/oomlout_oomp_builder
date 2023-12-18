@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_18'
+directory: parts/oobb_part_tray_vertical_12_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_01_18
+id: oobb_part_tray_vertical_12_01_18
+id_no_class: part_tray_vertical_12_01_18
+id_no_color: '120118'
+id_no_size: '12_01_18'
+id_no_type: tray_vertical_12_01_18
+manufacturer: ''
+md5: 09ab9af5486a5d6925a33f4401e2a742
+md5_10: 09ab9af548
+md5_10_upper: 09AB9AF548
+md5_5: 09ab9
+md5_5_upper: 09AB9
+md5_6: 09ab9a
+md5_6_alpha: dl0a
+md5_6_alpha_upper: DL0A
+md5_6_upper: 09AB9A
+name: Oobb Part Tray Vertical 12 01 18
+name_no_class: Part Tray Vertical 12 01 18
+name_no_color: '120118'
+name_no_size: 12 01 18
+name_no_type: Tray Vertical 12 01 18
+oomp_key: oomp_oobb_part_tray_vertical_12_01_18
+oomp_word: angry boot golf
+oomp_word_emoji: ':angry: :boot: :golf:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':boot:'
+- ':golf:'
+oomp_word_list:
+- angry
+- boot
+- golf
+part_number: ''
+size: tray_vertical
+type: part

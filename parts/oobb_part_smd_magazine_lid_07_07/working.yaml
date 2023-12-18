@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07'
+directory: parts/oobb_part_smd_magazine_lid_07_07
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_07_07
+id: oobb_part_smd_magazine_lid_07_07
+id_no_class: part_smd_magazine_lid_07_07
+id_no_color: '0707'
+id_no_size: '07_07'
+id_no_type: smd_magazine_lid_07_07
+manufacturer: ''
+md5: b5094d46858a845b155939ee7c87848d
+md5_10: b5094d4685
+md5_10_upper: B5094D4685
+md5_5: b5094
+md5_5_upper: B5094
+md5_6: b5094d
+md5_6_alpha: 72aml
+md5_6_alpha_upper: 72AML
+md5_6_upper: B5094D
+name: Oobb Part Smd Magazine Lid 07 07
+name_no_class: Part Smd Magazine Lid 07 07
+name_no_color: '0707'
+name_no_size: 07 07
+name_no_type: Smd Magazine Lid 07 07
+oomp_key: oomp_oobb_part_smd_magazine_lid_07_07
+oomp_word: tea angry bug
+oomp_word_emoji: ':tea: :angry: :bug:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':angry:'
+- ':bug:'
+oomp_word_list:
+- tea
+- angry
+- bug
+part_number: ''
+size: smd_magazine_lid
+type: part

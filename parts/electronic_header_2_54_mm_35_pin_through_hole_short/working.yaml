@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 35_pin
+directory: parts/electronic_header_2_54_mm_35_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_35_pin_through_hole_short
+id: electronic_header_2_54_mm_35_pin_through_hole_short
+id_no_class: header_2_54_mm_35_pin_through_hole_short
+id_no_color: 35pinthroughholeshort
+id_no_size: 35_pin_through_hole_short
+id_no_type: 2_54_mm_35_pin_through_hole_short
+manufacturer: ''
+md5: 42fd1ceb6fd2ff7262bfe4873d6ee179
+md5_10: 42fd1ceb6f
+md5_10_upper: 42FD1CEB6F
+md5_5: 42fd1
+md5_5_upper: 42FD1
+md5_6: 42fd1c
+md5_6_alpha: 2m3h8
+md5_6_alpha_upper: 2M3H8
+md5_6_upper: 42FD1C
+name: Electronic Header 2 54 Mm 35 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 35 Pin Through Hole Short
+name_no_color: 35Pinthroughholeshort
+name_no_size: 35 Pin Through Hole Short
+name_no_type: 2 54 Mm 35 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_35_pin_through_hole_short
+oomp_word: sheep parking dancer
+oomp_word_emoji: ':sheep: :parking: :dancer:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':parking:'
+- ':dancer:'
+oomp_word_list:
+- sheep
+- parking
+- dancer
+part_number: ''
+size: 2_54_mm
+type: header

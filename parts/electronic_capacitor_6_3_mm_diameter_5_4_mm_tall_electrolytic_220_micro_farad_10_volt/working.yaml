@@ -1,0 +1,42 @@
+classification: electronic
+color: electrolytic
+description_extra: 10_volt
+description_main: 220_micro_farad
+directory: parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+id: electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+id_no_class: capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+id_no_color: 220_micro_farad_10_volt
+id_no_size: electrolytic_220_micro_farad_10_volt
+id_no_type: 6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+manufacturer: ''
+md5: ca0122388156a808a16a1df64243b0c1
+md5_10: ca01223881
+md5_10_upper: CA01223881
+md5_5: ca012
+md5_5_upper: CA012
+md5_6: ca0122
+md5_6_alpha: 7vqxu
+md5_6_alpha_upper: 7VQXU
+md5_6_upper: CA0122
+name: Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad
+  10 Volt
+name_no_class: Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad
+  10 Volt
+name_no_color: 220 Micro Farad 10 Volt
+name_no_size: Electrolytic 220 Micro Farad 10 Volt
+name_no_type: 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt
+oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
+oomp_word: cherries smile lips
+oomp_word_emoji: ':cherries: :smile: :lips:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':smile:'
+- ':lips:'
+oomp_word_list:
+- cherries
+- smile
+- lips
+part_number: ''
+size: 6_3_mm_diameter_5_4_mm_tall
+type: capacitor

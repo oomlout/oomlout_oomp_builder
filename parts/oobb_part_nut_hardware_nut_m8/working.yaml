@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_nut_m8
+directory: parts/oobb_part_nut_hardware_nut_m8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m8
+id: oobb_part_nut_hardware_nut_m8
+id_no_class: part_nut_hardware_nut_m8
+id_no_color: hardwarem8
+id_no_size: hardware_m8
+id_no_type: nut_hardware_nut_m8
+manufacturer: ''
+md5: 5d9f1c6bfa465c2025c5dddd4ba3a99d
+md5_10: 5d9f1c6bfa
+md5_10_upper: 5D9F1C6BFA
+md5_5: 5d9f1
+md5_5_upper: 5D9F1
+md5_6: 5d9f1c
+md5_6_alpha: 3ni8s
+md5_6_alpha_upper: 3NI8S
+md5_6_upper: 5D9F1C
+name: Oobb Part Nut Hardware Nut M8
+name_no_class: Part Nut Hardware Nut M8
+name_no_color: Hardwarem8
+name_no_size: Hardware M8
+name_no_type: Nut Hardware Nut M8
+oomp_key: oomp_oobb_part_nut_hardware_nut_m8
+oomp_word: blowfish diamonds dancer
+oomp_word_emoji: ':blowfish: :diamonds: :dancer:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':diamonds:'
+- ':dancer:'
+oomp_word_list:
+- blowfish
+- diamonds
+- dancer
+part_number: ''
+size: nut
+type: part

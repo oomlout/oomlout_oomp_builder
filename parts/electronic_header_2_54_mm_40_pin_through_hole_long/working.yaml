@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 40_pin
+directory: parts/electronic_header_2_54_mm_40_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long
+id: electronic_header_2_54_mm_40_pin_through_hole_long
+id_no_class: header_2_54_mm_40_pin_through_hole_long
+id_no_color: 40pinthroughholelong
+id_no_size: 40_pin_through_hole_long
+id_no_type: 2_54_mm_40_pin_through_hole_long
+manufacturer: ''
+md5: a3dd70fc94d7c10975a0c721ffdf769f
+md5_10: a3dd70fc94
+md5_10_upper: A3DD70FC94
+md5_5: a3dd7
+md5_5_upper: A3DD7
+md5_6: a3dd70
+md5_6_alpha: 6e6b4
+md5_6_alpha_upper: 6E6B4
+md5_6_upper: A3DD70
+name: Electronic Header 2 54 Mm 40 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 40 Pin Through Hole Long
+name_no_color: 40Pinthroughholelong
+name_no_size: 40 Pin Through Hole Long
+name_no_type: 2 54 Mm 40 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_40_pin_through_hole_long
+oomp_word: pencil stars squirrel
+oomp_word_emoji: ':pencil: :stars: :squirrel:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':stars:'
+- ':squirrel:'
+oomp_word_list:
+- pencil
+- stars
+- squirrel
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '28_01_06'
+directory: parts/oobb_part_plate_28_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_28_01_06
+id: oobb_part_plate_28_01_06
+id_no_class: part_plate_28_01_06
+id_no_color: '280106'
+id_no_size: '28_01_06'
+id_no_type: plate_28_01_06
+manufacturer: ''
+md5: 6c1d7aea1bd37274082597da1d1d101b
+md5_10: 6c1d7aea1b
+md5_10_upper: 6C1D7AEA1B
+md5_5: 6c1d7
+md5_5_upper: 6C1D7
+md5_6: 6c1d7a
+md5_6_alpha: 47v5m
+md5_6_alpha_upper: 47V5M
+md5_6_upper: 6C1D7A
+name: Oobb Part Plate 28 01 06
+name_no_class: Part Plate 28 01 06
+name_no_color: '280106'
+name_no_size: 28 01 06
+name_no_type: Plate 28 01 06
+oomp_key: oomp_oobb_part_plate_28_01_06
+oomp_word: blossom baby camera
+oomp_word_emoji: ':blossom: :baby: :camera:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':baby:'
+- ':camera:'
+oomp_word_list:
+- blossom
+- baby
+- camera
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_09_09
+directory: parts/oobb_part_tray_04_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_09_09
+id: oobb_part_tray_04_09_09
+id_no_class: part_tray_04_09_09
+id_no_color: 040909
+id_no_size: 04_09_09
+id_no_type: tray_04_09_09
+manufacturer: ''
+md5: 49e6cbe3591d436504d2429fe544550d
+md5_10: 49e6cbe359
+md5_10_upper: 49E6CBE359
+md5_5: 49e6c
+md5_5_upper: 49E6C
+md5_6: 49e6cb
+md5_6_alpha: 2vt1n
+md5_6_alpha_upper: 2VT1N
+md5_6_upper: 49E6CB
+name: Oobb Part Tray 04 09 09
+name_no_class: Part Tray 04 09 09
+name_no_color: 040909
+name_no_size: 04 09 09
+name_no_type: Tray 04 09 09
+oomp_key: oomp_oobb_part_tray_04_09_09
+oomp_word: hatching_chick airplane grapes
+oomp_word_emoji: ':hatching_chick: :airplane: :grapes:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':airplane:'
+- ':grapes:'
+oomp_word_list:
+- hatching_chick
+- airplane
+- grapes
+part_number: ''
+size: tray
+type: part

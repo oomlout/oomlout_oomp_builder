@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 14_pin
+directory: parts/electronic_socket_2_54_mm_14_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_14_pin_through_hole
+id: electronic_socket_2_54_mm_14_pin_through_hole
+id_no_class: socket_2_54_mm_14_pin_through_hole
+id_no_color: 14pinthroughhole
+id_no_size: 14_pin_through_hole
+id_no_type: 2_54_mm_14_pin_through_hole
+manufacturer: ''
+md5: 28de62080a844ddc88f5990ee2dccf76
+md5_10: 28de62080a
+md5_10_upper: 28DE62080A
+md5_5: 28de6
+md5_5_upper: 28DE6
+md5_6: 28de62
+md5_6_alpha: 1len6
+md5_6_alpha_upper: 1LEN6
+md5_6_upper: 28DE62
+name: Electronic Socket 2 54 Mm 14 Pin Through Hole
+name_no_class: Socket 2 54 Mm 14 Pin Through Hole
+name_no_color: 14Pinthroughhole
+name_no_size: 14 Pin Through Hole
+name_no_type: 2 54 Mm 14 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_14_pin_through_hole
+oomp_word: tongue rainbow tulip
+oomp_word_emoji: ':tongue: :rainbow: :tulip:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':rainbow:'
+- ':tulip:'
+oomp_word_list:
+- tongue
+- rainbow
+- tulip
+part_number: ''
+size: 2_54_mm
+type: socket

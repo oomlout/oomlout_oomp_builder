@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_09
+directory: parts/oobb_part_tray_thin_08_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_05_09
+id: oobb_part_tray_thin_08_05_09
+id_no_class: part_tray_thin_08_05_09
+id_no_color: 080509
+id_no_size: 08_05_09
+id_no_type: tray_thin_08_05_09
+manufacturer: ''
+md5: bb56516940188839e0a565976ed66e9a
+md5_10: bb56516940
+md5_10_upper: BB56516940
+md5_5: bb565
+md5_5_upper: BB565
+md5_6: bb5651
+md5_6_alpha: 7b58x
+md5_6_alpha_upper: 7B58X
+md5_6_upper: BB5651
+name: Oobb Part Tray Thin 08 05 09
+name_no_class: Part Tray Thin 08 05 09
+name_no_color: 080509
+name_no_size: 08 05 09
+name_no_type: Tray Thin 08 05 09
+oomp_key: oomp_oobb_part_tray_thin_08_05_09
+oomp_word: curry ram snail
+oomp_word_emoji: ':curry: :ram: :snail:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':ram:'
+- ':snail:'
+oomp_word_list:
+- curry
+- ram
+- snail
+part_number: ''
+size: tray_thin
+type: part

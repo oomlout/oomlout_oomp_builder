@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_12'
+directory: parts/oobb_part_tray_vertical_11_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_11_12
+id: oobb_part_tray_vertical_11_11_12
+id_no_class: part_tray_vertical_11_11_12
+id_no_color: '111112'
+id_no_size: '11_11_12'
+id_no_type: tray_vertical_11_11_12
+manufacturer: ''
+md5: 93f31eb65166538526b8ab2386f98694
+md5_10: 93f31eb651
+md5_10_upper: 93F31EB651
+md5_5: 93f31
+md5_5_upper: 93F31
+md5_6: 93f31e
+md5_6_alpha: 5rti6
+md5_6_alpha_upper: 5RTI6
+md5_6_upper: 93F31E
+name: Oobb Part Tray Vertical 11 11 12
+name_no_class: Part Tray Vertical 11 11 12
+name_no_color: '111112'
+name_no_size: 11 11 12
+name_no_type: Tray Vertical 11 11 12
+oomp_key: oomp_oobb_part_tray_vertical_11_11_12
+oomp_word: books two angel
+oomp_word_emoji: ':books: :two: :angel:'
+oomp_word_emoji_list:
+- ':books:'
+- ':two:'
+- ':angel:'
+oomp_word_list:
+- books
+- two
+- angel
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_r
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_r
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_r
+id: oobb_part_bunting_alphabet_07_01_ex_r
+id_no_class: part_bunting_alphabet_07_01_ex_r
+id_no_color: 0701exr
+id_no_size: 07_01_ex_r
+id_no_type: bunting_alphabet_07_01_ex_r
+manufacturer: ''
+md5: e95a2dfcd12f8d5865e4c1a59abb45c0
+md5_10: e95a2dfcd1
+md5_10_upper: E95A2DFCD1
+md5_5: e95a2
+md5_5_upper: E95A2
+md5_6: e95a2d
+md5_6_alpha: 93s4t
+md5_6_alpha_upper: 93S4T
+md5_6_upper: E95A2D
+name: Oobb Part Bunting Alphabet 07 01 Ex R
+name_no_class: Part Bunting Alphabet 07 01 Ex R
+name_no_color: 0701Exr
+name_no_size: 07 01 Ex R
+name_no_type: Bunting Alphabet 07 01 Ex R
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_r
+oomp_word: bike goat snowman
+oomp_word_emoji: ':bike: :goat: :snowman:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':goat:'
+- ':snowman:'
+oomp_word_list:
+- bike
+- goat
+- snowman
+part_number: ''
+size: bunting_alphabet
+type: part

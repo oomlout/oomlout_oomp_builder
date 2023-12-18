@@ -1,0 +1,40 @@
+classification: hardware
+color: 6916_size
+description_extra: ''
+description_main: 80_mm_id_110_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+id: hardware_bearing_6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+id_no_class: bearing_6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+id_no_color: 80_mm_id_110_mm_od_16_mm_depth
+id_no_size: 6916_size_80_mm_id_110_mm_od_16_mm_depth
+id_no_type: 6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+manufacturer: ''
+md5: 3bbbd8805eb7d1368fc0a7b6dede2444
+md5_10: 3bbbd8805e
+md5_10_upper: 3BBBD8805E
+md5_5: 3bbbd
+md5_5_upper: 3BBBD
+md5_6: 3bbbd8
+md5_6_alpha: 2bwm0
+md5_6_alpha_upper: 2BWM0
+md5_6_upper: 3BBBD8
+name: Hardware Bearing 6900 Series 6916 Size 80 Mm Id 110 Mm Od 16 Mm Depth
+name_no_class: Bearing 6900 Series 6916 Size 80 Mm Id 110 Mm Od 16 Mm Depth
+name_no_color: 80 Mm Id 110 Mm Od 16 Mm Depth
+name_no_size: 6916 Size 80 Mm Id 110 Mm Od 16 Mm Depth
+name_no_type: 6900 Series 6916 Size 80 Mm Id 110 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6916_size_80_mm_id_110_mm_od_16_mm_depth
+oomp_word: bear curry hospital
+oomp_word_emoji: ':bear: :curry: :hospital:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':curry:'
+- ':hospital:'
+oomp_word_list:
+- bear
+- curry
+- hospital
+part_number: ''
+size: 6900_series
+type: bearing

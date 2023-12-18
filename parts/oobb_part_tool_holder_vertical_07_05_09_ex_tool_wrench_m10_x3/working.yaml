@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_05_09_ex_tool_wrench_m10_x3
+directory: parts/oobb_part_tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+id: oobb_part_tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+id_no_class: part_tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+id_no_color: 070509extoolwrenchm10x3
+id_no_size: 07_05_09_ex_tool_wrench_m10_x3
+id_no_type: tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+manufacturer: ''
+md5: 32fbe632833ba835b7a9c7506e38f926
+md5_10: 32fbe63283
+md5_10_upper: 32FBE63283
+md5_5: 32fbe
+md5_5_upper: 32FBE
+md5_6: 32fbe6
+md5_6_alpha: 1zm5i
+md5_6_alpha_upper: 1ZM5I
+md5_6_upper: 32FBE6
+name: Oobb Part Tool Holder Vertical 07 05 09 Ex Tool Wrench M10 X3
+name_no_class: Part Tool Holder Vertical 07 05 09 Ex Tool Wrench M10 X3
+name_no_color: 070509Extoolwrenchm10X3
+name_no_size: 07 05 09 Ex Tool Wrench M10 X3
+name_no_type: Tool Holder Vertical 07 05 09 Ex Tool Wrench M10 X3
+oomp_key: oomp_oobb_part_tool_holder_vertical_07_05_09_ex_tool_wrench_m10_x3
+oomp_word: cat ok airplane
+oomp_word_emoji: ':cat: :ok: :airplane:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':ok:'
+- ':airplane:'
+oomp_word_list:
+- cat
+- ok
+- airplane
+part_number: ''
+size: tool_holder_vertical
+type: part

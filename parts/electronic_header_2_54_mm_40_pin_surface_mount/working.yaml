@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 40_pin
+directory: parts/electronic_header_2_54_mm_40_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount
+id: electronic_header_2_54_mm_40_pin_surface_mount
+id_no_class: header_2_54_mm_40_pin_surface_mount
+id_no_color: 40pinsurfacemount
+id_no_size: 40_pin_surface_mount
+id_no_type: 2_54_mm_40_pin_surface_mount
+manufacturer: ''
+md5: 1bf3dc46bddd419a3f5204b3eca3199e
+md5_10: 1bf3dc46bd
+md5_10_upper: 1BF3DC46BD
+md5_5: 1bf3d
+md5_5_upper: 1BF3D
+md5_6: 1bf3dc
+md5_6_alpha: 139i4
+md5_6_alpha_upper: 139I4
+md5_6_upper: 1BF3DC
+name: Electronic Header 2 54 Mm 40 Pin Surface Mount
+name_no_class: Header 2 54 Mm 40 Pin Surface Mount
+name_no_color: 40Pinsurfacemount
+name_no_size: 40 Pin Surface Mount
+name_no_type: 2 54 Mm 40 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_40_pin_surface_mount
+oomp_word: muscle two factory
+oomp_word_emoji: ':muscle: :two: :factory:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':two:'
+- ':factory:'
+oomp_word_list:
+- muscle
+- two
+- factory
+part_number: ''
+size: 2_54_mm
+type: header

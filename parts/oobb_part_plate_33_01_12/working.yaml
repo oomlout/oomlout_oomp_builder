@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '33_01_12'
+directory: parts/oobb_part_plate_33_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_33_01_12
+id: oobb_part_plate_33_01_12
+id_no_class: part_plate_33_01_12
+id_no_color: '330112'
+id_no_size: '33_01_12'
+id_no_type: plate_33_01_12
+manufacturer: ''
+md5: ce87ff3d4a41ae4bc5b8e2355aae7b22
+md5_10: ce87ff3d4a
+md5_10_upper: CE87FF3D4A
+md5_5: ce87f
+md5_5_upper: CE87F
+md5_6: ce87ff
+md5_6_alpha: 823un
+md5_6_alpha_upper: 823UN
+md5_6_upper: CE87FF
+name: Oobb Part Plate 33 01 12
+name_no_class: Part Plate 33 01 12
+name_no_color: '330112'
+name_no_size: 33 01 12
+name_no_type: Plate 33 01 12
+oomp_key: oomp_oobb_part_plate_33_01_12
+oomp_word: peach toilet trident
+oomp_word_emoji: ':peach: :toilet: :trident:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':toilet:'
+- ':trident:'
+oomp_word_list:
+- peach
+- toilet
+- trident
+part_number: ''
+size: plate
+type: part

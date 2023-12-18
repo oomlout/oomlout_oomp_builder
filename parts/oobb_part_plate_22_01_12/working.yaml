@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '22_01_12'
+directory: parts/oobb_part_plate_22_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_01_12
+id: oobb_part_plate_22_01_12
+id_no_class: part_plate_22_01_12
+id_no_color: '220112'
+id_no_size: '22_01_12'
+id_no_type: plate_22_01_12
+manufacturer: ''
+md5: bbd8098326048de598ab8df39567a4cf
+md5_10: bbd8098326
+md5_10_upper: BBD8098326
+md5_5: bbd80
+md5_5_upper: BBD80
+md5_6: bbd809
+md5_6_alpha: 7buvd
+md5_6_alpha_upper: 7BUVD
+md5_6_upper: BBD809
+name: Oobb Part Plate 22 01 12
+name_no_class: Part Plate 22 01 12
+name_no_color: '220112'
+name_no_size: 22 01 12
+name_no_type: Plate 22 01 12
+oomp_key: oomp_oobb_part_plate_22_01_12
+oomp_word: curry hospital angry
+oomp_word_emoji: ':curry: :hospital: :angry:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':hospital:'
+- ':angry:'
+oomp_word_list:
+- curry
+- hospital
+- angry
+part_number: ''
+size: plate
+type: part

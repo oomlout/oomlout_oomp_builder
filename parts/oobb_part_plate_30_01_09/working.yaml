@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '30_01_09'
+directory: parts/oobb_part_plate_30_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_30_01_09
+id: oobb_part_plate_30_01_09
+id_no_class: part_plate_30_01_09
+id_no_color: '300109'
+id_no_size: '30_01_09'
+id_no_type: plate_30_01_09
+manufacturer: ''
+md5: d25ad6d2f05f74f6160bb57942a16195
+md5_10: d25ad6d2f0
+md5_10_upper: D25AD6D2F0
+md5_5: d25ad
+md5_5_upper: D25AD
+md5_6: d25ad6
+md5_6_alpha: 87h7a
+md5_6_alpha_upper: 87H7A
+md5_6_upper: D25AD6
+name: Oobb Part Plate 30 01 09
+name_no_class: Part Plate 30 01 09
+name_no_color: '300109'
+name_no_size: 30 01 09
+name_no_type: Plate 30 01 09
+oomp_key: oomp_oobb_part_plate_30_01_09
+oomp_word: pineapple goat school
+oomp_word_emoji: ':pineapple: :goat: :school:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':goat:'
+- ':school:'
+oomp_word_list:
+- pineapple
+- goat
+- school
+part_number: ''
+size: plate
+type: part

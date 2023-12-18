@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 29_pin
+directory: parts/electronic_socket_2_54_mm_29_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_29_pin_through_hole
+id: electronic_socket_2_54_mm_29_pin_through_hole
+id_no_class: socket_2_54_mm_29_pin_through_hole
+id_no_color: 29pinthroughhole
+id_no_size: 29_pin_through_hole
+id_no_type: 2_54_mm_29_pin_through_hole
+manufacturer: ''
+md5: db2e7a1229d0adf6a2537bdd2f15a654
+md5_10: db2e7a1229
+md5_10_upper: DB2E7A1229
+md5_5: db2e7
+md5_5_upper: DB2E7
+md5_6: db2e7a
+md5_6_alpha: 8jvju
+md5_6_alpha_upper: 8JVJU
+md5_6_upper: DB2E7A
+name: Electronic Socket 2 54 Mm 29 Pin Through Hole
+name_no_class: Socket 2 54 Mm 29 Pin Through Hole
+name_no_color: 29Pinthroughhole
+name_no_size: 29 Pin Through Hole
+name_no_type: 2 54 Mm 29 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_29_pin_through_hole
+oomp_word: tent zap camera
+oomp_word_emoji: ':tent: :zap: :camera:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':zap:'
+- ':camera:'
+oomp_word_list:
+- tent
+- zap
+- camera
+part_number: ''
+size: 2_54_mm
+type: socket

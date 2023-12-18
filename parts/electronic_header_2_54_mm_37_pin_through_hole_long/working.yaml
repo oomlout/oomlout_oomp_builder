@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 37_pin
+directory: parts/electronic_header_2_54_mm_37_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
+id: electronic_header_2_54_mm_37_pin_through_hole_long
+id_no_class: header_2_54_mm_37_pin_through_hole_long
+id_no_color: 37pinthroughholelong
+id_no_size: 37_pin_through_hole_long
+id_no_type: 2_54_mm_37_pin_through_hole_long
+manufacturer: ''
+md5: 237690371bbc1280416b09d54e4fa969
+md5_10: 237690371b
+md5_10_upper: 237690371B
+md5_5: '23769'
+md5_5_upper: '23769'
+md5_6: '237690'
+md5_6_alpha: 1dtao
+md5_6_alpha_upper: 1DTAO
+md5_6_upper: '237690'
+name: Electronic Header 2 54 Mm 37 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 37 Pin Through Hole Long
+name_no_color: 37Pinthroughholelong
+name_no_size: 37 Pin Through Hole Long
+name_no_type: 2 54 Mm 37 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_37_pin_through_hole_long
+oomp_word: kiss santa scissors
+oomp_word_emoji: ':kiss: :santa: :scissors:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':santa:'
+- ':scissors:'
+oomp_word_list:
+- kiss
+- santa
+- scissors
+part_number: ''
+size: 2_54_mm
+type: header

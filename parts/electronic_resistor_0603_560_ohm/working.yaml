@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_0603_560_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_560_ohm
+id: electronic_resistor_0603_560_ohm
+id_no_class: resistor_0603_560_ohm
+id_no_color: 560ohm
+id_no_size: 560_ohm
+id_no_type: 0603_560_ohm
+manufacturer: ''
+md5: 18768550518624924d81808590b67894
+md5_10: '1876855051'
+md5_10_upper: '1876855051'
+md5_5: '18768'
+md5_5_upper: '18768'
+md5_6: '187685'
+md5_6_alpha: yd1h
+md5_6_alpha_upper: YD1H
+md5_6_upper: '187685'
+name: Electronic Resistor 0603 560 Ohm
+name_no_class: Resistor 0603 560 Ohm
+name_no_color: 560Ohm
+name_no_size: 560 Ohm
+name_no_type: 0603 560 Ohm
+oomp_key: oomp_electronic_resistor_0603_560_ohm
+oomp_word: hand santa bulb
+oomp_word_emoji: ':hand: :santa: :bulb:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':santa:'
+- ':bulb:'
+oomp_word_list:
+- hand
+- santa
+- bulb
+part_number: ''
+size: '0603'
+type: resistor

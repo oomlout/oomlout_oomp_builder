@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_06_ex_i2c
+directory: parts/oobb_part_wire_02_03_06_ex_i2c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_02_03_06_ex_i2c
+id: oobb_part_wire_02_03_06_ex_i2c
+id_no_class: part_wire_02_03_06_ex_i2c
+id_no_color: 020306exi2c
+id_no_size: 02_03_06_ex_i2c
+id_no_type: wire_02_03_06_ex_i2c
+manufacturer: ''
+md5: c5ae62157dd57e8477ab065b00c134f6
+md5_10: c5ae62157d
+md5_10_upper: C5AE62157D
+md5_5: c5ae6
+md5_5_upper: C5AE6
+md5_6: c5ae62
+md5_6_alpha: 7pobm
+md5_6_alpha_upper: 7POBM
+md5_6_upper: C5AE62
+name: Oobb Part Wire 02 03 06 Ex I2C
+name_no_class: Part Wire 02 03 06 Ex I2C
+name_no_color: 020306Exi2C
+name_no_size: 02 03 06 Ex I2C
+name_no_type: Wire 02 03 06 Ex I2C
+oomp_key: oomp_oobb_part_wire_02_03_06_ex_i2c
+oomp_word: candy jeans tulip
+oomp_word_emoji: ':candy: :jeans: :tulip:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':jeans:'
+- ':tulip:'
+oomp_word_list:
+- candy
+- jeans
+- tulip
+part_number: ''
+size: wire
+type: part

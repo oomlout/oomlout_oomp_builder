@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1500000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_1500000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1500000_ohm
+id: electronic_resistor_quarter_watt_through_hole_1500000_ohm
+id_no_class: resistor_quarter_watt_through_hole_1500000_ohm
+id_no_color: 1500000ohm
+id_no_size: 1500000_ohm
+id_no_type: quarter_watt_through_hole_1500000_ohm
+manufacturer: ''
+md5: b1868bade5d80448a8f23e9d0c5bc4f0
+md5_10: b1868bade5
+md5_10_upper: B1868BADE5
+md5_5: b1868
+md5_5_upper: B1868
+md5_6: b1868b
+md5_6_alpha: 6xd3f
+md5_6_alpha_upper: 6XD3F
+md5_6_upper: B1868B
+name: Electronic Resistor Quarter Watt Through Hole 1500000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 1500000 Ohm
+name_no_color: 1500000Ohm
+name_no_size: 1500000 Ohm
+name_no_type: Quarter Watt Through Hole 1500000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1500000_ohm
+oomp_word: briefcase bath door
+oomp_word_emoji: ':briefcase: :bath: :door:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':bath:'
+- ':door:'
+oomp_word_list:
+- briefcase
+- bath
+- door
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

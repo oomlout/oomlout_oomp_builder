@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_09
+directory: parts/oobb_part_tray_vertical_2d5_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_04_09
+id: oobb_part_tray_vertical_2d5_04_09
+id_no_class: part_tray_vertical_2d5_04_09
+id_no_color: 2d50409
+id_no_size: 2d5_04_09
+id_no_type: tray_vertical_2d5_04_09
+manufacturer: ''
+md5: 8639678834516c996e417a599658d87b
+md5_10: '8639678834'
+md5_10_upper: '8639678834'
+md5_5: '86396'
+md5_5_upper: '86396'
+md5_6: '863967'
+md5_6_alpha: 58jfr
+md5_6_alpha_upper: 58JFR
+md5_6_upper: '863967'
+name: Oobb Part Tray Vertical 2D5 04 09
+name_no_class: Part Tray Vertical 2D5 04 09
+name_no_color: 2D50409
+name_no_size: 2D5 04 09
+name_no_type: Tray Vertical 2D5 04 09
+oomp_key: oomp_oobb_part_tray_vertical_2d5_04_09
+oomp_word: bath tiger herb
+oomp_word_emoji: ':bath: :tiger: :herb:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':tiger:'
+- ':herb:'
+oomp_word_list:
+- bath
+- tiger
+- herb
+part_number: ''
+size: tray_vertical
+type: part

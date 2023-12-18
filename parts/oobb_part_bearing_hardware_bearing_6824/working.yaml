@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6824
+directory: parts/oobb_part_bearing_hardware_bearing_6824
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6824
+id: oobb_part_bearing_hardware_bearing_6824
+id_no_class: part_bearing_hardware_bearing_6824
+id_no_color: hardware6824
+id_no_size: hardware_6824
+id_no_type: bearing_hardware_bearing_6824
+manufacturer: ''
+md5: 30d34e457fc07663f94046bc7fad3d42
+md5_10: 30d34e457f
+md5_10_upper: 30D34E457F
+md5_5: 30d34
+md5_5_upper: 30D34
+md5_6: 30d34e
+md5_6_alpha: 1wkzy
+md5_6_alpha_upper: 1WKZY
+md5_6_upper: 30D34E
+name: Oobb Part Bearing Hardware Bearing 6824
+name_no_class: Part Bearing Hardware Bearing 6824
+name_no_color: Hardware6824
+name_no_size: Hardware 6824
+name_no_type: Bearing Hardware Bearing 6824
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6824
+oomp_word: foggy tomato honeybee
+oomp_word_emoji: ':foggy: :tomato: :honeybee:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':tomato:'
+- ':honeybee:'
+oomp_word_list:
+- foggy
+- tomato
+- honeybee
+part_number: ''
+size: bearing
+type: part

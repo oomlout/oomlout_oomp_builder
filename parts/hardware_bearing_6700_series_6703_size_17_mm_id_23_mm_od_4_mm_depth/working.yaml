@@ -1,0 +1,40 @@
+classification: hardware
+color: 6703_size
+description_extra: ''
+description_main: 17_mm_id_23_mm_od_4_mm_depth
+directory: parts/hardware_bearing_6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+id: hardware_bearing_6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+id_no_class: bearing_6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+id_no_color: 17_mm_id_23_mm_od_4_mm_depth
+id_no_size: 6703_size_17_mm_id_23_mm_od_4_mm_depth
+id_no_type: 6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+manufacturer: ''
+md5: a2d77c77a1bfe15271647fe65169f843
+md5_10: a2d77c77a1
+md5_10_upper: A2D77C77A1
+md5_5: a2d77
+md5_5_upper: A2D77
+md5_6: a2d77c
+md5_6_alpha: 6cqkc
+md5_6_alpha_upper: 6CQKC
+md5_6_upper: A2D77C
+name: Hardware Bearing 6700 Series 6703 Size 17 Mm Id 23 Mm Od 4 Mm Depth
+name_no_class: Bearing 6700 Series 6703 Size 17 Mm Id 23 Mm Od 4 Mm Depth
+name_no_color: 17 Mm Id 23 Mm Od 4 Mm Depth
+name_no_size: 6703 Size 17 Mm Id 23 Mm Od 4 Mm Depth
+name_no_type: 6700 Series 6703 Size 17 Mm Id 23 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_6700_series_6703_size_17_mm_id_23_mm_od_4_mm_depth
+oomp_word: violin office tv
+oomp_word_emoji: ':violin: :office: :tv:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':office:'
+- ':tv:'
+oomp_word_list:
+- violin
+- office
+- tv
+part_number: ''
+size: 6700_series
+type: bearing

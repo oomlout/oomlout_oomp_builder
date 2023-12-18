@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_e
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_e
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_e
+id: oobb_part_bunting_alphabet_07_01_ex_e
+id_no_class: part_bunting_alphabet_07_01_ex_e
+id_no_color: 0701exe
+id_no_size: 07_01_ex_e
+id_no_type: bunting_alphabet_07_01_ex_e
+manufacturer: ''
+md5: ba034619948fa5494b13616956a732b1
+md5_10: ba03461994
+md5_10_upper: BA03461994
+md5_5: ba034
+md5_5_upper: BA034
+md5_6: ba0346
+md5_6_alpha: 79a9y
+md5_6_alpha_upper: 79A9Y
+md5_6_upper: BA0346
+name: Oobb Part Bunting Alphabet 07 01 Ex E
+name_no_class: Part Bunting Alphabet 07 01 Ex E
+name_no_color: 0701Exe
+name_no_size: 07 01 Ex E
+name_no_type: Bunting Alphabet 07 01 Ex E
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_e
+oomp_word: spaghetti grin bird
+oomp_word_emoji: ':spaghetti: :grin: :bird:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':grin:'
+- ':bird:'
+oomp_word_list:
+- spaghetti
+- grin
+- bird
+part_number: ''
+size: bunting_alphabet
+type: part

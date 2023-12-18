@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_09'
+directory: parts/oobb_part_tray_vertical_12_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_12_09
+id: oobb_part_tray_vertical_12_12_09
+id_no_class: part_tray_vertical_12_12_09
+id_no_color: '121209'
+id_no_size: '12_12_09'
+id_no_type: tray_vertical_12_12_09
+manufacturer: ''
+md5: b9eba3538f72b611d346453c158a33dd
+md5_10: b9eba3538f
+md5_10_upper: B9EBA3538F
+md5_5: b9eba
+md5_5_upper: B9EBA
+md5_6: b9eba3
+md5_6_alpha: 795lv
+md5_6_alpha_upper: 795LV
+md5_6_upper: B9EBA3
+name: Oobb Part Tray Vertical 12 12 09
+name_no_class: Part Tray Vertical 12 12 09
+name_no_color: '121209'
+name_no_size: 12 12 09
+name_no_type: Tray Vertical 12 12 09
+oomp_key: oomp_oobb_part_tray_vertical_12_12_09
+oomp_word: fries car pencil
+oomp_word_emoji: ':fries: :car: :pencil:'
+oomp_word_emoji_list:
+- ':fries:'
+- ':car:'
+- ':pencil:'
+oomp_word_list:
+- fries
+- car
+- pencil
+part_number: ''
+size: tray_vertical
+type: part

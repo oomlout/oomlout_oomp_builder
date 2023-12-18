@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_1d5_12
+directory: parts/oobb_part_tray_vertical_09_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_1d5_12
+id: oobb_part_tray_vertical_09_1d5_12
+id_no_class: part_tray_vertical_09_1d5_12
+id_no_color: 091d512
+id_no_size: 09_1d5_12
+id_no_type: tray_vertical_09_1d5_12
+manufacturer: ''
+md5: 93dc25367b74c6d2688df285018c6c56
+md5_10: 93dc25367b
+md5_10_upper: 93DC25367B
+md5_5: 93dc2
+md5_5_upper: 93DC2
+md5_6: 93dc25
+md5_6_alpha: 5royt
+md5_6_alpha_upper: 5ROYT
+md5_6_upper: 93DC25
+name: Oobb Part Tray Vertical 09 1D5 12
+name_no_class: Part Tray Vertical 09 1D5 12
+name_no_color: 091D512
+name_no_size: 09 1D5 12
+name_no_type: Tray Vertical 09 1D5 12
+oomp_key: oomp_oobb_part_tray_vertical_09_1d5_12
+oomp_word: books factory ear
+oomp_word_emoji: ':books: :factory: :ear:'
+oomp_word_emoji_list:
+- ':books:'
+- ':factory:'
+- ':ear:'
+oomp_word_list:
+- books
+- factory
+- ear
+part_number: ''
+size: tray_vertical
+type: part

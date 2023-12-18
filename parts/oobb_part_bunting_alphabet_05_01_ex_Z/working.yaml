@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_z
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_z
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_z
+id: oobb_part_bunting_alphabet_05_01_ex_z
+id_no_class: part_bunting_alphabet_05_01_ex_z
+id_no_color: 0501exz
+id_no_size: 05_01_ex_z
+id_no_type: bunting_alphabet_05_01_ex_z
+manufacturer: ''
+md5: ec31499a71ee0918643650987e466332
+md5_10: ec31499a71
+md5_10_upper: EC31499A71
+md5_5: ec314
+md5_5_upper: EC314
+md5_6: ec3149
+md5_6_alpha: 97rrd
+md5_6_alpha_upper: 97RRD
+md5_6_upper: EC3149
+name: Oobb Part Bunting Alphabet 05 01 Ex Z
+name_no_class: Part Bunting Alphabet 05 01 Ex Z
+name_no_color: 0501Exz
+name_no_size: 05 01 Ex Z
+name_no_type: Bunting Alphabet 05 01 Ex Z
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_z
+oomp_word: taxi ocean hatching_chick
+oomp_word_emoji: ':taxi: :ocean: :hatching_chick:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':ocean:'
+- ':hatching_chick:'
+oomp_word_list:
+- taxi
+- ocean
+- hatching_chick
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_10_09
+directory: parts/oobb_part_tray_01_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_10_09
+id: oobb_part_tray_01_10_09
+id_no_class: part_tray_01_10_09
+id_no_color: 011009
+id_no_size: 01_10_09
+id_no_type: tray_01_10_09
+manufacturer: ''
+md5: 856fb73d0b9439a518c00ffba804861f
+md5_10: 856fb73d0b
+md5_10_upper: 856FB73D0B
+md5_5: 856fb
+md5_5_upper: 856FB
+md5_6: 856fb7
+md5_6_alpha: 57flj
+md5_6_alpha_upper: 57FLJ
+md5_6_upper: 856FB7
+name: Oobb Part Tray 01 10 09
+name_no_class: Part Tray 01 10 09
+name_no_color: 011009
+name_no_size: 01 10 09
+name_no_type: Tray 01 10 09
+oomp_key: oomp_oobb_part_tray_01_10_09
+oomp_word: bulb moon pizza
+oomp_word_emoji: ':bulb: :moon: :pizza:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':moon:'
+- ':pizza:'
+oomp_word_list:
+- bulb
+- moon
+- pizza
+part_number: ''
+size: tray
+type: part

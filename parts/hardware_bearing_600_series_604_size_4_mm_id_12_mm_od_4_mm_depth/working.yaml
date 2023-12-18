@@ -1,0 +1,40 @@
+classification: hardware
+color: 604_size
+description_extra: ''
+description_main: 4_mm_id_12_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+id: hardware_bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_class: bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_color: 4_mm_id_12_mm_od_4_mm_depth
+id_no_size: 604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_type: 600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+manufacturer: ''
+md5: 9520e9bb4764d95b06b9149661c60c95
+md5_10: 9520e9bb47
+md5_10_upper: 9520E9BB47
+md5_5: 9520e
+md5_5_upper: 9520E
+md5_6: 9520e9
+md5_6_alpha: 5th49
+md5_6_alpha_upper: 5TH49
+md5_6_upper: 9520E9
+name: Hardware Bearing 600 Series 604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_color: 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_size: 604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_type: 600 Series 604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
+oomp_word: telescope skull bike
+oomp_word_emoji: ':telescope: :skull: :bike:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':skull:'
+- ':bike:'
+oomp_word_list:
+- telescope
+- skull
+- bike
+part_number: ''
+size: 600_series
+type: bearing

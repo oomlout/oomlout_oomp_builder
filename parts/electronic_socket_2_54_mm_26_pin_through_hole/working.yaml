@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 26_pin
+directory: parts/electronic_socket_2_54_mm_26_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_26_pin_through_hole
+id: electronic_socket_2_54_mm_26_pin_through_hole
+id_no_class: socket_2_54_mm_26_pin_through_hole
+id_no_color: 26pinthroughhole
+id_no_size: 26_pin_through_hole
+id_no_type: 2_54_mm_26_pin_through_hole
+manufacturer: ''
+md5: 409354d33397a178522f9289495e595d
+md5_10: 409354d333
+md5_10_upper: 409354D333
+md5_5: '40935'
+md5_5_upper: '40935'
+md5_6: '409354'
+md5_6_alpha: 2ipg4
+md5_6_alpha_upper: 2IPG4
+md5_6_upper: '409354'
+name: Electronic Socket 2 54 Mm 26 Pin Through Hole
+name_no_class: Socket 2 54 Mm 26 Pin Through Hole
+name_no_color: 26Pinthroughhole
+name_no_size: 26 Pin Through Hole
+name_no_type: 2 54 Mm 26 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_26_pin_through_hole
+oomp_word: racehorse books whale
+oomp_word_emoji: ':racehorse: :books: :whale:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':books:'
+- ':whale:'
+oomp_word_list:
+- racehorse
+- books
+- whale
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_02'
+directory: parts/oobb_part_smd_magazine_lid_02_02
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_02_02
+id: oobb_part_smd_magazine_lid_02_02
+id_no_class: part_smd_magazine_lid_02_02
+id_no_color: '0202'
+id_no_size: '02_02'
+id_no_type: smd_magazine_lid_02_02
+manufacturer: ''
+md5: 2968ad995bf549c044bb8cc947bb2de9
+md5_10: 2968ad995b
+md5_10_upper: 2968AD995B
+md5_5: 2968a
+md5_5_upper: 2968A
+md5_6: 2968ad
+md5_6_alpha: 1m5yl
+md5_6_alpha_upper: 1M5YL
+md5_6_upper: 2968AD
+name: Oobb Part Smd Magazine Lid 02 02
+name_no_class: Part Smd Magazine Lid 02 02
+name_no_color: '0202'
+name_no_size: 02 02
+name_no_type: Smd Magazine Lid 02 02
+oomp_key: oomp_oobb_part_smd_magazine_lid_02_02
+oomp_word: sunny mushroom dress
+oomp_word_emoji: ':sunny: :mushroom: :dress:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':mushroom:'
+- ':dress:'
+oomp_word_list:
+- sunny
+- mushroom
+- dress
+part_number: ''
+size: smd_magazine_lid
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_16_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+id_no_color: 0106ex16teethshieldshm3
+id_no_size: 01_06_ex_16_teeth_shield_sh_m3
+id_no_type: pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+manufacturer: ''
+md5: d78bba0b3e8023491ec509e84728fd59
+md5_10: d78bba0b3e
+md5_10_upper: D78BBA0B3E
+md5_5: d78bb
+md5_5_upper: D78BB
+md5_6: d78bba
+md5_6_alpha: 8erp6
+md5_6_alpha_upper: 8ERP6
+md5_6_upper: D78BBA
+name: Oobb Part Pulley Gt2 01 06 Ex 16 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 01 06 Ex 16 Teeth Shield Sh M3
+name_no_color: 0106Ex16Teethshieldshm3
+name_no_size: 01 06 Ex 16 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 01 06 Ex 16 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_16_teeth_shield_sh_m3
+oomp_word: office door spaghetti
+oomp_word_emoji: ':office: :door: :spaghetti:'
+oomp_word_emoji_list:
+- ':office:'
+- ':door:'
+- ':spaghetti:'
+oomp_word_list:
+- office
+- door
+- spaghetti
+part_number: ''
+size: pulley_gt2
+type: part

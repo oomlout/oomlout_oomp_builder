@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_z
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_z
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_z
+id: oobb_part_bunting_alphabet_07_01_ex_z
+id_no_class: part_bunting_alphabet_07_01_ex_z
+id_no_color: 0701exz
+id_no_size: 07_01_ex_z
+id_no_type: bunting_alphabet_07_01_ex_z
+manufacturer: ''
+md5: 68a5f24a2109f84a9cadcb00821e8a7a
+md5_10: 68a5f24a21
+md5_10_upper: 68A5F24A21
+md5_5: 68a5f
+md5_5_upper: 68A5F
+md5_6: 68a5f2
+md5_6_alpha: 42zua
+md5_6_alpha_upper: 42ZUA
+md5_6_upper: 68A5F2
+name: Oobb Part Bunting Alphabet 07 01 Ex Z
+name_no_class: Part Bunting Alphabet 07 01 Ex Z
+name_no_color: 0701Exz
+name_no_size: 07 01 Ex Z
+name_no_type: Bunting Alphabet 07 01 Ex Z
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_z
+oomp_word: mushroom headphones one
+oomp_word_emoji: ':mushroom: :headphones: :one:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':headphones:'
+- ':one:'
+oomp_word_list:
+- mushroom
+- headphones
+- one
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_15_ex_u
+directory: parts/oobb_part_plate_03_03_15_ex_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_15_ex_u
+id: oobb_part_plate_03_03_15_ex_u
+id_no_class: part_plate_03_03_15_ex_u
+id_no_color: 030315exu
+id_no_size: 03_03_15_ex_u
+id_no_type: plate_03_03_15_ex_u
+manufacturer: ''
+md5: 5d38d85d62ca0d4ec2de1eed8958ab1d
+md5_10: 5d38d85d62
+md5_10_upper: 5D38D85D62
+md5_5: 5d38d
+md5_5_upper: 5D38D
+md5_6: 5d38d8
+md5_6_alpha: 3my1k
+md5_6_alpha_upper: 3MY1K
+md5_6_upper: 5D38D8
+name: Oobb Part Plate 03 03 15 Ex U
+name_no_class: Part Plate 03 03 15 Ex U
+name_no_color: 030315Exu
+name_no_size: 03 03 15 Ex U
+name_no_type: Plate 03 03 15 Ex U
+oomp_key: oomp_oobb_part_plate_03_03_15_ex_u
+oomp_word: blowfish frog hospital
+oomp_word_emoji: ':blowfish: :frog: :hospital:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':frog:'
+- ':hospital:'
+oomp_word_list:
+- blowfish
+- frog
+- hospital
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_12'
+directory: parts/oobb_part_tray_vertical_05_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_03_12
+id: oobb_part_tray_vertical_05_03_12
+id_no_class: part_tray_vertical_05_03_12
+id_no_color: '050312'
+id_no_size: '05_03_12'
+id_no_type: tray_vertical_05_03_12
+manufacturer: ''
+md5: 58b859e675dba1b0d1b5f96743ea186a
+md5_10: 58b859e675
+md5_10_upper: 58B859E675
+md5_5: 58b85
+md5_5_upper: 58B85
+md5_6: 58b859
+md5_6_alpha: 3gme1
+md5_6_alpha_upper: 3GME1
+md5_6_upper: 58B859
+name: Oobb Part Tray Vertical 05 03 12
+name_no_class: Part Tray Vertical 05 03 12
+name_no_color: '050312'
+name_no_size: 05 03 12
+name_no_type: Tray Vertical 05 03 12
+oomp_key: oomp_oobb_part_tray_vertical_05_03_12
+oomp_word: water_buffalo hamburger dragon
+oomp_word_emoji: ':water_buffalo: :hamburger: :dragon:'
+oomp_word_emoji_list:
+- ':water_buffalo:'
+- ':hamburger:'
+- ':dragon:'
+oomp_word_list:
+- water_buffalo
+- hamburger
+- dragon
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_w
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_w
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_w
+id: oobb_part_bunting_alphabet_05_01_ex_w
+id_no_class: part_bunting_alphabet_05_01_ex_w
+id_no_color: 0501exw
+id_no_size: 05_01_ex_w
+id_no_type: bunting_alphabet_05_01_ex_w
+manufacturer: ''
+md5: 9b6bd530cb9c78bb2fe567f2c1156cb5
+md5_10: 9b6bd530cb
+md5_10_upper: 9B6BD530CB
+md5_5: 9b6bd
+md5_5_upper: 9B6BD
+md5_6: 9b6bd5
+md5_6_alpha: 62bbp
+md5_6_alpha_upper: 62BBP
+md5_6_upper: 9B6BD5
+name: Oobb Part Bunting Alphabet 05 01 Ex W
+name_no_class: Part Bunting Alphabet 05 01 Ex W
+name_no_color: 0501Exw
+name_no_size: 05 01 Ex W
+name_no_type: Bunting Alphabet 05 01 Ex W
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_w
+oomp_word: ski chestnut house
+oomp_word_emoji: ':ski: :chestnut: :house:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':chestnut:'
+- ':house:'
+oomp_word_list:
+- ski
+- chestnut
+- house
+part_number: ''
+size: bunting_alphabet
+type: part

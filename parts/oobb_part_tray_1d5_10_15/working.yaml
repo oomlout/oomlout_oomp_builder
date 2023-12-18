@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_10_15
+directory: parts/oobb_part_tray_1d5_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_10_15
+id: oobb_part_tray_1d5_10_15
+id_no_class: part_tray_1d5_10_15
+id_no_color: 1d51015
+id_no_size: 1d5_10_15
+id_no_type: tray_1d5_10_15
+manufacturer: ''
+md5: 01ed351d5bc43f5afc95e96c3550a974
+md5_10: 01ed351d5b
+md5_10_upper: 01ED351D5B
+md5_5: 01ed3
+md5_5_upper: 01ED3
+md5_6: 01ed35
+md5_6_alpha: 2pf9
+md5_6_alpha_upper: 2PF9
+md5_6_upper: 01ED35
+name: Oobb Part Tray 1D5 10 15
+name_no_class: Part Tray 1D5 10 15
+name_no_color: 1D51015
+name_no_size: 1D5 10 15
+name_no_type: Tray 1D5 10 15
+oomp_key: oomp_oobb_part_tray_1d5_10_15
+oomp_word: smile bus hamster
+oomp_word_emoji: ':smile: :bus: :hamster:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':bus:'
+- ':hamster:'
+oomp_word_list:
+- smile
+- bus
+- hamster
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_02_15'
+directory: parts/oobb_part_tray_thin_02_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_02_15
+id: oobb_part_tray_thin_02_02_15
+id_no_class: part_tray_thin_02_02_15
+id_no_color: '020215'
+id_no_size: '02_02_15'
+id_no_type: tray_thin_02_02_15
+manufacturer: ''
+md5: d3d6d2816e7b24599d4c8cafb17d3c32
+md5_10: d3d6d2816e
+md5_10_upper: D3D6D2816E
+md5_5: d3d6d
+md5_5_upper: D3D6D
+md5_6: d3d6d2
+md5_6_alpha: 89k9e
+md5_6_alpha_upper: 89K9E
+md5_6_upper: D3D6D2
+name: Oobb Part Tray Thin 02 02 15
+name_no_class: Part Tray Thin 02 02 15
+name_no_color: '020215'
+name_no_size: 02 02 15
+name_no_type: Tray Thin 02 02 15
+oomp_key: oomp_oobb_part_tray_thin_02_02_15
+oomp_word: tomato school pineapple
+oomp_word_emoji: ':tomato: :school: :pineapple:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':school:'
+- ':pineapple:'
+oomp_word_list:
+- tomato
+- school
+- pineapple
+part_number: ''
+size: tray_thin
+type: part

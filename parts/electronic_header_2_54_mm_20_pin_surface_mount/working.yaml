@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 20_pin
+directory: parts/electronic_header_2_54_mm_20_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_surface_mount
+id: electronic_header_2_54_mm_20_pin_surface_mount
+id_no_class: header_2_54_mm_20_pin_surface_mount
+id_no_color: 20pinsurfacemount
+id_no_size: 20_pin_surface_mount
+id_no_type: 2_54_mm_20_pin_surface_mount
+manufacturer: ''
+md5: 72d19a975b938b0d735bffe1daa30aaf
+md5_10: 72d19a975b
+md5_10_upper: 72D19A975B
+md5_5: 72d19
+md5_5_upper: 72D19
+md5_6: 72d19a
+md5_6_alpha: 4ha56
+md5_6_alpha_upper: 4HA56
+md5_6_upper: 72D19A
+name: Electronic Header 2 54 Mm 20 Pin Surface Mount
+name_no_class: Header 2 54 Mm 20 Pin Surface Mount
+name_no_color: 20Pinsurfacemount
+name_no_size: 20 Pin Surface Mount
+name_no_type: 2 54 Mm 20 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_20_pin_surface_mount
+oomp_word: dolls pear golf
+oomp_word_emoji: ':dolls: :pear: :golf:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':pear:'
+- ':golf:'
+oomp_word_list:
+- dolls
+- pear
+- golf
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 12_pin
+directory: parts/electronic_header_2_54_mm_12_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole_short
+id: electronic_header_2_54_mm_12_pin_through_hole_short
+id_no_class: header_2_54_mm_12_pin_through_hole_short
+id_no_color: 12pinthroughholeshort
+id_no_size: 12_pin_through_hole_short
+id_no_type: 2_54_mm_12_pin_through_hole_short
+manufacturer: ''
+md5: 83964ba4ea176c1e87b7d61a857dc394
+md5_10: 83964ba4ea
+md5_10_upper: 83964BA4EA
+md5_5: '83964'
+md5_5_upper: '83964'
+md5_6: 83964b
+md5_6_alpha: 54u2z
+md5_6_alpha_upper: 54U2Z
+md5_6_upper: 83964B
+name: Electronic Header 2 54 Mm 12 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 12 Pin Through Hole Short
+name_no_color: 12Pinthroughholeshort
+name_no_size: 12 Pin Through Hole Short
+name_no_type: 2 54 Mm 12 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole_short
+oomp_word: lock basketball penguin
+oomp_word_emoji: ':lock: :basketball: :penguin:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':basketball:'
+- ':penguin:'
+oomp_word_list:
+- lock
+- basketball
+- penguin
+part_number: ''
+size: 2_54_mm
+type: header

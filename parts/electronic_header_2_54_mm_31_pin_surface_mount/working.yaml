@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 31_pin
+directory: parts/electronic_header_2_54_mm_31_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_surface_mount
+id: electronic_header_2_54_mm_31_pin_surface_mount
+id_no_class: header_2_54_mm_31_pin_surface_mount
+id_no_color: 31pinsurfacemount
+id_no_size: 31_pin_surface_mount
+id_no_type: 2_54_mm_31_pin_surface_mount
+manufacturer: ''
+md5: 3bbe7617b71ec464cf5c0a9b99d33893
+md5_10: 3bbe7617b7
+md5_10_upper: 3BBE7617B7
+md5_5: 3bbe7
+md5_5_upper: 3BBE7
+md5_6: 3bbe76
+md5_6_alpha: 2bx4m
+md5_6_alpha_upper: 2BX4M
+md5_6_upper: 3BBE76
+name: Electronic Header 2 54 Mm 31 Pin Surface Mount
+name_no_class: Header 2 54 Mm 31 Pin Surface Mount
+name_no_color: 31Pinsurfacemount
+name_no_size: 31 Pin Surface Mount
+name_no_type: 2 54 Mm 31 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_31_pin_surface_mount
+oomp_word: bear ramen santa
+oomp_word_emoji: ':bear: :ramen: :santa:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':ramen:'
+- ':santa:'
+oomp_word_list:
+- bear
+- ramen
+- santa
+part_number: ''
+size: 2_54_mm
+type: header

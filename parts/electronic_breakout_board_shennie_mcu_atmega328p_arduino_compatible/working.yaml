@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: arduino_compatible
+description_main: atmega328p
+directory: parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+id: electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+id_no_class: breakout_board_shennie_mcu_atmega328p_arduino_compatible
+id_no_color: atmega328p_arduino_compatible
+id_no_size: mcu_atmega328p_arduino_compatible
+id_no_type: shennie_mcu_atmega328p_arduino_compatible
+manufacturer: ''
+md5: a5af1f0cbe5a1054334e42dd5ece231c
+md5_10: a5af1f0cbe
+md5_10_upper: A5AF1F0CBE
+md5_5: a5af1
+md5_5_upper: A5AF1
+md5_6: a5af1f
+md5_6_alpha: 6gqan
+md5_6_alpha_upper: 6GQAN
+md5_6_upper: A5AF1F
+name: Electronic Breakout Board Shennie Mcu Atmega328P Arduino Compatible
+name_no_class: Breakout Board Shennie Mcu Atmega328P Arduino Compatible
+name_no_color: Atmega328P Arduino Compatible
+name_no_size: Mcu Atmega328P Arduino Compatible
+name_no_type: Shennie Mcu Atmega328P Arduino Compatible
+oomp_key: oomp_electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+oomp_word: headphones tophat princess
+oomp_word_emoji: ':headphones: :tophat: :princess:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':tophat:'
+- ':princess:'
+oomp_word_list:
+- headphones
+- tophat
+- princess
+part_number: ''
+size: shennie
+type: breakout_board

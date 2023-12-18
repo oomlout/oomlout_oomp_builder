@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_0
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_0
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_0
+id: oobb_part_bunting_alphabet_05_01_ex_0
+id_no_class: part_bunting_alphabet_05_01_ex_0
+id_no_color: 0501ex0
+id_no_size: 05_01_ex_0
+id_no_type: bunting_alphabet_05_01_ex_0
+manufacturer: ''
+md5: 949a315b81d1ef2402ed56d957236d66
+md5_10: 949a315b81
+md5_10_upper: 949A315B81
+md5_5: 949a3
+md5_5_upper: 949A3
+md5_6: 949a31
+md5_6_alpha: 5sqi9
+md5_6_alpha_upper: 5SQI9
+md5_6_upper: 949A31
+name: Oobb Part Bunting Alphabet 05 01 Ex 0
+name_no_class: Part Bunting Alphabet 05 01 Ex 0
+name_no_color: 0501Ex0
+name_no_size: 05 01 Ex 0
+name_no_type: Bunting Alphabet 05 01 Ex 0
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_0
+oomp_word: microscope golf ocean
+oomp_word_emoji: ':microscope: :golf: :ocean:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':golf:'
+- ':ocean:'
+oomp_word_list:
+- microscope
+- golf
+- ocean
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_07_03'
+directory: parts/oobb_part_plate_15_07_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_07_03
+id: oobb_part_plate_15_07_03
+id_no_class: part_plate_15_07_03
+id_no_color: '150703'
+id_no_size: '15_07_03'
+id_no_type: plate_15_07_03
+manufacturer: ''
+md5: ad4d6058d759d5d05a92d525d46d705d
+md5_10: ad4d6058d7
+md5_10_upper: AD4D6058D7
+md5_5: ad4d6
+md5_5_upper: AD4D6
+md5_6: ad4d60
+md5_6_alpha: 6rfj4
+md5_6_alpha_upper: 6RFJ4
+md5_6_upper: AD4D60
+name: Oobb Part Plate 15 07 03
+name_no_class: Part Plate 15 07 03
+name_no_color: '150703'
+name_no_size: 15 07 03
+name_no_type: Plate 15 07 03
+oomp_key: oomp_oobb_part_plate_15_07_03
+oomp_word: dress bug poodle
+oomp_word_emoji: ':dress: :bug: :poodle:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':bug:'
+- ':poodle:'
+oomp_word_list:
+- dress
+- bug
+- poodle
+part_number: ''
+size: plate
+type: part

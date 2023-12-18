@@ -1,0 +1,40 @@
+classification: hardware
+color: MR82_size
+description_extra: ''
+description_main: 2.5_mm_id_8_mm_od_3_mm_depth
+directory: parts/hardware_bearing_MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+id: hardware_bearing_MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+id_no_class: bearing_MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+id_no_color: 2.5_mm_id_8_mm_od_3_mm_depth
+id_no_size: MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+id_no_type: MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+manufacturer: ''
+md5: ca6a57a18de51c8efc544995fc9199b4
+md5_10: ca6a57a18d
+md5_10_upper: CA6A57A18D
+md5_5: ca6a5
+md5_5_upper: CA6A5
+md5_6: ca6a57
+md5_6_alpha: 7wbpz
+md5_6_alpha_upper: 7WBPZ
+md5_6_upper: CA6A57
+name: Hardware Bearing Mr Series Mr82 Size 2.5 Mm Id 8 Mm Od 3 Mm Depth
+name_no_class: Bearing Mr Series Mr82 Size 2.5 Mm Id 8 Mm Od 3 Mm Depth
+name_no_color: 2.5 Mm Id 8 Mm Od 3 Mm Depth
+name_no_size: Mr82 Size 2.5 Mm Id 8 Mm Od 3 Mm Depth
+name_no_type: Mr Series Mr82 Size 2.5 Mm Id 8 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR82_size_2.5_mm_id_8_mm_od_3_mm_depth
+oomp_word: cherries palm_tree rat
+oomp_word_emoji: ':cherries: :palm_tree: :rat:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':palm_tree:'
+- ':rat:'
+oomp_word_list:
+- cherries
+- palm_tree
+- rat
+part_number: ''
+size: MR_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_j
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_j
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_j
+id: oobb_part_bunting_alphabet_03_01_ex_j
+id_no_class: part_bunting_alphabet_03_01_ex_j
+id_no_color: 0301exj
+id_no_size: 03_01_ex_j
+id_no_type: bunting_alphabet_03_01_ex_j
+manufacturer: ''
+md5: 0af2a49731bfeccfe6b63656b3d44472
+md5_10: 0af2a49731
+md5_10_upper: 0AF2A49731
+md5_5: 0af2a
+md5_5_upper: 0AF2A
+md5_6: 0af2a4
+md5_6_alpha: fdlw
+md5_6_alpha_upper: FDLW
+md5_6_upper: 0AF2A4
+name: Oobb Part Bunting Alphabet 03 01 Ex J
+name_no_class: Part Bunting Alphabet 03 01 Ex J
+name_no_color: 0301Exj
+name_no_size: 03 01 Ex J
+name_no_type: Bunting Alphabet 03 01 Ex J
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_j
+oomp_word: sleepy one book
+oomp_word_emoji: ':sleepy: :one: :book:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':one:'
+- ':book:'
+oomp_word_list:
+- sleepy
+- one
+- book
+part_number: ''
+size: bunting_alphabet
+type: part

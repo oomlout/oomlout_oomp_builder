@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 180_ohm
+directory: parts/electronic_resistor_0201_180_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_180_ohm
+id: electronic_resistor_0201_180_ohm
+id_no_class: resistor_0201_180_ohm
+id_no_color: 180ohm
+id_no_size: 180_ohm
+id_no_type: 0201_180_ohm
+manufacturer: ''
+md5: 3adf2d5f1f075a056d44108348a3ca43
+md5_10: 3adf2d5f1f
+md5_10_upper: 3ADF2D5F1F
+md5_5: 3adf2
+md5_5_upper: 3ADF2
+md5_6: 3adf2d
+md5_6_alpha: 2ap0t
+md5_6_alpha_upper: 2AP0T
+md5_6_upper: 3ADF2D
+name: Electronic Resistor 0201 180 Ohm
+name_no_class: Resistor 0201 180 Ohm
+name_no_color: 180Ohm
+name_no_size: 180 Ohm
+name_no_type: 0201 180 Ohm
+oomp_key: oomp_electronic_resistor_0201_180_ohm
+oomp_word: koala fountain snowman
+oomp_word_emoji: ':koala: :fountain: :snowman:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':fountain:'
+- ':snowman:'
+oomp_word_list:
+- koala
+- fountain
+- snowman
+part_number: ''
+size: '0201'
+type: resistor

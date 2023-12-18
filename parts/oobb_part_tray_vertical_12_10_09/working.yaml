@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_09'
+directory: parts/oobb_part_tray_vertical_12_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_10_09
+id: oobb_part_tray_vertical_12_10_09
+id_no_class: part_tray_vertical_12_10_09
+id_no_color: '121009'
+id_no_size: '12_10_09'
+id_no_type: tray_vertical_12_10_09
+manufacturer: ''
+md5: 57cf988d5d635803abd8689fc1d438a7
+md5_10: 57cf988d5d
+md5_10_upper: 57CF988D5D
+md5_5: 57cf9
+md5_5_upper: 57CF9
+md5_6: 57cf98
+md5_6_alpha: 3fcew
+md5_6_alpha_upper: 3FCEW
+md5_6_upper: 57CF98
+name: Oobb Part Tray Vertical 12 10 09
+name_no_class: Part Tray Vertical 12 10 09
+name_no_color: '121009'
+name_no_size: 12 10 09
+name_no_type: Tray Vertical 12 10 09
+oomp_key: oomp_oobb_part_tray_vertical_12_10_09
+oomp_word: rat melon tennis
+oomp_word_emoji: ':rat: :melon: :tennis:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':melon:'
+- ':tennis:'
+oomp_word_list:
+- rat
+- melon
+- tennis
+part_number: ''
+size: tray_vertical
+type: part

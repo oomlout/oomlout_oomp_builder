@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 9_pin
+directory: parts/electronic_header_2_54_mm_9_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_through_hole_short
+id: electronic_header_2_54_mm_9_pin_through_hole_short
+id_no_class: header_2_54_mm_9_pin_through_hole_short
+id_no_color: 9pinthroughholeshort
+id_no_size: 9_pin_through_hole_short
+id_no_type: 2_54_mm_9_pin_through_hole_short
+manufacturer: ''
+md5: 1d396ee6ddd869c92ead6156153b57cb
+md5_10: 1d396ee6dd
+md5_10_upper: 1D396EE6DD
+md5_5: 1d396
+md5_5_upper: 1D396
+md5_6: 1d396e
+md5_6_alpha: 151ta
+md5_6_alpha_upper: 151TA
+md5_6_upper: 1D396E
+name: Electronic Header 2 54 Mm 9 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 9 Pin Through Hole Short
+name_no_color: 9Pinthroughholeshort
+name_no_size: 9 Pin Through Hole Short
+name_no_type: 2 54 Mm 9 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_9_pin_through_hole_short
+oomp_word: baby tiger new_moon
+oomp_word_emoji: ':baby: :tiger: :new_moon:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':tiger:'
+- ':new_moon:'
+oomp_word_list:
+- baby
+- tiger
+- new_moon
+part_number: ''
+size: 2_54_mm
+type: header

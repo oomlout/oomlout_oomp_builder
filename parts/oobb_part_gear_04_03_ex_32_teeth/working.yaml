@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_ex_32_teeth
+directory: parts/oobb_part_gear_04_03_ex_32_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_03_ex_32_teeth
+id: oobb_part_gear_04_03_ex_32_teeth
+id_no_class: part_gear_04_03_ex_32_teeth
+id_no_color: 0403ex32teeth
+id_no_size: 04_03_ex_32_teeth
+id_no_type: gear_04_03_ex_32_teeth
+manufacturer: ''
+md5: 40e749ee140df4d06c682bd4b5e7d58f
+md5_10: 40e749ee14
+md5_10_upper: 40E749EE14
+md5_5: 40e74
+md5_5_upper: 40E74
+md5_6: 40e749
+md5_6_alpha: 2j615
+md5_6_alpha_upper: 2J615
+md5_6_upper: 40E749
+name: Oobb Part Gear 04 03 Ex 32 Teeth
+name_no_class: Part Gear 04 03 Ex 32 Teeth
+name_no_color: 0403Ex32Teeth
+name_no_size: 04 03 Ex 32 Teeth
+name_no_type: Gear 04 03 Ex 32 Teeth
+oomp_key: oomp_oobb_part_gear_04_03_ex_32_teeth
+oomp_word: racehorse helicopter hatching_chick
+oomp_word_emoji: ':racehorse: :helicopter: :hatching_chick:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':helicopter:'
+- ':hatching_chick:'
+oomp_word_list:
+- racehorse
+- helicopter
+- hatching_chick
+part_number: ''
+size: gear
+type: part

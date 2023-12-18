@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_03_30'
+directory: parts/oobb_part_tray_vertical_10_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_03_30
+id: oobb_part_tray_vertical_10_03_30
+id_no_class: part_tray_vertical_10_03_30
+id_no_color: '100330'
+id_no_size: '10_03_30'
+id_no_type: tray_vertical_10_03_30
+manufacturer: ''
+md5: 325dd0e94ae300a7d13bef7a9c175527
+md5_10: 325dd0e94a
+md5_10_upper: 325DD0E94A
+md5_5: 325dd
+md5_5_upper: 325DD
+md5_6: 325dd0
+md5_6_alpha: 1yqxc
+md5_6_alpha_upper: 1YQXC
+md5_6_upper: 325DD0
+name: Oobb Part Tray Vertical 10 03 30
+name_no_class: Part Tray Vertical 10 03 30
+name_no_color: '100330'
+name_no_size: 10 03 30
+name_no_type: Tray Vertical 10 03 30
+oomp_key: oomp_oobb_part_tray_vertical_10_03_30
+oomp_word: cat blowfish banana
+oomp_word_emoji: ':cat: :blowfish: :banana:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':blowfish:'
+- ':banana:'
+oomp_word_list:
+- cat
+- blowfish
+- banana
+part_number: ''
+size: tray_vertical
+type: part

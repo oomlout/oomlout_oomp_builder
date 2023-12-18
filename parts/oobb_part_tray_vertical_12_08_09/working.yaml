@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_08_09'
+directory: parts/oobb_part_tray_vertical_12_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_08_09
+id: oobb_part_tray_vertical_12_08_09
+id_no_class: part_tray_vertical_12_08_09
+id_no_color: '120809'
+id_no_size: '12_08_09'
+id_no_type: tray_vertical_12_08_09
+manufacturer: ''
+md5: 4c3e210740d566a2960fc142d18ccebc
+md5_10: 4c3e210740
+md5_10_upper: 4C3E210740
+md5_5: 4c3e2
+md5_5_upper: 4C3E2
+md5_6: 4c3e21
+md5_6_alpha: 2z3fl
+md5_6_alpha_upper: 2Z3FL
+md5_6_upper: 4C3E21
+name: Oobb Part Tray Vertical 12 08 09
+name_no_class: Part Tray Vertical 12 08 09
+name_no_color: '120809'
+name_no_size: 12 08 09
+name_no_type: Tray Vertical 12 08 09
+oomp_key: oomp_oobb_part_tray_vertical_12_08_09
+oomp_word: turtle monkey feet
+oomp_word_emoji: ':turtle: :monkey: :feet:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':monkey:'
+- ':feet:'
+oomp_word_list:
+- turtle
+- monkey
+- feet
+part_number: ''
+size: tray_vertical
+type: part

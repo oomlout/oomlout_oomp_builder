@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_8_teeth_sh_m3
+directory: parts/oobb_part_gear_01_06_ex_8_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06_ex_8_teeth_sh_m3
+id: oobb_part_gear_01_06_ex_8_teeth_sh_m3
+id_no_class: part_gear_01_06_ex_8_teeth_sh_m3
+id_no_color: 0106ex8teethshm3
+id_no_size: 01_06_ex_8_teeth_sh_m3
+id_no_type: gear_01_06_ex_8_teeth_sh_m3
+manufacturer: ''
+md5: ebe6d7222c88574a84a21c79f83603a6
+md5_10: ebe6d7222c
+md5_10_upper: EBE6D7222C
+md5_5: ebe6d
+md5_5_upper: EBE6D
+md5_6: ebe6d7
+md5_6_alpha: 97d1z
+md5_6_alpha_upper: 97D1Z
+md5_6_upper: EBE6D7
+name: Oobb Part Gear 01 06 Ex 8 Teeth Sh M3
+name_no_class: Part Gear 01 06 Ex 8 Teeth Sh M3
+name_no_color: 0106Ex8Teethshm3
+name_no_size: 01 06 Ex 8 Teeth Sh M3
+name_no_type: Gear 01 06 Ex 8 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_01_06_ex_8_teeth_sh_m3
+oomp_word: car airplane office
+oomp_word_emoji: ':car: :airplane: :office:'
+oomp_word_emoji_list:
+- ':car:'
+- ':airplane:'
+- ':office:'
+oomp_word_list:
+- car
+- airplane
+- office
+part_number: ''
+size: gear
+type: part

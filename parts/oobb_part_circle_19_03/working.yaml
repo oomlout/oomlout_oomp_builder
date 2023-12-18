@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_03'
+directory: parts/oobb_part_circle_19_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_19_03
+id: oobb_part_circle_19_03
+id_no_class: part_circle_19_03
+id_no_color: '1903'
+id_no_size: '19_03'
+id_no_type: circle_19_03
+manufacturer: ''
+md5: 2ead6e8be6aa453e82fcd947e7820e64
+md5_10: 2ead6e8be6
+md5_10_upper: 2EAD6E8BE6
+md5_5: 2ead6
+md5_5_upper: 2EAD6
+md5_6: 2ead6e
+md5_6_alpha: 1tkdq
+md5_6_alpha_upper: 1TKDQ
+md5_6_upper: 2EAD6E
+name: Oobb Part Circle 19 03
+name_no_class: Part Circle 19 03
+name_no_color: '1903'
+name_no_size: 19 03
+name_no_type: Circle 19 03
+oomp_key: oomp_oobb_part_circle_19_03
+oomp_word: zap dress new_moon
+oomp_word_emoji: ':zap: :dress: :new_moon:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':dress:'
+- ':new_moon:'
+oomp_word_list:
+- zap
+- dress
+- new_moon
+part_number: ''
+size: circle
+type: part

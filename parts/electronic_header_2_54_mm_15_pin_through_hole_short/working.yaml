@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_short
+id: electronic_header_2_54_mm_15_pin_through_hole_short
+id_no_class: header_2_54_mm_15_pin_through_hole_short
+id_no_color: 15pinthroughholeshort
+id_no_size: 15_pin_through_hole_short
+id_no_type: 2_54_mm_15_pin_through_hole_short
+manufacturer: ''
+md5: 7a8702a562eab4aa1a0741d2cce49bfe
+md5_10: 7a8702a562
+md5_10_upper: 7A8702A562
+md5_5: 7a870
+md5_5_upper: 7A870
+md5_6: 7a8702
+md5_6_alpha: 4s3ya
+md5_6_alpha_upper: 4S3YA
+md5_6_upper: 7A8702
+name: Electronic Header 2 54 Mm 15 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 15 Pin Through Hole Short
+name_no_color: 15Pinthroughholeshort
+name_no_size: 15 Pin Through Hole Short
+name_no_type: 2 54 Mm 15 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_through_hole_short
+oomp_word: camera toilet blush
+oomp_word_emoji: ':camera: :toilet: :blush:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':toilet:'
+- ':blush:'
+oomp_word_list:
+- camera
+- toilet
+- blush
+part_number: ''
+size: 2_54_mm
+type: header

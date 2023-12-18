@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_02_15'
+directory: parts/oobb_part_tray_vertical_04_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_15
+id: oobb_part_tray_vertical_04_02_15
+id_no_class: part_tray_vertical_04_02_15
+id_no_color: '040215'
+id_no_size: '04_02_15'
+id_no_type: tray_vertical_04_02_15
+manufacturer: ''
+md5: 7602865ab0628b62726e21ded0d03e99
+md5_10: 7602865ab0
+md5_10_upper: 7602865AB0
+md5_5: '76028'
+md5_5_upper: '76028'
+md5_6: '760286'
+md5_6_alpha: 4lrie
+md5_6_alpha_upper: 4LRIE
+md5_6_upper: '760286'
+name: Oobb Part Tray Vertical 04 02 15
+name_no_class: Part Tray Vertical 04 02 15
+name_no_color: '040215'
+name_no_size: 04 02 15
+name_no_type: Tray Vertical 04 02 15
+oomp_key: oomp_oobb_part_tray_vertical_04_02_15
+oomp_word: santa blush bath
+oomp_word_emoji: ':santa: :blush: :bath:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':blush:'
+- ':bath:'
+oomp_word_list:
+- santa
+- blush
+- bath
+part_number: ''
+size: tray_vertical
+type: part

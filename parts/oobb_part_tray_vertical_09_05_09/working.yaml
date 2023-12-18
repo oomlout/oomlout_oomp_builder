@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_09
+directory: parts/oobb_part_tray_vertical_09_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_05_09
+id: oobb_part_tray_vertical_09_05_09
+id_no_class: part_tray_vertical_09_05_09
+id_no_color: 090509
+id_no_size: 09_05_09
+id_no_type: tray_vertical_09_05_09
+manufacturer: ''
+md5: bb7ed8e5c00fe0d3dfe2fa0eab73f629
+md5_10: bb7ed8e5c0
+md5_10_upper: BB7ED8E5C0
+md5_5: bb7ed
+md5_5_upper: BB7ED
+md5_6: bb7ed8
+md5_6_alpha: 7bd94
+md5_6_alpha_upper: 7BD94
+md5_6_upper: BB7ED8
+name: Oobb Part Tray Vertical 09 05 09
+name_no_class: Part Tray Vertical 09 05 09
+name_no_color: 090509
+name_no_size: 09 05 09
+name_no_type: Tray Vertical 09 05 09
+oomp_key: oomp_oobb_part_tray_vertical_09_05_09
+oomp_word: curry fax hospital
+oomp_word_emoji: ':curry: :fax: :hospital:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':fax:'
+- ':hospital:'
+oomp_word_list:
+- curry
+- fax
+- hospital
+part_number: ''
+size: tray_vertical
+type: part

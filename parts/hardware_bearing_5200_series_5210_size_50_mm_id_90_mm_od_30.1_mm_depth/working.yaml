@@ -1,0 +1,40 @@
+classification: hardware
+color: 5210_size
+description_extra: ''
+description_main: 50_mm_id_90_mm_od_30.1_mm_depth
+directory: parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+id: hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+id_no_class: bearing_5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+id_no_color: 50_mm_id_90_mm_od_30.1_mm_depth
+id_no_size: 5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+id_no_type: 5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+manufacturer: ''
+md5: 157926ccfb119ec9b31f5506aece7173
+md5_10: 157926ccfb
+md5_10_upper: 157926CCFB
+md5_5: '15792'
+md5_5_upper: '15792'
+md5_6: '157926'
+md5_6_alpha: u5uu
+md5_6_alpha_upper: U5UU
+md5_6_upper: '157926'
+name: Hardware Bearing 5200 Series 5210 Size 50 Mm Id 90 Mm Od 30.1 Mm Depth
+name_no_class: Bearing 5200 Series 5210 Size 50 Mm Id 90 Mm Od 30.1 Mm Depth
+name_no_color: 50 Mm Id 90 Mm Od 30.1 Mm Depth
+name_no_size: 5210 Size 50 Mm Id 90 Mm Od 30.1 Mm Depth
+name_no_type: 5200 Series 5210 Size 50 Mm Id 90 Mm Od 30.1 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30.1_mm_depth
+oomp_word: poop balloon eyes
+oomp_word_emoji: ':poop: :balloon: :eyes:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':balloon:'
+- ':eyes:'
+oomp_word_list:
+- poop
+- balloon
+- eyes
+part_number: ''
+size: 5200_series
+type: bearing

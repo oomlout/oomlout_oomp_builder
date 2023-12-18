@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_27'
+directory: parts/oobb_part_plate_01_01_27
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_27
+id: oobb_part_plate_01_01_27
+id_no_class: part_plate_01_01_27
+id_no_color: '010127'
+id_no_size: '01_01_27'
+id_no_type: plate_01_01_27
+manufacturer: ''
+md5: 7ff20404f0d7254129f183fa499e7b6f
+md5_10: 7ff20404f0
+md5_10_upper: 7FF20404F0
+md5_5: 7ff20
+md5_5_upper: 7FF20
+md5_6: 7ff204
+md5_6_alpha: 4zpxg
+md5_6_alpha_upper: 4ZPXG
+md5_6_upper: 7FF204
+name: Oobb Part Plate 01 01 27
+name_no_class: Part Plate 01 01 27
+name_no_color: '010127'
+name_no_size: 01 01 27
+name_no_type: Plate 01 01 27
+oomp_key: oomp_oobb_part_plate_01_01_27
+oomp_word: speaker one wink
+oomp_word_emoji: ':speaker: :one: :wink:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':one:'
+- ':wink:'
+oomp_word_list:
+- speaker
+- one
+- wink
+part_number: ''
+size: plate
+type: part

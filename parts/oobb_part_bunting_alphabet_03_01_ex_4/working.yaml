@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_4
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_4
+id: oobb_part_bunting_alphabet_03_01_ex_4
+id_no_class: part_bunting_alphabet_03_01_ex_4
+id_no_color: 0301ex4
+id_no_size: 03_01_ex_4
+id_no_type: bunting_alphabet_03_01_ex_4
+manufacturer: ''
+md5: e572e7ea1cfe54772d142362896d35a3
+md5_10: e572e7ea1c
+md5_10_upper: E572E7EA1C
+md5_5: e572e
+md5_5_upper: E572E
+md5_6: e572e7
+md5_6_alpha: 8yaqv
+md5_6_alpha_upper: 8YAQV
+md5_6_upper: E572E7
+name: Oobb Part Bunting Alphabet 03 01 Ex 4
+name_no_class: Part Bunting Alphabet 03 01 Ex 4
+name_no_color: 0301Ex4
+name_no_size: 03 01 Ex 4
+name_no_type: Bunting Alphabet 03 01 Ex 4
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_4
+oomp_word: rocket dolls helicopter
+oomp_word_emoji: ':rocket: :dolls: :helicopter:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':dolls:'
+- ':helicopter:'
+oomp_word_list:
+- rocket
+- dolls
+- helicopter
+part_number: ''
+size: bunting_alphabet
+type: part

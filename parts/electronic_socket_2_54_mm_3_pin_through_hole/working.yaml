@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3_pin
+directory: parts/electronic_socket_2_54_mm_3_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_3_pin_through_hole
+id: electronic_socket_2_54_mm_3_pin_through_hole
+id_no_class: socket_2_54_mm_3_pin_through_hole
+id_no_color: 3pinthroughhole
+id_no_size: 3_pin_through_hole
+id_no_type: 2_54_mm_3_pin_through_hole
+manufacturer: ''
+md5: a75391dd593b176fcd113d63fa5ebea0
+md5_10: a75391dd59
+md5_10_upper: A75391DD59
+md5_5: a7539
+md5_5_upper: A7539
+md5_6: a75391
+md5_6_alpha: 6j1ch
+md5_6_alpha_upper: 6J1CH
+md5_6_upper: A75391
+name: Electronic Socket 2 54 Mm 3 Pin Through Hole
+name_no_class: Socket 2 54 Mm 3 Pin Through Hole
+name_no_color: 3Pinthroughhole
+name_no_size: 3 Pin Through Hole
+name_no_type: 2 54 Mm 3 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_3_pin_through_hole
+oomp_word: guitar fish pushpin
+oomp_word_emoji: ':guitar: :fish: :pushpin:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':fish:'
+- ':pushpin:'
+oomp_word_list:
+- guitar
+- fish
+- pushpin
+part_number: ''
+size: 2_54_mm
+type: socket

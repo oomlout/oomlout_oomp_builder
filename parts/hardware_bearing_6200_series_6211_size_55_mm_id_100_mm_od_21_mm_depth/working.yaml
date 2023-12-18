@@ -1,0 +1,40 @@
+classification: hardware
+color: 6211_size
+description_extra: ''
+description_main: 55_mm_id_100_mm_od_21_mm_depth
+directory: parts/hardware_bearing_6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+id: hardware_bearing_6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+id_no_class: bearing_6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+id_no_color: 55_mm_id_100_mm_od_21_mm_depth
+id_no_size: 6211_size_55_mm_id_100_mm_od_21_mm_depth
+id_no_type: 6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+manufacturer: ''
+md5: 74d613e7288466792abaed5053f09730
+md5_10: 74d613e728
+md5_10_upper: 74D613E728
+md5_5: 74d61
+md5_5_upper: 74D61
+md5_6: 74d613
+md5_6_alpha: 4k45v
+md5_6_alpha_upper: 4K45V
+md5_6_upper: 74D613
+name: Hardware Bearing 6200 Series 6211 Size 55 Mm Id 100 Mm Od 21 Mm Depth
+name_no_class: Bearing 6200 Series 6211 Size 55 Mm Id 100 Mm Od 21 Mm Depth
+name_no_color: 55 Mm Id 100 Mm Od 21 Mm Depth
+name_no_size: 6211 Size 55 Mm Id 100 Mm Od 21 Mm Depth
+name_no_type: 6200 Series 6211 Size 55 Mm Id 100 Mm Od 21 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6211_size_55_mm_id_100_mm_od_21_mm_depth
+oomp_word: fireworks school question
+oomp_word_emoji: ':fireworks: :school: :question:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':school:'
+- ':question:'
+oomp_word_list:
+- fireworks
+- school
+- question
+part_number: ''
+size: 6200_series
+type: bearing

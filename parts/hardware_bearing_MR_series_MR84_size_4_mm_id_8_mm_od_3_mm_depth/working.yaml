@@ -1,0 +1,40 @@
+classification: hardware
+color: MR84_size
+description_extra: ''
+description_main: 4_mm_id_8_mm_od_3_mm_depth
+directory: parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+id: hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+id_no_class: bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+id_no_color: 4_mm_id_8_mm_od_3_mm_depth
+id_no_size: MR84_size_4_mm_id_8_mm_od_3_mm_depth
+id_no_type: MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+manufacturer: ''
+md5: 444c13164418dc8a94d11cc1de0df267
+md5_10: 444c131644
+md5_10_upper: 444C131644
+md5_5: 444c1
+md5_5_upper: 444C1
+md5_6: 444c13
+md5_6_alpha: 2nxn7
+md5_6_alpha_upper: 2NXN7
+md5_6_upper: 444C13
+name: Hardware Bearing Mr Series Mr84 Size 4 Mm Id 8 Mm Od 3 Mm Depth
+name_no_class: Bearing Mr Series Mr84 Size 4 Mm Id 8 Mm Od 3 Mm Depth
+name_no_color: 4 Mm Id 8 Mm Od 3 Mm Depth
+name_no_size: Mr84 Size 4 Mm Id 8 Mm Od 3 Mm Depth
+name_no_type: Mr Series Mr84 Size 4 Mm Id 8 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth
+oomp_word: panda_face turtle question
+oomp_word_emoji: ':panda_face: :turtle: :question:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':turtle:'
+- ':question:'
+oomp_word_list:
+- panda_face
+- turtle
+- question
+part_number: ''
+size: MR_series
+type: bearing

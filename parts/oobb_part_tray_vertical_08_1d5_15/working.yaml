@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_1d5_15
+directory: parts/oobb_part_tray_vertical_08_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_1d5_15
+id: oobb_part_tray_vertical_08_1d5_15
+id_no_class: part_tray_vertical_08_1d5_15
+id_no_color: 081d515
+id_no_size: 08_1d5_15
+id_no_type: tray_vertical_08_1d5_15
+manufacturer: ''
+md5: 3dfd9f5871778143c279a0cd6b5fa7e9
+md5_10: 3dfd9f5871
+md5_10_upper: 3DFD9F5871
+md5_5: 3dfd9
+md5_5_upper: 3DFD9
+md5_6: 3dfd9f
+md5_6_alpha: 2f2qn
+md5_6_alpha_upper: 2F2QN
+md5_6_upper: 3DFD9F
+name: Oobb Part Tray Vertical 08 1D5 15
+name_no_class: Part Tray Vertical 08 1D5 15
+name_no_color: 081D515
+name_no_size: 08 1D5 15
+name_no_type: Tray Vertical 08 1D5 15
+oomp_key: oomp_oobb_part_tray_vertical_08_1d5_15
+oomp_word: cow parking diamonds
+oomp_word_emoji: ':cow: :parking: :diamonds:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':parking:'
+- ':diamonds:'
+oomp_word_list:
+- cow
+- parking
+- diamonds
+part_number: ''
+size: tray_vertical
+type: part

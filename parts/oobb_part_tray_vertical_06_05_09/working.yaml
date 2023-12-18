@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_05_09
+directory: parts/oobb_part_tray_vertical_06_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_09
+id: oobb_part_tray_vertical_06_05_09
+id_no_class: part_tray_vertical_06_05_09
+id_no_color: 060509
+id_no_size: 06_05_09
+id_no_type: tray_vertical_06_05_09
+manufacturer: ''
+md5: 8e411b04a1bcac476faf58addbc1ef57
+md5_10: 8e411b04a1
+md5_10_upper: 8E411B04A1
+md5_5: 8e411
+md5_5_upper: 8E411
+md5_6: 8e411b
+md5_6_alpha: 5jti3
+md5_6_alpha_upper: 5JTI3
+md5_6_upper: 8E411B
+name: Oobb Part Tray Vertical 06 05 09
+name_no_class: Part Tray Vertical 06 05 09
+name_no_color: 060509
+name_no_size: 06 05 09
+name_no_type: Tray Vertical 06 05 09
+oomp_key: oomp_oobb_part_tray_vertical_06_05_09
+oomp_word: clipboard camel muscle
+oomp_word_emoji: ':clipboard: :camel: :muscle:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':camel:'
+- ':muscle:'
+oomp_word_list:
+- clipboard
+- camel
+- muscle
+part_number: ''
+size: tray_vertical
+type: part

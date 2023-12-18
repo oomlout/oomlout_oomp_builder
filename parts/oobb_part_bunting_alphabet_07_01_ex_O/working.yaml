@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_o
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_o
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_o
+id: oobb_part_bunting_alphabet_07_01_ex_o
+id_no_class: part_bunting_alphabet_07_01_ex_o
+id_no_color: 0701exo
+id_no_size: 07_01_ex_o
+id_no_type: bunting_alphabet_07_01_ex_o
+manufacturer: ''
+md5: 464b5a4ef5c959105c52807c6db3c5e2
+md5_10: 464b5a4ef5
+md5_10_upper: 464B5A4EF5
+md5_5: 464b5
+md5_5_upper: 464B5
+md5_6: 464b5a
+md5_6_alpha: 2qqmy
+md5_6_alpha_upper: 2QQMY
+md5_6_upper: 464B5A
+name: Oobb Part Bunting Alphabet 07 01 Ex O
+name_no_class: Part Bunting Alphabet 07 01 Ex O
+name_no_color: 0701Exo
+name_no_size: 07 01 Ex O
+name_no_type: Bunting Alphabet 07 01 Ex O
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_o
+oomp_word: bird penguin goat
+oomp_word_emoji: ':bird: :penguin: :goat:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':penguin:'
+- ':goat:'
+oomp_word_list:
+- bird
+- penguin
+- goat
+part_number: ''
+size: bunting_alphabet
+type: part

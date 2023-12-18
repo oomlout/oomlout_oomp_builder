@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_02_15'
+directory: parts/oobb_part_tray_02_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_02_15
+id: oobb_part_tray_02_02_15
+id_no_class: part_tray_02_02_15
+id_no_color: '020215'
+id_no_size: '02_02_15'
+id_no_type: tray_02_02_15
+manufacturer: ''
+md5: dcf8284179fe815541160b547cba2b88
+md5_10: dcf8284179
+md5_10_upper: DCF8284179
+md5_5: dcf82
+md5_5_upper: DCF82
+md5_6: dcf828
+md5_6_alpha: 8mdyg
+md5_6_alpha_upper: 8MDYG
+md5_6_upper: DCF828
+name: Oobb Part Tray 02 02 15
+name_no_class: Part Tray 02 02 15
+name_no_color: '020215'
+name_no_size: 02 02 15
+name_no_type: Tray 02 02 15
+oomp_key: oomp_oobb_part_tray_02_02_15
+oomp_word: factory seven tongue
+oomp_word_emoji: ':factory: :seven: :tongue:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':seven:'
+- ':tongue:'
+oomp_word_list:
+- factory
+- seven
+- tongue
+part_number: ''
+size: tray
+type: part

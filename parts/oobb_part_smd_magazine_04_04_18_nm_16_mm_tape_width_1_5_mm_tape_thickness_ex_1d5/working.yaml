@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 040418nm16mmtapewidth15mmtapethicknessex1d5
+id_no_size: 04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 3f06668ca573d8500855447c3a9f1f61
+md5_10: 3f06668ca5
+md5_10_upper: 3F06668CA5
+md5_5: 3f066
+md5_5_upper: 3F066
+md5_6: 3f0666
+md5_6_alpha: 2gj1i
+md5_6_alpha_upper: 2GJ1I
+md5_6_upper: 3F0666
+name: Oobb Part Smd Magazine 04 04 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 04 04 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 040418Nm16Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 04 04 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 04 04 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: horse sleeping leaves
+oomp_word_emoji: ':horse: :sleeping: :leaves:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':sleeping:'
+- ':leaves:'
+oomp_word_list:
+- horse
+- sleeping
+- leaves
+part_number: ''
+size: smd_magazine
+type: part

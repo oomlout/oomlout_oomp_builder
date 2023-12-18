@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_ex_40_teeth
+directory: parts/oobb_part_gear_05_03_ex_40_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03_ex_40_teeth
+id: oobb_part_gear_05_03_ex_40_teeth
+id_no_class: part_gear_05_03_ex_40_teeth
+id_no_color: 0503ex40teeth
+id_no_size: 05_03_ex_40_teeth
+id_no_type: gear_05_03_ex_40_teeth
+manufacturer: ''
+md5: 29438e41af39adf84e6e7cde525ffe15
+md5_10: 29438e41af
+md5_10_upper: 29438E41AF
+md5_5: '29438'
+md5_5_upper: '29438'
+md5_6: 29438e
+md5_6_alpha: 1lymm
+md5_6_alpha_upper: 1LYMM
+md5_6_upper: 29438E
+name: Oobb Part Gear 05 03 Ex 40 Teeth
+name_no_class: Part Gear 05 03 Ex 40 Teeth
+name_no_color: 0503Ex40Teeth
+name_no_size: 05 03 Ex 40 Teeth
+name_no_type: Gear 05 03 Ex 40 Teeth
+oomp_key: oomp_oobb_part_gear_05_03_ex_40_teeth
+oomp_word: sunny elephant clipboard
+oomp_word_emoji: ':sunny: :elephant: :clipboard:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':elephant:'
+- ':clipboard:'
+oomp_word_list:
+- sunny
+- elephant
+- clipboard
+part_number: ''
+size: gear
+type: part

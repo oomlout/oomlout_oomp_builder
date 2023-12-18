@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_12'
+directory: parts/oobb_part_plate_03_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_12
+id: oobb_part_plate_03_03_12
+id_no_class: part_plate_03_03_12
+id_no_color: '030312'
+id_no_size: '03_03_12'
+id_no_type: plate_03_03_12
+manufacturer: ''
+md5: 8eaee294110aead50744057a0a83725e
+md5_10: 8eaee29411
+md5_10_upper: 8EAEE29411
+md5_5: 8eaee
+md5_5_upper: 8EAEE
+md5_6: 8eaee2
+md5_6_alpha: 5kf6q
+md5_6_alpha_upper: 5KF6Q
+md5_6_upper: 8EAEE2
+name: Oobb Part Plate 03 03 12
+name_no_class: Part Plate 03 03 12
+name_no_color: '030312'
+name_no_size: 03 03 12
+name_no_type: Plate 03 03 12
+oomp_key: oomp_oobb_part_plate_03_03_12
+oomp_word: clipboard jeans sailboat
+oomp_word_emoji: ':clipboard: :jeans: :sailboat:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':jeans:'
+- ':sailboat:'
+oomp_word_list:
+- clipboard
+- jeans
+- sailboat
+part_number: ''
+size: plate
+type: part

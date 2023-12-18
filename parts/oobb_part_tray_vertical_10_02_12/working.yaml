@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_02_12'
+directory: parts/oobb_part_tray_vertical_10_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_02_12
+id: oobb_part_tray_vertical_10_02_12
+id_no_class: part_tray_vertical_10_02_12
+id_no_color: '100212'
+id_no_size: '10_02_12'
+id_no_type: tray_vertical_10_02_12
+manufacturer: ''
+md5: ce433395e18d253cf964df43aefe0351
+md5_10: ce433395e1
+md5_10_upper: CE433395E1
+md5_5: ce433
+md5_5_upper: CE433
+md5_6: ce4333
+md5_6_alpha: 81q9f
+md5_6_alpha_upper: 81Q9F
+md5_6_upper: CE4333
+name: Oobb Part Tray Vertical 10 02 12
+name_no_class: Part Tray Vertical 10 02 12
+name_no_color: '100212'
+name_no_size: 10 02 12
+name_no_type: Tray Vertical 10 02 12
+oomp_key: oomp_oobb_part_tray_vertical_10_02_12
+oomp_word: peach elephant dog
+oomp_word_emoji: ':peach: :elephant: :dog:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':elephant:'
+- ':dog:'
+oomp_word_list:
+- peach
+- elephant
+- dog
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_ex_countersunk
+directory: parts/oobb_part_shaft_12_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12_ex_countersunk
+id: oobb_part_shaft_12_ex_countersunk
+id_no_class: part_shaft_12_ex_countersunk
+id_no_color: 12excountersunk
+id_no_size: 12_ex_countersunk
+id_no_type: shaft_12_ex_countersunk
+manufacturer: ''
+md5: 74298635ddb8b120ad6a9ae2c344d648
+md5_10: 74298635dd
+md5_10_upper: 74298635DD
+md5_5: '74298'
+md5_5_upper: '74298'
+md5_6: '742986'
+md5_6_alpha: 4j62u
+md5_6_alpha_upper: 4J62U
+md5_6_upper: '742986'
+name: Oobb Part Shaft 12 Ex Countersunk
+name_no_class: Part Shaft 12 Ex Countersunk
+name_no_color: 12Excountersunk
+name_no_size: 12 Ex Countersunk
+name_no_type: Shaft 12 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_12_ex_countersunk
+oomp_word: fireworks sunny bath
+oomp_word_emoji: ':fireworks: :sunny: :bath:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':sunny:'
+- ':bath:'
+oomp_word_list:
+- fireworks
+- sunny
+- bath
+part_number: ''
+size: shaft
+type: part

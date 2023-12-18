@@ -1,0 +1,40 @@
+classification: hardware
+color: 6822_size
+description_extra: ''
+description_main: 110_mm_id_140_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+id: hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+id_no_class: bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+id_no_color: 110_mm_id_140_mm_od_16_mm_depth
+id_no_size: 6822_size_110_mm_id_140_mm_od_16_mm_depth
+id_no_type: 6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+manufacturer: ''
+md5: 877e57212f7a740a388cac2e5a82c31a
+md5_10: 877e57212f
+md5_10_upper: 877E57212F
+md5_5: 877e5
+md5_5_upper: 877E5
+md5_6: 877e57
+md5_6_alpha: 5abmf
+md5_6_alpha_upper: 5ABMF
+md5_6_upper: 877E57
+name: Hardware Bearing 6800 Series 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth
+name_no_class: Bearing 6800 Series 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth
+name_no_color: 110 Mm Id 140 Mm Od 16 Mm Depth
+name_no_size: 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth
+name_no_type: 6800 Series 6822 Size 110 Mm Id 140 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6822_size_110_mm_id_140_mm_od_16_mm_depth
+oomp_word: toilet fax rat
+oomp_word_emoji: ':toilet: :fax: :rat:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':fax:'
+- ':rat:'
+oomp_word_list:
+- toilet
+- fax
+- rat
+part_number: ''
+size: 6800_series
+type: bearing

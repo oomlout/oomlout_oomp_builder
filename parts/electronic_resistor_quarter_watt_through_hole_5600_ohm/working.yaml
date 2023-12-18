@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_5600_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600_ohm
+id: electronic_resistor_quarter_watt_through_hole_5600_ohm
+id_no_class: resistor_quarter_watt_through_hole_5600_ohm
+id_no_color: 5600ohm
+id_no_size: 5600_ohm
+id_no_type: quarter_watt_through_hole_5600_ohm
+manufacturer: ''
+md5: 1e6a71ac6c141fd7e8a8ff72a8db6aee
+md5_10: 1e6a71ac6c
+md5_10_upper: 1E6A71AC6C
+md5_5: 1e6a7
+md5_5_upper: 1E6A7
+md5_6: 1e6a71
+md5_6_alpha: 16q29
+md5_6_alpha_upper: 16Q29
+md5_6_upper: 1E6A71
+name: Electronic Resistor Quarter Watt Through Hole 5600 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 5600 Ohm
+name_no_color: 5600Ohm
+name_no_size: 5600 Ohm
+name_no_type: Quarter Watt Through Hole 5600 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_5600_ohm
+oomp_word: angel palm_tree bamboo
+oomp_word_emoji: ':angel: :palm_tree: :bamboo:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':palm_tree:'
+- ':bamboo:'
+oomp_word_list:
+- angel
+- palm_tree
+- bamboo
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

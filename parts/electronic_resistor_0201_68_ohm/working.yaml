@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0201_68_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_68_ohm
+id: electronic_resistor_0201_68_ohm
+id_no_class: resistor_0201_68_ohm
+id_no_color: 68ohm
+id_no_size: 68_ohm
+id_no_type: 0201_68_ohm
+manufacturer: ''
+md5: 9759e76ec8aa629ca0c40d23fc164cf1
+md5_10: 9759e76ec8
+md5_10_upper: 9759E76EC8
+md5_5: 9759e
+md5_5_upper: 9759E
+md5_6: 9759e7
+md5_6_alpha: 5wlif
+md5_6_alpha_upper: 5WLIF
+md5_6_upper: 9759E7
+name: Electronic Resistor 0201 68 Ohm
+name_no_class: Resistor 0201 68 Ohm
+name_no_color: 68Ohm
+name_no_size: 68 Ohm
+name_no_type: 0201 68 Ohm
+oomp_key: oomp_electronic_resistor_0201_68_ohm
+oomp_word: baseball dragon helicopter
+oomp_word_emoji: ':baseball: :dragon: :helicopter:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':dragon:'
+- ':helicopter:'
+oomp_word_list:
+- baseball
+- dragon
+- helicopter
+part_number: ''
+size: '0201'
+type: resistor

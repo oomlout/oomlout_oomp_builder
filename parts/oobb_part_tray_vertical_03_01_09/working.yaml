@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_09
+directory: parts/oobb_part_tray_vertical_03_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_09
+id: oobb_part_tray_vertical_03_01_09
+id_no_class: part_tray_vertical_03_01_09
+id_no_color: 030109
+id_no_size: 03_01_09
+id_no_type: tray_vertical_03_01_09
+manufacturer: ''
+md5: e5f6d1788764668968c629431654f627
+md5_10: e5f6d17887
+md5_10_upper: E5F6D17887
+md5_5: e5f6d
+md5_5_upper: E5F6D
+md5_6: e5f6d1
+md5_6_alpha: 8z0sx
+md5_6_alpha_upper: 8Z0SX
+md5_6_upper: E5F6D1
+name: Oobb Part Tray Vertical 03 01 09
+name_no_class: Part Tray Vertical 03 01 09
+name_no_color: 030109
+name_no_size: 03 01 09
+name_no_type: Tray Vertical 03 01 09
+oomp_key: oomp_oobb_part_tray_vertical_03_01_09
+oomp_word: rocket five pear
+oomp_word_emoji: ':rocket: :five: :pear:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':five:'
+- ':pear:'
+oomp_word_list:
+- rocket
+- five
+- pear
+part_number: ''
+size: tray_vertical
+type: part

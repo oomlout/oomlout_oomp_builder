@@ -1,0 +1,40 @@
+classification: hardware
+color: 6003_size
+description_extra: ''
+description_main: 17_mm_id_35_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+id: hardware_bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+id_no_class: bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+id_no_color: 17_mm_id_35_mm_od_10_mm_depth
+id_no_size: 6003_size_17_mm_id_35_mm_od_10_mm_depth
+id_no_type: 6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+manufacturer: ''
+md5: b1aaa99906622b6637fbcc2d9801651c
+md5_10: b1aaa99906
+md5_10_upper: B1AAA99906
+md5_5: b1aaa
+md5_5_upper: B1AAA
+md5_6: b1aaa9
+md5_6_alpha: 6xk89
+md5_6_alpha_upper: 6XK89
+md5_6_upper: B1AAA9
+name: Hardware Bearing 6000 Series 6003 Size 17 Mm Id 35 Mm Od 10 Mm Depth
+name_no_class: Bearing 6000 Series 6003 Size 17 Mm Id 35 Mm Od 10 Mm Depth
+name_no_color: 17 Mm Id 35 Mm Od 10 Mm Depth
+name_no_size: 6003 Size 17 Mm Id 35 Mm Od 10 Mm Depth
+name_no_type: 6000 Series 6003 Size 17 Mm Id 35 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
+oomp_word: briefcase lipstick sandal
+oomp_word_emoji: ':briefcase: :lipstick: :sandal:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':lipstick:'
+- ':sandal:'
+oomp_word_list:
+- briefcase
+- lipstick
+- sandal
+part_number: ''
+size: 6000_series
+type: bearing

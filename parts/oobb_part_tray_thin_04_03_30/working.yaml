@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_03_30'
+directory: parts/oobb_part_tray_thin_04_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_03_30
+id: oobb_part_tray_thin_04_03_30
+id_no_class: part_tray_thin_04_03_30
+id_no_color: '040330'
+id_no_size: '04_03_30'
+id_no_type: tray_thin_04_03_30
+manufacturer: ''
+md5: 91c3b4095d6f877f1cca85bd90c3978f
+md5_10: 91c3b4095d
+md5_10_upper: 91C3B4095D
+md5_5: 91c3b
+md5_5_upper: 91C3B
+md5_6: 91c3b4
+md5_6_alpha: 5or04
+md5_6_alpha_upper: 5OR04
+md5_6_upper: 91C3B4
+name: Oobb Part Tray Thin 04 03 30
+name_no_class: Part Tray Thin 04 03 30
+name_no_color: '040330'
+name_no_size: 04 03 30
+name_no_type: Tray Thin 04 03 30
+oomp_key: oomp_oobb_part_tray_thin_04_03_30
+oomp_word: pushpin cake coffee
+oomp_word_emoji: ':pushpin: :cake: :coffee:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':cake:'
+- ':coffee:'
+oomp_word_list:
+- pushpin
+- cake
+- coffee
+part_number: ''
+size: tray_thin
+type: part

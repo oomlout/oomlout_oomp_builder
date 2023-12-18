@@ -1,0 +1,40 @@
+classification: hardware
+color: MR148_size
+description_extra: ''
+description_main: 8_mm_id_14_mm_od_4_mm_depth
+directory: parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+id: hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+id_no_class: bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+id_no_color: 8_mm_id_14_mm_od_4_mm_depth
+id_no_size: MR148_size_8_mm_id_14_mm_od_4_mm_depth
+id_no_type: MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+manufacturer: ''
+md5: f3011a7a93c664d3152d7a2671d5501a
+md5_10: f3011a7a93
+md5_10_upper: F3011A7A93
+md5_5: f3011
+md5_5_upper: F3011
+md5_6: f3011a
+md5_6_alpha: 9hc7u
+md5_6_alpha_upper: 9HC7U
+md5_6_upper: F3011A
+name: Hardware Bearing Mr Series Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth
+name_no_class: Bearing Mr Series Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth
+name_no_color: 8 Mm Id 14 Mm Od 4 Mm Depth
+name_no_size: Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth
+name_no_type: Mr Series Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+oomp_word: two smile clap
+oomp_word_emoji: ':two: :smile: :clap:'
+oomp_word_emoji_list:
+- ':two:'
+- ':smile:'
+- ':clap:'
+oomp_word_list:
+- two
+- smile
+- clap
+part_number: ''
+size: MR_series
+type: bearing

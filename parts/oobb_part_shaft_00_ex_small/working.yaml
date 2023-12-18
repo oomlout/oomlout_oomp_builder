@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 00_ex_small
+directory: parts/oobb_part_shaft_00_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00_ex_small
+id: oobb_part_shaft_00_ex_small
+id_no_class: part_shaft_00_ex_small
+id_no_color: 00exsmall
+id_no_size: 00_ex_small
+id_no_type: shaft_00_ex_small
+manufacturer: ''
+md5: d03ef132dfa7918850d44ebcc676ecf7
+md5_10: d03ef132df
+md5_10_upper: D03EF132DF
+md5_5: d03ef
+md5_5_upper: D03EF
+md5_6: d03ef1
+md5_6_alpha: 84ik1
+md5_6_alpha_upper: 84IK1
+md5_6_upper: D03EF1
+name: Oobb Part Shaft 00 Ex Small
+name_no_class: Part Shaft 00 Ex Small
+name_no_color: 00Exsmall
+name_no_size: 00 Ex Small
+name_no_type: Shaft 00 Ex Small
+oomp_key: oomp_oobb_part_shaft_00_ex_small
+oomp_word: banana monkey ticket
+oomp_word_emoji: ':banana: :monkey: :ticket:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':monkey:'
+- ':ticket:'
+oomp_word_list:
+- banana
+- monkey
+- ticket
+part_number: ''
+size: shaft
+type: part

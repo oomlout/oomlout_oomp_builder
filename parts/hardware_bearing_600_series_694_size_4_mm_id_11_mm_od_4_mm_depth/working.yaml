@@ -1,0 +1,40 @@
+classification: hardware
+color: 694_size
+description_extra: ''
+description_main: 4_mm_id_11_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+id: hardware_bearing_600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+id_no_class: bearing_600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+id_no_color: 4_mm_id_11_mm_od_4_mm_depth
+id_no_size: 694_size_4_mm_id_11_mm_od_4_mm_depth
+id_no_type: 600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+manufacturer: ''
+md5: 5b00e2c354c4e4529bde04d41a3126d7
+md5_10: 5b00e2c354
+md5_10_upper: 5B00E2C354
+md5_5: 5b00e
+md5_5_upper: 5B00E
+md5_6: 5b00e2
+md5_6_alpha: 3jtuq
+md5_6_alpha_upper: 3JTUQ
+md5_6_upper: 5B00E2
+name: Hardware Bearing 600 Series 694 Size 4 Mm Id 11 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 694 Size 4 Mm Id 11 Mm Od 4 Mm Depth
+name_no_color: 4 Mm Id 11 Mm Od 4 Mm Depth
+name_no_size: 694 Size 4 Mm Id 11 Mm Od 4 Mm Depth
+name_no_type: 600 Series 694 Size 4 Mm Id 11 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_694_size_4_mm_id_11_mm_od_4_mm_depth
+oomp_word: rooster bowtie sailboat
+oomp_word_emoji: ':rooster: :bowtie: :sailboat:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':bowtie:'
+- ':sailboat:'
+oomp_word_list:
+- rooster
+- bowtie
+- sailboat
+part_number: ''
+size: 600_series
+type: bearing

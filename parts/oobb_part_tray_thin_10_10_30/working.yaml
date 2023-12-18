@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_30'
+directory: parts/oobb_part_tray_thin_10_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_30
+id: oobb_part_tray_thin_10_10_30
+id_no_class: part_tray_thin_10_10_30
+id_no_color: '101030'
+id_no_size: '10_10_30'
+id_no_type: tray_thin_10_10_30
+manufacturer: ''
+md5: 9886bd9d00f8bc5f911770910b1f3057
+md5_10: 9886bd9d00
+md5_10_upper: 9886BD9D00
+md5_5: 9886b
+md5_5_upper: 9886B
+md5_6: 9886bd
+md5_6_alpha: 5y8xp
+md5_6_alpha_upper: 5Y8XP
+md5_6_upper: 9886BD
+name: Oobb Part Tray Thin 10 10 30
+name_no_class: Part Tray Thin 10 10 30
+name_no_color: '101030'
+name_no_size: 10 10 30
+name_no_type: Tray Thin 10 10 30
+oomp_key: oomp_oobb_part_tray_thin_10_10_30
+oomp_word: tennis bath rice
+oomp_word_emoji: ':tennis: :bath: :rice:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':bath:'
+- ':rice:'
+oomp_word_list:
+- tennis
+- bath
+- rice
+part_number: ''
+size: tray_thin
+type: part

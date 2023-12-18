@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '27_01_12'
+directory: parts/oobb_part_plate_27_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_01_12
+id: oobb_part_plate_27_01_12
+id_no_class: part_plate_27_01_12
+id_no_color: '270112'
+id_no_size: '27_01_12'
+id_no_type: plate_27_01_12
+manufacturer: ''
+md5: 2d4faf3b4a6501ccbd85fbc7497a815f
+md5_10: 2d4faf3b4a
+md5_10_upper: 2D4FAF3B4A
+md5_5: 2d4fa
+md5_5_upper: 2D4FA
+md5_6: 2d4faf
+md5_6_alpha: 1rnan
+md5_6_alpha_upper: 1RNAN
+md5_6_upper: 2D4FAF
+name: Oobb Part Plate 27 01 12
+name_no_class: Part Plate 27 01 12
+name_no_color: '270112'
+name_no_size: 27 01 12
+name_no_type: Plate 27 01 12
+oomp_key: oomp_oobb_part_plate_27_01_12
+oomp_word: snowman ant tophat
+oomp_word_emoji: ':snowman: :ant: :tophat:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':ant:'
+- ':tophat:'
+oomp_word_list:
+- snowman
+- ant
+- tophat
+part_number: ''
+size: plate
+type: part

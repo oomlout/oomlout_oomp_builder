@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_04_09
+directory: parts/oobb_part_tray_thin_07_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_04_09
+id: oobb_part_tray_thin_07_04_09
+id_no_class: part_tray_thin_07_04_09
+id_no_color: 070409
+id_no_size: 07_04_09
+id_no_type: tray_thin_07_04_09
+manufacturer: ''
+md5: 08df7a66fd5d5a262f441ea1d20aa2b5
+md5_10: 08df7a66fd
+md5_10_upper: 08DF7A66FD
+md5_5: 08df7
+md5_5_upper: 08DF7
+md5_6: 08df7a
+md5_6_alpha: cgoq
+md5_6_alpha_upper: CGOQ
+md5_6_upper: 08DF7A
+name: Oobb Part Tray Thin 07 04 09
+name_no_class: Part Tray Thin 07 04 09
+name_no_color: 070409
+name_no_size: 07 04 09
+name_no_type: Tray Thin 07 04 09
+oomp_key: oomp_oobb_part_tray_thin_07_04_09
+oomp_word: scream fountain camera
+oomp_word_emoji: ':scream: :fountain: :camera:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':fountain:'
+- ':camera:'
+oomp_word_list:
+- scream
+- fountain
+- camera
+part_number: ''
+size: tray_thin
+type: part

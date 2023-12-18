@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 31_pin
+directory: parts/electronic_header_2_54_mm_31_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_through_hole
+id: electronic_header_2_54_mm_31_pin_through_hole
+id_no_class: header_2_54_mm_31_pin_through_hole
+id_no_color: 31pinthroughhole
+id_no_size: 31_pin_through_hole
+id_no_type: 2_54_mm_31_pin_through_hole
+manufacturer: ''
+md5: 3cbec0f21bc3703cb51cefc0394743ae
+md5_10: 3cbec0f21b
+md5_10_upper: 3CBEC0F21B
+md5_5: 3cbec
+md5_5_upper: 3CBEC
+md5_6: 3cbec0
+md5_6_alpha: 2dbr4
+md5_6_alpha_upper: 2DBR4
+md5_6_upper: 3CBEC0
+name: Electronic Header 2 54 Mm 31 Pin Through Hole
+name_no_class: Header 2 54 Mm 31 Pin Through Hole
+name_no_color: 31Pinthroughhole
+name_no_size: 31 Pin Through Hole
+name_no_type: 2 54 Mm 31 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_31_pin_through_hole
+oomp_word: pig ramen bread
+oomp_word_emoji: ':pig: :ramen: :bread:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':ramen:'
+- ':bread:'
+oomp_word_list:
+- pig
+- ramen
+- bread
+part_number: ''
+size: 2_54_mm
+type: header

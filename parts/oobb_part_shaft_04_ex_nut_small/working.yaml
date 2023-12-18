@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_ex_nut_small
+directory: parts/oobb_part_shaft_04_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04_ex_nut_small
+id: oobb_part_shaft_04_ex_nut_small
+id_no_class: part_shaft_04_ex_nut_small
+id_no_color: 04exnutsmall
+id_no_size: 04_ex_nut_small
+id_no_type: shaft_04_ex_nut_small
+manufacturer: ''
+md5: 923e503e1624662fe9215e4364ee848e
+md5_10: 923e503e16
+md5_10_upper: 923E503E16
+md5_5: 923e5
+md5_5_upper: 923E5
+md5_6: 923e50
+md5_6_alpha: 5pf80
+md5_6_alpha_upper: 5PF80
+md5_6_upper: 923E50
+name: Oobb Part Shaft 04 Ex Nut Small
+name_no_class: Part Shaft 04 Ex Nut Small
+name_no_color: 04Exnutsmall
+name_no_size: 04 Ex Nut Small
+name_no_type: Shaft 04 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_04_ex_nut_small
+oomp_word: paperclip monkey beetle
+oomp_word_emoji: ':paperclip: :monkey: :beetle:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':monkey:'
+- ':beetle:'
+oomp_word_list:
+- paperclip
+- monkey
+- beetle
+part_number: ''
+size: shaft
+type: part

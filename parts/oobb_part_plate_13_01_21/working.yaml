@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_01_21'
+directory: parts/oobb_part_plate_13_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_21
+id: oobb_part_plate_13_01_21
+id_no_class: part_plate_13_01_21
+id_no_color: '130121'
+id_no_size: '13_01_21'
+id_no_type: plate_13_01_21
+manufacturer: ''
+md5: 0d797bc0b3b341d658cde59a1a06c983
+md5_10: 0d797bc0b3
+md5_10_upper: 0D797BC0B3
+md5_5: 0d797
+md5_5_upper: 0D797
+md5_6: 0d797b
+md5_6_alpha: ixdn
+md5_6_alpha_upper: IXDN
+md5_6_upper: 0D797B
+name: Oobb Part Plate 13 01 21
+name_no_class: Part Plate 13 01 21
+name_no_color: '130121'
+name_no_size: 13 01 21
+name_no_type: Plate 13 01 21
+oomp_key: oomp_oobb_part_plate_13_01_21
+oomp_word: heart balloon computer
+oomp_word_emoji: ':heart: :balloon: :computer:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':balloon:'
+- ':computer:'
+oomp_word_list:
+- heart
+- balloon
+- computer
+part_number: ''
+size: plate
+type: part

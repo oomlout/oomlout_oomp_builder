@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_20_teeth_shield
+directory: parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_shield
+id: oobb_part_pulley_gt2_01_09_ex_20_teeth_shield
+id_no_class: part_pulley_gt2_01_09_ex_20_teeth_shield
+id_no_color: 0109ex20teethshield
+id_no_size: 01_09_ex_20_teeth_shield
+id_no_type: pulley_gt2_01_09_ex_20_teeth_shield
+manufacturer: ''
+md5: da8b73d7323262964ff9392c2236b979
+md5_10: da8b73d732
+md5_10_upper: DA8B73D732
+md5_5: da8b7
+md5_5_upper: DA8B7
+md5_6: da8b73
+md5_6_alpha: 8izcj
+md5_6_alpha_upper: 8IZCJ
+md5_6_upper: DA8B73
+name: Oobb Part Pulley Gt2 01 09 Ex 20 Teeth Shield
+name_no_class: Part Pulley Gt2 01 09 Ex 20 Teeth Shield
+name_no_color: 0109Ex20Teethshield
+name_no_size: 01 09 Ex 20 Teeth Shield
+name_no_type: Pulley Gt2 01 09 Ex 20 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_20_teeth_shield
+oomp_word: hotel door flags
+oomp_word_emoji: ':hotel: :door: :flags:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':door:'
+- ':flags:'
+oomp_word_list:
+- hotel
+- door
+- flags
+part_number: ''
+size: pulley_gt2
+type: part

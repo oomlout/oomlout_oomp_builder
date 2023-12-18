@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_1_5_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_1_5_mm
+id: hardware_washer_1_5_mm
+id_no_class: washer_1_5_mm
+id_no_color: 15mm
+id_no_size: 1_5_mm
+id_no_type: 1_5_mm
+manufacturer: ''
+md5: 76c6939adfd065f6f994af8d95f115ca
+md5_10: 76c6939adf
+md5_10_upper: 76C6939ADF
+md5_5: 76c69
+md5_5_upper: 76C69
+md5_6: 76c693
+md5_6_alpha: 4mu8j
+md5_6_alpha_upper: 4MU8J
+md5_6_upper: 76C693
+name: Hardware Washer 1 5 Mm
+name_no_class: Washer 1 5 Mm
+name_no_color: 15Mm
+name_no_size: 1 5 Mm
+name_no_type: 1 5 Mm
+oomp_key: oomp_hardware_washer_1_5_mm
+oomp_word: santa lollipop books
+oomp_word_emoji: ':santa: :lollipop: :books:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':lollipop:'
+- ':books:'
+oomp_word_list:
+- santa
+- lollipop
+- books
+part_number: ''
+size: 1_5_mm
+type: washer

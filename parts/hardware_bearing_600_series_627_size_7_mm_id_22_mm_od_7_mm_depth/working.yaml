@@ -1,0 +1,40 @@
+classification: hardware
+color: 627_size
+description_extra: ''
+description_main: 7_mm_id_22_mm_od_7_mm_depth
+directory: parts/hardware_bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+id: hardware_bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+id_no_class: bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+id_no_color: 7_mm_id_22_mm_od_7_mm_depth
+id_no_size: 627_size_7_mm_id_22_mm_od_7_mm_depth
+id_no_type: 600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+manufacturer: ''
+md5: 6e323b100b9506bf4c5adb524746a062
+md5_10: 6e323b100b
+md5_10_upper: 6E323B100B
+md5_5: 6e323
+md5_5_upper: 6E323
+md5_6: 6e323b
+md5_6_alpha: 4ase3
+md5_6_alpha_upper: 4ASE3
+md5_6_upper: 6E323B
+name: Hardware Bearing 600 Series 627 Size 7 Mm Id 22 Mm Od 7 Mm Depth
+name_no_class: Bearing 600 Series 627 Size 7 Mm Id 22 Mm Od 7 Mm Depth
+name_no_color: 7 Mm Id 22 Mm Od 7 Mm Depth
+name_no_size: 627 Size 7 Mm Id 22 Mm Od 7 Mm Depth
+name_no_type: 600 Series 627 Size 7 Mm Id 22 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
+oomp_word: new_moon cat bear
+oomp_word_emoji: ':new_moon: :cat: :bear:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':cat:'
+- ':bear:'
+oomp_word_list:
+- new_moon
+- cat
+- bear
+part_number: ''
+size: 600_series
+type: bearing

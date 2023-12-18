@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_2d5_12
+directory: parts/oobb_part_tray_02_2d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_2d5_12
+id: oobb_part_tray_02_2d5_12
+id_no_class: part_tray_02_2d5_12
+id_no_color: 022d512
+id_no_size: 02_2d5_12
+id_no_type: tray_02_2d5_12
+manufacturer: ''
+md5: 899a4839b00b952dd2a3f24236c8a7bc
+md5_10: 899a4839b0
+md5_10_upper: 899A4839B0
+md5_5: 899a4
+md5_5_upper: 899A4
+md5_6: 899a48
+md5_6_alpha: 5daa0
+md5_6_alpha_upper: 5DAA0
+md5_6_upper: 899A48
+name: Oobb Part Tray 02 2D5 12
+name_no_class: Part Tray 02 2D5 12
+name_no_color: 022D512
+name_no_size: 02 2D5 12
+name_no_type: Tray 02 2D5 12
+oomp_key: oomp_oobb_part_tray_02_2d5_12
+oomp_word: hammer golf hatched_chick
+oomp_word_emoji: ':hammer: :golf: :hatched_chick:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':golf:'
+- ':hatched_chick:'
+oomp_word_list:
+- hammer
+- golf
+- hatched_chick
+part_number: ''
+size: tray
+type: part

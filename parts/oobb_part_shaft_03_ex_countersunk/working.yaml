@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_ex_countersunk
+directory: parts/oobb_part_shaft_03_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03_ex_countersunk
+id: oobb_part_shaft_03_ex_countersunk
+id_no_class: part_shaft_03_ex_countersunk
+id_no_color: 03excountersunk
+id_no_size: 03_ex_countersunk
+id_no_type: shaft_03_ex_countersunk
+manufacturer: ''
+md5: 07453a4cb293d7e08f64aaf95bcfb61f
+md5_10: 07453a4cb2
+md5_10_upper: 07453A4CB2
+md5_5: '07453'
+md5_5_upper: '07453'
+md5_6: 07453a
+md5_6_alpha: a7ne
+md5_6_alpha_upper: A7NE
+md5_6_upper: 07453A
+name: Oobb Part Shaft 03 Ex Countersunk
+name_no_class: Part Shaft 03 Ex Countersunk
+name_no_color: 03Excountersunk
+name_no_size: 03 Ex Countersunk
+name_no_type: Shaft 03 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_03_ex_countersunk
+oomp_word: cry snake koala
+oomp_word_emoji: ':cry: :snake: :koala:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':snake:'
+- ':koala:'
+oomp_word_list:
+- cry
+- snake
+- koala
+part_number: ''
+size: shaft
+type: part

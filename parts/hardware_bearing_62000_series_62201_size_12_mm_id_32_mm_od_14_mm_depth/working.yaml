@@ -1,0 +1,40 @@
+classification: hardware
+color: 62201_size
+description_extra: ''
+description_main: 12_mm_id_32_mm_od_14_mm_depth
+directory: parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+id: hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+id_no_class: bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+id_no_color: 12_mm_id_32_mm_od_14_mm_depth
+id_no_size: 62201_size_12_mm_id_32_mm_od_14_mm_depth
+id_no_type: 62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+manufacturer: ''
+md5: b64ac4972af2d0953bd9729c59f2e9e3
+md5_10: b64ac4972a
+md5_10_upper: B64AC4972A
+md5_5: b64ac
+md5_5_upper: B64AC
+md5_6: b64ac4
+md5_6_alpha: 7424k
+md5_6_alpha_upper: 7424K
+md5_6_upper: B64AC4
+name: Hardware Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
+name_no_class: Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
+name_no_color: 12 Mm Id 32 Mm Od 14 Mm Depth
+name_no_size: 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
+name_no_type: 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+oomp_word: beer chicken cookie
+oomp_word_emoji: ':beer: :chicken: :cookie:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':chicken:'
+- ':cookie:'
+oomp_word_list:
+- beer
+- chicken
+- cookie
+part_number: ''
+size: 62000_series
+type: bearing

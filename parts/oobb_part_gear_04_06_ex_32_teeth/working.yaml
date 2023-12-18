@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_06_ex_32_teeth
+directory: parts/oobb_part_gear_04_06_ex_32_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth
+id: oobb_part_gear_04_06_ex_32_teeth
+id_no_class: part_gear_04_06_ex_32_teeth
+id_no_color: 0406ex32teeth
+id_no_size: 04_06_ex_32_teeth
+id_no_type: gear_04_06_ex_32_teeth
+manufacturer: ''
+md5: fe493829d5c174ff9d62d03330c22138
+md5_10: fe493829d5
+md5_10_upper: FE493829D5
+md5_5: fe493
+md5_5_upper: FE493
+md5_6: fe4938
+md5_6_alpha: 9x6pk
+md5_6_alpha_upper: 9X6PK
+md5_6_upper: FE4938
+name: Oobb Part Gear 04 06 Ex 32 Teeth
+name_no_class: Part Gear 04 06 Ex 32 Teeth
+name_no_color: 0406Ex32Teeth
+name_no_size: 04 06 Ex 32 Teeth
+name_no_type: Gear 04 06 Ex 32 Teeth
+oomp_key: oomp_oobb_part_gear_04_06_ex_32_teeth
+oomp_word: recycle hatching_chick frog
+oomp_word_emoji: ':recycle: :hatching_chick: :frog:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':hatching_chick:'
+- ':frog:'
+oomp_word_list:
+- recycle
+- hatching_chick
+- frog
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+id_no_class: ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+id_no_color: usb_to_serial_wch_ch340x
+id_no_size: converter_usb_to_serial_converter_wch_ch340x
+id_no_type: msop_10_converter_usb_to_serial_converter_wch_ch340x
+manufacturer: wch
+md5: 0f210323ca1152360fceeb82b02d755c
+md5_10: 0f210323ca
+md5_10_upper: 0F210323CA
+md5_5: 0f210
+md5_5_upper: 0F210
+md5_6: 0f2103
+md5_6_alpha: l91f
+md5_6_alpha_upper: L91F
+md5_6_upper: 0F2103
+name: Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X
+name_no_class: Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X
+name_no_color: Usb To Serial Wch Ch340X
+name_no_size: Converter Usb To Serial Converter Wch Ch340X
+name_no_type: Msop 10 Converter Usb To Serial Converter Wch Ch340X
+oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+oomp_word: sparkles feet grin
+oomp_word_emoji: ':sparkles: :feet: :grin:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':feet:'
+- ':grin:'
+oomp_word_list:
+- sparkles
+- feet
+- grin
+part_number: ch340x
+size: msop_10
+type: ic

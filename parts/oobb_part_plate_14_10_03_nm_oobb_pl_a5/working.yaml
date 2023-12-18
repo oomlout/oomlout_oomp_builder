@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 14_10_03_nm_oobb_pl_a5
+directory: parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5
+id: oobb_part_plate_14_10_03_nm_oobb_pl_a5
+id_no_class: part_plate_14_10_03_nm_pl_a5
+id_no_color: 141003nmpla5
+id_no_size: 14_10_03_nm_pl_a5
+id_no_type: plate_14_10_03_nm_pl_a5
+manufacturer: ''
+md5: e24eeae8cd18789b8c0ef2d45b3afd1d
+md5_10: e24eeae8cd
+md5_10_upper: E24EEAE8CD
+md5_5: e24ee
+md5_5_upper: E24EE
+md5_6: e24eea
+md5_6_alpha: 8tvxm
+md5_6_alpha_upper: 8TVXM
+md5_6_upper: E24EEA
+name: Oobb Part Plate 14 10 03 Nm Oobb Pl A5
+name_no_class: Part Plate 14 10 03 Nm Pl A5
+name_no_color: 141003Nmpla5
+name_no_size: 14 10 03 Nm Pl A5
+name_no_type: Plate 14 10 03 Nm Pl A5
+oomp_key: oomp_oobb_part_plate_14_10_03_nm_oobb_pl_a5
+oomp_word: sailboat honeybee tractor
+oomp_word_emoji: ':sailboat: :honeybee: :tractor:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':honeybee:'
+- ':tractor:'
+oomp_word_list:
+- sailboat
+- honeybee
+- tractor
+part_number: ''
+size: plate
+type: part

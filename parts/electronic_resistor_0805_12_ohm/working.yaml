@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12_ohm
+directory: parts/electronic_resistor_0805_12_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_12_ohm
+id: electronic_resistor_0805_12_ohm
+id_no_class: resistor_0805_12_ohm
+id_no_color: 12ohm
+id_no_size: 12_ohm
+id_no_type: 0805_12_ohm
+manufacturer: ''
+md5: 092133c2583796ec0be32fc203288dc9
+md5_10: 092133c258
+md5_10_upper: 092133C258
+md5_5: 09213
+md5_5_upper: 09213
+md5_6: 092133
+md5_6_alpha: cto3
+md5_6_alpha_upper: CTO3
+md5_6_upper: 092133
+name: Electronic Resistor 0805 12 Ohm
+name_no_class: Resistor 0805 12 Ohm
+name_no_color: 12Ohm
+name_no_size: 12 Ohm
+name_no_type: 0805 12 Ohm
+oomp_key: oomp_electronic_resistor_0805_12_ohm
+oomp_word: angry feet dog
+oomp_word_emoji: ':angry: :feet: :dog:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':feet:'
+- ':dog:'
+oomp_word_list:
+- angry
+- feet
+- dog
+part_number: ''
+size: 0805
+type: resistor

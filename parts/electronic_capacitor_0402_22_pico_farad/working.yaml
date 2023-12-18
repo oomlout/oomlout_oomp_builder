@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_pico_farad
+directory: parts/electronic_capacitor_0402_22_pico_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+id: electronic_capacitor_0402_22_pico_farad
+id_no_class: capacitor_0402_22_pico_farad
+id_no_color: 22picofarad
+id_no_size: 22_pico_farad
+id_no_type: 0402_22_pico_farad
+manufacturer: ''
+md5: 8008269b2a82f75ac1033a8691959122
+md5_10: 8008269b2a
+md5_10_upper: 8008269B2A
+md5_5: '80082'
+md5_5_upper: '80082'
+md5_6: '800826'
+md5_6_alpha: 4zuau
+md5_6_alpha_upper: 4ZUAU
+md5_6_upper: '800826'
+name: Electronic Capacitor 0402 22 Pico Farad
+name_no_class: Capacitor 0402 22 Pico Farad
+name_no_color: 22Picofarad
+name_no_size: 22 Pico Farad
+name_no_type: 0402 22 Pico Farad
+oomp_key: oomp_electronic_capacitor_0402_22_pico_farad
+oomp_word: hourglass scream eyes
+oomp_word_emoji: ':hourglass: :scream: :eyes:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':scream:'
+- ':eyes:'
+oomp_word_list:
+- hourglass
+- scream
+- eyes
+part_number: ''
+size: '0402'
+type: capacitor

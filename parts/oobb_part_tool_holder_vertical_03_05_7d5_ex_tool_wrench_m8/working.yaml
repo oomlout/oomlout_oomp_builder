@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_7d5_ex_tool_wrench_m8
+directory: parts/oobb_part_tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+id: oobb_part_tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+id_no_class: part_tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+id_no_color: 03057d5extoolwrenchm8
+id_no_size: 03_05_7d5_ex_tool_wrench_m8
+id_no_type: tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+manufacturer: ''
+md5: 3a501453018ca5458eb172fe041503b8
+md5_10: 3a50145301
+md5_10_upper: 3A50145301
+md5_5: 3a501
+md5_5_upper: 3A501
+md5_6: 3a5014
+md5_6_alpha: 29wr8
+md5_6_alpha_upper: 29WR8
+md5_6_upper: 3A5014
+name: Oobb Part Tool Holder Vertical 03 05 7D5 Ex Tool Wrench M8
+name_no_class: Part Tool Holder Vertical 03 05 7D5 Ex Tool Wrench M8
+name_no_color: 03057D5Extoolwrenchm8
+name_no_size: 03 05 7D5 Ex Tool Wrench M8
+name_no_type: Tool Holder Vertical 03 05 7D5 Ex Tool Wrench M8
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_7d5_ex_tool_wrench_m8
+oomp_word: koala beetle fire
+oomp_word_emoji: ':koala: :beetle: :fire:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':beetle:'
+- ':fire:'
+oomp_word_list:
+- koala
+- beetle
+- fire
+part_number: ''
+size: tool_holder_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_01_18
+directory: parts/oobb_part_tray_vertical_02_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_01_18
+id: oobb_part_tray_vertical_02_01_18
+id_no_class: part_tray_vertical_02_01_18
+id_no_color: 020118
+id_no_size: 02_01_18
+id_no_type: tray_vertical_02_01_18
+manufacturer: ''
+md5: aefde4187dd38eac147229d597e5c4d2
+md5_10: aefde4187d
+md5_10_upper: AEFDE4187D
+md5_5: aefde
+md5_5_upper: AEFDE
+md5_6: aefde4
+md5_6_alpha: 6tsys
+md5_6_alpha_upper: 6TSYS
+md5_6_upper: AEFDE4
+name: Oobb Part Tray Vertical 02 01 18
+name_no_class: Part Tray Vertical 02 01 18
+name_no_color: 020118
+name_no_size: 02 01 18
+name_no_type: Tray Vertical 02 01 18
+oomp_key: oomp_oobb_part_tray_vertical_02_01_18
+oomp_word: jeans parking anchor
+oomp_word_emoji: ':jeans: :parking: :anchor:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':parking:'
+- ':anchor:'
+oomp_word_list:
+- jeans
+- parking
+- anchor
+part_number: ''
+size: tray_vertical
+type: part

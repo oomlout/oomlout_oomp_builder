@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120_ohm
+directory: parts/electronic_resistor_0402_120_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_120_ohm
+id: electronic_resistor_0402_120_ohm
+id_no_class: resistor_0402_120_ohm
+id_no_color: 120ohm
+id_no_size: 120_ohm
+id_no_type: 0402_120_ohm
+manufacturer: ''
+md5: 726f82b1739070d32eed96f6321da117
+md5_10: 726f82b173
+md5_10_upper: 726F82B173
+md5_5: 726f8
+md5_5_upper: 726F8
+md5_6: 726f82
+md5_6_alpha: 4gqrm
+md5_6_alpha_upper: 4GQRM
+md5_6_upper: 726F82
+name: Electronic Resistor 0402 120 Ohm
+name_no_class: Resistor 0402 120 Ohm
+name_no_color: 120Ohm
+name_no_size: 120 Ohm
+name_no_type: 0402 120 Ohm
+oomp_key: oomp_electronic_resistor_0402_120_ohm
+oomp_word: dolls moon radio
+oomp_word_emoji: ':dolls: :moon: :radio:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':moon:'
+- ':radio:'
+oomp_word_list:
+- dolls
+- moon
+- radio
+part_number: ''
+size: '0402'
+type: resistor

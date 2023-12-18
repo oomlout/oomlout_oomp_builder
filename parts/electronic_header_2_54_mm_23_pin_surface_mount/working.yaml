@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 23_pin
+directory: parts/electronic_header_2_54_mm_23_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_surface_mount
+id: electronic_header_2_54_mm_23_pin_surface_mount
+id_no_class: header_2_54_mm_23_pin_surface_mount
+id_no_color: 23pinsurfacemount
+id_no_size: 23_pin_surface_mount
+id_no_type: 2_54_mm_23_pin_surface_mount
+manufacturer: ''
+md5: cb08618190bbb92a8f3f5b024411757b
+md5_10: cb08618190
+md5_10_upper: CB08618190
+md5_5: cb086
+md5_5_upper: CB086
+md5_6: cb0861
+md5_6_alpha: 7x6xt
+md5_6_alpha_upper: 7X6XT
+md5_6_upper: CB0861
+name: Electronic Header 2 54 Mm 23 Pin Surface Mount
+name_no_class: Header 2 54 Mm 23 Pin Surface Mount
+name_no_color: 23Pinsurfacemount
+name_no_size: 23 Pin Surface Mount
+name_no_type: 2 54 Mm 23 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_23_pin_surface_mount
+oomp_word: grapes scream bouquet
+oomp_word_emoji: ':grapes: :scream: :bouquet:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':scream:'
+- ':bouquet:'
+oomp_word_list:
+- grapes
+- scream
+- bouquet
+part_number: ''
+size: 2_54_mm
+type: header

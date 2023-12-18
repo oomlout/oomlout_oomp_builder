@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_07_30'
+directory: parts/oobb_part_tray_05_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_07_30
+id: oobb_part_tray_05_07_30
+id_no_class: part_tray_05_07_30
+id_no_color: '050730'
+id_no_size: '05_07_30'
+id_no_type: tray_05_07_30
+manufacturer: ''
+md5: d09bbd9d87183ec308810fcee8a61e13
+md5_10: d09bbd9d87
+md5_10_upper: D09BBD9D87
+md5_5: d09bb
+md5_5_upper: D09BB
+md5_6: d09bbd
+md5_6_alpha: 850vx
+md5_6_alpha_upper: 850VX
+md5_6_upper: D09BBD
+name: Oobb Part Tray 05 07 30
+name_no_class: Part Tray 05 07 30
+name_no_color: '050730'
+name_no_size: 05 07 30
+name_no_type: Tray 05 07 30
+oomp_key: oomp_oobb_part_tray_05_07_30
+oomp_word: banana ski rice
+oomp_word_emoji: ':banana: :ski: :rice:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':ski:'
+- ':rice:'
+oomp_word_list:
+- banana
+- ski
+- rice
+part_number: ''
+size: tray
+type: part

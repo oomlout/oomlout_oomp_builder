@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: smd
+directory: parts/electronic_nettie_4_nets_smd
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd
+id: electronic_nettie_4_nets_smd
+id_no_class: nettie_4_nets_smd
+id_no_color: smd
+id_no_size: smd
+id_no_type: 4_nets_smd
+manufacturer: ''
+md5: cd720732d76fb973d0de468f71781e99
+md5_10: cd720732d7
+md5_10_upper: CD720732D7
+md5_5: cd720
+md5_5_upper: CD720
+md5_6: cd7207
+md5_6_alpha: 80kxz
+md5_6_alpha_upper: 80KXZ
+md5_6_upper: CD7207
+name: Electronic Nettie 4 Nets Smd
+name_no_class: Nettie 4 Nets Smd
+name_no_color: Smd
+name_no_size: Smd
+name_no_type: 4 Nets Smd
+oomp_key: oomp_electronic_nettie_4_nets_smd
+oomp_word: strawberry dolls cry
+oomp_word_emoji: ':strawberry: :dolls: :cry:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':dolls:'
+- ':cry:'
+oomp_word_list:
+- strawberry
+- dolls
+- cry
+part_number: ''
+size: 4_nets
+type: nettie

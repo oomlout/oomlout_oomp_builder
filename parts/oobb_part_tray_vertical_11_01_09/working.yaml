@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_09'
+directory: parts/oobb_part_tray_vertical_11_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_01_09
+id: oobb_part_tray_vertical_11_01_09
+id_no_class: part_tray_vertical_11_01_09
+id_no_color: '110109'
+id_no_size: '11_01_09'
+id_no_type: tray_vertical_11_01_09
+manufacturer: ''
+md5: 992a08198938dca974b32170d26e0a9f
+md5_10: 992a081989
+md5_10_upper: 992A081989
+md5_5: 992a0
+md5_5_upper: 992A0
+md5_6: 992a08
+md5_6_alpha: 5z56w
+md5_6_alpha_upper: 5Z56W
+md5_6_upper: 992A08
+name: Oobb Part Tray Vertical 11 01 09
+name_no_class: Part Tray Vertical 11 01 09
+name_no_color: '110109'
+name_no_size: 11 01 09
+name_no_type: Tray Vertical 11 01 09
+oomp_key: oomp_oobb_part_tray_vertical_11_01_09
+oomp_word: bowling umbrella scream
+oomp_word_emoji: ':bowling: :umbrella: :scream:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':umbrella:'
+- ':scream:'
+oomp_word_list:
+- bowling
+- umbrella
+- scream
+part_number: ''
+size: tray_vertical
+type: part

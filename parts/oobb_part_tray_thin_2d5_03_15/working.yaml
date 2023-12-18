@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_03_15
+directory: parts/oobb_part_tray_thin_2d5_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_03_15
+id: oobb_part_tray_thin_2d5_03_15
+id_no_class: part_tray_thin_2d5_03_15
+id_no_color: 2d50315
+id_no_size: 2d5_03_15
+id_no_type: tray_thin_2d5_03_15
+manufacturer: ''
+md5: 18c32b32d507d53a859ffed5b1f556bc
+md5_10: 18c32b32d5
+md5_10_upper: 18C32B32D5
+md5_5: 18c32
+md5_5_upper: 18C32
+md5_6: 18c32b
+md5_6_alpha: ys6j
+md5_6_alpha_upper: YS6J
+md5_6_upper: 18C32B
+name: Oobb Part Tray Thin 2D5 03 15
+name_no_class: Part Tray Thin 2D5 03 15
+name_no_color: 2D50315
+name_no_size: 2D5 03 15
+name_no_type: Tray Thin 2D5 03 15
+oomp_key: oomp_oobb_part_tray_thin_2d5_03_15
+oomp_word: hand cake cloud
+oomp_word_emoji: ':hand: :cake: :cloud:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':cake:'
+- ':cloud:'
+oomp_word_list:
+- hand
+- cake
+- cloud
+part_number: ''
+size: tray_thin
+type: part

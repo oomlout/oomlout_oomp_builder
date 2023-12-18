@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_18
+directory: parts/oobb_part_tray_thin_07_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_06_18
+id: oobb_part_tray_thin_07_06_18
+id_no_class: part_tray_thin_07_06_18
+id_no_color: 070618
+id_no_size: 07_06_18
+id_no_type: tray_thin_07_06_18
+manufacturer: ''
+md5: ff0ad92d92a3a0551d9d8f7346324a6f
+md5_10: ff0ad92d92
+md5_10_upper: FF0AD92D92
+md5_5: ff0ad
+md5_5_upper: FF0AD
+md5_6: ff0ad9
+md5_6_alpha: 9y8yh
+md5_6_alpha_upper: 9Y8YH
+md5_6_upper: FF0AD9
+name: Oobb Part Tray Thin 07 06 18
+name_no_class: Part Tray Thin 07 06 18
+name_no_color: 070618
+name_no_size: 07 06 18
+name_no_type: Tray Thin 07 06 18
+oomp_key: oomp_oobb_part_tray_thin_07_06_18
+oomp_word: trident sleepy bank
+oomp_word_emoji: ':trident: :sleepy: :bank:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':sleepy:'
+- ':bank:'
+oomp_word_list:
+- trident
+- sleepy
+- bank
+part_number: ''
+size: tray_thin
+type: part

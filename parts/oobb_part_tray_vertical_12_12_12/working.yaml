@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_12'
+directory: parts/oobb_part_tray_vertical_12_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_12_12
+id: oobb_part_tray_vertical_12_12_12
+id_no_class: part_tray_vertical_12_12_12
+id_no_color: '121212'
+id_no_size: '12_12_12'
+id_no_type: tray_vertical_12_12_12
+manufacturer: ''
+md5: fad0293aba4263d0e06555a72e94a80a
+md5_10: fad0293aba
+md5_10_upper: FAD0293ABA
+md5_5: fad02
+md5_5_upper: FAD02
+md5_6: fad029
+md5_6_alpha: 9sb3d
+md5_6_alpha_upper: 9SB3D
+md5_6_upper: FAD029
+name: Oobb Part Tray Vertical 12 12 12
+name_no_class: Part Tray Vertical 12 12 12
+name_no_color: '121212'
+name_no_size: 12 12 12
+name_no_type: Tray Vertical 12 12 12
+oomp_key: oomp_oobb_part_tray_vertical_12_12_12
+oomp_word: nine banana sunny
+oomp_word_emoji: ':nine: :banana: :sunny:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':banana:'
+- ':sunny:'
+oomp_word_list:
+- nine
+- banana
+- sunny
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680_ohm
+directory: parts/electronic_resistor_1206_680_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_680_ohm
+id: electronic_resistor_1206_680_ohm
+id_no_class: resistor_1206_680_ohm
+id_no_color: 680ohm
+id_no_size: 680_ohm
+id_no_type: 1206_680_ohm
+manufacturer: ''
+md5: 1aa70e29a9387c41f928465af8b9f87e
+md5_10: 1aa70e29a9
+md5_10_upper: 1AA70E29A9
+md5_5: 1aa70
+md5_5_upper: 1AA70
+md5_6: 1aa70e
+md5_6_alpha: 11fri
+md5_6_alpha_upper: 11FRI
+md5_6_upper: 1AA70E
+name: Electronic Resistor 1206 680 Ohm
+name_no_class: Resistor 1206 680 Ohm
+name_no_color: 680Ohm
+name_no_size: 680 Ohm
+name_no_type: 1206 680 Ohm
+oomp_key: oomp_electronic_resistor_1206_680_ohm
+oomp_word: clap guitar cupid
+oomp_word_emoji: ':clap: :guitar: :cupid:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':guitar:'
+- ':cupid:'
+oomp_word_list:
+- clap
+- guitar
+- cupid
+part_number: ''
+size: '1206'
+type: resistor

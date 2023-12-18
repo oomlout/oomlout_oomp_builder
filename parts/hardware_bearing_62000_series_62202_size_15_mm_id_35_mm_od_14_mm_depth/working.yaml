@@ -1,0 +1,40 @@
+classification: hardware
+color: 62202_size
+description_extra: ''
+description_main: 15_mm_id_35_mm_od_14_mm_depth
+directory: parts/hardware_bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+id: hardware_bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+id_no_class: bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+id_no_color: 15_mm_id_35_mm_od_14_mm_depth
+id_no_size: 62202_size_15_mm_id_35_mm_od_14_mm_depth
+id_no_type: 62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+manufacturer: ''
+md5: 1e503140496b63af576c80f334ad32c9
+md5_10: 1e50314049
+md5_10_upper: 1E50314049
+md5_5: 1e503
+md5_5_upper: 1E503
+md5_6: 1e5031
+md5_6_alpha: 16kvl
+md5_6_alpha_upper: 16KVL
+md5_6_upper: 1E5031
+name: Hardware Bearing 62000 Series 62202 Size 15 Mm Id 35 Mm Od 14 Mm Depth
+name_no_class: Bearing 62000 Series 62202 Size 15 Mm Id 35 Mm Od 14 Mm Depth
+name_no_color: 15 Mm Id 35 Mm Od 14 Mm Depth
+name_no_size: 62202 Size 15 Mm Id 35 Mm Od 14 Mm Depth
+name_no_type: 62000 Series 62202 Size 15 Mm Id 35 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
+oomp_word: angel beetle ocean
+oomp_word_emoji: ':angel: :beetle: :ocean:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':beetle:'
+- ':ocean:'
+oomp_word_list:
+- angel
+- beetle
+- ocean
+part_number: ''
+size: 62000_series
+type: bearing

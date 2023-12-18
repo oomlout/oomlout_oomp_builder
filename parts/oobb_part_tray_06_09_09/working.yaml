@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_09
+directory: parts/oobb_part_tray_06_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_09_09
+id: oobb_part_tray_06_09_09
+id_no_class: part_tray_06_09_09
+id_no_color: 060909
+id_no_size: 06_09_09
+id_no_type: tray_06_09_09
+manufacturer: ''
+md5: cf0a8ab3b3105865b0b2e833be464bc5
+md5_10: cf0a8ab3b3
+md5_10_upper: CF0A8AB3B3
+md5_5: cf0a8
+md5_5_upper: CF0A8
+md5_6: cf0a8a
+md5_6_alpha: 82tmy
+md5_6_alpha_upper: 82TMY
+md5_6_upper: CF0A8A
+name: Oobb Part Tray 06 09 09
+name_no_class: Part Tray 06 09 09
+name_no_color: 060909
+name_no_size: 06 09 09
+name_no_type: Tray 06 09 09
+oomp_key: oomp_oobb_part_tray_06_09_09
+oomp_word: melon sleepy envelope
+oomp_word_emoji: ':melon: :sleepy: :envelope:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':sleepy:'
+- ':envelope:'
+oomp_word_list:
+- melon
+- sleepy
+- envelope
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_12_18
+directory: parts/oobb_part_tray_05_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_12_18
+id: oobb_part_tray_05_12_18
+id_no_class: part_tray_05_12_18
+id_no_color: 051218
+id_no_size: 05_12_18
+id_no_type: tray_05_12_18
+manufacturer: ''
+md5: 91aaba95d135b240d8a4b7ea29f61f71
+md5_10: 91aaba95d1
+md5_10_upper: 91AABA95D1
+md5_5: 91aab
+md5_5_upper: 91AAB
+md5_6: 91aaba
+md5_6_alpha: 5om2i
+md5_6_alpha_upper: 5OM2I
+md5_6_upper: 91AABA
+name: Oobb Part Tray 05 12 18
+name_no_class: Part Tray 05 12 18
+name_no_color: 051218
+name_no_size: 05 12 18
+name_no_type: Tray 05 12 18
+oomp_key: oomp_oobb_part_tray_05_12_18
+oomp_word: pushpin lipstick spaghetti
+oomp_word_emoji: ':pushpin: :lipstick: :spaghetti:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':lipstick:'
+- ':spaghetti:'
+oomp_word_list:
+- pushpin
+- lipstick
+- spaghetti
+part_number: ''
+size: tray
+type: part

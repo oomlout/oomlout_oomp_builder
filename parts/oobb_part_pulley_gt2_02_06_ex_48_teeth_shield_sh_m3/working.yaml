@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_48_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+id_no_color: 0206ex48teethshieldshm3
+id_no_size: 02_06_ex_48_teeth_shield_sh_m3
+id_no_type: pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+manufacturer: ''
+md5: f6ee41fbb38532da71f48218b73938ce
+md5_10: f6ee41fbb3
+md5_10_upper: F6EE41FBB3
+md5_5: f6ee4
+md5_5_upper: F6EE4
+md5_6: f6ee41
+md5_6_alpha: 9murl
+md5_6_alpha_upper: 9MURL
+md5_6_upper: F6EE41
+name: Oobb Part Pulley Gt2 02 06 Ex 48 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 02 06 Ex 48 Teeth Shield Sh M3
+name_no_color: 0206Ex48Teethshieldshm3
+name_no_size: 02 06 Ex 48 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 02 06 Ex 48 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_48_teeth_shield_sh_m3
+oomp_word: five ambulance camel
+oomp_word_emoji: ':five: :ambulance: :camel:'
+oomp_word_emoji_list:
+- ':five:'
+- ':ambulance:'
+- ':camel:'
+oomp_word_list:
+- five
+- ambulance
+- camel
+part_number: ''
+size: pulley_gt2
+type: part

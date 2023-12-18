@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_12_6705'
+directory: parts/oobb_part_bearing_plate_03_03_12_6705
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6705
+id: oobb_part_bearing_plate_03_03_12_6705
+id_no_class: part_bearing_plate_03_03_12_6705
+id_no_color: '0303126705'
+id_no_size: '03_03_12_6705'
+id_no_type: bearing_plate_03_03_12_6705
+manufacturer: ''
+md5: d70843e18a754b73263615962b0779ce
+md5_10: d70843e18a
+md5_10_upper: D70843E18A
+md5_5: d7084
+md5_5_upper: D7084
+md5_6: d70843
+md5_6_alpha: 8e1qb
+md5_6_alpha_upper: 8E1QB
+md5_6_upper: D70843
+name: Oobb Part Bearing Plate 03 03 12 6705
+name_no_class: Part Bearing Plate 03 03 12 6705
+name_no_color: '0303126705'
+name_no_size: 03 03 12 6705
+name_no_type: Bearing Plate 03 03 12 6705
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6705
+oomp_word: office scream elephant
+oomp_word_emoji: ':office: :scream: :elephant:'
+oomp_word_emoji_list:
+- ':office:'
+- ':scream:'
+- ':elephant:'
+oomp_word_list:
+- office
+- scream
+- elephant
+part_number: ''
+size: bearing_plate
+type: part

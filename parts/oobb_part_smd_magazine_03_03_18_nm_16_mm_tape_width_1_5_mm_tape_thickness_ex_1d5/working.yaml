@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 030318nm16mmtapewidth15mmtapethicknessex1d5
+id_no_size: 03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 89f2a5bebc8ecf38bcdefd9e507bb16b
+md5_10: 89f2a5bebc
+md5_10_upper: 89F2A5BEBC
+md5_5: 89f2a
+md5_5_upper: 89F2A
+md5_6: 89f2a5
+md5_6_alpha: 5drqd
+md5_6_alpha_upper: 5DRQD
+md5_6_upper: 89F2A5
+name: Oobb Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 030318Nm16Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 03 03 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 03 03 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: hammer one headphones
+oomp_word_emoji: ':hammer: :one: :headphones:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':one:'
+- ':headphones:'
+oomp_word_list:
+- hammer
+- one
+- headphones
+part_number: ''
+size: smd_magazine
+type: part

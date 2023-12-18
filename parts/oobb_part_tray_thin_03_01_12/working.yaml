@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_12'
+directory: parts/oobb_part_tray_thin_03_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_01_12
+id: oobb_part_tray_thin_03_01_12
+id_no_class: part_tray_thin_03_01_12
+id_no_color: '030112'
+id_no_size: '03_01_12'
+id_no_type: tray_thin_03_01_12
+manufacturer: ''
+md5: 88e2309c58ff076d2b3b8610a83df48f
+md5_10: 88e2309c58
+md5_10_upper: 88E2309C58
+md5_5: 88e23
+md5_5_upper: 88E23
+md5_6: 88e230
+md5_6_alpha: 5c9ww
+md5_6_alpha_upper: 5C9WW
+md5_6_upper: 88E230
+name: Oobb Part Tray Thin 03 01 12
+name_no_class: Part Tray Thin 03 01 12
+name_no_color: '030112'
+name_no_size: 03 01 12
+name_no_type: Tray Thin 03 01 12
+oomp_key: oomp_oobb_part_tray_thin_03_01_12
+oomp_word: wrench sailboat foggy
+oomp_word_emoji: ':wrench: :sailboat: :foggy:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':sailboat:'
+- ':foggy:'
+oomp_word_list:
+- wrench
+- sailboat
+- foggy
+part_number: ''
+size: tray_thin
+type: part

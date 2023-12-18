@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x6_12_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+id_no_color: 2x612pinsurfacemountrightangle
+id_no_size: 2x6_12_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 30b5215badda517be8d3ab6c0932e8e5
+md5_10: 30b5215bad
+md5_10_upper: 30B5215BAD
+md5_5: 30b52
+md5_5_upper: 30B52
+md5_6: 30b521
+md5_6_alpha: 1wf1d
+md5_6_alpha_upper: 1WF1D
+md5_6_upper: 30B521
+name: Electronic Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount Right Angle
+name_no_color: 2X612Pinsurfacemountrightangle
+name_no_size: 2X6 12 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X6 12 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount_right_angle
+oomp_word: foggy tea feet
+oomp_word_emoji: ':foggy: :tea: :feet:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':tea:'
+- ':feet:'
+oomp_word_list:
+- foggy
+- tea
+- feet
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_15
+directory: parts/oobb_part_tray_thin_11_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_15
+id: oobb_part_tray_thin_11_1d5_15
+id_no_class: part_tray_thin_11_1d5_15
+id_no_color: 111d515
+id_no_size: 11_1d5_15
+id_no_type: tray_thin_11_1d5_15
+manufacturer: ''
+md5: a4580191b6eb22a77d6551b402af3abe
+md5_10: a4580191b6
+md5_10_upper: A4580191B6
+md5_5: a4580
+md5_5_upper: A4580
+md5_6: a45801
+md5_6_alpha: 6euip
+md5_6_alpha_upper: 6EUIP
+md5_6_upper: A45801
+name: Oobb Part Tray Thin 11 1D5 15
+name_no_class: Part Tray Thin 11 1D5 15
+name_no_color: 111D515
+name_no_size: 11 1D5 15
+name_no_type: Tray Thin 11 1D5 15
+oomp_key: oomp_oobb_part_tray_thin_11_1d5_15
+oomp_word: book water_buffalo smile
+oomp_word_emoji: ':book: :water_buffalo: :smile:'
+oomp_word_emoji_list:
+- ':book:'
+- ':water_buffalo:'
+- ':smile:'
+oomp_word_list:
+- book
+- water_buffalo
+- smile
+part_number: ''
+size: tray_thin
+type: part

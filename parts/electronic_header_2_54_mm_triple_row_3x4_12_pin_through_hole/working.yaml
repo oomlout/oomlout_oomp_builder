@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x4_12_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x4_12_pin_through_hole
+id_no_color: 3x412pinthroughhole
+id_no_size: 3x4_12_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x4_12_pin_through_hole
+manufacturer: ''
+md5: a3fb522e3ed1f8927d97dbbacb860759
+md5_10: a3fb522e3e
+md5_10_upper: A3FB522E3E
+md5_5: a3fb5
+md5_5_upper: A3FB5
+md5_6: a3fb52
+md5_6_alpha: 6ec7m
+md5_6_alpha_upper: 6EC7M
+md5_6_upper: A3FB52
+name: Electronic Header 2 54 Mm Triple Row 3X4 12 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X4 12 Pin Through Hole
+name_no_color: 3X412Pinthroughhole
+name_no_size: 3X4 12 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X4 12 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole
+oomp_word: pencil ok octopus
+oomp_word_emoji: ':pencil: :ok: :octopus:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':ok:'
+- ':octopus:'
+oomp_word_list:
+- pencil
+- ok
+- octopus
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

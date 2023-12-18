@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_08_15
+directory: parts/oobb_part_tray_05_08_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_08_15
+id: oobb_part_tray_05_08_15
+id_no_class: part_tray_05_08_15
+id_no_color: 050815
+id_no_size: 05_08_15
+id_no_type: tray_05_08_15
+manufacturer: ''
+md5: 34c17a01d92fea71fd65d3a1c4d797e4
+md5_10: 34c17a01d9
+md5_10_upper: 34C17A01D9
+md5_5: 34c17
+md5_5_upper: 34C17
+md5_6: 34c17a
+md5_6_alpha: 223qy
+md5_6_alpha_upper: 223QY
+md5_6_upper: 34C17A
+name: Oobb Part Tray 05 08 15
+name_no_class: Part Tray 05 08 15
+name_no_color: 050815
+name_no_size: 05 08 15
+name_no_type: Tray 05 08 15
+oomp_key: oomp_oobb_part_tray_05_08_15
+oomp_word: mouse doughnut camera
+oomp_word_emoji: ':mouse: :doughnut: :camera:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':doughnut:'
+- ':camera:'
+oomp_word_list:
+- mouse
+- doughnut
+- camera
+part_number: ''
+size: tray
+type: part

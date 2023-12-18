@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 6_pin
+directory: parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+id_no_color: 6pinsurfacemountrightangle
+id_no_size: 6_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_6_pin_surface_mount_right_angle
+manufacturer: ''
+md5: a5fcbe77cce947fd19b46eec74179034
+md5_10: a5fcbe77cc
+md5_10_upper: A5FCBE77CC
+md5_5: a5fcb
+md5_5_upper: A5FCB
+md5_6: a5fcbe
+md5_6_alpha: 6h5mm
+md5_6_alpha_upper: 6H5MM
+md5_6_upper: A5FCBE
+name: Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 6 Pin Surface Mount Right Angle
+name_no_color: 6Pinsurfacemountrightangle
+name_no_size: 6 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 6 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+oomp_word: headphones up ramen
+oomp_word_emoji: ':headphones: :up: :ramen:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':up:'
+- ':ramen:'
+oomp_word_list:
+- headphones
+- up
+- ramen
+part_number: ''
+size: 1_mm_jst_sh
+type: header

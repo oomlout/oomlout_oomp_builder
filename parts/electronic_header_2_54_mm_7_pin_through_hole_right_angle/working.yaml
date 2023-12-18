@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_7_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_7_pin_through_hole_right_angle
+id_no_color: 7pinthroughholerightangle
+id_no_size: 7_pin_through_hole_right_angle
+id_no_type: 2_54_mm_7_pin_through_hole_right_angle
+manufacturer: ''
+md5: 3b55b71d8fc944f0be3b78f569d360f6
+md5_10: 3b55b71d8f
+md5_10_upper: 3B55B71D8F
+md5_5: 3b55b
+md5_5_upper: 3B55B
+md5_6: 3b55b7
+md5_6_alpha: 2bcfr
+md5_6_alpha_upper: 2BCFR
+md5_6_upper: 3B55B7
+name: Electronic Header 2 54 Mm 7 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 7 Pin Through Hole Right Angle
+name_no_color: 7Pinthroughholerightangle
+name_no_size: 7 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 7 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_through_hole_right_angle
+oomp_word: bear dolphin pizza
+oomp_word_emoji: ':bear: :dolphin: :pizza:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':dolphin:'
+- ':pizza:'
+oomp_word_list:
+- bear
+- dolphin
+- pizza
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_12'
+directory: parts/oobb_part_tray_thin_07_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_07_12
+id: oobb_part_tray_thin_07_07_12
+id_no_class: part_tray_thin_07_07_12
+id_no_color: '070712'
+id_no_size: '07_07_12'
+id_no_type: tray_thin_07_07_12
+manufacturer: ''
+md5: 87dfceaaf2e2d2d04b439ee795b3254d
+md5_10: 87dfceaaf2
+md5_10_upper: 87DFCEAAF2
+md5_5: 87dfc
+md5_5_upper: 87DFC
+md5_6: 87dfce
+md5_6_alpha: 5auvi
+md5_6_alpha_upper: 5AUVI
+md5_6_upper: 87DFCE
+name: Oobb Part Tray Thin 07 07 12
+name_no_class: Part Tray Thin 07 07 12
+name_no_color: '070712'
+name_no_size: 07 07 12
+name_no_type: Tray Thin 07 07 12
+oomp_key: oomp_oobb_part_tray_thin_07_07_12
+oomp_word: toilet fountain peach
+oomp_word_emoji: ':toilet: :fountain: :peach:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':fountain:'
+- ':peach:'
+oomp_word_list:
+- toilet
+- fountain
+- peach
+part_number: ''
+size: tray_thin
+type: part

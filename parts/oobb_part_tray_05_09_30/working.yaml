@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_09_30
+directory: parts/oobb_part_tray_05_09_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_09_30
+id: oobb_part_tray_05_09_30
+id_no_class: part_tray_05_09_30
+id_no_color: 050930
+id_no_size: 05_09_30
+id_no_type: tray_05_09_30
+manufacturer: ''
+md5: ac6ee93fee4da07cf27c9910e5df7b38
+md5_10: ac6ee93fee
+md5_10_upper: AC6EE93FEE
+md5_5: ac6ee
+md5_5_upper: AC6EE
+md5_6: ac6ee9
+md5_6_alpha: 6q7l5
+md5_6_alpha_upper: 6Q7L5
+md5_6_upper: AC6EE9
+name: Oobb Part Tray 05 09 30
+name_no_class: Part Tray 05 09 30
+name_no_color: 050930
+name_no_size: 05 09 30
+name_no_type: Tray 05 09 30
+oomp_key: oomp_oobb_part_tray_05_09_30
+oomp_word: shirt new_moon bike
+oomp_word_emoji: ':shirt: :new_moon: :bike:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':new_moon:'
+- ':bike:'
+oomp_word_list:
+- shirt
+- new_moon
+- bike
+part_number: ''
+size: tray
+type: part

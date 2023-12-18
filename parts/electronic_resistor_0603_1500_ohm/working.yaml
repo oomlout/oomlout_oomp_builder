@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1500_ohm
+directory: parts/electronic_resistor_0603_1500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_1500_ohm
+id: electronic_resistor_0603_1500_ohm
+id_no_class: resistor_0603_1500_ohm
+id_no_color: 1500ohm
+id_no_size: 1500_ohm
+id_no_type: 0603_1500_ohm
+manufacturer: ''
+md5: 2f65c7fd066796b3b282d88267550b17
+md5_10: 2f65c7fd06
+md5_10_upper: 2F65C7FD06
+md5_5: 2f65c
+md5_5_upper: 2F65C
+md5_6: 2f65c7
+md5_6_alpha: 1uksn
+md5_6_alpha_upper: 1UKSN
+md5_6_upper: 2F65C7
+name: Electronic Resistor 0603 1500 Ohm
+name_no_class: Resistor 0603 1500 Ohm
+name_no_color: 1500Ohm
+name_no_size: 1500 Ohm
+name_no_type: 0603 1500 Ohm
+oomp_key: oomp_electronic_resistor_0603_1500_ohm
+oomp_word: cyclone maple_leaf honey_pot
+oomp_word_emoji: ':cyclone: :maple_leaf: :honey_pot:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':maple_leaf:'
+- ':honey_pot:'
+oomp_word_list:
+- cyclone
+- maple_leaf
+- honey_pot
+part_number: ''
+size: '0603'
+type: resistor

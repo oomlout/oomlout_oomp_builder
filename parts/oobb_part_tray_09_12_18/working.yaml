@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_12_18
+directory: parts/oobb_part_tray_09_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_12_18
+id: oobb_part_tray_09_12_18
+id_no_class: part_tray_09_12_18
+id_no_color: 091218
+id_no_size: 09_12_18
+id_no_type: tray_09_12_18
+manufacturer: ''
+md5: 64507b029b748b710506777ce459c8b7
+md5_10: 64507b029b
+md5_10_upper: 64507B029B
+md5_5: '64507'
+md5_5_upper: '64507'
+md5_6: 64507b
+md5_6_alpha: 3wwor
+md5_6_alpha_upper: 3WWOR
+md5_6_upper: 64507B
+name: Oobb Part Tray 09 12 18
+name_no_class: Part Tray 09 12 18
+name_no_color: 091218
+name_no_size: 09 12 18
+name_no_type: Tray 09 12 18
+oomp_key: oomp_oobb_part_tray_09_12_18
+oomp_word: sunflower beetle computer
+oomp_word_emoji: ':sunflower: :beetle: :computer:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':beetle:'
+- ':computer:'
+oomp_word_list:
+- sunflower
+- beetle
+- computer
+part_number: ''
+size: tray
+type: part

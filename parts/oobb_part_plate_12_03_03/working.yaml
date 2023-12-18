@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_03'
+directory: parts/oobb_part_plate_12_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_03_03
+id: oobb_part_plate_12_03_03
+id_no_class: part_plate_12_03_03
+id_no_color: '120303'
+id_no_size: '12_03_03'
+id_no_type: plate_12_03_03
+manufacturer: ''
+md5: 38f7a0d9376f4405bf1aec7553b01bcd
+md5_10: 38f7a0d937
+md5_10_upper: 38F7A0D937
+md5_5: 38f7a
+md5_5_upper: 38F7A
+md5_6: 38f7a0
+md5_6_alpha: 280ps
+md5_6_alpha_upper: 280PS
+md5_6_upper: 38F7A0
+name: Oobb Part Plate 12 03 03
+name_no_class: Part Plate 12 03 03
+name_no_color: '120303'
+name_no_size: 12 03 03
+name_no_type: Plate 12 03 03
+oomp_key: oomp_oobb_part_plate_12_03_03
+oomp_word: frog six ring
+oomp_word_emoji: ':frog: :six: :ring:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':six:'
+- ':ring:'
+oomp_word_list:
+- frog
+- six
+- ring
+part_number: ''
+size: plate
+type: part

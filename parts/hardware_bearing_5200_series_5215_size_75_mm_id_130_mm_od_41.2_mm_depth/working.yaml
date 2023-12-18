@@ -1,0 +1,40 @@
+classification: hardware
+color: 5215_size
+description_extra: ''
+description_main: 75_mm_id_130_mm_od_41.2_mm_depth
+directory: parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+id: hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+id_no_class: bearing_5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+id_no_color: 75_mm_id_130_mm_od_41.2_mm_depth
+id_no_size: 5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+id_no_type: 5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+manufacturer: ''
+md5: 5fad77f90b22fa0131b598ab5b328d49
+md5_10: 5fad77f90b
+md5_10_upper: 5FAD77F90B
+md5_5: 5fad7
+md5_5_upper: 5FAD7
+md5_6: 5fad77
+md5_6_alpha: 3qe7r
+md5_6_alpha_upper: 3QE7R
+md5_6_upper: 5FAD77
+name: Hardware Bearing 5200 Series 5215 Size 75 Mm Id 130 Mm Od 41.2 Mm Depth
+name_no_class: Bearing 5200 Series 5215 Size 75 Mm Id 130 Mm Od 41.2 Mm Depth
+name_no_color: 75 Mm Id 130 Mm Od 41.2 Mm Depth
+name_no_size: 5215 Size 75 Mm Id 130 Mm Od 41.2 Mm Depth
+name_no_type: 5200 Series 5215 Size 75 Mm Id 130 Mm Od 41.2 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41.2_mm_depth
+oomp_word: leopard dress gift
+oomp_word_emoji: ':leopard: :dress: :gift:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':dress:'
+- ':gift:'
+oomp_word_list:
+- leopard
+- dress
+- gift
+part_number: ''
+size: 5200_series
+type: bearing

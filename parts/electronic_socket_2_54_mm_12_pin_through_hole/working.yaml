@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 12_pin
+directory: parts/electronic_socket_2_54_mm_12_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_12_pin_through_hole
+id: electronic_socket_2_54_mm_12_pin_through_hole
+id_no_class: socket_2_54_mm_12_pin_through_hole
+id_no_color: 12pinthroughhole
+id_no_size: 12_pin_through_hole
+id_no_type: 2_54_mm_12_pin_through_hole
+manufacturer: ''
+md5: f0f4ffbcb460813504f99f0224c2a31d
+md5_10: f0f4ffbcb4
+md5_10_upper: F0F4FFBCB4
+md5_5: f0f4f
+md5_5_upper: F0F4F
+md5_6: f0f4ff
+md5_6_alpha: 9egov
+md5_6_alpha_upper: 9EGOV
+md5_6_upper: F0F4FF
+name: Electronic Socket 2 54 Mm 12 Pin Through Hole
+name_no_class: Socket 2 54 Mm 12 Pin Through Hole
+name_no_color: 12Pinthroughhole
+name_no_size: 12 Pin Through Hole
+name_no_type: 2 54 Mm 12 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_12_pin_through_hole
+oomp_word: train three trident
+oomp_word_emoji: ':train: :three: :trident:'
+oomp_word_emoji_list:
+- ':train:'
+- ':three:'
+- ':trident:'
+oomp_word_list:
+- train
+- three
+- trident
+part_number: ''
+size: 2_54_mm
+type: socket

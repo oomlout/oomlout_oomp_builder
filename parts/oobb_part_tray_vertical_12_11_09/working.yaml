@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_11_09'
+directory: parts/oobb_part_tray_vertical_12_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_11_09
+id: oobb_part_tray_vertical_12_11_09
+id_no_class: part_tray_vertical_12_11_09
+id_no_color: '121109'
+id_no_size: '12_11_09'
+id_no_type: tray_vertical_12_11_09
+manufacturer: ''
+md5: 1ab5c1fed9011f5929e88af96f5bfe30
+md5_10: 1ab5c1fed9
+md5_10_upper: 1AB5C1FED9
+md5_5: 1ab5c
+md5_5_upper: 1AB5C
+md5_6: 1ab5c1
+md5_6_alpha: 11io1
+md5_6_alpha_upper: 11IO1
+md5_6_upper: 1AB5C1
+name: Oobb Part Tray Vertical 12 11 09
+name_no_class: Part Tray Vertical 12 11 09
+name_no_color: '121109'
+name_no_size: 12 11 09
+name_no_type: Tray Vertical 12 11 09
+oomp_key: oomp_oobb_part_tray_vertical_12_11_09
+oomp_word: clap tea doughnut
+oomp_word_emoji: ':clap: :tea: :doughnut:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':tea:'
+- ':doughnut:'
+oomp_word_list:
+- clap
+- tea
+- doughnut
+part_number: ''
+size: tray_vertical
+type: part

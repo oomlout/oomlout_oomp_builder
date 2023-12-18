@@ -1,0 +1,40 @@
+classification: hardware
+color: 6206_size
+description_extra: ''
+description_main: 30_mm_id_62_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+id: hardware_bearing_6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+id_no_class: bearing_6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+id_no_color: 30_mm_id_62_mm_od_16_mm_depth
+id_no_size: 6206_size_30_mm_id_62_mm_od_16_mm_depth
+id_no_type: 6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+manufacturer: ''
+md5: 4e02c6ca9f5637ecaf54f0fef9dd42dc
+md5_10: 4e02c6ca9f
+md5_10_upper: 4E02C6CA9F
+md5_5: 4e02c
+md5_5_upper: 4E02C
+md5_6: 4e02c6
+md5_6_alpha: 31kue
+md5_6_alpha_upper: 31KUE
+md5_6_upper: 4E02C6
+name: Hardware Bearing 6200 Series 6206 Size 30 Mm Id 62 Mm Od 16 Mm Depth
+name_no_class: Bearing 6200 Series 6206 Size 30 Mm Id 62 Mm Od 16 Mm Depth
+name_no_color: 30 Mm Id 62 Mm Od 16 Mm Depth
+name_no_size: 6206 Size 30 Mm Id 62 Mm Od 16 Mm Depth
+name_no_type: 6200 Series 6206 Size 30 Mm Id 62 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6206_size_30_mm_id_62_mm_od_16_mm_depth
+oomp_word: honeybee blush lollipop
+oomp_word_emoji: ':honeybee: :blush: :lollipop:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':blush:'
+- ':lollipop:'
+oomp_word_list:
+- honeybee
+- blush
+- lollipop
+part_number: ''
+size: 6200_series
+type: bearing

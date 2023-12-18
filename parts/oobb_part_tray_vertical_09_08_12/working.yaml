@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_08_12
+directory: parts/oobb_part_tray_vertical_09_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_08_12
+id: oobb_part_tray_vertical_09_08_12
+id_no_class: part_tray_vertical_09_08_12
+id_no_color: 090812
+id_no_size: 09_08_12
+id_no_type: tray_vertical_09_08_12
+manufacturer: ''
+md5: 54a6e0d2a3e212648f789dc9f0887820
+md5_10: 54a6e0d2a3
+md5_10_upper: 54A6E0D2A3
+md5_5: 54a6e
+md5_5_upper: 54A6E
+md5_6: 54a6e0
+md5_6_alpha: 3awo0
+md5_6_alpha_upper: 3AWO0
+md5_6_upper: 54A6E0
+name: Oobb Part Tray Vertical 09 08 12
+name_no_class: Part Tray Vertical 09 08 12
+name_no_color: 090812
+name_no_size: 09 08 12
+name_no_type: Tray Vertical 09 08 12
+oomp_key: oomp_oobb_part_tray_vertical_09_08_12
+oomp_word: whale trumpet ship
+oomp_word_emoji: ':whale: :trumpet: :ship:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':trumpet:'
+- ':ship:'
+oomp_word_list:
+- whale
+- trumpet
+- ship
+part_number: ''
+size: tray_vertical
+type: part

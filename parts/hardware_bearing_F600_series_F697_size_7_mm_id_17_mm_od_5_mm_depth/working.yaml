@@ -1,0 +1,40 @@
+classification: hardware
+color: F697_size
+description_extra: ''
+description_main: 7_mm_id_17_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_color: 7_mm_id_17_mm_od_5_mm_depth
+id_no_size: F697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_type: F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+manufacturer: ''
+md5: bd5349c9293c457ce9d214297f609c05
+md5_10: bd5349c929
+md5_10_upper: BD5349C929
+md5_5: bd534
+md5_5_upper: BD534
+md5_6: bd5349
+md5_6_alpha: 7dxs9
+md5_6_alpha_upper: 7DXS9
+md5_6_upper: BD5349
+name: Hardware Bearing F600 Series F697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_color: 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_size: F697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_type: F600 Series F697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F697_size_7_mm_id_17_mm_od_5_mm_depth
+oomp_word: rice fish hatching_chick
+oomp_word_emoji: ':rice: :fish: :hatching_chick:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':fish:'
+- ':hatching_chick:'
+oomp_word_list:
+- rice
+- fish
+- hatching_chick
+part_number: ''
+size: F600_series
+type: bearing

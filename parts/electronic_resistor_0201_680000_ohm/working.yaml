@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680000_ohm
+directory: parts/electronic_resistor_0201_680000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680000_ohm
+id: electronic_resistor_0201_680000_ohm
+id_no_class: resistor_0201_680000_ohm
+id_no_color: 680000ohm
+id_no_size: 680000_ohm
+id_no_type: 0201_680000_ohm
+manufacturer: ''
+md5: 7a7d17c5397bbb9a1da70b16d8433c9f
+md5_10: 7a7d17c539
+md5_10_upper: 7A7D17C539
+md5_5: 7a7d1
+md5_5_upper: 7A7D1
+md5_6: 7a7d17
+md5_6_alpha: 4s1zr
+md5_6_alpha_upper: 4S1ZR
+md5_6_upper: 7A7D17
+name: Electronic Resistor 0201 680000 Ohm
+name_no_class: Resistor 0201 680000 Ohm
+name_no_color: 680000Ohm
+name_no_size: 680000 Ohm
+name_no_type: 0201 680000 Ohm
+oomp_key: oomp_electronic_resistor_0201_680000_ohm
+oomp_word: camera phone thumbsdown
+oomp_word_emoji: ':camera: :phone: :thumbsdown:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':phone:'
+- ':thumbsdown:'
+oomp_word_list:
+- camera
+- phone
+- thumbsdown
+part_number: ''
+size: '0201'
+type: resistor

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 17_pin
+directory: parts/electronic_header_2_54_mm_17_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_surface_mount
+id: electronic_header_2_54_mm_17_pin_surface_mount
+id_no_class: header_2_54_mm_17_pin_surface_mount
+id_no_color: 17pinsurfacemount
+id_no_size: 17_pin_surface_mount
+id_no_type: 2_54_mm_17_pin_surface_mount
+manufacturer: ''
+md5: 2f8505087bdd94515e8aa7b60e2c3aea
+md5_10: 2f8505087b
+md5_10_upper: 2F8505087B
+md5_5: 2f850
+md5_5_upper: 2F850
+md5_6: 2f8505
+md5_6_alpha: 1uqyt
+md5_6_alpha_upper: 1UQYT
+md5_6_upper: 2F8505
+name: Electronic Header 2 54 Mm 17 Pin Surface Mount
+name_no_class: Header 2 54 Mm 17 Pin Surface Mount
+name_no_color: 17Pinsurfacemount
+name_no_size: 17 Pin Surface Mount
+name_no_type: 2 54 Mm 17 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_17_pin_surface_mount
+oomp_word: cyclone bulb kissing
+oomp_word_emoji: ':cyclone: :bulb: :kissing:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':bulb:'
+- ':kissing:'
+oomp_word_list:
+- cyclone
+- bulb
+- kissing
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_18
+directory: parts/oobb_part_tray_vertical_03_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_03_18
+id: oobb_part_tray_vertical_03_03_18
+id_no_class: part_tray_vertical_03_03_18
+id_no_color: 030318
+id_no_size: 03_03_18
+id_no_type: tray_vertical_03_03_18
+manufacturer: ''
+md5: ea4448d310ac6b54b9a2e07e48750068
+md5_10: ea4448d310
+md5_10_upper: EA4448D310
+md5_5: ea444
+md5_5_upper: EA444
+md5_6: ea4448
+md5_6_alpha: 952dk
+md5_6_alpha_upper: 952DK
+md5_6_upper: EA4448
+name: Oobb Part Tray Vertical 03 03 18
+name_no_class: Part Tray Vertical 03 03 18
+name_no_color: 030318
+name_no_size: 03 03 18
+name_no_type: Tray Vertical 03 03 18
+oomp_key: oomp_oobb_part_tray_vertical_03_03_18
+oomp_word: tractor panda_face hatched_chick
+oomp_word_emoji: ':tractor: :panda_face: :hatched_chick:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':panda_face:'
+- ':hatched_chick:'
+oomp_word_list:
+- tractor
+- panda_face
+- hatched_chick
+part_number: ''
+size: tray_vertical
+type: part

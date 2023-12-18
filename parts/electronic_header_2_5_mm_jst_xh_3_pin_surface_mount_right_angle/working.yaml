@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 3_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+id_no_color: 3pinsurfacemountrightangle
+id_no_size: 3_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 96060b772257f15014b33d7fc2050ead
+md5_10: 96060b7722
+md5_10_upper: 96060B7722
+md5_5: '96060'
+md5_5_upper: '96060'
+md5_6: 96060b
+md5_6_alpha: 5uqdn
+md5_6_alpha_upper: 5UQDN
+md5_6_upper: 96060B
+name: Electronic Header 2 5 Mm Jst Xh 3 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 3 Pin Surface Mount Right Angle
+name_no_color: 3Pinsurfacemountrightangle
+name_no_size: 3 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 3 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_3_pin_surface_mount_right_angle
+oomp_word: basketball sleeping sunglasses
+oomp_word_emoji: ':basketball: :sleeping: :sunglasses:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':sleeping:'
+- ':sunglasses:'
+oomp_word_list:
+- basketball
+- sleeping
+- sunglasses
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

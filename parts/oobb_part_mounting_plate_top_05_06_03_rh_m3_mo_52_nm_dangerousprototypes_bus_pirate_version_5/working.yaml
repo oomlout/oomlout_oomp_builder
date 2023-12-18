@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+directory: parts/oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id: oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_class: part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_color: 050603rhm3mo52nmdangerousprototypesbuspirateversion5
+id_no_size: 05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_type: mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+manufacturer: ''
+md5: a2bdfa288ae4d141dec6d03a965b5a67
+md5_10: a2bdfa288a
+md5_10_upper: A2BDFA288A
+md5_5: a2bdf
+md5_5_upper: A2BDF
+md5_6: a2bdfa
+md5_6_alpha: 6cliy
+md5_6_alpha_upper: 6CLIY
+md5_6_upper: A2BDFA
+name: Oobb Part Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus
+  Pirate Version 5
+name_no_class: Part Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes
+  Bus Pirate Version 5
+name_no_color: 050603Rhm3Mo52Nmdangerousprototypesbuspirateversion5
+name_no_size: 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate Version 5
+name_no_type: Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate
+  Version 5
+oomp_key: oomp_oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+oomp_word: violin rice nine
+oomp_word_emoji: ':violin: :rice: :nine:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':rice:'
+- ':nine:'
+oomp_word_list:
+- violin
+- rice
+- nine
+part_number: ''
+size: mounting_plate_top
+type: part

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+directory: parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id: oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 030314nm12mmtapewidth3mmtapethicknessex3
+id_no_size: 03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+md5: 7900ef5e726b5d7b5a95383111bfd8e1
+md5_10: 7900ef5e72
+md5_10_upper: 7900EF5E72
+md5_5: 7900e
+md5_5_upper: 7900E
+md5_6: 7900ef
+md5_6_alpha: 4pywf
+md5_6_alpha_upper: 4PYWF
+md5_6_upper: 7900EF
+name: Oobb Part Smd Magazine 03 03 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_class: Part Smd Magazine 03 03 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_color: 030314Nm12Mmtapewidth3Mmtapethicknessex3
+name_no_size: 03 03 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_type: Smd Magazine 03 03 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: balloon bowtie truck
+oomp_word_emoji: ':balloon: :bowtie: :truck:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':bowtie:'
+- ':truck:'
+oomp_word_list:
+- balloon
+- bowtie
+- truck
+part_number: ''
+size: smd_magazine
+type: part

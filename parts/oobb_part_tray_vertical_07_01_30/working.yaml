@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_30'
+directory: parts/oobb_part_tray_vertical_07_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_01_30
+id: oobb_part_tray_vertical_07_01_30
+id_no_class: part_tray_vertical_07_01_30
+id_no_color: '070130'
+id_no_size: '07_01_30'
+id_no_type: tray_vertical_07_01_30
+manufacturer: ''
+md5: 65ebe779c3e0b8dba02aaa3f1d7c2bf7
+md5_10: 65ebe779c3
+md5_10_upper: 65EBE779C3
+md5_5: 65ebe
+md5_5_upper: 65EBE
+md5_6: 65ebe7
+md5_6_alpha: 3z5yf
+md5_6_alpha_upper: 3Z5YF
+md5_6_upper: 65EBE7
+name: Oobb Part Tray Vertical 07 01 30
+name_no_class: Part Tray Vertical 07 01 30
+name_no_color: '070130'
+name_no_size: 07 01 30
+name_no_type: Tray Vertical 07 01 30
+oomp_key: oomp_oobb_part_tray_vertical_07_01_30
+oomp_word: maple_leaf car helicopter
+oomp_word_emoji: ':maple_leaf: :car: :helicopter:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':car:'
+- ':helicopter:'
+oomp_word_list:
+- maple_leaf
+- car
+- helicopter
+part_number: ''
+size: tray_vertical
+type: part

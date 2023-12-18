@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1500_ohm
+directory: parts/electronic_resistor_0402_1500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1500_ohm
+id: electronic_resistor_0402_1500_ohm
+id_no_class: resistor_0402_1500_ohm
+id_no_color: 1500ohm
+id_no_size: 1500_ohm
+id_no_type: 0402_1500_ohm
+manufacturer: ''
+md5: 1e91dd264b58aff044eadaf0f91b45fa
+md5_10: 1e91dd264b
+md5_10_upper: 1E91DD264B
+md5_5: 1e91d
+md5_5_upper: 1E91D
+md5_6: 1e91dd
+md5_6_alpha: 16xul
+md5_6_alpha_upper: 16XUL
+md5_6_upper: 1E91DD
+name: Electronic Resistor 0402 1500 Ohm
+name_no_class: Resistor 0402 1500 Ohm
+name_no_color: 1500Ohm
+name_no_size: 1500 Ohm
+name_no_type: 0402 1500 Ohm
+oomp_key: oomp_electronic_resistor_0402_1500_ohm
+oomp_word: angel pushpin stars
+oomp_word_emoji: ':angel: :pushpin: :stars:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':pushpin:'
+- ':stars:'
+oomp_word_list:
+- angel
+- pushpin
+- stars
+part_number: ''
+size: '0402'
+type: resistor

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 390_ohm
+directory: parts/electronic_resistor_0402_390_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_390_ohm
+id: electronic_resistor_0402_390_ohm
+id_no_class: resistor_0402_390_ohm
+id_no_color: 390ohm
+id_no_size: 390_ohm
+id_no_type: 0402_390_ohm
+manufacturer: ''
+md5: 9d059da8937dbcbb2228979929bba104
+md5_10: 9d059da893
+md5_10_upper: 9D059DA893
+md5_5: 9d059
+md5_5_upper: 9D059
+md5_6: 9d059d
+md5_6_alpha: 64k9p
+md5_6_alpha_upper: 64K9P
+md5_6_upper: 9D059D
+name: Electronic Resistor 0402 390 Ohm
+name_no_class: Resistor 0402 390 Ohm
+name_no_color: 390Ohm
+name_no_size: 390 Ohm
+name_no_type: 0402 390 Ohm
+oomp_key: oomp_electronic_resistor_0402_390_ohm
+oomp_word: hearts kissing hearts
+oomp_word_emoji: ':hearts: :kissing: :hearts:'
+oomp_word_emoji_list:
+- ':hearts:'
+- ':kissing:'
+- ':hearts:'
+oomp_word_list:
+- hearts
+- kissing
+- hearts
+part_number: ''
+size: '0402'
+type: resistor

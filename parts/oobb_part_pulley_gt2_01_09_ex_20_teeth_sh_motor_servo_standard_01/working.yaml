@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_20_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+id_no_color: 0109ex20teethshmotorservostandard01
+id_no_size: 01_09_ex_20_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: a7eb8f166c1d8e23831e30fad4804639
+md5_10: a7eb8f166c
+md5_10_upper: A7EB8F166C
+md5_5: a7eb8
+md5_5_upper: A7EB8
+md5_6: a7eb8f
+md5_6_alpha: 6jvdb
+md5_6_alpha_upper: 6JVDB
+md5_6_upper: A7EB8F
+name: Oobb Part Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Servo Standard 01
+name_no_color: 0109Ex20Teethshmotorservostandard01
+name_no_size: 01 09 Ex 20 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_servo_standard_01
+oomp_word: guitar car calendar
+oomp_word_emoji: ':guitar: :car: :calendar:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':car:'
+- ':calendar:'
+oomp_word_list:
+- guitar
+- car
+- calendar
+part_number: ''
+size: pulley_gt2
+type: part

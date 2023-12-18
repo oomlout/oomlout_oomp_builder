@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_z
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_z
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_z
+id: oobb_part_bunting_alphabet_03_01_ex_z
+id_no_class: part_bunting_alphabet_03_01_ex_z
+id_no_color: 0301exz
+id_no_size: 03_01_ex_z
+id_no_type: bunting_alphabet_03_01_ex_z
+manufacturer: ''
+md5: 9ce0c6ec744eb162b5622d5717f76014
+md5_10: 9ce0c6ec74
+md5_10_upper: 9CE0C6EC74
+md5_5: 9ce0c
+md5_5_upper: 9CE0C
+md5_6: 9ce0c6
+md5_6_alpha: 64czq
+md5_6_alpha_upper: 64CZQ
+md5_6_upper: 9CE0C6
+name: Oobb Part Bunting Alphabet 03 01 Ex Z
+name_no_class: Part Bunting Alphabet 03 01 Ex Z
+name_no_color: 0301Exz
+name_no_size: 03 01 Ex Z
+name_no_type: Bunting Alphabet 03 01 Ex Z
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_z
+oomp_word: spades ship lollipop
+oomp_word_emoji: ':spades: :ship: :lollipop:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':ship:'
+- ':lollipop:'
+oomp_word_list:
+- spades
+- ship
+- lollipop
+part_number: ''
+size: bunting_alphabet
+type: part

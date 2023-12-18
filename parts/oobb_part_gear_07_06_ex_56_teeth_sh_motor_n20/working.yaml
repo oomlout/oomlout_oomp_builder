@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_ex_56_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_07_06_ex_56_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06_ex_56_teeth_sh_motor_n20
+id: oobb_part_gear_07_06_ex_56_teeth_sh_motor_n20
+id_no_class: part_gear_07_06_ex_56_teeth_sh_motor_n20
+id_no_color: 0706ex56teethshmotorn20
+id_no_size: 07_06_ex_56_teeth_sh_motor_n20
+id_no_type: gear_07_06_ex_56_teeth_sh_motor_n20
+manufacturer: ''
+md5: a4ed6e71d2e73c2deb9a287cf7ff2c50
+md5_10: a4ed6e71d2
+md5_10_upper: A4ED6E71D2
+md5_5: a4ed6
+md5_5_upper: A4ED6
+md5_6: a4ed6e
+md5_6_alpha: 6fo1a
+md5_6_alpha_upper: 6FO1A
+md5_6_upper: A4ED6E
+name: Oobb Part Gear 07 06 Ex 56 Teeth Sh Motor N20
+name_no_class: Part Gear 07 06 Ex 56 Teeth Sh Motor N20
+name_no_color: 0706Ex56Teethshmotorn20
+name_no_size: 07 06 Ex 56 Teeth Sh Motor N20
+name_no_type: Gear 07 06 Ex 56 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_07_06_ex_56_teeth_sh_motor_n20
+oomp_word: book bus new_moon
+oomp_word_emoji: ':book: :bus: :new_moon:'
+oomp_word_emoji_list:
+- ':book:'
+- ':bus:'
+- ':new_moon:'
+oomp_word_list:
+- book
+- bus
+- new_moon
+part_number: ''
+size: gear
+type: part

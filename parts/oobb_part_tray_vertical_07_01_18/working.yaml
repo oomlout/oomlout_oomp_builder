@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_18
+directory: parts/oobb_part_tray_vertical_07_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_01_18
+id: oobb_part_tray_vertical_07_01_18
+id_no_class: part_tray_vertical_07_01_18
+id_no_color: 070118
+id_no_size: 07_01_18
+id_no_type: tray_vertical_07_01_18
+manufacturer: ''
+md5: 7318b5e10e4a6cbed7f0561007f6eef4
+md5_10: 7318b5e10e
+md5_10_upper: 7318B5E10E
+md5_5: 7318b
+md5_5_upper: 7318B
+md5_6: 7318b5
+md5_6_alpha: 4ho6t
+md5_6_alpha_upper: 4HO6T
+md5_6_upper: 7318B5
+name: Oobb Part Tray Vertical 07 01 18
+name_no_class: Part Tray Vertical 07 01 18
+name_no_color: 070118
+name_no_size: 07 01 18
+name_no_type: Tray Vertical 07 01 18
+oomp_key: oomp_oobb_part_tray_vertical_07_01_18
+oomp_word: flags hand tea
+oomp_word_emoji: ':flags: :hand: :tea:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':hand:'
+- ':tea:'
+oomp_word_list:
+- flags
+- hand
+- tea
+part_number: ''
+size: tray_vertical
+type: part

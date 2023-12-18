@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_1d5_12
+directory: parts/oobb_part_tray_vertical_08_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_1d5_12
+id: oobb_part_tray_vertical_08_1d5_12
+id_no_class: part_tray_vertical_08_1d5_12
+id_no_color: 081d512
+id_no_size: 08_1d5_12
+id_no_type: tray_vertical_08_1d5_12
+manufacturer: ''
+md5: 1d83aaa5053a8cafcc5095590259b001
+md5_10: 1d83aaa505
+md5_10_upper: 1D83AAA505
+md5_5: 1d83a
+md5_5_upper: 1D83A
+md5_6: 1d83aa
+md5_6_alpha: 15gh6
+md5_6_alpha_upper: 15GH6
+md5_6_upper: 1D83AA
+name: Oobb Part Tray Vertical 08 1D5 12
+name_no_class: Part Tray Vertical 08 1D5 12
+name_no_color: 081D512
+name_no_size: 08 1D5 12
+name_no_type: Tray Vertical 08 1D5 12
+oomp_key: oomp_oobb_part_tray_vertical_08_1d5_12
+oomp_word: baby lock lipstick
+oomp_word_emoji: ':baby: :lock: :lipstick:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':lock:'
+- ':lipstick:'
+oomp_word_list:
+- baby
+- lock
+- lipstick
+part_number: ''
+size: tray_vertical
+type: part

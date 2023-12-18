@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 17_pin
+directory: parts/electronic_socket_2_54_mm_17_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole_long
+id: electronic_socket_2_54_mm_17_pin_through_hole_long
+id_no_class: socket_2_54_mm_17_pin_through_hole_long
+id_no_color: 17pinthroughholelong
+id_no_size: 17_pin_through_hole_long
+id_no_type: 2_54_mm_17_pin_through_hole_long
+manufacturer: ''
+md5: 14433aaa490f1522378642b305c6b384
+md5_10: 14433aaa49
+md5_10_upper: 14433AAA49
+md5_5: '14433'
+md5_5_upper: '14433'
+md5_6: 14433a
+md5_6_alpha: sgmy
+md5_6_alpha_upper: SGMY
+md5_6_upper: 14433A
+name: Electronic Socket 2 54 Mm 17 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 17 Pin Through Hole Long
+name_no_color: 17Pinthroughholelong
+name_no_size: 17 Pin Through Hole Long
+name_no_type: 2 54 Mm 17 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_17_pin_through_hole_long
+oomp_word: fire elephant koala
+oomp_word_emoji: ':fire: :elephant: :koala:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':elephant:'
+- ':koala:'
+oomp_word_list:
+- fire
+- elephant
+- koala
+part_number: ''
+size: 2_54_mm
+type: socket

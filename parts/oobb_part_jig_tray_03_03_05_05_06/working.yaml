@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_06'
+directory: parts/oobb_part_jig_tray_03_03_05_05_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_jig_tray_03_03_05_05_06
+id: oobb_part_jig_tray_03_03_05_05_06
+id_no_class: part_jig_tray_03_03_05_05_06
+id_no_color: '050506'
+id_no_size: '05_05_06'
+id_no_type: jig_tray_03_03_05_05_06
+manufacturer: ''
+md5: d0d3defccdfc85c2076f4aa5e12f007f
+md5_10: d0d3defccd
+md5_10_upper: D0D3DEFCCD
+md5_5: d0d3d
+md5_5_upper: D0D3D
+md5_6: d0d3de
+md5_6_alpha: 85bz2
+md5_6_alpha_upper: 85BZ2
+md5_6_upper: D0D3DE
+name: Oobb Part Jig Tray 03 03 05 05 06
+name_no_class: Part Jig Tray 03 03 05 05 06
+name_no_color: '050506'
+name_no_size: 05 05 06
+name_no_type: Jig Tray 03 03 05 05 06
+oomp_key: oomp_oobb_part_jig_tray_03_03_05_05_06
+oomp_word: banana tomato rainbow
+oomp_word_emoji: ':banana: :tomato: :rainbow:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':tomato:'
+- ':rainbow:'
+oomp_word_list:
+- banana
+- tomato
+- rainbow
+part_number: ''
+size: jig_tray_03_03
+type: part

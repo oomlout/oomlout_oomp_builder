@@ -1,0 +1,40 @@
+classification: electronic
+color: linear
+description_extra: 5_volt
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt
+id: electronic_pmic_sot_223_linear_1117_5_volt
+id_no_class: pmic_sot_223_linear_1117_5_volt
+id_no_color: 1117_5_volt
+id_no_size: linear_1117_5_volt
+id_no_type: sot_223_linear_1117_5_volt
+manufacturer: ''
+md5: f26ce0b91db98ace92559b334d2cc5a6
+md5_10: f26ce0b91d
+md5_10_upper: F26CE0B91D
+md5_5: f26ce
+md5_5_upper: F26CE
+md5_6: f26ce0
+md5_6_alpha: 9gixs
+md5_6_alpha_upper: 9GIXS
+md5_6_upper: F26CE0
+name: Electronic Pmic Sot 223 Linear 1117 5 Volt
+name_no_class: Pmic Sot 223 Linear 1117 5 Volt
+name_no_color: 1117 5 Volt
+name_no_size: Linear 1117 5 Volt
+name_no_type: Sot 223 Linear 1117 5 Volt
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
+oomp_word: one blossom ship
+oomp_word_emoji: ':one: :blossom: :ship:'
+oomp_word_emoji_list:
+- ':one:'
+- ':blossom:'
+- ':ship:'
+oomp_word_list:
+- one
+- blossom
+- ship
+part_number: ''
+size: sot_223
+type: pmic

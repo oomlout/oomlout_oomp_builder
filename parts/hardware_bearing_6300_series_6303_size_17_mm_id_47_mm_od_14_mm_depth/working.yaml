@@ -1,0 +1,40 @@
+classification: hardware
+color: 6303_size
+description_extra: ''
+description_main: 17_mm_id_47_mm_od_14_mm_depth
+directory: parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+id: hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+id_no_class: bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+id_no_color: 17_mm_id_47_mm_od_14_mm_depth
+id_no_size: 6303_size_17_mm_id_47_mm_od_14_mm_depth
+id_no_type: 6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+manufacturer: ''
+md5: 71e229dca5f4176b861b0cd39ac5f5fb
+md5_10: 71e229dca5
+md5_10_upper: 71E229DCA5
+md5_5: 71e22
+md5_5_upper: 71E22
+md5_6: 71e229
+md5_6_alpha: 4fyuh
+md5_6_alpha_upper: 4FYUH
+md5_6_upper: 71E229
+name: Hardware Bearing 6300 Series 6303 Size 17 Mm Id 47 Mm Od 14 Mm Depth
+name_no_class: Bearing 6300 Series 6303 Size 17 Mm Id 47 Mm Od 14 Mm Depth
+name_no_color: 17 Mm Id 47 Mm Od 14 Mm Depth
+name_no_size: 6303 Size 17 Mm Id 47 Mm Od 14 Mm Depth
+name_no_type: 6300 Series 6303 Size 17 Mm Id 47 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
+oomp_word: bamboo sailboat sunny
+oomp_word_emoji: ':bamboo: :sailboat: :sunny:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':sailboat:'
+- ':sunny:'
+oomp_word_list:
+- bamboo
+- sailboat
+- sunny
+part_number: ''
+size: 6300_series
+type: bearing

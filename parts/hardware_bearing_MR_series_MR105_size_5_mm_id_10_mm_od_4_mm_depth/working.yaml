@@ -1,0 +1,40 @@
+classification: hardware
+color: MR105_size
+description_extra: ''
+description_main: 5_mm_id_10_mm_od_4_mm_depth
+directory: parts/hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+id: hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+id_no_class: bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+id_no_color: 5_mm_id_10_mm_od_4_mm_depth
+id_no_size: MR105_size_5_mm_id_10_mm_od_4_mm_depth
+id_no_type: MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+manufacturer: ''
+md5: ff58c550efba40a6178fdf9c25d8509e
+md5_10: ff58c550ef
+md5_10_upper: FF58C550EF
+md5_5: ff58c
+md5_5_upper: FF58C
+md5_6: ff58c5
+md5_6_alpha: 9yocl
+md5_6_alpha_upper: 9YOCL
+md5_6_upper: FF58C5
+name: Hardware Bearing Mr Series Mr105 Size 5 Mm Id 10 Mm Od 4 Mm Depth
+name_no_class: Bearing Mr Series Mr105 Size 5 Mm Id 10 Mm Od 4 Mm Depth
+name_no_color: 5 Mm Id 10 Mm Od 4 Mm Depth
+name_no_size: Mr105 Size 5 Mm Id 10 Mm Od 4 Mm Depth
+name_no_type: Mr Series Mr105 Size 5 Mm Id 10 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
+oomp_word: trident water_buffalo candy
+oomp_word_emoji: ':trident: :water_buffalo: :candy:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':water_buffalo:'
+- ':candy:'
+oomp_word_list:
+- trident
+- water_buffalo
+- candy
+part_number: ''
+size: MR_series
+type: bearing

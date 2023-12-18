@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x3_6_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id_no_color: 2x36pinsurfacemount
+id_no_size: 2x3_6_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x3_6_pin_surface_mount
+manufacturer: ''
+md5: fe075db12e27737c7eca35463940bd61
+md5_10: fe075db12e
+md5_10_upper: FE075DB12E
+md5_5: fe075
+md5_5_upper: FE075
+md5_6: fe075d
+md5_6_alpha: 9wtp9
+md5_6_alpha_upper: 9WTP9
+md5_6_upper: FE075D
+name: Electronic Header 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+name_no_color: 2X36Pinsurfacemount
+name_no_size: 2X3 6 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x3_6_pin_surface_mount
+oomp_word: recycle cry blowfish
+oomp_word_emoji: ':recycle: :cry: :blowfish:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':cry:'
+- ':blowfish:'
+oomp_word_list:
+- recycle
+- cry
+- blowfish
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

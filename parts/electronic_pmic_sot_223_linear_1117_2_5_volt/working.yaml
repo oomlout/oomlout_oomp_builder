@@ -1,0 +1,40 @@
+classification: electronic
+color: linear
+description_extra: 2_5_volt
+description_main: '1117'
+directory: parts/electronic_pmic_sot_223_linear_1117_2_5_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt
+id: electronic_pmic_sot_223_linear_1117_2_5_volt
+id_no_class: pmic_sot_223_linear_1117_2_5_volt
+id_no_color: 1117_2_5_volt
+id_no_size: linear_1117_2_5_volt
+id_no_type: sot_223_linear_1117_2_5_volt
+manufacturer: ''
+md5: 53edd7c9f0df3cebd77a55ecf56ac34b
+md5_10: 53edd7c9f0
+md5_10_upper: 53EDD7C9F0
+md5_5: 53edd
+md5_5_upper: 53EDD
+md5_6: 53edd7
+md5_6_alpha: 39w47
+md5_6_alpha_upper: 39W47
+md5_6_upper: 53EDD7
+name: Electronic Pmic Sot 223 Linear 1117 2 5 Volt
+name_no_class: Pmic Sot 223 Linear 1117 2 5 Volt
+name_no_color: 1117 2 5 Volt
+name_no_size: Linear 1117 2 5 Volt
+name_no_type: Sot 223 Linear 1117 2 5 Volt
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_2_5_volt
+oomp_word: fish bus office
+oomp_word_emoji: ':fish: :bus: :office:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':bus:'
+- ':office:'
+oomp_word_list:
+- fish
+- bus
+- office
+part_number: ''
+size: sot_223
+type: pmic

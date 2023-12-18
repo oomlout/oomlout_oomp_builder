@@ -1,0 +1,40 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_red
+id: electronic_led_0603_red
+id_no_class: led_0603_red
+id_no_color: red
+id_no_size: red
+id_no_type: 0603_red
+manufacturer: ''
+md5: 255611ec8565e66dea88d4fba9421c6d
+md5_10: 255611ec85
+md5_10_upper: 255611EC85
+md5_5: '25561'
+md5_5_upper: '25561'
+md5_6: '255611'
+md5_6_alpha: 1gg0h
+md5_6_alpha_upper: 1GG0H
+md5_6_upper: '255611'
+name: Electronic Led 0603 Red
+name_no_class: Led 0603 Red
+name_no_color: Red
+name_no_size: Red
+name_no_type: 0603 Red
+oomp_key: oomp_electronic_led_0603_red
+oomp_word: ear ram dizzy
+oomp_word_emoji: ':ear: :ram: :dizzy:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':ram:'
+- ':dizzy:'
+oomp_word_list:
+- ear
+- ram
+- dizzy
+part_number: ''
+size: '0603'
+type: led

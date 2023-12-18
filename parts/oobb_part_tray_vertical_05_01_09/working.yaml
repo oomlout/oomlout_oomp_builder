@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_09
+directory: parts/oobb_part_tray_vertical_05_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_01_09
+id: oobb_part_tray_vertical_05_01_09
+id_no_class: part_tray_vertical_05_01_09
+id_no_color: 050109
+id_no_size: 05_01_09
+id_no_type: tray_vertical_05_01_09
+manufacturer: ''
+md5: b08edcc666d9194d28f27be2a11fa5b7
+md5_10: b08edcc666
+md5_10_upper: B08EDCC666
+md5_5: b08ed
+md5_5_upper: B08ED
+md5_6: b08edc
+md5_6_alpha: 6w064
+md5_6_alpha_upper: 6W064
+md5_6_upper: B08EDC
+name: Oobb Part Tray Vertical 05 01 09
+name_no_class: Part Tray Vertical 05 01 09
+name_no_color: 050109
+name_no_size: 05 01 09
+name_no_type: Tray Vertical 05 01 09
+oomp_key: oomp_oobb_part_tray_vertical_05_01_09
+oomp_word: crown clipboard factory
+oomp_word_emoji: ':crown: :clipboard: :factory:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':clipboard:'
+- ':factory:'
+oomp_word_list:
+- crown
+- clipboard
+- factory
+part_number: ''
+size: tray_vertical
+type: part

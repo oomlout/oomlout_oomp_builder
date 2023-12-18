@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_i2c
+directory: parts/oobb_part_wire_03_03_03_ex_i2c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03_ex_i2c
+id: oobb_part_wire_03_03_03_ex_i2c
+id_no_class: part_wire_03_03_03_ex_i2c
+id_no_color: 030303exi2c
+id_no_size: 03_03_03_ex_i2c
+id_no_type: wire_03_03_03_ex_i2c
+manufacturer: ''
+md5: 2531307c0bc5795ef7d2ed965828482c
+md5_10: 2531307c0b
+md5_10_upper: 2531307C0B
+md5_5: '25313'
+md5_5_upper: '25313'
+md5_6: '253130'
+md5_6_alpha: 1g8q8
+md5_6_alpha_upper: 1G8Q8
+md5_6_upper: '253130'
+name: Oobb Part Wire 03 03 03 Ex I2C
+name_no_class: Part Wire 03 03 03 Ex I2C
+name_no_color: 030303Exi2C
+name_no_size: 03 03 03 Ex I2C
+name_no_type: Wire 03 03 03 Ex I2C
+oomp_key: oomp_oobb_part_wire_03_03_03_ex_i2c
+oomp_word: ear ocean foggy
+oomp_word_emoji: ':ear: :ocean: :foggy:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':ocean:'
+- ':foggy:'
+oomp_word_list:
+- ear
+- ocean
+- foggy
+part_number: ''
+size: wire
+type: part

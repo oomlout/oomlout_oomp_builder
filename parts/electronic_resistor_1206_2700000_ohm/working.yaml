@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700000_ohm
+directory: parts/electronic_resistor_1206_2700000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_2700000_ohm
+id: electronic_resistor_1206_2700000_ohm
+id_no_class: resistor_1206_2700000_ohm
+id_no_color: 2700000ohm
+id_no_size: 2700000_ohm
+id_no_type: 1206_2700000_ohm
+manufacturer: ''
+md5: 8bda0179f44fd82cc177a031fc6e8951
+md5_10: 8bda0179f4
+md5_10_upper: 8BDA0179F4
+md5_5: 8bda0
+md5_5_upper: 8BDA0
+md5_6: 8bda01
+md5_6_alpha: 5gg01
+md5_6_alpha_upper: 5GG01
+md5_6_upper: 8BDA01
+name: Electronic Resistor 1206 2700000 Ohm
+name_no_class: Resistor 1206 2700000 Ohm
+name_no_color: 2700000Ohm
+name_no_size: 2700000 Ohm
+name_no_type: 1206 2700000 Ohm
+oomp_key: oomp_electronic_resistor_1206_2700000_ohm
+oomp_word: door hotel smile
+oomp_word_emoji: ':door: :hotel: :smile:'
+oomp_word_emoji_list:
+- ':door:'
+- ':hotel:'
+- ':smile:'
+oomp_word_list:
+- door
+- hotel
+- smile
+part_number: ''
+size: '1206'
+type: resistor

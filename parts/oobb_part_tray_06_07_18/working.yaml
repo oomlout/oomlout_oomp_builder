@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_07_18
+directory: parts/oobb_part_tray_06_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_07_18
+id: oobb_part_tray_06_07_18
+id_no_class: part_tray_06_07_18
+id_no_color: 060718
+id_no_size: 06_07_18
+id_no_type: tray_06_07_18
+manufacturer: ''
+md5: 6bc2eedc65837c639380369d03a19aed
+md5_10: 6bc2eedc65
+md5_10_upper: 6BC2EEDC65
+md5_5: 6bc2e
+md5_5_upper: 6BC2E
+md5_6: 6bc2ee
+md5_6_alpha: 47d9q
+md5_6_alpha_upper: 47D9Q
+md5_6_upper: 6BC2EE
+name: Oobb Part Tray 06 07 18
+name_no_class: Part Tray 06 07 18
+name_no_color: 060718
+name_no_size: 06 07 18
+name_no_type: Tray 06 07 18
+oomp_key: oomp_oobb_part_tray_06_07_18
+oomp_word: chestnut birthday ambulance
+oomp_word_emoji: ':chestnut: :birthday: :ambulance:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':birthday:'
+- ':ambulance:'
+oomp_word_list:
+- chestnut
+- birthday
+- ambulance
+part_number: ''
+size: tray
+type: part

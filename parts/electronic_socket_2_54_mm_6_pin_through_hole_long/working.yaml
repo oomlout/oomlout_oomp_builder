@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 6_pin
+directory: parts/electronic_socket_2_54_mm_6_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_6_pin_through_hole_long
+id: electronic_socket_2_54_mm_6_pin_through_hole_long
+id_no_class: socket_2_54_mm_6_pin_through_hole_long
+id_no_color: 6pinthroughholelong
+id_no_size: 6_pin_through_hole_long
+id_no_type: 2_54_mm_6_pin_through_hole_long
+manufacturer: ''
+md5: a3352ebf37e441a341d4af8e591fa7e2
+md5_10: a3352ebf37
+md5_10_upper: A3352EBF37
+md5_5: a3352
+md5_5_upper: A3352
+md5_6: a3352e
+md5_6_alpha: 6d92m
+md5_6_alpha_upper: 6D92M
+md5_6_upper: A3352E
+name: Electronic Socket 2 54 Mm 6 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 6 Pin Through Hole Long
+name_no_color: 6Pinthroughholelong
+name_no_size: 6 Pin Through Hole Long
+name_no_type: 2 54 Mm 6 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_6_pin_through_hole_long
+oomp_word: pencil hamster zap
+oomp_word_emoji: ':pencil: :hamster: :zap:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':hamster:'
+- ':zap:'
+oomp_word_list:
+- pencil
+- hamster
+- zap
+part_number: ''
+size: 2_54_mm
+type: socket

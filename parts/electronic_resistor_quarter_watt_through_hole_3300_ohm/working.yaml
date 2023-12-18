@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3300_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_3300_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm
+id: electronic_resistor_quarter_watt_through_hole_3300_ohm
+id_no_class: resistor_quarter_watt_through_hole_3300_ohm
+id_no_color: 3300ohm
+id_no_size: 3300_ohm
+id_no_type: quarter_watt_through_hole_3300_ohm
+manufacturer: ''
+md5: bb6da470b1ccd507d830d71be560b84d
+md5_10: bb6da470b1
+md5_10_upper: BB6DA470B1
+md5_5: bb6da
+md5_5_upper: BB6DA
+md5_6: bb6da4
+md5_6_alpha: 7b9us
+md5_6_alpha_upper: 7B9US
+md5_6_upper: BB6DA4
+name: Electronic Resistor Quarter Watt Through Hole 3300 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 3300 Ohm
+name_no_color: 3300Ohm
+name_no_size: 3300 Ohm
+name_no_type: Quarter Watt Through Hole 3300 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_3300_ohm
+oomp_word: curry shell book
+oomp_word_emoji: ':curry: :shell: :book:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':shell:'
+- ':book:'
+oomp_word_list:
+- curry
+- shell
+- book
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

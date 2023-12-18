@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 36_pin
+directory: parts/electronic_header_2_54_mm_36_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_surface_mount
+id: electronic_header_2_54_mm_36_pin_surface_mount
+id_no_class: header_2_54_mm_36_pin_surface_mount
+id_no_color: 36pinsurfacemount
+id_no_size: 36_pin_surface_mount
+id_no_type: 2_54_mm_36_pin_surface_mount
+manufacturer: ''
+md5: 91d9e5bf1624ac6e6d8f1a0df04df659
+md5_10: 91d9e5bf16
+md5_10_upper: 91D9E5BF16
+md5_5: 91d9e
+md5_5_upper: 91D9E
+md5_6: 91d9e5
+md5_6_alpha: 5ovdx
+md5_6_alpha_upper: 5OVDX
+md5_6_upper: 91D9E5
+name: Electronic Header 2 54 Mm 36 Pin Surface Mount
+name_no_class: Header 2 54 Mm 36 Pin Surface Mount
+name_no_color: 36Pinsurfacemount
+name_no_size: 36 Pin Surface Mount
+name_no_type: 2 54 Mm 36 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_36_pin_surface_mount
+oomp_word: pushpin bank rocket
+oomp_word_emoji: ':pushpin: :bank: :rocket:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':bank:'
+- ':rocket:'
+oomp_word_list:
+- pushpin
+- bank
+- rocket
+part_number: ''
+size: 2_54_mm
+type: header

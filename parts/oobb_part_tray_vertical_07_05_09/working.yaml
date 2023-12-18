@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_05_09
+directory: parts/oobb_part_tray_vertical_07_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_05_09
+id: oobb_part_tray_vertical_07_05_09
+id_no_class: part_tray_vertical_07_05_09
+id_no_color: 070509
+id_no_size: 07_05_09
+id_no_type: tray_vertical_07_05_09
+manufacturer: ''
+md5: e27377db1d0292d758106afa249b5188
+md5_10: e27377db1d
+md5_10_upper: E27377DB1D
+md5_5: e2737
+md5_5_upper: E2737
+md5_6: e27377
+md5_6_alpha: 8u35j
+md5_6_alpha_upper: 8U35J
+md5_6_upper: E27377
+name: Oobb Part Tray Vertical 07 05 09
+name_no_class: Part Tray Vertical 07 05 09
+name_no_color: 070509
+name_no_size: 07 05 09
+name_no_type: Tray Vertical 07 05 09
+oomp_key: oomp_oobb_part_tray_vertical_07_05_09
+oomp_word: sailboat flags gift
+oomp_word_emoji: ':sailboat: :flags: :gift:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':flags:'
+- ':gift:'
+oomp_word_list:
+- sailboat
+- flags
+- gift
+part_number: ''
+size: tray_vertical
+type: part

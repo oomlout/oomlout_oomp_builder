@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_09
+directory: parts/oobb_part_tray_thin_2d5_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_04_09
+id: oobb_part_tray_thin_2d5_04_09
+id_no_class: part_tray_thin_2d5_04_09
+id_no_color: 2d50409
+id_no_size: 2d5_04_09
+id_no_type: tray_thin_2d5_04_09
+manufacturer: ''
+md5: 0a4b4062df14696b00a54b3ec1ff7938
+md5_10: 0a4b4062df
+md5_10_upper: 0A4B4062DF
+md5_5: 0a4b4
+md5_5_upper: 0A4B4
+md5_6: 0a4b40
+md5_6_alpha: egjk
+md5_6_alpha_upper: EGJK
+md5_6_upper: 0A4B40
+name: Oobb Part Tray Thin 2D5 04 09
+name_no_class: Part Tray Thin 2D5 04 09
+name_no_color: 2D50409
+name_no_size: 2D5 04 09
+name_no_type: Tray Thin 2D5 04 09
+oomp_key: oomp_oobb_part_tray_thin_2d5_04_09
+oomp_word: sleepy penguin racehorse
+oomp_word_emoji: ':sleepy: :penguin: :racehorse:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':penguin:'
+- ':racehorse:'
+oomp_word_list:
+- sleepy
+- penguin
+- racehorse
+part_number: ''
+size: tray_thin
+type: part

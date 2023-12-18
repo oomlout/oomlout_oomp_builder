@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_x
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_x
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_x
+id: oobb_part_bunting_alphabet_05_01_ex_x
+id_no_class: part_bunting_alphabet_05_01_ex_x
+id_no_color: 0501exx
+id_no_size: 05_01_ex_x
+id_no_type: bunting_alphabet_05_01_ex_x
+manufacturer: ''
+md5: 61c329f33442caec98a43594b516288e
+md5_10: 61c329f334
+md5_10_upper: 61C329F334
+md5_5: 61c32
+md5_5_upper: 61C32
+md5_6: 61c329
+md5_6_alpha: 3tbmx
+md5_6_alpha_upper: 3TBMX
+md5_6_upper: 61C329
+name: Oobb Part Bunting Alphabet 05 01 Ex X
+name_no_class: Part Bunting Alphabet 05 01 Ex X
+name_no_color: 0501Exx
+name_no_size: 05 01 Ex X
+name_no_type: Bunting Alphabet 05 01 Ex X
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_x
+oomp_word: bouquet cake sunny
+oomp_word_emoji: ':bouquet: :cake: :sunny:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':cake:'
+- ':sunny:'
+oomp_word_list:
+- bouquet
+- cake
+- sunny
+part_number: ''
+size: bunting_alphabet
+type: part

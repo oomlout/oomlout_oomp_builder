@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_06_ex_motor_stepper_nema_17_flat_shifted
+directory: parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+id: oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+id_no_class: part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+id_no_color: 050306exmotorsteppernema17flatshifted
+id_no_size: 05_03_06_ex_motor_stepper_nema_17_flat_shifted
+id_no_type: holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+manufacturer: ''
+md5: d5b4a0f3c21832f984a5e5dd138ee347
+md5_10: d5b4a0f3c2
+md5_10_upper: D5B4A0F3C2
+md5_5: d5b4a
+md5_5_upper: D5B4A
+md5_6: d5b4a0
+md5_6_alpha: 8c6n4
+md5_6_alpha_upper: 8C6N4
+md5_6_upper: D5B4A0
+name: Oobb Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_class: Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_color: 050306Exmotorsteppernema17Flatshifted
+name_no_size: 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_type: Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
+oomp_key: oomp_oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+oomp_word: house coffee ring
+oomp_word_emoji: ':house: :coffee: :ring:'
+oomp_word_emoji_list:
+- ':house:'
+- ':coffee:'
+- ':ring:'
+oomp_word_list:
+- house
+- coffee
+- ring
+part_number: ''
+size: holder
+type: part

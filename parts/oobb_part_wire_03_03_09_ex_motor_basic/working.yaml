@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_09_ex_motor_basic
+directory: parts/oobb_part_wire_03_03_09_ex_motor_basic
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_09_ex_motor_basic
+id: oobb_part_wire_03_03_09_ex_motor_basic
+id_no_class: part_wire_03_03_09_ex_motor_basic
+id_no_color: 030309exmotorbasic
+id_no_size: 03_03_09_ex_motor_basic
+id_no_type: wire_03_03_09_ex_motor_basic
+manufacturer: ''
+md5: 7e33e26ca00d7ec2e0e1e70d88df5a7a
+md5_10: 7e33e26ca0
+md5_10_upper: 7E33E26CA0
+md5_5: 7e33e
+md5_5_upper: 7E33E
+md5_6: 7e33e2
+md5_6_alpha: 4x9sy
+md5_6_alpha_upper: 4X9SY
+md5_6_upper: 7E33E2
+name: Oobb Part Wire 03 03 09 Ex Motor Basic
+name_no_class: Part Wire 03 03 09 Ex Motor Basic
+name_no_color: 030309Exmotorbasic
+name_no_size: 03 03 09 Ex Motor Basic
+name_no_type: Wire 03 03 09 Ex Motor Basic
+oomp_key: oomp_oobb_part_wire_03_03_09_ex_motor_basic
+oomp_word: fax dog sailboat
+oomp_word_emoji: ':fax: :dog: :sailboat:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':dog:'
+- ':sailboat:'
+oomp_word_list:
+- fax
+- dog
+- sailboat
+part_number: ''
+size: wire
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_15
+directory: parts/oobb_part_tray_thin_08_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_04_15
+id: oobb_part_tray_thin_08_04_15
+id_no_class: part_tray_thin_08_04_15
+id_no_color: 080415
+id_no_size: 08_04_15
+id_no_type: tray_thin_08_04_15
+manufacturer: ''
+md5: 163102ce4ec8b5ac2da5d04b01ec0907
+md5_10: 163102ce4e
+md5_10_upper: 163102CE4E
+md5_5: '16310'
+md5_5_upper: '16310'
+md5_6: '163102'
+md5_6_alpha: v66a
+md5_6_alpha_upper: V66A
+md5_6_upper: '163102'
+name: Oobb Part Tray Thin 08 04 15
+name_no_class: Part Tray Thin 08 04 15
+name_no_color: 080415
+name_no_size: 08 04 15
+name_no_type: Tray Thin 08 04 15
+oomp_key: oomp_oobb_part_tray_thin_08_04_15
+oomp_word: thumbsup ocean blush
+oomp_word_emoji: ':thumbsup: :ocean: :blush:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':ocean:'
+- ':blush:'
+oomp_word_list:
+- thumbsup
+- ocean
+- blush
+part_number: ''
+size: tray_thin
+type: part

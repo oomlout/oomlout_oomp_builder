@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 24_pin
+directory: parts/electronic_socket_2_54_mm_24_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole
+id: electronic_socket_2_54_mm_24_pin_through_hole
+id_no_class: socket_2_54_mm_24_pin_through_hole
+id_no_color: 24pinthroughhole
+id_no_size: 24_pin_through_hole
+id_no_type: 2_54_mm_24_pin_through_hole
+manufacturer: ''
+md5: d8582c7e4eb3c7c69cfcf240c79c0b71
+md5_10: d8582c7e4e
+md5_10_upper: D8582C7E4E
+md5_5: d8582
+md5_5_upper: D8582
+md5_6: d8582c
+md5_6_alpha: 8fw30
+md5_6_alpha_upper: 8FW30
+md5_6_upper: D8582C
+name: Electronic Socket 2 54 Mm 24 Pin Through Hole
+name_no_class: Socket 2 54 Mm 24 Pin Through Hole
+name_no_color: 24Pinthroughhole
+name_no_size: 24 Pin Through Hole
+name_no_type: 2 54 Mm 24 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_24_pin_through_hole
+oomp_word: hospital water_buffalo snowflake
+oomp_word_emoji: ':hospital: :water_buffalo: :snowflake:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':water_buffalo:'
+- ':snowflake:'
+oomp_word_list:
+- hospital
+- water_buffalo
+- snowflake
+part_number: ''
+size: 2_54_mm
+type: socket

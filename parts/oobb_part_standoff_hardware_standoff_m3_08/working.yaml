@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_08
+directory: parts/oobb_part_standoff_hardware_standoff_m3_08
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_08
+id: oobb_part_standoff_hardware_standoff_m3_08
+id_no_class: part_standoff_hardware_standoff_m3_08
+id_no_color: hardwarem308
+id_no_size: hardware_m3_08
+id_no_type: standoff_hardware_standoff_m3_08
+manufacturer: ''
+md5: 0271d94a8b30a34a310b4400bb5380a9
+md5_10: 0271d94a8b
+md5_10_upper: 0271D94A8B
+md5_5: 0271d
+md5_5_upper: 0271D
+md5_6: 0271d9
+md5_6_alpha: 3fmh
+md5_6_alpha_upper: 3FMH
+md5_6_upper: 0271D9
+name: Oobb Part Standoff Hardware Standoff M3 08
+name_no_class: Part Standoff Hardware Standoff M3 08
+name_no_color: Hardwarem308
+name_no_size: Hardware M3 08
+name_no_type: Standoff Hardware Standoff M3 08
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_08
+oomp_word: blush bamboo bank
+oomp_word_emoji: ':blush: :bamboo: :bank:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':bamboo:'
+- ':bank:'
+oomp_word_list:
+- blush
+- bamboo
+- bank
+part_number: ''
+size: standoff
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_15'
+directory: parts/oobb_part_tray_vertical_03_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_03_15
+id: oobb_part_tray_vertical_03_03_15
+id_no_class: part_tray_vertical_03_03_15
+id_no_color: '030315'
+id_no_size: '03_03_15'
+id_no_type: tray_vertical_03_03_15
+manufacturer: ''
+md5: ebfc38820d115a55e9aa00e00a8ed0e2
+md5_10: ebfc38820d
+md5_10_upper: EBFC38820D
+md5_5: ebfc3
+md5_5_upper: EBFC3
+md5_6: ebfc38
+md5_6_alpha: 97ha0
+md5_6_alpha_upper: 97HA0
+md5_6_upper: EBFC38
+name: Oobb Part Tray Vertical 03 03 15
+name_no_class: Part Tray Vertical 03 03 15
+name_no_color: '030315'
+name_no_size: 03 03 15
+name_no_type: Tray Vertical 03 03 15
+oomp_key: oomp_oobb_part_tray_vertical_03_03_15
+oomp_word: car up frog
+oomp_word_emoji: ':car: :up: :frog:'
+oomp_word_emoji_list:
+- ':car:'
+- ':up:'
+- ':frog:'
+oomp_word_list:
+- car
+- up
+- frog
+part_number: ''
+size: tray_vertical
+type: part

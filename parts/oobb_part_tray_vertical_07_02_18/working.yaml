@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_02_18
+directory: parts/oobb_part_tray_vertical_07_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_02_18
+id: oobb_part_tray_vertical_07_02_18
+id_no_class: part_tray_vertical_07_02_18
+id_no_color: 070218
+id_no_size: 07_02_18
+id_no_type: tray_vertical_07_02_18
+manufacturer: ''
+md5: d2196edcedd57a87ebcda8467da4c073
+md5_10: d2196edced
+md5_10_upper: D2196EDCED
+md5_5: d2196
+md5_5_upper: D2196
+md5_6: d2196e
+md5_6_alpha: 874a6
+md5_6_alpha_upper: 874A6
+md5_6_upper: D2196E
+name: Oobb Part Tray Vertical 07 02 18
+name_no_class: Part Tray Vertical 07 02 18
+name_no_color: 070218
+name_no_size: 07 02 18
+name_no_type: Tray Vertical 07 02 18
+oomp_key: oomp_oobb_part_tray_vertical_07_02_18
+oomp_word: pineapple pray new_moon
+oomp_word_emoji: ':pineapple: :pray: :new_moon:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':pray:'
+- ':new_moon:'
+oomp_word_list:
+- pineapple
+- pray
+- new_moon
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 00_ex_countersunk_small
+directory: parts/oobb_part_shaft_00_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00_ex_countersunk_small
+id: oobb_part_shaft_00_ex_countersunk_small
+id_no_class: part_shaft_00_ex_countersunk_small
+id_no_color: 00excountersunksmall
+id_no_size: 00_ex_countersunk_small
+id_no_type: shaft_00_ex_countersunk_small
+manufacturer: ''
+md5: c963e3ba137bb407015ed3fa3eea101d
+md5_10: c963e3ba13
+md5_10_upper: C963E3BA13
+md5_5: c963e
+md5_5_upper: C963E
+md5_6: c963e3
+md5_6_alpha: 7uvvn
+md5_6_alpha_upper: 7UVVN
+md5_6_upper: C963E3
+name: Oobb Part Shaft 00 Ex Countersunk Small
+name_no_class: Part Shaft 00 Ex Countersunk Small
+name_no_color: 00Excountersunksmall
+name_no_size: 00 Ex Countersunk Small
+name_no_type: Shaft 00 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_00_ex_countersunk_small
+oomp_word: lemon rose rowboat
+oomp_word_emoji: ':lemon: :rose: :rowboat:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':rose:'
+- ':rowboat:'
+oomp_word_list:
+- lemon
+- rose
+- rowboat
+part_number: ''
+size: shaft
+type: part

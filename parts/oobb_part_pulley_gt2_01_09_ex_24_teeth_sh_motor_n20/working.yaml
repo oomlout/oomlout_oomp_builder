@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_24_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+id_no_color: 0109ex24teethshmotorn20
+id_no_size: 01_09_ex_24_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+manufacturer: ''
+md5: 436de5e9745f0dd9bb2ec54358ca7d74
+md5_10: 436de5e974
+md5_10_upper: 436DE5E974
+md5_5: 436de
+md5_5_upper: 436DE
+md5_6: 436de5
+md5_6_alpha: 2mpr9
+md5_6_alpha_upper: 2MPR9
+md5_6_upper: 436DE5
+name: Oobb Part Pulley Gt2 01 09 Ex 24 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 24 Teeth Sh Motor N20
+name_no_color: 0109Ex24Teethshmotorn20
+name_no_size: 01 09 Ex 24 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 24 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_n20
+oomp_word: elephant shell rocket
+oomp_word_emoji: ':elephant: :shell: :rocket:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':shell:'
+- ':rocket:'
+oomp_word_list:
+- elephant
+- shell
+- rocket
+part_number: ''
+size: pulley_gt2
+type: part

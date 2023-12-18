@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 9_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_9_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_9_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_9_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_9_pin_dupont
+id_no_color: 9_pin_dupont
+id_no_size: black_9_pin_dupont
+id_no_type: 2_54_mm_black_9_pin_dupont
+manufacturer: ''
+md5: 99f4f4f763b3c7f666a95d9345933f0d
+md5_10: 99f4f4f763
+md5_10_upper: 99F4F4F763
+md5_5: 99f4f
+md5_5_upper: 99F4F
+md5_6: 99f4f4
+md5_6_alpha: 6099w
+md5_6_alpha_upper: 6099W
+md5_6_upper: 99F4F4
+name: Electronic Crimp Housing 2 54 Mm Black 9 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 9 Pin Dupont
+name_no_color: 9 Pin Dupont
+name_no_size: Black 9 Pin Dupont
+name_no_type: 2 54 Mm Black 9 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_9_pin_dupont
+oomp_word: bowling three three
+oomp_word_emoji: ':bowling: :three: :three:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':three:'
+- ':three:'
+oomp_word_list:
+- bowling
+- three
+- three
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

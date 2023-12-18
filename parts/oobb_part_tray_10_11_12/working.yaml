@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_11_12'
+directory: parts/oobb_part_tray_10_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_11_12
+id: oobb_part_tray_10_11_12
+id_no_class: part_tray_10_11_12
+id_no_color: '101112'
+id_no_size: '10_11_12'
+id_no_type: tray_10_11_12
+manufacturer: ''
+md5: 5b56d856c0803a1bca7abdb12a3088c4
+md5_10: 5b56d856c0
+md5_10_upper: 5B56D856C0
+md5_5: 5b56d
+md5_5_upper: 5B56D
+md5_6: 5b56d8
+md5_6_alpha: 3kau0
+md5_6_alpha_upper: 3KAU0
+md5_6_upper: 5B56D8
+name: Oobb Part Tray 10 11 12
+name_no_class: Part Tray 10 11 12
+name_no_color: '101112'
+name_no_size: 10 11 12
+name_no_type: Tray 10 11 12
+oomp_key: oomp_oobb_part_tray_10_11_12
+oomp_word: rooster ram hospital
+oomp_word_emoji: ':rooster: :ram: :hospital:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':ram:'
+- ':hospital:'
+oomp_word_list:
+- rooster
+- ram
+- hospital
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0402_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow
+id: electronic_led_0402_yellow
+id_no_class: led_0402_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 0402_yellow
+manufacturer: ''
+md5: 115c9ceb124bbc3083a529c9871f5f89
+md5_10: 115c9ceb12
+md5_10_upper: 115C9CEB12
+md5_5: 115c9
+md5_5_upper: 115C9
+md5_6: 115c9c
+md5_6_alpha: ody4
+md5_6_alpha_upper: ODY4
+md5_6_upper: 115C9C
+name: Electronic Led 0402 Yellow
+name_no_class: Led 0402 Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 0402 Yellow
+oomp_key: oomp_electronic_led_0402_yellow
+oomp_word: dizzy ox spades
+oomp_word_emoji: ':dizzy: :ox: :spades:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':ox:'
+- ':spades:'
+oomp_word_list:
+- dizzy
+- ox
+- spades
+part_number: ''
+size: '0402'
+type: led

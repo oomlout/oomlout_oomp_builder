@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_04_03'
+directory: parts/oobb_part_plate_15_04_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_04_03
+id: oobb_part_plate_15_04_03
+id_no_class: part_plate_15_04_03
+id_no_color: '150403'
+id_no_size: '15_04_03'
+id_no_type: plate_15_04_03
+manufacturer: ''
+md5: fe7e7b23270c444a5698564c94775020
+md5_10: fe7e7b2327
+md5_10_upper: FE7E7B2327
+md5_5: fe7e7
+md5_5_upper: FE7E7
+md5_6: fe7e7b
+md5_6_alpha: 9xh8b
+md5_6_alpha_upper: 9XH8B
+md5_6_upper: FE7E7B
+name: Oobb Part Plate 15 04 03
+name_no_class: Part Plate 15 04 03
+name_no_color: '150403'
+name_no_size: 15 04 03
+name_no_type: Plate 15 04 03
+oomp_key: oomp_oobb_part_plate_15_04_03
+oomp_word: recycle fax computer
+oomp_word_emoji: ':recycle: :fax: :computer:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':fax:'
+- ':computer:'
+oomp_word_list:
+- recycle
+- fax
+- computer
+part_number: ''
+size: plate
+type: part

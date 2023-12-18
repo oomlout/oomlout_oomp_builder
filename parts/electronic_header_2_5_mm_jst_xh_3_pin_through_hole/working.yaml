@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_3_pin_through_hole
+id_no_color: 3pinthroughhole
+id_no_size: 3_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_3_pin_through_hole
+manufacturer: ''
+md5: ab6c71ff1bb308d3f3d7c616a87cc1c0
+md5_10: ab6c71ff1b
+md5_10_upper: AB6C71FF1B
+md5_5: ab6c7
+md5_5_upper: AB6C7
+md5_6: ab6c71
+md5_6_alpha: 6osj5
+md5_6_alpha_upper: 6OSJ5
+md5_6_upper: AB6C71
+name: Electronic Header 2 5 Mm Jst Xh 3 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 3 Pin Through Hole
+name_no_color: 3Pinthroughhole
+name_no_size: 3 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 3 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_3_pin_through_hole
+oomp_word: boot blossom bamboo
+oomp_word_emoji: ':boot: :blossom: :bamboo:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':blossom:'
+- ':bamboo:'
+oomp_word_list:
+- boot
+- blossom
+- bamboo
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

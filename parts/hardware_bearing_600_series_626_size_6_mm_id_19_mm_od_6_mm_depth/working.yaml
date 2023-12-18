@@ -1,0 +1,40 @@
+classification: hardware
+color: 626_size
+description_extra: ''
+description_main: 6_mm_id_19_mm_od_6_mm_depth
+directory: parts/hardware_bearing_600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+id: hardware_bearing_600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_class: bearing_600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_color: 6_mm_id_19_mm_od_6_mm_depth
+id_no_size: 626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_type: 600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+manufacturer: ''
+md5: ef5c4ebb0f7a45b6398d55c415e20ebd
+md5_10: ef5c4ebb0f
+md5_10_upper: EF5C4EBB0F
+md5_5: ef5c4
+md5_5_upper: EF5C4
+md5_6: ef5c4e
+md5_6_alpha: 9c7ym
+md5_6_alpha_upper: 9C7YM
+md5_6_upper: EF5C4E
+name: Hardware Bearing 600 Series 626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_class: Bearing 600 Series 626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_color: 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_size: 626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_type: 600 Series 626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_626_size_6_mm_id_19_mm_od_6_mm_depth
+oomp_word: truck ox honeybee
+oomp_word_emoji: ':truck: :ox: :honeybee:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':ox:'
+- ':honeybee:'
+oomp_word_list:
+- truck
+- ox
+- honeybee
+part_number: ''
+size: 600_series
+type: bearing

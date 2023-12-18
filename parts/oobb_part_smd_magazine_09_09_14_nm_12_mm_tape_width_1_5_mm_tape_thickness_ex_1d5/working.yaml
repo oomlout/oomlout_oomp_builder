@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 090914nm12mmtapewidth15mmtapethicknessex1d5
+id_no_size: 09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 3b93d1d9df82c20594165e5702866614
+md5_10: 3b93d1d9df
+md5_10_upper: 3B93D1D9DF
+md5_5: 3b93d
+md5_5_upper: 3B93D
+md5_6: 3b93d1
+md5_6_alpha: 2bopd
+md5_6_alpha_upper: 2BOPD
+md5_6_upper: 3B93D1
+name: Oobb Part Smd Magazine 09 09 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 09 09 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 090914Nm12Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 09 09 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 09 09 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: bear books pear
+oomp_word_emoji: ':bear: :books: :pear:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':books:'
+- ':pear:'
+oomp_word_list:
+- bear
+- books
+- pear
+part_number: ''
+size: smd_magazine
+type: part

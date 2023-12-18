@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_03'
+directory: parts/oobb_part_plate_11_11_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_11_03
+id: oobb_part_plate_11_11_03
+id_no_class: part_plate_11_11_03
+id_no_color: '111103'
+id_no_size: '11_11_03'
+id_no_type: plate_11_11_03
+manufacturer: ''
+md5: 3a8a07a9885c7a325d4d7a6c7c03c6a4
+md5_10: 3a8a07a988
+md5_10_upper: 3A8A07A988
+md5_5: 3a8a0
+md5_5_upper: 3A8A0
+md5_6: 3a8a07
+md5_6_alpha: 2a87b
+md5_6_alpha_upper: 2A87B
+md5_6_upper: 3A8A07
+name: Oobb Part Plate 11 11 03
+name_no_class: Part Plate 11 11 03
+name_no_color: '111103'
+name_no_size: 11 11 03
+name_no_type: Plate 11 11 03
+oomp_key: oomp_oobb_part_plate_11_11_03
+oomp_word: koala envelope cry
+oomp_word_emoji: ':koala: :envelope: :cry:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':envelope:'
+- ':cry:'
+oomp_word_list:
+- koala
+- envelope
+- cry
+part_number: ''
+size: plate
+type: part

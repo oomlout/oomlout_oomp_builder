@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_d
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_d
+id: oobb_part_bunting_alphabet_07_01_ex_d
+id_no_class: part_bunting_alphabet_07_01_ex_d
+id_no_color: 0701exd
+id_no_size: 07_01_ex_d
+id_no_type: bunting_alphabet_07_01_ex_d
+manufacturer: ''
+md5: 20b8c964d71157e29ea80b5a37510e0e
+md5_10: 20b8c964d7
+md5_10_upper: 20B8C964D7
+md5_5: 20b8c
+md5_5_upper: 20B8C
+md5_6: 20b8c9
+md5_6_alpha: 19yo9
+md5_6_alpha_upper: 19YO9
+md5_6_upper: 20B8C9
+name: Oobb Part Bunting Alphabet 07 01 Ex D
+name_no_class: Part Bunting Alphabet 07 01 Ex D
+name_no_color: 0701Exd
+name_no_size: 07 01 Ex D
+name_no_type: Bunting Alphabet 07 01 Ex D
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_d
+oomp_word: skull hamburger lemon
+oomp_word_emoji: ':skull: :hamburger: :lemon:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':hamburger:'
+- ':lemon:'
+oomp_word_list:
+- skull
+- hamburger
+- lemon
+part_number: ''
+size: bunting_alphabet
+type: part

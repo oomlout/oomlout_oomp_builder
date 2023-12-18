@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_color: 0206ex40teethshieldshelectronicpotentiometer17mm
+id_no_size: 02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 85d4b746f7a9857f432e4b402fa0791b
+md5_10: 85d4b746f7
+md5_10_upper: 85D4B746F7
+md5_5: 85d4b
+md5_5_upper: 85D4B
+md5_6: 85d4b7
+md5_6_alpha: 57zjr
+md5_6_alpha_upper: 57ZJR
+md5_6_upper: 85D4B7
+name: Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Shield Sh Electronic Potentiometer 17
+  Mm
+name_no_class: Part Pulley Gt2 02 06 Ex 40 Teeth Shield Sh Electronic Potentiometer
+  17 Mm
+name_no_color: 0206Ex40Teethshieldshelectronicpotentiometer17Mm
+name_no_size: 02 06 Ex 40 Teeth Shield Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 02 06 Ex 40 Teeth Shield Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth_shield_sh_electronic_potentiometer_17_mm
+oomp_word: bulb corn pizza
+oomp_word_emoji: ':bulb: :corn: :pizza:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':corn:'
+- ':pizza:'
+oomp_word_list:
+- bulb
+- corn
+- pizza
+part_number: ''
+size: pulley_gt2
+type: part

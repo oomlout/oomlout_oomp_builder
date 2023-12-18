@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_09_09
+directory: parts/oobb_part_tray_07_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_09_09
+id: oobb_part_tray_07_09_09
+id_no_class: part_tray_07_09_09
+id_no_color: 070909
+id_no_size: 07_09_09
+id_no_type: tray_07_09_09
+manufacturer: ''
+md5: 21363f746b1c2173941a82b96ad537c0
+md5_10: 21363f746b
+md5_10_upper: 21363F746B
+md5_5: '21363'
+md5_5_upper: '21363'
+md5_6: 21363f
+md5_6_alpha: 1angf
+md5_6_alpha_upper: 1ANGF
+md5_6_upper: 21363F
+name: Oobb Part Tray 07 09 09
+name_no_class: Part Tray 07 09 09
+name_no_color: 070909
+name_no_size: 07 09 09
+name_no_type: Tray 07 09 09
+oomp_key: oomp_oobb_part_tray_07_09_09
+oomp_word: feet rabbit horse
+oomp_word_emoji: ':feet: :rabbit: :horse:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':rabbit:'
+- ':horse:'
+oomp_word_list:
+- feet
+- rabbit
+- horse
+part_number: ''
+size: tray
+type: part

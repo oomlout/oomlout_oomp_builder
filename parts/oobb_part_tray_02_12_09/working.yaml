@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_12_09
+directory: parts/oobb_part_tray_02_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_12_09
+id: oobb_part_tray_02_12_09
+id_no_class: part_tray_02_12_09
+id_no_color: 021209
+id_no_size: 02_12_09
+id_no_type: tray_02_12_09
+manufacturer: ''
+md5: 151abeba63a7686c074791ab40dd0ef3
+md5_10: 151abeba63
+md5_10_upper: 151ABEBA63
+md5_5: 151ab
+md5_5_upper: 151AB
+md5_6: 151abe
+md5_6_alpha: tn7i
+md5_6_alpha_upper: TN7I
+md5_6_upper: 151ABE
+name: Oobb Part Tray 02 12 09
+name_no_class: Part Tray 02 12 09
+name_no_color: 021209
+name_no_size: 02 12 09
+name_no_type: Tray 02 12 09
+oomp_key: oomp_oobb_part_tray_02_12_09
+oomp_word: poop clap ramen
+oomp_word_emoji: ':poop: :clap: :ramen:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':clap:'
+- ':ramen:'
+oomp_word_list:
+- poop
+- clap
+- ramen
+part_number: ''
+size: tray
+type: part

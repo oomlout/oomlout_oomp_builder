@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0906ex72teethshelectronicpotentiometer17mm
+id_no_size: 09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 935ab71e851b6de9375f4ad2f884fee8
+md5_10: 935ab71e85
+md5_10_upper: 935AB71E85
+md5_5: 935ab
+md5_5_upper: 935AB
+md5_6: 935ab7
+md5_6_alpha: 5qzef
+md5_6_alpha_upper: 5QZEF
+md5_6_upper: 935AB7
+name: Oobb Part Gear 09 06 Ex 72 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 09 06 Ex 72 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0906Ex72Teethshelectronicpotentiometer17Mm
+name_no_size: 09 06 Ex 72 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 09 06 Ex 72 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_09_06_ex_72_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: books goat pizza
+oomp_word_emoji: ':books: :goat: :pizza:'
+oomp_word_emoji_list:
+- ':books:'
+- ':goat:'
+- ':pizza:'
+oomp_word_list:
+- books
+- goat
+- pizza
+part_number: ''
+size: gear
+type: part

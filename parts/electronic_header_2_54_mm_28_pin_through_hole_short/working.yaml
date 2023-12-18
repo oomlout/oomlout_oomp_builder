@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 28_pin
+directory: parts/electronic_header_2_54_mm_28_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_through_hole_short
+id: electronic_header_2_54_mm_28_pin_through_hole_short
+id_no_class: header_2_54_mm_28_pin_through_hole_short
+id_no_color: 28pinthroughholeshort
+id_no_size: 28_pin_through_hole_short
+id_no_type: 2_54_mm_28_pin_through_hole_short
+manufacturer: ''
+md5: 8e3923bebbdeaa792ec8d7434c582338
+md5_10: 8e3923bebb
+md5_10_upper: 8E3923BEBB
+md5_5: 8e392
+md5_5_upper: 8E392
+md5_6: 8e3923
+md5_6_alpha: 5jrxf
+md5_6_alpha_upper: 5JRXF
+md5_6_upper: 8E3923
+name: Electronic Header 2 54 Mm 28 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 28 Pin Through Hole Short
+name_no_color: 28Pinthroughholeshort
+name_no_size: 28 Pin Through Hole Short
+name_no_type: 2 54 Mm 28 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_28_pin_through_hole_short
+oomp_word: clipboard tiger kiss
+oomp_word_emoji: ':clipboard: :tiger: :kiss:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':tiger:'
+- ':kiss:'
+oomp_word_list:
+- clipboard
+- tiger
+- kiss
+part_number: ''
+size: 2_54_mm
+type: header

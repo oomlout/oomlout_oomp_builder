@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+directory: parts/oobb_part_holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+id: oobb_part_holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+id_no_class: part_holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+id_no_color: 030303exelectronicpotentiometersticksingleaxis16mm
+id_no_size: 03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+id_no_type: holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+manufacturer: ''
+md5: 8f12195ef8aca7d2668fc40d69bbca31
+md5_10: 8f12195ef8
+md5_10_upper: 8F12195EF8
+md5_5: 8f121
+md5_5_upper: 8F121
+md5_6: 8f1219
+md5_6_alpha: 5kys9
+md5_6_alpha_upper: 5KYS9
+md5_6_upper: 8F1219
+name: Oobb Part Holder 03 03 03 Ex Electronic Potentiometer Stick Single Axis 16 Mm
+name_no_class: Part Holder 03 03 03 Ex Electronic Potentiometer Stick Single Axis
+  16 Mm
+name_no_color: 030303Exelectronicpotentiometersticksingleaxis16Mm
+name_no_size: 03 03 03 Ex Electronic Potentiometer Stick Single Axis 16 Mm
+name_no_type: Holder 03 03 03 Ex Electronic Potentiometer Stick Single Axis 16 Mm
+oomp_key: oomp_oobb_part_holder_03_03_03_ex_electronic_potentiometer_stick_single_axis_16_mm
+oomp_word: calendar anger pray
+oomp_word_emoji: ':calendar: :anger: :pray:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':anger:'
+- ':pray:'
+oomp_word_list:
+- calendar
+- anger
+- pray
+part_number: ''
+size: holder
+type: part

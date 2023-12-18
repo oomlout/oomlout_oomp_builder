@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 3_pin
+directory: parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount
+id: electronic_header_1_mm_jst_sh_3_pin_surface_mount
+id_no_class: header_1_mm_jst_sh_3_pin_surface_mount
+id_no_color: 3pinsurfacemount
+id_no_size: 3_pin_surface_mount
+id_no_type: 1_mm_jst_sh_3_pin_surface_mount
+manufacturer: ''
+md5: 4f48be0f10f6f95f2e37222254faae42
+md5_10: 4f48be0f10
+md5_10_upper: 4F48BE0F10
+md5_5: 4f48b
+md5_5_upper: 4F48B
+md5_6: 4f48be
+md5_6_alpha: 33d8e
+md5_6_alpha_upper: 33D8E
+md5_6_upper: 4F48BE
+name: Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount
+name_no_class: Header 1 Mm Jst Sh 3 Pin Surface Mount
+name_no_color: 3Pinsurfacemount
+name_no_size: 3 Pin Surface Mount
+name_no_type: 1 Mm Jst Sh 3 Pin Surface Mount
+oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount
+oomp_word: ant hatched_chick ramen
+oomp_word_emoji: ':ant: :hatched_chick: :ramen:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':hatched_chick:'
+- ':ramen:'
+oomp_word_list:
+- ant
+- hatched_chick
+- ramen
+part_number: ''
+size: 1_mm_jst_sh
+type: header

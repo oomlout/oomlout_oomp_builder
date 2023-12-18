@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_36_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+id_no_color: 0109ex36teethshieldshm3
+id_no_size: 01_09_ex_36_teeth_shield_sh_m3
+id_no_type: pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+manufacturer: ''
+md5: 87466d79f0793f2dad7ff4cefe4b2a70
+md5_10: 87466d79f0
+md5_10_upper: 87466D79F0
+md5_5: '87466'
+md5_5_upper: '87466'
+md5_6: 87466d
+md5_6_alpha: 5a0kt
+md5_6_alpha_upper: 5A0KT
+md5_6_upper: 87466D
+name: Oobb Part Pulley Gt2 01 09 Ex 36 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 01 09 Ex 36 Teeth Shield Sh M3
+name_no_color: 0109Ex36Teethshieldshm3
+name_no_size: 01 09 Ex 36 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 01 09 Ex 36 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_36_teeth_shield_sh_m3
+oomp_word: toilet bird shell
+oomp_word_emoji: ':toilet: :bird: :shell:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':bird:'
+- ':shell:'
+oomp_word_list:
+- toilet
+- bird
+- shell
+part_number: ''
+size: pulley_gt2
+type: part

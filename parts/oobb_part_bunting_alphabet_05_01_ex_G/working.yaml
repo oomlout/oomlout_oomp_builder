@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_g
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_g
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_g
+id: oobb_part_bunting_alphabet_05_01_ex_g
+id_no_class: part_bunting_alphabet_05_01_ex_g
+id_no_color: 0501exg
+id_no_size: 05_01_ex_g
+id_no_type: bunting_alphabet_05_01_ex_g
+manufacturer: ''
+md5: 725f1aec7e57c663b9452a5a359effd6
+md5_10: 725f1aec7e
+md5_10_upper: 725F1AEC7E
+md5_5: 725f1
+md5_5_upper: 725F1
+md5_6: 725f1a
+md5_6_alpha: 4gniy
+md5_6_alpha_upper: 4GNIY
+md5_6_upper: 725F1A
+name: Oobb Part Bunting Alphabet 05 01 Ex G
+name_no_class: Part Bunting Alphabet 05 01 Ex G
+name_no_color: 0501Exg
+name_no_size: 05 01 Ex G
+name_no_type: Bunting Alphabet 05 01 Ex G
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_g
+oomp_word: dolls leopard clap
+oomp_word_emoji: ':dolls: :leopard: :clap:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':leopard:'
+- ':clap:'
+oomp_word_list:
+- dolls
+- leopard
+- clap
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x5_10_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+id_no_color: 2x510pinthroughholerightangle
+id_no_size: 2x5_10_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+manufacturer: ''
+md5: 4b6dca7b1e8d956f117909f8bc51c80a
+md5_10: 4b6dca7b1e
+md5_10_upper: 4B6DCA7B1E
+md5_5: 4b6dc
+md5_5_upper: 4B6DC
+md5_6: 4b6dca
+md5_6_alpha: 2xya2
+md5_6_alpha_upper: 2XYA2
+md5_6_upper: 4B6DCA
+name: Electronic Header 2 54 Mm Dual Row 2X5 10 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X5 10 Pin Through Hole Right Angle
+name_no_color: 2X510Pinthroughholerightangle
+name_no_size: 2X5 10 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X5 10 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x5_10_pin_through_hole_right_angle
+oomp_word: penguin shell cherries
+oomp_word_emoji: ':penguin: :shell: :cherries:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':shell:'
+- ':cherries:'
+oomp_word_list:
+- penguin
+- shell
+- cherries
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

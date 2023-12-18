@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+id_no_class: ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+id_no_color: atmega328_microchip_atmega328p_mu
+id_no_size: mcu_atmega328_microchip_atmega328p_mu
+id_no_type: mlf_32_mcu_atmega328_microchip_atmega328p_mu
+manufacturer: microchip
+md5: d6a4452edcde90237afb3d93a423b538
+md5_10: d6a4452edc
+md5_10_upper: D6A4452EDC
+md5_5: d6a44
+md5_5_upper: D6A44
+md5_6: d6a445
+md5_6_alpha: 8dhz9
+md5_6_alpha_upper: 8DHZ9
+md5_6_upper: D6A445
+name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
+name_no_class: Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
+name_no_color: Atmega328 Microchip Atmega328P Mu
+name_no_size: Mcu Atmega328 Microchip Atmega328P Mu
+name_no_type: Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
+oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+oomp_word: school book snake
+oomp_word_emoji: ':school: :book: :snake:'
+oomp_word_emoji_list:
+- ':school:'
+- ':book:'
+- ':snake:'
+oomp_word_list:
+- school
+- book
+- snake
+part_number: atmega328p_mu
+size: mlf_32
+type: ic

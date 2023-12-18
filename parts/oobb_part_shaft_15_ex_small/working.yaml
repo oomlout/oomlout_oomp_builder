@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 15_ex_small
+directory: parts/oobb_part_shaft_15_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_ex_small
+id: oobb_part_shaft_15_ex_small
+id_no_class: part_shaft_15_ex_small
+id_no_color: 15exsmall
+id_no_size: 15_ex_small
+id_no_type: shaft_15_ex_small
+manufacturer: ''
+md5: 126353addeb926fcb76f1d197b9d093c
+md5_10: 126353adde
+md5_10_upper: 126353ADDE
+md5_5: '12635'
+md5_5_upper: '12635'
+md5_6: '126353'
+md5_6_alpha: ptub
+md5_6_alpha_upper: PTUB
+md5_6_upper: '126353'
+name: Oobb Part Shaft 15 Ex Small
+name_no_class: Part Shaft 15 Ex Small
+name_no_color: 15Exsmall
+name_no_size: 15 Ex Small
+name_no_type: Shaft 15 Ex Small
+oomp_key: oomp_oobb_part_shaft_15_ex_small
+oomp_word: anger rose fish
+oomp_word_emoji: ':anger: :rose: :fish:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':rose:'
+- ':fish:'
+oomp_word_list:
+- anger
+- rose
+- fish
+part_number: ''
+size: shaft
+type: part

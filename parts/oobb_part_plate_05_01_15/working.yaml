@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_15'
+directory: parts/oobb_part_plate_05_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_15
+id: oobb_part_plate_05_01_15
+id_no_class: part_plate_05_01_15
+id_no_color: '050115'
+id_no_size: '05_01_15'
+id_no_type: plate_05_01_15
+manufacturer: ''
+md5: d6cf099dda09413f77f5bb69b9f0a326
+md5_10: d6cf099dda
+md5_10_upper: D6CF099DDA
+md5_5: d6cf0
+md5_5_upper: D6CF0
+md5_6: d6cf09
+md5_6_alpha: 8dqfd
+md5_6_alpha_upper: 8DQFD
+md5_6_upper: D6CF09
+name: Oobb Part Plate 05 01 15
+name_no_class: Part Plate 05 01 15
+name_no_color: '050115'
+name_no_size: 05 01 15
+name_no_type: Plate 05 01 15
+oomp_key: oomp_oobb_part_plate_05_01_15
+oomp_word: school melon angry
+oomp_word_emoji: ':school: :melon: :angry:'
+oomp_word_emoji_list:
+- ':school:'
+- ':melon:'
+- ':angry:'
+oomp_word_list:
+- school
+- melon
+- angry
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_29_ex_ninety_degree
+directory: parts/oobb_part_plate_02_02_29_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_02_29_ex_ninety_degree
+id: oobb_part_plate_02_02_29_ex_ninety_degree
+id_no_class: part_plate_02_02_29_ex_ninety_degree
+id_no_color: 020229exninetydegree
+id_no_size: 02_02_29_ex_ninety_degree
+id_no_type: plate_02_02_29_ex_ninety_degree
+manufacturer: ''
+md5: 74192f2760d9ebbab559b87497bd7bec
+md5_10: 74192f2760
+md5_10_upper: 74192F2760
+md5_5: '74192'
+md5_5_upper: '74192'
+md5_6: 74192f
+md5_6_alpha: 4j2un
+md5_6_alpha_upper: 4J2UN
+md5_6_upper: 74192F
+name: Oobb Part Plate 02 02 29 Ex Ninety Degree
+name_no_class: Part Plate 02 02 29 Ex Ninety Degree
+name_no_color: 020229Exninetydegree
+name_no_size: 02 02 29 Ex Ninety Degree
+name_no_type: Plate 02 02 29 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_02_02_29_ex_ninety_degree
+oomp_word: fireworks pray cyclone
+oomp_word_emoji: ':fireworks: :pray: :cyclone:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':pray:'
+- ':cyclone:'
+oomp_word_list:
+- fireworks
+- pray
+- cyclone
+part_number: ''
+size: plate
+type: part

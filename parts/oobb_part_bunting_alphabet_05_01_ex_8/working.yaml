@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_8
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_8
+id: oobb_part_bunting_alphabet_05_01_ex_8
+id_no_class: part_bunting_alphabet_05_01_ex_8
+id_no_color: 0501ex8
+id_no_size: 05_01_ex_8
+id_no_type: bunting_alphabet_05_01_ex_8
+manufacturer: ''
+md5: 1d52c4136fb15e3d5167a5f1caf7e09b
+md5_10: 1d52c4136f
+md5_10_upper: 1D52C4136F
+md5_5: 1d52c
+md5_5_upper: 1D52C
+md5_6: 1d52c4
+md5_6_alpha: 156tg
+md5_6_alpha_upper: 156TG
+md5_6_upper: 1D52C4
+name: Oobb Part Bunting Alphabet 05 01 Ex 8
+name_no_class: Part Bunting Alphabet 05 01 Ex 8
+name_no_color: 0501Ex8
+name_no_size: 05 01 Ex 8
+name_no_type: Bunting Alphabet 05 01 Ex 8
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_8
+oomp_word: baby octopus cookie
+oomp_word_emoji: ':baby: :octopus: :cookie:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':octopus:'
+- ':cookie:'
+oomp_word_list:
+- baby
+- octopus
+- cookie
+part_number: ''
+size: bunting_alphabet
+type: part

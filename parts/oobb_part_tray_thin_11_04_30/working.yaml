@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_30'
+directory: parts/oobb_part_tray_thin_11_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_04_30
+id: oobb_part_tray_thin_11_04_30
+id_no_class: part_tray_thin_11_04_30
+id_no_color: '110430'
+id_no_size: '11_04_30'
+id_no_type: tray_thin_11_04_30
+manufacturer: ''
+md5: 345c10ffb7331abe3a4f6a605da3602e
+md5_10: 345c10ffb7
+md5_10_upper: 345C10FFB7
+md5_5: 345c1
+md5_5_upper: 345C1
+md5_6: 345c10
+md5_6_alpha: 21jps
+md5_6_alpha_upper: 21JPS
+md5_6_upper: 345C10
+name: Oobb Part Tray Thin 11 04 30
+name_no_class: Part Tray Thin 11 04 30
+name_no_color: '110430'
+name_no_size: 11 04 30
+name_no_type: Tray Thin 11 04 30
+oomp_key: oomp_oobb_part_tray_thin_11_04_30
+oomp_word: mouse ox star
+oomp_word_emoji: ':mouse: :ox: :star:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':ox:'
+- ':star:'
+oomp_word_list:
+- mouse
+- ox
+- star
+part_number: ''
+size: tray_thin
+type: part

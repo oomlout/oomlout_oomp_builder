@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_12
+directory: parts/oobb_part_standoff_hardware_standoff_m3_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12
+id: oobb_part_standoff_hardware_standoff_m3_12
+id_no_class: part_standoff_hardware_standoff_m3_12
+id_no_color: hardwarem312
+id_no_size: hardware_m3_12
+id_no_type: standoff_hardware_standoff_m3_12
+manufacturer: ''
+md5: 55450dc1ce5fc7def30d8136ea2d6df8
+md5_10: 55450dc1ce
+md5_10_upper: 55450DC1CE
+md5_5: '55450'
+md5_5_upper: '55450'
+md5_6: 55450d
+md5_6_alpha: 3brwt
+md5_6_alpha_upper: 3BRWT
+md5_6_upper: 55450D
+name: Oobb Part Standoff Hardware Standoff M3 12
+name_no_class: Part Standoff Hardware Standoff M3 12
+name_no_color: Hardwarem312
+name_no_size: Hardware M3 12
+name_no_type: Standoff Hardware Standoff M3 12
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_12
+oomp_word: dolphin snake heart
+oomp_word_emoji: ':dolphin: :snake: :heart:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':snake:'
+- ':heart:'
+oomp_word_list:
+- dolphin
+- snake
+- heart
+part_number: ''
+size: standoff
+type: part

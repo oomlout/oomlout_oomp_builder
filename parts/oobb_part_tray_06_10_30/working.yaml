@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_10_30'
+directory: parts/oobb_part_tray_06_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_10_30
+id: oobb_part_tray_06_10_30
+id_no_class: part_tray_06_10_30
+id_no_color: '061030'
+id_no_size: '06_10_30'
+id_no_type: tray_06_10_30
+manufacturer: ''
+md5: f223267671beaf6e89f71fcdfe723c4c
+md5_10: f223267671
+md5_10_upper: F223267671
+md5_5: f2232
+md5_5_upper: F2232
+md5_6: f22326
+md5_6_alpha: 9g4di
+md5_6_alpha_upper: 9G4DI
+md5_6_upper: F22326
+name: Oobb Part Tray 06 10 30
+name_no_class: Part Tray 06 10 30
+name_no_color: '061030'
+name_no_size: 06 10 30
+name_no_type: Tray 06 10 30
+oomp_key: oomp_oobb_part_tray_06_10_30
+oomp_word: one kiss eyes
+oomp_word_emoji: ':one: :kiss: :eyes:'
+oomp_word_emoji_list:
+- ':one:'
+- ':kiss:'
+- ':eyes:'
+oomp_word_list:
+- one
+- kiss
+- eyes
+part_number: ''
+size: tray
+type: part

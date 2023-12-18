@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_09_15'
+directory: parts/oobb_part_tray_vertical_12_09_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_09_15
+id: oobb_part_tray_vertical_12_09_15
+id_no_class: part_tray_vertical_12_09_15
+id_no_color: '120915'
+id_no_size: '12_09_15'
+id_no_type: tray_vertical_12_09_15
+manufacturer: ''
+md5: db5fd15fa9d6f771a831367200c681b4
+md5_10: db5fd15fa9
+md5_10_upper: DB5FD15FA9
+md5_5: db5fd
+md5_5_upper: DB5FD
+md5_6: db5fd1
+md5_6_alpha: 8k5ap
+md5_6_alpha_upper: 8K5AP
+md5_6_upper: DB5FD1
+name: Oobb Part Tray Vertical 12 09 15
+name_no_class: Part Tray Vertical 12 09 15
+name_no_color: '120915'
+name_no_size: 12 09 15
+name_no_type: Tray Vertical 12 09 15
+oomp_key: oomp_oobb_part_tray_vertical_12_09_15
+oomp_word: tent leopard pear
+oomp_word_emoji: ':tent: :leopard: :pear:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':leopard:'
+- ':pear:'
+oomp_word_list:
+- tent
+- leopard
+- pear
+part_number: ''
+size: tray_vertical
+type: part

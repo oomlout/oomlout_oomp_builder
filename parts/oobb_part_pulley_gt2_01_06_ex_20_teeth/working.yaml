@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_20_teeth
+directory: parts/oobb_part_pulley_gt2_01_06_ex_20_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_20_teeth
+id: oobb_part_pulley_gt2_01_06_ex_20_teeth
+id_no_class: part_pulley_gt2_01_06_ex_20_teeth
+id_no_color: 0106ex20teeth
+id_no_size: 01_06_ex_20_teeth
+id_no_type: pulley_gt2_01_06_ex_20_teeth
+manufacturer: ''
+md5: a51c34bc9dcb47fe8d2998ff6408412c
+md5_10: a51c34bc9d
+md5_10_upper: A51C34BC9D
+md5_5: a51c3
+md5_5_upper: A51C3
+md5_6: a51c34
+md5_6_alpha: 6fx9w
+md5_6_alpha_upper: 6FX9W
+md5_6_upper: A51C34
+name: Oobb Part Pulley Gt2 01 06 Ex 20 Teeth
+name_no_class: Part Pulley Gt2 01 06 Ex 20 Teeth
+name_no_color: 0106Ex20Teeth
+name_no_size: 01 06 Ex 20 Teeth
+name_no_type: Pulley Gt2 01 06 Ex 20 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_20_teeth
+oomp_word: headphones dancer mouse
+oomp_word_emoji: ':headphones: :dancer: :mouse:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':dancer:'
+- ':mouse:'
+oomp_word_list:
+- headphones
+- dancer
+- mouse
+part_number: ''
+size: pulley_gt2
+type: part

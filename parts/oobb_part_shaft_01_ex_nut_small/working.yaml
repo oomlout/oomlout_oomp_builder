@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_ex_nut_small
+directory: parts/oobb_part_shaft_01_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01_ex_nut_small
+id: oobb_part_shaft_01_ex_nut_small
+id_no_class: part_shaft_01_ex_nut_small
+id_no_color: 01exnutsmall
+id_no_size: 01_ex_nut_small
+id_no_type: shaft_01_ex_nut_small
+manufacturer: ''
+md5: 9f963cccfbdf22174eb8ff4739567d11
+md5_10: 9f963cccfb
+md5_10_upper: 9F963CCCFB
+md5_5: 9f963
+md5_5_upper: 9F963
+md5_6: 9f963c
+md5_6_alpha: 685z0
+md5_6_alpha_upper: 685Z0
+md5_6_upper: 9F963C
+name: Oobb Part Shaft 01 Ex Nut Small
+name_no_class: Part Shaft 01 Ex Nut Small
+name_no_color: 01Exnutsmall
+name_no_size: 01 Ex Nut Small
+name_no_type: Shaft 01 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_01_ex_nut_small
+oomp_word: diamonds basketball pig
+oomp_word_emoji: ':diamonds: :basketball: :pig:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':basketball:'
+- ':pig:'
+oomp_word_list:
+- diamonds
+- basketball
+- pig
+part_number: ''
+size: shaft
+type: part

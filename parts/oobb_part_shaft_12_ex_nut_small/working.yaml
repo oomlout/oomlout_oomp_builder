@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_ex_nut_small
+directory: parts/oobb_part_shaft_12_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12_ex_nut_small
+id: oobb_part_shaft_12_ex_nut_small
+id_no_class: part_shaft_12_ex_nut_small
+id_no_color: 12exnutsmall
+id_no_size: 12_ex_nut_small
+id_no_type: shaft_12_ex_nut_small
+manufacturer: ''
+md5: 0353f902545d36742bfd9640ed2bc687
+md5_10: 0353f90254
+md5_10_upper: 0353F90254
+md5_5: 0353f
+md5_5_upper: 0353F
+md5_6: 0353f9
+md5_6_alpha: 4oah
+md5_6_alpha_upper: 4OAH
+md5_6_upper: 0353F9
+name: Oobb Part Shaft 12 Ex Nut Small
+name_no_class: Part Shaft 12 Ex Nut Small
+name_no_color: 12Exnutsmall
+name_no_size: 12 Ex Nut Small
+name_no_type: Shaft 12 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_12_ex_nut_small
+oomp_word: grin fish eight
+oomp_word_emoji: ':grin: :fish: :eight:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':fish:'
+- ':eight:'
+oomp_word_list:
+- grin
+- fish
+- eight
+part_number: ''
+size: shaft
+type: part

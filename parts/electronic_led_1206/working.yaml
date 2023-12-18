@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206
+id: electronic_led_1206
+id_no_class: led_1206
+id_no_color: '1206'
+id_no_size: '1206'
+id_no_type: '1206'
+manufacturer: ''
+md5: 6216927724aa54d0807a6a8b918f128f
+md5_10: '6216927724'
+md5_10_upper: '6216927724'
+md5_5: '62169'
+md5_5_upper: '62169'
+md5_6: '621692'
+md5_6_alpha: 3ts42
+md5_6_alpha_upper: 3TS42
+md5_6_upper: '621692'
+name: Electronic Led 1206
+name_no_class: Led 1206
+name_no_color: '1206'
+name_no_size: '1206'
+name_no_type: '1206'
+oomp_key: oomp_electronic_led_1206
+oomp_word: tulip thumbsup paperclip
+oomp_word_emoji: ':tulip: :thumbsup: :paperclip:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':thumbsup:'
+- ':paperclip:'
+oomp_word_list:
+- tulip
+- thumbsup
+- paperclip
+part_number: ''
+size: '1206'
+type: led

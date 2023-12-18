@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '25_01_09'
+directory: parts/oobb_part_plate_25_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_25_01_09
+id: oobb_part_plate_25_01_09
+id_no_class: part_plate_25_01_09
+id_no_color: '250109'
+id_no_size: '25_01_09'
+id_no_type: plate_25_01_09
+manufacturer: ''
+md5: 934d17e064c816331f567d73203448d5
+md5_10: 934d17e064
+md5_10_upper: 934D17E064
+md5_5: 934d1
+md5_5_upper: 934D1
+md5_6: 934d17
+md5_6_alpha: 5qwpj
+md5_6_alpha_upper: 5QWPJ
+md5_6_upper: 934D17
+name: Oobb Part Plate 25 01 09
+name_no_class: Part Plate 25 01 09
+name_no_color: '250109'
+name_no_size: 25 01 09
+name_no_type: Plate 25 01 09
+oomp_key: oomp_oobb_part_plate_25_01_09
+oomp_word: books bug thumbsdown
+oomp_word_emoji: ':books: :bug: :thumbsdown:'
+oomp_word_emoji_list:
+- ':books:'
+- ':bug:'
+- ':thumbsdown:'
+oomp_word_list:
+- books
+- bug
+- thumbsdown
+part_number: ''
+size: plate
+type: part

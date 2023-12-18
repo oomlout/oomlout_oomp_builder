@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_07_30'
+directory: parts/oobb_part_tray_02_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_07_30
+id: oobb_part_tray_02_07_30
+id_no_class: part_tray_02_07_30
+id_no_color: '020730'
+id_no_size: '02_07_30'
+id_no_type: tray_02_07_30
+manufacturer: ''
+md5: 28ce4a629c59f7994ab8cf0268594e95
+md5_10: 28ce4a629c
+md5_10_upper: 28CE4A629C
+md5_5: 28ce4
+md5_5_upper: 28CE4
+md5_6: 28ce4a
+md5_6_alpha: 1lbgq
+md5_6_alpha_upper: 1LBGQ
+md5_6_upper: 28CE4A
+name: Oobb Part Tray 02 07 30
+name_no_class: Part Tray 02 07 30
+name_no_color: '020730'
+name_no_size: 02 07 30
+name_no_type: Tray 02 07 30
+oomp_key: oomp_oobb_part_tray_02_07_30
+oomp_word: tongue peach chicken
+oomp_word_emoji: ':tongue: :peach: :chicken:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':peach:'
+- ':chicken:'
+oomp_word_list:
+- tongue
+- peach
+- chicken
+part_number: ''
+size: tray
+type: part

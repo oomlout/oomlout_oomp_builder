@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_30_teeth
+directory: parts/oobb_part_pulley_gt2_01_06_ex_30_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_30_teeth
+id: oobb_part_pulley_gt2_01_06_ex_30_teeth
+id_no_class: part_pulley_gt2_01_06_ex_30_teeth
+id_no_color: 0106ex30teeth
+id_no_size: 01_06_ex_30_teeth
+id_no_type: pulley_gt2_01_06_ex_30_teeth
+manufacturer: ''
+md5: 7513e8d221dd84861a98ed698fe17a98
+md5_10: 7513e8d221
+md5_10_upper: 7513E8D221
+md5_5: 7513e
+md5_5_upper: 7513E
+md5_6: 7513e8
+md5_6_alpha: 4kgdk
+md5_6_alpha_upper: 4KGDK
+md5_6_upper: 7513E8
+name: Oobb Part Pulley Gt2 01 06 Ex 30 Teeth
+name_no_class: Part Pulley Gt2 01 06 Ex 30 Teeth
+name_no_color: 0106Ex30Teeth
+name_no_size: 01 06 Ex 30 Teeth
+name_no_type: Pulley Gt2 01 06 Ex 30 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_30_teeth
+oomp_word: ghost question tram
+oomp_word_emoji: ':ghost: :question: :tram:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':question:'
+- ':tram:'
+oomp_word_list:
+- ghost
+- question
+- tram
+part_number: ''
+size: pulley_gt2
+type: part

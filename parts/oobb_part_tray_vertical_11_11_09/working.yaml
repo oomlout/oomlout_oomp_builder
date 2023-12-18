@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_09'
+directory: parts/oobb_part_tray_vertical_11_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_11_09
+id: oobb_part_tray_vertical_11_11_09
+id_no_class: part_tray_vertical_11_11_09
+id_no_color: '111109'
+id_no_size: '11_11_09'
+id_no_type: tray_vertical_11_11_09
+manufacturer: ''
+md5: 7741c03d701f7d20a26ecf3fbf7ccdb2
+md5_10: 7741c03d70
+md5_10_upper: 7741C03D70
+md5_5: 7741c
+md5_5_upper: 7741C
+md5_6: 7741c0
+md5_6_alpha: 4nikg
+md5_6_alpha_upper: 4NIKG
+md5_6_upper: 7741C0
+name: Oobb Part Tray Vertical 11 11 09
+name_no_class: Part Tray Vertical 11 11 09
+name_no_color: '111109'
+name_no_size: 11 11 09
+name_no_type: Tray Vertical 11 11 09
+oomp_key: oomp_oobb_part_tray_vertical_11_11_09
+oomp_word: gift camel bread
+oomp_word_emoji: ':gift: :camel: :bread:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':camel:'
+- ':bread:'
+oomp_word_list:
+- gift
+- camel
+- bread
+part_number: ''
+size: tray_vertical
+type: part

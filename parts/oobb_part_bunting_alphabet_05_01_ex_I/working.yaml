@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_i
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_i
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_i
+id: oobb_part_bunting_alphabet_05_01_ex_i
+id_no_class: part_bunting_alphabet_05_01_ex_i
+id_no_color: 0501exi
+id_no_size: 05_01_ex_i
+id_no_type: bunting_alphabet_05_01_ex_i
+manufacturer: ''
+md5: a412caccefa5a71a6ae245555b1768af
+md5_10: a412caccef
+md5_10_upper: A412CACCEF
+md5_5: a412c
+md5_5_upper: A412C
+md5_6: a412ca
+md5_6_alpha: 6egui
+md5_6_alpha_upper: 6EGUI
+md5_6_upper: A412CA
+name: Oobb Part Bunting Alphabet 05 01 Ex I
+name_no_class: Part Bunting Alphabet 05 01 Ex I
+name_no_color: 0501Exi
+name_no_size: 05 01 Ex I
+name_no_type: Bunting Alphabet 05 01 Ex I
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_i
+oomp_word: book anger cherries
+oomp_word_emoji: ':book: :anger: :cherries:'
+oomp_word_emoji_list:
+- ':book:'
+- ':anger:'
+- ':cherries:'
+oomp_word_list:
+- book
+- anger
+- cherries
+part_number: ''
+size: bunting_alphabet
+type: part

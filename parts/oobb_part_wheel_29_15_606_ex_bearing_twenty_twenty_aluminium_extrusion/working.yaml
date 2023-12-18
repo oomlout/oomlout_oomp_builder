@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+directory: parts/oobb_part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id: oobb_part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_class: part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_color: 2915606exbearingtwentytwentyaluminiumextrusion
+id_no_size: 29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_type: wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+md5: 8ed737131fccd12d5eb53d5141dc82c2
+md5_10: 8ed737131f
+md5_10_upper: 8ED737131F
+md5_5: 8ed73
+md5_5_upper: 8ED73
+md5_6: 8ed737
+md5_6_alpha: 5kn5j
+md5_6_alpha_upper: 5KN5J
+md5_6_upper: 8ED737
+name: Oobb Part Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_class: Part Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_color: 2915606Exbearingtwentytwentyaluminiumextrusion
+name_no_size: 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_type: Wheel 29 15 606 Ex Bearing Twenty Twenty Aluminium Extrusion
+oomp_key: oomp_oobb_part_wheel_29_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+oomp_word: clipboard office wolf
+oomp_word_emoji: ':clipboard: :office: :wolf:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':office:'
+- ':wolf:'
+oomp_word_list:
+- clipboard
+- office
+- wolf
+part_number: ''
+size: wheel
+type: part

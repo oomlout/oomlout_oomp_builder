@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 20_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_20_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_20_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_20_pin_dupont
+id_no_color: 20_pin_dupont
+id_no_size: black_20_pin_dupont
+id_no_type: 2_54_mm_black_20_pin_dupont
+manufacturer: ''
+md5: 481f8a40f32d485f782f9529d459a9f4
+md5_10: 481f8a40f3
+md5_10_upper: 481F8A40F3
+md5_5: 481f8
+md5_5_upper: 481F8
+md5_6: 481f8a
+md5_6_alpha: 2tb4a
+md5_6_alpha_upper: 2TB4A
+md5_6_upper: 481F8A
+name: Electronic Crimp Housing 2 54 Mm Black 20 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 20 Pin Dupont
+name_no_color: 20 Pin Dupont
+name_no_size: Black 20 Pin Dupont
+name_no_type: 2 54 Mm Black 20 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_20_pin_dupont
+oomp_word: hatched_chick princess envelope
+oomp_word_emoji: ':hatched_chick: :princess: :envelope:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':princess:'
+- ':envelope:'
+oomp_word_list:
+- hatched_chick
+- princess
+- envelope
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

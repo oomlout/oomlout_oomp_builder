@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_ex_small
+directory: parts/oobb_part_shaft_12_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12_ex_small
+id: oobb_part_shaft_12_ex_small
+id_no_class: part_shaft_12_ex_small
+id_no_color: 12exsmall
+id_no_size: 12_ex_small
+id_no_type: shaft_12_ex_small
+manufacturer: ''
+md5: 8fc5750bbed41281770aa08894af6feb
+md5_10: 8fc5750bbe
+md5_10_upper: 8FC5750BBE
+md5_5: 8fc57
+md5_5_upper: 8FC57
+md5_6: 8fc575
+md5_6_alpha: 5ly7p
+md5_6_alpha_upper: 5LY7P
+md5_6_upper: 8FC575
+name: Oobb Part Shaft 12 Ex Small
+name_no_class: Part Shaft 12 Ex Small
+name_no_color: 12Exsmall
+name_no_size: 12 Ex Small
+name_no_type: Shaft 12 Ex Small
+oomp_key: oomp_oobb_part_shaft_12_ex_small
+oomp_word: calendar candy ghost
+oomp_word_emoji: ':calendar: :candy: :ghost:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':candy:'
+- ':ghost:'
+oomp_word_list:
+- calendar
+- candy
+- ghost
+part_number: ''
+size: shaft
+type: part

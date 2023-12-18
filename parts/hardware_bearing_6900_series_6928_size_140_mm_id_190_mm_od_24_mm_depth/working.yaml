@@ -1,0 +1,40 @@
+classification: hardware
+color: 6928_size
+description_extra: ''
+description_main: 140_mm_id_190_mm_od_24_mm_depth
+directory: parts/hardware_bearing_6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+id: hardware_bearing_6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+id_no_class: bearing_6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+id_no_color: 140_mm_id_190_mm_od_24_mm_depth
+id_no_size: 6928_size_140_mm_id_190_mm_od_24_mm_depth
+id_no_type: 6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+manufacturer: ''
+md5: e3f9abe6b0135a7fca771c3d767df65c
+md5_10: e3f9abe6b0
+md5_10_upper: E3F9ABE6B0
+md5_5: e3f9a
+md5_5_upper: E3F9A
+md5_6: e3f9ab
+md5_6_alpha: 8w88b
+md5_6_alpha_upper: 8W88B
+md5_6_upper: E3F9AB
+name: Hardware Bearing 6900 Series 6928 Size 140 Mm Id 190 Mm Od 24 Mm Depth
+name_no_class: Bearing 6900 Series 6928 Size 140 Mm Id 190 Mm Od 24 Mm Depth
+name_no_color: 140 Mm Id 190 Mm Od 24 Mm Depth
+name_no_size: 6928 Size 140 Mm Id 190 Mm Od 24 Mm Depth
+name_no_type: 6900 Series 6928 Size 140 Mm Id 190 Mm Od 24 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6928_size_140_mm_id_190_mm_od_24_mm_depth
+oomp_word: rowboat eight boot
+oomp_word_emoji: ':rowboat: :eight: :boot:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':eight:'
+- ':boot:'
+oomp_word_list:
+- rowboat
+- eight
+- boot
+part_number: ''
+size: 6900_series
+type: bearing

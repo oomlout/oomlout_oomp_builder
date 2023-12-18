@@ -1,0 +1,40 @@
+classification: hardware
+color: 628_size
+description_extra: ''
+description_main: 8_mm_id_24_mm_od_8_mm_depth
+directory: parts/hardware_bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+id: hardware_bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+id_no_class: bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+id_no_color: 8_mm_id_24_mm_od_8_mm_depth
+id_no_size: 628_size_8_mm_id_24_mm_od_8_mm_depth
+id_no_type: 600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+manufacturer: ''
+md5: 5492bcb3ad7b6614ae8b070d36599bc6
+md5_10: 5492bcb3ad
+md5_10_upper: 5492BCB3AD
+md5_5: 5492b
+md5_5_upper: 5492B
+md5_6: 5492bc
+md5_6_alpha: 3asos
+md5_6_alpha_upper: 3ASOS
+md5_6_upper: 5492BC
+name: Hardware Bearing 600 Series 628 Size 8 Mm Id 24 Mm Od 8 Mm Depth
+name_no_class: Bearing 600 Series 628 Size 8 Mm Id 24 Mm Od 8 Mm Depth
+name_no_color: 8 Mm Id 24 Mm Od 8 Mm Depth
+name_no_size: 628 Size 8 Mm Id 24 Mm Od 8 Mm Depth
+name_no_type: 600 Series 628 Size 8 Mm Id 24 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
+oomp_word: whale paperclip sushi
+oomp_word_emoji: ':whale: :paperclip: :sushi:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':paperclip:'
+- ':sushi:'
+oomp_word_list:
+- whale
+- paperclip
+- sushi
+part_number: ''
+size: 600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 17_pin
+directory: parts/electronic_header_2_54_mm_17_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_through_hole
+id: electronic_header_2_54_mm_17_pin_through_hole
+id_no_class: header_2_54_mm_17_pin_through_hole
+id_no_color: 17pinthroughhole
+id_no_size: 17_pin_through_hole
+id_no_type: 2_54_mm_17_pin_through_hole
+manufacturer: ''
+md5: 740f5e49b771c24a69a2a6db0776eac0
+md5_10: 740f5e49b7
+md5_10_upper: 740F5E49B7
+md5_5: 740f5
+md5_5_upper: 740F5
+md5_6: 740f5e
+md5_6_alpha: 4j0wu
+md5_6_alpha_upper: 4J0WU
+md5_6_upper: 740F5E
+name: Electronic Header 2 54 Mm 17 Pin Through Hole
+name_no_class: Header 2 54 Mm 17 Pin Through Hole
+name_no_color: 17Pinthroughhole
+name_no_size: 17 Pin Through Hole
+name_no_type: 2 54 Mm 17 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_17_pin_through_hole
+oomp_word: fireworks sparkles crocodile
+oomp_word_emoji: ':fireworks: :sparkles: :crocodile:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':sparkles:'
+- ':crocodile:'
+oomp_word_list:
+- fireworks
+- sparkles
+- crocodile
+part_number: ''
+size: 2_54_mm
+type: header

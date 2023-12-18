@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5_ex_small
+directory: parts/oobb_part_shaft_3d5_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_ex_small
+id: oobb_part_shaft_3d5_ex_small
+id_no_class: part_shaft_3d5_ex_small
+id_no_color: 3d5exsmall
+id_no_size: 3d5_ex_small
+id_no_type: shaft_3d5_ex_small
+manufacturer: ''
+md5: d4235d3fd1ecc2a3557c5a31769ebbf0
+md5_10: d4235d3fd1
+md5_10_upper: D4235D3FD1
+md5_5: d4235
+md5_5_upper: D4235
+md5_6: d4235d
+md5_6_alpha: 89zdp
+md5_6_alpha_upper: 89ZDP
+md5_6_upper: D4235D
+name: Oobb Part Shaft 3D5 Ex Small
+name_no_class: Part Shaft 3D5 Ex Small
+name_no_color: 3D5Exsmall
+name_no_size: 3D5 Ex Small
+name_no_type: Shaft 3D5 Ex Small
+oomp_key: oomp_oobb_part_shaft_3d5_ex_small
+oomp_word: corn kiss blowfish
+oomp_word_emoji: ':corn: :kiss: :blowfish:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':kiss:'
+- ':blowfish:'
+oomp_word_list:
+- corn
+- kiss
+- blowfish
+part_number: ''
+size: shaft
+type: part

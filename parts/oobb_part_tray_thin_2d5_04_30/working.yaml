@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_30
+directory: parts/oobb_part_tray_thin_2d5_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_04_30
+id: oobb_part_tray_thin_2d5_04_30
+id_no_class: part_tray_thin_2d5_04_30
+id_no_color: 2d50430
+id_no_size: 2d5_04_30
+id_no_type: tray_thin_2d5_04_30
+manufacturer: ''
+md5: c3079d69225376d4d3552afb092aa096
+md5_10: c3079d6922
+md5_10_upper: C3079D6922
+md5_5: c3079
+md5_5_upper: C3079
+md5_6: c3079d
+md5_6_alpha: 7ly8t
+md5_6_alpha_upper: 7LY8T
+md5_6_upper: C3079D
+name: Oobb Part Tray Thin 2D5 04 30
+name_no_class: Part Tray Thin 2D5 04 30
+name_no_color: 2D50430
+name_no_size: 2D5 04 30
+name_no_type: Tray Thin 2D5 04 30
+oomp_key: oomp_oobb_part_tray_thin_2d5_04_30
+oomp_word: cake cry hearts
+oomp_word_emoji: ':cake: :cry: :hearts:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':cry:'
+- ':hearts:'
+oomp_word_list:
+- cake
+- cry
+- hearts
+part_number: ''
+size: tray_thin
+type: part

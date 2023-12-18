@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_2_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm
+id: hardware_washer_2_mm
+id_no_class: washer_2_mm
+id_no_color: 2mm
+id_no_size: 2_mm
+id_no_type: 2_mm
+manufacturer: ''
+md5: a29902a8907204c8ac6d8e7f4cd203b8
+md5_10: a29902a890
+md5_10_upper: A29902A890
+md5_5: a2990
+md5_5_upper: A2990
+md5_6: a29902
+md5_6_alpha: 6ce82
+md5_6_alpha_upper: 6CE82
+md5_6_upper: A29902
+name: Hardware Washer 2 Mm
+name_no_class: Washer 2 Mm
+name_no_color: 2Mm
+name_no_size: 2 Mm
+name_no_type: 2 Mm
+oomp_key: oomp_hardware_washer_2_mm
+oomp_word: violin bowling blush
+oomp_word_emoji: ':violin: :bowling: :blush:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':bowling:'
+- ':blush:'
+oomp_word_list:
+- violin
+- bowling
+- blush
+part_number: ''
+size: 2_mm
+type: washer

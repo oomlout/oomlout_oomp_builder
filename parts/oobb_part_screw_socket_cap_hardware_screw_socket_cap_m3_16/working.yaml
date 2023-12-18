@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_16
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_16
+id_no_color: hardwarem316
+id_no_size: hardware_m3_16
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_16
+manufacturer: ''
+md5: dff12188249e08c218fbac3f6d08a322
+md5_10: dff1218824
+md5_10_upper: DFF1218824
+md5_5: dff12
+md5_5_upper: DFF12
+md5_6: dff121
+md5_6_alpha: 8qk9t
+md5_6_alpha_upper: 8QK9T
+md5_6_upper: DFF121
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 16
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 16
+name_no_color: Hardwarem316
+name_no_size: Hardware M3 16
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 16
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16
+oomp_word: fountain ticket feet
+oomp_word_emoji: ':fountain: :ticket: :feet:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':ticket:'
+- ':feet:'
+oomp_word_list:
+- fountain
+- ticket
+- feet
+part_number: ''
+size: screw_socket_cap
+type: part

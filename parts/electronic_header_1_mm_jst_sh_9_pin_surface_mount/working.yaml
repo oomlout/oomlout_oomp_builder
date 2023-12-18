@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 9_pin
+directory: parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount
+id: electronic_header_1_mm_jst_sh_9_pin_surface_mount
+id_no_class: header_1_mm_jst_sh_9_pin_surface_mount
+id_no_color: 9pinsurfacemount
+id_no_size: 9_pin_surface_mount
+id_no_type: 1_mm_jst_sh_9_pin_surface_mount
+manufacturer: ''
+md5: 3392cfc59fa2610bf5afa029c396cd3b
+md5_10: 3392cfc59f
+md5_10_upper: 3392CFC59F
+md5_5: 3392c
+md5_5_upper: 3392C
+md5_6: 3392cf
+md5_6_alpha: 20fyn
+md5_6_alpha_upper: 20FYN
+md5_6_upper: 3392CF
+name: Electronic Header 1 Mm Jst Sh 9 Pin Surface Mount
+name_no_class: Header 1 Mm Jst Sh 9 Pin Surface Mount
+name_no_color: 9Pinsurfacemount
+name_no_size: 9 Pin Surface Mount
+name_no_type: 1 Mm Jst Sh 9 Pin Surface Mount
+oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount
+oomp_word: dog paperclip melon
+oomp_word_emoji: ':dog: :paperclip: :melon:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':paperclip:'
+- ':melon:'
+oomp_word_list:
+- dog
+- paperclip
+- melon
+part_number: ''
+size: 1_mm_jst_sh
+type: header

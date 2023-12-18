@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 13_pin
+directory: parts/electronic_header_2_54_mm_13_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_through_hole_long
+id: electronic_header_2_54_mm_13_pin_through_hole_long
+id_no_class: header_2_54_mm_13_pin_through_hole_long
+id_no_color: 13pinthroughholelong
+id_no_size: 13_pin_through_hole_long
+id_no_type: 2_54_mm_13_pin_through_hole_long
+manufacturer: ''
+md5: f079e71b197ee89d3b4eab182aaf93a3
+md5_10: f079e71b19
+md5_10_upper: F079E71B19
+md5_5: f079e
+md5_5_upper: F079E
+md5_6: f079e7
+md5_6_alpha: 9dsdj
+md5_6_alpha_upper: 9DSDJ
+md5_6_upper: F079E7
+name: Electronic Header 2 54 Mm 13 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 13 Pin Through Hole Long
+name_no_color: 13Pinthroughholelong
+name_no_size: 13 Pin Through Hole Long
+name_no_type: 2 54 Mm 13 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_13_pin_through_hole_long
+oomp_word: train balloon helicopter
+oomp_word_emoji: ':train: :balloon: :helicopter:'
+oomp_word_emoji_list:
+- ':train:'
+- ':balloon:'
+- ':helicopter:'
+oomp_word_list:
+- train
+- balloon
+- helicopter
+part_number: ''
+size: 2_54_mm
+type: header

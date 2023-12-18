@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03'
+directory: parts/oobb_part_smd_magazine_lid_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_03_03
+id: oobb_part_smd_magazine_lid_03_03
+id_no_class: part_smd_magazine_lid_03_03
+id_no_color: '0303'
+id_no_size: '03_03'
+id_no_type: smd_magazine_lid_03_03
+manufacturer: ''
+md5: 2f692026aadd17d8e5d14b388baac720
+md5_10: 2f692026aa
+md5_10_upper: 2F692026AA
+md5_5: 2f692
+md5_5_upper: 2F692
+md5_6: 2f6920
+md5_6_alpha: 1ulgg
+md5_6_alpha_upper: 1ULGG
+md5_6_upper: 2F6920
+name: Oobb Part Smd Magazine Lid 03 03
+name_no_class: Part Smd Magazine Lid 03 03
+name_no_color: '0303'
+name_no_size: 03 03
+name_no_type: Smd Magazine Lid 03 03
+oomp_key: oomp_oobb_part_smd_magazine_lid_03_03
+oomp_word: cyclone cactus skull
+oomp_word_emoji: ':cyclone: :cactus: :skull:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':cactus:'
+- ':skull:'
+oomp_word_list:
+- cyclone
+- cactus
+- skull
+part_number: ''
+size: smd_magazine_lid
+type: part

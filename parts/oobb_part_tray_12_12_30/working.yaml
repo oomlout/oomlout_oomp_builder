@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_30'
+directory: parts/oobb_part_tray_12_12_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_12_30
+id: oobb_part_tray_12_12_30
+id_no_class: part_tray_12_12_30
+id_no_color: '121230'
+id_no_size: '12_12_30'
+id_no_type: tray_12_12_30
+manufacturer: ''
+md5: fa4bd5393d346e15a3585ce08b44a774
+md5_10: fa4bd5393d
+md5_10_upper: FA4BD5393D
+md5_5: fa4bd
+md5_5_upper: FA4BD
+md5_6: fa4bd5
+md5_6_alpha: 9rkyd
+md5_6_alpha_upper: 9RKYD
+md5_6_upper: FA4BD5
+name: Oobb Part Tray 12 12 30
+name_no_class: Part Tray 12 12 30
+name_no_color: '121230'
+name_no_size: 12 12 30
+name_no_type: Tray 12 12 30
+oomp_key: oomp_oobb_part_tray_12_12_30
+oomp_word: nine penguin house
+oomp_word_emoji: ':nine: :penguin: :house:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':penguin:'
+- ':house:'
+oomp_word_list:
+- nine
+- penguin
+- house
+part_number: ''
+size: tray
+type: part

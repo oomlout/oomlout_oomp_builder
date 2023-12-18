@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 36_pin
+directory: parts/electronic_header_2_54_mm_36_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_through_hole_short
+id: electronic_header_2_54_mm_36_pin_through_hole_short
+id_no_class: header_2_54_mm_36_pin_through_hole_short
+id_no_color: 36pinthroughholeshort
+id_no_size: 36_pin_through_hole_short
+id_no_type: 2_54_mm_36_pin_through_hole_short
+manufacturer: ''
+md5: 3d3754e378900832ba3e516e94c8c2b1
+md5_10: 3d3754e378
+md5_10_upper: 3D3754E378
+md5_5: 3d375
+md5_5_upper: 3D375
+md5_6: 3d3754
+md5_6_alpha: 2dzkk
+md5_6_alpha_upper: 2DZKK
+md5_6_upper: 3D3754
+name: Electronic Header 2 54 Mm 36 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 36 Pin Through Hole Short
+name_no_color: 36Pinthroughholeshort
+name_no_size: 36 Pin Through Hole Short
+name_no_type: 2 54 Mm 36 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_36_pin_through_hole_short
+oomp_word: cow wolf whale
+oomp_word_emoji: ':cow: :wolf: :whale:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':wolf:'
+- ':whale:'
+oomp_word_list:
+- cow
+- wolf
+- whale
+part_number: ''
+size: 2_54_mm
+type: header

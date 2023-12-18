@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 17_pin
+directory: parts/electronic_socket_2_54_mm_17_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
+id: electronic_socket_2_54_mm_17_pin_through_hole
+id_no_class: socket_2_54_mm_17_pin_through_hole
+id_no_color: 17pinthroughhole
+id_no_size: 17_pin_through_hole
+id_no_type: 2_54_mm_17_pin_through_hole
+manufacturer: ''
+md5: c805969f326baac0c1f29076e35fc04c
+md5_10: c805969f32
+md5_10_upper: C805969F32
+md5_5: c8059
+md5_5_upper: C8059
+md5_6: c80596
+md5_6_alpha: 7syom
+md5_6_alpha_upper: 7SYOM
+md5_6_upper: C80596
+name: Electronic Socket 2 54 Mm 17 Pin Through Hole
+name_no_class: Socket 2 54 Mm 17 Pin Through Hole
+name_no_color: 17Pinthroughhole
+name_no_size: 17 Pin Through Hole
+name_no_type: 2 54 Mm 17 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_17_pin_through_hole
+oomp_word: apple kissing basketball
+oomp_word_emoji: ':apple: :kissing: :basketball:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':kissing:'
+- ':basketball:'
+oomp_word_list:
+- apple
+- kissing
+- basketball
+part_number: ''
+size: 2_54_mm
+type: socket

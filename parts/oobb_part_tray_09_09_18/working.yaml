@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_18
+directory: parts/oobb_part_tray_09_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_09_18
+id: oobb_part_tray_09_09_18
+id_no_class: part_tray_09_09_18
+id_no_color: 090918
+id_no_size: 09_09_18
+id_no_type: tray_09_09_18
+manufacturer: ''
+md5: cf1e322ad229320f201036878ab38c6e
+md5_10: cf1e322ad2
+md5_10_upper: CF1E322AD2
+md5_5: cf1e3
+md5_5_upper: CF1E3
+md5_6: cf1e32
+md5_6_alpha: 82xiq
+md5_6_alpha_upper: 82XIQ
+md5_6_upper: CF1E32
+name: Oobb Part Tray 09 09 18
+name_no_class: Part Tray 09 09 18
+name_no_color: 090918
+name_no_size: 09 09 18
+name_no_type: Tray 09 09 18
+oomp_key: oomp_oobb_part_tray_09_09_18
+oomp_word: melon angel cat
+oomp_word_emoji: ':melon: :angel: :cat:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':angel:'
+- ':cat:'
+oomp_word_list:
+- melon
+- angel
+- cat
+part_number: ''
+size: tray
+type: part

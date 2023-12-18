@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27000_ohm
+directory: parts/electronic_resistor_0805_27000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_27000_ohm
+id: electronic_resistor_0805_27000_ohm
+id_no_class: resistor_0805_27000_ohm
+id_no_color: 27000ohm
+id_no_size: 27000_ohm
+id_no_type: 0805_27000_ohm
+manufacturer: ''
+md5: ee6333676e00dc2ea8b51fbee04ad578
+md5_10: ee6333676e
+md5_10_upper: EE6333676E
+md5_5: ee633
+md5_5_upper: EE633
+md5_6: ee6333
+md5_6_alpha: 9aur7
+md5_6_alpha_upper: 9AUR7
+md5_6_upper: EE6333
+name: Electronic Resistor 0805 27000 Ohm
+name_no_class: Resistor 0805 27000 Ohm
+name_no_color: 27000Ohm
+name_no_size: 27000 Ohm
+name_no_type: 0805 27000 Ohm
+oomp_key: oomp_electronic_resistor_0805_27000_ohm
+oomp_word: ambulance rose dog
+oomp_word_emoji: ':ambulance: :rose: :dog:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':rose:'
+- ':dog:'
+oomp_word_list:
+- ambulance
+- rose
+- dog
+part_number: ''
+size: 0805
+type: resistor

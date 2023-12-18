@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_ex_12d0_teeth
+directory: parts/oobb_part_gear_1d5_03_ex_12d0_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth
+id: oobb_part_gear_1d5_03_ex_12d0_teeth
+id_no_class: part_gear_1d5_03_ex_12d0_teeth
+id_no_color: 1d503ex12d0teeth
+id_no_size: 1d5_03_ex_12d0_teeth
+id_no_type: gear_1d5_03_ex_12d0_teeth
+manufacturer: ''
+md5: b06a64c9d2999b8f970b217aa11a7cdd
+md5_10: b06a64c9d2
+md5_10_upper: B06A64C9D2
+md5_5: b06a6
+md5_5_upper: B06A6
+md5_6: b06a64
+md5_6_alpha: 6vsys
+md5_6_alpha_upper: 6VSYS
+md5_6_upper: B06A64
+name: Oobb Part Gear 1D5 03 Ex 12D0 Teeth
+name_no_class: Part Gear 1D5 03 Ex 12D0 Teeth
+name_no_color: 1D503Ex12D0Teeth
+name_no_size: 1D5 03 Ex 12D0 Teeth
+name_no_type: Gear 1D5 03 Ex 12D0 Teeth
+oomp_key: oomp_oobb_part_gear_1d5_03_ex_12d0_teeth
+oomp_word: crown palm_tree sunflower
+oomp_word_emoji: ':crown: :palm_tree: :sunflower:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':palm_tree:'
+- ':sunflower:'
+oomp_word_list:
+- crown
+- palm_tree
+- sunflower
+part_number: ''
+size: gear
+type: part

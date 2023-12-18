@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_10_18
+directory: parts/oobb_part_tray_04_10_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_18
+id: oobb_part_tray_04_10_18
+id_no_class: part_tray_04_10_18
+id_no_color: 041018
+id_no_size: 04_10_18
+id_no_type: tray_04_10_18
+manufacturer: ''
+md5: ef089207d4c7bff0998af98792fd973f
+md5_10: ef089207d4
+md5_10_upper: EF089207D4
+md5_5: ef089
+md5_5_upper: EF089
+md5_6: ef0892
+md5_6_alpha: 9brf6
+md5_6_alpha_upper: 9BRF6
+md5_6_upper: EF0892
+name: Oobb Part Tray 04 10 18
+name_no_class: Part Tray 04 10 18
+name_no_color: 041018
+name_no_size: 04 10 18
+name_no_type: Tray 04 10 18
+oomp_key: oomp_oobb_part_tray_04_10_18
+oomp_word: truck scream paperclip
+oomp_word_emoji: ':truck: :scream: :paperclip:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':scream:'
+- ':paperclip:'
+oomp_word_list:
+- truck
+- scream
+- paperclip
+part_number: ''
+size: tray
+type: part

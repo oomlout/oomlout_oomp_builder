@@ -1,0 +1,40 @@
+classification: hardware
+color: MR31_size
+description_extra: ''
+description_main: 1_mm_id_3_mm_od_-_mm_depth
+directory: parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+id: hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+id_no_class: bearing_MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+id_no_color: 1_mm_id_3_mm_od_-_mm_depth
+id_no_size: MR31_size_1_mm_id_3_mm_od_-_mm_depth
+id_no_type: MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+manufacturer: ''
+md5: 76f59d4c155be643b691ae99dda62c7d
+md5_10: 76f59d4c15
+md5_10_upper: 76F59D4C15
+md5_5: 76f59
+md5_5_upper: 76F59
+md5_6: 76f59d
+md5_6_alpha: 4n3j1
+md5_6_alpha_upper: 4N3J1
+md5_6_upper: 76F59D
+name: Hardware Bearing Mr Series Mr31 Size 1 Mm Id 3 Mm Od - Mm Depth
+name_no_class: Bearing Mr Series Mr31 Size 1 Mm Id 3 Mm Od - Mm Depth
+name_no_color: 1 Mm Id 3 Mm Od - Mm Depth
+name_no_size: Mr31 Size 1 Mm Id 3 Mm Od - Mm Depth
+name_no_type: Mr Series Mr31 Size 1 Mm Id 3 Mm Od - Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_-_mm_depth
+oomp_word: santa four hearts
+oomp_word_emoji: ':santa: :four: :hearts:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':four:'
+- ':hearts:'
+oomp_word_list:
+- santa
+- four
+- hearts
+part_number: ''
+size: MR_series
+type: bearing

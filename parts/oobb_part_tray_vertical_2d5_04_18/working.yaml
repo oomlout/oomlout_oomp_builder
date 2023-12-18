@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_18
+directory: parts/oobb_part_tray_vertical_2d5_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_04_18
+id: oobb_part_tray_vertical_2d5_04_18
+id_no_class: part_tray_vertical_2d5_04_18
+id_no_color: 2d50418
+id_no_size: 2d5_04_18
+id_no_type: tray_vertical_2d5_04_18
+manufacturer: ''
+md5: 060063f5ff3868af717ca9c6d316c8ad
+md5_10: 060063f5ff
+md5_10_upper: 060063F5FF
+md5_5: '06006'
+md5_5_upper: '06006'
+md5_6: '060063'
+md5_6_alpha: 8fhf
+md5_6_alpha_upper: 8FHF
+md5_6_upper: '060063'
+name: Oobb Part Tray Vertical 2D5 04 18
+name_no_class: Part Tray Vertical 2D5 04 18
+name_no_color: 2D50418
+name_no_size: 2D5 04 18
+name_no_type: Tray Vertical 2D5 04 18
+oomp_key: oomp_oobb_part_tray_vertical_2d5_04_18
+oomp_word: sleeping bowtie rose
+oomp_word_emoji: ':sleeping: :bowtie: :rose:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':bowtie:'
+- ':rose:'
+oomp_word_list:
+- sleeping
+- bowtie
+- rose
+part_number: ''
+size: tray_vertical
+type: part

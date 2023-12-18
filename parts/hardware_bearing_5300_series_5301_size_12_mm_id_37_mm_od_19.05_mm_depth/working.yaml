@@ -1,0 +1,40 @@
+classification: hardware
+color: 5301_size
+description_extra: ''
+description_main: 12_mm_id_37_mm_od_19.05_mm_depth
+directory: parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+id: hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+id_no_class: bearing_5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+id_no_color: 12_mm_id_37_mm_od_19.05_mm_depth
+id_no_size: 5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+id_no_type: 5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+manufacturer: ''
+md5: b8fe4102bd7bf28def3f8a033f3fb3fc
+md5_10: b8fe4102bd
+md5_10_upper: B8FE4102BD
+md5_5: b8fe4
+md5_5_upper: B8FE4
+md5_6: b8fe41
+md5_6_alpha: 77upt
+md5_6_alpha_upper: 77UPT
+md5_6_upper: B8FE41
+name: Hardware Bearing 5300 Series 5301 Size 12 Mm Id 37 Mm Od 19.05 Mm Depth
+name_no_class: Bearing 5300 Series 5301 Size 12 Mm Id 37 Mm Od 19.05 Mm Depth
+name_no_color: 12 Mm Id 37 Mm Od 19.05 Mm Depth
+name_no_size: 5301 Size 12 Mm Id 37 Mm Od 19.05 Mm Depth
+name_no_type: 5300 Series 5301 Size 12 Mm Id 37 Mm Od 19.05 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19.05_mm_depth
+oomp_word: hamburger recycle camel
+oomp_word_emoji: ':hamburger: :recycle: :camel:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':recycle:'
+- ':camel:'
+oomp_word_list:
+- hamburger
+- recycle
+- camel
+part_number: ''
+size: 5300_series
+type: bearing

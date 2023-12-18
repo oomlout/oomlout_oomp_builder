@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_1d5_09
+directory: parts/oobb_part_tray_vertical_10_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_1d5_09
+id: oobb_part_tray_vertical_10_1d5_09
+id_no_class: part_tray_vertical_10_1d5_09
+id_no_color: 101d509
+id_no_size: 10_1d5_09
+id_no_type: tray_vertical_10_1d5_09
+manufacturer: ''
+md5: 1a48d7165e444f151971b72b9f1a5fa8
+md5_10: 1a48d7165e
+md5_10_upper: 1A48D7165E
+md5_5: 1a48d
+md5_5_upper: 1A48D
+md5_6: 1a48d7
+md5_6_alpha: 10x5j
+md5_6_alpha_upper: 10X5J
+md5_6_upper: 1A48D7
+name: Oobb Part Tray Vertical 10 1D5 09
+name_no_class: Part Tray Vertical 10 1D5 09
+name_no_color: 101D509
+name_no_size: 10 1D5 09
+name_no_type: Tray Vertical 10 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_10_1d5_09
+oomp_word: clap hatched_chick office
+oomp_word_emoji: ':clap: :hatched_chick: :office:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':hatched_chick:'
+- ':office:'
+oomp_word_list:
+- clap
+- hatched_chick
+- office
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_06'
+directory: parts/oobb_part_plate_07_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_06
+id: oobb_part_plate_07_01_06
+id_no_class: part_plate_07_01_06
+id_no_color: '070106'
+id_no_size: '07_01_06'
+id_no_type: plate_07_01_06
+manufacturer: ''
+md5: 1b73d2a44cd4f7e1761fba0dff9da8f4
+md5_10: 1b73d2a44c
+md5_10_upper: 1B73D2A44C
+md5_5: 1b73d
+md5_5_upper: 1B73D
+md5_6: 1b73d2
+md5_6_alpha: 12k7m
+md5_6_alpha_upper: 12K7M
+md5_6_upper: 1B73D2
+name: Oobb Part Plate 07 01 06
+name_no_class: Part Plate 07 01 06
+name_no_color: '070106'
+name_no_size: 07 01 06
+name_no_type: Plate 07 01 06
+oomp_key: oomp_oobb_part_plate_07_01_06
+oomp_word: muscle flags pineapple
+oomp_word_emoji: ':muscle: :flags: :pineapple:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':flags:'
+- ':pineapple:'
+oomp_word_list:
+- muscle
+- flags
+- pineapple
+part_number: ''
+size: plate
+type: part

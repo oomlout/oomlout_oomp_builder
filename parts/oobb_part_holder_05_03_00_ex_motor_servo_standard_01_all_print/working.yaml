@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_00_ex_motor_servo_standard_01_all_print
+directory: parts/oobb_part_holder_05_03_00_ex_motor_servo_standard_01_all_print
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_00_ex_motor_servo_standard_01_all_print
+id: oobb_part_holder_05_03_00_ex_motor_servo_standard_01_all_print
+id_no_class: part_holder_05_03_00_ex_motor_servo_standard_01_all_print
+id_no_color: 050300exmotorservostandard01allprint
+id_no_size: 05_03_00_ex_motor_servo_standard_01_all_print
+id_no_type: holder_05_03_00_ex_motor_servo_standard_01_all_print
+manufacturer: ''
+md5: 07630a5c886982090e132e4b87e4b361
+md5_10: 07630a5c88
+md5_10_upper: 07630A5C88
+md5_5: '07630'
+md5_5_upper: '07630'
+md5_6: 07630a
+md5_6_alpha: adje
+md5_6_alpha_upper: ADJE
+md5_6_upper: 07630A
+name: Oobb Part Holder 05 03 00 Ex Motor Servo Standard 01 All Print
+name_no_class: Part Holder 05 03 00 Ex Motor Servo Standard 01 All Print
+name_no_color: 050300Exmotorservostandard01Allprint
+name_no_size: 05 03 00 Ex Motor Servo Standard 01 All Print
+name_no_type: Holder 05 03 00 Ex Motor Servo Standard 01 All Print
+oomp_key: oomp_oobb_part_holder_05_03_00_ex_motor_servo_standard_01_all_print
+oomp_word: cry rose sleepy
+oomp_word_emoji: ':cry: :rose: :sleepy:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':rose:'
+- ':sleepy:'
+oomp_word_list:
+- cry
+- rose
+- sleepy
+part_number: ''
+size: holder
+type: part

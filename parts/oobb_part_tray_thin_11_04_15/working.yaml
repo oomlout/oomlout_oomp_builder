@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_15'
+directory: parts/oobb_part_tray_thin_11_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_04_15
+id: oobb_part_tray_thin_11_04_15
+id_no_class: part_tray_thin_11_04_15
+id_no_color: '110415'
+id_no_size: '11_04_15'
+id_no_type: tray_thin_11_04_15
+manufacturer: ''
+md5: ba2b2d6e55e0e9330b42acaaaf59de73
+md5_10: ba2b2d6e55
+md5_10_upper: BA2B2D6E55
+md5_5: ba2b2
+md5_5_upper: BA2B2
+md5_6: ba2b2d
+md5_6_alpha: 79i5p
+md5_6_alpha_upper: 79I5P
+md5_6_upper: BA2B2D
+name: Oobb Part Tray Thin 11 04 15
+name_no_class: Part Tray Thin 11 04 15
+name_no_color: '110415'
+name_no_size: 11 04 15
+name_no_type: Tray Thin 11 04 15
+oomp_key: oomp_oobb_part_tray_thin_11_04_15
+oomp_word: spaghetti cloud snowman
+oomp_word_emoji: ':spaghetti: :cloud: :snowman:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':cloud:'
+- ':snowman:'
+oomp_word_list:
+- spaghetti
+- cloud
+- snowman
+part_number: ''
+size: tray_thin
+type: part

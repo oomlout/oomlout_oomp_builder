@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 22_pin
+directory: parts/electronic_header_2_54_mm_22_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_through_hole
+id: electronic_header_2_54_mm_22_pin_through_hole
+id_no_class: header_2_54_mm_22_pin_through_hole
+id_no_color: 22pinthroughhole
+id_no_size: 22_pin_through_hole
+id_no_type: 2_54_mm_22_pin_through_hole
+manufacturer: ''
+md5: 69a80baa2604e37d2c35b210adbf2b0e
+md5_10: 69a80baa26
+md5_10_upper: 69A80BAA26
+md5_5: 69a80
+md5_5_upper: 69A80
+md5_6: 69a80b
+md5_6_alpha: 44etn
+md5_6_alpha_upper: 44ETN
+md5_6_upper: 69A80B
+name: Electronic Header 2 54 Mm 22 Pin Through Hole
+name_no_class: Header 2 54 Mm 22 Pin Through Hole
+name_no_color: 22Pinthroughhole
+name_no_size: 22 Pin Through Hole
+name_no_type: 2 54 Mm 22 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_22_pin_through_hole
+oomp_word: cactus shoe sunglasses
+oomp_word_emoji: ':cactus: :shoe: :sunglasses:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':shoe:'
+- ':sunglasses:'
+oomp_word_list:
+- cactus
+- shoe
+- sunglasses
+part_number: ''
+size: 2_54_mm
+type: header

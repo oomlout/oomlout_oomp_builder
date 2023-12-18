@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '00'
+directory: parts/oobb_part_shaft_00
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00
+id: oobb_part_shaft_00
+id_no_class: part_shaft_00
+id_no_color: '00'
+id_no_size: '00'
+id_no_type: shaft_00
+manufacturer: ''
+md5: 32b09cfdfa3f28cfe91383a8a296e7eb
+md5_10: 32b09cfdfa
+md5_10_upper: 32B09CFDFA
+md5_5: 32b09
+md5_5_upper: 32B09
+md5_6: 32b09c
+md5_6_alpha: 1z7a4
+md5_6_alpha_upper: 1Z7A4
+md5_6_upper: 32B09C
+name: Oobb Part Shaft 00
+name_no_class: Part Shaft 00
+name_no_color: '00'
+name_no_size: '00'
+name_no_type: Shaft 00
+oomp_key: oomp_oobb_part_shaft_00
+oomp_word: cat crown spades
+oomp_word_emoji: ':cat: :crown: :spades:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':crown:'
+- ':spades:'
+oomp_word_list:
+- cat
+- crown
+- spades
+part_number: ''
+size: shaft
+type: part

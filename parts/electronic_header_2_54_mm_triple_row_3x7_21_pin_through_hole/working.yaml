@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x7_21_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x7_21_pin_through_hole
+id_no_color: 3x721pinthroughhole
+id_no_size: 3x7_21_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x7_21_pin_through_hole
+manufacturer: ''
+md5: 5302d066da71778352c50cf97030be3a
+md5_10: 5302d066da
+md5_10_upper: 5302D066DA
+md5_5: 5302d
+md5_5_upper: 5302D
+md5_6: 5302d0
+md5_6_alpha: 38low
+md5_6_alpha_upper: 38LOW
+md5_6_upper: 5302D0
+name: Electronic Header 2 54 Mm Triple Row 3X7 21 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X7 21 Pin Through Hole
+name_no_color: 3X721Pinthroughhole
+name_no_size: 3X7 21 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X7 21 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole
+oomp_word: fish blush banana
+oomp_word_emoji: ':fish: :blush: :banana:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':blush:'
+- ':banana:'
+oomp_word_list:
+- fish
+- blush
+- banana
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

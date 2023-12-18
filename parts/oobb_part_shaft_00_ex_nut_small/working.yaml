@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 00_ex_nut_small
+directory: parts/oobb_part_shaft_00_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00_ex_nut_small
+id: oobb_part_shaft_00_ex_nut_small
+id_no_class: part_shaft_00_ex_nut_small
+id_no_color: 00exnutsmall
+id_no_size: 00_ex_nut_small
+id_no_type: shaft_00_ex_nut_small
+manufacturer: ''
+md5: 1a7bb66d898cfc541668b29289cb41b8
+md5_10: 1a7bb66d89
+md5_10_upper: 1A7BB66D89
+md5_5: 1a7bb
+md5_5_upper: 1A7BB
+md5_6: 1a7bb6
+md5_6_alpha: 1177a
+md5_6_alpha_upper: 1177A
+md5_6_upper: 1A7BB6
+name: Oobb Part Shaft 00 Ex Nut Small
+name_no_class: Part Shaft 00 Ex Nut Small
+name_no_color: 00Exnutsmall
+name_no_size: 00 Ex Nut Small
+name_no_type: Shaft 00 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_00_ex_nut_small
+oomp_word: clap computer beer
+oomp_word_emoji: ':clap: :computer: :beer:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':computer:'
+- ':beer:'
+oomp_word_list:
+- clap
+- computer
+- beer
+part_number: ''
+size: shaft
+type: part

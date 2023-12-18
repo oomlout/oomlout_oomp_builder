@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_09
+directory: parts/oobb_part_plate_09_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_09
+id: oobb_part_plate_09_01_09
+id_no_class: part_plate_09_01_09
+id_no_color: 090109
+id_no_size: 09_01_09
+id_no_type: plate_09_01_09
+manufacturer: ''
+md5: e43cccee6b4ca41b2ce4f6a0027e7e5a
+md5_10: e43cccee6b
+md5_10_upper: E43CCCEE6B
+md5_5: e43cc
+md5_5_upper: E43CC
+md5_6: e43ccc
+md5_6_alpha: 8wlho
+md5_6_alpha_upper: 8WLHO
+md5_6_upper: E43CCC
+name: Oobb Part Plate 09 01 09
+name_no_class: Part Plate 09 01 09
+name_no_color: 090109
+name_no_size: 09 01 09
+name_no_type: Plate 09 01 09
+oomp_key: oomp_oobb_part_plate_09_01_09
+oomp_word: anchor pig watermelon
+oomp_word_emoji: ':anchor: :pig: :watermelon:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':pig:'
+- ':watermelon:'
+oomp_word_list:
+- anchor
+- pig
+- watermelon
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_ohm
+directory: parts/electronic_resistor_0402_10_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10_ohm
+id: electronic_resistor_0402_10_ohm
+id_no_class: resistor_0402_10_ohm
+id_no_color: 10ohm
+id_no_size: 10_ohm
+id_no_type: 0402_10_ohm
+manufacturer: ''
+md5: 63d68b26f18096c818c6093bdaaf74b1
+md5_10: 63d68b26f1
+md5_10_upper: 63D68B26F1
+md5_5: 63d68
+md5_5_upper: 63D68
+md5_6: 63d68b
+md5_6_alpha: 3w8ln
+md5_6_alpha_upper: 3W8LN
+md5_6_upper: 63D68B
+name: Electronic Resistor 0402 10 Ohm
+name_no_class: Resistor 0402 10 Ohm
+name_no_color: 10Ohm
+name_no_size: 10 Ohm
+name_no_type: 0402 10 Ohm
+oomp_key: oomp_electronic_resistor_0402_10_ohm
+oomp_word: rose school door
+oomp_word_emoji: ':rose: :school: :door:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':school:'
+- ':door:'
+oomp_word_list:
+- rose
+- school
+- door
+part_number: ''
+size: '0402'
+type: resistor

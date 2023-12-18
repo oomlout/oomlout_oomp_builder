@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_12_ex_spacer_long
+directory: parts/oobb_part_wire_03_02_12_ex_spacer_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12_ex_spacer_long
+id: oobb_part_wire_03_02_12_ex_spacer_long
+id_no_class: part_wire_03_02_12_ex_spacer_long
+id_no_color: 030212exspacerlong
+id_no_size: 03_02_12_ex_spacer_long
+id_no_type: wire_03_02_12_ex_spacer_long
+manufacturer: ''
+md5: 36ca9d01b6a05a3f3680dc560ef41713
+md5_10: 36ca9d01b6
+md5_10_upper: 36CA9D01B6
+md5_5: 36ca9
+md5_5_upper: 36CA9
+md5_6: 36ca9d
+md5_6_alpha: 24yot
+md5_6_alpha_upper: 24YOT
+md5_6_upper: 36CA9D
+name: Oobb Part Wire 03 02 12 Ex Spacer Long
+name_no_class: Part Wire 03 02 12 Ex Spacer Long
+name_no_color: 030212Exspacerlong
+name_no_size: 03 02 12 Ex Spacer Long
+name_no_type: Wire 03 02 12 Ex Spacer Long
+oomp_key: oomp_oobb_part_wire_03_02_12_ex_spacer_long
+oomp_word: rabbit cherries hearts
+oomp_word_emoji: ':rabbit: :cherries: :hearts:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':cherries:'
+- ':hearts:'
+oomp_word_list:
+- rabbit
+- cherries
+- hearts
+part_number: ''
+size: wire
+type: part

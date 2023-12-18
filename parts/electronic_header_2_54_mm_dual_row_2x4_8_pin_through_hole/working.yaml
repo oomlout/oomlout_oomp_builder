@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x4_8_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x4_8_pin_through_hole
+id_no_color: 2x48pinthroughhole
+id_no_size: 2x4_8_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x4_8_pin_through_hole
+manufacturer: ''
+md5: eb0ed9ea39e69ff1682d0a3df9643cb8
+md5_10: eb0ed9ea39
+md5_10_upper: EB0ED9EA39
+md5_5: eb0ed
+md5_5_upper: EB0ED
+md5_6: eb0ed9
+md5_6_alpha: 966e1
+md5_6_alpha_upper: 966E1
+md5_6_upper: EB0ED9
+name: Electronic Header 2 54 Mm Dual Row 2X4 8 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X4 8 Pin Through Hole
+name_no_color: 2X48Pinthroughhole
+name_no_size: 2X4 8 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X4 8 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole
+oomp_word: car cupid bank
+oomp_word_emoji: ':car: :cupid: :bank:'
+oomp_word_emoji_list:
+- ':car:'
+- ':cupid:'
+- ':bank:'
+oomp_word_list:
+- car
+- cupid
+- bank
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

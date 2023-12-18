@@ -1,0 +1,40 @@
+classification: hardware
+color: 16012_size
+description_extra: ''
+description_main: 60_mm_id_95_mm_od_11_mm_depth
+directory: parts/hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+id: hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+id_no_class: bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+id_no_color: 60_mm_id_95_mm_od_11_mm_depth
+id_no_size: 16012_size_60_mm_id_95_mm_od_11_mm_depth
+id_no_type: 16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+manufacturer: ''
+md5: 95c3b7be6d6312424ef210a21324d213
+md5_10: 95c3b7be6d
+md5_10_upper: 95C3B7BE6D
+md5_5: 95c3b
+md5_5_upper: 95C3B
+md5_6: 95c3b7
+md5_6_alpha: 5ud9z
+md5_6_alpha_upper: 5UD9Z
+md5_6_upper: 95C3B7
+name: Hardware Bearing 16000 Series 16012 Size 60 Mm Id 95 Mm Od 11 Mm Depth
+name_no_class: Bearing 16000 Series 16012 Size 60 Mm Id 95 Mm Od 11 Mm Depth
+name_no_color: 60 Mm Id 95 Mm Od 11 Mm Depth
+name_no_size: 16012 Size 60 Mm Id 95 Mm Od 11 Mm Depth
+name_no_type: 16000 Series 16012 Size 60 Mm Id 95 Mm Od 11 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+oomp_word: telescope cake pizza
+oomp_word_emoji: ':telescope: :cake: :pizza:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':cake:'
+- ':pizza:'
+oomp_word_list:
+- telescope
+- cake
+- pizza
+part_number: ''
+size: 16000_series
+type: bearing

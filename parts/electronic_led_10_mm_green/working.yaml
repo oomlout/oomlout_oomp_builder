@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green
+id: electronic_led_10_mm_green
+id_no_class: led_10_mm_green
+id_no_color: green
+id_no_size: green
+id_no_type: 10_mm_green
+manufacturer: ''
+md5: 5f6525ecafb65df19e6187ca04358bfa
+md5_10: 5f6525ecaf
+md5_10_upper: 5F6525ECAF
+md5_5: 5f652
+md5_5_upper: 5F652
+md5_6: 5f6525
+md5_6_alpha: 3pzxh
+md5_6_alpha_upper: 3PZXH
+md5_6_upper: 5F6525
+name: Electronic Led 10 Mm Green
+name_no_class: Led 10 Mm Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 10 Mm Green
+oomp_key: oomp_electronic_led_10_mm_green
+oomp_word: leopard maple_leaf ear
+oomp_word_emoji: ':leopard: :maple_leaf: :ear:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':maple_leaf:'
+- ':ear:'
+oomp_word_list:
+- leopard
+- maple_leaf
+- ear
+part_number: ''
+size: 10_mm
+type: led

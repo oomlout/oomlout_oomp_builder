@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_10_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm
+id: electronic_resistor_quarter_watt_through_hole_10_ohm
+id_no_class: resistor_quarter_watt_through_hole_10_ohm
+id_no_color: 10ohm
+id_no_size: 10_ohm
+id_no_type: quarter_watt_through_hole_10_ohm
+manufacturer: ''
+md5: b69fc96daa91b8a87e332857a64a7d70
+md5_10: b69fc96daa
+md5_10_upper: B69FC96DAA
+md5_5: b69fc
+md5_5_upper: B69FC
+md5_6: b69fc9
+md5_6_alpha: 74ix5
+md5_6_alpha_upper: 74IX5
+md5_6_upper: B69FC9
+name: Electronic Resistor Quarter Watt Through Hole 10 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 10 Ohm
+name_no_color: 10Ohm
+name_no_size: 10 Ohm
+name_no_type: Quarter Watt Through Hole 10 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_10_ohm
+oomp_word: beer diamonds lemon
+oomp_word_emoji: ':beer: :diamonds: :lemon:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':diamonds:'
+- ':lemon:'
+oomp_word_list:
+- beer
+- diamonds
+- lemon
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

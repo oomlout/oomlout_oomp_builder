@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 82000_ohm
+directory: parts/electronic_resistor_0402_82000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82000_ohm
+id: electronic_resistor_0402_82000_ohm
+id_no_class: resistor_0402_82000_ohm
+id_no_color: 82000ohm
+id_no_size: 82000_ohm
+id_no_type: 0402_82000_ohm
+manufacturer: ''
+md5: 02af0001021282ab1114d5ab3b066b0a
+md5_10: 02af000102
+md5_10_upper: 02AF000102
+md5_5: 02af0
+md5_5_upper: 02AF0
+md5_6: 02af00
+md5_6_alpha: 3rpc
+md5_6_alpha_upper: 3RPC
+md5_6_upper: 02AF00
+name: Electronic Resistor 0402 82000 Ohm
+name_no_class: Resistor 0402 82000 Ohm
+name_no_color: 82000Ohm
+name_no_size: 82000 Ohm
+name_no_type: 0402 82000 Ohm
+oomp_key: oomp_electronic_resistor_0402_82000_ohm
+oomp_word: blush tophat bowtie
+oomp_word_emoji: ':blush: :tophat: :bowtie:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':tophat:'
+- ':bowtie:'
+oomp_word_list:
+- blush
+- tophat
+- bowtie
+part_number: ''
+size: '0402'
+type: resistor

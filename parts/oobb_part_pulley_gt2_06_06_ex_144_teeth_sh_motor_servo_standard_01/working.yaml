@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+id_no_color: 0606ex144teethshmotorservostandard01
+id_no_size: 06_06_ex_144_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 295818039f71c931d72bbcd0c0c441a4
+md5_10: 295818039f
+md5_10_upper: 295818039F
+md5_5: '29581'
+md5_5_upper: '29581'
+md5_6: '295818'
+md5_6_alpha: 1m2oo
+md5_6_alpha_upper: 1M2OO
+md5_6_upper: '295818'
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Sh Motor Servo Standard 01
+name_no_color: 0606Ex144Teethshmotorservostandard01
+name_no_size: 06 06 Ex 144 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_servo_standard_01
+oomp_word: sunny water_buffalo hand
+oomp_word_emoji: ':sunny: :water_buffalo: :hand:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':water_buffalo:'
+- ':hand:'
+oomp_word_list:
+- sunny
+- water_buffalo
+- hand
+part_number: ''
+size: pulley_gt2
+type: part

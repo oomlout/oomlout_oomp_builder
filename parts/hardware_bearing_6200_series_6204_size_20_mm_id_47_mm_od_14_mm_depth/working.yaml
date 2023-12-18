@@ -1,0 +1,40 @@
+classification: hardware
+color: 6204_size
+description_extra: ''
+description_main: 20_mm_id_47_mm_od_14_mm_depth
+directory: parts/hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+id: hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+id_no_class: bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+id_no_color: 20_mm_id_47_mm_od_14_mm_depth
+id_no_size: 6204_size_20_mm_id_47_mm_od_14_mm_depth
+id_no_type: 6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+manufacturer: ''
+md5: 74bf21eedaa1abf4a0737be343ed9c60
+md5_10: 74bf21eeda
+md5_10_upper: 74BF21EEDA
+md5_5: 74bf2
+md5_5_upper: 74BF2
+md5_6: 74bf21
+md5_6_alpha: 4jzmp
+md5_6_alpha_upper: 4JZMP
+md5_6_upper: 74BF21
+name: Hardware Bearing 6200 Series 6204 Size 20 Mm Id 47 Mm Od 14 Mm Depth
+name_no_class: Bearing 6200 Series 6204 Size 20 Mm Id 47 Mm Od 14 Mm Depth
+name_no_color: 20 Mm Id 47 Mm Od 14 Mm Depth
+name_no_size: 6204 Size 20 Mm Id 47 Mm Od 14 Mm Depth
+name_no_type: 6200 Series 6204 Size 20 Mm Id 47 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+oomp_word: fireworks egg feet
+oomp_word_emoji: ':fireworks: :egg: :feet:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':egg:'
+- ':feet:'
+oomp_word_list:
+- fireworks
+- egg
+- feet
+part_number: ''
+size: 6200_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6805
+directory: parts/oobb_part_bearing_hardware_bearing_6805
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6805
+id: oobb_part_bearing_hardware_bearing_6805
+id_no_class: part_bearing_hardware_bearing_6805
+id_no_color: hardware6805
+id_no_size: hardware_6805
+id_no_type: bearing_hardware_bearing_6805
+manufacturer: ''
+md5: f84b6e0ab5464348ada3d0103d4e5c9b
+md5_10: f84b6e0ab5
+md5_10_upper: F84B6E0AB5
+md5_5: f84b6
+md5_5_upper: F84B6
+md5_6: f84b6e
+md5_6_alpha: 9orqm
+md5_6_alpha_upper: 9ORQM
+md5_6_upper: F84B6E
+name: Oobb Part Bearing Hardware Bearing 6805
+name_no_class: Part Bearing Hardware Bearing 6805
+name_no_color: Hardware6805
+name_no_size: Hardware 6805
+name_no_type: Bearing Hardware Bearing 6805
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6805
+oomp_word: seven penguin new_moon
+oomp_word_emoji: ':seven: :penguin: :new_moon:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':penguin:'
+- ':new_moon:'
+oomp_word_list:
+- seven
+- penguin
+- new_moon
+part_number: ''
+size: bearing
+type: part

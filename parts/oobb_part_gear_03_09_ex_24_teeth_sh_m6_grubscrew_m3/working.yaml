@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_09_ex_24_teeth_sh_m6_grubscrew_m3
+directory: parts/oobb_part_gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+id: oobb_part_gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+id_no_class: part_gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+id_no_color: 0309ex24teethshm6grubscrewm3
+id_no_size: 03_09_ex_24_teeth_sh_m6_grubscrew_m3
+id_no_type: gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+manufacturer: ''
+md5: a97ff388497b1d9948cee84d383a10b1
+md5_10: a97ff38849
+md5_10_upper: A97FF38849
+md5_5: a97ff
+md5_5_upper: A97FF
+md5_6: a97ff3
+md5_6_alpha: 6m38z
+md5_6_alpha_upper: 6M38Z
+md5_6_upper: A97FF3
+name: Oobb Part Gear 03 09 Ex 24 Teeth Sh M6 Grubscrew M3
+name_no_class: Part Gear 03 09 Ex 24 Teeth Sh M6 Grubscrew M3
+name_no_color: 0309Ex24Teethshm6Grubscrewm3
+name_no_size: 03 09 Ex 24 Teeth Sh M6 Grubscrew M3
+name_no_type: Gear 03 09 Ex 24 Teeth Sh M6 Grubscrew M3
+oomp_key: oomp_oobb_part_gear_03_09_ex_24_teeth_sh_m6_grubscrew_m3
+oomp_word: sandal speaker two
+oomp_word_emoji: ':sandal: :speaker: :two:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':speaker:'
+- ':two:'
+oomp_word_list:
+- sandal
+- speaker
+- two
+part_number: ''
+size: gear
+type: part

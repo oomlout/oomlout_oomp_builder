@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_08_ex_tool_screwdriver_hex_key_set_small
+directory: parts/oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id: oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_class: part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_color: 050508extoolscrewdriverhexkeysetsmall
+id_no_size: 05_05_08_ex_tool_screwdriver_hex_key_set_small
+id_no_type: tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+manufacturer: ''
+md5: d7fd01596251848eab06a8f805712665
+md5_10: d7fd015962
+md5_10_upper: D7FD015962
+md5_5: d7fd0
+md5_5_upper: D7FD0
+md5_6: d7fd01
+md5_6_alpha: 8fe2p
+md5_6_alpha_upper: 8FE2P
+md5_6_upper: D7FD01
+name: Oobb Part Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+name_no_class: Part Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set
+  Small
+name_no_color: 050508Extoolscrewdriverhexkeysetsmall
+name_no_size: 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+name_no_type: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small
+oomp_word: office parking smile
+oomp_word_emoji: ':office: :parking: :smile:'
+oomp_word_emoji_list:
+- ':office:'
+- ':parking:'
+- ':smile:'
+oomp_word_list:
+- office
+- parking
+- smile
+part_number: ''
+size: tool_holder_vertical
+type: part

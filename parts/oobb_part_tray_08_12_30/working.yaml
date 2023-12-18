@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_12_30
+directory: parts/oobb_part_tray_08_12_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_12_30
+id: oobb_part_tray_08_12_30
+id_no_class: part_tray_08_12_30
+id_no_color: 081230
+id_no_size: 08_12_30
+id_no_type: tray_08_12_30
+manufacturer: ''
+md5: 3a1343a866583e5bb4034ea1be20bb62
+md5_10: 3a1343a866
+md5_10_upper: 3A1343A866
+md5_5: 3a134
+md5_5_upper: 3A134
+md5_6: 3a1343
+md5_6_alpha: 29kqr
+md5_6_alpha_upper: 29KQR
+md5_6_upper: 3A1343
+name: Oobb Part Tray 08 12 30
+name_no_class: Part Tray 08 12 30
+name_no_color: 081230
+name_no_size: 08 12 30
+name_no_type: Tray 08 12 30
+oomp_key: oomp_oobb_part_tray_08_12_30
+oomp_word: koala question elephant
+oomp_word_emoji: ':koala: :question: :elephant:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':question:'
+- ':elephant:'
+oomp_word_list:
+- koala
+- question
+- elephant
+part_number: ''
+size: tray
+type: part

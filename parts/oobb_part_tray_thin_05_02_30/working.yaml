@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_02_30'
+directory: parts/oobb_part_tray_thin_05_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_02_30
+id: oobb_part_tray_thin_05_02_30
+id_no_class: part_tray_thin_05_02_30
+id_no_color: '050230'
+id_no_size: '05_02_30'
+id_no_type: tray_thin_05_02_30
+manufacturer: ''
+md5: 0e9944d9d4960f55b0a15fb64f50e096
+md5_10: 0e9944d9d4
+md5_10_upper: 0E9944D9D4
+md5_5: 0e994
+md5_5_upper: 0E994
+md5_6: 0e9944
+md5_6_alpha: ki84
+md5_6_alpha_upper: KI84
+md5_6_upper: 0E9944
+name: Oobb Part Tray Thin 05 02 30
+name_no_class: Part Tray Thin 05 02 30
+name_no_color: '050230'
+name_no_size: 05 02 30
+name_no_type: Tray Thin 05 02 30
+oomp_key: oomp_oobb_part_tray_thin_05_02_30
+oomp_word: cupid bowling panda_face
+oomp_word_emoji: ':cupid: :bowling: :panda_face:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':bowling:'
+- ':panda_face:'
+oomp_word_list:
+- cupid
+- bowling
+- panda_face
+part_number: ''
+size: tray_thin
+type: part

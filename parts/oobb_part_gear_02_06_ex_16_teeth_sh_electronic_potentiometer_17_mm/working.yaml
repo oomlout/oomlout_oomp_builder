@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0206ex16teethshelectronicpotentiometer17mm
+id_no_size: 02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: c7d9497b0bef2c017dcb86b8f9336093
+md5_10: c7d9497b0b
+md5_10_upper: C7D9497B0B
+md5_5: c7d94
+md5_5_upper: C7D94
+md5_6: c7d949
+md5_6_alpha: 7spxl
+md5_6_alpha_upper: 7SPXL
+md5_6_upper: C7D949
+name: Oobb Part Gear 02 06 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 02 06 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0206Ex16Teethshelectronicpotentiometer17Mm
+name_no_size: 02 06 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 02 06 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: honey_pot bank hatching_chick
+oomp_word_emoji: ':honey_pot: :bank: :hatching_chick:'
+oomp_word_emoji_list:
+- ':honey_pot:'
+- ':bank:'
+- ':hatching_chick:'
+oomp_word_list:
+- honey_pot
+- bank
+- hatching_chick
+part_number: ''
+size: gear
+type: part

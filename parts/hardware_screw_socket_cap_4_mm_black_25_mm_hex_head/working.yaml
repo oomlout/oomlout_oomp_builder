@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: black
-color_capital: Black
-color_first_letter: b
-color_first_letter_upper: B
-color_upper: BLACK
 description_extra: hex_head
-description_extra_capital: Hex Head
-description_extra_first_letter: h
-description_extra_first_letter_upper: H
-description_extra_upper: HEX_HEAD
 description_main: 25_mm
-description_main_capital: 25 mm
-description_main_first_letter: '2'
-description_main_first_letter_upper: '2'
-description_main_upper: 25_MM
-description_only_numbers: '25'
-description_only_numbers_short: '25'
-description_or_color: B25
-description_or_color_upper: B25
 directory: parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head
 id: hardware_screw_socket_cap_4_mm_black_25_mm_hex_head
 id_no_class: screw_socket_cap_4_mm_black_25_mm_hex_head
 id_no_color: 25_mm_hex_head
 id_no_size: black_25_mm_hex_head
 id_no_type: 4_mm_black_25_mm_hex_head
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_screw_socket_cap_4_mm_black_25_mm_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head/working)<br>[ssc4b25](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head/working)<br>[Hardware
-  Screw Socket Cap 4 Mm Black 25 Mm Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head/working)<br><br>'
-markdown_short: '[hardware_screw_socket_cap_4_mm_black_25_mm_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_25_mm_hex_head/working)<br><br>'
 md5: 0eef1cd2be4ecfac5635a5280de36eea
 md5_10: 0eef1cd2be
 md5_10_upper: 0EEF1CD2BE
@@ -55,7 +23,6 @@ name: Hardware Screw Socket Cap 4 Mm Black 25 Mm Hex Head
 name_no_class: Screw Socket Cap 4 Mm Black 25 Mm Hex Head
 name_no_color: 25 Mm Hex Head
 name_no_size: Black 25 Mm Hex Head
-name_no_size_short: Black 25 Mm Hex Head
 name_no_type: 4 Mm Black 25 Mm Hex Head
 oomlout_bolt_color: Black
 oomlout_bolt_head_type: Hex
@@ -80,21 +47,5 @@ oomp_word_list:
 - truck
 - dancer
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ssc4b25
-short_code_upper: SSC4B25
 size: 4_mm
-size_capital: 4 mm
-size_first_letter: '4'
-size_first_letter_upper: '4'
-size_only_numbers: '4'
-size_only_numbers_no_zeros: '4'
-size_upper: 4_MM
 type: screw_socket_cap
-type_capital: Screw Socket Cap
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SCREW_SOCKET_CAP

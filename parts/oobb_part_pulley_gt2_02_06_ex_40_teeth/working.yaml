@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_40_teeth
+directory: parts/oobb_part_pulley_gt2_02_06_ex_40_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth
+id: oobb_part_pulley_gt2_02_06_ex_40_teeth
+id_no_class: part_pulley_gt2_02_06_ex_40_teeth
+id_no_color: 0206ex40teeth
+id_no_size: 02_06_ex_40_teeth
+id_no_type: pulley_gt2_02_06_ex_40_teeth
+manufacturer: ''
+md5: 5a11514139730ad68f461120b9d61731
+md5_10: 5a11514139
+md5_10_upper: 5A11514139
+md5_5: 5a115
+md5_5_upper: 5A115
+md5_6: 5a1151
+md5_6_alpha: 3iij5
+md5_6_alpha_upper: 3IIJ5
+md5_6_upper: 5A1151
+name: Oobb Part Pulley Gt2 02 06 Ex 40 Teeth
+name_no_class: Part Pulley Gt2 02 06 Ex 40 Teeth
+name_no_color: 0206Ex40Teeth
+name_no_size: 02 06 Ex 40 Teeth
+name_no_type: Pulley Gt2 02 06 Ex 40 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth
+oomp_word: goat dizzy snail
+oomp_word_emoji: ':goat: :dizzy: :snail:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':dizzy:'
+- ':snail:'
+oomp_word_list:
+- goat
+- dizzy
+- snail
+part_number: ''
+size: pulley_gt2
+type: part

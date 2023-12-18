@@ -1,0 +1,40 @@
+classification: hardware
+color: 697_size
+description_extra: ''
+description_main: 7_mm_id_17_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+id: hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_class: bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_color: 7_mm_id_17_mm_od_5_mm_depth
+id_no_size: 697_size_7_mm_id_17_mm_od_5_mm_depth
+id_no_type: 600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+manufacturer: ''
+md5: daa0097d61afbc6e41e778174057f5a2
+md5_10: daa0097d61
+md5_10_upper: DAA0097D61
+md5_5: daa00
+md5_5_upper: DAA00
+md5_6: daa009
+md5_6_alpha: 8j3ex
+md5_6_alpha_upper: 8J3EX
+md5_6_upper: DAA009
+name: Hardware Bearing 600 Series 697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_color: 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_size: 697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+name_no_type: 600 Series 697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+oomp_word: hotel ring angry
+oomp_word_emoji: ':hotel: :ring: :angry:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':ring:'
+- ':angry:'
+oomp_word_list:
+- hotel
+- ring
+- angry
+part_number: ''
+size: 600_series
+type: bearing

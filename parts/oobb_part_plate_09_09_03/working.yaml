@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_03
+directory: parts/oobb_part_plate_09_09_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_09_03
+id: oobb_part_plate_09_09_03
+id_no_class: part_plate_09_09_03
+id_no_color: 090903
+id_no_size: 09_09_03
+id_no_type: plate_09_09_03
+manufacturer: ''
+md5: 6c6df36b09221fceca20a67c7a916b75
+md5_10: 6c6df36b09
+md5_10_upper: 6C6DF36B09
+md5_5: 6c6df
+md5_5_upper: 6C6DF
+md5_6: 6c6df3
+md5_6_alpha: 48b1v
+md5_6_alpha_upper: 48B1V
+md5_6_upper: 6C6DF3
+name: Oobb Part Plate 09 09 03
+name_no_class: Part Plate 09 09 03
+name_no_color: 090903
+name_no_size: 09 09 03
+name_no_type: Plate 09 09 03
+oomp_key: oomp_oobb_part_plate_09_09_03
+oomp_word: blossom shell two
+oomp_word_emoji: ':blossom: :shell: :two:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':shell:'
+- ':two:'
+oomp_word_list:
+- blossom
+- shell
+- two
+part_number: ''
+size: plate
+type: part

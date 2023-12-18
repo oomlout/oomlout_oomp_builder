@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_06_ex_32_teeth_sh_m3
+directory: parts/oobb_part_gear_04_06_ex_32_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_m3
+id: oobb_part_gear_04_06_ex_32_teeth_sh_m3
+id_no_class: part_gear_04_06_ex_32_teeth_sh_m3
+id_no_color: 0406ex32teethshm3
+id_no_size: 04_06_ex_32_teeth_sh_m3
+id_no_type: gear_04_06_ex_32_teeth_sh_m3
+manufacturer: ''
+md5: 467ea1d55629929d6745f4c0eac8350b
+md5_10: 467ea1d556
+md5_10_upper: 467EA1D556
+md5_5: 467ea
+md5_5_upper: 467EA
+md5_6: 467ea1
+md5_6_alpha: 2r0rl
+md5_6_alpha_upper: 2R0RL
+md5_6_upper: 467EA1
+name: Oobb Part Gear 04 06 Ex 32 Teeth Sh M3
+name_no_class: Part Gear 04 06 Ex 32 Teeth Sh M3
+name_no_color: 0406Ex32Teethshm3
+name_no_size: 04 06 Ex 32 Teeth Sh M3
+name_no_type: Gear 04 06 Ex 32 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_04_06_ex_32_teeth_sh_m3
+oomp_word: bird fax trophy
+oomp_word_emoji: ':bird: :fax: :trophy:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':fax:'
+- ':trophy:'
+oomp_word_list:
+- bird
+- fax
+- trophy
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_1d5_30
+directory: parts/oobb_part_tray_vertical_12_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_1d5_30
+id: oobb_part_tray_vertical_12_1d5_30
+id_no_class: part_tray_vertical_12_1d5_30
+id_no_color: 121d530
+id_no_size: 12_1d5_30
+id_no_type: tray_vertical_12_1d5_30
+manufacturer: ''
+md5: eebf514959852533bbd5bf877315d045
+md5_10: eebf514959
+md5_10_upper: EEBF514959
+md5_5: eebf5
+md5_5_upper: EEBF5
+md5_6: eebf51
+md5_6_alpha: 9bcy9
+md5_6_alpha_upper: 9BCY9
+md5_6_upper: EEBF51
+name: Oobb Part Tray Vertical 12 1D5 30
+name_no_class: Part Tray Vertical 12 1D5 30
+name_no_color: 121D530
+name_no_size: 12 1D5 30
+name_no_type: Tray Vertical 12 1D5 30
+oomp_key: oomp_oobb_part_tray_vertical_12_1d5_30
+oomp_word: ambulance egg snail
+oomp_word_emoji: ':ambulance: :egg: :snail:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':egg:'
+- ':snail:'
+oomp_word_list:
+- ambulance
+- egg
+- snail
+part_number: ''
+size: tray_vertical
+type: part

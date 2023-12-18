@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_1d5_12
+directory: parts/oobb_part_tray_thin_07_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_1d5_12
+id: oobb_part_tray_thin_07_1d5_12
+id_no_class: part_tray_thin_07_1d5_12
+id_no_color: 071d512
+id_no_size: 07_1d5_12
+id_no_type: tray_thin_07_1d5_12
+manufacturer: ''
+md5: c3c622bbb8e6053e29df9fcc985886cc
+md5_10: c3c622bbb8
+md5_10_upper: C3C622BBB8
+md5_5: c3c62
+md5_5_upper: C3C62
+md5_6: c3c622
+md5_6_alpha: 7mzvm
+md5_6_alpha_upper: 7MZVM
+md5_6_upper: C3C622
+name: Oobb Part Tray Thin 07 1D5 12
+name_no_class: Part Tray Thin 07 1D5 12
+name_no_color: 071D512
+name_no_size: 07 1D5 12
+name_no_type: Tray Thin 07 1D5 12
+oomp_key: oomp_oobb_part_tray_thin_07_1d5_12
+oomp_word: cake lollipop lips
+oomp_word_emoji: ':cake: :lollipop: :lips:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':lollipop:'
+- ':lips:'
+oomp_word_list:
+- cake
+- lollipop
+- lips
+part_number: ''
+size: tray_thin
+type: part

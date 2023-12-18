@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_11_18
+directory: parts/oobb_part_tray_05_11_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_11_18
+id: oobb_part_tray_05_11_18
+id_no_class: part_tray_05_11_18
+id_no_color: 051118
+id_no_size: 05_11_18
+id_no_type: tray_05_11_18
+manufacturer: ''
+md5: 350bb2091e4671787edecf7ad9cdb491
+md5_10: 350bb2091e
+md5_10_upper: 350BB2091E
+md5_5: 350bb
+md5_5_upper: 350BB
+md5_6: 350bb2
+md5_6_alpha: 22ieq
+md5_6_alpha_upper: 22IEQ
+md5_6_upper: 350BB2
+name: Oobb Part Tray 05 11 18
+name_no_class: Part Tray 05 11 18
+name_no_color: 051118
+name_no_size: 05 11 18
+name_no_type: Tray 05 11 18
+oomp_key: oomp_oobb_part_tray_05_11_18
+oomp_word: hamster sunglasses handbag
+oomp_word_emoji: ':hamster: :sunglasses: :handbag:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':sunglasses:'
+- ':handbag:'
+oomp_word_list:
+- hamster
+- sunglasses
+- handbag
+part_number: ''
+size: tray
+type: part

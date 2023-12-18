@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_06_15'
+directory: parts/oobb_part_tray_thin_10_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_06_15
+id: oobb_part_tray_thin_10_06_15
+id_no_class: part_tray_thin_10_06_15
+id_no_color: '100615'
+id_no_size: '10_06_15'
+id_no_type: tray_thin_10_06_15
+manufacturer: ''
+md5: 0c7b5db87092cdbb34a22c5fce2f1533
+md5_10: 0c7b5db870
+md5_10_upper: 0C7B5DB870
+md5_5: 0c7b5
+md5_5_upper: 0C7B5
+md5_6: 0c7b5d
+md5_6_alpha: hj6l
+md5_6_alpha_upper: HJ6L
+md5_6_upper: 0C7B5D
+name: Oobb Part Tray Thin 10 06 15
+name_no_class: Part Tray Thin 10 06 15
+name_no_color: '100615'
+name_no_size: 10 06 15
+name_no_type: Tray Thin 10 06 15
+oomp_key: oomp_oobb_part_tray_thin_10_06_15
+oomp_word: alien computer blowfish
+oomp_word_emoji: ':alien: :computer: :blowfish:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':computer:'
+- ':blowfish:'
+oomp_word_list:
+- alien
+- computer
+- blowfish
+part_number: ''
+size: tray_thin
+type: part

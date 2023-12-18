@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_04_12'
+directory: parts/oobb_part_tray_02_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_04_12
+id: oobb_part_tray_02_04_12
+id_no_class: part_tray_02_04_12
+id_no_color: '020412'
+id_no_size: '02_04_12'
+id_no_type: tray_02_04_12
+manufacturer: ''
+md5: 3da05ee421f915b5769bf9637586e3f8
+md5_10: 3da05ee421
+md5_10_upper: 3DA05EE421
+md5_5: 3da05
+md5_5_upper: 3DA05
+md5_6: 3da05e
+md5_6_alpha: 2ekbi
+md5_6_alpha_upper: 2EKBI
+md5_6_upper: 3DA05E
+name: Oobb Part Tray 02 04 12
+name_no_class: Part Tray 02 04 12
+name_no_color: '020412'
+name_no_size: 02 04 12
+name_no_type: Tray 02 04 12
+oomp_key: oomp_oobb_part_tray_02_04_12
+oomp_word: cow ring crocodile
+oomp_word_emoji: ':cow: :ring: :crocodile:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':ring:'
+- ':crocodile:'
+oomp_word_list:
+- cow
+- ring
+- crocodile
+part_number: ''
+size: tray
+type: part

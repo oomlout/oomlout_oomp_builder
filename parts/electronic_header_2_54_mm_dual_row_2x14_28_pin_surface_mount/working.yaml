@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x14_28_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+id_no_color: 2x1428pinsurfacemount
+id_no_size: 2x14_28_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x14_28_pin_surface_mount
+manufacturer: ''
+md5: 5da10696367d13d447d3ac4c70258f82
+md5_10: 5da1069636
+md5_10_upper: 5DA1069636
+md5_5: 5da10
+md5_5_upper: 5DA10
+md5_6: 5da106
+md5_6_alpha: 3nime
+md5_6_alpha_upper: 3NIME
+md5_6_upper: 5DA106
+name: Electronic Header 2 54 Mm Dual Row 2X14 28 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X14 28 Pin Surface Mount
+name_no_color: 2X1428Pinsurfacemount
+name_no_size: 2X14 28 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X14 28 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+oomp_word: blowfish trophy sleeping
+oomp_word_emoji: ':blowfish: :trophy: :sleeping:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':trophy:'
+- ':sleeping:'
+oomp_word_list:
+- blowfish
+- trophy
+- sleeping
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

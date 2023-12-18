@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_03_ex_8_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+id_no_color: 0103ex8teethshmotorservostandard01
+id_no_size: 01_03_ex_8_teeth_sh_motor_servo_standard_01
+id_no_type: gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: f02fd1a0fe6c8be08b6b6fb29739470a
+md5_10: f02fd1a0fe
+md5_10_upper: F02FD1A0FE
+md5_5: f02fd
+md5_5_upper: F02FD
+md5_6: f02fd1
+md5_6_alpha: 9ddqp
+md5_6_alpha_upper: 9DDQP
+md5_6_upper: F02FD1
+name: Oobb Part Gear 01 03 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 01 03 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_color: 0103Ex8Teethshmotorservostandard01
+name_no_size: 01 03 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 01 03 Ex 8 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_01_03_ex_8_teeth_sh_motor_servo_standard_01
+oomp_word: train cyclone pear
+oomp_word_emoji: ':train: :cyclone: :pear:'
+oomp_word_emoji_list:
+- ':train:'
+- ':cyclone:'
+- ':pear:'
+oomp_word_list:
+- train
+- cyclone
+- pear
+part_number: ''
+size: gear
+type: part

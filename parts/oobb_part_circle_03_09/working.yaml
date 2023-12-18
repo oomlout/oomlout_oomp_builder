@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_09
+directory: parts/oobb_part_circle_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_03_09
+id: oobb_part_circle_03_09
+id_no_class: part_circle_03_09
+id_no_color: 0309
+id_no_size: 03_09
+id_no_type: circle_03_09
+manufacturer: ''
+md5: 0942313b8f0cbeaef17d8a4cd75c9307
+md5_10: 0942313b8f
+md5_10_upper: 0942313B8F
+md5_5: 09423
+md5_5_upper: 09423
+md5_6: 094231
+md5_6_alpha: d06p
+md5_6_alpha_upper: D06P
+md5_6_upper: 094231
+name: Oobb Part Circle 03 09
+name_no_class: Part Circle 03 09
+name_no_color: 0309
+name_no_size: 03 09
+name_no_type: Circle 03 09
+oomp_key: oomp_oobb_part_circle_03_09
+oomp_word: angry sheep ocean
+oomp_word_emoji: ':angry: :sheep: :ocean:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':sheep:'
+- ':ocean:'
+oomp_word_list:
+- angry
+- sheep
+- ocean
+part_number: ''
+size: circle
+type: part

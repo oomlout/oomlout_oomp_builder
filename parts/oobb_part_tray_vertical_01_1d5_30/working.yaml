@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_1d5_30
+directory: parts/oobb_part_tray_vertical_01_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_01_1d5_30
+id: oobb_part_tray_vertical_01_1d5_30
+id_no_class: part_tray_vertical_01_1d5_30
+id_no_color: 011d530
+id_no_size: 01_1d5_30
+id_no_type: tray_vertical_01_1d5_30
+manufacturer: ''
+md5: 96f4b25ac59bdeadf58e3050dd5c37ee
+md5_10: 96f4b25ac5
+md5_10_upper: 96F4B25AC5
+md5_5: 96f4b
+md5_5_upper: 96F4B
+md5_6: 96f4b2
+md5_6_alpha: 5w1iq
+md5_6_alpha_upper: 5W1IQ
+md5_6_upper: 96F4B2
+name: Oobb Part Tray Vertical 01 1D5 30
+name_no_class: Part Tray Vertical 01 1D5 30
+name_no_color: 011D530
+name_no_size: 01 1D5 30
+name_no_type: Tray Vertical 01 1D5 30
+oomp_key: oomp_oobb_part_tray_vertical_01_1d5_30
+oomp_word: basketball three handbag
+oomp_word_emoji: ':basketball: :three: :handbag:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':three:'
+- ':handbag:'
+oomp_word_list:
+- basketball
+- three
+- handbag
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_21_ex_electronic_button_11_mm_panel_mount
+directory: parts/oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+id: oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+id_no_class: part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+id_no_color: 030321exelectronicbutton11mmpanelmount
+id_no_size: 03_03_21_ex_electronic_button_11_mm_panel_mount
+id_no_type: holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+manufacturer: ''
+md5: 27794dbcb12bfa56ec5f58c16e4a2637
+md5_10: 27794dbcb1
+md5_10_upper: 27794DBCB1
+md5_5: '27794'
+md5_5_upper: '27794'
+md5_6: 27794d
+md5_6_alpha: 1jg3x
+md5_6_alpha_upper: 1JG3X
+md5_6_upper: 27794D
+name: Oobb Part Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount
+name_no_class: Part Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount
+name_no_color: 030321Exelectronicbutton11Mmpanelmount
+name_no_size: 03 03 21 Ex Electronic Button 11 Mm Panel Mount
+name_no_type: Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount
+oomp_key: oomp_oobb_part_holder_03_03_21_ex_electronic_button_11_mm_panel_mount
+oomp_word: nose balloon bug
+oomp_word_emoji: ':nose: :balloon: :bug:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':balloon:'
+- ':bug:'
+oomp_word_list:
+- nose
+- balloon
+- bug
+part_number: ''
+size: holder
+type: part

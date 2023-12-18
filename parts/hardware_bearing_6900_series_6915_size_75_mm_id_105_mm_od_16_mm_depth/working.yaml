@@ -1,0 +1,40 @@
+classification: hardware
+color: 6915_size
+description_extra: ''
+description_main: 75_mm_id_105_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+id: hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+id_no_class: bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+id_no_color: 75_mm_id_105_mm_od_16_mm_depth
+id_no_size: 6915_size_75_mm_id_105_mm_od_16_mm_depth
+id_no_type: 6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+manufacturer: ''
+md5: ad9724a4c4f7a5ec8b1fab7ce72dad79
+md5_10: ad9724a4c4
+md5_10_upper: AD9724A4C4
+md5_5: ad972
+md5_5_upper: AD972
+md5_6: ad9724
+md5_6_alpha: 6ru3o
+md5_6_alpha_upper: 6RU3O
+md5_6_upper: AD9724
+name: Hardware Bearing 6900 Series 6915 Size 75 Mm Id 105 Mm Od 16 Mm Depth
+name_no_class: Bearing 6900 Series 6915 Size 75 Mm Id 105 Mm Od 16 Mm Depth
+name_no_color: 75 Mm Id 105 Mm Od 16 Mm Depth
+name_no_size: 6915 Size 75 Mm Id 105 Mm Od 16 Mm Depth
+name_no_type: 6900 Series 6915 Size 75 Mm Id 105 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
+oomp_word: dress baseball droplet
+oomp_word_emoji: ':dress: :baseball: :droplet:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':baseball:'
+- ':droplet:'
+oomp_word_list:
+- dress
+- baseball
+- droplet
+part_number: ''
+size: 6900_series
+type: bearing

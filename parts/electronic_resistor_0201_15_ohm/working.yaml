@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 15_ohm
+directory: parts/electronic_resistor_0201_15_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_15_ohm
+id: electronic_resistor_0201_15_ohm
+id_no_class: resistor_0201_15_ohm
+id_no_color: 15ohm
+id_no_size: 15_ohm
+id_no_type: 0201_15_ohm
+manufacturer: ''
+md5: e705cf7eb744a8901eaa82a07577c10e
+md5_10: e705cf7eb7
+md5_10_upper: E705CF7EB7
+md5_5: e705c
+md5_5_upper: E705C
+md5_6: e705cf
+md5_6_alpha: 90ibz
+md5_6_alpha_upper: 90IBZ
+md5_6_upper: E705CF
+name: Electronic Resistor 0201 15 Ohm
+name_no_class: Resistor 0201 15 Ohm
+name_no_color: 15Ohm
+name_no_size: 15 Ohm
+name_no_type: 0201 15 Ohm
+oomp_key: oomp_electronic_resistor_0201_15_ohm
+oomp_word: helicopter kissing melon
+oomp_word_emoji: ':helicopter: :kissing: :melon:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':kissing:'
+- ':melon:'
+oomp_word_list:
+- helicopter
+- kissing
+- melon
+part_number: ''
+size: '0201'
+type: resistor

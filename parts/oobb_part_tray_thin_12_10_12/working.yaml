@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_12'
+directory: parts/oobb_part_tray_thin_12_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_10_12
+id: oobb_part_tray_thin_12_10_12
+id_no_class: part_tray_thin_12_10_12
+id_no_color: '121012'
+id_no_size: '12_10_12'
+id_no_type: tray_thin_12_10_12
+manufacturer: ''
+md5: f1806a6e42ab1447612ebfa6caf6ad6e
+md5_10: f1806a6e42
+md5_10_upper: F1806A6E42
+md5_5: f1806
+md5_5_upper: F1806
+md5_6: f1806a
+md5_6_alpha: 9f88a
+md5_6_alpha_upper: 9F88A
+md5_6_upper: F1806A
+name: Oobb Part Tray Thin 12 10 12
+name_no_class: Part Tray Thin 12 10 12
+name_no_color: '121012'
+name_no_size: 12 10 12
+name_no_type: Tray Thin 12 10 12
+oomp_key: oomp_oobb_part_tray_thin_12_10_12
+oomp_word: ticket hourglass palm_tree
+oomp_word_emoji: ':ticket: :hourglass: :palm_tree:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':hourglass:'
+- ':palm_tree:'
+oomp_word_list:
+- ticket
+- hourglass
+- palm_tree
+part_number: ''
+size: tray_thin
+type: part

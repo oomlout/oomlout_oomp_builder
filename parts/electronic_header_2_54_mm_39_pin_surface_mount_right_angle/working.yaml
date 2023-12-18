@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 39_pin
+directory: parts/electronic_header_2_54_mm_39_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_39_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_39_pin_surface_mount_right_angle
+id_no_color: 39pinsurfacemountrightangle
+id_no_size: 39_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_39_pin_surface_mount_right_angle
+manufacturer: ''
+md5: bc9f4c284f3d9c94bf1d8070e5a40839
+md5_10: bc9f4c284f
+md5_10_upper: BC9F4C284F
+md5_5: bc9f4
+md5_5_upper: BC9F4
+md5_6: bc9f4c
+md5_6_alpha: 7cy8c
+md5_6_alpha_upper: 7CY8C
+md5_6_upper: BC9F4C
+name: Electronic Header 2 54 Mm 39 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 39 Pin Surface Mount Right Angle
+name_no_color: 39Pinsurfacemountrightangle
+name_no_size: 39 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 39 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_39_pin_surface_mount_right_angle
+oomp_word: sushi diamonds turtle
+oomp_word_emoji: ':sushi: :diamonds: :turtle:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':diamonds:'
+- ':turtle:'
+oomp_word_list:
+- sushi
+- diamonds
+- turtle
+part_number: ''
+size: 2_54_mm
+type: header

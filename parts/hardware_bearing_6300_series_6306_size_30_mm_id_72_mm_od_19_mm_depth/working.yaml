@@ -1,0 +1,40 @@
+classification: hardware
+color: 6306_size
+description_extra: ''
+description_main: 30_mm_id_72_mm_od_19_mm_depth
+directory: parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+id: hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+id_no_class: bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+id_no_color: 30_mm_id_72_mm_od_19_mm_depth
+id_no_size: 6306_size_30_mm_id_72_mm_od_19_mm_depth
+id_no_type: 6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+manufacturer: ''
+md5: ecaeb64081a47f07ae61c7a48e55afdd
+md5_10: ecaeb64081
+md5_10_upper: ECAEB64081
+md5_5: ecaeb
+md5_5_upper: ECAEB
+md5_6: ecaeb6
+md5_6_alpha: 98gja
+md5_6_alpha_upper: 98GJA
+md5_6_upper: ECAEB6
+name: Hardware Bearing 6300 Series 6306 Size 30 Mm Id 72 Mm Od 19 Mm Depth
+name_no_class: Bearing 6300 Series 6306 Size 30 Mm Id 72 Mm Od 19 Mm Depth
+name_no_color: 30 Mm Id 72 Mm Od 19 Mm Depth
+name_no_size: 6306 Size 30 Mm Id 72 Mm Od 19 Mm Depth
+name_no_type: 6300 Series 6306 Size 30 Mm Id 72 Mm Od 19 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth
+oomp_word: taxi jeans beer
+oomp_word_emoji: ':taxi: :jeans: :beer:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':jeans:'
+- ':beer:'
+oomp_word_list:
+- taxi
+- jeans
+- beer
+part_number: ''
+size: 6300_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_09
+directory: parts/oobb_part_tray_vertical_07_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_03_09
+id: oobb_part_tray_vertical_07_03_09
+id_no_class: part_tray_vertical_07_03_09
+id_no_color: 070309
+id_no_size: 07_03_09
+id_no_type: tray_vertical_07_03_09
+manufacturer: ''
+md5: 1ceb3e3824738e0870653e7418653b3f
+md5_10: 1ceb3e3824
+md5_10_upper: 1CEB3E3824
+md5_5: 1ceb3
+md5_5_upper: 1CEB3
+md5_6: 1ceb3e
+md5_6_alpha: 14mda
+md5_6_alpha_upper: 14MDA
+md5_6_upper: 1CEB3E
+name: Oobb Part Tray Vertical 07 03 09
+name_no_class: Part Tray Vertical 07 03 09
+name_no_color: 070309
+name_no_size: 07 03 09
+name_no_type: Tray Vertical 07 03 09
+oomp_key: oomp_oobb_part_tray_vertical_07_03_09
+oomp_word: dancer car monkey
+oomp_word_emoji: ':dancer: :car: :monkey:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':car:'
+- ':monkey:'
+oomp_word_list:
+- dancer
+- car
+- monkey
+part_number: ''
+size: tray_vertical
+type: part

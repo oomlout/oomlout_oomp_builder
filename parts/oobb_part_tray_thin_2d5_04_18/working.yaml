@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_18
+directory: parts/oobb_part_tray_thin_2d5_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_04_18
+id: oobb_part_tray_thin_2d5_04_18
+id_no_class: part_tray_thin_2d5_04_18
+id_no_color: 2d50418
+id_no_size: 2d5_04_18
+id_no_type: tray_thin_2d5_04_18
+manufacturer: ''
+md5: 56cbd5e23438493421fb7bdc836b317e
+md5_10: 56cbd5e234
+md5_10_upper: 56CBD5E234
+md5_5: 56cbd
+md5_5_upper: 56CBD
+md5_6: 56cbd5
+md5_6_alpha: 3dx3p
+md5_6_alpha_upper: 3DX3P
+md5_6_upper: 56CBD5
+name: Oobb Part Tray Thin 2D5 04 18
+name_no_class: Part Tray Thin 2D5 04 18
+name_no_color: 2D50418
+name_no_size: 2D5 04 18
+name_no_type: Tray Thin 2D5 04 18
+oomp_key: oomp_oobb_part_tray_thin_2d5_04_18
+oomp_word: ram grapes house
+oomp_word_emoji: ':ram: :grapes: :house:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':grapes:'
+- ':house:'
+oomp_word_list:
+- ram
+- grapes
+- house
+part_number: ''
+size: tray_thin
+type: part

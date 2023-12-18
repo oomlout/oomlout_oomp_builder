@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 2_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_2_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_2_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_2_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_2_pin_dupont
+id_no_color: 2_pin_dupont
+id_no_size: black_2_pin_dupont
+id_no_type: 2_54_mm_black_2_pin_dupont
+manufacturer: ''
+md5: 4bdd3015d2a94b64dbcdcad850425c86
+md5_10: 4bdd3015d2
+md5_10_upper: 4BDD3015D2
+md5_5: 4bdd3
+md5_5_upper: 4BDD3
+md5_6: 4bdd30
+md5_6_alpha: 2yka8
+md5_6_alpha_upper: 2YKA8
+md5_6_upper: 4BDD30
+name: Electronic Crimp Housing 2 54 Mm Black 2 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 2 Pin Dupont
+name_no_color: 2 Pin Dupont
+name_no_size: Black 2 Pin Dupont
+name_no_type: 2 54 Mm Black 2 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_2_pin_dupont
+oomp_word: penguin stars foggy
+oomp_word_emoji: ':penguin: :stars: :foggy:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':stars:'
+- ':foggy:'
+oomp_word_list:
+- penguin
+- stars
+- foggy
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_60
+directory: parts/oobb_part_bolt_hardware_bolt_m6_60
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_60
+id: oobb_part_bolt_hardware_bolt_m6_60
+id_no_class: part_bolt_hardware_bolt_m6_60
+id_no_color: hardwarem660
+id_no_size: hardware_m6_60
+id_no_type: bolt_hardware_bolt_m6_60
+manufacturer: ''
+md5: b1bd313ddb6cfe4a5ba8c5081d6fbfec
+md5_10: b1bd313ddb
+md5_10_upper: B1BD313DDB
+md5_5: b1bd3
+md5_5_upper: B1BD3
+md5_6: b1bd31
+md5_6_alpha: 6xnw1
+md5_6_alpha_upper: 6XNW1
+md5_6_upper: B1BD31
+name: Oobb Part Bolt Hardware Bolt M6 60
+name_no_class: Part Bolt Hardware Bolt M6 60
+name_no_color: Hardwarem660
+name_no_size: Hardware M6 60
+name_no_type: Bolt Hardware Bolt M6 60
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_60
+oomp_word: briefcase rice ocean
+oomp_word_emoji: ':briefcase: :rice: :ocean:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':rice:'
+- ':ocean:'
+oomp_word_list:
+- briefcase
+- rice
+- ocean
+part_number: ''
+size: bolt
+type: part

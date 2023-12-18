@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+id_no_color: 7pinthroughholerightangle
+id_no_size: 7_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_7_pin_through_hole_right_angle
+manufacturer: ''
+md5: dd47bf215b0585ba1232fc08f4aa27ef
+md5_10: dd47bf215b
+md5_10_upper: DD47BF215B
+md5_5: dd47b
+md5_5_upper: DD47B
+md5_6: dd47bf
+md5_6_alpha: 8mtof
+md5_6_alpha_upper: 8MTOF
+md5_6_upper: DD47BF
+name: Electronic Header 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
+name_no_color: 7Pinthroughholerightangle
+name_no_size: 7 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+oomp_word: stars baby_chick egg
+oomp_word_emoji: ':stars: :baby_chick: :egg:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':baby_chick:'
+- ':egg:'
+oomp_word_list:
+- stars
+- baby_chick
+- egg
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

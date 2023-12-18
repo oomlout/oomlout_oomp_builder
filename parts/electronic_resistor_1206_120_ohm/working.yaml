@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120_ohm
+directory: parts/electronic_resistor_1206_120_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm
+id: electronic_resistor_1206_120_ohm
+id_no_class: resistor_1206_120_ohm
+id_no_color: 120ohm
+id_no_size: 120_ohm
+id_no_type: 1206_120_ohm
+manufacturer: ''
+md5: 8485d9d82ce8a4b9eec0782b28a43d1e
+md5_10: 8485d9d82c
+md5_10_upper: 8485D9D82C
+md5_5: 8485d
+md5_5_upper: 8485D
+md5_6: 8485d9
+md5_6_alpha: 565eh
+md5_6_alpha_upper: 565EH
+md5_6_upper: 8485D9
+name: Electronic Resistor 1206 120 Ohm
+name_no_class: Resistor 1206 120 Ohm
+name_no_color: 120Ohm
+name_no_size: 120 Ohm
+name_no_type: 1206 120 Ohm
+oomp_key: oomp_electronic_resistor_1206_120_ohm
+oomp_word: key bulb bank
+oomp_word_emoji: ':key: :bulb: :bank:'
+oomp_word_emoji_list:
+- ':key:'
+- ':bulb:'
+- ':bank:'
+oomp_word_list:
+- key
+- bulb
+- bank
+part_number: ''
+size: '1206'
+type: resistor

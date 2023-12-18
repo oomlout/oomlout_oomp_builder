@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0109ex30teethshieldshmotorgearmotorttmotor01
+id_no_size: 01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: 5eb1391a822c7bd46c7fd24180fb88f7
+md5_10: 5eb1391a82
+md5_10_upper: 5EB1391A82
+md5_5: 5eb13
+md5_5_upper: 5EB13
+md5_6: 5eb139
+md5_6_alpha: 3p0e1
+md5_6_alpha_upper: 3P0E1
+md5_6_upper: 5EB139
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Motor Gearmotor Tt Motor
+  01
+name_no_color: 0109Ex30Teethshieldshmotorgearmotorttmotor01
+name_no_size: 01 09 Ex 30 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Shield Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_shield_sh_motor_gearmotor_tt_motor_01
+oomp_word: crocodile briefcase tiger
+oomp_word_emoji: ':crocodile: :briefcase: :tiger:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':briefcase:'
+- ':tiger:'
+oomp_word_list:
+- crocodile
+- briefcase
+- tiger
+part_number: ''
+size: pulley_gt2
+type: part

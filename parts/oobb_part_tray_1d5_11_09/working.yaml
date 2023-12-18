@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_11_09
+directory: parts/oobb_part_tray_1d5_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_11_09
+id: oobb_part_tray_1d5_11_09
+id_no_class: part_tray_1d5_11_09
+id_no_color: 1d51109
+id_no_size: 1d5_11_09
+id_no_type: tray_1d5_11_09
+manufacturer: ''
+md5: 3d8724a9d2c8b6d65c8544654890ca2d
+md5_10: 3d8724a9d2
+md5_10_upper: 3D8724A9D2
+md5_5: 3d872
+md5_5_upper: 3D872
+md5_6: 3d8724
+md5_6_alpha: 2efc4
+md5_6_alpha_upper: 2EFC4
+md5_6_upper: 3D8724
+name: Oobb Part Tray 1D5 11 09
+name_no_class: Part Tray 1D5 11 09
+name_no_color: 1D51109
+name_no_size: 1D5 11 09
+name_no_type: Tray 1D5 11 09
+oomp_key: oomp_oobb_part_tray_1d5_11_09
+oomp_word: cow toilet droplet
+oomp_word_emoji: ':cow: :toilet: :droplet:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':toilet:'
+- ':droplet:'
+oomp_word_list:
+- cow
+- toilet
+- droplet
+part_number: ''
+size: tray
+type: part

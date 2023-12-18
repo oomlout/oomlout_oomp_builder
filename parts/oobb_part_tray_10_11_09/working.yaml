@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_11_09'
+directory: parts/oobb_part_tray_10_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_11_09
+id: oobb_part_tray_10_11_09
+id_no_class: part_tray_10_11_09
+id_no_color: '101109'
+id_no_size: '10_11_09'
+id_no_type: tray_10_11_09
+manufacturer: ''
+md5: dc42c1908fa30bfc8524a65604117288
+md5_10: dc42c1908f
+md5_10_upper: DC42C1908F
+md5_5: dc42c
+md5_5_upper: DC42C
+md5_6: dc42c1
+md5_6_alpha: 8le4h
+md5_6_alpha_upper: 8LE4H
+md5_6_upper: DC42C1
+name: Oobb Part Tray 10 11 09
+name_no_class: Part Tray 10 11 09
+name_no_color: '101109'
+name_no_size: 10 11 09
+name_no_type: Tray 10 11 09
+oomp_key: oomp_oobb_part_tray_10_11_09
+oomp_word: factory sheep doughnut
+oomp_word_emoji: ':factory: :sheep: :doughnut:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':sheep:'
+- ':doughnut:'
+oomp_word_list:
+- factory
+- sheep
+- doughnut
+part_number: ''
+size: tray
+type: part

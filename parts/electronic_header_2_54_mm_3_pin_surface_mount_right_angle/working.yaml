@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_3_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_3_pin_surface_mount_right_angle
+id_no_color: 3pinsurfacemountrightangle
+id_no_size: 3_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_3_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 41cf27278a083deea34f2909545f16ec
+md5_10: 41cf27278a
+md5_10_upper: 41CF27278A
+md5_5: 41cf2
+md5_5_upper: 41CF2
+md5_6: 41cf27
+md5_6_alpha: 2kftz
+md5_6_alpha_upper: 2KFTZ
+md5_6_upper: 41CF27
+name: Electronic Header 2 54 Mm 3 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 3 Pin Surface Mount Right Angle
+name_no_color: 3Pinsurfacemountrightangle
+name_no_size: 3 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 3 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_surface_mount_right_angle
+oomp_word: camel melon nose
+oomp_word_emoji: ':camel: :melon: :nose:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':melon:'
+- ':nose:'
+oomp_word_list:
+- camel
+- melon
+- nose
+part_number: ''
+size: 2_54_mm
+type: header

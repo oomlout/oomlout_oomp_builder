@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '29_01_03'
+directory: parts/oobb_part_plate_29_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_29_01_03
+id: oobb_part_plate_29_01_03
+id_no_class: part_plate_29_01_03
+id_no_color: '290103'
+id_no_size: '29_01_03'
+id_no_type: plate_29_01_03
+manufacturer: ''
+md5: ae9296fb2548eb930205a40a2915e20f
+md5_10: ae9296fb25
+md5_10_upper: AE9296FB25
+md5_5: ae929
+md5_5_upper: AE929
+md5_6: ae9296
+md5_6_alpha: 6t7rq
+md5_6_alpha_upper: 6T7RQ
+md5_6_upper: AE9296
+name: Oobb Part Plate 29 01 03
+name_no_class: Part Plate 29 01 03
+name_no_color: '290103'
+name_no_size: 29 01 03
+name_no_type: Plate 29 01 03
+oomp_key: oomp_oobb_part_plate_29_01_03
+oomp_word: jeans paperclip basketball
+oomp_word_emoji: ':jeans: :paperclip: :basketball:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':paperclip:'
+- ':basketball:'
+oomp_word_list:
+- jeans
+- paperclip
+- basketball
+part_number: ''
+size: plate
+type: part

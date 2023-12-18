@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2200_ohm
+directory: parts/electronic_resistor_1206_2200_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_2200_ohm
+id: electronic_resistor_1206_2200_ohm
+id_no_class: resistor_1206_2200_ohm
+id_no_color: 2200ohm
+id_no_size: 2200_ohm
+id_no_type: 1206_2200_ohm
+manufacturer: ''
+md5: dee45bb538be34dace16d94da13c3851
+md5_10: dee45bb538
+md5_10_upper: DEE45BB538
+md5_5: dee45
+md5_5_upper: DEE45
+md5_6: dee45b
+md5_6_alpha: 8p36j
+md5_6_alpha_upper: 8P36J
+md5_6_upper: DEE45B
+name: Electronic Resistor 1206 2200 Ohm
+name_no_class: Resistor 1206 2200 Ohm
+name_no_color: 2200Ohm
+name_no_size: 2200 Ohm
+name_no_type: 1206 2200 Ohm
+oomp_key: oomp_electronic_resistor_1206_2200_ohm
+oomp_word: rainbow anchor rooster
+oomp_word_emoji: ':rainbow: :anchor: :rooster:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':anchor:'
+- ':rooster:'
+oomp_word_list:
+- rainbow
+- anchor
+- rooster
+part_number: ''
+size: '1206'
+type: resistor

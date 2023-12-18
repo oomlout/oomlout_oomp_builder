@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 9_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+id_no_color: 9pinsurfacemountrightangle
+id_no_size: 9_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 19e5b2e0753f28f0251859434bca6b19
+md5_10: 19e5b2e075
+md5_10_upper: 19E5B2E075
+md5_5: 19e5b
+md5_5_upper: 19E5B
+md5_6: 19e5b2
+md5_6_alpha: 10dki
+md5_6_alpha_upper: 10DKI
+md5_6_upper: 19E5B2
+name: Electronic Header 2 5 Mm Jst Xh 9 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 9 Pin Surface Mount Right Angle
+name_no_color: 9Pinsurfacemountrightangle
+name_no_size: 9 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 9 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_9_pin_surface_mount_right_angle
+oomp_word: pray rocket handbag
+oomp_word_emoji: ':pray: :rocket: :handbag:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':rocket:'
+- ':handbag:'
+oomp_word_list:
+- pray
+- rocket
+- handbag
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

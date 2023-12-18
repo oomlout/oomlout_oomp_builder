@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x13_26_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x13_26_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x13_26_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x13_26_pin_surface_mount
+id_no_color: 2x1326pinsurfacemount
+id_no_size: 2x13_26_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x13_26_pin_surface_mount
+manufacturer: ''
+md5: 3154214c22145552f96700453b430cfe
+md5_10: 3154214c22
+md5_10_upper: 3154214C22
+md5_5: '31542'
+md5_5_upper: '31542'
+md5_6: '315421'
+md5_6_alpha: 1xag1
+md5_6_alpha_upper: 1XAG1
+md5_6_upper: '315421'
+name: Electronic Header 2 54 Mm Dual Row 2X13 26 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X13 26 Pin Surface Mount
+name_no_color: 2X1326Pinsurfacemount
+name_no_size: 2X13 26 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X13 26 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x13_26_pin_surface_mount
+oomp_word: ocean whale feet
+oomp_word_emoji: ':ocean: :whale: :feet:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':whale:'
+- ':feet:'
+oomp_word_list:
+- ocean
+- whale
+- feet
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6326_size
+description_extra: ''
+description_main: 130_mm_id_280_mm_od_58_mm_depth
+directory: parts/hardware_bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+id: hardware_bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+id_no_class: bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+id_no_color: 130_mm_id_280_mm_od_58_mm_depth
+id_no_size: 6326_size_130_mm_id_280_mm_od_58_mm_depth
+id_no_type: 6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+manufacturer: ''
+md5: 57bdf599391f583d14e3655d44827db4
+md5_10: 57bdf59939
+md5_10_upper: 57BDF59939
+md5_5: 57bdf
+md5_5_upper: 57BDF
+md5_6: 57bdf5
+md5_6_alpha: 3f8xh
+md5_6_alpha_upper: 3F8XH
+md5_6_upper: 57BDF5
+name: Hardware Bearing 6300 Series 6326 Size 130 Mm Id 280 Mm Od 58 Mm Depth
+name_no_class: Bearing 6300 Series 6326 Size 130 Mm Id 280 Mm Od 58 Mm Depth
+name_no_color: 130 Mm Id 280 Mm Od 58 Mm Depth
+name_no_size: 6326 Size 130 Mm Id 280 Mm Od 58 Mm Depth
+name_no_type: 6300 Series 6326 Size 130 Mm Id 280 Mm Od 58 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
+oomp_word: rat rice four
+oomp_word_emoji: ':rat: :rice: :four:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':rice:'
+- ':four:'
+oomp_word_list:
+- rat
+- rice
+- four
+part_number: ''
+size: 6300_series
+type: bearing

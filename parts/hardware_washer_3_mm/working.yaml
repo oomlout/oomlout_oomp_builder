@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_3_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_3_mm
+id: hardware_washer_3_mm
+id_no_class: washer_3_mm
+id_no_color: 3mm
+id_no_size: 3_mm
+id_no_type: 3_mm
+manufacturer: ''
+md5: 29319778cb2dcb8f43f6e9c9fbeef7e0
+md5_10: 29319778cb
+md5_10_upper: 29319778CB
+md5_5: '29319'
+md5_5_upper: '29319'
+md5_6: '293197'
+md5_6_alpha: 1lv2v
+md5_6_alpha_upper: 1LV2V
+md5_6_upper: '293197'
+name: Hardware Washer 3 Mm
+name_no_class: Washer 3 Mm
+name_no_color: 3Mm
+name_no_size: 3 Mm
+name_no_type: 3 Mm
+oomp_key: oomp_hardware_washer_3_mm
+oomp_word: sunny ocean baseball
+oomp_word_emoji: ':sunny: :ocean: :baseball:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':ocean:'
+- ':baseball:'
+oomp_word_list:
+- sunny
+- ocean
+- baseball
+part_number: ''
+size: 3_mm
+type: washer

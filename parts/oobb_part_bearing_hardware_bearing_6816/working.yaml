@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6816
+directory: parts/oobb_part_bearing_hardware_bearing_6816
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6816
+id: oobb_part_bearing_hardware_bearing_6816
+id_no_class: part_bearing_hardware_bearing_6816
+id_no_color: hardware6816
+id_no_size: hardware_6816
+id_no_type: bearing_hardware_bearing_6816
+manufacturer: ''
+md5: 21145563a61c145fcf443fc106a2e309
+md5_10: 21145563a6
+md5_10_upper: 21145563A6
+md5_5: '21145'
+md5_5_upper: '21145'
+md5_6: '211455'
+md5_6_alpha: 1agr9
+md5_6_alpha_upper: 1AGR9
+md5_6_upper: '211455'
+name: Oobb Part Bearing Hardware Bearing 6816
+name_no_class: Part Bearing Hardware Bearing 6816
+name_no_color: Hardware6816
+name_no_size: Hardware 6816
+name_no_type: Bearing Hardware Bearing 6816
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6816
+oomp_word: feet fire dolphin
+oomp_word_emoji: ':feet: :fire: :dolphin:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':fire:'
+- ':dolphin:'
+oomp_word_list:
+- feet
+- fire
+- dolphin
+part_number: ''
+size: bearing
+type: part

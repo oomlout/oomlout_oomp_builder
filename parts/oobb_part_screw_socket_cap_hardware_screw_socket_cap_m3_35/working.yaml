@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_35
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_35
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_35
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_35
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_35
+id_no_color: hardwarem335
+id_no_size: hardware_m3_35
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_35
+manufacturer: ''
+md5: f78306b79c67dcec34761686616757ef
+md5_10: f78306b79c
+md5_10_upper: F78306B79C
+md5_5: f7830
+md5_5_upper: F7830
+md5_6: f78306
+md5_6_alpha: 9no5i
+md5_6_alpha_upper: 9NO5I
+md5_6_upper: F78306
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 35
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 35
+name_no_color: Hardwarem335
+name_no_size: Hardware M3 35
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 35
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_35
+oomp_word: six lock sleeping
+oomp_word_emoji: ':six: :lock: :sleeping:'
+oomp_word_emoji_list:
+- ':six:'
+- ':lock:'
+- ':sleeping:'
+oomp_word_list:
+- six
+- lock
+- sleeping
+part_number: ''
+size: screw_socket_cap
+type: part

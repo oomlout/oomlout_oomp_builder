@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_01_12'
+directory: parts/oobb_part_plate_21_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_01_12
+id: oobb_part_plate_21_01_12
+id_no_class: part_plate_21_01_12
+id_no_color: '210112'
+id_no_size: '21_01_12'
+id_no_type: plate_21_01_12
+manufacturer: ''
+md5: 620a6453dc13bf76317d49585a447aa4
+md5_10: 620a6453dc
+md5_10_upper: 620A6453DC
+md5_5: 620a6
+md5_5_upper: 620A6
+md5_6: 620a64
+md5_6_alpha: 3tppg
+md5_6_alpha_upper: 3TPPG
+md5_6_upper: 620A64
+name: Oobb Part Plate 21 01 12
+name_no_class: Part Plate 21 01 12
+name_no_color: '210112'
+name_no_size: 21 01 12
+name_no_type: Plate 21 01 12
+oomp_key: oomp_oobb_part_plate_21_01_12
+oomp_word: tulip sleepy sunflower
+oomp_word_emoji: ':tulip: :sleepy: :sunflower:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':sleepy:'
+- ':sunflower:'
+oomp_word_list:
+- tulip
+- sleepy
+- sunflower
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_c
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_c
+id: oobb_part_bunting_alphabet_07_01_ex_c
+id_no_class: part_bunting_alphabet_07_01_ex_c
+id_no_color: 0701exc
+id_no_size: 07_01_ex_c
+id_no_type: bunting_alphabet_07_01_ex_c
+manufacturer: ''
+md5: 13155a6e393ae31e7e700a76f5c7a9d0
+md5_10: 13155a6e39
+md5_10_upper: 13155A6E39
+md5_5: '13155'
+md5_5_upper: '13155'
+md5_6: 13155a
+md5_6_alpha: qt0a
+md5_6_alpha_upper: QT0A
+md5_6_upper: 13155A
+name: Oobb Part Bunting Alphabet 07 01 Ex C
+name_no_class: Part Bunting Alphabet 07 01 Ex C
+name_no_color: 0701Exc
+name_no_size: 07 01 Ex C
+name_no_type: Bunting Alphabet 07 01 Ex C
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_c
+oomp_word: question poop goat
+oomp_word_emoji: ':question: :poop: :goat:'
+oomp_word_emoji_list:
+- ':question:'
+- ':poop:'
+- ':goat:'
+oomp_word_list:
+- question
+- poop
+- goat
+part_number: ''
+size: bunting_alphabet
+type: part

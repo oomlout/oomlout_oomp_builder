@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_16_teeth
+directory: parts/oobb_part_pulley_gt2_01_06_ex_16_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_16_teeth
+id: oobb_part_pulley_gt2_01_06_ex_16_teeth
+id_no_class: part_pulley_gt2_01_06_ex_16_teeth
+id_no_color: 0106ex16teeth
+id_no_size: 01_06_ex_16_teeth
+id_no_type: pulley_gt2_01_06_ex_16_teeth
+manufacturer: ''
+md5: 357a319eb4ea29f776bd8ae805aa8fe8
+md5_10: 357a319eb4
+md5_10_upper: 357A319EB4
+md5_5: 357a3
+md5_5_upper: 357A3
+md5_6: 357a31
+md5_6_alpha: 2348h
+md5_6_alpha_upper: 2348H
+md5_6_upper: 357A31
+name: Oobb Part Pulley Gt2 01 06 Ex 16 Teeth
+name_no_class: Part Pulley Gt2 01 06 Ex 16 Teeth
+name_no_color: 0106Ex16Teeth
+name_no_size: 01 06 Ex 16 Teeth
+name_no_type: Pulley Gt2 01 06 Ex 16 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_16_teeth
+oomp_word: hamster camera ocean
+oomp_word_emoji: ':hamster: :camera: :ocean:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':camera:'
+- ':ocean:'
+oomp_word_list:
+- hamster
+- camera
+- ocean
+part_number: ''
+size: pulley_gt2
+type: part

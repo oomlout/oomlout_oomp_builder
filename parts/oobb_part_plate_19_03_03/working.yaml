@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_03_03'
+directory: parts/oobb_part_plate_19_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_03_03
+id: oobb_part_plate_19_03_03
+id_no_class: part_plate_19_03_03
+id_no_color: '190303'
+id_no_size: '19_03_03'
+id_no_type: plate_19_03_03
+manufacturer: ''
+md5: 67a1cc363bf5955a81414d16bb169937
+md5_10: 67a1cc363b
+md5_10_upper: 67A1CC363B
+md5_5: 67a1c
+md5_5_upper: 67A1C
+md5_6: 67a1cc
+md5_6_alpha: 41kgc
+md5_6_alpha_upper: 41KGC
+md5_6_upper: 67A1CC
+name: Oobb Part Plate 19 03 03
+name_no_class: Part Plate 19 03 03
+name_no_color: '190303'
+name_no_size: 19 03 03
+name_no_type: Plate 19 03 03
+oomp_key: oomp_oobb_part_plate_19_03_03
+oomp_word: herb trophy watermelon
+oomp_word_emoji: ':herb: :trophy: :watermelon:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':trophy:'
+- ':watermelon:'
+oomp_word_list:
+- herb
+- trophy
+- watermelon
+part_number: ''
+size: plate
+type: part

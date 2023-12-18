@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_10_15
+directory: parts/oobb_part_tray_09_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_15
+id: oobb_part_tray_09_10_15
+id_no_class: part_tray_09_10_15
+id_no_color: 091015
+id_no_size: 09_10_15
+id_no_type: tray_09_10_15
+manufacturer: ''
+md5: 6170abe8e8065970879208e07c4fc06c
+md5_10: 6170abe8e8
+md5_10_upper: 6170ABE8E8
+md5_5: 6170a
+md5_5_upper: 6170A
+md5_6: 6170ab
+md5_6_alpha: 3svcb
+md5_6_alpha_upper: 3SVCB
+md5_6_upper: 6170AB
+name: Oobb Part Tray 09 10 15
+name_no_class: Part Tray 09 10 15
+name_no_color: 091015
+name_no_size: 09 10 15
+name_no_type: Tray 09 10 15
+oomp_key: oomp_oobb_part_tray_09_10_15
+oomp_word: bouquet squirrel boot
+oomp_word_emoji: ':bouquet: :squirrel: :boot:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':squirrel:'
+- ':boot:'
+oomp_word_list:
+- bouquet
+- squirrel
+- boot
+part_number: ''
+size: tray
+type: part

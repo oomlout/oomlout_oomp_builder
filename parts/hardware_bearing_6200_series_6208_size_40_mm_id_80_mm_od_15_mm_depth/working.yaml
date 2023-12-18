@@ -1,0 +1,40 @@
+classification: hardware
+color: 6208_size
+description_extra: ''
+description_main: 40_mm_id_80_mm_od_15_mm_depth
+directory: parts/hardware_bearing_6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+id: hardware_bearing_6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+id_no_class: bearing_6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+id_no_color: 40_mm_id_80_mm_od_15_mm_depth
+id_no_size: 6208_size_40_mm_id_80_mm_od_15_mm_depth
+id_no_type: 6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+manufacturer: ''
+md5: 5d9d9d8120273c998a7261de27c3be57
+md5_10: 5d9d9d8120
+md5_10_upper: 5D9D9D8120
+md5_5: 5d9d9
+md5_5_upper: 5D9D9
+md5_6: 5d9d9d
+md5_6_alpha: 3nhy5
+md5_6_alpha_upper: 3NHY5
+md5_6_upper: 5D9D9D
+name: Hardware Bearing 6200 Series 6208 Size 40 Mm Id 80 Mm Od 15 Mm Depth
+name_no_class: Bearing 6200 Series 6208 Size 40 Mm Id 80 Mm Od 15 Mm Depth
+name_no_color: 40 Mm Id 80 Mm Od 15 Mm Depth
+name_no_size: 6208 Size 40 Mm Id 80 Mm Od 15 Mm Depth
+name_no_type: 6200 Series 6208 Size 40 Mm Id 80 Mm Od 15 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6208_size_40_mm_id_80_mm_od_15_mm_depth
+oomp_word: blowfish hearts hearts
+oomp_word_emoji: ':blowfish: :hearts: :hearts:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':hearts:'
+- ':hearts:'
+oomp_word_list:
+- blowfish
+- hearts
+- hearts
+part_number: ''
+size: 6200_series
+type: bearing

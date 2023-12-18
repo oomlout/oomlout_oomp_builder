@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 13_pin
+directory: parts/electronic_header_2_54_mm_13_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount
+id: electronic_header_2_54_mm_13_pin_surface_mount
+id_no_class: header_2_54_mm_13_pin_surface_mount
+id_no_color: 13pinsurfacemount
+id_no_size: 13_pin_surface_mount
+id_no_type: 2_54_mm_13_pin_surface_mount
+manufacturer: ''
+md5: e87ac11f6c236d4cc6cdcd55a711b3a5
+md5_10: e87ac11f6c
+md5_10_upper: E87AC11F6C
+md5_5: e87ac
+md5_5_upper: E87AC
+md5_6: e87ac1
+md5_6_alpha: 92k01
+md5_6_alpha_upper: 92K01
+md5_6_upper: E87AC1
+name: Electronic Header 2 54 Mm 13 Pin Surface Mount
+name_no_class: Header 2 54 Mm 13 Pin Surface Mount
+name_no_color: 13Pinsurfacemount
+name_no_size: 13 Pin Surface Mount
+name_no_type: 2 54 Mm 13 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_13_pin_surface_mount
+oomp_word: tram camera doughnut
+oomp_word_emoji: ':tram: :camera: :doughnut:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':camera:'
+- ':doughnut:'
+oomp_word_list:
+- tram
+- camera
+- doughnut
+part_number: ''
+size: 2_54_mm
+type: header

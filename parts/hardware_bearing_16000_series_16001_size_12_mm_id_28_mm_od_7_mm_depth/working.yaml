@@ -1,0 +1,40 @@
+classification: hardware
+color: 16001_size
+description_extra: ''
+description_main: 12_mm_id_28_mm_od_7_mm_depth
+directory: parts/hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+id: hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+id_no_class: bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+id_no_color: 12_mm_id_28_mm_od_7_mm_depth
+id_no_size: 16001_size_12_mm_id_28_mm_od_7_mm_depth
+id_no_type: 16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+manufacturer: ''
+md5: 7058c5bfe26357825a425247103ce5f8
+md5_10: 7058c5bfe2
+md5_10_upper: 7058C5BFE2
+md5_5: 7058c
+md5_5_upper: 7058C
+md5_6: 7058c5
+md5_6_alpha: 4dt51
+md5_6_alpha_upper: 4DT51
+md5_6_upper: 7058C5
+name: Hardware Bearing 16000 Series 16001 Size 12 Mm Id 28 Mm Od 7 Mm Depth
+name_no_class: Bearing 16000 Series 16001 Size 12 Mm Id 28 Mm Od 7 Mm Depth
+name_no_color: 12 Mm Id 28 Mm Od 7 Mm Depth
+name_no_size: 16001 Size 12 Mm Id 28 Mm Od 7 Mm Depth
+name_no_type: 16000 Series 16001 Size 12 Mm Id 28 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
+oomp_word: squirrel water_buffalo candy
+oomp_word_emoji: ':squirrel: :water_buffalo: :candy:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':water_buffalo:'
+- ':candy:'
+oomp_word_list:
+- squirrel
+- water_buffalo
+- candy
+part_number: ''
+size: 16000_series
+type: bearing

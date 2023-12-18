@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_14_03'
+directory: parts/oobb_part_plate_15_14_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_14_03
+id: oobb_part_plate_15_14_03
+id_no_class: part_plate_15_14_03
+id_no_color: '151403'
+id_no_size: '15_14_03'
+id_no_type: plate_15_14_03
+manufacturer: ''
+md5: 429457224acdc4315b6a14aa60cf9b59
+md5_10: 429457224a
+md5_10_upper: 429457224A
+md5_5: '42945'
+md5_5_upper: '42945'
+md5_6: '429457'
+md5_6_alpha: 2lis7
+md5_6_alpha_upper: 2LIS7
+md5_6_upper: '429457'
+name: Oobb Part Plate 15 14 03
+name_no_class: Part Plate 15 14 03
+name_no_color: '151403'
+name_no_size: 15 14 03
+name_no_type: Plate 15 14 03
+oomp_key: oomp_oobb_part_plate_15_14_03
+oomp_word: sheep microscope rat
+oomp_word_emoji: ':sheep: :microscope: :rat:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':microscope:'
+- ':rat:'
+oomp_word_list:
+- sheep
+- microscope
+- rat
+part_number: ''
+size: plate
+type: part

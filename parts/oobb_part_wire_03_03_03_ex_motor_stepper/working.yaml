@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_motor_stepper
+directory: parts/oobb_part_wire_03_03_03_ex_motor_stepper
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03_ex_motor_stepper
+id: oobb_part_wire_03_03_03_ex_motor_stepper
+id_no_class: part_wire_03_03_03_ex_motor_stepper
+id_no_color: 030303exmotorstepper
+id_no_size: 03_03_03_ex_motor_stepper
+id_no_type: wire_03_03_03_ex_motor_stepper
+manufacturer: ''
+md5: 680c945c859d2fd32d007695d0fa2e6b
+md5_10: 680c945c85
+md5_10_upper: 680C945C85
+md5_5: 680c9
+md5_5_upper: 680C9
+md5_6: 680c94
+md5_6_alpha: 425jo
+md5_6_alpha_upper: 425JO
+md5_6_upper: 680C94
+name: Oobb Part Wire 03 03 03 Ex Motor Stepper
+name_no_class: Part Wire 03 03 03 Ex Motor Stepper
+name_no_color: 030303Exmotorstepper
+name_no_size: 03 03 03 Ex Motor Stepper
+name_no_type: Wire 03 03 03 Ex Motor Stepper
+oomp_key: oomp_oobb_part_wire_03_03_03_ex_motor_stepper
+oomp_word: mushroom alien microscope
+oomp_word_emoji: ':mushroom: :alien: :microscope:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':alien:'
+- ':microscope:'
+oomp_word_list:
+- mushroom
+- alien
+- microscope
+part_number: ''
+size: wire
+type: part

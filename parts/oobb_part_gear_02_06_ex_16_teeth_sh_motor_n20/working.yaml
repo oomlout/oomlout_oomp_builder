@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_16_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_02_06_ex_16_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06_ex_16_teeth_sh_motor_n20
+id: oobb_part_gear_02_06_ex_16_teeth_sh_motor_n20
+id_no_class: part_gear_02_06_ex_16_teeth_sh_motor_n20
+id_no_color: 0206ex16teethshmotorn20
+id_no_size: 02_06_ex_16_teeth_sh_motor_n20
+id_no_type: gear_02_06_ex_16_teeth_sh_motor_n20
+manufacturer: ''
+md5: 7418af9809b81a6bf92f2ea32978e068
+md5_10: 7418af9809
+md5_10_upper: 7418AF9809
+md5_5: 7418a
+md5_5_upper: 7418A
+md5_6: 7418af
+md5_6_alpha: 4j2r3
+md5_6_alpha_upper: 4J2R3
+md5_6_upper: 7418AF
+name: Oobb Part Gear 02 06 Ex 16 Teeth Sh Motor N20
+name_no_class: Part Gear 02 06 Ex 16 Teeth Sh Motor N20
+name_no_color: 0206Ex16Teethshmotorn20
+name_no_size: 02 06 Ex 16 Teeth Sh Motor N20
+name_no_type: Gear 02 06 Ex 16 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_02_06_ex_16_teeth_sh_motor_n20
+oomp_word: fireworks hand tophat
+oomp_word_emoji: ':fireworks: :hand: :tophat:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':hand:'
+- ':tophat:'
+oomp_word_list:
+- fireworks
+- hand
+- tophat
+part_number: ''
+size: gear
+type: part

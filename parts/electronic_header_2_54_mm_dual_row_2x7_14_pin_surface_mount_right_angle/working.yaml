@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x7_14_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+id_no_color: 2x714pinsurfacemountrightangle
+id_no_size: 2x7_14_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 2b526876e1ad1400229361bf722e1fab
+md5_10: 2b526876e1
+md5_10_upper: 2B526876E1
+md5_5: 2b526
+md5_5_upper: 2B526
+md5_6: 2b5268
+md5_6_alpha: 1oup4
+md5_6_alpha_upper: 1OUP4
+md5_6_upper: 2B5268
+name: Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X7 14 Pin Surface Mount Right Angle
+name_no_color: 2X714Pinsurfacemountrightangle
+name_no_size: 2X7 14 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X7 14 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle
+oomp_word: cloud octopus mushroom
+oomp_word_emoji: ':cloud: :octopus: :mushroom:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':octopus:'
+- ':mushroom:'
+oomp_word_list:
+- cloud
+- octopus
+- mushroom
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

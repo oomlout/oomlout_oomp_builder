@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_04_12'
+directory: parts/oobb_part_tray_thin_05_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_04_12
+id: oobb_part_tray_thin_05_04_12
+id_no_class: part_tray_thin_05_04_12
+id_no_color: '050412'
+id_no_size: '05_04_12'
+id_no_type: tray_thin_05_04_12
+manufacturer: ''
+md5: 3875ddb6f36f0d99195bb05218823c28
+md5_10: 3875ddb6f3
+md5_10_upper: 3875DDB6F3
+md5_5: 3875d
+md5_5_upper: 3875D
+md5_6: 3875dd
+md5_6_alpha: 27b31
+md5_6_alpha_upper: 27B31
+md5_6_upper: 3875DD
+name: Oobb Part Tray Thin 05 04 12
+name_no_class: Part Tray Thin 05 04 12
+name_no_color: '050412'
+name_no_size: 05 04 12
+name_no_type: Tray Thin 05 04 12
+oomp_key: oomp_oobb_part_tray_thin_05_04_12
+oomp_word: frog ghost stars
+oomp_word_emoji: ':frog: :ghost: :stars:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':ghost:'
+- ':stars:'
+oomp_word_list:
+- frog
+- ghost
+- stars
+part_number: ''
+size: tray_thin
+type: part

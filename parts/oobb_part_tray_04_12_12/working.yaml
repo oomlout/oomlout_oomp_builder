@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_12_12'
+directory: parts/oobb_part_tray_04_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_12
+id: oobb_part_tray_04_12_12
+id_no_class: part_tray_04_12_12
+id_no_color: '041212'
+id_no_size: '04_12_12'
+id_no_type: tray_04_12_12
+manufacturer: ''
+md5: b88ec2d3e010b910ded4971339a0d42f
+md5_10: b88ec2d3e0
+md5_10_upper: B88EC2D3E0
+md5_5: b88ec
+md5_5_upper: B88EC
+md5_6: b88ec2
+md5_6_alpha: 778oy
+md5_6_alpha_upper: 778OY
+md5_6_upper: B88EC2
+name: Oobb Part Tray 04 12 12
+name_no_class: Part Tray 04 12 12
+name_no_color: '041212'
+name_no_size: 04 12 12
+name_no_type: Tray 04 12 12
+oomp_key: oomp_oobb_part_tray_04_12_12
+oomp_word: hamburger clipboard birthday
+oomp_word_emoji: ':hamburger: :clipboard: :birthday:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':clipboard:'
+- ':birthday:'
+oomp_word_list:
+- hamburger
+- clipboard
+- birthday
+part_number: ''
+size: tray
+type: part

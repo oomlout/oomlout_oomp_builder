@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 20_pin
+directory: parts/electronic_socket_2_54_mm_20_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole
+id: electronic_socket_2_54_mm_20_pin_through_hole
+id_no_class: socket_2_54_mm_20_pin_through_hole
+id_no_color: 20pinthroughhole
+id_no_size: 20_pin_through_hole
+id_no_type: 2_54_mm_20_pin_through_hole
+manufacturer: ''
+md5: 48927fe0aacdbfe8ac25101aadf5f197
+md5_10: 48927fe0aa
+md5_10_upper: 48927FE0AA
+md5_5: '48927'
+md5_5_upper: '48927'
+md5_6: 48927f
+md5_6_alpha: 2txtr
+md5_6_alpha_upper: 2TXTR
+md5_6_upper: 48927F
+name: Electronic Socket 2 54 Mm 20 Pin Through Hole
+name_no_class: Socket 2 54 Mm 20 Pin Through Hole
+name_no_color: 20Pinthroughhole
+name_no_size: 20 Pin Through Hole
+name_no_type: 2 54 Mm 20 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole
+oomp_word: hatched_chick paperclip speaker
+oomp_word_emoji: ':hatched_chick: :paperclip: :speaker:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':paperclip:'
+- ':speaker:'
+oomp_word_list:
+- hatched_chick
+- paperclip
+- speaker
+part_number: ''
+size: 2_54_mm
+type: socket

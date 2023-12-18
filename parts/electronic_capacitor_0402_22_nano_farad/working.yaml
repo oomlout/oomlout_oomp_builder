@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_nano_farad
+directory: parts/electronic_capacitor_0402_22_nano_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad
+id: electronic_capacitor_0402_22_nano_farad
+id_no_class: capacitor_0402_22_nano_farad
+id_no_color: 22nanofarad
+id_no_size: 22_nano_farad
+id_no_type: 0402_22_nano_farad
+manufacturer: ''
+md5: 1680a357aabbe40624f196a667c0e274
+md5_10: 1680a357aa
+md5_10_upper: 1680A357AA
+md5_5: 1680a
+md5_5_upper: 1680A
+md5_6: 1680a3
+md5_6_alpha: vlwj
+md5_6_alpha_upper: VLWJ
+md5_6_upper: 1680A3
+name: Electronic Capacitor 0402 22 Nano Farad
+name_no_class: Capacitor 0402 22 Nano Farad
+name_no_color: 22Nanofarad
+name_no_size: 22 Nano Farad
+name_no_type: 0402 22 Nano Farad
+oomp_key: oomp_electronic_capacitor_0402_22_nano_farad
+oomp_word: thumbsup hourglass pencil
+oomp_word_emoji: ':thumbsup: :hourglass: :pencil:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':hourglass:'
+- ':pencil:'
+oomp_word_list:
+- thumbsup
+- hourglass
+- pencil
+part_number: ''
+size: '0402'
+type: capacitor

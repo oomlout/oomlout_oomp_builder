@@ -1,0 +1,43 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 20_pin
+directory: parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+id: electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+id_no_class: socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+id_no_color: 20pinthroughholedangerousprototypesraspberrypipicosidea
+id_no_size: 20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+id_no_type: 2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+manufacturer: dangerous_prototypes
+md5: 31f6f93ddb5724006a430c001ae0262c
+md5_10: 31f6f93ddb
+md5_10_upper: 31F6F93DDB
+md5_5: 31f6f
+md5_5_upper: 31F6F
+md5_6: 31f6f9
+md5_6_alpha: 1y6m1
+md5_6_alpha_upper: 1Y6M1
+md5_6_upper: 31F6F9
+name: Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry
+  Pi Pico Side A
+name_no_class: Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi
+  Pico Side A
+name_no_color: 20Pinthroughholedangerousprototypesraspberrypipicosidea
+name_no_size: 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side A
+name_no_type: 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side
+  A
+oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
+oomp_word: ocean five eight
+oomp_word_emoji: ':ocean: :five: :eight:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':five:'
+- ':eight:'
+oomp_word_list:
+- ocean
+- five
+- eight
+part_number: raspberry_pi_pico_side_a
+size: 2_54_mm
+type: socket

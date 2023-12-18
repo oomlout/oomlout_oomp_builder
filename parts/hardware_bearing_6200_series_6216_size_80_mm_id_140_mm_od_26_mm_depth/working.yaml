@@ -1,0 +1,40 @@
+classification: hardware
+color: 6216_size
+description_extra: ''
+description_main: 80_mm_id_140_mm_od_26_mm_depth
+directory: parts/hardware_bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+id: hardware_bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+id_no_class: bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+id_no_color: 80_mm_id_140_mm_od_26_mm_depth
+id_no_size: 6216_size_80_mm_id_140_mm_od_26_mm_depth
+id_no_type: 6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+manufacturer: ''
+md5: 6e6fbde1d818f4b3c7b23a8193065495
+md5_10: 6e6fbde1d8
+md5_10_upper: 6E6FBDE1D8
+md5_5: 6e6fb
+md5_5_upper: 6E6FB
+md5_6: 6e6fbd
+md5_6_alpha: 4b4jh
+md5_6_alpha_upper: 4B4JH
+md5_6_upper: 6E6FBD
+name: Hardware Bearing 6200 Series 6216 Size 80 Mm Id 140 Mm Od 26 Mm Depth
+name_no_class: Bearing 6200 Series 6216 Size 80 Mm Id 140 Mm Od 26 Mm Depth
+name_no_color: 80 Mm Id 140 Mm Od 26 Mm Depth
+name_no_size: 6216 Size 80 Mm Id 140 Mm Od 26 Mm Depth
+name_no_type: 6200 Series 6216 Size 80 Mm Id 140 Mm Od 26 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
+oomp_word: new_moon moon rice
+oomp_word_emoji: ':new_moon: :moon: :rice:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':moon:'
+- ':rice:'
+oomp_word_list:
+- new_moon
+- moon
+- rice
+part_number: ''
+size: 6200_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: hardware
+color: MR117_size
+description_extra: ''
+description_main: 7_mm_id_11_mm_od_3_mm_depth
+directory: parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+id: hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+id_no_class: bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+id_no_color: 7_mm_id_11_mm_od_3_mm_depth
+id_no_size: MR117_size_7_mm_id_11_mm_od_3_mm_depth
+id_no_type: MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+manufacturer: ''
+md5: 82f0397bf9617ea05144fa04181b77b9
+md5_10: 82f0397bf9
+md5_10_upper: 82F0397BF9
+md5_5: 82f03
+md5_5_upper: 82F03
+md5_6: 82f039
+md5_6_alpha: 53xa1
+md5_6_alpha_upper: 53XA1
+md5_6_upper: 82F039
+name: Hardware Bearing Mr Series Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth
+name_no_class: Bearing Mr Series Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth
+name_no_color: 7 Mm Id 11 Mm Od 3 Mm Depth
+name_no_size: Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth
+name_no_type: Mr Series Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth
+oomp_word: radio train tiger
+oomp_word_emoji: ':radio: :train: :tiger:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':train:'
+- ':tiger:'
+oomp_word_list:
+- radio
+- train
+- tiger
+part_number: ''
+size: MR_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_b
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_b
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_b
+id: oobb_part_bunting_alphabet_05_01_ex_b
+id_no_class: part_bunting_alphabet_05_01_ex_b
+id_no_color: 0501exb
+id_no_size: 05_01_ex_b
+id_no_type: bunting_alphabet_05_01_ex_b
+manufacturer: ''
+md5: 431521a9d103e6c2c091dfc2c48ae9b0
+md5_10: 431521a9d1
+md5_10_upper: 431521A9D1
+md5_5: '43152'
+md5_5_upper: '43152'
+md5_6: '431521'
+md5_6_alpha: 2m881
+md5_6_alpha_upper: 2M881
+md5_6_upper: '431521'
+name: Oobb Part Bunting Alphabet 05 01 Ex B
+name_no_class: Part Bunting Alphabet 05 01 Ex B
+name_no_color: 0501Exb
+name_no_size: 05 01 Ex B
+name_no_type: Bunting Alphabet 05 01 Ex B
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_b
+oomp_word: elephant poop feet
+oomp_word_emoji: ':elephant: :poop: :feet:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':poop:'
+- ':feet:'
+oomp_word_list:
+- elephant
+- poop
+- feet
+part_number: ''
+size: bunting_alphabet
+type: part

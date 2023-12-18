@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_prototyping_breadboard_800_point
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point
+id: electronic_prototyping_breadboard_800_point
+id_no_class: prototyping_breadboard_800_point
+id_no_color: 800point
+id_no_size: 800_point
+id_no_type: 800_point
+manufacturer: ''
+md5: aadef41e4c468e356a7983e206b46b62
+md5_10: aadef41e4c
+md5_10_upper: AADEF41E4C
+md5_5: aadef
+md5_5_upper: AADEF
+md5_6: aadef4
+md5_6_alpha: 6o0l0
+md5_6_alpha_upper: 6O0L0
+md5_6_upper: AADEF4
+name: Electronic Prototyping Breadboard 800 Point
+name_no_class: Prototyping Breadboard 800 Point
+name_no_color: 800Point
+name_no_size: 800 Point
+name_no_type: 800 Point
+oomp_key: oomp_electronic_prototyping_breadboard_800_point
+oomp_word: lipstick rainbow three
+oomp_word_emoji: ':lipstick: :rainbow: :three:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':rainbow:'
+- ':three:'
+oomp_word_list:
+- lipstick
+- rainbow
+- three
+part_number: ''
+size: 800_point
+type: prototyping_breadboard

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_2d5_30
+directory: parts/oobb_part_tray_04_2d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30
+id: oobb_part_tray_04_2d5_30
+id_no_class: part_tray_04_2d5_30
+id_no_color: 042d530
+id_no_size: 04_2d5_30
+id_no_type: tray_04_2d5_30
+manufacturer: ''
+md5: 4157baa8ca499117fd21ddad235b13be
+md5_10: 4157baa8ca
+md5_10_upper: 4157BAA8CA
+md5_5: 4157b
+md5_5_upper: 4157B
+md5_6: 4157ba
+md5_6_alpha: 2js8q
+md5_6_alpha_upper: 2JS8Q
+md5_6_upper: 4157BA
+name: Oobb Part Tray 04 2D5 30
+name_no_class: Part Tray 04 2D5 30
+name_no_color: 042D530
+name_no_size: 04 2D5 30
+name_no_type: Tray 04 2D5 30
+oomp_key: oomp_oobb_part_tray_04_2d5_30
+oomp_word: camel rat spaghetti
+oomp_word_emoji: ':camel: :rat: :spaghetti:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':rat:'
+- ':spaghetti:'
+oomp_word_list:
+- camel
+- rat
+- spaghetti
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_18
+directory: parts/oobb_part_tray_vertical_1d5_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_1d5_03_18
+id: oobb_part_tray_vertical_1d5_03_18
+id_no_class: part_tray_vertical_1d5_03_18
+id_no_color: 1d50318
+id_no_size: 1d5_03_18
+id_no_type: tray_vertical_1d5_03_18
+manufacturer: ''
+md5: 794d3969d28cd81a2e1f5b840086e693
+md5_10: 794d3969d2
+md5_10_upper: 794D3969D2
+md5_5: 794d3
+md5_5_upper: 794D3
+md5_6: 794d39
+md5_6_alpha: 4qdyx
+md5_6_alpha_upper: 4QDYX
+md5_6_upper: 794D39
+name: Oobb Part Tray Vertical 1D5 03 18
+name_no_class: Part Tray Vertical 1D5 03 18
+name_no_color: 1D50318
+name_no_size: 1D5 03 18
+name_no_type: Tray Vertical 1D5 03 18
+oomp_key: oomp_oobb_part_tray_vertical_1d5_03_18
+oomp_word: balloon bug tiger
+oomp_word_emoji: ':balloon: :bug: :tiger:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':bug:'
+- ':tiger:'
+oomp_word_list:
+- balloon
+- bug
+- tiger
+part_number: ''
+size: tray_vertical
+type: part

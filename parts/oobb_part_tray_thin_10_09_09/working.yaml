@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_09'
+directory: parts/oobb_part_tray_thin_10_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_09_09
+id: oobb_part_tray_thin_10_09_09
+id_no_class: part_tray_thin_10_09_09
+id_no_color: '100909'
+id_no_size: '10_09_09'
+id_no_type: tray_thin_10_09_09
+manufacturer: ''
+md5: ed960e02d523809644b69a9a7af2cefa
+md5_10: ed960e02d5
+md5_10_upper: ED960E02D5
+md5_5: ed960
+md5_5_upper: ED960
+md5_6: ed960e
+md5_6_alpha: 99q8e
+md5_6_alpha_upper: 99Q8E
+md5_6_upper: ED960E
+name: Oobb Part Tray Thin 10 09 09
+name_no_class: Part Tray Thin 10 09 09
+name_no_color: '100909'
+name_no_size: 10 09 09
+name_no_type: Tray Thin 10 09 09
+oomp_key: oomp_oobb_part_tray_thin_10_09_09
+oomp_word: bus basketball cupid
+oomp_word_emoji: ':bus: :basketball: :cupid:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':basketball:'
+- ':cupid:'
+oomp_word_list:
+- bus
+- basketball
+- cupid
+part_number: ''
+size: tray_thin
+type: part

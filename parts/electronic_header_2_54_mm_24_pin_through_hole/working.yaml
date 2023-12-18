@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 24_pin
+directory: parts/electronic_header_2_54_mm_24_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_through_hole
+id: electronic_header_2_54_mm_24_pin_through_hole
+id_no_class: header_2_54_mm_24_pin_through_hole
+id_no_color: 24pinthroughhole
+id_no_size: 24_pin_through_hole
+id_no_type: 2_54_mm_24_pin_through_hole
+manufacturer: ''
+md5: fb4bf5eed140b48bb090286bda706531
+md5_10: fb4bf5eed1
+md5_10_upper: FB4BF5EED1
+md5_5: fb4bf
+md5_5_upper: FB4BF
+md5_6: fb4bf5
+md5_6_alpha: 9szjp
+md5_6_alpha_upper: 9SZJP
+md5_6_upper: FB4BF5
+name: Electronic Header 2 54 Mm 24 Pin Through Hole
+name_no_class: Header 2 54 Mm 24 Pin Through Hole
+name_no_color: 24Pinthroughhole
+name_no_size: 24 Pin Through Hole
+name_no_type: 2 54 Mm 24 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_24_pin_through_hole
+oomp_word: ok penguin four
+oomp_word_emoji: ':ok: :penguin: :four:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':penguin:'
+- ':four:'
+oomp_word_list:
+- ok
+- penguin
+- four
+part_number: ''
+size: 2_54_mm
+type: header

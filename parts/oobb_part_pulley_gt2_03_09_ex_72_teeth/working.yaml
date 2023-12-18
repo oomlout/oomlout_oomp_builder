@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_09_ex_72_teeth
+directory: parts/oobb_part_pulley_gt2_03_09_ex_72_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_09_ex_72_teeth
+id: oobb_part_pulley_gt2_03_09_ex_72_teeth
+id_no_class: part_pulley_gt2_03_09_ex_72_teeth
+id_no_color: 0309ex72teeth
+id_no_size: 03_09_ex_72_teeth
+id_no_type: pulley_gt2_03_09_ex_72_teeth
+manufacturer: ''
+md5: 9e40ff4373f3b37a561b981bccfdad8a
+md5_10: 9e40ff4373
+md5_10_upper: 9E40FF4373
+md5_5: 9e40f
+md5_5_upper: 9E40F
+md5_6: 9e40ff
+md5_6_alpha: 66akf
+md5_6_alpha_upper: 66AKF
+md5_6_upper: 9E40FF
+name: Oobb Part Pulley Gt2 03 09 Ex 72 Teeth
+name_no_class: Part Pulley Gt2 03 09 Ex 72 Teeth
+name_no_color: 0309Ex72Teeth
+name_no_size: 03 09 Ex 72 Teeth
+name_no_type: Pulley Gt2 03 09 Ex 72 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_03_09_ex_72_teeth
+oomp_word: clubs racehorse trident
+oomp_word_emoji: ':clubs: :racehorse: :trident:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':racehorse:'
+- ':trident:'
+oomp_word_list:
+- clubs
+- racehorse
+- trident
+part_number: ''
+size: pulley_gt2
+type: part

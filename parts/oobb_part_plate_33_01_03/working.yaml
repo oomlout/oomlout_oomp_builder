@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '33_01_03'
+directory: parts/oobb_part_plate_33_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_33_01_03
+id: oobb_part_plate_33_01_03
+id_no_class: part_plate_33_01_03
+id_no_color: '330103'
+id_no_size: '33_01_03'
+id_no_type: plate_33_01_03
+manufacturer: ''
+md5: 826e5fc6cfe2761ffc166e14305fbea3
+md5_10: 826e5fc6cf
+md5_10_upper: 826E5FC6CF
+md5_5: 826e5
+md5_5_upper: 826E5
+md5_6: 826e5f
+md5_6_alpha: 537mn
+md5_6_alpha_upper: 537MN
+md5_6_upper: 826E5F
+name: Oobb Part Plate 33 01 03
+name_no_class: Part Plate 33 01 03
+name_no_color: '330103'
+name_no_size: 33 01 03
+name_no_type: Plate 33 01 03
+oomp_key: oomp_oobb_part_plate_33_01_03
+oomp_word: radio new_moon leopard
+oomp_word_emoji: ':radio: :new_moon: :leopard:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':new_moon:'
+- ':leopard:'
+oomp_word_list:
+- radio
+- new_moon
+- leopard
+part_number: ''
+size: plate
+type: part

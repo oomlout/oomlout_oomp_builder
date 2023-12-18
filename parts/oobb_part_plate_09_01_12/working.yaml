@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_12
+directory: parts/oobb_part_plate_09_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_12
+id: oobb_part_plate_09_01_12
+id_no_class: part_plate_09_01_12
+id_no_color: 090112
+id_no_size: 09_01_12
+id_no_type: plate_09_01_12
+manufacturer: ''
+md5: 74877d840175c292c309c855910797d7
+md5_10: 74877d8401
+md5_10_upper: 74877D8401
+md5_5: '74877'
+md5_5_upper: '74877'
+md5_6: 74877d
+md5_6_alpha: 4jon1
+md5_6_alpha_upper: 4JON1
+md5_6_upper: 74877D
+name: Oobb Part Plate 09 01 12
+name_no_class: Part Plate 09 01 12
+name_no_color: 090112
+name_no_size: 09 01 12
+name_no_type: Plate 09 01 12
+oomp_key: oomp_oobb_part_plate_09_01_12
+oomp_word: fireworks toilet phone
+oomp_word_emoji: ':fireworks: :toilet: :phone:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':toilet:'
+- ':phone:'
+oomp_word_list:
+- fireworks
+- toilet
+- phone
+part_number: ''
+size: plate
+type: part

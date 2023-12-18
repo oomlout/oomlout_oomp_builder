@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_06'
+directory: parts/oobb_part_plate_04_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_06
+id: oobb_part_plate_04_01_06
+id_no_class: part_plate_04_01_06
+id_no_color: '040106'
+id_no_size: '04_01_06'
+id_no_type: plate_04_01_06
+manufacturer: ''
+md5: e6779977a39be866170eea9a42c69a54
+md5_10: e6779977a3
+md5_10_upper: E6779977A3
+md5_5: e6779
+md5_5_upper: E6779
+md5_6: e67799
+md5_6_alpha: 8zq8p
+md5_6_alpha_upper: 8ZQ8P
+md5_6_upper: E67799
+name: Oobb Part Plate 04 01 06
+name_no_class: Part Plate 04 01 06
+name_no_color: '040106'
+name_no_size: 04 01 06
+name_no_type: Plate 04 01 06
+oomp_key: oomp_oobb_part_plate_04_01_06
+oomp_word: airplane gift bowling
+oomp_word_emoji: ':airplane: :gift: :bowling:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':gift:'
+- ':bowling:'
+oomp_word_list:
+- airplane
+- gift
+- bowling
+part_number: ''
+size: plate
+type: part

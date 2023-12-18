@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 19_pin
+directory: parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_19_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_19_pin_surface_mount_right_angle
+id_no_color: 19pinsurfacemountrightangle
+id_no_size: 19_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_19_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 3468da96469aecc0a3eb01e1e8f09d35
+md5_10: 3468da9646
+md5_10_upper: 3468DA9646
+md5_5: 3468d
+md5_5_upper: 3468D
+md5_6: 3468da
+md5_6_alpha: 21m8q
+md5_6_alpha_upper: 21M8Q
+md5_6_upper: 3468DA
+name: Electronic Header 2 54 Mm 19 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 19 Pin Surface Mount Right Angle
+name_no_color: 19Pinsurfacemountrightangle
+name_no_size: 19 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 19 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_19_pin_surface_mount_right_angle
+oomp_word: mouse mushroom hotel
+oomp_word_emoji: ':mouse: :mushroom: :hotel:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':mushroom:'
+- ':hotel:'
+oomp_word_list:
+- mouse
+- mushroom
+- hotel
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: hardware
+color: 5207_size
+description_extra: ''
+description_main: 35_mm_id_72_mm_od_26.9_mm_depth
+directory: parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+id: hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+id_no_class: bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+id_no_color: 35_mm_id_72_mm_od_26.9_mm_depth
+id_no_size: 5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+id_no_type: 5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+manufacturer: ''
+md5: 4dcaaae68a6b5f5d7f9caa3c770d8514
+md5_10: 4dcaaae68a
+md5_10_upper: 4DCAAAE68A
+md5_5: 4dcaa
+md5_5_upper: 4DCAA
+md5_6: 4dcaaa
+md5_6_alpha: 319re
+md5_6_alpha_upper: 319RE
+md5_6_upper: 4DCAAA
+name: Hardware Bearing 5200 Series 5207 Size 35 Mm Id 72 Mm Od 26.9 Mm Depth
+name_no_class: Bearing 5200 Series 5207 Size 35 Mm Id 72 Mm Od 26.9 Mm Depth
+name_no_color: 35 Mm Id 72 Mm Od 26.9 Mm Depth
+name_no_size: 5207 Size 35 Mm Id 72 Mm Od 26.9 Mm Depth
+name_no_type: 5200 Series 5207 Size 35 Mm Id 72 Mm Od 26.9 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
+oomp_word: bug cherries lipstick
+oomp_word_emoji: ':bug: :cherries: :lipstick:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':cherries:'
+- ':lipstick:'
+oomp_word_list:
+- bug
+- cherries
+- lipstick
+part_number: ''
+size: 5200_series
+type: bearing

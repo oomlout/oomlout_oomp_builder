@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '26_01_12'
+directory: parts/oobb_part_plate_26_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_26_01_12
+id: oobb_part_plate_26_01_12
+id_no_class: part_plate_26_01_12
+id_no_color: '260112'
+id_no_size: '26_01_12'
+id_no_type: plate_26_01_12
+manufacturer: ''
+md5: fec22fdd6464817983eb010f0b9b08a2
+md5_10: fec22fdd64
+md5_10_upper: FEC22FDD64
+md5_5: fec22
+md5_5_upper: FEC22
+md5_6: fec22f
+md5_6_alpha: 9xulr
+md5_6_alpha_upper: 9XULR
+md5_6_upper: FEC22F
+name: Oobb Part Plate 26 01 12
+name_no_class: Part Plate 26 01 12
+name_no_color: '260112'
+name_no_size: 26 01 12
+name_no_type: Plate 26 01 12
+oomp_key: oomp_oobb_part_plate_26_01_12
+oomp_word: recycle birthday cyclone
+oomp_word_emoji: ':recycle: :birthday: :cyclone:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':birthday:'
+- ':cyclone:'
+oomp_word_list:
+- recycle
+- birthday
+- cyclone
+part_number: ''
+size: plate
+type: part

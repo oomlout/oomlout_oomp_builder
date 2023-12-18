@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_09
+directory: parts/oobb_part_tray_02_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_06_09
+id: oobb_part_tray_02_06_09
+id_no_class: part_tray_02_06_09
+id_no_color: 020609
+id_no_size: 02_06_09
+id_no_type: tray_02_06_09
+manufacturer: ''
+md5: d21ef45f6c7536bbb9167b88e2b28ecd
+md5_10: d21ef45f6c
+md5_10_upper: D21EF45F6C
+md5_5: d21ef
+md5_5_upper: D21EF
+md5_6: d21ef4
+md5_6_alpha: 875dg
+md5_6_alpha_upper: 875DG
+md5_6_upper: D21EF4
+name: Oobb Part Tray 02 06 09
+name_no_class: Part Tray 02 06 09
+name_no_color: 020609
+name_no_size: 02 06 09
+name_no_type: Tray 02 06 09
+oomp_key: oomp_oobb_part_tray_02_06_09
+oomp_word: pineapple angel three
+oomp_word_emoji: ':pineapple: :angel: :three:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':angel:'
+- ':three:'
+oomp_word_list:
+- pineapple
+- angel
+- three
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_10_12'
+directory: parts/oobb_part_tray_07_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_12
+id: oobb_part_tray_07_10_12
+id_no_class: part_tray_07_10_12
+id_no_color: '071012'
+id_no_size: '07_10_12'
+id_no_type: tray_07_10_12
+manufacturer: ''
+md5: f622f8687ad621081121c2ef07f7afe2
+md5_10: f622f8687a
+md5_10_upper: F622F8687A
+md5_5: f622f
+md5_5_upper: F622F
+md5_6: f622f8
+md5_6_alpha: 9lqm0
+md5_6_alpha_upper: 9LQM0
+md5_6_upper: F622F8
+name: Oobb Part Tray 07 10 12
+name_no_class: Part Tray 07 10 12
+name_no_color: '071012'
+name_no_size: 07 10 12
+name_no_type: Tray 07 10 12
+oomp_key: oomp_oobb_part_tray_07_10_12
+oomp_word: five lips seven
+oomp_word_emoji: ':five: :lips: :seven:'
+oomp_word_emoji_list:
+- ':five:'
+- ':lips:'
+- ':seven:'
+oomp_word_list:
+- five
+- lips
+- seven
+part_number: ''
+size: tray
+type: part

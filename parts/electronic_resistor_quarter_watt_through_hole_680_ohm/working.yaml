@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_680_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_680_ohm
+id: electronic_resistor_quarter_watt_through_hole_680_ohm
+id_no_class: resistor_quarter_watt_through_hole_680_ohm
+id_no_color: 680ohm
+id_no_size: 680_ohm
+id_no_type: quarter_watt_through_hole_680_ohm
+manufacturer: ''
+md5: 493f590bafb0562c77787772b180fd65
+md5_10: 493f590baf
+md5_10_upper: 493F590BAF
+md5_5: 493f5
+md5_5_upper: 493F5
+md5_6: 493f59
+md5_6_alpha: 2uvyx
+md5_6_alpha_upper: 2UVYX
+md5_6_upper: 493F59
+name: Electronic Resistor Quarter Watt Through Hole 680 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 680 Ohm
+name_no_color: 680Ohm
+name_no_size: 680 Ohm
+name_no_type: Quarter Watt Through Hole 680 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_680_ohm
+oomp_word: hatching_chick horse dragon
+oomp_word_emoji: ':hatching_chick: :horse: :dragon:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':horse:'
+- ':dragon:'
+oomp_word_list:
+- hatching_chick
+- horse
+- dragon
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

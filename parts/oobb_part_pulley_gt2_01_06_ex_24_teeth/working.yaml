@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_24_teeth
+directory: parts/oobb_part_pulley_gt2_01_06_ex_24_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_24_teeth
+id: oobb_part_pulley_gt2_01_06_ex_24_teeth
+id_no_class: part_pulley_gt2_01_06_ex_24_teeth
+id_no_color: 0106ex24teeth
+id_no_size: 01_06_ex_24_teeth
+id_no_type: pulley_gt2_01_06_ex_24_teeth
+manufacturer: ''
+md5: 3e588f6e23c50df69dc4b65f83985d8e
+md5_10: 3e588f6e23
+md5_10_upper: 3E588F6E23
+md5_5: 3e588
+md5_5_upper: 3E588
+md5_6: 3e588f
+md5_6_alpha: 2fkpb
+md5_6_alpha_upper: 2FKPB
+md5_6_upper: 3E588F
+name: Oobb Part Pulley Gt2 01 06 Ex 24 Teeth
+name_no_class: Part Pulley Gt2 01 06 Ex 24 Teeth
+name_no_color: 0106Ex24Teeth
+name_no_size: 01 06 Ex 24 Teeth
+name_no_type: Pulley Gt2 01 06 Ex 24 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_24_teeth
+oomp_word: monkey water_buffalo calendar
+oomp_word_emoji: ':monkey: :water_buffalo: :calendar:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':water_buffalo:'
+- ':calendar:'
+oomp_word_list:
+- monkey
+- water_buffalo
+- calendar
+part_number: ''
+size: pulley_gt2
+type: part

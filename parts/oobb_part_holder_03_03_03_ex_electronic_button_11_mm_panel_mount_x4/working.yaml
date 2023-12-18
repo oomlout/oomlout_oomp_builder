@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+directory: parts/oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+id: oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+id_no_class: part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+id_no_color: 030303exelectronicbutton11mmpanelmountx4
+id_no_size: 03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+id_no_type: holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+manufacturer: ''
+md5: 56971204a4d80326d930026332d2f544
+md5_10: 56971204a4
+md5_10_upper: 56971204A4
+md5_5: '56971'
+md5_5_upper: '56971'
+md5_6: '569712'
+md5_6_alpha: 3dmoi
+md5_6_alpha_upper: 3DMOI
+md5_6_upper: '569712'
+name: Oobb Part Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_class: Part Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_color: 030303Exelectronicbutton11Mmpanelmountx4
+name_no_size: 03 03 03 Ex Electronic Button 11 Mm Panel Mount X4
+name_no_type: Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount X4
+oomp_key: oomp_oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount_x4
+oomp_word: ram baseball anger
+oomp_word_emoji: ':ram: :baseball: :anger:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':baseball:'
+- ':anger:'
+oomp_word_list:
+- ram
+- baseball
+- anger
+part_number: ''
+size: holder
+type: part

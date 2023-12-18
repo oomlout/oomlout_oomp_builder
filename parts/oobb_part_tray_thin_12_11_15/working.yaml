@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_11_15'
+directory: parts/oobb_part_tray_thin_12_11_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_11_15
+id: oobb_part_tray_thin_12_11_15
+id_no_class: part_tray_thin_12_11_15
+id_no_color: '121115'
+id_no_size: '12_11_15'
+id_no_type: tray_thin_12_11_15
+manufacturer: ''
+md5: bebd6799ed250025068958beb0e7a309
+md5_10: bebd6799ed
+md5_10_upper: BEBD6799ED
+md5_5: bebd6
+md5_5_upper: BEBD6
+md5_6: bebd67
+md5_6_alpha: 7fxbb
+md5_6_alpha_upper: 7FXBB
+md5_6_upper: BEBD67
+name: Oobb Part Tray Thin 12 11 15
+name_no_class: Part Tray Thin 12 11 15
+name_no_color: '121115'
+name_no_size: 12 11 15
+name_no_type: Tray Thin 12 11 15
+oomp_key: oomp_oobb_part_tray_thin_12_11_15
+oomp_word: ramen rice herb
+oomp_word_emoji: ':ramen: :rice: :herb:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':rice:'
+- ':herb:'
+oomp_word_list:
+- ramen
+- rice
+- herb
+part_number: ''
+size: tray_thin
+type: part

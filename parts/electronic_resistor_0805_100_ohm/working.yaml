@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_ohm
+directory: parts/electronic_resistor_0805_100_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_100_ohm
+id: electronic_resistor_0805_100_ohm
+id_no_class: resistor_0805_100_ohm
+id_no_color: 100ohm
+id_no_size: 100_ohm
+id_no_type: 0805_100_ohm
+manufacturer: ''
+md5: 45c66bbd2d20ad9836e12d2661c0f7c9
+md5_10: 45c66bbd2d
+md5_10_upper: 45C66BBD2D
+md5_5: 45c66
+md5_5_upper: 45C66
+md5_6: 45c66b
+md5_6_alpha: 2q0dn
+md5_6_alpha_upper: 2Q0DN
+md5_6_upper: 45C66B
+name: Electronic Resistor 0805 100 Ohm
+name_no_class: Resistor 0805 100 Ohm
+name_no_color: 100Ohm
+name_no_size: 100 Ohm
+name_no_type: 0805 100 Ohm
+oomp_key: oomp_electronic_resistor_0805_100_ohm
+oomp_word: snake lollipop chestnut
+oomp_word_emoji: ':snake: :lollipop: :chestnut:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':lollipop:'
+- ':chestnut:'
+oomp_word_list:
+- snake
+- lollipop
+- chestnut
+part_number: ''
+size: 0805
+type: resistor

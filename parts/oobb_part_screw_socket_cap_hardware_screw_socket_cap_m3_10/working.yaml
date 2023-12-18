@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_10
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_10
+id_no_color: hardwarem310
+id_no_size: hardware_m3_10
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_10
+manufacturer: ''
+md5: db3d23e2590e2d4c84f33a99ce48f05c
+md5_10: db3d23e259
+md5_10_upper: DB3D23E259
+md5_5: db3d2
+md5_5_upper: DB3D2
+md5_6: db3d23
+md5_6_alpha: 8jyg3
+md5_6_alpha_upper: 8JYG3
+md5_6_upper: DB3D23
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 10
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 10
+name_no_color: Hardwarem310
+name_no_size: Hardware M3 10
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 10
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
+oomp_word: tent cow kiss
+oomp_word_emoji: ':tent: :cow: :kiss:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':cow:'
+- ':kiss:'
+oomp_word_list:
+- tent
+- cow
+- kiss
+part_number: ''
+size: screw_socket_cap
+type: part

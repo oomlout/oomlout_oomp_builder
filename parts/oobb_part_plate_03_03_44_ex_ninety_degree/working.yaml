@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_44_ex_ninety_degree
+directory: parts/oobb_part_plate_03_03_44_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_44_ex_ninety_degree
+id: oobb_part_plate_03_03_44_ex_ninety_degree
+id_no_class: part_plate_03_03_44_ex_ninety_degree
+id_no_color: 030344exninetydegree
+id_no_size: 03_03_44_ex_ninety_degree
+id_no_type: plate_03_03_44_ex_ninety_degree
+manufacturer: ''
+md5: 3d71921a77c1d46805147f88ad249e0d
+md5_10: 3d71921a77
+md5_10_upper: 3D71921A77
+md5_5: 3d719
+md5_5_upper: 3D719
+md5_6: 3d7192
+md5_6_alpha: 2eb2q
+md5_6_alpha_upper: 2EB2Q
+md5_6_upper: 3D7192
+name: Oobb Part Plate 03 03 44 Ex Ninety Degree
+name_no_class: Part Plate 03 03 44 Ex Ninety Degree
+name_no_color: 030344Exninetydegree
+name_no_size: 03 03 44 Ex Ninety Degree
+name_no_type: Plate 03 03 44 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_03_03_44_ex_ninety_degree
+oomp_word: cow bamboo paperclip
+oomp_word_emoji: ':cow: :bamboo: :paperclip:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':bamboo:'
+- ':paperclip:'
+oomp_word_list:
+- cow
+- bamboo
+- paperclip
+part_number: ''
+size: plate
+type: part

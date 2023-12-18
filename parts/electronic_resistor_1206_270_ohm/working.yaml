@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 270_ohm
+directory: parts/electronic_resistor_1206_270_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270_ohm
+id: electronic_resistor_1206_270_ohm
+id_no_class: resistor_1206_270_ohm
+id_no_color: 270ohm
+id_no_size: 270_ohm
+id_no_type: 1206_270_ohm
+manufacturer: ''
+md5: 14ed91a0a9e4e4e2567505007ba99922
+md5_10: 14ed91a0a9
+md5_10_upper: 14ED91A0A9
+md5_5: 14ed9
+md5_5_upper: 14ED9
+md5_6: 14ed91
+md5_6_alpha: tea9
+md5_6_alpha_upper: TEA9
+md5_6_upper: 14ED91
+name: Electronic Resistor 1206 270 Ohm
+name_no_class: Resistor 1206 270 Ohm
+name_no_color: 270Ohm
+name_no_size: 270 Ohm
+name_no_type: 1206 270 Ohm
+oomp_key: oomp_electronic_resistor_1206_270_ohm
+oomp_word: fire bus pushpin
+oomp_word_emoji: ':fire: :bus: :pushpin:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':bus:'
+- ':pushpin:'
+oomp_word_list:
+- fire
+- bus
+- pushpin
+part_number: ''
+size: '1206'
+type: resistor

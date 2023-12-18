@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_10_09
+directory: parts/oobb_part_tray_03_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_10_09
+id: oobb_part_tray_03_10_09
+id_no_class: part_tray_03_10_09
+id_no_color: 031009
+id_no_size: 03_10_09
+id_no_type: tray_03_10_09
+manufacturer: ''
+md5: af6652bdd864307ed01ca786603fe048
+md5_10: af6652bdd8
+md5_10_upper: AF6652BDD8
+md5_5: af665
+md5_5_upper: AF665
+md5_6: af6652
+md5_6_alpha: 6udle
+md5_6_alpha_upper: 6UDLE
+md5_6_upper: AF6652
+name: Oobb Part Tray 03 10 09
+name_no_class: Part Tray 03 10 09
+name_no_color: 031009
+name_no_size: 03 10 09
+name_no_type: Tray 03 10 09
+oomp_key: oomp_oobb_part_tray_03_10_09
+oomp_word: tophat leaves octopus
+oomp_word_emoji: ':tophat: :leaves: :octopus:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':leaves:'
+- ':octopus:'
+oomp_word_list:
+- tophat
+- leaves
+- octopus
+part_number: ''
+size: tray
+type: part

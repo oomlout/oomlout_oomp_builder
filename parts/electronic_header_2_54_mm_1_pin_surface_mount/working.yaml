@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 1_pin
+directory: parts/electronic_header_2_54_mm_1_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount
+id: electronic_header_2_54_mm_1_pin_surface_mount
+id_no_class: header_2_54_mm_1_pin_surface_mount
+id_no_color: 1pinsurfacemount
+id_no_size: 1_pin_surface_mount
+id_no_type: 2_54_mm_1_pin_surface_mount
+manufacturer: ''
+md5: eff24b1b80fbe825d85350583460b1cc
+md5_10: eff24b1b80
+md5_10_upper: EFF24B1B80
+md5_5: eff24
+md5_5_upper: EFF24
+md5_6: eff24b
+md5_6_alpha: 9d1l7
+md5_6_alpha_upper: 9D1L7
+md5_6_upper: EFF24B
+name: Electronic Header 2 54 Mm 1 Pin Surface Mount
+name_no_class: Header 2 54 Mm 1 Pin Surface Mount
+name_no_color: 1Pinsurfacemount
+name_no_size: 1 Pin Surface Mount
+name_no_type: 2 54 Mm 1 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_surface_mount
+oomp_word: truck one penguin
+oomp_word_emoji: ':truck: :one: :penguin:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':one:'
+- ':penguin:'
+oomp_word_list:
+- truck
+- one
+- penguin
+part_number: ''
+size: 2_54_mm
+type: header

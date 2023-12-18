@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_11_09
+directory: parts/oobb_part_tray_06_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_11_09
+id: oobb_part_tray_06_11_09
+id_no_class: part_tray_06_11_09
+id_no_color: 061109
+id_no_size: 06_11_09
+id_no_type: tray_06_11_09
+manufacturer: ''
+md5: 22d0b276cb31203986c342277af14f40
+md5_10: 22d0b276cb
+md5_10_upper: 22D0B276CB
+md5_5: 22d0b
+md5_5_upper: 22D0B
+md5_6: 22d0b2
+md5_6_alpha: 1cwj6
+md5_6_alpha_upper: 1CWJ6
+md5_6_upper: 22D0B2
+name: Oobb Part Tray 06 11 09
+name_no_class: Part Tray 06 11 09
+name_no_color: 061109
+name_no_size: 06 11 09
+name_no_type: Tray 06 11 09
+oomp_key: oomp_oobb_part_tray_06_11_09
+oomp_word: lips banana handbag
+oomp_word_emoji: ':lips: :banana: :handbag:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':banana:'
+- ':handbag:'
+oomp_word_list:
+- lips
+- banana
+- handbag
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+directory: parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+id: oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+id_no_class: part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+id_no_color: 050306exmotorsteppernema17flatshiftedspacer10mm
+id_no_size: 05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+id_no_type: holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+manufacturer: ''
+md5: 9cb2123ef3244dfd02a9a8d69b1ecd53
+md5_10: 9cb2123ef3
+md5_10_upper: 9CB2123EF3
+md5_5: 9cb21
+md5_5_upper: 9CB21
+md5_6: 9cb212
+md5_6_alpha: 643rm
+md5_6_alpha_upper: 643RM
+md5_6_upper: 9CB212
+name: Oobb Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm
+name_no_class: Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10
+  Mm
+name_no_color: 050306Exmotorsteppernema17Flatshiftedspacer10Mm
+name_no_size: 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm
+name_no_type: Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm
+oomp_key: oomp_oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted_spacer_10_mm
+oomp_word: spades handbag anger
+oomp_word_emoji: ':spades: :handbag: :anger:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':handbag:'
+- ':anger:'
+oomp_word_list:
+- spades
+- handbag
+- anger
+part_number: ''
+size: holder
+type: part

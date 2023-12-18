@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0406ex32teethshelectronicpotentiometer17mm
+id_no_size: 04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 38fd01562a78dc565c1c67ecf899ba93
+md5_10: 38fd01562a
+md5_10_upper: 38FD01562A
+md5_5: 38fd0
+md5_5_upper: 38FD0
+md5_6: 38fd01
+md5_6_alpha: 281s1
+md5_6_alpha_upper: 281S1
+md5_6_upper: 38FD01
+name: Oobb Part Gear 04 06 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 04 06 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0406Ex32Teethshelectronicpotentiometer17Mm
+name_no_size: 04 06 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 04 06 Ex 32 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_04_06_ex_32_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: frog parking smile
+oomp_word_emoji: ':frog: :parking: :smile:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':parking:'
+- ':smile:'
+oomp_word_list:
+- frog
+- parking
+- smile
+part_number: ''
+size: gear
+type: part

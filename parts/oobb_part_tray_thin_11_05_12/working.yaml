@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_05_12'
+directory: parts/oobb_part_tray_thin_11_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_05_12
+id: oobb_part_tray_thin_11_05_12
+id_no_class: part_tray_thin_11_05_12
+id_no_color: '110512'
+id_no_size: '11_05_12'
+id_no_type: tray_thin_11_05_12
+manufacturer: ''
+md5: 8162f4ef963ca97c0ce41dfdd2fd7d07
+md5_10: 8162f4ef96
+md5_10_upper: 8162F4EF96
+md5_5: 8162f
+md5_5_upper: 8162F
+md5_6: 8162f4
+md5_6_alpha: 51qt0
+md5_6_alpha_upper: 51QT0
+md5_6_upper: 8162F4
+name: Oobb Part Tray Thin 11 05 12
+name_no_class: Part Tray Thin 11 05 12
+name_no_color: '110512'
+name_no_size: 11 05 12
+name_no_type: Tray Thin 11 05 12
+oomp_key: oomp_oobb_part_tray_thin_11_05_12
+oomp_word: watch tulip three
+oomp_word_emoji: ':watch: :tulip: :three:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':tulip:'
+- ':three:'
+oomp_word_list:
+- watch
+- tulip
+- three
+part_number: ''
+size: tray_thin
+type: part

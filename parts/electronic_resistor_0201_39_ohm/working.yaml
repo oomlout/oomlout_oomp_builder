@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39_ohm
+directory: parts/electronic_resistor_0201_39_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm
+id: electronic_resistor_0201_39_ohm
+id_no_class: resistor_0201_39_ohm
+id_no_color: 39ohm
+id_no_size: 39_ohm
+id_no_type: 0201_39_ohm
+manufacturer: ''
+md5: 5ce55f7a191553ef2668a8494151ca8f
+md5_10: 5ce55f7a19
+md5_10_upper: 5CE55F7A19
+md5_5: 5ce55
+md5_5_upper: 5CE55
+md5_6: 5ce55f
+md5_6_alpha: 3mhjz
+md5_6_alpha_upper: 3MHJZ
+md5_6_upper: 5CE55F
+name: Electronic Resistor 0201 39 Ohm
+name_no_class: Resistor 0201 39 Ohm
+name_no_color: 39Ohm
+name_no_size: 39 Ohm
+name_no_type: 0201 39 Ohm
+oomp_key: oomp_electronic_resistor_0201_39_ohm
+oomp_word: ox rocket leopard
+oomp_word_emoji: ':ox: :rocket: :leopard:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':rocket:'
+- ':leopard:'
+oomp_word_list:
+- ox
+- rocket
+- leopard
+part_number: ''
+size: '0201'
+type: resistor

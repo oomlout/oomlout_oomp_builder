@@ -1,0 +1,40 @@
+classification: hardware
+color: MR83_size
+description_extra: ''
+description_main: 3_mm_id_8_mm_od_3_mm_depth
+directory: parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+id: hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+id_no_class: bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+id_no_color: 3_mm_id_8_mm_od_3_mm_depth
+id_no_size: MR83_size_3_mm_id_8_mm_od_3_mm_depth
+id_no_type: MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+manufacturer: ''
+md5: 1218c1d1451d68f7b7516fb195043e05
+md5_10: 1218c1d145
+md5_10_upper: 1218C1D145
+md5_5: 1218c
+md5_5_upper: 1218C
+md5_6: 1218c1
+md5_6_alpha: pf41
+md5_6_alpha_upper: PF41
+md5_6_upper: 1218C1
+name: Hardware Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth
+name_no_class: Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth
+name_no_color: 3 Mm Id 8 Mm Od 3 Mm Depth
+name_no_size: Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth
+name_no_type: Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+oomp_word: anger hand doughnut
+oomp_word_emoji: ':anger: :hand: :doughnut:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':hand:'
+- ':doughnut:'
+oomp_word_list:
+- anger
+- hand
+- doughnut
+part_number: ''
+size: MR_series
+type: bearing

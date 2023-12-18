@@ -1,0 +1,40 @@
+classification: hardware
+color: 62207_size
+description_extra: ''
+description_main: 35_mm_id_72_mm_od_23_mm_depth
+directory: parts/hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+id: hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+id_no_class: bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+id_no_color: 35_mm_id_72_mm_od_23_mm_depth
+id_no_size: 62207_size_35_mm_id_72_mm_od_23_mm_depth
+id_no_type: 62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+manufacturer: ''
+md5: 6450a6a4d611b50cdd2ac1a0f98d0068
+md5_10: 6450a6a4d6
+md5_10_upper: 6450A6A4D6
+md5_5: 6450a
+md5_5_upper: 6450A
+md5_6: 6450a6
+md5_6_alpha: 3wwpy
+md5_6_alpha_upper: 3WWPY
+md5_6_upper: 6450A6
+name: Hardware Bearing 62000 Series 62207 Size 35 Mm Id 72 Mm Od 23 Mm Depth
+name_no_class: Bearing 62000 Series 62207 Size 35 Mm Id 72 Mm Od 23 Mm Depth
+name_no_color: 35 Mm Id 72 Mm Od 23 Mm Depth
+name_no_size: 62207 Size 35 Mm Id 72 Mm Od 23 Mm Depth
+name_no_type: 62000 Series 62207 Size 35 Mm Id 72 Mm Od 23 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+oomp_word: sunflower beetle trumpet
+oomp_word_emoji: ':sunflower: :beetle: :trumpet:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':beetle:'
+- ':trumpet:'
+oomp_word_list:
+- sunflower
+- beetle
+- trumpet
+part_number: ''
+size: 62000_series
+type: bearing

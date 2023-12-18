@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 26_pin
+directory: parts/electronic_header_2_54_mm_26_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole
+id: electronic_header_2_54_mm_26_pin_through_hole
+id_no_class: header_2_54_mm_26_pin_through_hole
+id_no_color: 26pinthroughhole
+id_no_size: 26_pin_through_hole
+id_no_type: 2_54_mm_26_pin_through_hole
+manufacturer: ''
+md5: 2e772c6cebee5d091cc025949659beb1
+md5_10: 2e772c6ceb
+md5_10_upper: 2E772C6CEB
+md5_5: 2e772
+md5_5_upper: 2E772
+md5_6: 2e772c
+md5_6_alpha: 1t9nw
+md5_6_alpha_upper: 1T9NW
+md5_6_upper: 2E772C
+name: Electronic Header 2 54 Mm 26 Pin Through Hole
+name_no_class: Header 2 54 Mm 26 Pin Through Hole
+name_no_color: 26Pinthroughhole
+name_no_size: 26 Pin Through Hole
+name_no_type: 2 54 Mm 26 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_26_pin_through_hole
+oomp_word: zap gift snowflake
+oomp_word_emoji: ':zap: :gift: :snowflake:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':gift:'
+- ':snowflake:'
+oomp_word_list:
+- zap
+- gift
+- snowflake
+part_number: ''
+size: 2_54_mm
+type: header

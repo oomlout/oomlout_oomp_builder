@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_n
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_n
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_n
+id: oobb_part_bunting_alphabet_13_01_ex_n
+id_no_class: part_bunting_alphabet_13_01_ex_n
+id_no_color: 1301exn
+id_no_size: 13_01_ex_n
+id_no_type: bunting_alphabet_13_01_ex_n
+manufacturer: ''
+md5: f0d70d48b4807b97eecb9fd4605a1cb2
+md5_10: f0d70d48b4
+md5_10_upper: F0D70D48B4
+md5_5: f0d70
+md5_5_upper: F0D70
+md5_6: f0d70d
+md5_6_alpha: 9earx
+md5_6_alpha_upper: 9EARX
+md5_6_upper: F0D70D
+name: Oobb Part Bunting Alphabet 13 01 Ex N
+name_no_class: Part Bunting Alphabet 13 01 Ex N
+name_no_color: 1301Exn
+name_no_size: 13 01 Ex N
+name_no_type: Bunting Alphabet 13 01 Ex N
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_n
+oomp_word: train office heart
+oomp_word_emoji: ':train: :office: :heart:'
+oomp_word_emoji_list:
+- ':train:'
+- ':office:'
+- ':heart:'
+oomp_word_list:
+- train
+- office
+- heart
+part_number: ''
+size: bunting_alphabet
+type: part

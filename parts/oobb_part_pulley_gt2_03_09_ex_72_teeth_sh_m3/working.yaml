@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_09_ex_72_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_03_09_ex_72_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_09_ex_72_teeth_sh_m3
+id: oobb_part_pulley_gt2_03_09_ex_72_teeth_sh_m3
+id_no_class: part_pulley_gt2_03_09_ex_72_teeth_sh_m3
+id_no_color: 0309ex72teethshm3
+id_no_size: 03_09_ex_72_teeth_sh_m3
+id_no_type: pulley_gt2_03_09_ex_72_teeth_sh_m3
+manufacturer: ''
+md5: 22b4be45bf4ab34fc73aec1ca3d1d1b7
+md5_10: 22b4be45bf
+md5_10_upper: 22B4BE45BF
+md5_5: 22b4b
+md5_5_upper: 22B4B
+md5_6: 22b4be
+md5_6_alpha: 1cr0e
+md5_6_alpha_upper: 1CR0E
+md5_6_upper: 22B4BE
+name: Oobb Part Pulley Gt2 03 09 Ex 72 Teeth Sh M3
+name_no_class: Part Pulley Gt2 03 09 Ex 72 Teeth Sh M3
+name_no_color: 0309Ex72Teethshm3
+name_no_size: 03 09 Ex 72 Teeth Sh M3
+name_no_type: Pulley Gt2 03 09 Ex 72 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_03_09_ex_72_teeth_sh_m3
+oomp_word: lips coffee ramen
+oomp_word_emoji: ':lips: :coffee: :ramen:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':coffee:'
+- ':ramen:'
+oomp_word_list:
+- lips
+- coffee
+- ramen
+part_number: ''
+size: pulley_gt2
+type: part

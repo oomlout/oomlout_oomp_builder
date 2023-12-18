@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 9_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_9_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_9_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_9_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_9_pin_through_hole
+id_no_color: 9pinthroughhole
+id_no_size: 9_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_9_pin_through_hole
+manufacturer: ''
+md5: 1c38e298b52239b2aefa3cf0f6a0be85
+md5_10: 1c38e298b5
+md5_10_upper: 1C38E298B5
+md5_5: 1c38e
+md5_5_upper: 1C38E
+md5_6: 1c38e2
+md5_6_alpha: 13n4y
+md5_6_alpha_upper: 13N4Y
+md5_6_upper: 1C38E2
+name: Electronic Header 2 5 Mm Jst Xh 9 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 9 Pin Through Hole
+name_no_color: 9Pinthroughhole
+name_no_size: 9 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 9 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_9_pin_through_hole
+oomp_word: dancer frog sailboat
+oomp_word_emoji: ':dancer: :frog: :sailboat:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':frog:'
+- ':sailboat:'
+oomp_word_list:
+- dancer
+- frog
+- sailboat
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

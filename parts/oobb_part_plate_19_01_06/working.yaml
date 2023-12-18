@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_06'
+directory: parts/oobb_part_plate_19_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_06
+id: oobb_part_plate_19_01_06
+id_no_class: part_plate_19_01_06
+id_no_color: '190106'
+id_no_size: '19_01_06'
+id_no_type: plate_19_01_06
+manufacturer: ''
+md5: 9e9e525d5408ed9c03ad8e75c71c2649
+md5_10: 9e9e525d54
+md5_10_upper: 9E9E525D54
+md5_5: 9e9e5
+md5_5_upper: 9E9E5
+md5_6: 9e9e52
+md5_6_alpha: 66t02
+md5_6_alpha_upper: 66T02
+md5_6_upper: 9E9E52
+name: Oobb Part Plate 19 01 06
+name_no_class: Part Plate 19 01 06
+name_no_color: '190106'
+name_no_size: 19 01 06
+name_no_type: Plate 19 01 06
+oomp_key: oomp_oobb_part_plate_19_01_06
+oomp_word: clubs clubs octopus
+oomp_word_emoji: ':clubs: :clubs: :octopus:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':clubs:'
+- ':octopus:'
+oomp_word_list:
+- clubs
+- clubs
+- octopus
+part_number: ''
+size: plate
+type: part

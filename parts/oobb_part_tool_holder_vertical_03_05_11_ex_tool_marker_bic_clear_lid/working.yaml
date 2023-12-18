@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_11_ex_tool_marker_bic_clear_lid
+directory: parts/oobb_part_tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+id: oobb_part_tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+id_no_class: part_tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+id_no_color: 030511extoolmarkerbicclearlid
+id_no_size: 03_05_11_ex_tool_marker_bic_clear_lid
+id_no_type: tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+manufacturer: ''
+md5: 9cf34f8695a00b185b8f0a2273cd1796
+md5_10: 9cf34f8695
+md5_10_upper: 9CF34F8695
+md5_5: 9cf34
+md5_5_upper: 9CF34
+md5_6: 9cf34f
+md5_6_alpha: 64gnj
+md5_6_alpha_upper: 64GNJ
+md5_6_upper: 9CF34F
+name: Oobb Part Tool Holder Vertical 03 05 11 Ex Tool Marker Bic Clear Lid
+name_no_class: Part Tool Holder Vertical 03 05 11 Ex Tool Marker Bic Clear Lid
+name_no_color: 030511Extoolmarkerbicclearlid
+name_no_size: 03 05 11 Ex Tool Marker Bic Clear Lid
+name_no_type: Tool Holder Vertical 03 05 11 Ex Tool Marker Bic Clear Lid
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_11_ex_tool_marker_bic_clear_lid
+oomp_word: spades two ant
+oomp_word_emoji: ':spades: :two: :ant:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':two:'
+- ':ant:'
+oomp_word_list:
+- spades
+- two
+- ant
+part_number: ''
+size: tool_holder_vertical
+type: part

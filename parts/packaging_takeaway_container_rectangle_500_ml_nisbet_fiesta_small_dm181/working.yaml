@@ -1,0 +1,40 @@
+classification: packaging
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+id: packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+id_no_class: takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+id_no_color: nisbetfiestasmalldm181
+id_no_size: nisbet_fiesta_small_dm181
+id_no_type: 500_ml_nisbet_fiesta_small_dm181
+manufacturer: nisbet_fiesta
+md5: 890eb1c195af1b7cb729938cff1a4db3
+md5_10: 890eb1c195
+md5_10_upper: 890EB1C195
+md5_5: 890eb
+md5_5_upper: 890EB
+md5_6: 890eb1
+md5_6_alpha: 5cipd
+md5_6_alpha_upper: 5CIPD
+md5_6_upper: 890EB1
+name: Packaging Takeaway Container Rectangle 500 Ml Nisbet Fiesta Small Dm181
+name_no_class: Takeaway Container Rectangle 500 Ml Nisbet Fiesta Small Dm181
+name_no_color: Nisbetfiestasmalldm181
+name_no_size: Nisbet Fiesta Small Dm181
+name_no_type: 500 Ml Nisbet Fiesta Small Dm181
+oomp_key: oomp_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+oomp_word: hammer cupid briefcase
+oomp_word_emoji: ':hammer: :cupid: :briefcase:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':cupid:'
+- ':briefcase:'
+oomp_word_list:
+- hammer
+- cupid
+- briefcase
+part_number: small_dm181
+size: 500_ml
+type: takeaway_container_rectangle

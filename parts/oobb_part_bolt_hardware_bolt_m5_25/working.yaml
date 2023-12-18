@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m5_25
+directory: parts/oobb_part_bolt_hardware_bolt_m5_25
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25
+id: oobb_part_bolt_hardware_bolt_m5_25
+id_no_class: part_bolt_hardware_bolt_m5_25
+id_no_color: hardwarem525
+id_no_size: hardware_m5_25
+id_no_type: bolt_hardware_bolt_m5_25
+manufacturer: ''
+md5: 8de197503b712c3fa44e20a75ad4a6bd
+md5_10: 8de197503b
+md5_10_upper: 8DE197503B
+md5_5: 8de19
+md5_5_upper: 8DE19
+md5_6: 8de197
+md5_6_alpha: 5jamv
+md5_6_alpha_upper: 5JAMV
+md5_6_upper: 8DE197
+name: Oobb Part Bolt Hardware Bolt M5 25
+name_no_class: Part Bolt Hardware Bolt M5 25
+name_no_color: Hardwarem525
+name_no_size: Hardware M5 25
+name_no_type: Bolt Hardware Bolt M5 25
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_25
+oomp_word: scroll boat baseball
+oomp_word_emoji: ':scroll: :boat: :baseball:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':boat:'
+- ':baseball:'
+oomp_word_list:
+- scroll
+- boat
+- baseball
+part_number: ''
+size: bolt
+type: part

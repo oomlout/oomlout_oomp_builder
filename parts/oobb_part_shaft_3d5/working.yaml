@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5
+directory: parts/oobb_part_shaft_3d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5
+id: oobb_part_shaft_3d5
+id_no_class: part_shaft_3d5
+id_no_color: 3d5
+id_no_size: 3d5
+id_no_type: shaft_3d5
+manufacturer: ''
+md5: 1373c83b1139fdec9a603e12e0e021d8
+md5_10: 1373c83b11
+md5_10_upper: 1373C83B11
+md5_5: 1373c
+md5_5_upper: 1373C
+md5_6: 1373c8
+md5_6_alpha: rbns
+md5_6_alpha_upper: RBNS
+md5_6_upper: 1373C8
+name: Oobb Part Shaft 3D5
+name_no_class: Part Shaft 3D5
+name_no_color: 3D5
+name_no_size: 3D5
+name_no_type: Shaft 3D5
+oomp_key: oomp_oobb_part_shaft_3d5
+oomp_word: question flags apple
+oomp_word_emoji: ':question: :flags: :apple:'
+oomp_word_emoji_list:
+- ':question:'
+- ':flags:'
+- ':apple:'
+oomp_word_list:
+- question
+- flags
+- apple
+part_number: ''
+size: shaft
+type: part

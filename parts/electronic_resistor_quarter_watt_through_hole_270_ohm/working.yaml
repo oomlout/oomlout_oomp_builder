@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 270_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_270_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm
+id: electronic_resistor_quarter_watt_through_hole_270_ohm
+id_no_class: resistor_quarter_watt_through_hole_270_ohm
+id_no_color: 270ohm
+id_no_size: 270_ohm
+id_no_type: quarter_watt_through_hole_270_ohm
+manufacturer: ''
+md5: 150345065222aceed6101543d21f42ff
+md5_10: '1503450652'
+md5_10_upper: '1503450652'
+md5_5: '15034'
+md5_5_upper: '15034'
+md5_6: '150345'
+md5_6_alpha: tikl
+md5_6_alpha_upper: TIKL
+md5_6_upper: '150345'
+name: Electronic Resistor Quarter Watt Through Hole 270 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 270 Ohm
+name_no_color: 270Ohm
+name_no_size: 270 Ohm
+name_no_type: Quarter Watt Through Hole 270 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_270_ohm
+oomp_word: poop grin snake
+oomp_word_emoji: ':poop: :grin: :snake:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':grin:'
+- ':snake:'
+oomp_word_list:
+- poop
+- grin
+- snake
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

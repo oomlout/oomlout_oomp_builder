@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_18
+directory: parts/oobb_part_tray_vertical_09_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_05_18
+id: oobb_part_tray_vertical_09_05_18
+id_no_class: part_tray_vertical_09_05_18
+id_no_color: 090518
+id_no_size: 09_05_18
+id_no_type: tray_vertical_09_05_18
+manufacturer: ''
+md5: b1f6a94cc89bf8e2b9fe25cbf5df62ec
+md5_10: b1f6a94cc8
+md5_10_upper: B1F6A94CC8
+md5_5: b1f6a
+md5_5_upper: B1F6A
+md5_6: b1f6a9
+md5_6_alpha: 6xz8p
+md5_6_alpha_upper: 6XZ8P
+md5_6_upper: B1F6A9
+name: Oobb Part Tray Vertical 09 05 18
+name_no_class: Part Tray Vertical 09 05 18
+name_no_color: 090518
+name_no_size: 09 05 18
+name_no_type: Tray Vertical 09 05 18
+oomp_key: oomp_oobb_part_tray_vertical_09_05_18
+oomp_word: briefcase five sandal
+oomp_word_emoji: ':briefcase: :five: :sandal:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':five:'
+- ':sandal:'
+oomp_word_list:
+- briefcase
+- five
+- sandal
+part_number: ''
+size: tray_vertical
+type: part

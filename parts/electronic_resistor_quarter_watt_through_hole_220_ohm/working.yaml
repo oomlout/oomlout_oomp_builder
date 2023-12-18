@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 220_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_220_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_220_ohm
+id: electronic_resistor_quarter_watt_through_hole_220_ohm
+id_no_class: resistor_quarter_watt_through_hole_220_ohm
+id_no_color: 220ohm
+id_no_size: 220_ohm
+id_no_type: quarter_watt_through_hole_220_ohm
+manufacturer: ''
+md5: 8010ecd1695c54b8410d3c60e7a20ebb
+md5_10: 8010ecd169
+md5_10_upper: 8010ECD169
+md5_5: 8010e
+md5_5_upper: 8010E
+md5_6: 8010ec
+md5_6_alpha: 4zw18
+md5_6_alpha_upper: 4ZW18
+md5_6_upper: 8010EC
+name: Electronic Resistor Quarter Watt Through Hole 220 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 220 Ohm
+name_no_color: 220Ohm
+name_no_size: 220 Ohm
+name_no_type: Quarter Watt Through Hole 220 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_220_ohm
+oomp_word: hourglass star taxi
+oomp_word_emoji: ':hourglass: :star: :taxi:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':star:'
+- ':taxi:'
+oomp_word_list:
+- hourglass
+- star
+- taxi
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

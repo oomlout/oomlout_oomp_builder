@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_04_15
+directory: parts/oobb_part_tray_thin_2d5_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_04_15
+id: oobb_part_tray_thin_2d5_04_15
+id_no_class: part_tray_thin_2d5_04_15
+id_no_color: 2d50415
+id_no_size: 2d5_04_15
+id_no_type: tray_thin_2d5_04_15
+manufacturer: ''
+md5: 4f747093e4aa344c9dc0a25330ccbe9b
+md5_10: 4f747093e4
+md5_10_upper: 4F747093E4
+md5_5: 4f747
+md5_5_upper: 4F747
+md5_6: 4f7470
+md5_6_alpha: 33lv4
+md5_6_alpha_upper: 33LV4
+md5_6_upper: 4F7470
+name: Oobb Part Tray Thin 2D5 04 15
+name_no_class: Part Tray Thin 2D5 04 15
+name_no_color: 2D50415
+name_no_size: 2D5 04 15
+name_no_type: Tray Thin 2D5 04 15
+oomp_key: oomp_oobb_part_tray_thin_2d5_04_15
+oomp_word: ant fireworks squirrel
+oomp_word_emoji: ':ant: :fireworks: :squirrel:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':fireworks:'
+- ':squirrel:'
+oomp_word_list:
+- ant
+- fireworks
+- squirrel
+part_number: ''
+size: tray_thin
+type: part

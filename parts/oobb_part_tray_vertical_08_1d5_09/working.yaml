@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_1d5_09
+directory: parts/oobb_part_tray_vertical_08_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_1d5_09
+id: oobb_part_tray_vertical_08_1d5_09
+id_no_class: part_tray_vertical_08_1d5_09
+id_no_color: 081d509
+id_no_size: 08_1d5_09
+id_no_type: tray_vertical_08_1d5_09
+manufacturer: ''
+md5: 6970f86df036491ea12ccb04fe5bf692
+md5_10: 6970f86df0
+md5_10_upper: 6970F86DF0
+md5_5: 6970f
+md5_5_upper: 6970F
+md5_6: 6970f8
+md5_6_alpha: 443y0
+md5_6_alpha_upper: 443Y0
+md5_6_upper: 6970F8
+name: Oobb Part Tray Vertical 08 1D5 09
+name_no_class: Part Tray Vertical 08 1D5 09
+name_no_color: 081D509
+name_no_size: 08 1D5 09
+name_no_type: Tray Vertical 08 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_08_1d5_09
+oomp_word: cactus squirrel seven
+oomp_word_emoji: ':cactus: :squirrel: :seven:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':squirrel:'
+- ':seven:'
+oomp_word_list:
+- cactus
+- squirrel
+- seven
+part_number: ''
+size: tray_vertical
+type: part

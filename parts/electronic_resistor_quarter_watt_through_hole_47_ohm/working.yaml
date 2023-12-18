@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 47_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_47_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm
+id: electronic_resistor_quarter_watt_through_hole_47_ohm
+id_no_class: resistor_quarter_watt_through_hole_47_ohm
+id_no_color: 47ohm
+id_no_size: 47_ohm
+id_no_type: quarter_watt_through_hole_47_ohm
+manufacturer: ''
+md5: 96a2e95af6ff8b88ef51c63c8738ba58
+md5_10: 96a2e95af6
+md5_10_upper: 96A2E95AF6
+md5_5: 96a2e
+md5_5_upper: 96A2E
+md5_6: 96a2e9
+md5_6_alpha: 5vld5
+md5_6_alpha_upper: 5VLD5
+md5_6_upper: 96A2E9
+name: Electronic Resistor Quarter Watt Through Hole 47 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 47 Ohm
+name_no_color: 47Ohm
+name_no_size: 47 Ohm
+name_no_type: Quarter Watt Through Hole 47 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_47_ohm
+oomp_word: basketball violin bike
+oomp_word_emoji: ':basketball: :violin: :bike:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':violin:'
+- ':bike:'
+oomp_word_list:
+- basketball
+- violin
+- bike
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

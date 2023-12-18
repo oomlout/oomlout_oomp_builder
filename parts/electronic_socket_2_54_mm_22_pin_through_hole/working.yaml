@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 22_pin
+directory: parts/electronic_socket_2_54_mm_22_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_22_pin_through_hole
+id: electronic_socket_2_54_mm_22_pin_through_hole
+id_no_class: socket_2_54_mm_22_pin_through_hole
+id_no_color: 22pinthroughhole
+id_no_size: 22_pin_through_hole
+id_no_type: 2_54_mm_22_pin_through_hole
+manufacturer: ''
+md5: f03ef0e3313898f2693299d349e0c08c
+md5_10: f03ef0e331
+md5_10_upper: F03EF0E331
+md5_5: f03ef
+md5_5_upper: F03EF
+md5_6: f03ef0
+md5_6_alpha: 9dgq8
+md5_6_alpha_upper: 9DGQ8
+md5_6_upper: F03EF0
+name: Electronic Socket 2 54 Mm 22 Pin Through Hole
+name_no_class: Socket 2 54 Mm 22 Pin Through Hole
+name_no_color: 22Pinthroughhole
+name_no_size: 22 Pin Through Hole
+name_no_type: 2 54 Mm 22 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_22_pin_through_hole
+oomp_word: train monkey train
+oomp_word_emoji: ':train: :monkey: :train:'
+oomp_word_emoji_list:
+- ':train:'
+- ':monkey:'
+- ':train:'
+oomp_word_list:
+- train
+- monkey
+- train
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+id_no_color: 0109ex30teethshmotorn20
+id_no_size: 01_09_ex_30_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+manufacturer: ''
+md5: 567f7ef63137d6a26c784b9c9140a66f
+md5_10: 567f7ef631
+md5_10_upper: 567F7EF631
+md5_5: 567f7
+md5_5_upper: 567F7
+md5_6: 567f7e
+md5_6_alpha: 3di0u
+md5_6_alpha_upper: 3DI0U
+md5_6_upper: 567F7E
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Sh Motor N20
+name_no_color: 0109Ex30Teethshmotorn20
+name_no_size: 01 09 Ex 30 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_motor_n20
+oomp_word: ram speaker fax
+oomp_word_emoji: ':ram: :speaker: :fax:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':speaker:'
+- ':fax:'
+oomp_word_list:
+- ram
+- speaker
+- fax
+part_number: ''
+size: pulley_gt2
+type: part

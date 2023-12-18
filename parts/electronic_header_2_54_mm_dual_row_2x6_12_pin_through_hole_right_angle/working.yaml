@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x6_12_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+id_no_color: 2x612pinthroughholerightangle
+id_no_size: 2x6_12_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+manufacturer: ''
+md5: c8affeb64044226ebf9c08bfe731bb7f
+md5_10: c8affeb640
+md5_10_upper: C8AFFEB640
+md5_5: c8aff
+md5_5_upper: C8AFF
+md5_6: c8affe
+md5_6_alpha: 7twce
+md5_6_alpha_upper: 7TWCE
+md5_6_upper: C8AFFE
+name: Electronic Header 2 54 Mm Dual Row 2X6 12 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X6 12 Pin Through Hole Right Angle
+name_no_color: 2X612Pinthroughholerightangle
+name_no_size: 2X6 12 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X6 12 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x6_12_pin_through_hole_right_angle
+oomp_word: apple tophat recycle
+oomp_word_emoji: ':apple: :tophat: :recycle:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':tophat:'
+- ':recycle:'
+oomp_word_list:
+- apple
+- tophat
+- recycle
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

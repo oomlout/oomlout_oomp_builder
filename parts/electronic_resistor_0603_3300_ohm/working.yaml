@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3300_ohm
+directory: parts/electronic_resistor_0603_3300_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3300_ohm
+id: electronic_resistor_0603_3300_ohm
+id_no_class: resistor_0603_3300_ohm
+id_no_color: 3300ohm
+id_no_size: 3300_ohm
+id_no_type: 0603_3300_ohm
+manufacturer: ''
+md5: 24b74f09ef4d73197c1599bbc11d9403
+md5_10: 24b74f09ef
+md5_10_upper: 24B74F09EF
+md5_5: 24b74
+md5_5_upper: 24B74
+md5_6: 24b74f
+md5_6_alpha: 1fknj
+md5_6_alpha_upper: 1FKNJ
+md5_6_upper: 24B74F
+name: Electronic Resistor 0603 3300 Ohm
+name_no_class: Resistor 0603 3300 Ohm
+name_no_color: 3300Ohm
+name_no_size: 3300 Ohm
+name_no_type: 0603 3300 Ohm
+oomp_key: oomp_electronic_resistor_0603_3300_ohm
+oomp_word: droplet pizza ant
+oomp_word_emoji: ':droplet: :pizza: :ant:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':pizza:'
+- ':ant:'
+oomp_word_list:
+- droplet
+- pizza
+- ant
+part_number: ''
+size: '0603'
+type: resistor

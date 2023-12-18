@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2_pole_inline
+directory: parts/electronic_connector_wago_221_2_pole_inline
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline
+id: electronic_connector_wago_221_2_pole_inline
+id_no_class: connector_wago_221_2_pole_inline
+id_no_color: 2poleinline
+id_no_size: 2_pole_inline
+id_no_type: wago_221_2_pole_inline
+manufacturer: ''
+md5: e9d1a42f1d6baa84b5066a745445c443
+md5_10: e9d1a42f1d
+md5_10_upper: E9D1A42F1D
+md5_5: e9d1a
+md5_5_upper: E9D1A
+md5_6: e9d1a4
+md5_6_alpha: 94fqc
+md5_6_alpha_upper: 94FQC
+md5_6_upper: E9D1A4
+name: Electronic Connector Wago 221 2 Pole Inline
+name_no_class: Connector Wago 221 2 Pole Inline
+name_no_color: 2Poleinline
+name_no_size: 2 Pole Inline
+name_no_type: Wago 221 2 Pole Inline
+oomp_key: oomp_electronic_connector_wago_221_2_pole_inline
+oomp_word: bike pear book
+oomp_word_emoji: ':bike: :pear: :book:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':pear:'
+- ':book:'
+oomp_word_list:
+- bike
+- pear
+- book
+part_number: ''
+size: wago_221
+type: connector

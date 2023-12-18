@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_18'
+directory: parts/oobb_part_tray_vertical_11_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_04_18
+id: oobb_part_tray_vertical_11_04_18
+id_no_class: part_tray_vertical_11_04_18
+id_no_color: '110418'
+id_no_size: '11_04_18'
+id_no_type: tray_vertical_11_04_18
+manufacturer: ''
+md5: 8ce952d3b9977520f5f67394599e7feb
+md5_10: 8ce952d3b9
+md5_10_upper: 8CE952D3B9
+md5_5: 8ce95
+md5_5_upper: 8CE95
+md5_6: 8ce952
+md5_6_alpha: 5hxle
+md5_6_alpha_upper: 5HXLE
+md5_6_upper: 8CE952
+name: Oobb Part Tray Vertical 11 04 18
+name_no_class: Part Tray Vertical 11 04 18
+name_no_color: '110418'
+name_no_size: 11 04 18
+name_no_type: Tray Vertical 11 04 18
+oomp_key: oomp_oobb_part_tray_vertical_11_04_18
+oomp_word: pill bike octopus
+oomp_word_emoji: ':pill: :bike: :octopus:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':bike:'
+- ':octopus:'
+oomp_word_list:
+- pill
+- bike
+- octopus
+part_number: ''
+size: tray_vertical
+type: part

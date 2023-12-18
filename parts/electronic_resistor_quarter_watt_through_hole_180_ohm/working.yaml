@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 180_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_180_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_180_ohm
+id: electronic_resistor_quarter_watt_through_hole_180_ohm
+id_no_class: resistor_quarter_watt_through_hole_180_ohm
+id_no_color: 180ohm
+id_no_size: 180_ohm
+id_no_type: quarter_watt_through_hole_180_ohm
+manufacturer: ''
+md5: 59af46ec7f66277fa45469ffd37ba989
+md5_10: 59af46ec7f
+md5_10_upper: 59AF46EC7F
+md5_5: 59af4
+md5_5_upper: 59AF4
+md5_6: 59af46
+md5_6_alpha: 3hz5y
+md5_6_alpha_upper: 3HZ5Y
+md5_6_upper: 59AF46
+name: Electronic Resistor Quarter Watt Through Hole 180 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 180 Ohm
+name_no_color: 180Ohm
+name_no_size: 180 Ohm
+name_no_type: Quarter Watt Through Hole 180 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_180_ohm
+oomp_word: dragon tophat bird
+oomp_word_emoji: ':dragon: :tophat: :bird:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':tophat:'
+- ':bird:'
+oomp_word_list:
+- dragon
+- tophat
+- bird
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

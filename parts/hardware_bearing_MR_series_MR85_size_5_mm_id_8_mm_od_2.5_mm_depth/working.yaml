@@ -1,0 +1,40 @@
+classification: hardware
+color: MR85_size
+description_extra: ''
+description_main: 5_mm_id_8_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_color: 5_mm_id_8_mm_od_2.5_mm_depth
+id_no_size: MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: fcefa496f341a8779a67bbb11a7fe09f
+md5_10: fcefa496f3
+md5_10_upper: FCEFA496F3
+md5_5: fcefa
+md5_5_upper: FCEFA
+md5_6: fcefa4
+md5_6_alpha: 9vag4
+md5_6_alpha_upper: 9VAG4
+md5_6_upper: FCEFA4
+name: Hardware Bearing Mr Series Mr85 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr85 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_color: 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_size: Mr85 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr85 Size 5 Mm Id 8 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2.5_mm_depth
+oomp_word: up truck book
+oomp_word_emoji: ':up: :truck: :book:'
+oomp_word_emoji_list:
+- ':up:'
+- ':truck:'
+- ':book:'
+oomp_word_list:
+- up
+- truck
+- book
+part_number: ''
+size: MR_series
+type: bearing

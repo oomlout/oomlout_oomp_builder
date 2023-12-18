@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 470_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_470_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_470_ohm
+id: electronic_resistor_quarter_watt_through_hole_470_ohm
+id_no_class: resistor_quarter_watt_through_hole_470_ohm
+id_no_color: 470ohm
+id_no_size: 470_ohm
+id_no_type: quarter_watt_through_hole_470_ohm
+manufacturer: ''
+md5: 4bacced02d4a44e1c2562058886c27f7
+md5_10: 4bacced02d
+md5_10_upper: 4BACCED02D
+md5_5: 4bacc
+md5_5_upper: 4BACC
+md5_6: 4bacce
+md5_6_alpha: 2yaq6
+md5_6_alpha_upper: 2YAQ6
+md5_6_upper: 4BACCE
+name: Electronic Resistor Quarter Watt Through Hole 470 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 470 Ohm
+name_no_color: 470Ohm
+name_no_size: 470 Ohm
+name_no_type: Quarter Watt Through Hole 470 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_470_ohm
+oomp_word: penguin shirt peach
+oomp_word_emoji: ':penguin: :shirt: :peach:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':shirt:'
+- ':peach:'
+oomp_word_list:
+- penguin
+- shirt
+- peach
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

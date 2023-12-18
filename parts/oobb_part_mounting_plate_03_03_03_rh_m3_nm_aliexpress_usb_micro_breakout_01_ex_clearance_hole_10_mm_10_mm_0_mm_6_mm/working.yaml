@@ -1,0 +1,44 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+directory: parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+id: oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+id_no_class: part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+id_no_color: 030303rhm3nmaliexpressusbmicrobreakout01exclearancehole10mm10mm0mm6mm
+id_no_size: 03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+id_no_type: mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+manufacturer: ''
+md5: cf3603640e6dd05db22277012809179a
+md5_10: cf3603640e
+md5_10_upper: CF3603640E
+md5_5: cf360
+md5_5_upper: CF360
+md5_6: cf3603
+md5_6_alpha: '83283'
+md5_6_alpha_upper: '83283'
+md5_6_upper: CF3603
+name: Oobb Part Mounting Plate 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01
+  Ex Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm
+name_no_class: Part Mounting Plate 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout
+  01 Ex Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm
+name_no_color: 030303Rhm3Nmaliexpressusbmicrobreakout01Exclearancehole10Mm10Mm0Mm6Mm
+name_no_size: 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01 Ex Clearance Hole
+  10 Mm 10 Mm 0 Mm 6 Mm
+name_no_type: Mounting Plate 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01 Ex
+  Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm
+oomp_key: oomp_oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm
+oomp_word: melon rabbit grin
+oomp_word_emoji: ':melon: :rabbit: :grin:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':rabbit:'
+- ':grin:'
+oomp_word_list:
+- melon
+- rabbit
+- grin
+part_number: ''
+size: mounting_plate
+type: part

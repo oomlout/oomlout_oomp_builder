@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_18
+directory: parts/oobb_part_tray_02_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_09_18
+id: oobb_part_tray_02_09_18
+id_no_class: part_tray_02_09_18
+id_no_color: 020918
+id_no_size: 02_09_18
+id_no_type: tray_02_09_18
+manufacturer: ''
+md5: 7232dc9aca0019258f67aedce1273ae3
+md5_10: 7232dc9aca
+md5_10_upper: 7232DC9ACA
+md5_5: 7232d
+md5_5_upper: 7232D
+md5_6: 7232dc
+md5_6_alpha: 4gesc
+md5_6_alpha_upper: 4GESC
+md5_6_upper: 7232DC
+name: Oobb Part Tray 02 09 18
+name_no_class: Part Tray 02 09 18
+name_no_color: 020918
+name_no_size: 02 09 18
+name_no_type: Tray 02 09 18
+oomp_key: oomp_oobb_part_tray_02_09_18
+oomp_word: dolls cat factory
+oomp_word_emoji: ':dolls: :cat: :factory:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':cat:'
+- ':factory:'
+oomp_word_list:
+- dolls
+- cat
+- factory
+part_number: ''
+size: tray
+type: part

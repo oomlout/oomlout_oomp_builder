@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 131314nm8mmtapewidthon10mmreel15mmtapethicknessex1d5
+id_no_size: 13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: 816290d635df66c572142e5227271ec6
+md5_10: 816290d635
+md5_10_upper: 816290D635
+md5_5: '81629'
+md5_5_upper: '81629'
+md5_6: '816290'
+md5_6_alpha: 51qq8
+md5_6_alpha_upper: 51QQ8
+md5_6_upper: '816290'
+name: Oobb Part Smd Magazine 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape
+  Thickness Ex 1D5
+name_no_class: Part Smd Magazine 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm
+  Tape Thickness Ex 1D5
+name_no_color: 131314Nm8Mmtapewidthon10Mmreel15Mmtapethicknessex1D5
+name_no_size: 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness
+  Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness_ex_1d5
+oomp_word: watch tulip scissors
+oomp_word_emoji: ':watch: :tulip: :scissors:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':tulip:'
+- ':scissors:'
+oomp_word_list:
+- watch
+- tulip
+- scissors
+part_number: ''
+size: smd_magazine
+type: part

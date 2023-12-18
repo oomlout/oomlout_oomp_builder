@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 37_pin
+directory: parts/electronic_header_2_54_mm_37_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_37_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_37_pin_surface_mount_right_angle
+id_no_color: 37pinsurfacemountrightangle
+id_no_size: 37_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_37_pin_surface_mount_right_angle
+manufacturer: ''
+md5: b207dccf0d4ba9f6e5e1eda8484e01d0
+md5_10: b207dccf0d
+md5_10_upper: B207DCCF0D
+md5_5: b207d
+md5_5_upper: B207D
+md5_6: b207dc
+md5_6_alpha: 6y2n0
+md5_6_alpha_upper: 6Y2N0
+md5_6_upper: B207DC
+name: Electronic Header 2 54 Mm 37 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 37 Pin Surface Mount Right Angle
+name_no_color: 37Pinsurfacemountrightangle
+name_no_size: 37 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 37 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_37_pin_surface_mount_right_angle
+oomp_word: handbag cry factory
+oomp_word_emoji: ':handbag: :cry: :factory:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':cry:'
+- ':factory:'
+oomp_word_list:
+- handbag
+- cry
+- factory
+part_number: ''
+size: 2_54_mm
+type: header

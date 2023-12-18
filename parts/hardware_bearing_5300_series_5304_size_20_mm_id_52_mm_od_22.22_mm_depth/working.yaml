@@ -1,0 +1,40 @@
+classification: hardware
+color: 5304_size
+description_extra: ''
+description_main: 20_mm_id_52_mm_od_22.22_mm_depth
+directory: parts/hardware_bearing_5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+id: hardware_bearing_5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+id_no_class: bearing_5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+id_no_color: 20_mm_id_52_mm_od_22.22_mm_depth
+id_no_size: 5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+id_no_type: 5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+manufacturer: ''
+md5: 31ebebb5c273699f65964d75f2f70b8f
+md5_10: 31ebebb5c2
+md5_10_upper: 31EBEBB5C2
+md5_5: 31ebe
+md5_5_upper: 31EBE
+md5_6: 31ebeb
+md5_6_alpha: 1y4ff
+md5_6_alpha_upper: 1Y4FF
+md5_6_upper: 31EBEB
+name: Hardware Bearing 5300 Series 5304 Size 20 Mm Id 52 Mm Od 22.22 Mm Depth
+name_no_class: Bearing 5300 Series 5304 Size 20 Mm Id 52 Mm Od 22.22 Mm Depth
+name_no_color: 20 Mm Id 52 Mm Od 22.22 Mm Depth
+name_no_size: 5304 Size 20 Mm Id 52 Mm Od 22.22 Mm Depth
+name_no_type: 5300 Series 5304 Size 20 Mm Id 52 Mm Od 22.22 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5304_size_20_mm_id_52_mm_od_22.22_mm_depth
+oomp_word: ocean car car
+oomp_word_emoji: ':ocean: :car: :car:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':car:'
+- ':car:'
+oomp_word_list:
+- ocean
+- car
+- car
+part_number: ''
+size: 5300_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_07_18
+directory: parts/oobb_part_tray_02_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_07_18
+id: oobb_part_tray_02_07_18
+id_no_class: part_tray_02_07_18
+id_no_color: 020718
+id_no_size: 02_07_18
+id_no_type: tray_02_07_18
+manufacturer: ''
+md5: a92903ef2dc4ea72f2f522f585ac5f15
+md5_10: a92903ef2d
+md5_10_upper: A92903EF2D
+md5_5: a9290
+md5_5_upper: A9290
+md5_6: a92903
+md5_6_alpha: 6lm2r
+md5_6_alpha_upper: 6LM2R
+md5_6_upper: A92903
+name: Oobb Part Tray 02 07 18
+name_no_class: Part Tray 02 07 18
+name_no_color: 020718
+name_no_size: 02 07 18
+name_no_type: Tray 02 07 18
+oomp_key: oomp_oobb_part_tray_02_07_18
+oomp_word: sandal sunny grin
+oomp_word_emoji: ':sandal: :sunny: :grin:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':sunny:'
+- ':grin:'
+oomp_word_list:
+- sandal
+- sunny
+- grin
+part_number: ''
+size: tray
+type: part

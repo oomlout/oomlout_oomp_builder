@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0402_68_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm
+id: electronic_resistor_0402_68_ohm
+id_no_class: resistor_0402_68_ohm
+id_no_color: 68ohm
+id_no_size: 68_ohm
+id_no_type: 0402_68_ohm
+manufacturer: ''
+md5: c8a2f5c8d2a612131492a2f423769963
+md5_10: c8a2f5c8d2
+md5_10_upper: C8A2F5C8D2
+md5_5: c8a2f
+md5_5_upper: C8A2F
+md5_6: c8a2f5
+md5_6_alpha: 7ttrp
+md5_6_alpha_upper: 7TTRP
+md5_6_upper: C8A2F5
+name: Electronic Resistor 0402 68 Ohm
+name_no_class: Resistor 0402 68 Ohm
+name_no_color: 68Ohm
+name_no_size: 68 Ohm
+name_no_type: 0402 68 Ohm
+oomp_key: oomp_electronic_resistor_0402_68_ohm
+oomp_word: apple violin four
+oomp_word_emoji: ':apple: :violin: :four:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':violin:'
+- ':four:'
+oomp_word_list:
+- apple
+- violin
+- four
+part_number: ''
+size: '0402'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_ex_nut_small
+directory: parts/oobb_part_shaft_09_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09_ex_nut_small
+id: oobb_part_shaft_09_ex_nut_small
+id_no_class: part_shaft_09_ex_nut_small
+id_no_color: 09exnutsmall
+id_no_size: 09_ex_nut_small
+id_no_type: shaft_09_ex_nut_small
+manufacturer: ''
+md5: 77dce90db79f59cab18e434b8ce13347
+md5_10: 77dce90db7
+md5_10_upper: 77DCE90DB7
+md5_5: 77dce
+md5_5_upper: 77DCE
+md5_6: 77dce9
+md5_6_alpha: 4od7t
+md5_6_alpha_upper: 4OD7T
+md5_6_upper: 77DCE9
+name: Oobb Part Shaft 09 Ex Nut Small
+name_no_class: Part Shaft 09 Ex Nut Small
+name_no_color: 09Exnutsmall
+name_no_size: 09 Ex Nut Small
+name_no_type: Shaft 09 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_09_ex_nut_small
+oomp_word: gift factory bike
+oomp_word_emoji: ':gift: :factory: :bike:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':factory:'
+- ':bike:'
+oomp_word_list:
+- gift
+- factory
+- bike
+part_number: ''
+size: shaft
+type: part

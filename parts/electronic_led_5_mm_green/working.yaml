@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_green
+id: electronic_led_5_mm_green
+id_no_class: led_5_mm_green
+id_no_color: green
+id_no_size: green
+id_no_type: 5_mm_green
+manufacturer: ''
+md5: b71b9c3a298ae961a34c3856d35b694e
+md5_10: b71b9c3a29
+md5_10_upper: B71B9C3A29
+md5_5: b71b9
+md5_5_upper: B71B9
+md5_6: b71b9c
+md5_6_alpha: 757do
+md5_6_alpha_upper: 757DO
+md5_6_upper: B71B9C
+name: Electronic Led 5 Mm Green
+name_no_class: Led 5 Mm Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 5 Mm Green
+oomp_key: oomp_electronic_led_5_mm_green
+oomp_word: pizza muscle spades
+oomp_word_emoji: ':pizza: :muscle: :spades:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':muscle:'
+- ':spades:'
+oomp_word_list:
+- pizza
+- muscle
+- spades
+part_number: ''
+size: 5_mm
+type: led

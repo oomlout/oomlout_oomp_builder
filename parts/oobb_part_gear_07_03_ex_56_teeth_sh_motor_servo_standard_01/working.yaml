@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_ex_56_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+id_no_color: 0703ex56teethshmotorservostandard01
+id_no_size: 07_03_ex_56_teeth_sh_motor_servo_standard_01
+id_no_type: gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: cecd97a4c5f858569db6b643b3fff39e
+md5_10: cecd97a4c5
+md5_10_upper: CECD97A4C5
+md5_5: cecd9
+md5_5_upper: CECD9
+md5_6: cecd97
+md5_6_alpha: 82hlj
+md5_6_alpha_upper: 82HLJ
+md5_6_upper: CECD97
+name: Oobb Part Gear 07 03 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 07 03 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_color: 0703Ex56Teethshmotorservostandard01
+name_no_size: 07 03 Ex 56 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 07 03 Ex 56 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_07_03_ex_56_teeth_sh_motor_servo_standard_01
+oomp_word: peach strawberry baseball
+oomp_word_emoji: ':peach: :strawberry: :baseball:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':strawberry:'
+- ':baseball:'
+oomp_word_list:
+- peach
+- strawberry
+- baseball
+part_number: ''
+size: gear
+type: part

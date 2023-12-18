@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_36_teeth_shield
+directory: parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_shield
+id: oobb_part_pulley_gt2_01_09_ex_36_teeth_shield
+id_no_class: part_pulley_gt2_01_09_ex_36_teeth_shield
+id_no_color: 0109ex36teethshield
+id_no_size: 01_09_ex_36_teeth_shield
+id_no_type: pulley_gt2_01_09_ex_36_teeth_shield
+manufacturer: ''
+md5: 337aa175fe38c58d396ba8d47f3dac9d
+md5_10: 337aa175fe
+md5_10_upper: 337AA175FE
+md5_5: 337aa
+md5_5_upper: 337AA
+md5_6: 337aa1
+md5_6_alpha: 20b6p
+md5_6_alpha_upper: 20B6P
+md5_6_upper: 337AA1
+name: Oobb Part Pulley Gt2 01 09 Ex 36 Teeth Shield
+name_no_class: Part Pulley Gt2 01 09 Ex 36 Teeth Shield
+name_no_color: 0109Ex36Teethshield
+name_no_size: 01 09 Ex 36 Teeth Shield
+name_no_type: Pulley Gt2 01 09 Ex 36 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_36_teeth_shield
+oomp_word: dog camera trophy
+oomp_word_emoji: ':dog: :camera: :trophy:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':camera:'
+- ':trophy:'
+oomp_word_list:
+- dog
+- camera
+- trophy
+part_number: ''
+size: pulley_gt2
+type: part

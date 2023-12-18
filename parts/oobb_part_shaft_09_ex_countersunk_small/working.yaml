@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_ex_countersunk_small
+directory: parts/oobb_part_shaft_09_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09_ex_countersunk_small
+id: oobb_part_shaft_09_ex_countersunk_small
+id_no_class: part_shaft_09_ex_countersunk_small
+id_no_color: 09excountersunksmall
+id_no_size: 09_ex_countersunk_small
+id_no_type: shaft_09_ex_countersunk_small
+manufacturer: ''
+md5: 450fc33c1cc69bbc62f72f45bd86ca74
+md5_10: 450fc33c1c
+md5_10_upper: 450FC33C1C
+md5_5: 450fc
+md5_5_upper: 450FC
+md5_6: 450fc3
+md5_6_alpha: 2p0ar
+md5_6_alpha_upper: 2P0AR
+md5_6_upper: 450FC3
+name: Oobb Part Shaft 09 Ex Countersunk Small
+name_no_class: Part Shaft 09 Ex Countersunk Small
+name_no_color: 09Excountersunksmall
+name_no_size: 09 Ex Countersunk Small
+name_no_type: Shaft 09 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_09_ex_countersunk_small
+oomp_word: snake sparkles cake
+oomp_word_emoji: ':snake: :sparkles: :cake:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':sparkles:'
+- ':cake:'
+oomp_word_list:
+- snake
+- sparkles
+- cake
+part_number: ''
+size: shaft
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2200000_ohm
+directory: parts/electronic_resistor_0603_2200000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2200000_ohm
+id: electronic_resistor_0603_2200000_ohm
+id_no_class: resistor_0603_2200000_ohm
+id_no_color: 2200000ohm
+id_no_size: 2200000_ohm
+id_no_type: 0603_2200000_ohm
+manufacturer: ''
+md5: ffca14462ad9020672354cf8d89964a5
+md5_10: ffca14462a
+md5_10_upper: FFCA14462A
+md5_5: ffca1
+md5_5_upper: FFCA1
+md5_6: ffca14
+md5_6_alpha: 9zaqc
+md5_6_alpha_upper: 9ZAQC
+md5_6_upper: FFCA14
+name: Electronic Resistor 0603 2200000 Ohm
+name_no_class: Resistor 0603 2200000 Ohm
+name_no_color: 2200000Ohm
+name_no_size: 2200000 Ohm
+name_no_type: 0603 2200000 Ohm
+oomp_key: oomp_electronic_resistor_0603_2200000_ohm
+oomp_word: trident cherries fire
+oomp_word_emoji: ':trident: :cherries: :fire:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':cherries:'
+- ':fire:'
+oomp_word_list:
+- trident
+- cherries
+- fire
+part_number: ''
+size: '0603'
+type: resistor

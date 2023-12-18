@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_33_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_33_ohm
+id: electronic_resistor_quarter_watt_through_hole_33_ohm
+id_no_class: resistor_quarter_watt_through_hole_33_ohm
+id_no_color: 33ohm
+id_no_size: 33_ohm
+id_no_type: quarter_watt_through_hole_33_ohm
+manufacturer: ''
+md5: d7dc893039af054dbab894fdef7af17d
+md5_10: d7dc893039
+md5_10_upper: D7DC893039
+md5_5: d7dc8
+md5_5_upper: D7DC8
+md5_6: d7dc89
+md5_6_alpha: 8f7nt
+md5_6_alpha_upper: 8F7NT
+md5_6_upper: D7DC89
+name: Electronic Resistor Quarter Watt Through Hole 33 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 33 Ohm
+name_no_color: 33Ohm
+name_no_size: 33 Ohm
+name_no_type: Quarter Watt Through Hole 33 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_33_ohm
+oomp_word: office factory hammer
+oomp_word_emoji: ':office: :factory: :hammer:'
+oomp_word_emoji_list:
+- ':office:'
+- ':factory:'
+- ':hammer:'
+oomp_word_list:
+- office
+- factory
+- hammer
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

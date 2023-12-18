@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_ex_nut
+directory: parts/oobb_part_shaft_04_ex_nut
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04_ex_nut
+id: oobb_part_shaft_04_ex_nut
+id_no_class: part_shaft_04_ex_nut
+id_no_color: 04exnut
+id_no_size: 04_ex_nut
+id_no_type: shaft_04_ex_nut
+manufacturer: ''
+md5: e509320f8d428515ddc3e2c7e0b2dd05
+md5_10: e509320f8d
+md5_10_upper: E509320F8D
+md5_5: e5093
+md5_5_upper: E5093
+md5_6: e50932
+md5_6_alpha: 8xpv6
+md5_6_alpha_upper: 8XPV6
+md5_6_upper: E50932
+name: Oobb Part Shaft 04 Ex Nut
+name_no_class: Part Shaft 04 Ex Nut
+name_no_color: 04Exnut
+name_no_size: 04 Ex Nut
+name_no_type: Shaft 04 Ex Nut
+oomp_key: oomp_oobb_part_shaft_04_ex_nut
+oomp_word: rocket angry cat
+oomp_word_emoji: ':rocket: :angry: :cat:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':angry:'
+- ':cat:'
+oomp_word_list:
+- rocket
+- angry
+- cat
+part_number: ''
+size: shaft
+type: part

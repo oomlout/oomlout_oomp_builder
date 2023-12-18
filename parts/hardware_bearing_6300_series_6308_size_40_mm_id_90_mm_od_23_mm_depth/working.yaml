@@ -1,0 +1,40 @@
+classification: hardware
+color: 6308_size
+description_extra: ''
+description_main: 40_mm_id_90_mm_od_23_mm_depth
+directory: parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+id: hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+id_no_class: bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+id_no_color: 40_mm_id_90_mm_od_23_mm_depth
+id_no_size: 6308_size_40_mm_id_90_mm_od_23_mm_depth
+id_no_type: 6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+manufacturer: ''
+md5: 87ccb76a4054f62e65aa300575080976
+md5_10: 87ccb76a40
+md5_10_upper: 87CCB76A40
+md5_5: 87ccb
+md5_5_upper: 87CCB
+md5_6: 87ccb7
+md5_6_alpha: 5ar3r
+md5_6_alpha_upper: 5AR3R
+md5_6_upper: 87CCB7
+name: Hardware Bearing 6300 Series 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth
+name_no_class: Bearing 6300 Series 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth
+name_no_color: 40 Mm Id 90 Mm Od 23 Mm Depth
+name_no_size: 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth
+name_no_type: 6300 Series 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+oomp_word: toilet watermelon pizza
+oomp_word_emoji: ':toilet: :watermelon: :pizza:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':watermelon:'
+- ':pizza:'
+oomp_word_list:
+- toilet
+- watermelon
+- pizza
+part_number: ''
+size: 6300_series
+type: bearing

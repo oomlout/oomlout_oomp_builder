@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_15'
+directory: parts/oobb_part_tray_thin_06_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_01_15
+id: oobb_part_tray_thin_06_01_15
+id_no_class: part_tray_thin_06_01_15
+id_no_color: '060115'
+id_no_size: '06_01_15'
+id_no_type: tray_thin_06_01_15
+manufacturer: ''
+md5: 9173fd370efb4eca9bbd13b9e9b71156
+md5_10: 9173fd370e
+md5_10_upper: 9173FD370E
+md5_5: 9173f
+md5_5_upper: 9173F
+md5_6: 9173fd
+md5_6_alpha: 5ob99
+md5_6_alpha_upper: 5OB99
+md5_6_upper: 9173FD
+name: Oobb Part Tray Thin 06 01 15
+name_no_class: Part Tray Thin 06 01 15
+name_no_color: '060115'
+name_no_size: 06 01 15
+name_no_type: Tray Thin 06 01 15
+oomp_key: oomp_oobb_part_tray_thin_06_01_15
+oomp_word: pushpin flags parking
+oomp_word_emoji: ':pushpin: :flags: :parking:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':flags:'
+- ':parking:'
+oomp_word_list:
+- pushpin
+- flags
+- parking
+part_number: ''
+size: tray_thin
+type: part

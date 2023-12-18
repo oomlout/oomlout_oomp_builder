@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_3_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_3_mm_penny
+id: hardware_washer_3_mm_penny
+id_no_class: washer_3_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 3_mm_penny
+manufacturer: ''
+md5: 0f84f252b2e9551b182028ddbae23762
+md5_10: 0f84f252b2
+md5_10_upper: 0F84F252B2
+md5_5: 0f84f
+md5_5_upper: 0F84F
+md5_6: 0f84f2
+md5_6_alpha: lss2
+md5_6_alpha_upper: LSS2
+md5_6_upper: 0F84F2
+name: Hardware Washer 3 Mm Penny
+name_no_class: Washer 3 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 3 Mm Penny
+oomp_key: oomp_hardware_washer_3_mm_penny
+oomp_word: sparkles key one
+oomp_word_emoji: ':sparkles: :key: :one:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':key:'
+- ':one:'
+oomp_word_list:
+- sparkles
+- key
+- one
+part_number: ''
+size: 3_mm
+type: washer

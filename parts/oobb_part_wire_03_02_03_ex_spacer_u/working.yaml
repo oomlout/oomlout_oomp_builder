@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_03_ex_spacer_u
+directory: parts/oobb_part_wire_03_02_03_ex_spacer_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_03_ex_spacer_u
+id: oobb_part_wire_03_02_03_ex_spacer_u
+id_no_class: part_wire_03_02_03_ex_spacer_u
+id_no_color: 030203exspaceru
+id_no_size: 03_02_03_ex_spacer_u
+id_no_type: wire_03_02_03_ex_spacer_u
+manufacturer: ''
+md5: 817326c2c4424cee1381f30d4f7d66e4
+md5_10: 817326c2c4
+md5_10_upper: 817326C2C4
+md5_5: '81732'
+md5_5_upper: '81732'
+md5_6: '817326'
+md5_6_alpha: 51u06
+md5_6_alpha_upper: 51U06
+md5_6_upper: '817326'
+name: Oobb Part Wire 03 02 03 Ex Spacer U
+name_no_class: Part Wire 03 02 03 Ex Spacer U
+name_no_color: 030203Exspaceru
+name_no_size: 03 02 03 Ex Spacer U
+name_no_type: Wire 03 02 03 Ex Spacer U
+oomp_key: oomp_oobb_part_wire_03_02_03_ex_spacer_u
+oomp_word: watch flags eyes
+oomp_word_emoji: ':watch: :flags: :eyes:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':flags:'
+- ':eyes:'
+oomp_word_list:
+- watch
+- flags
+- eyes
+part_number: ''
+size: wire
+type: part

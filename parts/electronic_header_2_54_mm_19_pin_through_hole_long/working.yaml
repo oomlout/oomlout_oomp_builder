@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 19_pin
+directory: parts/electronic_header_2_54_mm_19_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_long
+id: electronic_header_2_54_mm_19_pin_through_hole_long
+id_no_class: header_2_54_mm_19_pin_through_hole_long
+id_no_color: 19pinthroughholelong
+id_no_size: 19_pin_through_hole_long
+id_no_type: 2_54_mm_19_pin_through_hole_long
+manufacturer: ''
+md5: c8324fa64224c1aca1bd328eb9ec94cd
+md5_10: c8324fa642
+md5_10_upper: C8324FA642
+md5_5: c8324
+md5_5_upper: C8324
+md5_6: c8324f
+md5_6_alpha: 7t7in
+md5_6_alpha_upper: 7T7IN
+md5_6_upper: C8324F
+name: Electronic Header 2 54 Mm 19 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 19 Pin Through Hole Long
+name_no_color: 19Pinthroughholelong
+name_no_size: 19 Pin Through Hole Long
+name_no_type: 2 54 Mm 19 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_19_pin_through_hole_long
+oomp_word: apple cat ant
+oomp_word_emoji: ':apple: :cat: :ant:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':cat:'
+- ':ant:'
+oomp_word_list:
+- apple
+- cat
+- ant
+part_number: ''
+size: 2_54_mm
+type: header

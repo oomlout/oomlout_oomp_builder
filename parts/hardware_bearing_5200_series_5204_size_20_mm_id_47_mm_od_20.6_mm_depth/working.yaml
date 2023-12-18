@@ -1,0 +1,40 @@
+classification: hardware
+color: 5204_size
+description_extra: ''
+description_main: 20_mm_id_47_mm_od_20.6_mm_depth
+directory: parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+id: hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_class: bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_color: 20_mm_id_47_mm_od_20.6_mm_depth
+id_no_size: 5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_type: 5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+manufacturer: ''
+md5: aec12fab109ae54f351c46e29a481626
+md5_10: aec12fab10
+md5_10_upper: AEC12FAB10
+md5_5: aec12
+md5_5_upper: AEC12
+md5_6: aec12f
+md5_6_alpha: 6tgz3
+md5_6_alpha_upper: 6TGZ3
+md5_6_upper: AEC12F
+name: Hardware Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_class: Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_color: 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_size: 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_type: 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+oomp_word: jeans doughnut cyclone
+oomp_word_emoji: ':jeans: :doughnut: :cyclone:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':doughnut:'
+- ':cyclone:'
+oomp_word_list:
+- jeans
+- doughnut
+- cyclone
+part_number: ''
+size: 5200_series
+type: bearing

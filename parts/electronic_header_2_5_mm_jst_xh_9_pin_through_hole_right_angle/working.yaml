@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 9_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_9_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_9_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_9_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_9_pin_through_hole_right_angle
+id_no_color: 9pinthroughholerightangle
+id_no_size: 9_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_9_pin_through_hole_right_angle
+manufacturer: ''
+md5: d8bbecb5b4883ec2fda7e34e3a6400ce
+md5_10: d8bbecb5b4
+md5_10_upper: D8BBECB5B4
+md5_5: d8bbe
+md5_5_upper: D8BBE
+md5_6: d8bbec
+md5_6_alpha: 8gfsc
+md5_6_alpha_upper: 8GFSC
+md5_6_upper: D8BBEC
+name: Electronic Header 2 5 Mm Jst Xh 9 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 9 Pin Through Hole Right Angle
+name_no_color: 9Pinthroughholerightangle
+name_no_size: 9 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 9 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_9_pin_through_hole_right_angle
+oomp_word: hospital curry taxi
+oomp_word_emoji: ':hospital: :curry: :taxi:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':curry:'
+- ':taxi:'
+oomp_word_list:
+- hospital
+- curry
+- taxi
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

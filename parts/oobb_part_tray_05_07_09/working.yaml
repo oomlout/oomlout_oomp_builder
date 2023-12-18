@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_07_09
+directory: parts/oobb_part_tray_05_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_07_09
+id: oobb_part_tray_05_07_09
+id_no_class: part_tray_05_07_09
+id_no_color: 050709
+id_no_size: 05_07_09
+id_no_type: tray_05_07_09
+manufacturer: ''
+md5: 6e011db2223cda573f7a42a348afb33b
+md5_10: 6e011db222
+md5_10_upper: 6E011DB222
+md5_5: 6e011
+md5_5_upper: 6E011
+md5_6: 6e011d
+md5_6_alpha: 4aiot
+md5_6_alpha_upper: 4AIOT
+md5_6_upper: 6E011D
+name: Oobb Part Tray 05 07 09
+name_no_class: Part Tray 05 07 09
+name_no_color: 050709
+name_no_size: 05 07 09
+name_no_type: Tray 05 07 09
+oomp_key: oomp_oobb_part_tray_05_07_09
+oomp_word: new_moon smile baby
+oomp_word_emoji: ':new_moon: :smile: :baby:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':smile:'
+- ':baby:'
+oomp_word_list:
+- new_moon
+- smile
+- baby
+part_number: ''
+size: tray
+type: part

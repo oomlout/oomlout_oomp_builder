@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_03'
+directory: parts/oobb_part_plate_03_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_03
+id: oobb_part_plate_03_03_03
+id_no_class: part_plate_03_03_03
+id_no_color: '030303'
+id_no_size: '03_03_03'
+id_no_type: plate_03_03_03
+manufacturer: ''
+md5: b02396f9f42b7f8a27777493095676f9
+md5_10: b02396f9f4
+md5_10_upper: B02396F9F4
+md5_5: b0239
+md5_5_upper: B0239
+md5_6: b02396
+md5_6_alpha: 6veza
+md5_6_alpha_upper: 6VEZA
+md5_6_upper: B02396
+name: Oobb Part Plate 03 03 03
+name_no_class: Part Plate 03 03 03
+name_no_color: '030303'
+name_no_size: 03 03 03
+name_no_type: Plate 03 03 03
+oomp_key: oomp_oobb_part_plate_03_03_03
+oomp_word: crown kiss basketball
+oomp_word_emoji: ':crown: :kiss: :basketball:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':kiss:'
+- ':basketball:'
+oomp_word_list:
+- crown
+- kiss
+- basketball
+part_number: ''
+size: plate
+type: part

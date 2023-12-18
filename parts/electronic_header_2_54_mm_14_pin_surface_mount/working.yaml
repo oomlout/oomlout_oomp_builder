@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_surface_mount
+id: electronic_header_2_54_mm_14_pin_surface_mount
+id_no_class: header_2_54_mm_14_pin_surface_mount
+id_no_color: 14pinsurfacemount
+id_no_size: 14_pin_surface_mount
+id_no_type: 2_54_mm_14_pin_surface_mount
+manufacturer: ''
+md5: 9286488f8a7f145c892a1592ca139081
+md5_10: 9286488f8a
+md5_10_upper: 9286488F8A
+md5_5: '92864'
+md5_5_upper: '92864'
+md5_6: '928648'
+md5_6_alpha: 5ptfs
+md5_6_alpha_upper: 5PTFS
+md5_6_upper: '928648'
+name: Electronic Header 2 54 Mm 14 Pin Surface Mount
+name_no_class: Header 2 54 Mm 14 Pin Surface Mount
+name_no_color: 14Pinsurfacemount
+name_no_size: 14 Pin Surface Mount
+name_no_type: 2 54 Mm 14 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_surface_mount
+oomp_word: paperclip bath hatched_chick
+oomp_word_emoji: ':paperclip: :bath: :hatched_chick:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':bath:'
+- ':hatched_chick:'
+oomp_word_list:
+- paperclip
+- bath
+- hatched_chick
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_06_18'
+directory: parts/oobb_part_tray_vertical_10_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_06_18
+id: oobb_part_tray_vertical_10_06_18
+id_no_class: part_tray_vertical_10_06_18
+id_no_color: '100618'
+id_no_size: '10_06_18'
+id_no_type: tray_vertical_10_06_18
+manufacturer: ''
+md5: fed59a1e84b31ccc9d5d9d75fefd6dcd
+md5_10: fed59a1e84
+md5_10_upper: FED59A1E84
+md5_5: fed59
+md5_5_upper: FED59
+md5_6: fed59a
+md5_6_alpha: 9xyfu
+md5_6_alpha_upper: 9XYFU
+md5_6_upper: FED59A
+name: Oobb Part Tray Vertical 10 06 18
+name_no_class: Part Tray Vertical 10 06 18
+name_no_color: '100618'
+name_no_size: 10 06 18
+name_no_type: Tray Vertical 10 06 18
+oomp_key: oomp_oobb_part_tray_vertical_10_06_18
+oomp_word: recycle house golf
+oomp_word_emoji: ':recycle: :house: :golf:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':house:'
+- ':golf:'
+oomp_word_list:
+- recycle
+- house
+- golf
+part_number: ''
+size: tray_vertical
+type: part

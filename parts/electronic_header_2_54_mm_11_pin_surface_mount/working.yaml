@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 11_pin
+directory: parts/electronic_header_2_54_mm_11_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount
+id: electronic_header_2_54_mm_11_pin_surface_mount
+id_no_class: header_2_54_mm_11_pin_surface_mount
+id_no_color: 11pinsurfacemount
+id_no_size: 11_pin_surface_mount
+id_no_type: 2_54_mm_11_pin_surface_mount
+manufacturer: ''
+md5: 843817779dbb34f991ce1f5dbcee135c
+md5_10: 843817779d
+md5_10_upper: 843817779D
+md5_5: '84381'
+md5_5_upper: '84381'
+md5_6: '843817'
+md5_6_alpha: 55q1j
+md5_6_alpha_upper: 55Q1J
+md5_6_upper: '843817'
+name: Electronic Header 2 54 Mm 11 Pin Surface Mount
+name_no_class: Header 2 54 Mm 11 Pin Surface Mount
+name_no_color: 11Pinsurfacemount
+name_no_size: 11 Pin Surface Mount
+name_no_type: 2 54 Mm 11 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_11_pin_surface_mount
+oomp_word: key frog thumbsdown
+oomp_word_emoji: ':key: :frog: :thumbsdown:'
+oomp_word_emoji_list:
+- ':key:'
+- ':frog:'
+- ':thumbsdown:'
+oomp_word_list:
+- key
+- frog
+- thumbsdown
+part_number: ''
+size: 2_54_mm
+type: header

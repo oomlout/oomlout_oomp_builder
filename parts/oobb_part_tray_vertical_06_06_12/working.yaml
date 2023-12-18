@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_06_12'
+directory: parts/oobb_part_tray_vertical_06_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_06_12
+id: oobb_part_tray_vertical_06_06_12
+id_no_class: part_tray_vertical_06_06_12
+id_no_color: '060612'
+id_no_size: '06_06_12'
+id_no_type: tray_vertical_06_06_12
+manufacturer: ''
+md5: ff27126b35615d0fe77eee25586cd25e
+md5_10: ff27126b35
+md5_10_upper: FF27126B35
+md5_5: ff271
+md5_5_upper: FF271
+md5_6: ff2712
+md5_6_alpha: 9yej6
+md5_6_alpha_upper: 9YEJ6
+md5_6_upper: FF2712
+name: Oobb Part Tray Vertical 06 06 12
+name_no_class: Part Tray Vertical 06 06 12
+name_no_color: '060612'
+name_no_size: 06 06 12
+name_no_type: Tray Vertical 06 06 12
+oomp_key: oomp_oobb_part_tray_vertical_06_06_12
+oomp_word: trident nose anger
+oomp_word_emoji: ':trident: :nose: :anger:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':nose:'
+- ':anger:'
+oomp_word_list:
+- trident
+- nose
+- anger
+part_number: ''
+size: tray_vertical
+type: part

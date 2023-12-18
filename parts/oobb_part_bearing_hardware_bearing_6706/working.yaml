@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6706
+directory: parts/oobb_part_bearing_hardware_bearing_6706
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6706
+id: oobb_part_bearing_hardware_bearing_6706
+id_no_class: part_bearing_hardware_bearing_6706
+id_no_color: hardware6706
+id_no_size: hardware_6706
+id_no_type: bearing_hardware_bearing_6706
+manufacturer: ''
+md5: bf0f22321c72bc29926f3dbe8d625dbc
+md5_10: bf0f22321c
+md5_10_upper: BF0F22321C
+md5_5: bf0f2
+md5_5_upper: BF0F2
+md5_6: bf0f22
+md5_6_alpha: 7gdgi
+md5_6_alpha_upper: 7GDGI
+md5_6_upper: BF0F22
+name: Oobb Part Bearing Hardware Bearing 6706
+name_no_class: Part Bearing Hardware Bearing 6706
+name_no_color: Hardware6706
+name_no_size: Hardware 6706
+name_no_type: Bearing Hardware Bearing 6706
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6706
+oomp_word: egg sparkles lips
+oomp_word_emoji: ':egg: :sparkles: :lips:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':sparkles:'
+- ':lips:'
+oomp_word_list:
+- egg
+- sparkles
+- lips
+part_number: ''
+size: bearing
+type: part

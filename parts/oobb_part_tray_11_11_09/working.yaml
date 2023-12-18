@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_09'
+directory: parts/oobb_part_tray_11_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_11_09
+id: oobb_part_tray_11_11_09
+id_no_class: part_tray_11_11_09
+id_no_color: '111109'
+id_no_size: '11_11_09'
+id_no_type: tray_11_11_09
+manufacturer: ''
+md5: 6a35765f1d92a344b02d3823f51d3917
+md5_10: 6a35765f1d
+md5_10_upper: 6A35765F1D
+md5_5: 6a357
+md5_5_upper: 6A357
+md5_6: 6a3576
+md5_6_alpha: 456ra
+md5_6_alpha_upper: 456RA
+md5_6_upper: 6A3576
+name: Oobb Part Tray 11 11 09
+name_no_class: Part Tray 11 11 09
+name_no_color: '111109'
+name_no_size: 11 11 09
+name_no_type: Tray 11 11 09
+oomp_key: oomp_oobb_part_tray_11_11_09
+oomp_word: palm_tree hamster santa
+oomp_word_emoji: ':palm_tree: :hamster: :santa:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':hamster:'
+- ':santa:'
+oomp_word_list:
+- palm_tree
+- hamster
+- santa
+part_number: ''
+size: tray
+type: part

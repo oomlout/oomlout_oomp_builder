@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_02_18
+directory: parts/oobb_part_tray_vertical_06_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_02_18
+id: oobb_part_tray_vertical_06_02_18
+id_no_class: part_tray_vertical_06_02_18
+id_no_color: 060218
+id_no_size: 06_02_18
+id_no_type: tray_vertical_06_02_18
+manufacturer: ''
+md5: 12afff8c0f4b28ffa34538c1c70a1814
+md5_10: 12afff8c0f
+md5_10_upper: 12AFFF8C0F
+md5_5: 12aff
+md5_5_upper: 12AFF
+md5_6: 12afff
+md5_6_alpha: q8zj
+md5_6_alpha_upper: Q8ZJ
+md5_6_upper: 12AFFF
+name: Oobb Part Tray Vertical 06 02 18
+name_no_class: Part Tray Vertical 06 02 18
+name_no_color: 060218
+name_no_size: 06 02 18
+name_no_type: Tray Vertical 06 02 18
+oomp_key: oomp_oobb_part_tray_vertical_06_02_18
+oomp_word: anger tophat trident
+oomp_word_emoji: ':anger: :tophat: :trident:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':tophat:'
+- ':trident:'
+oomp_word_list:
+- anger
+- tophat
+- trident
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_03_12
+directory: parts/oobb_part_tray_vertical_2d5_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_03_12
+id: oobb_part_tray_vertical_2d5_03_12
+id_no_class: part_tray_vertical_2d5_03_12
+id_no_color: 2d50312
+id_no_size: 2d5_03_12
+id_no_type: tray_vertical_2d5_03_12
+manufacturer: ''
+md5: ab8da760d24fda010b9cd91faa570db1
+md5_10: ab8da760d2
+md5_10_upper: AB8DA760D2
+md5_5: ab8da
+md5_5_upper: AB8DA
+md5_6: ab8da7
+md5_6_alpha: 6oz3b
+md5_6_alpha_upper: 6OZ3B
+md5_6_upper: AB8DA7
+name: Oobb Part Tray Vertical 2D5 03 12
+name_no_class: Part Tray Vertical 2D5 03 12
+name_no_color: 2D50312
+name_no_size: 2D5 03 12
+name_no_type: Tray Vertical 2D5 03 12
+oomp_key: oomp_oobb_part_tray_vertical_2d5_03_12
+oomp_word: boot scroll guitar
+oomp_word_emoji: ':boot: :scroll: :guitar:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':scroll:'
+- ':guitar:'
+oomp_word_list:
+- boot
+- scroll
+- guitar
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+directory: parts/oobb_part_mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id: oobb_part_mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_class: part_mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_color: 060403rhm2d5mo56nmaliexpressi2cservodriverpca9685
+id_no_size: 06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_type: mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+manufacturer: ''
+md5: a1fe26f87809f918d2bf0de916aca45d
+md5_10: a1fe26f878
+md5_10_upper: A1FE26F878
+md5_5: a1fe2
+md5_5_upper: A1FE2
+md5_6: a1fe26
+md5_6_alpha: 6bjmu
+md5_6_alpha_upper: 6BJMU
+md5_6_upper: A1FE26
+name: Oobb Part Mounting Plate 06 04 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver
+  Pca9685
+name_no_class: Part Mounting Plate 06 04 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo
+  Driver Pca9685
+name_no_color: 060403Rhm2D5Mo56Nmaliexpressi2Cservodriverpca9685
+name_no_size: 06 04 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
+name_no_type: Mounting Plate 06 04 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver
+  Pca9685
+oomp_key: oomp_oobb_part_mounting_plate_06_04_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+oomp_word: trophy recycle eyes
+oomp_word_emoji: ':trophy: :recycle: :eyes:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':recycle:'
+- ':eyes:'
+oomp_word_list:
+- trophy
+- recycle
+- eyes
+part_number: ''
+size: mounting_plate
+type: part

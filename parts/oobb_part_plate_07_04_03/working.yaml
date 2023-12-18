@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_04_03'
+directory: parts/oobb_part_plate_07_04_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_04_03
+id: oobb_part_plate_07_04_03
+id_no_class: part_plate_07_04_03
+id_no_color: '070403'
+id_no_size: '07_04_03'
+id_no_type: plate_07_04_03
+manufacturer: ''
+md5: 7a55f3add373495df9dd8923aeb208e2
+md5_10: 7a55f3add3
+md5_10_upper: 7A55F3ADD3
+md5_5: 7a55f
+md5_5_upper: 7A55F
+md5_6: 7a55f3
+md5_6_alpha: 4ru9f
+md5_6_alpha_upper: 4RU9F
+md5_6_upper: 7A55F3
+name: Oobb Part Plate 07 04 03
+name_no_class: Part Plate 07 04 03
+name_no_color: '070403'
+name_no_size: 07 04 03
+name_no_type: Plate 07 04 03
+oomp_key: oomp_oobb_part_plate_07_04_03
+oomp_word: camera dolphin two
+oomp_word_emoji: ':camera: :dolphin: :two:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':dolphin:'
+- ':two:'
+oomp_word_list:
+- camera
+- dolphin
+- two
+part_number: ''
+size: plate
+type: part

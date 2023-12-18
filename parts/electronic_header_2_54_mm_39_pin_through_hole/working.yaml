@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 39_pin
+directory: parts/electronic_header_2_54_mm_39_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole
+id: electronic_header_2_54_mm_39_pin_through_hole
+id_no_class: header_2_54_mm_39_pin_through_hole
+id_no_color: 39pinthroughhole
+id_no_size: 39_pin_through_hole
+id_no_type: 2_54_mm_39_pin_through_hole
+manufacturer: ''
+md5: 3694eed3eb439625c2b05b1035a9b47b
+md5_10: 3694eed3eb
+md5_10_upper: 3694EED3EB
+md5_5: 3694e
+md5_5_upper: 3694E
+md5_6: 3694ee
+md5_6_alpha: 24o32
+md5_6_alpha_upper: 24O32
+md5_6_upper: 3694EE
+name: Electronic Header 2 54 Mm 39 Pin Through Hole
+name_no_class: Header 2 54 Mm 39 Pin Through Hole
+name_no_color: 39Pinthroughhole
+name_no_size: 39 Pin Through Hole
+name_no_type: 2 54 Mm 39 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_39_pin_through_hole
+oomp_word: rabbit microscope ambulance
+oomp_word_emoji: ':rabbit: :microscope: :ambulance:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':microscope:'
+- ':ambulance:'
+oomp_word_list:
+- rabbit
+- microscope
+- ambulance
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_10_15'
+directory: parts/oobb_part_tray_vertical_11_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_10_15
+id: oobb_part_tray_vertical_11_10_15
+id_no_class: part_tray_vertical_11_10_15
+id_no_color: '111015'
+id_no_size: '11_10_15'
+id_no_type: tray_vertical_11_10_15
+manufacturer: ''
+md5: 4ecc63006a9a9ebfe2727300805df071
+md5_10: 4ecc63006a
+md5_10_upper: 4ECC63006A
+md5_5: 4ecc6
+md5_5_upper: 4ECC6
+md5_6: 4ecc63
+md5_6_alpha: 32oo3
+md5_6_alpha_upper: 32OO3
+md5_6_upper: 4ECC63
+name: Oobb Part Tray Vertical 11 10 15
+name_no_class: Part Tray Vertical 11 10 15
+name_no_color: '111015'
+name_no_size: 11 10 15
+name_no_type: Tray Vertical 11 10 15
+oomp_key: oomp_oobb_part_tray_vertical_11_10_15
+oomp_word: honeybee watermelon rose
+oomp_word_emoji: ':honeybee: :watermelon: :rose:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':watermelon:'
+- ':rose:'
+oomp_word_list:
+- honeybee
+- watermelon
+- rose
+part_number: ''
+size: tray_vertical
+type: part

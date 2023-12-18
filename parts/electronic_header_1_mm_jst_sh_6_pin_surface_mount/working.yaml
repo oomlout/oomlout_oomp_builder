@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 6_pin
+directory: parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount
+id: electronic_header_1_mm_jst_sh_6_pin_surface_mount
+id_no_class: header_1_mm_jst_sh_6_pin_surface_mount
+id_no_color: 6pinsurfacemount
+id_no_size: 6_pin_surface_mount
+id_no_type: 1_mm_jst_sh_6_pin_surface_mount
+manufacturer: ''
+md5: 60628a62dc19146d0dc1b7f8792dfb76
+md5_10: 60628a62dc
+md5_10_upper: 60628A62DC
+md5_5: '60628'
+md5_5_upper: '60628'
+md5_6: 60628a
+md5_6_alpha: 3rdze
+md5_6_alpha_upper: 3RDZE
+md5_6_upper: 60628A
+name: Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount
+name_no_class: Header 1 Mm Jst Sh 6 Pin Surface Mount
+name_no_color: 6Pinsurfacemount
+name_no_size: 6 Pin Surface Mount
+name_no_type: 1 Mm Jst Sh 6 Pin Surface Mount
+oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount
+oomp_word: poodle tulip envelope
+oomp_word_emoji: ':poodle: :tulip: :envelope:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':tulip:'
+- ':envelope:'
+oomp_word_list:
+- poodle
+- tulip
+- envelope
+part_number: ''
+size: 1_mm_jst_sh
+type: header

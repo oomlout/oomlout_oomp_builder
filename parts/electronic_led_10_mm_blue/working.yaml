@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_10_mm_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue
+id: electronic_led_10_mm_blue
+id_no_class: led_10_mm_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 10_mm_blue
+manufacturer: ''
+md5: 78055f06d160820fbae0757e8a0f65f1
+md5_10: 78055f06d1
+md5_10_upper: 78055F06D1
+md5_5: '78055'
+md5_5_upper: '78055'
+md5_6: 78055f
+md5_6_alpha: 4ol7j
+md5_6_alpha_upper: 4OL7J
+md5_6_upper: 78055F
+name: Electronic Led 10 Mm Blue
+name_no_class: Led 10 Mm Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 10 Mm Blue
+oomp_key: oomp_electronic_led_10_mm_blue
+oomp_word: bell kissing leopard
+oomp_word_emoji: ':bell: :kissing: :leopard:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':kissing:'
+- ':leopard:'
+oomp_word_list:
+- bell
+- kissing
+- leopard
+part_number: ''
+size: 10_mm
+type: led

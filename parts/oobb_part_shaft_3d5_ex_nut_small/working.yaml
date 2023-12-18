@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5_ex_nut_small
+directory: parts/oobb_part_shaft_3d5_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_ex_nut_small
+id: oobb_part_shaft_3d5_ex_nut_small
+id_no_class: part_shaft_3d5_ex_nut_small
+id_no_color: 3d5exnutsmall
+id_no_size: 3d5_ex_nut_small
+id_no_type: shaft_3d5_ex_nut_small
+manufacturer: ''
+md5: a38a37c775a8df12b19d84920469f586
+md5_10: a38a37c775
+md5_10_upper: A38A37C775
+md5_5: a38a3
+md5_5_upper: A38A3
+md5_6: a38a37
+md5_6_alpha: 6dpvb
+md5_6_alpha_upper: 6DPVB
+md5_6_upper: A38A37
+name: Oobb Part Shaft 3D5 Ex Nut Small
+name_no_class: Part Shaft 3D5 Ex Nut Small
+name_no_color: 3D5Exnutsmall
+name_no_size: 3D5 Ex Nut Small
+name_no_type: Shaft 3D5 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_3d5_ex_nut_small
+oomp_word: pencil envelope wolf
+oomp_word_emoji: ':pencil: :envelope: :wolf:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':envelope:'
+- ':wolf:'
+oomp_word_list:
+- pencil
+- envelope
+- wolf
+part_number: ''
+size: shaft
+type: part

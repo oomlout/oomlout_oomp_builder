@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x9_18_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x9_18_pin_through_hole
+id_no_color: 2x918pinthroughhole
+id_no_size: 2x9_18_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x9_18_pin_through_hole
+manufacturer: ''
+md5: aa1ea1fcd30d451a97cd61bf2bcbd15d
+md5_10: aa1ea1fcd3
+md5_10_upper: AA1EA1FCD3
+md5_5: aa1ea
+md5_5_upper: AA1EA
+md5_6: aa1ea1
+md5_6_alpha: 6myld
+md5_6_alpha_upper: 6MYLD
+md5_6_upper: AA1EA1
+name: Electronic Header 2 54 Mm Dual Row 2X9 18 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X9 18 Pin Through Hole
+name_no_color: 2X918Pinthroughhole
+name_no_size: 2X9 18 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X9 18 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole
+oomp_word: lipstick angel trophy
+oomp_word_emoji: ':lipstick: :angel: :trophy:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':angel:'
+- ':trophy:'
+oomp_word_list:
+- lipstick
+- angel
+- trophy
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

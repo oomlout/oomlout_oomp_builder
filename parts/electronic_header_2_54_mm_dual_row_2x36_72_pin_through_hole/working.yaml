@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x36_72_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x36_72_pin_through_hole
+id_no_color: 2x3672pinthroughhole
+id_no_size: 2x36_72_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x36_72_pin_through_hole
+manufacturer: ''
+md5: f118e512fa660d18fa9da8b73ddad7d2
+md5_10: f118e512fa
+md5_10_upper: F118E512FA
+md5_5: f118e
+md5_5_upper: F118E
+md5_6: f118e5
+md5_6_alpha: 9ens5
+md5_6_alpha_upper: 9ENS5
+md5_6_upper: F118E5
+name: Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X36 72 Pin Through Hole
+name_no_color: 2X3672Pinthroughhole
+name_no_size: 2X36 72 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X36 72 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole
+oomp_word: ticket hand rocket
+oomp_word_emoji: ':ticket: :hand: :rocket:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':hand:'
+- ':rocket:'
+oomp_word_list:
+- ticket
+- hand
+- rocket
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

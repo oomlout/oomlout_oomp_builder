@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_12'
+directory: parts/oobb_part_tray_vertical_06_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_01_12
+id: oobb_part_tray_vertical_06_01_12
+id_no_class: part_tray_vertical_06_01_12
+id_no_color: '060112'
+id_no_size: '06_01_12'
+id_no_type: tray_vertical_06_01_12
+manufacturer: ''
+md5: 80334ac3f3df1dd9d321b6868488d723
+md5_10: 80334ac3f3
+md5_10_upper: 80334AC3F3
+md5_5: '80334'
+md5_5_upper: '80334'
+md5_6: 80334a
+md5_6_alpha: 502tm
+md5_6_alpha_upper: 502TM
+md5_6_upper: 80334A
+name: Oobb Part Tray Vertical 06 01 12
+name_no_class: Part Tray Vertical 06 01 12
+name_no_color: '060112'
+name_no_size: 06 01 12
+name_no_type: Tray Vertical 06 01 12
+oomp_key: oomp_oobb_part_tray_vertical_06_01_12
+oomp_word: hourglass dog chicken
+oomp_word_emoji: ':hourglass: :dog: :chicken:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':dog:'
+- ':chicken:'
+oomp_word_list:
+- hourglass
+- dog
+- chicken
+part_number: ''
+size: tray_vertical
+type: part

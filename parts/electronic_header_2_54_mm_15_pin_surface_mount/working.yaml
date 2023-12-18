@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
+id: electronic_header_2_54_mm_15_pin_surface_mount
+id_no_class: header_2_54_mm_15_pin_surface_mount
+id_no_color: 15pinsurfacemount
+id_no_size: 15_pin_surface_mount
+id_no_type: 2_54_mm_15_pin_surface_mount
+manufacturer: ''
+md5: 299ae3cbd78dfc54d6ceb3a6b03aa23f
+md5_10: 299ae3cbd7
+md5_10_upper: 299AE3CBD7
+md5_5: 299ae
+md5_5_upper: 299AE
+md5_6: 299ae3
+md5_6_alpha: 1mfvn
+md5_6_alpha_upper: 1MFVN
+md5_6_upper: 299AE3
+name: Electronic Header 2 54 Mm 15 Pin Surface Mount
+name_no_class: Header 2 54 Mm 15 Pin Surface Mount
+name_no_color: 15Pinsurfacemount
+name_no_size: 15 Pin Surface Mount
+name_no_type: 2 54 Mm 15 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_surface_mount
+oomp_word: sunny golf rowboat
+oomp_word_emoji: ':sunny: :golf: :rowboat:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':golf:'
+- ':rowboat:'
+oomp_word_list:
+- sunny
+- golf
+- rowboat
+part_number: ''
+size: 2_54_mm
+type: header

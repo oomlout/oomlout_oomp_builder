@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_0805_22_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_22_ohm
+id: electronic_resistor_0805_22_ohm
+id_no_class: resistor_0805_22_ohm
+id_no_color: 22ohm
+id_no_size: 22_ohm
+id_no_type: 0805_22_ohm
+manufacturer: ''
+md5: c33a61c68af64528846264e1c3e8f986
+md5_10: c33a61c68a
+md5_10_upper: C33A61C68A
+md5_5: c33a6
+md5_5_upper: C33A6
+md5_6: c33a61
+md5_6_alpha: 7m89t
+md5_6_alpha_upper: 7M89T
+md5_6_upper: C33A61
+name: Electronic Resistor 0805 22 Ohm
+name_no_class: Resistor 0805 22 Ohm
+name_no_color: 22Ohm
+name_no_size: 22 Ohm
+name_no_type: 0805 22 Ohm
+oomp_key: oomp_electronic_resistor_0805_22_ohm
+oomp_word: cake koala bouquet
+oomp_word_emoji: ':cake: :koala: :bouquet:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':koala:'
+- ':bouquet:'
+oomp_word_list:
+- cake
+- koala
+- bouquet
+part_number: ''
+size: 0805
+type: resistor

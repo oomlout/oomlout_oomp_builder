@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700_ohm
+directory: parts/electronic_resistor_0805_2700_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_2700_ohm
+id: electronic_resistor_0805_2700_ohm
+id_no_class: resistor_0805_2700_ohm
+id_no_color: 2700ohm
+id_no_size: 2700_ohm
+id_no_type: 0805_2700_ohm
+manufacturer: ''
+md5: e2a6cb282a0ae5141a58cf1ad664fc7f
+md5_10: e2a6cb282a
+md5_10_upper: E2A6CB282A
+md5_5: e2a6c
+md5_5_upper: E2A6C
+md5_6: e2a6cb
+md5_6_alpha: 8udaj
+md5_6_alpha_upper: 8UDAJ
+md5_6_upper: E2A6CB
+name: Electronic Resistor 0805 2700 Ohm
+name_no_class: Resistor 0805 2700 Ohm
+name_no_color: 2700Ohm
+name_no_size: 2700 Ohm
+name_no_type: 0805 2700 Ohm
+oomp_key: oomp_electronic_resistor_0805_2700_ohm
+oomp_word: sailboat trumpet grapes
+oomp_word_emoji: ':sailboat: :trumpet: :grapes:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':trumpet:'
+- ':grapes:'
+oomp_word_list:
+- sailboat
+- trumpet
+- grapes
+part_number: ''
+size: 0805
+type: resistor

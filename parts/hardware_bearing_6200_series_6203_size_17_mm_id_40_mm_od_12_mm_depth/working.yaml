@@ -1,0 +1,40 @@
+classification: hardware
+color: 6203_size
+description_extra: ''
+description_main: 17_mm_id_40_mm_od_12_mm_depth
+directory: parts/hardware_bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+id: hardware_bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+id_no_class: bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+id_no_color: 17_mm_id_40_mm_od_12_mm_depth
+id_no_size: 6203_size_17_mm_id_40_mm_od_12_mm_depth
+id_no_type: 6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+manufacturer: ''
+md5: f32d6b6497ca868e06df18801c866a6a
+md5_10: f32d6b6497
+md5_10_upper: F32D6B6497
+md5_5: f32d6
+md5_5_upper: F32D6
+md5_6: f32d6b
+md5_6_alpha: 9hkyz
+md5_6_alpha_upper: 9HKYZ
+md5_6_upper: F32D6B
+name: Hardware Bearing 6200 Series 6203 Size 17 Mm Id 40 Mm Od 12 Mm Depth
+name_no_class: Bearing 6200 Series 6203 Size 17 Mm Id 40 Mm Od 12 Mm Depth
+name_no_color: 17 Mm Id 40 Mm Od 12 Mm Depth
+name_no_size: 6203 Size 17 Mm Id 40 Mm Od 12 Mm Depth
+name_no_type: 6200 Series 6203 Size 17 Mm Id 40 Mm Od 12 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
+oomp_word: two snowman chestnut
+oomp_word_emoji: ':two: :snowman: :chestnut:'
+oomp_word_emoji_list:
+- ':two:'
+- ':snowman:'
+- ':chestnut:'
+oomp_word_list:
+- two
+- snowman
+- chestnut
+part_number: ''
+size: 6200_series
+type: bearing

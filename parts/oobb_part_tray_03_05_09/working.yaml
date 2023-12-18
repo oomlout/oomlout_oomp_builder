@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_09
+directory: parts/oobb_part_tray_03_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_05_09
+id: oobb_part_tray_03_05_09
+id_no_class: part_tray_03_05_09
+id_no_color: 030509
+id_no_size: 03_05_09
+id_no_type: tray_03_05_09
+manufacturer: ''
+md5: 82e392c6d2628cdcc2cf785e259766cf
+md5_10: 82e392c6d2
+md5_10_upper: 82E392C6D2
+md5_5: 82e39
+md5_5_upper: 82E39
+md5_6: 82e392
+md5_6_alpha: 53us2
+md5_6_alpha_upper: 53US2
+md5_6_upper: 82E392
+name: Oobb Part Tray 03 05 09
+name_no_class: Part Tray 03 05 09
+name_no_color: 030509
+name_no_size: 03 05 09
+name_no_type: Tray 03 05 09
+oomp_key: oomp_oobb_part_tray_03_05_09
+oomp_word: radio rowboat paperclip
+oomp_word_emoji: ':radio: :rowboat: :paperclip:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':rowboat:'
+- ':paperclip:'
+oomp_word_list:
+- radio
+- rowboat
+- paperclip
+part_number: ''
+size: tray
+type: part

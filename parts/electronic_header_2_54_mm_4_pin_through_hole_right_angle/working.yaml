@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_2_54_mm_4_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_4_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_4_pin_through_hole_right_angle
+id_no_color: 4pinthroughholerightangle
+id_no_size: 4_pin_through_hole_right_angle
+id_no_type: 2_54_mm_4_pin_through_hole_right_angle
+manufacturer: ''
+md5: a6c5228bace02d845a24e06215987ea1
+md5_10: a6c5228bac
+md5_10_upper: A6C5228BAC
+md5_5: a6c52
+md5_5_upper: A6C52
+md5_6: a6c522
+md5_6_alpha: 6i97m
+md5_6_alpha_upper: 6I97M
+md5_6_upper: A6C522
+name: Electronic Header 2 54 Mm 4 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 4 Pin Through Hole Right Angle
+name_no_color: 4Pinthroughholerightangle
+name_no_size: 4 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 4 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_4_pin_through_hole_right_angle
+oomp_word: trumpet candy lips
+oomp_word_emoji: ':trumpet: :candy: :lips:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':candy:'
+- ':lips:'
+oomp_word_list:
+- trumpet
+- candy
+- lips
+part_number: ''
+size: 2_54_mm
+type: header

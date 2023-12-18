@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_48_teeth
+directory: parts/oobb_part_pulley_gt2_02_09_ex_48_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_48_teeth
+id: oobb_part_pulley_gt2_02_09_ex_48_teeth
+id_no_class: part_pulley_gt2_02_09_ex_48_teeth
+id_no_color: 0209ex48teeth
+id_no_size: 02_09_ex_48_teeth
+id_no_type: pulley_gt2_02_09_ex_48_teeth
+manufacturer: ''
+md5: a476b5348fe5aed72b3f95cae8154a32
+md5_10: a476b5348f
+md5_10_upper: A476B5348F
+md5_5: a476b
+md5_5_upper: A476B
+md5_6: a476b5
+md5_6_alpha: 6f0l1
+md5_6_alpha_upper: 6F0L1
+md5_6_upper: A476B5
+name: Oobb Part Pulley Gt2 02 09 Ex 48 Teeth
+name_no_class: Part Pulley Gt2 02 09 Ex 48 Teeth
+name_no_color: 0209Ex48Teeth
+name_no_size: 02 09 Ex 48 Teeth
+name_no_type: Pulley Gt2 02 09 Ex 48 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_48_teeth
+oomp_word: book santa tea
+oomp_word_emoji: ':book: :santa: :tea:'
+oomp_word_emoji_list:
+- ':book:'
+- ':santa:'
+- ':tea:'
+oomp_word_list:
+- book
+- santa
+- tea
+part_number: ''
+size: pulley_gt2
+type: part

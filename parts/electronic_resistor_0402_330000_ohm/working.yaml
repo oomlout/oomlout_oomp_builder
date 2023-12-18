@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 330000_ohm
+directory: parts/electronic_resistor_0402_330000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_330000_ohm
+id: electronic_resistor_0402_330000_ohm
+id_no_class: resistor_0402_330000_ohm
+id_no_color: 330000ohm
+id_no_size: 330000_ohm
+id_no_type: 0402_330000_ohm
+manufacturer: ''
+md5: a96f4931ea807a360ee472d77c790260
+md5_10: a96f4931ea
+md5_10_upper: A96F4931EA
+md5_5: a96f4
+md5_5_upper: A96F4
+md5_6: a96f49
+md5_6_alpha: 6lzyh
+md5_6_alpha_upper: 6LZYH
+md5_6_upper: A96F49
+name: Electronic Resistor 0402 330000 Ohm
+name_no_class: Resistor 0402 330000 Ohm
+name_no_color: 330000Ohm
+name_no_size: 330000 Ohm
+name_no_type: 0402 330000 Ohm
+oomp_key: oomp_electronic_resistor_0402_330000_ohm
+oomp_word: sandal moon hatching_chick
+oomp_word_emoji: ':sandal: :moon: :hatching_chick:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':moon:'
+- ':hatching_chick:'
+oomp_word_list:
+- sandal
+- moon
+- hatching_chick
+part_number: ''
+size: '0402'
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_15'
+directory: parts/oobb_part_tray_vertical_03_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_15
+id: oobb_part_tray_vertical_03_01_15
+id_no_class: part_tray_vertical_03_01_15
+id_no_color: '030115'
+id_no_size: '03_01_15'
+id_no_type: tray_vertical_03_01_15
+manufacturer: ''
+md5: f5487568ce57f59eee0651fdb89e50f4
+md5_10: f5487568ce
+md5_10_upper: F5487568CE
+md5_5: f5487
+md5_5_upper: F5487
+md5_6: f54875
+md5_6_alpha: 9kjg5
+md5_6_alpha_upper: 9KJG5
+md5_6_upper: F54875
+name: Oobb Part Tray Vertical 03 01 15
+name_no_class: Part Tray Vertical 03 01 15
+name_no_color: '030115'
+name_no_size: 03 01 15
+name_no_type: Tray Vertical 03 01 15
+oomp_key: oomp_oobb_part_tray_vertical_03_01_15
+oomp_word: four hatched_chick ghost
+oomp_word_emoji: ':four: :hatched_chick: :ghost:'
+oomp_word_emoji_list:
+- ':four:'
+- ':hatched_chick:'
+- ':ghost:'
+oomp_word_list:
+- four
+- hatched_chick
+- ghost
+part_number: ''
+size: tray_vertical
+type: part

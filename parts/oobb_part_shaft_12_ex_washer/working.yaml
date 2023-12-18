@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_ex_washer
+directory: parts/oobb_part_shaft_12_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12_ex_washer
+id: oobb_part_shaft_12_ex_washer
+id_no_class: part_shaft_12_ex_washer
+id_no_color: 12exwasher
+id_no_size: 12_ex_washer
+id_no_type: shaft_12_ex_washer
+manufacturer: ''
+md5: be40ac25be960cad6863cb98bb151cf2
+md5_10: be40ac25be
+md5_10_upper: BE40AC25BE
+md5_5: be40a
+md5_5_upper: BE40A
+md5_6: be40ac
+md5_6_alpha: 7f8oc
+md5_6_alpha_upper: 7F8OC
+md5_6_upper: BE40AC
+name: Oobb Part Shaft 12 Ex Washer
+name_no_class: Part Shaft 12 Ex Washer
+name_no_color: 12Exwasher
+name_no_size: 12 Ex Washer
+name_no_type: Shaft 12 Ex Washer
+oomp_key: oomp_oobb_part_shaft_12_ex_washer
+oomp_word: ramen racehorse shirt
+oomp_word_emoji: ':ramen: :racehorse: :shirt:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':racehorse:'
+- ':shirt:'
+oomp_word_list:
+- ramen
+- racehorse
+- shirt
+part_number: ''
+size: shaft
+type: part

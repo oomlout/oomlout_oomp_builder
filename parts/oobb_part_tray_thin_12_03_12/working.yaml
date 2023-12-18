@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_12'
+directory: parts/oobb_part_tray_thin_12_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_03_12
+id: oobb_part_tray_thin_12_03_12
+id_no_class: part_tray_thin_12_03_12
+id_no_color: '120312'
+id_no_size: '12_03_12'
+id_no_type: tray_thin_12_03_12
+manufacturer: ''
+md5: 88370b84a4ff510f0233fc5ac4958b3b
+md5_10: 88370b84a4
+md5_10_upper: 88370B84A4
+md5_5: '88370'
+md5_5_upper: '88370'
+md5_6: 88370b
+md5_6_alpha: 5bc3v
+md5_6_alpha_upper: 5BC3V
+md5_6_upper: 88370B
+name: Oobb Part Tray Thin 12 03 12
+name_no_class: Part Tray Thin 12 03 12
+name_no_color: '120312'
+name_no_size: 12 03 12
+name_no_type: Tray Thin 12 03 12
+oomp_key: oomp_oobb_part_tray_thin_12_03_12
+oomp_word: wrench wolf sunglasses
+oomp_word_emoji: ':wrench: :wolf: :sunglasses:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':wolf:'
+- ':sunglasses:'
+oomp_word_list:
+- wrench
+- wolf
+- sunglasses
+part_number: ''
+size: tray_thin
+type: part

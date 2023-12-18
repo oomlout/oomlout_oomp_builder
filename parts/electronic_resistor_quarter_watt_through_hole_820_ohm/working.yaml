@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 820_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_820_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820_ohm
+id: electronic_resistor_quarter_watt_through_hole_820_ohm
+id_no_class: resistor_quarter_watt_through_hole_820_ohm
+id_no_color: 820ohm
+id_no_size: 820_ohm
+id_no_type: quarter_watt_through_hole_820_ohm
+manufacturer: ''
+md5: 2e05d6879500d66cf8d5f4aea22c0efb
+md5_10: 2e05d68795
+md5_10_upper: 2E05D68795
+md5_5: 2e05d
+md5_5_upper: 2E05D
+md5_6: 2e05d6
+md5_6_alpha: 1sn9y
+md5_6_alpha_upper: 1SN9Y
+md5_6_upper: 2E05D6
+name: Electronic Resistor Quarter Watt Through Hole 820 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 820 Ohm
+name_no_color: 820Ohm
+name_no_size: 820 Ohm
+name_no_type: Quarter Watt Through Hole 820 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_820_ohm
+oomp_word: zap kissing school
+oomp_word_emoji: ':zap: :kissing: :school:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':kissing:'
+- ':school:'
+oomp_word_list:
+- zap
+- kissing
+- school
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_08_12
+directory: parts/oobb_part_tray_05_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_08_12
+id: oobb_part_tray_05_08_12
+id_no_class: part_tray_05_08_12
+id_no_color: 050812
+id_no_size: 05_08_12
+id_no_type: tray_05_08_12
+manufacturer: ''
+md5: 54df788403661402d7a80221c1e96bdc
+md5_10: 54df788403
+md5_10_upper: 54DF788403
+md5_5: 54df7
+md5_5_upper: 54DF7
+md5_6: 54df78
+md5_6_alpha: 3b7ug
+md5_6_alpha_upper: 3B7UG
+md5_6_upper: 54DF78
+name: Oobb Part Tray 05 08 12
+name_no_class: Part Tray 05 08 12
+name_no_color: 050812
+name_no_size: 05 08 12
+name_no_type: Tray 05 08 12
+oomp_key: oomp_oobb_part_tray_05_08_12
+oomp_word: whale fountain bell
+oomp_word_emoji: ':whale: :fountain: :bell:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':fountain:'
+- ':bell:'
+oomp_word_list:
+- whale
+- fountain
+- bell
+part_number: ''
+size: tray
+type: part

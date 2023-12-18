@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_15'
+directory: parts/oobb_part_tray_vertical_07_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_01_15
+id: oobb_part_tray_vertical_07_01_15
+id_no_class: part_tray_vertical_07_01_15
+id_no_color: '070115'
+id_no_size: '07_01_15'
+id_no_type: tray_vertical_07_01_15
+manufacturer: ''
+md5: dcb9dc869c4de76d22a916916d426854
+md5_10: dcb9dc869c
+md5_10_upper: DCB9DC869C
+md5_5: dcb9d
+md5_5_upper: DCB9D
+md5_6: dcb9dc
+md5_6_alpha: 8m1ng
+md5_6_alpha_upper: 8M1NG
+md5_6_upper: DCB9DC
+name: Oobb Part Tray Vertical 07 01 15
+name_no_class: Part Tray Vertical 07 01 15
+name_no_color: '070115'
+name_no_size: 07 01 15
+name_no_type: Tray Vertical 07 01 15
+oomp_key: oomp_oobb_part_tray_vertical_07_01_15
+oomp_word: factory fries factory
+oomp_word_emoji: ':factory: :fries: :factory:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':fries:'
+- ':factory:'
+oomp_word_list:
+- factory
+- fries
+- factory
+part_number: ''
+size: tray_vertical
+type: part

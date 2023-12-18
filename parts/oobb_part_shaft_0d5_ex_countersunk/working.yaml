@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5_ex_countersunk
+directory: parts/oobb_part_shaft_0d5_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5_ex_countersunk
+id: oobb_part_shaft_0d5_ex_countersunk
+id_no_class: part_shaft_0d5_ex_countersunk
+id_no_color: 0d5excountersunk
+id_no_size: 0d5_ex_countersunk
+id_no_type: shaft_0d5_ex_countersunk
+manufacturer: ''
+md5: f9c346856af571dcf3ae609575598795
+md5_10: f9c346856a
+md5_10_upper: F9C346856A
+md5_5: f9c34
+md5_5_upper: F9C34
+md5_6: f9c346
+md5_6_alpha: 9qtza
+md5_6_alpha_upper: 9QTZA
+md5_6_upper: F9C346
+name: Oobb Part Shaft 0D5 Ex Countersunk
+name_no_class: Part Shaft 0D5 Ex Countersunk
+name_no_color: 0D5Excountersunk
+name_no_size: 0D5 Ex Countersunk
+name_no_type: Shaft 0D5 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_0d5_ex_countersunk
+oomp_word: eight cake bird
+oomp_word_emoji: ':eight: :cake: :bird:'
+oomp_word_emoji_list:
+- ':eight:'
+- ':cake:'
+- ':bird:'
+oomp_word_list:
+- eight
+- cake
+- bird
+part_number: ''
+size: shaft
+type: part

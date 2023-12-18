@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_08_15'
+directory: parts/oobb_part_tray_vertical_11_08_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_08_15
+id: oobb_part_tray_vertical_11_08_15
+id_no_class: part_tray_vertical_11_08_15
+id_no_color: '110815'
+id_no_size: '11_08_15'
+id_no_type: tray_vertical_11_08_15
+manufacturer: ''
+md5: ac40b0f4fcc424a412dbdd24cced093d
+md5_10: ac40b0f4fc
+md5_10_upper: AC40B0F4FC
+md5_5: ac40b
+md5_5_upper: AC40B
+md5_6: ac40b0
+md5_6_alpha: 6pygg
+md5_6_alpha_upper: 6PYGG
+md5_6_upper: AC40B0
+name: Oobb Part Tray Vertical 11 08 15
+name_no_class: Part Tray Vertical 11 08 15
+name_no_color: '110815'
+name_no_size: 11 08 15
+name_no_type: Tray Vertical 11 08 15
+oomp_key: oomp_oobb_part_tray_vertical_11_08_15
+oomp_word: shirt racehorse crown
+oomp_word_emoji: ':shirt: :racehorse: :crown:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':racehorse:'
+- ':crown:'
+oomp_word_list:
+- shirt
+- racehorse
+- crown
+part_number: ''
+size: tray_vertical
+type: part

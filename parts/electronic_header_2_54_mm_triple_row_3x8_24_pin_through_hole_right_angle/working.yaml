@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 3x8_24_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+id_no_color: 3x824pinthroughholerightangle
+id_no_size: 3x8_24_pin_through_hole_right_angle
+id_no_type: 2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+manufacturer: ''
+md5: ed7c665d5837a5e11485c0d62bddbec4
+md5_10: ed7c665d58
+md5_10_upper: ED7C665D58
+md5_5: ed7c6
+md5_5_upper: ED7C6
+md5_6: ed7c66
+md5_6_alpha: 99l5y
+md5_6_alpha_upper: 99L5Y
+md5_6_upper: ED7C66
+name: Electronic Header 2 54 Mm Triple Row 3X8 24 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Triple Row 3X8 24 Pin Through Hole Right Angle
+name_no_color: 3X824Pinthroughholerightangle
+name_no_size: 3X8 24 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Triple Row 3X8 24 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x8_24_pin_through_hole_right_angle
+oomp_word: bus tv leaves
+oomp_word_emoji: ':bus: :tv: :leaves:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':tv:'
+- ':leaves:'
+oomp_word_list:
+- bus
+- tv
+- leaves
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

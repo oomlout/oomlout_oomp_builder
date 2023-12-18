@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_11_12'
+directory: parts/oobb_part_tray_thin_12_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_11_12
+id: oobb_part_tray_thin_12_11_12
+id_no_class: part_tray_thin_12_11_12
+id_no_color: '121112'
+id_no_size: '12_11_12'
+id_no_type: tray_thin_12_11_12
+manufacturer: ''
+md5: 47d8268fdf813039afc815eb7a563176
+md5_10: 47d8268fdf
+md5_10_upper: 47D8268FDF
+md5_5: 47d82
+md5_5_upper: 47D82
+md5_6: 47d826
+md5_6_alpha: 2sx0m
+md5_6_alpha_upper: 2SX0M
+md5_6_upper: 47D826
+name: Oobb Part Tray Thin 12 11 12
+name_no_class: Part Tray Thin 12 11 12
+name_no_color: '121112'
+name_no_size: 12 11 12
+name_no_type: Tray Thin 12 11 12
+oomp_key: oomp_oobb_part_tray_thin_12_11_12
+oomp_word: baby_chick hospital eyes
+oomp_word_emoji: ':baby_chick: :hospital: :eyes:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':hospital:'
+- ':eyes:'
+oomp_word_list:
+- baby_chick
+- hospital
+- eyes
+part_number: ''
+size: tray_thin
+type: part

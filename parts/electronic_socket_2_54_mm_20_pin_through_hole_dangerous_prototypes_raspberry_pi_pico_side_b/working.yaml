@@ -1,0 +1,43 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 20_pin
+directory: parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+id: electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+id_no_class: socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+id_no_color: 20pinthroughholedangerousprototypesraspberrypipicosideb
+id_no_size: 20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+id_no_type: 2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+manufacturer: dangerous_prototypes
+md5: 5d5f6cfa015c081e58911d780eedab26
+md5_10: 5d5f6cfa01
+md5_10_upper: 5D5F6CFA01
+md5_5: 5d5f6
+md5_5_upper: 5D5F6
+md5_6: 5d5f6c
+md5_6_alpha: 3n5nw
+md5_6_alpha_upper: 3N5NW
+md5_6_upper: 5D5F6C
+name: Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry
+  Pi Pico Side B
+name_no_class: Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi
+  Pico Side B
+name_no_color: 20Pinthroughholedangerousprototypesraspberrypipicosideb
+name_no_size: 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B
+name_no_type: 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side
+  B
+oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+oomp_word: blowfish leopard blossom
+oomp_word_emoji: ':blowfish: :leopard: :blossom:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':leopard:'
+- ':blossom:'
+oomp_word_list:
+- blowfish
+- leopard
+- blossom
+part_number: raspberry_pi_pico_side_b
+size: 2_54_mm
+type: socket

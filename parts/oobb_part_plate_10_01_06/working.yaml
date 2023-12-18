@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_06'
+directory: parts/oobb_part_plate_10_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_06
+id: oobb_part_plate_10_01_06
+id_no_class: part_plate_10_01_06
+id_no_color: '100106'
+id_no_size: '10_01_06'
+id_no_type: plate_10_01_06
+manufacturer: ''
+md5: 6b8635a2dd3f165c4cac7d7e2d06f77f
+md5_10: 6b8635a2dd
+md5_10_upper: 6B8635A2DD
+md5_5: 6b863
+md5_5_upper: 6B863
+md5_6: 6b8635
+md5_6_alpha: 4719x
+md5_6_alpha_upper: 4719X
+md5_6_upper: 6B8635
+name: Oobb Part Plate 10 01 06
+name_no_class: Part Plate 10 01 06
+name_no_color: '100106'
+name_no_size: 10 01 06
+name_no_type: Plate 10 01 06
+oomp_key: oomp_oobb_part_plate_10_01_06
+oomp_word: chestnut bath hamster
+oomp_word_emoji: ':chestnut: :bath: :hamster:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':bath:'
+- ':hamster:'
+oomp_word_list:
+- chestnut
+- bath
+- hamster
+part_number: ''
+size: plate
+type: part

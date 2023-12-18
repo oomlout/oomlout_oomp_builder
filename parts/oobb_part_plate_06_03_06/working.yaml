@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_06'
+directory: parts/oobb_part_plate_06_03_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_06
+id: oobb_part_plate_06_03_06
+id_no_class: part_plate_06_03_06
+id_no_color: '060306'
+id_no_size: '06_03_06'
+id_no_type: plate_06_03_06
+manufacturer: ''
+md5: 3a2edf8e1286919beffd62fbb0e9afa0
+md5_10: 3a2edf8e12
+md5_10_upper: 3A2EDF8E12
+md5_5: 3a2ed
+md5_5_upper: 3A2ED
+md5_6: 3a2edf
+md5_6_alpha: 29q73
+md5_6_alpha_upper: 29Q73
+md5_6_upper: 3A2EDF
+name: Oobb Part Plate 06 03 06
+name_no_class: Part Plate 06 03 06
+name_no_color: '060306'
+name_no_size: 06 03 06
+name_no_type: Plate 06 03 06
+oomp_key: oomp_oobb_part_plate_06_03_06
+oomp_word: koala zap fountain
+oomp_word_emoji: ':koala: :zap: :fountain:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':zap:'
+- ':fountain:'
+oomp_word_list:
+- koala
+- zap
+- fountain
+part_number: ''
+size: plate
+type: part

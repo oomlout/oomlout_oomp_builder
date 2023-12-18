@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0402
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402
+id: electronic_led_0402
+id_no_class: led_0402
+id_no_color: '0402'
+id_no_size: '0402'
+id_no_type: '0402'
+manufacturer: ''
+md5: d33b648a8a749fae6a9a74b760467fb2
+md5_10: d33b648a8a
+md5_10_upper: D33B648A8A
+md5_5: d33b6
+md5_5_upper: D33B6
+md5_6: d33b64
+md5_6_alpha: 88pk4
+md5_6_alpha_upper: 88PK4
+md5_6_upper: D33B64
+name: Electronic Led 0402
+name_no_class: Led 0402
+name_no_color: '0402'
+name_no_size: '0402'
+name_no_type: '0402'
+oomp_key: oomp_electronic_led_0402
+oomp_word: tomato bear sunflower
+oomp_word_emoji: ':tomato: :bear: :sunflower:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':bear:'
+- ':sunflower:'
+oomp_word_list:
+- tomato
+- bear
+- sunflower
+part_number: ''
+size: '0402'
+type: led

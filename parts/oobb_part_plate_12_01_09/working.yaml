@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_09'
+directory: parts/oobb_part_plate_12_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_09
+id: oobb_part_plate_12_01_09
+id_no_class: part_plate_12_01_09
+id_no_color: '120109'
+id_no_size: '12_01_09'
+id_no_type: plate_12_01_09
+manufacturer: ''
+md5: 86d447984cc97d8702404bfda80dfe8f
+md5_10: 86d447984c
+md5_10_upper: 86D447984C
+md5_5: 86d44
+md5_5_upper: 86D44
+md5_6: 86d447
+md5_6_alpha: 59e13
+md5_6_alpha_upper: 59E13
+md5_6_upper: 86D447
+name: Oobb Part Plate 12 01 09
+name_no_class: Part Plate 12 01 09
+name_no_color: '120109'
+name_no_size: 12 01 09
+name_no_type: Plate 12 01 09
+oomp_key: oomp_oobb_part_plate_12_01_09
+oomp_word: bath corn baby_chick
+oomp_word_emoji: ':bath: :corn: :baby_chick:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':corn:'
+- ':baby_chick:'
+oomp_word_list:
+- bath
+- corn
+- baby_chick
+part_number: ''
+size: plate
+type: part

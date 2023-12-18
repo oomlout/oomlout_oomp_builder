@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_18'
+directory: parts/oobb_part_tray_vertical_12_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_03_18
+id: oobb_part_tray_vertical_12_03_18
+id_no_class: part_tray_vertical_12_03_18
+id_no_color: '120318'
+id_no_size: '12_03_18'
+id_no_type: tray_vertical_12_03_18
+manufacturer: ''
+md5: 1965f7fc8a08152acbaecb473a52b5ce
+md5_10: 1965f7fc8a
+md5_10_upper: 1965F7FC8A
+md5_5: 1965f
+md5_5_upper: 1965F
+md5_6: 1965f7
+md5_6_alpha: zoc7
+md5_6_alpha_upper: ZOC7
+md5_6_upper: 1965F7
+name: Oobb Part Tray Vertical 12 03 18
+name_no_class: Part Tray Vertical 12 03 18
+name_no_color: '120318'
+name_no_size: 12 03 18
+name_no_type: Tray Vertical 12 03 18
+oomp_key: oomp_oobb_part_tray_vertical_12_03_18
+oomp_word: pray maple_leaf six
+oomp_word_emoji: ':pray: :maple_leaf: :six:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':maple_leaf:'
+- ':six:'
+oomp_word_list:
+- pray
+- maple_leaf
+- six
+part_number: ''
+size: tray_vertical
+type: part

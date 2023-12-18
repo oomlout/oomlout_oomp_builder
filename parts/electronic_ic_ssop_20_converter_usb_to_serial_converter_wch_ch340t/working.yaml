@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+id_no_class: ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+id_no_color: usb_to_serial_wch_ch340t
+id_no_size: converter_usb_to_serial_converter_wch_ch340t
+id_no_type: ssop_20_converter_usb_to_serial_converter_wch_ch340t
+manufacturer: wch
+md5: e07223f3446f9e6a9ed62db546344b87
+md5_10: e07223f344
+md5_10_upper: E07223F344
+md5_5: e0722
+md5_5_upper: E0722
+md5_6: e07223
+md5_6_alpha: 8r9r7
+md5_6_alpha_upper: 8R9R7
+md5_6_upper: E07223
+name: Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+name_no_class: Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+name_no_color: Usb To Serial Wch Ch340T
+name_no_size: Converter Usb To Serial Converter Wch Ch340T
+name_no_type: Ssop 20 Converter Usb To Serial Converter Wch Ch340T
+oomp_key: oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+oomp_word: ship dolls kiss
+oomp_word_emoji: ':ship: :dolls: :kiss:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':dolls:'
+- ':kiss:'
+oomp_word_list:
+- ship
+- dolls
+- kiss
+part_number: ch340t
+size: ssop_20
+type: ic

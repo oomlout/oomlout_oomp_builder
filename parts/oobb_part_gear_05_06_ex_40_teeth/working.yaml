@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_06_ex_40_teeth
+directory: parts/oobb_part_gear_05_06_ex_40_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth
+id: oobb_part_gear_05_06_ex_40_teeth
+id_no_class: part_gear_05_06_ex_40_teeth
+id_no_color: 0506ex40teeth
+id_no_size: 05_06_ex_40_teeth
+id_no_type: gear_05_06_ex_40_teeth
+manufacturer: ''
+md5: e9fa833cf65d7a4900ac9a8e79618e5f
+md5_10: e9fa833cf6
+md5_10_upper: E9FA833CF6
+md5_5: e9fa8
+md5_5_upper: E9FA8
+md5_6: e9fa83
+md5_6_alpha: 94nsz
+md5_6_alpha_upper: 94NSZ
+md5_6_upper: E9FA83
+name: Oobb Part Gear 05 06 Ex 40 Teeth
+name_no_class: Part Gear 05 06 Ex 40 Teeth
+name_no_color: 0506Ex40Teeth
+name_no_size: 05 06 Ex 40 Teeth
+name_no_type: Gear 05 06 Ex 40 Teeth
+oomp_key: oomp_oobb_part_gear_05_06_ex_40_teeth
+oomp_word: bike nine lock
+oomp_word_emoji: ':bike: :nine: :lock:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':nine:'
+- ':lock:'
+oomp_word_list:
+- bike
+- nine
+- lock
+part_number: ''
+size: gear
+type: part

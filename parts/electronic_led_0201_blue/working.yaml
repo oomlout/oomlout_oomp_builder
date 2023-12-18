@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue
+id: electronic_led_0201_blue
+id_no_class: led_0201_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 0201_blue
+manufacturer: ''
+md5: d0617d68781887fb57b1a60020a83dc5
+md5_10: d0617d6878
+md5_10_upper: D0617D6878
+md5_5: d0617
+md5_5_upper: D0617
+md5_6: d0617d
+md5_6_alpha: 84pdp
+md5_6_alpha_upper: 84PDP
+md5_6_upper: D0617D
+name: Electronic Led 0201 Blue
+name_no_class: Led 0201 Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 0201 Blue
+oomp_key: oomp_electronic_led_0201_blue
+oomp_word: banana bouquet phone
+oomp_word_emoji: ':banana: :bouquet: :phone:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':bouquet:'
+- ':phone:'
+oomp_word_list:
+- banana
+- bouquet
+- phone
+part_number: ''
+size: '0201'
+type: led

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_s
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_s
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_s
+id: oobb_part_bunting_alphabet_13_01_ex_s
+id_no_class: part_bunting_alphabet_13_01_ex_s
+id_no_color: 1301exs
+id_no_size: 13_01_ex_s
+id_no_type: bunting_alphabet_13_01_ex_s
+manufacturer: ''
+md5: a07c6bba70dc6b8a76a9ed9d510639dc
+md5_10: a07c6bba70
+md5_10_upper: A07C6BBA70
+md5_5: a07c6
+md5_5_upper: A07C6
+md5_6: a07c6b
+md5_6_alpha: 69ffv
+md5_6_alpha_upper: 69FFV
+md5_6_upper: A07C6B
+name: Oobb Part Bunting Alphabet 13 01 Ex S
+name_no_class: Part Bunting Alphabet 13 01 Ex S
+name_no_color: 1301Exs
+name_no_size: 13 01 Ex S
+name_no_type: Bunting Alphabet 13 01 Ex S
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_s
+oomp_word: ring tv chestnut
+oomp_word_emoji: ':ring: :tv: :chestnut:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':tv:'
+- ':chestnut:'
+oomp_word_list:
+- ring
+- tv
+- chestnut
+part_number: ''
+size: bunting_alphabet
+type: part

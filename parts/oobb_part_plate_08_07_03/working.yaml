@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_07_03
+directory: parts/oobb_part_plate_08_07_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_07_03
+id: oobb_part_plate_08_07_03
+id_no_class: part_plate_08_07_03
+id_no_color: 080703
+id_no_size: 08_07_03
+id_no_type: plate_08_07_03
+manufacturer: ''
+md5: de4b46d7efa49824c30da26ed72b07e1
+md5_10: de4b46d7ef
+md5_10_upper: DE4B46D7EF
+md5_5: de4b4
+md5_5_upper: DE4B4
+md5_6: de4b46
+md5_6_alpha: 8o8xy
+md5_6_alpha_upper: 8O8XY
+md5_6_upper: DE4B46
+name: Oobb Part Plate 08 07 03
+name_no_class: Part Plate 08 07 03
+name_no_color: 080703
+name_no_size: 08 07 03
+name_no_type: Plate 08 07 03
+oomp_key: oomp_oobb_part_plate_08_07_03
+oomp_word: rainbow penguin bird
+oomp_word_emoji: ':rainbow: :penguin: :bird:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':penguin:'
+- ':bird:'
+oomp_word_list:
+- rainbow
+- penguin
+- bird
+part_number: ''
+size: plate
+type: part

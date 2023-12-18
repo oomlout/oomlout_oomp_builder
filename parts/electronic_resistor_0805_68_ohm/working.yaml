@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 68_ohm
+directory: parts/electronic_resistor_0805_68_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_68_ohm
+id: electronic_resistor_0805_68_ohm
+id_no_class: resistor_0805_68_ohm
+id_no_color: 68ohm
+id_no_size: 68_ohm
+id_no_type: 0805_68_ohm
+manufacturer: ''
+md5: 3a67184bfadbf9e93b3a86c608549034
+md5_10: 3a67184bfa
+md5_10_upper: 3A67184BFA
+md5_5: 3a671
+md5_5_upper: 3A671
+md5_6: 3a6718
+md5_6_alpha: 2a1aw
+md5_6_alpha_upper: 2A1AW
+md5_6_upper: 3A6718
+name: Electronic Resistor 0805 68 Ohm
+name_no_class: Resistor 0805 68 Ohm
+name_no_color: 68Ohm
+name_no_size: 68 Ohm
+name_no_type: 0805 68 Ohm
+oomp_key: oomp_electronic_resistor_0805_68_ohm
+oomp_word: koala herb hand
+oomp_word_emoji: ':koala: :herb: :hand:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':herb:'
+- ':hand:'
+oomp_word_list:
+- koala
+- herb
+- hand
+part_number: ''
+size: 0805
+type: resistor

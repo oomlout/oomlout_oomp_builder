@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_09'
+directory: parts/oobb_part_tray_vertical_10_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_10_09
+id: oobb_part_tray_vertical_10_10_09
+id_no_class: part_tray_vertical_10_10_09
+id_no_color: '101009'
+id_no_size: '10_10_09'
+id_no_type: tray_vertical_10_10_09
+manufacturer: ''
+md5: 3ba4565ea69e12e77620df5873cb3f13
+md5_10: 3ba4565ea6
+md5_10_upper: 3BA4565EA6
+md5_5: 3ba45
+md5_5_upper: 3BA45
+md5_6: 3ba456
+md5_6_alpha: 2bryu
+md5_6_alpha_upper: 2BRYU
+md5_6_upper: 3BA456
+name: Oobb Part Tray Vertical 10 10 09
+name_no_class: Part Tray Vertical 10 10 09
+name_no_color: '101009'
+name_no_size: 10 10 09
+name_no_type: Tray Vertical 10 10 09
+oomp_key: oomp_oobb_part_tray_vertical_10_10_09
+oomp_word: bear book ram
+oomp_word_emoji: ':bear: :book: :ram:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':book:'
+- ':ram:'
+oomp_word_list:
+- bear
+- book
+- ram
+part_number: ''
+size: tray_vertical
+type: part

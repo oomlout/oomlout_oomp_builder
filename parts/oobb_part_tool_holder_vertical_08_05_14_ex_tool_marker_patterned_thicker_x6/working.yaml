@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_14_ex_tool_marker_patterned_thicker_x6
+directory: parts/oobb_part_tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+id: oobb_part_tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+id_no_class: part_tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+id_no_color: 080514extoolmarkerpatternedthickerx6
+id_no_size: 08_05_14_ex_tool_marker_patterned_thicker_x6
+id_no_type: tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+manufacturer: ''
+md5: f2ce7cdf3c1cdb82e98d052f758b5570
+md5_10: f2ce7cdf3c
+md5_10_upper: F2CE7CDF3C
+md5_5: f2ce7
+md5_5_upper: F2CE7
+md5_6: f2ce7c
+md5_6_alpha: 9h27w
+md5_6_alpha_upper: 9H27W
+md5_6_upper: F2CE7C
+name: Oobb Part Tool Holder Vertical 08 05 14 Ex Tool Marker Patterned Thicker X6
+name_no_class: Part Tool Holder Vertical 08 05 14 Ex Tool Marker Patterned Thicker
+  X6
+name_no_color: 080514Extoolmarkerpatternedthickerx6
+name_no_size: 08 05 14 Ex Tool Marker Patterned Thicker X6
+name_no_type: Tool Holder Vertical 08 05 14 Ex Tool Marker Patterned Thicker X6
+oomp_key: oomp_oobb_part_tool_holder_vertical_08_05_14_ex_tool_marker_patterned_thicker_x6
+oomp_word: one peach tv
+oomp_word_emoji: ':one: :peach: :tv:'
+oomp_word_emoji_list:
+- ':one:'
+- ':peach:'
+- ':tv:'
+oomp_word_list:
+- one
+- peach
+- tv
+part_number: ''
+size: tool_holder_vertical
+type: part

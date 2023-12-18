@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_14_03'
+directory: parts/oobb_part_plate_14_14_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_14_03
+id: oobb_part_plate_14_14_03
+id_no_class: part_plate_14_14_03
+id_no_color: '141403'
+id_no_size: '14_14_03'
+id_no_type: plate_14_14_03
+manufacturer: ''
+md5: a62f179f65e8fedf8d0b0ddd2628feee
+md5_10: a62f179f65
+md5_10_upper: A62F179F65
+md5_5: a62f1
+md5_5_upper: A62F1
+md5_6: a62f17
+md5_6_alpha: 6hfkn
+md5_6_alpha_upper: 6HFKN
+md5_6_upper: A62F17
+name: Oobb Part Plate 14 14 03
+name_no_class: Part Plate 14 14 03
+name_no_color: '141403'
+name_no_size: 14 14 03
+name_no_type: Plate 14 14 03
+oomp_key: oomp_oobb_part_plate_14_14_03
+oomp_word: trumpet cyclone thumbsdown
+oomp_word_emoji: ':trumpet: :cyclone: :thumbsdown:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':cyclone:'
+- ':thumbsdown:'
+oomp_word_list:
+- trumpet
+- cyclone
+- thumbsdown
+part_number: ''
+size: plate
+type: part

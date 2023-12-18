@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_15'
+directory: parts/oobb_part_tray_vertical_06_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_15
+id: oobb_part_tray_vertical_06_03_15
+id_no_class: part_tray_vertical_06_03_15
+id_no_color: '060315'
+id_no_size: '06_03_15'
+id_no_type: tray_vertical_06_03_15
+manufacturer: ''
+md5: 2fc0cc8af7b3dff4deedda5333e1a5a8
+md5_10: 2fc0cc8af7
+md5_10_upper: 2FC0CC8AF7
+md5_5: 2fc0c
+md5_5_upper: 2FC0C
+md5_6: 2fc0cc
+md5_6_alpha: 1v2rw
+md5_6_alpha_upper: 1V2RW
+md5_6_upper: 2FC0CC
+name: Oobb Part Tray Vertical 06 03 15
+name_no_class: Part Tray Vertical 06 03 15
+name_no_color: '060315'
+name_no_size: 06 03 15
+name_no_type: Tray Vertical 06 03 15
+oomp_key: oomp_oobb_part_tray_vertical_06_03_15
+oomp_word: cyclone bread watermelon
+oomp_word_emoji: ':cyclone: :bread: :watermelon:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':bread:'
+- ':watermelon:'
+oomp_word_list:
+- cyclone
+- bread
+- watermelon
+part_number: ''
+size: tray_vertical
+type: part

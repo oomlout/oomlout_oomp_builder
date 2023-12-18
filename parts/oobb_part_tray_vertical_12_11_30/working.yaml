@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_11_30'
+directory: parts/oobb_part_tray_vertical_12_11_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_11_30
+id: oobb_part_tray_vertical_12_11_30
+id_no_class: part_tray_vertical_12_11_30
+id_no_color: '121130'
+id_no_size: '12_11_30'
+id_no_type: tray_vertical_12_11_30
+manufacturer: ''
+md5: 04d48262044185163568b3cf726d065e
+md5_10: 04d4826204
+md5_10_upper: 04D4826204
+md5_5: 04d48
+md5_5_upper: 04D48
+md5_6: 04d482
+md5_6_alpha: 6s8y
+md5_6_alpha_upper: 6S8Y
+md5_6_upper: 04D482
+name: Oobb Part Tray Vertical 12 11 30
+name_no_class: Part Tray Vertical 12 11 30
+name_no_color: '121130'
+name_no_size: 12 11 30
+name_no_type: Tray Vertical 12 11 30
+oomp_key: oomp_oobb_part_tray_vertical_12_11_30
+oomp_word: wink corn radio
+oomp_word_emoji: ':wink: :corn: :radio:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':corn:'
+- ':radio:'
+oomp_word_list:
+- wink
+- corn
+- radio
+part_number: ''
+size: tray_vertical
+type: part

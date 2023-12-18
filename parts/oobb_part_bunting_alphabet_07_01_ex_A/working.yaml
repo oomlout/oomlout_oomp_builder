@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_a
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_a
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_a
+id: oobb_part_bunting_alphabet_07_01_ex_a
+id_no_class: part_bunting_alphabet_07_01_ex_a
+id_no_color: 0701exa
+id_no_size: 07_01_ex_a
+id_no_type: bunting_alphabet_07_01_ex_a
+manufacturer: ''
+md5: 061fb38f32094a15575361575c5ea38e
+md5_10: 061fb38f32
+md5_10_upper: 061FB38F32
+md5_5: 061fb
+md5_5_upper: 061FB
+md5_6: 061fb3
+md5_6_alpha: 8lo3
+md5_6_alpha_upper: 8LO3
+md5_6_upper: 061FB3
+name: Oobb Part Bunting Alphabet 07 01 Ex A
+name_no_class: Part Bunting Alphabet 07 01 Ex A
+name_no_color: 0701Exa
+name_no_size: 07 01 Ex A
+name_no_type: Bunting Alphabet 07 01 Ex A
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_a
+oomp_word: sleeping princess eyeglasses
+oomp_word_emoji: ':sleeping: :princess: :eyeglasses:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':princess:'
+- ':eyeglasses:'
+oomp_word_list:
+- sleeping
+- princess
+- eyeglasses
+part_number: ''
+size: bunting_alphabet
+type: part

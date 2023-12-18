@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_01_09'
+directory: parts/oobb_part_plate_15_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_09
+id: oobb_part_plate_15_01_09
+id_no_class: part_plate_15_01_09
+id_no_color: '150109'
+id_no_size: '15_01_09'
+id_no_type: plate_15_01_09
+manufacturer: ''
+md5: 40e8a631daf67e2d11f391c88f0e54e7
+md5_10: 40e8a631da
+md5_10_upper: 40E8A631DA
+md5_5: 40e8a
+md5_5_upper: 40E8A
+md5_6: 40e8a6
+md5_6_alpha: 2j6au
+md5_6_alpha_upper: 2J6AU
+md5_6_upper: 40E8A6
+name: Oobb Part Plate 15 01 09
+name_no_class: Part Plate 15 01 09
+name_no_color: '150109'
+name_no_size: 15 01 09
+name_no_type: Plate 15 01 09
+oomp_key: oomp_oobb_part_plate_15_01_09
+oomp_word: racehorse tram trumpet
+oomp_word_emoji: ':racehorse: :tram: :trumpet:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':tram:'
+- ':trumpet:'
+oomp_word_list:
+- racehorse
+- tram
+- trumpet
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_j
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_j
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_j
+id: oobb_part_bunting_alphabet_07_01_ex_j
+id_no_class: part_bunting_alphabet_07_01_ex_j
+id_no_color: 0701exj
+id_no_size: 07_01_ex_j
+id_no_type: bunting_alphabet_07_01_ex_j
+manufacturer: ''
+md5: 8ee5706acee02daf6514653dfcf69aa0
+md5_10: 8ee5706ace
+md5_10_upper: 8EE5706ACE
+md5_5: 8ee57
+md5_5_upper: 8EE57
+md5_6: 8ee570
+md5_6_alpha: 5kpyo
+md5_6_alpha_upper: 5KPYO
+md5_6_upper: 8EE570
+name: Oobb Part Bunting Alphabet 07 01 Ex J
+name_no_class: Part Bunting Alphabet 07 01 Ex J
+name_no_color: 0701Exj
+name_no_size: 07 01 Ex J
+name_no_type: Bunting Alphabet 07 01 Ex J
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_j
+oomp_word: clipboard rocket squirrel
+oomp_word_emoji: ':clipboard: :rocket: :squirrel:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':rocket:'
+- ':squirrel:'
+oomp_word_list:
+- clipboard
+- rocket
+- squirrel
+part_number: ''
+size: bunting_alphabet
+type: part

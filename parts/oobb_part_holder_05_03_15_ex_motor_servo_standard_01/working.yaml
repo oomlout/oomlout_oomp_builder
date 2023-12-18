@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_15_ex_motor_servo_standard_01
+directory: parts/oobb_part_holder_05_03_15_ex_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_15_ex_motor_servo_standard_01
+id: oobb_part_holder_05_03_15_ex_motor_servo_standard_01
+id_no_class: part_holder_05_03_15_ex_motor_servo_standard_01
+id_no_color: 050315exmotorservostandard01
+id_no_size: 05_03_15_ex_motor_servo_standard_01
+id_no_type: holder_05_03_15_ex_motor_servo_standard_01
+manufacturer: ''
+md5: 9e7d7d03e383beff4dee14ce8898a7ee
+md5_10: 9e7d7d03e3
+md5_10_upper: 9E7D7D03E3
+md5_5: 9e7d7
+md5_5_upper: 9E7D7
+md5_6: 9e7d7d
+md5_6_alpha: 66mil
+md5_6_alpha_upper: 66MIL
+md5_6_upper: 9E7D7D
+name: Oobb Part Holder 05 03 15 Ex Motor Servo Standard 01
+name_no_class: Part Holder 05 03 15 Ex Motor Servo Standard 01
+name_no_color: 050315Exmotorservostandard01
+name_no_size: 05 03 15 Ex Motor Servo Standard 01
+name_no_type: Holder 05 03 15 Ex Motor Servo Standard 01
+oomp_key: oomp_oobb_part_holder_05_03_15_ex_motor_servo_standard_01
+oomp_word: clubs phone phone
+oomp_word_emoji: ':clubs: :phone: :phone:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':phone:'
+- ':phone:'
+oomp_word_list:
+- clubs
+- phone
+- phone
+part_number: ''
+size: holder
+type: part

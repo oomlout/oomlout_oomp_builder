@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05'
+directory: parts/oobb_part_smd_magazine_lid_05_05
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_05_05
+id: oobb_part_smd_magazine_lid_05_05
+id_no_class: part_smd_magazine_lid_05_05
+id_no_color: '0505'
+id_no_size: '05_05'
+id_no_type: smd_magazine_lid_05_05
+manufacturer: ''
+md5: 349f4169e433063f392c651e391383fd
+md5_10: 349f4169e4
+md5_10_upper: 349F4169E4
+md5_5: 349f4
+md5_5_upper: 349F4
+md5_6: 349f41
+md5_6_alpha: 21wzl
+md5_6_alpha_upper: 21WZL
+md5_6_upper: 349F41
+name: Oobb Part Smd Magazine Lid 05 05
+name_no_class: Part Smd Magazine Lid 05 05
+name_no_color: '0505'
+name_no_size: 05 05
+name_no_type: Smd Magazine Lid 05 05
+oomp_key: oomp_oobb_part_smd_magazine_lid_05_05
+oomp_word: mouse diamonds camel
+oomp_word_emoji: ':mouse: :diamonds: :camel:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':diamonds:'
+- ':camel:'
+oomp_word_list:
+- mouse
+- diamonds
+- camel
+part_number: ''
+size: smd_magazine_lid
+type: part

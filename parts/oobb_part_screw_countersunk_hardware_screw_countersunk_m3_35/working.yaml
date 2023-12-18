@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_35
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_35
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_35
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_35
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_35
+id_no_color: hardwarem335
+id_no_size: hardware_m3_35
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_35
+manufacturer: ''
+md5: 109db4795a4d9d9e2ef39fdde1cd2f3e
+md5_10: 109db4795a
+md5_10_upper: 109DB4795A
+md5_5: 109db
+md5_5_upper: 109DB
+md5_6: 109db4
+md5_6_alpha: nc8k
+md5_6_alpha_upper: NC8K
+md5_6_upper: 109DB4
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 35
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 35
+name_no_color: Hardwarem335
+name_no_size: Hardware M3 35
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 35
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_35
+oomp_word: star hearts coffee
+oomp_word_emoji: ':star: :hearts: :coffee:'
+oomp_word_emoji_list:
+- ':star:'
+- ':hearts:'
+- ':coffee:'
+oomp_word_list:
+- star
+- hearts
+- coffee
+part_number: ''
+size: screw_countersunk
+type: part

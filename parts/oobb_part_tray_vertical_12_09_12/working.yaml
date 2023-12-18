@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_09_12'
+directory: parts/oobb_part_tray_vertical_12_09_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_09_12
+id: oobb_part_tray_vertical_12_09_12
+id_no_class: part_tray_vertical_12_09_12
+id_no_color: '120912'
+id_no_size: '12_09_12'
+id_no_type: tray_vertical_12_09_12
+manufacturer: ''
+md5: 6cd80561f4156ca78c48c90dbed024f9
+md5_10: 6cd80561f4
+md5_10_upper: 6CD80561F4
+md5_5: 6cd80
+md5_5_upper: 6CD80
+md5_6: 6cd805
+md5_6_alpha: 48w05
+md5_6_alpha_upper: 48W05
+md5_6_upper: 6CD805
+name: Oobb Part Tray Vertical 12 09 12
+name_no_class: Part Tray Vertical 12 09 12
+name_no_color: '120912'
+name_no_size: 12 09 12
+name_no_type: Tray Vertical 12 09 12
+oomp_key: oomp_oobb_part_tray_vertical_12_09_12
+oomp_word: blossom hospital kissing
+oomp_word_emoji: ':blossom: :hospital: :kissing:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':hospital:'
+- ':kissing:'
+oomp_word_list:
+- blossom
+- hospital
+- kissing
+part_number: ''
+size: tray_vertical
+type: part

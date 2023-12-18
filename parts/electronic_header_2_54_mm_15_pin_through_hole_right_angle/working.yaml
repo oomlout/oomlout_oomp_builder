@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_15_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_15_pin_through_hole_right_angle
+id_no_color: 15pinthroughholerightangle
+id_no_size: 15_pin_through_hole_right_angle
+id_no_type: 2_54_mm_15_pin_through_hole_right_angle
+manufacturer: ''
+md5: bc0bcd8b49506a3c221fb7efe7c9e780
+md5_10: bc0bcd8b49
+md5_10_upper: BC0BCD8B49
+md5_5: bc0bc
+md5_5_upper: BC0BC
+md5_6: bc0bcd
+md5_6_alpha: 7c53h
+md5_6_alpha_upper: 7C53H
+md5_6_upper: BC0BCD
+name: Electronic Header 2 54 Mm 15 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 15 Pin Through Hole Right Angle
+name_no_color: 15Pinthroughholerightangle
+name_no_size: 15 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 15 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_through_hole_right_angle
+oomp_word: sushi sunglasses strawberry
+oomp_word_emoji: ':sushi: :sunglasses: :strawberry:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':sunglasses:'
+- ':strawberry:'
+oomp_word_list:
+- sushi
+- sunglasses
+- strawberry
+part_number: ''
+size: 2_54_mm
+type: header

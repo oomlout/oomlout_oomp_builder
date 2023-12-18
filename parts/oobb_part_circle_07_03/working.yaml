@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_03'
+directory: parts/oobb_part_circle_07_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_07_03
+id: oobb_part_circle_07_03
+id_no_class: part_circle_07_03
+id_no_color: '0703'
+id_no_size: '07_03'
+id_no_type: circle_07_03
+manufacturer: ''
+md5: 22b39b8b3c7b8f37ba7466b33a0ffae9
+md5_10: 22b39b8b3c
+md5_10_upper: 22B39B8B3C
+md5_5: 22b39
+md5_5_upper: 22B39
+md5_6: 22b39b
+md5_6_alpha: 1cqsb
+md5_6_alpha_upper: 1CQSB
+md5_6_upper: 22B39B
+name: Oobb Part Circle 07 03
+name_no_class: Part Circle 07 03
+name_no_color: '0703'
+name_no_size: 07 03
+name_no_type: Circle 07 03
+oomp_key: oomp_oobb_part_circle_07_03
+oomp_word: lips eyeglasses ski
+oomp_word_emoji: ':lips: :eyeglasses: :ski:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':eyeglasses:'
+- ':ski:'
+oomp_word_list:
+- lips
+- eyeglasses
+- ski
+part_number: ''
+size: circle
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow
+id: electronic_led_3_mm_yellow
+id_no_class: led_3_mm_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 3_mm_yellow
+manufacturer: ''
+md5: 46a6ba779ea221e73a34edd69dc9e28e
+md5_10: 46a6ba779e
+md5_10_upper: 46A6BA779E
+md5_5: 46a6b
+md5_5_upper: 46A6B
+md5_6: 46a6ba
+md5_6_alpha: 2r8oq
+md5_6_alpha_upper: 2R8OQ
+md5_6_upper: 46A6BA
+name: Electronic Led 3 Mm Yellow
+name_no_class: Led 3 Mm Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 3 Mm Yellow
+oomp_key: oomp_electronic_led_3_mm_yellow
+oomp_word: bird trumpet spaghetti
+oomp_word_emoji: ':bird: :trumpet: :spaghetti:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':trumpet:'
+- ':spaghetti:'
+oomp_word_list:
+- bird
+- trumpet
+- spaghetti
+part_number: ''
+size: 3_mm
+type: led

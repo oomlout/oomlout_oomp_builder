@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_04_30'
+directory: parts/oobb_part_tray_thin_10_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_30
+id: oobb_part_tray_thin_10_04_30
+id_no_class: part_tray_thin_10_04_30
+id_no_color: '100430'
+id_no_size: '10_04_30'
+id_no_type: tray_thin_10_04_30
+manufacturer: ''
+md5: ad51d6310f2ec5628d32ae32b3cf1a91
+md5_10: ad51d6310f
+md5_10_upper: AD51D6310F
+md5_5: ad51d
+md5_5_upper: AD51D
+md5_6: ad51d6
+md5_6_alpha: 6rgeu
+md5_6_alpha_upper: 6RGEU
+md5_6_upper: AD51D6
+name: Oobb Part Tray Thin 10 04 30
+name_no_class: Part Tray Thin 10 04 30
+name_no_color: '100430'
+name_no_size: 10 04 30
+name_no_type: Tray Thin 10 04 30
+oomp_key: oomp_oobb_part_tray_thin_10_04_30
+oomp_word: dress snail school
+oomp_word_emoji: ':dress: :snail: :school:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':snail:'
+- ':school:'
+oomp_word_list:
+- dress
+- snail
+- school
+part_number: ''
+size: tray_thin
+type: part

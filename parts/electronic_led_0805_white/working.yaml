@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_white
+id: electronic_led_0805_white
+id_no_class: led_0805_white
+id_no_color: white
+id_no_size: white
+id_no_type: 0805_white
+manufacturer: ''
+md5: 6299807439f13ba45e71bbd3001721da
+md5_10: '6299807439'
+md5_10_upper: '6299807439'
+md5_5: '62998'
+md5_5_upper: '62998'
+md5_6: '629980'
+md5_6_alpha: 3uhz4
+md5_6_alpha_upper: 3UHZ4
+md5_6_upper: '629980'
+name: Electronic Led 0805 White
+name_no_class: Led 0805 White
+name_no_color: White
+name_no_size: White
+name_no_type: 0805 White
+oomp_key: oomp_electronic_led_0805_white
+oomp_word: tulip bowling hourglass
+oomp_word_emoji: ':tulip: :bowling: :hourglass:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':bowling:'
+- ':hourglass:'
+oomp_word_list:
+- tulip
+- bowling
+- hourglass
+part_number: ''
+size: 0805
+type: led

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_09
+directory: parts/oobb_part_tray_thin_07_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_07_09
+id: oobb_part_tray_thin_07_07_09
+id_no_class: part_tray_thin_07_07_09
+id_no_color: 070709
+id_no_size: 07_07_09
+id_no_type: tray_thin_07_07_09
+manufacturer: ''
+md5: 488df6381e36ec1b7dbca6dd4b17cb1e
+md5_10: 488df6381e
+md5_10_upper: 488DF6381E
+md5_5: 488df
+md5_5_upper: 488DF
+md5_6: 488df6
+md5_6_alpha: 2twxi
+md5_6_alpha_upper: 2TWXI
+md5_6_upper: 488DF6
+name: Oobb Part Tray Thin 07 07 09
+name_no_class: Part Tray Thin 07 07 09
+name_no_color: 070709
+name_no_size: 07 07 09
+name_no_type: Tray Thin 07 07 09
+oomp_key: oomp_oobb_part_tray_thin_07_07_09
+oomp_word: hatched_chick scroll five
+oomp_word_emoji: ':hatched_chick: :scroll: :five:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':scroll:'
+- ':five:'
+oomp_word_list:
+- hatched_chick
+- scroll
+- five
+part_number: ''
+size: tray_thin
+type: part

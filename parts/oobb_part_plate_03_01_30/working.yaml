@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_30'
+directory: parts/oobb_part_plate_03_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_30
+id: oobb_part_plate_03_01_30
+id_no_class: part_plate_03_01_30
+id_no_color: '030130'
+id_no_size: '03_01_30'
+id_no_type: plate_03_01_30
+manufacturer: ''
+md5: 4e3d5db7d44ae22b5784b3129910a206
+md5_10: 4e3d5db7d4
+md5_10_upper: 4E3D5DB7D4
+md5_5: 4e3d5
+md5_5_upper: 4E3D5
+md5_6: 4e3d5d
+md5_6_alpha: 31wf1
+md5_6_alpha_upper: 31WF1
+md5_6_upper: 4E3D5D
+name: Oobb Part Plate 03 01 30
+name_no_class: Part Plate 03 01 30
+name_no_color: '030130'
+name_no_size: 03 01 30
+name_no_type: Plate 03 01 30
+oomp_key: oomp_oobb_part_plate_03_01_30
+oomp_word: honeybee cow blowfish
+oomp_word_emoji: ':honeybee: :cow: :blowfish:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':cow:'
+- ':blowfish:'
+oomp_word_list:
+- honeybee
+- cow
+- blowfish
+part_number: ''
+size: plate
+type: part

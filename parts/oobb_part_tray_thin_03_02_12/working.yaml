@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_02_12'
+directory: parts/oobb_part_tray_thin_03_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_02_12
+id: oobb_part_tray_thin_03_02_12
+id_no_class: part_tray_thin_03_02_12
+id_no_color: '030212'
+id_no_size: '03_02_12'
+id_no_type: tray_thin_03_02_12
+manufacturer: ''
+md5: 7b9fcd534a64c8893fd2cfd59269b542
+md5_10: 7b9fcd534a
+md5_10_upper: 7B9FCD534A
+md5_5: 7b9fc
+md5_5_upper: 7B9FC
+md5_6: 7b9fcd
+md5_6_alpha: 4tnf1
+md5_6_alpha_upper: 4TNF1
+md5_6_upper: 7B9FCD
+name: Oobb Part Tray Thin 03 02 12
+name_no_class: Part Tray Thin 03 02 12
+name_no_color: '030212'
+name_no_size: 03 02 12
+name_no_type: Tray Thin 03 02 12
+oomp_key: oomp_oobb_part_tray_thin_03_02_12
+oomp_word: computer diamonds strawberry
+oomp_word_emoji: ':computer: :diamonds: :strawberry:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':diamonds:'
+- ':strawberry:'
+oomp_word_list:
+- computer
+- diamonds
+- strawberry
+part_number: ''
+size: tray_thin
+type: part

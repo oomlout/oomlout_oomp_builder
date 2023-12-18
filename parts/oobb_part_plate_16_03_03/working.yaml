@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_03_03'
+directory: parts/oobb_part_plate_16_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_03_03
+id: oobb_part_plate_16_03_03
+id_no_class: part_plate_16_03_03
+id_no_color: '160303'
+id_no_size: '16_03_03'
+id_no_type: plate_16_03_03
+manufacturer: ''
+md5: 03291c4bbb7dc0f53279148d5fdb21c6
+md5_10: 03291c4bbb
+md5_10_upper: 03291C4BBB
+md5_5: 03291
+md5_5_upper: 03291
+md5_6: 03291c
+md5_6_alpha: 4fto
+md5_6_alpha_upper: 4FTO
+md5_6_upper: 03291C
+name: Oobb Part Plate 16 03 03
+name_no_class: Part Plate 16 03 03
+name_no_color: '160303'
+name_no_size: 16 03 03
+name_no_type: Plate 16 03 03
+oomp_key: oomp_oobb_part_plate_16_03_03
+oomp_word: grin sunny dancer
+oomp_word_emoji: ':grin: :sunny: :dancer:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':sunny:'
+- ':dancer:'
+oomp_word_list:
+- grin
+- sunny
+- dancer
+part_number: ''
+size: plate
+type: part

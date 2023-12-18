@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_m
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_m
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_m
+id: oobb_part_bunting_alphabet_07_01_ex_m
+id_no_class: part_bunting_alphabet_07_01_ex_m
+id_no_color: 0701exm
+id_no_size: 07_01_ex_m
+id_no_type: bunting_alphabet_07_01_ex_m
+manufacturer: ''
+md5: 8060120fe89205bbca2e638e31aaedb6
+md5_10: 8060120fe8
+md5_10_upper: 8060120FE8
+md5_5: '80601'
+md5_5_upper: '80601'
+md5_6: '806012'
+md5_6_alpha: 50bo2
+md5_6_alpha_upper: 50BO2
+md5_6_upper: '806012'
+name: Oobb Part Bunting Alphabet 07 01 Ex M
+name_no_class: Part Bunting Alphabet 07 01 Ex M
+name_no_color: 0701Exm
+name_no_size: 07 01 Ex M
+name_no_type: Bunting Alphabet 07 01 Ex M
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_m
+oomp_word: hourglass poodle anger
+oomp_word_emoji: ':hourglass: :poodle: :anger:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':poodle:'
+- ':anger:'
+oomp_word_list:
+- hourglass
+- poodle
+- anger
+part_number: ''
+size: bunting_alphabet
+type: part

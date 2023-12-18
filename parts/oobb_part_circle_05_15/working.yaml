@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_15'
+directory: parts/oobb_part_circle_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_05_15
+id: oobb_part_circle_05_15
+id_no_class: part_circle_05_15
+id_no_color: '0515'
+id_no_size: '05_15'
+id_no_type: circle_05_15
+manufacturer: ''
+md5: dc49fb51b6eccc148e08a14d8ace5ae1
+md5_10: dc49fb51b6
+md5_10_upper: DC49FB51B6
+md5_5: dc49f
+md5_5_upper: DC49F
+md5_6: dc49fb
+md5_6_alpha: 8lfjv
+md5_6_alpha_upper: 8LFJV
+md5_6_upper: DC49FB
+name: Oobb Part Circle 05 15
+name_no_class: Part Circle 05 15
+name_no_color: '0515'
+name_no_size: 05 15
+name_no_type: Circle 05 15
+oomp_key: oomp_oobb_part_circle_05_15
+oomp_word: factory hatching_chick ok
+oomp_word_emoji: ':factory: :hatching_chick: :ok:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':hatching_chick:'
+- ':ok:'
+oomp_word_list:
+- factory
+- hatching_chick
+- ok
+part_number: ''
+size: circle
+type: part

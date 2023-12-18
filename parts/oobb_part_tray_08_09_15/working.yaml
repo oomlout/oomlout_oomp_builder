@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_09_15
+directory: parts/oobb_part_tray_08_09_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_09_15
+id: oobb_part_tray_08_09_15
+id_no_class: part_tray_08_09_15
+id_no_color: 080915
+id_no_size: 08_09_15
+id_no_type: tray_08_09_15
+manufacturer: ''
+md5: 7a58b2d78265edacc36b5ffea33b3458
+md5_10: 7a58b2d782
+md5_10_upper: 7A58B2D782
+md5_5: 7a58b
+md5_5_upper: 7A58B
+md5_6: 7a58b2
+md5_6_alpha: 4rusy
+md5_6_alpha_upper: 4RUSY
+md5_6_upper: 7A58B2
+name: Oobb Part Tray 08 09 15
+name_no_class: Part Tray 08 09 15
+name_no_color: 080915
+name_no_size: 08 09 15
+name_no_type: Tray 08 09 15
+oomp_key: oomp_oobb_part_tray_08_09_15
+oomp_word: camera water_buffalo handbag
+oomp_word_emoji: ':camera: :water_buffalo: :handbag:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':water_buffalo:'
+- ':handbag:'
+oomp_word_list:
+- camera
+- water_buffalo
+- handbag
+part_number: ''
+size: tray
+type: part

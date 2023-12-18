@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_03_03'
+directory: parts/oobb_part_plate_21_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_03_03
+id: oobb_part_plate_21_03_03
+id_no_class: part_plate_21_03_03
+id_no_color: '210303'
+id_no_size: '21_03_03'
+id_no_type: plate_21_03_03
+manufacturer: ''
+md5: 7da4ad0577328d7738d913df4f056125
+md5_10: 7da4ad0577
+md5_10_upper: 7DA4AD0577
+md5_5: 7da4a
+md5_5_upper: 7DA4A
+md5_6: 7da4ad
+md5_6_alpha: 4whil
+md5_6_alpha_upper: 4WHIL
+md5_6_upper: 7DA4AD
+name: Oobb Part Plate 21 03 03
+name_no_class: Part Plate 21 03 03
+name_no_color: '210303'
+name_no_size: 21 03 03
+name_no_type: Plate 21 03 03
+oomp_key: oomp_oobb_part_plate_21_03_03
+oomp_word: phone book dress
+oomp_word_emoji: ':phone: :book: :dress:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':book:'
+- ':dress:'
+oomp_word_list:
+- phone
+- book
+- dress
+part_number: ''
+size: plate
+type: part

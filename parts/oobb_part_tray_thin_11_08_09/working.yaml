@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_08_09'
+directory: parts/oobb_part_tray_thin_11_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_08_09
+id: oobb_part_tray_thin_11_08_09
+id_no_class: part_tray_thin_11_08_09
+id_no_color: '110809'
+id_no_size: '11_08_09'
+id_no_type: tray_thin_11_08_09
+manufacturer: ''
+md5: dde3639895d6a9591b206fc35d88576d
+md5_10: dde3639895
+md5_10_upper: DDE3639895
+md5_5: dde36
+md5_5_upper: DDE36
+md5_6: dde363
+md5_6_alpha: 8nof7
+md5_6_alpha_upper: 8NOF7
+md5_6_upper: DDE363
+name: Oobb Part Tray Thin 11 08 09
+name_no_class: Part Tray Thin 11 08 09
+name_no_color: '110809'
+name_no_size: 11 08 09
+name_no_type: Tray Thin 11 08 09
+oomp_key: oomp_oobb_part_tray_thin_11_08_09
+oomp_word: stars rowboat rose
+oomp_word_emoji: ':stars: :rowboat: :rose:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':rowboat:'
+- ':rose:'
+oomp_word_list:
+- stars
+- rowboat
+- rose
+part_number: ''
+size: tray_thin
+type: part

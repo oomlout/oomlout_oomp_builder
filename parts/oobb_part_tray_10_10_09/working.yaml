@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_09'
+directory: parts/oobb_part_tray_10_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_10_09
+id: oobb_part_tray_10_10_09
+id_no_class: part_tray_10_10_09
+id_no_color: '101009'
+id_no_size: '10_10_09'
+id_no_type: tray_10_10_09
+manufacturer: ''
+md5: 9536fa44d36a1e1369f03bf61c4ee71f
+md5_10: 9536fa44d3
+md5_10_upper: 9536FA44D3
+md5_5: 9536f
+md5_5_upper: 9536F
+md5_6: 9536fa
+md5_6_alpha: 5tlh6
+md5_6_alpha_upper: 5TLH6
+md5_6_upper: 9536FA
+name: Oobb Part Tray 10 10 09
+name_no_class: Part Tray 10 10 09
+name_no_color: '101009'
+name_no_size: 10 10 09
+name_no_type: Tray 10 10 09
+oomp_key: oomp_oobb_part_tray_10_10_09
+oomp_word: telescope rabbit nine
+oomp_word_emoji: ':telescope: :rabbit: :nine:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':rabbit:'
+- ':nine:'
+oomp_word_list:
+- telescope
+- rabbit
+- nine
+part_number: ''
+size: tray
+type: part

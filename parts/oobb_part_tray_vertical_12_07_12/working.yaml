@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_07_12'
+directory: parts/oobb_part_tray_vertical_12_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_07_12
+id: oobb_part_tray_vertical_12_07_12
+id_no_class: part_tray_vertical_12_07_12
+id_no_color: '120712'
+id_no_size: '12_07_12'
+id_no_type: tray_vertical_12_07_12
+manufacturer: ''
+md5: 318e16c77d22c266c436f4148909355c
+md5_10: 318e16c77d
+md5_10_upper: 318E16C77D
+md5_5: 318e1
+md5_5_upper: 318E1
+md5_6: 318e16
+md5_6_alpha: 1xlw6
+md5_6_alpha_upper: 1XLW6
+md5_6_upper: 318E16
+name: Oobb Part Tray Vertical 12 07 12
+name_no_class: Part Tray Vertical 12 07 12
+name_no_color: '120712'
+name_no_size: 12 07 12
+name_no_type: Tray Vertical 12 07 12
+oomp_key: oomp_oobb_part_tray_vertical_12_07_12
+oomp_word: ocean clipboard thumbsup
+oomp_word_emoji: ':ocean: :clipboard: :thumbsup:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':clipboard:'
+- ':thumbsup:'
+oomp_word_list:
+- ocean
+- clipboard
+- thumbsup
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+directory: parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id: oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 050518nm16mmtapewidth3mmtapethicknessex3
+id_no_size: 05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+md5: 0aab1a8ef80c63b995f838ece442af90
+md5_10: 0aab1a8ef8
+md5_10_upper: 0AAB1A8EF8
+md5_5: 0aab1
+md5_5_upper: 0AAB1
+md5_6: 0aab1a
+md5_6_alpha: ezh6
+md5_6_alpha_upper: EZH6
+md5_6_upper: 0AAB1A
+name: Oobb Part Smd Magazine 05 05 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_class: Part Smd Magazine 05 05 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_color: 050518Nm16Mmtapewidth3Mmtapethicknessex3
+name_no_size: 05 05 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_type: Smd Magazine 05 05 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: sleepy boot clap
+oomp_word_emoji: ':sleepy: :boot: :clap:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':boot:'
+- ':clap:'
+oomp_word_list:
+- sleepy
+- boot
+- clap
+part_number: ''
+size: smd_magazine
+type: part

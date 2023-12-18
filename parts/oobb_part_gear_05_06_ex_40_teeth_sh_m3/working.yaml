@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_06_ex_40_teeth_sh_m3
+directory: parts/oobb_part_gear_05_06_ex_40_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth_sh_m3
+id: oobb_part_gear_05_06_ex_40_teeth_sh_m3
+id_no_class: part_gear_05_06_ex_40_teeth_sh_m3
+id_no_color: 0506ex40teethshm3
+id_no_size: 05_06_ex_40_teeth_sh_m3
+id_no_type: gear_05_06_ex_40_teeth_sh_m3
+manufacturer: ''
+md5: a53941f632aa471aad67721fee0994a9
+md5_10: a53941f632
+md5_10_upper: A53941F632
+md5_5: a5394
+md5_5_upper: A5394
+md5_6: a53941
+md5_6_alpha: 6g30h
+md5_6_alpha_upper: 6G30H
+md5_6_upper: A53941
+name: Oobb Part Gear 05 06 Ex 40 Teeth Sh M3
+name_no_class: Part Gear 05 06 Ex 40 Teeth Sh M3
+name_no_color: 0506Ex40Teethshm3
+name_no_size: 05 06 Ex 40 Teeth Sh M3
+name_no_type: Gear 05 06 Ex 40 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_05_06_ex_40_teeth_sh_m3
+oomp_word: headphones tiger camel
+oomp_word_emoji: ':headphones: :tiger: :camel:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':tiger:'
+- ':camel:'
+oomp_word_list:
+- headphones
+- tiger
+- camel
+part_number: ''
+size: gear
+type: part

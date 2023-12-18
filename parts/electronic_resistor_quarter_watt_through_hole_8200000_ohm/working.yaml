@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 8200000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_8200000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200000_ohm
+id: electronic_resistor_quarter_watt_through_hole_8200000_ohm
+id_no_class: resistor_quarter_watt_through_hole_8200000_ohm
+id_no_color: 8200000ohm
+id_no_size: 8200000_ohm
+id_no_type: quarter_watt_through_hole_8200000_ohm
+manufacturer: ''
+md5: cb33e749ad8910f503051dcadf97eef0
+md5_10: cb33e749ad
+md5_10_upper: CB33E749AD
+md5_5: cb33e
+md5_5_upper: CB33E
+md5_6: cb33e7
+md5_6_alpha: 7xfjb
+md5_6_alpha_upper: 7XFJB
+md5_6_upper: CB33E7
+name: Electronic Resistor Quarter Watt Through Hole 8200000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 8200000 Ohm
+name_no_color: 8200000Ohm
+name_no_size: 8200000 Ohm
+name_no_type: Quarter Watt Through Hole 8200000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_8200000_ohm
+oomp_word: grapes dog helicopter
+oomp_word_emoji: ':grapes: :dog: :helicopter:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':dog:'
+- ':helicopter:'
+oomp_word_list:
+- grapes
+- dog
+- helicopter
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

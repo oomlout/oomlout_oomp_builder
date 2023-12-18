@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_01_03'
+directory: parts/oobb_part_plate_21_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_01_03
+id: oobb_part_plate_21_01_03
+id_no_class: part_plate_21_01_03
+id_no_color: '210103'
+id_no_size: '21_01_03'
+id_no_type: plate_21_01_03
+manufacturer: ''
+md5: 32133a83e2cf181376c39d61e5d64783
+md5_10: 32133a83e2
+md5_10_upper: 32133A83E2
+md5_5: '32133'
+md5_5_upper: '32133'
+md5_6: 32133a
+md5_6_alpha: 1yc6y
+md5_6_alpha_upper: 1YC6Y
+md5_6_upper: 32133A
+name: Oobb Part Plate 21 01 03
+name_no_class: Part Plate 21 01 03
+name_no_color: '210103'
+name_no_size: 21 01 03
+name_no_type: Plate 21 01 03
+oomp_key: oomp_oobb_part_plate_21_01_03
+oomp_word: cat question koala
+oomp_word_emoji: ':cat: :question: :koala:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':question:'
+- ':koala:'
+oomp_word_list:
+- cat
+- question
+- koala
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_09_09'
+directory: parts/oobb_part_tray_vertical_12_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_09_09
+id: oobb_part_tray_vertical_12_09_09
+id_no_class: part_tray_vertical_12_09_09
+id_no_color: '120909'
+id_no_size: '12_09_09'
+id_no_type: tray_vertical_12_09_09
+manufacturer: ''
+md5: 92f7d9b800a71b3cfa6b7108ff1c57af
+md5_10: 92f7d9b800
+md5_10_upper: 92F7D9B800
+md5_5: 92f7d
+md5_5_upper: 92F7D
+md5_6: 92f7d9
+md5_6_alpha: 5qfvd
+md5_6_alpha_upper: 5QFVD
+md5_6_upper: 92F7D9
+name: Oobb Part Tray Vertical 12 09 09
+name_no_class: Part Tray Vertical 12 09 09
+name_no_color: '120909'
+name_no_size: 12 09 09
+name_no_type: Tray Vertical 12 09 09
+oomp_key: oomp_oobb_part_tray_vertical_12_09_09
+oomp_word: paperclip six bank
+oomp_word_emoji: ':paperclip: :six: :bank:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':six:'
+- ':bank:'
+oomp_word_list:
+- paperclip
+- six
+- bank
+part_number: ''
+size: tray_vertical
+type: part

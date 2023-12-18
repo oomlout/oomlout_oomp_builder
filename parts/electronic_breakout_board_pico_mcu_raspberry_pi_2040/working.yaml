@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: raspberry_pi_2040
+directory: parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pico_mcu_raspberry_pi_2040
+id: electronic_breakout_board_pico_mcu_raspberry_pi_2040
+id_no_class: breakout_board_pico_mcu_raspberry_pi_2040
+id_no_color: raspberry_pi_2040
+id_no_size: mcu_raspberry_pi_2040
+id_no_type: pico_mcu_raspberry_pi_2040
+manufacturer: ''
+md5: e8459fd0a3aa74894f590159218d613d
+md5_10: e8459fd0a3
+md5_10_upper: E8459FD0A3
+md5_5: e8459
+md5_5_upper: E8459
+md5_6: e8459f
+md5_6_alpha: 929i7
+md5_6_alpha_upper: 929I7
+md5_6_upper: E8459F
+name: Electronic Breakout Board Pico Mcu Raspberry Pi 2040
+name_no_class: Breakout Board Pico Mcu Raspberry Pi 2040
+name_no_color: Raspberry Pi 2040
+name_no_size: Mcu Raspberry Pi 2040
+name_no_type: Pico Mcu Raspberry Pi 2040
+oomp_key: oomp_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+oomp_word: tram snake diamonds
+oomp_word_emoji: ':tram: :snake: :diamonds:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':snake:'
+- ':diamonds:'
+oomp_word_list:
+- tram
+- snake
+- diamonds
+part_number: ''
+size: pico
+type: breakout_board

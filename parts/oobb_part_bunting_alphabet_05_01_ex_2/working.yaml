@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_2
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_2
+id: oobb_part_bunting_alphabet_05_01_ex_2
+id_no_class: part_bunting_alphabet_05_01_ex_2
+id_no_color: 0501ex2
+id_no_size: 05_01_ex_2
+id_no_type: bunting_alphabet_05_01_ex_2
+manufacturer: ''
+md5: 33b5990a08398ccd82c255067df11573
+md5_10: 33b5990a08
+md5_10_upper: 33B5990A08
+md5_5: 33b59
+md5_5_upper: 33B59
+md5_6: 33b599
+md5_6_alpha: 20mu1
+md5_6_alpha_upper: 20MU1
+md5_6_upper: 33B599
+name: Oobb Part Bunting Alphabet 05 01 Ex 2
+name_no_class: Part Bunting Alphabet 05 01 Ex 2
+name_no_color: 0501Ex2
+name_no_size: 05 01 Ex 2
+name_no_type: Bunting Alphabet 05 01 Ex 2
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_2
+oomp_word: dog tea bowling
+oomp_word_emoji: ':dog: :tea: :bowling:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':tea:'
+- ':bowling:'
+oomp_word_list:
+- dog
+- tea
+- bowling
+part_number: ''
+size: bunting_alphabet
+type: part

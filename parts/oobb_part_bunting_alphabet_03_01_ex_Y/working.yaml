@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_y
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_y
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_y
+id: oobb_part_bunting_alphabet_03_01_ex_y
+id_no_class: part_bunting_alphabet_03_01_ex_y
+id_no_color: 0301exy
+id_no_size: 03_01_ex_y
+id_no_type: bunting_alphabet_03_01_ex_y
+manufacturer: ''
+md5: 63f1c15ffae0126889a821dd4e617ca5
+md5_10: 63f1c15ffa
+md5_10_upper: 63F1C15FFA
+md5_5: 63f1c
+md5_5_upper: 63F1C
+md5_6: 63f1c1
+md5_6_alpha: 3wdz5
+md5_6_alpha_upper: 3WDZ5
+md5_6_upper: 63F1C1
+name: Oobb Part Bunting Alphabet 03 01 Ex Y
+name_no_class: Part Bunting Alphabet 03 01 Ex Y
+name_no_color: 0301Exy
+name_no_size: 03 01 Ex Y
+name_no_type: Bunting Alphabet 03 01 Ex Y
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_y
+oomp_word: rose ticket doughnut
+oomp_word_emoji: ':rose: :ticket: :doughnut:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':ticket:'
+- ':doughnut:'
+oomp_word_list:
+- rose
+- ticket
+- doughnut
+part_number: ''
+size: bunting_alphabet
+type: part

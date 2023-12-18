@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 1d506ex12d0teethshelectronicpotentiometer17mm
+id_no_size: 1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 21255abc3ca5d4a3ca8944a73e39e6e1
+md5_10: 21255abc3c
+md5_10_upper: 21255ABC3C
+md5_5: '21255'
+md5_5_upper: '21255'
+md5_6: 21255a
+md5_6_alpha: 1ak4a
+md5_6_alpha_upper: 1AK4A
+md5_6_upper: 21255A
+name: Oobb Part Gear 1D5 06 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 1D5 06 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 1D506Ex12D0Teethshelectronicpotentiometer17Mm
+name_no_size: 1D5 06 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 1D5 06 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_1d5_06_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: feet ear goat
+oomp_word_emoji: ':feet: :ear: :goat:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':ear:'
+- ':goat:'
+oomp_word_list:
+- feet
+- ear
+- goat
+part_number: ''
+size: gear
+type: part

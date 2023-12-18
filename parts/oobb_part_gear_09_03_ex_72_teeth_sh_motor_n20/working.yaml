@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_ex_72_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_09_03_ex_72_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_03_ex_72_teeth_sh_motor_n20
+id: oobb_part_gear_09_03_ex_72_teeth_sh_motor_n20
+id_no_class: part_gear_09_03_ex_72_teeth_sh_motor_n20
+id_no_color: 0903ex72teethshmotorn20
+id_no_size: 09_03_ex_72_teeth_sh_motor_n20
+id_no_type: gear_09_03_ex_72_teeth_sh_motor_n20
+manufacturer: ''
+md5: 53265ac3785f7c751b76006403d6d94b
+md5_10: 53265ac378
+md5_10_upper: 53265AC378
+md5_5: '53265'
+md5_5_upper: '53265'
+md5_6: 53265a
+md5_6_alpha: 38spm
+md5_6_alpha_upper: 38SPM
+md5_6_upper: 53265A
+name: Oobb Part Gear 09 03 Ex 72 Teeth Sh Motor N20
+name_no_class: Part Gear 09 03 Ex 72 Teeth Sh Motor N20
+name_no_color: 0903Ex72Teethshmotorn20
+name_no_size: 09 03 Ex 72 Teeth Sh Motor N20
+name_no_type: Gear 09 03 Ex 72 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_09_03_ex_72_teeth_sh_motor_n20
+oomp_word: fish eyes goat
+oomp_word_emoji: ':fish: :eyes: :goat:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':eyes:'
+- ':goat:'
+oomp_word_list:
+- fish
+- eyes
+- goat
+part_number: ''
+size: gear
+type: part

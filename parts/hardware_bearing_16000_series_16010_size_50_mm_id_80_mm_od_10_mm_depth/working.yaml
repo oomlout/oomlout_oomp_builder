@@ -1,0 +1,40 @@
+classification: hardware
+color: 16010_size
+description_extra: ''
+description_main: 50_mm_id_80_mm_od_10_mm_depth
+directory: parts/hardware_bearing_16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+id: hardware_bearing_16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+id_no_class: bearing_16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+id_no_color: 50_mm_id_80_mm_od_10_mm_depth
+id_no_size: 16010_size_50_mm_id_80_mm_od_10_mm_depth
+id_no_type: 16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+manufacturer: ''
+md5: 9b40a9c948a91d853208d20275813655
+md5_10: 9b40a9c948
+md5_10_upper: 9B40A9C948
+md5_5: 9b40a
+md5_5_upper: 9B40A
+md5_6: 9b40a9
+md5_6_alpha: 622sp
+md5_6_alpha_upper: 622SP
+md5_6_upper: 9B40A9
+name: Hardware Bearing 16000 Series 16010 Size 50 Mm Id 80 Mm Od 10 Mm Depth
+name_no_class: Bearing 16000 Series 16010 Size 50 Mm Id 80 Mm Od 10 Mm Depth
+name_no_color: 50 Mm Id 80 Mm Od 10 Mm Depth
+name_no_size: 16010 Size 50 Mm Id 80 Mm Od 10 Mm Depth
+name_no_type: 16000 Series 16010 Size 50 Mm Id 80 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16010_size_50_mm_id_80_mm_od_10_mm_depth
+oomp_word: ski racehorse sandal
+oomp_word_emoji: ':ski: :racehorse: :sandal:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':racehorse:'
+- ':sandal:'
+oomp_word_list:
+- ski
+- racehorse
+- sandal
+part_number: ''
+size: 16000_series
+type: bearing

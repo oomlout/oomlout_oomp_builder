@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth_sh_m3
+directory: parts/oobb_part_gear_02_03_ex_16_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth_sh_m3
+id: oobb_part_gear_02_03_ex_16_teeth_sh_m3
+id_no_class: part_gear_02_03_ex_16_teeth_sh_m3
+id_no_color: 0203ex16teethshm3
+id_no_size: 02_03_ex_16_teeth_sh_m3
+id_no_type: gear_02_03_ex_16_teeth_sh_m3
+manufacturer: ''
+md5: a00a1037214025089dad488c98f7da3a
+md5_10: a00a103721
+md5_10_upper: A00A103721
+md5_5: a00a1
+md5_5_upper: A00A1
+md5_6: a00a10
+md5_6_alpha: 68suo
+md5_6_alpha_upper: 68SUO
+md5_6_upper: A00A10
+name: Oobb Part Gear 02 03 Ex 16 Teeth Sh M3
+name_no_class: Part Gear 02 03 Ex 16 Teeth Sh M3
+name_no_color: 0203Ex16Teethshm3
+name_no_size: 02 03 Ex 16 Teeth Sh M3
+name_no_type: Gear 02 03 Ex 16 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth_sh_m3
+oomp_word: ring sleepy star
+oomp_word_emoji: ':ring: :sleepy: :star:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':sleepy:'
+- ':star:'
+oomp_word_list:
+- ring
+- sleepy
+- star
+part_number: ''
+size: gear
+type: part

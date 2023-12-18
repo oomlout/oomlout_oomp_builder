@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x15_30_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+id_no_color: 2x1530pinthroughholerightangle
+id_no_size: 2x15_30_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+manufacturer: ''
+md5: 4d87761de8c7c31845edd92579ea4dad
+md5_10: 4d87761de8
+md5_10_upper: 4D87761DE8
+md5_5: 4d877
+md5_5_upper: 4D877
+md5_6: 4d8776
+md5_6_alpha: 30whi
+md5_6_alpha_upper: 30WHI
+md5_6_upper: 4D8776
+name: Electronic Header 2 54 Mm Dual Row 2X15 30 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X15 30 Pin Through Hole Right Angle
+name_no_color: 2X1530Pinthroughholerightangle
+name_no_size: 2X15 30 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X15 30 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole_right_angle
+oomp_word: bug toilet santa
+oomp_word_emoji: ':bug: :toilet: :santa:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':toilet:'
+- ':santa:'
+oomp_word_list:
+- bug
+- toilet
+- santa
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

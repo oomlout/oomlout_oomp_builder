@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_1d5_30
+directory: parts/oobb_part_tray_03_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_1d5_30
+id: oobb_part_tray_03_1d5_30
+id_no_class: part_tray_03_1d5_30
+id_no_color: 031d530
+id_no_size: 03_1d5_30
+id_no_type: tray_03_1d5_30
+manufacturer: ''
+md5: a4db47aa8ee74981d74814e9026d4d49
+md5_10: a4db47aa8e
+md5_10_upper: A4DB47AA8E
+md5_5: a4db4
+md5_5_upper: A4DB4
+md5_6: a4db47
+md5_6_alpha: 6fkg7
+md5_6_alpha_upper: 6FKG7
+md5_6_upper: A4DB47
+name: Oobb Part Tray 03 1D5 30
+name_no_class: Part Tray 03 1D5 30
+name_no_color: 031D530
+name_no_size: 03 1D5 30
+name_no_type: Tray 03 1D5 30
+oomp_key: oomp_oobb_part_tray_03_1d5_30
+oomp_word: book tent baby_chick
+oomp_word_emoji: ':book: :tent: :baby_chick:'
+oomp_word_emoji_list:
+- ':book:'
+- ':tent:'
+- ':baby_chick:'
+oomp_word_list:
+- book
+- tent
+- baby_chick
+part_number: ''
+size: tray
+type: part

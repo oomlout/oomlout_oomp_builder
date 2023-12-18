@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_21
+directory: parts/oobb_part_plate_09_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_21
+id: oobb_part_plate_09_01_21
+id_no_class: part_plate_09_01_21
+id_no_color: 090121
+id_no_size: 09_01_21
+id_no_type: plate_09_01_21
+manufacturer: ''
+md5: f620b4b474e2fc752fa5cffa2c044171
+md5_10: f620b4b474
+md5_10_upper: F620B4B474
+md5_5: f620b
+md5_5_upper: F620B
+md5_6: f620b4
+md5_6_alpha: 9lq5w
+md5_6_alpha_upper: 9LQ5W
+md5_6_upper: F620B4
+name: Oobb Part Plate 09 01 21
+name_no_class: Part Plate 09 01 21
+name_no_color: 090121
+name_no_size: 09 01 21
+name_no_type: Plate 09 01 21
+oomp_key: oomp_oobb_part_plate_09_01_21
+oomp_word: five skull coffee
+oomp_word_emoji: ':five: :skull: :coffee:'
+oomp_word_emoji_list:
+- ':five:'
+- ':skull:'
+- ':coffee:'
+oomp_word_list:
+- five
+- skull
+- coffee
+part_number: ''
+size: plate
+type: part

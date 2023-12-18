@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700000_ohm
+directory: parts/electronic_resistor_0402_4700000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700000_ohm
+id: electronic_resistor_0402_4700000_ohm
+id_no_class: resistor_0402_4700000_ohm
+id_no_color: 4700000ohm
+id_no_size: 4700000_ohm
+id_no_type: 0402_4700000_ohm
+manufacturer: ''
+md5: b4b592c2c70950c5c5f1bac10725633f
+md5_10: b4b592c2c7
+md5_10_upper: B4B592C2C7
+md5_5: b4b59
+md5_5_upper: B4B59
+md5_6: b4b592
+md5_6_alpha: 71u36
+md5_6_alpha_upper: 71U36
+md5_6_upper: B4B592
+name: Electronic Resistor 0402 4700000 Ohm
+name_no_class: Resistor 0402 4700000 Ohm
+name_no_color: 4700000Ohm
+name_no_size: 4700000 Ohm
+name_no_type: 0402 4700000 Ohm
+oomp_key: oomp_electronic_resistor_0402_4700000_ohm
+oomp_word: coffee tea paperclip
+oomp_word_emoji: ':coffee: :tea: :paperclip:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':tea:'
+- ':paperclip:'
+oomp_word_list:
+- coffee
+- tea
+- paperclip
+part_number: ''
+size: '0402'
+type: resistor

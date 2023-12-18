@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 8_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_8_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_8_pin_through_hole_right_angle
+id_no_color: 8pinthroughholerightangle
+id_no_size: 8_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_8_pin_through_hole_right_angle
+manufacturer: ''
+md5: 2e21474861a3398aa90f468beaf8c9ca
+md5_10: 2e21474861
+md5_10_upper: 2E21474861
+md5_5: 2e214
+md5_5_upper: 2E214
+md5_6: 2e2147
+md5_6_alpha: 1ssp3
+md5_6_alpha_upper: 1SSP3
+md5_6_upper: 2E2147
+name: Electronic Header 2 5 Mm Jst Xh 8 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 8 Pin Through Hole Right Angle
+name_no_color: 8Pinthroughholerightangle
+name_no_size: 8 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 8 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_8_pin_through_hole_right_angle
+oomp_word: zap feet baby_chick
+oomp_word_emoji: ':zap: :feet: :baby_chick:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':feet:'
+- ':baby_chick:'
+oomp_word_list:
+- zap
+- feet
+- baby_chick
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

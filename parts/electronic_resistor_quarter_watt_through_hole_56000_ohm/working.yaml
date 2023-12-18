@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_56000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_56000_ohm
+id: electronic_resistor_quarter_watt_through_hole_56000_ohm
+id_no_class: resistor_quarter_watt_through_hole_56000_ohm
+id_no_color: 56000ohm
+id_no_size: 56000_ohm
+id_no_type: quarter_watt_through_hole_56000_ohm
+manufacturer: ''
+md5: d278e89e63dc7ac7261fe5e9deb1a14c
+md5_10: d278e89e63
+md5_10_upper: D278E89E63
+md5_5: d278e
+md5_5_upper: D278E
+md5_6: d278e8
+md5_6_alpha: 87n54
+md5_6_alpha_upper: 87N54
+md5_6_upper: D278E8
+name: Electronic Resistor Quarter Watt Through Hole 56000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 56000 Ohm
+name_no_color: 56000Ohm
+name_no_size: 56000 Ohm
+name_no_type: Quarter Watt Through Hole 56000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_56000_ohm
+oomp_word: pineapple bell tram
+oomp_word_emoji: ':pineapple: :bell: :tram:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':bell:'
+- ':tram:'
+oomp_word_list:
+- pineapple
+- bell
+- tram
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_18
+directory: parts/oobb_part_tray_vertical_04_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_18
+id: oobb_part_tray_vertical_04_04_18
+id_no_class: part_tray_vertical_04_04_18
+id_no_color: 040418
+id_no_size: 04_04_18
+id_no_type: tray_vertical_04_04_18
+manufacturer: ''
+md5: ee17ed7147f01c7b6951c5d63604420d
+md5_10: ee17ed7147
+md5_10_upper: EE17ED7147
+md5_5: ee17e
+md5_5_upper: EE17E
+md5_6: ee17ed
+md5_6_alpha: 9afvx
+md5_6_alpha_upper: 9AFVX
+md5_6_upper: EE17ED
+name: Oobb Part Tray Vertical 04 04 18
+name_no_class: Part Tray Vertical 04 04 18
+name_no_color: 040418
+name_no_size: 04 04 18
+name_no_type: Tray Vertical 04 04 18
+oomp_key: oomp_oobb_part_tray_vertical_04_04_18
+oomp_word: ambulance thumbsdown bus
+oomp_word_emoji: ':ambulance: :thumbsdown: :bus:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':thumbsdown:'
+- ':bus:'
+oomp_word_list:
+- ambulance
+- thumbsdown
+- bus
+part_number: ''
+size: tray_vertical
+type: part

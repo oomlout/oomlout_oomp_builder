@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_30
+directory: parts/oobb_part_tray_thin_09_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_04_30
+id: oobb_part_tray_thin_09_04_30
+id_no_class: part_tray_thin_09_04_30
+id_no_color: 090430
+id_no_size: 09_04_30
+id_no_type: tray_thin_09_04_30
+manufacturer: ''
+md5: 15d7db26d5e4890072c9e221846a5965
+md5_10: 15d7db26d5
+md5_10_upper: 15D7DB26D5
+md5_5: 15d7d
+md5_5_upper: 15D7D
+md5_6: 15d7db
+md5_6_alpha: uokb
+md5_6_alpha_upper: UOKB
+md5_6_upper: 15D7DB
+name: Oobb Part Tray Thin 09 04 30
+name_no_class: Part Tray Thin 09 04 30
+name_no_color: 090430
+name_no_size: 09 04 30
+name_no_type: Tray Thin 09 04 30
+oomp_key: oomp_oobb_part_tray_thin_09_04_30
+oomp_word: poop office tent
+oomp_word_emoji: ':poop: :office: :tent:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':office:'
+- ':tent:'
+oomp_word_list:
+- poop
+- office
+- tent
+part_number: ''
+size: tray_thin
+type: part

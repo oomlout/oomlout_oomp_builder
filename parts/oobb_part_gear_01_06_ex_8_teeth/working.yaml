@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_8_teeth
+directory: parts/oobb_part_gear_01_06_ex_8_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06_ex_8_teeth
+id: oobb_part_gear_01_06_ex_8_teeth
+id_no_class: part_gear_01_06_ex_8_teeth
+id_no_color: 0106ex8teeth
+id_no_size: 01_06_ex_8_teeth
+id_no_type: gear_01_06_ex_8_teeth
+manufacturer: ''
+md5: 597712b984376bffa34259c390e76322
+md5_10: 597712b984
+md5_10_upper: 597712B984
+md5_5: '59771'
+md5_5_upper: '59771'
+md5_6: '597712'
+md5_6_alpha: 3ho2a
+md5_6_alpha_upper: 3HO2A
+md5_6_upper: '597712'
+name: Oobb Part Gear 01 06 Ex 8 Teeth
+name_no_class: Part Gear 01 06 Ex 8 Teeth
+name_no_color: 0106Ex8Teeth
+name_no_size: 01 06 Ex 8 Teeth
+name_no_type: Gear 01 06 Ex 8 Teeth
+oomp_key: oomp_oobb_part_gear_01_06_ex_8_teeth
+oomp_word: dragon gift anger
+oomp_word_emoji: ':dragon: :gift: :anger:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':gift:'
+- ':anger:'
+oomp_word_list:
+- dragon
+- gift
+- anger
+part_number: ''
+size: gear
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x14_28_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+id_no_color: 2x1428pinthroughholerightangle
+id_no_size: 2x14_28_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+manufacturer: ''
+md5: c5f4570adaf730684334305e6073f133
+md5_10: c5f4570ada
+md5_10_upper: C5F4570ADA
+md5_5: c5f45
+md5_5_upper: C5F45
+md5_6: c5f457
+md5_6_alpha: 7q253
+md5_6_alpha_upper: 7Q253
+md5_6_upper: C5F457
+name: Electronic Header 2 54 Mm Dual Row 2X14 28 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X14 28 Pin Through Hole Right Angle
+name_no_color: 2X1428Pinthroughholerightangle
+name_no_size: 2X14 28 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X14 28 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
+oomp_word: candy three rat
+oomp_word_emoji: ':candy: :three: :rat:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':three:'
+- ':rat:'
+oomp_word_list:
+- candy
+- three
+- rat
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

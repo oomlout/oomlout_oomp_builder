@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_10_03'
+directory: parts/oobb_part_plate_15_10_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_10_03
+id: oobb_part_plate_15_10_03
+id_no_class: part_plate_15_10_03
+id_no_color: '151003'
+id_no_size: '15_10_03'
+id_no_type: plate_15_10_03
+manufacturer: ''
+md5: 28594cd195092c781b34fa71fc8db9fe
+md5_10: 28594cd195
+md5_10_upper: 28594CD195
+md5_5: '28594'
+md5_5_upper: '28594'
+md5_6: 28594c
+md5_6_alpha: 1kocs
+md5_6_alpha_upper: 1KOCS
+md5_6_upper: 28594C
+name: Oobb Part Plate 15 10 03
+name_no_class: Part Plate 15 10 03
+name_no_color: '151003'
+name_no_size: 15 10 03
+name_no_type: Plate 15 10 03
+oomp_key: oomp_oobb_part_plate_15_10_03
+oomp_word: tongue dragon turtle
+oomp_word_emoji: ':tongue: :dragon: :turtle:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':dragon:'
+- ':turtle:'
+oomp_word_list:
+- tongue
+- dragon
+- turtle
+part_number: ''
+size: plate
+type: part

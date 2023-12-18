@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_1d5_12
+directory: parts/oobb_part_tray_vertical_06_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_1d5_12
+id: oobb_part_tray_vertical_06_1d5_12
+id_no_class: part_tray_vertical_06_1d5_12
+id_no_color: 061d512
+id_no_size: 06_1d5_12
+id_no_type: tray_vertical_06_1d5_12
+manufacturer: ''
+md5: 215ed5414b8dce37c6ea78143d98a7a1
+md5_10: 215ed5414b
+md5_10_upper: 215ED5414B
+md5_5: 215ed
+md5_5_upper: 215ED
+md5_6: 215ed5
+md5_6_alpha: 1avh1
+md5_6_alpha_upper: 1AVH1
+md5_6_upper: 215ED5
+name: Oobb Part Tray Vertical 06 1D5 12
+name_no_class: Part Tray Vertical 06 1D5 12
+name_no_color: 061D512
+name_no_size: 06 1D5 12
+name_no_type: Tray Vertical 06 1D5 12
+oomp_key: oomp_oobb_part_tray_vertical_06_1d5_12
+oomp_word: feet crocodile house
+oomp_word_emoji: ':feet: :crocodile: :house:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':crocodile:'
+- ':house:'
+oomp_word_list:
+- feet
+- crocodile
+- house
+part_number: ''
+size: tray_vertical
+type: part

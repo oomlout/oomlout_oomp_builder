@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600_ohm
+directory: parts/electronic_resistor_0805_5600_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_5600_ohm
+id: electronic_resistor_0805_5600_ohm
+id_no_class: resistor_0805_5600_ohm
+id_no_color: 5600ohm
+id_no_size: 5600_ohm
+id_no_type: 0805_5600_ohm
+manufacturer: ''
+md5: 1f1a079921c40414f0d38545af5e36c6
+md5_10: 1f1a079921
+md5_10_upper: 1F1A079921
+md5_5: 1f1a0
+md5_5_upper: 1F1A0
+md5_6: 1f1a07
+md5_6_alpha: 17oqv
+md5_6_alpha_upper: 17OQV
+md5_6_upper: 1F1A07
+name: Electronic Resistor 0805 5600 Ohm
+name_no_class: Resistor 0805 5600 Ohm
+name_no_color: 5600Ohm
+name_no_size: 5600 Ohm
+name_no_type: 0805 5600 Ohm
+oomp_key: oomp_electronic_resistor_0805_5600_ohm
+oomp_word: princess clap cry
+oomp_word_emoji: ':princess: :clap: :cry:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':clap:'
+- ':cry:'
+oomp_word_list:
+- princess
+- clap
+- cry
+part_number: ''
+size: 0805
+type: resistor

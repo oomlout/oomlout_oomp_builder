@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_06'
+directory: parts/oobb_part_plate_05_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_06
+id: oobb_part_plate_05_01_06
+id_no_class: part_plate_05_01_06
+id_no_color: '050106'
+id_no_size: '05_01_06'
+id_no_type: plate_05_01_06
+manufacturer: ''
+md5: 3719420f5c77f7ca0ba7b7de76761bf6
+md5_10: 3719420f5c
+md5_10_upper: 3719420F5C
+md5_5: '37194'
+md5_5_upper: '37194'
+md5_6: '371942'
+md5_6_alpha: 25e82
+md5_6_alpha_upper: 25E82
+md5_6_upper: '371942'
+name: Oobb Part Plate 05 01 06
+name_no_class: Part Plate 05 01 06
+name_no_color: '050106'
+name_no_size: 05 01 06
+name_no_type: Plate 05 01 06
+oomp_key: oomp_oobb_part_plate_05_01_06
+oomp_word: wolf pray sheep
+oomp_word_emoji: ':wolf: :pray: :sheep:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':pray:'
+- ':sheep:'
+oomp_word_list:
+- wolf
+- pray
+- sheep
+part_number: ''
+size: plate
+type: part

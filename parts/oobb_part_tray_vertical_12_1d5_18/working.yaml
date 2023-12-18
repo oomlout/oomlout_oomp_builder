@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_1d5_18
+directory: parts/oobb_part_tray_vertical_12_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_1d5_18
+id: oobb_part_tray_vertical_12_1d5_18
+id_no_class: part_tray_vertical_12_1d5_18
+id_no_color: 121d518
+id_no_size: 12_1d5_18
+id_no_type: tray_vertical_12_1d5_18
+manufacturer: ''
+md5: a4ac7ff4504844bdd711756b84be6260
+md5_10: a4ac7ff450
+md5_10_upper: A4AC7FF450
+md5_5: a4ac7
+md5_5_upper: A4AC7
+md5_6: a4ac7f
+md5_6_alpha: 6fb7j
+md5_6_alpha_upper: 6FB7J
+md5_6_upper: A4AC7F
+name: Oobb Part Tray Vertical 12 1D5 18
+name_no_class: Part Tray Vertical 12 1D5 18
+name_no_color: 121D518
+name_no_size: 12 1D5 18
+name_no_type: Tray Vertical 12 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_12_1d5_18
+oomp_word: book shirt speaker
+oomp_word_emoji: ':book: :shirt: :speaker:'
+oomp_word_emoji_list:
+- ':book:'
+- ':shirt:'
+- ':speaker:'
+oomp_word_list:
+- book
+- shirt
+- speaker
+part_number: ''
+size: tray_vertical
+type: part

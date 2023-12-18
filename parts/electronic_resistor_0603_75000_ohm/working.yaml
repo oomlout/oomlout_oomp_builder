@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 75000_ohm
+directory: parts/electronic_resistor_0603_75000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_75000_ohm
+id: electronic_resistor_0603_75000_ohm
+id_no_class: resistor_0603_75000_ohm
+id_no_color: 75000ohm
+id_no_size: 75000_ohm
+id_no_type: 0603_75000_ohm
+manufacturer: ''
+md5: d6572c28a2e846a2d0bf7f18edc8cb8b
+md5_10: d6572c28a2
+md5_10_upper: D6572C28A2
+md5_5: d6572
+md5_5_upper: D6572
+md5_6: d6572c
+md5_6_alpha: 8d2r0
+md5_6_alpha_upper: 8D2R0
+md5_6_upper: D6572C
+name: Electronic Resistor 0603 75000 Ohm
+name_no_class: Resistor 0603 75000 Ohm
+name_no_color: 75000Ohm
+name_no_size: 75000 Ohm
+name_no_type: 0603 75000 Ohm
+oomp_key: oomp_electronic_resistor_0603_75000_ohm
+oomp_word: school rat snowflake
+oomp_word_emoji: ':school: :rat: :snowflake:'
+oomp_word_emoji_list:
+- ':school:'
+- ':rat:'
+- ':snowflake:'
+oomp_word_list:
+- school
+- rat
+- snowflake
+part_number: ''
+size: '0603'
+type: resistor

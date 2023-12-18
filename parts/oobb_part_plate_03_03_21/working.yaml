@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_21'
+directory: parts/oobb_part_plate_03_03_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_21
+id: oobb_part_plate_03_03_21
+id_no_class: part_plate_03_03_21
+id_no_color: '030321'
+id_no_size: '03_03_21'
+id_no_type: plate_03_03_21
+manufacturer: ''
+md5: aa7257fec414482501c2c79549502079
+md5_10: aa7257fec4
+md5_10_upper: AA7257FEC4
+md5_5: aa725
+md5_5_upper: AA725
+md5_6: aa7257
+md5_6_alpha: 6nf4n
+md5_6_alpha_upper: 6NF4N
+md5_6_upper: AA7257
+name: Oobb Part Plate 03 03 21
+name_no_class: Part Plate 03 03 21
+name_no_color: '030321'
+name_no_size: 03 03 21
+name_no_type: Plate 03 03 21
+oomp_key: oomp_oobb_part_plate_03_03_21
+oomp_word: lipstick dolls rat
+oomp_word_emoji: ':lipstick: :dolls: :rat:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':dolls:'
+- ':rat:'
+oomp_word_list:
+- lipstick
+- dolls
+- rat
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_12_18'
+directory: parts/oobb_part_tray_10_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_12_18
+id: oobb_part_tray_10_12_18
+id_no_class: part_tray_10_12_18
+id_no_color: '101218'
+id_no_size: '10_12_18'
+id_no_type: tray_10_12_18
+manufacturer: ''
+md5: 6c50937704f95775ee3556acd9e6fea2
+md5_10: 6c50937704
+md5_10_upper: 6C50937704
+md5_5: 6c509
+md5_5_upper: 6C509
+md5_6: 6c5093
+md5_6_alpha: 4858z
+md5_6_alpha_upper: 4858Z
+md5_6_upper: 6C5093
+name: Oobb Part Tray 10 12 18
+name_no_class: Part Tray 10 12 18
+name_no_color: '101218'
+name_no_size: 10 12 18
+name_no_type: Tray 10 12 18
+oomp_key: oomp_oobb_part_tray_10_12_18
+oomp_word: blossom beetle books
+oomp_word_emoji: ':blossom: :beetle: :books:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':beetle:'
+- ':books:'
+oomp_word_list:
+- blossom
+- beetle
+- books
+part_number: ''
+size: tray
+type: part

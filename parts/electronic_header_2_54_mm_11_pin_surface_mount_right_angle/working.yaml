@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 11_pin
+directory: parts/electronic_header_2_54_mm_11_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_11_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_11_pin_surface_mount_right_angle
+id_no_color: 11pinsurfacemountrightangle
+id_no_size: 11_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_11_pin_surface_mount_right_angle
+manufacturer: ''
+md5: b96ce3a2db6c9d98bd60344f58ad153e
+md5_10: b96ce3a2db
+md5_10_upper: B96CE3A2DB
+md5_5: b96ce
+md5_5_upper: B96CE
+md5_6: b96ce3
+md5_6_alpha: 78gkj
+md5_6_alpha_upper: 78GKJ
+md5_6_upper: B96CE3
+name: Electronic Header 2 54 Mm 11 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 11 Pin Surface Mount Right Angle
+name_no_color: 11Pinsurfacemountrightangle
+name_no_size: 11 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 11 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_11_pin_surface_mount_right_angle
+oomp_word: fries blossom rowboat
+oomp_word_emoji: ':fries: :blossom: :rowboat:'
+oomp_word_emoji_list:
+- ':fries:'
+- ':blossom:'
+- ':rowboat:'
+oomp_word_list:
+- fries
+- blossom
+- rowboat
+part_number: ''
+size: 2_54_mm
+type: header

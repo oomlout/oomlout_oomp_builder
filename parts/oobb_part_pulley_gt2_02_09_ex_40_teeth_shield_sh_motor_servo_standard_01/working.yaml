@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+id_no_color: 0209ex40teethshieldshmotorservostandard01
+id_no_size: 02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 7da50e78fa5719f06e9b052277b5bf04
+md5_10: 7da50e78fa
+md5_10_upper: 7DA50E78FA
+md5_5: 7da50
+md5_5_upper: 7DA50
+md5_6: 7da50e
+md5_6_alpha: 4whla
+md5_6_alpha_upper: 4WHLA
+md5_6_upper: 7DA50E
+name: Oobb Part Pulley Gt2 02 09 Ex 40 Teeth Shield Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 02 09 Ex 40 Teeth Shield Sh Motor Servo Standard 01
+name_no_color: 0209Ex40Teethshieldshmotorservostandard01
+name_no_size: 02 09 Ex 40 Teeth Shield Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 02 09 Ex 40 Teeth Shield Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_40_teeth_shield_sh_motor_servo_standard_01
+oomp_word: phone headphones cupid
+oomp_word_emoji: ':phone: :headphones: :cupid:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':headphones:'
+- ':cupid:'
+oomp_word_list:
+- phone
+- headphones
+- cupid
+part_number: ''
+size: pulley_gt2
+type: part

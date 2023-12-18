@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_03_06'
+directory: parts/oobb_part_ziptie_holder_02_03_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_02_03_06
+id: oobb_part_ziptie_holder_02_03_06
+id_no_class: part_ziptie_holder_02_03_06
+id_no_color: '020306'
+id_no_size: '02_03_06'
+id_no_type: ziptie_holder_02_03_06
+manufacturer: ''
+md5: 29355325cb757bc15b138d110acd27d6
+md5_10: 29355325cb
+md5_10_upper: 29355325CB
+md5_5: '29355'
+md5_5_upper: '29355'
+md5_6: '293553'
+md5_6_alpha: 1lvtf
+md5_6_alpha_upper: 1LVTF
+md5_6_upper: '293553'
+name: Oobb Part Ziptie Holder 02 03 06
+name_no_class: Part Ziptie Holder 02 03 06
+name_no_color: '020306'
+name_no_size: 02 03 06
+name_no_type: Ziptie Holder 02 03 06
+oomp_key: oomp_oobb_part_ziptie_holder_02_03_06
+oomp_word: sunny hamster fish
+oomp_word_emoji: ':sunny: :hamster: :fish:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':hamster:'
+- ':fish:'
+oomp_word_list:
+- sunny
+- hamster
+- fish
+part_number: ''
+size: ziptie_holder
+type: part

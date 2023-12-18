@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_15'
+directory: parts/oobb_part_tray_07_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_07_15
+id: oobb_part_tray_07_07_15
+id_no_class: part_tray_07_07_15
+id_no_color: '070715'
+id_no_size: '07_07_15'
+id_no_type: tray_07_07_15
+manufacturer: ''
+md5: 6111b3edbbc9ea1c329005dd6e96f2e5
+md5_10: 6111b3edbb
+md5_10_upper: 6111B3EDBB
+md5_5: 6111b
+md5_5_upper: 6111B
+md5_6: 6111b3
+md5_6_alpha: 3sckz
+md5_6_alpha_upper: 3SCKZ
+md5_6_upper: 6111B3
+name: Oobb Part Tray 07 07 15
+name_no_class: Part Tray 07 07 15
+name_no_color: '070715'
+name_no_size: 07 07 15
+name_no_type: Tray 07 07 15
+oomp_key: oomp_oobb_part_tray_07_07_15
+oomp_word: bouquet dizzy eyeglasses
+oomp_word_emoji: ':bouquet: :dizzy: :eyeglasses:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':dizzy:'
+- ':eyeglasses:'
+oomp_word_list:
+- bouquet
+- dizzy
+- eyeglasses
+part_number: ''
+size: tray
+type: part

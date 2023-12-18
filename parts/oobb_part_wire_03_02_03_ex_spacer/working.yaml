@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_03_ex_spacer
+directory: parts/oobb_part_wire_03_02_03_ex_spacer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_03_ex_spacer
+id: oobb_part_wire_03_02_03_ex_spacer
+id_no_class: part_wire_03_02_03_ex_spacer
+id_no_color: 030203exspacer
+id_no_size: 03_02_03_ex_spacer
+id_no_type: wire_03_02_03_ex_spacer
+manufacturer: ''
+md5: 5187bff5e4ff2c9d84d5759c5ef9dddf
+md5_10: 5187bff5e4
+md5_10_upper: 5187BFF5E4
+md5_5: 5187b
+md5_5_upper: 5187B
+md5_6: 5187bf
+md5_6_alpha: 36itb
+md5_6_alpha_upper: 36ITB
+md5_6_upper: 5187BF
+name: Oobb Part Wire 03 02 03 Ex Spacer
+name_no_class: Part Wire 03 02 03 Ex Spacer
+name_no_color: 030203Exspacer
+name_no_size: 03 02 03 Ex Spacer
+name_no_type: Wire 03 02 03 Ex Spacer
+oomp_key: oomp_oobb_part_wire_03_02_03_ex_spacer
+oomp_word: snail toilet egg
+oomp_word_emoji: ':snail: :toilet: :egg:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':toilet:'
+- ':egg:'
+oomp_word_list:
+- snail
+- toilet
+- egg
+part_number: ''
+size: wire
+type: part

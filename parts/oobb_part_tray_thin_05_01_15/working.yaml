@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_15'
+directory: parts/oobb_part_tray_thin_05_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_01_15
+id: oobb_part_tray_thin_05_01_15
+id_no_class: part_tray_thin_05_01_15
+id_no_color: '050115'
+id_no_size: '05_01_15'
+id_no_type: tray_thin_05_01_15
+manufacturer: ''
+md5: 4204d443447283a5a5d50768ae7e1ce6
+md5_10: 4204d44344
+md5_10_upper: 4204D44344
+md5_5: 4204d
+md5_5_upper: 4204D
+md5_6: 4204d4
+md5_6_alpha: 2kqfo
+md5_6_alpha_upper: 2KQFO
+md5_6_upper: 4204D4
+name: Oobb Part Tray Thin 05 01 15
+name_no_class: Part Tray Thin 05 01 15
+name_no_color: '050115'
+name_no_size: 05 01 15
+name_no_type: Tray Thin 05 01 15
+oomp_key: oomp_oobb_part_tray_thin_05_01_15
+oomp_word: sheep wink corn
+oomp_word_emoji: ':sheep: :wink: :corn:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':wink:'
+- ':corn:'
+oomp_word_list:
+- sheep
+- wink
+- corn
+part_number: ''
+size: tray_thin
+type: part

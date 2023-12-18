@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_02_30'
+directory: parts/oobb_part_tray_thin_12_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_02_30
+id: oobb_part_tray_thin_12_02_30
+id_no_class: part_tray_thin_12_02_30
+id_no_color: '120230'
+id_no_size: '12_02_30'
+id_no_type: tray_thin_12_02_30
+manufacturer: ''
+md5: d46d307f6bf12e07d34f68f0d474e3b6
+md5_10: d46d307f6b
+md5_10_upper: D46D307F6B
+md5_5: d46d3
+md5_5_upper: D46D3
+md5_6: d46d30
+md5_6_alpha: 8adyo
+md5_6_alpha_upper: 8ADYO
+md5_6_upper: D46D30
+name: Oobb Part Tray Thin 12 02 30
+name_no_class: Part Tray Thin 12 02 30
+name_no_color: '120230'
+name_no_size: 12 02 30
+name_no_type: Tray Thin 12 02 30
+oomp_key: oomp_oobb_part_tray_thin_12_02_30
+oomp_word: corn shell foggy
+oomp_word_emoji: ':corn: :shell: :foggy:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':shell:'
+- ':foggy:'
+oomp_word_list:
+- corn
+- shell
+- foggy
+part_number: ''
+size: tray_thin
+type: part

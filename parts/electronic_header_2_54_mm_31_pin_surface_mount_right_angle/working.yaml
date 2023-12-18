@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 31_pin
+directory: parts/electronic_header_2_54_mm_31_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_31_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_31_pin_surface_mount_right_angle
+id_no_color: 31pinsurfacemountrightangle
+id_no_size: 31_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_31_pin_surface_mount_right_angle
+manufacturer: ''
+md5: c9c2c417da0a00a1c9d168e70e92bddb
+md5_10: c9c2c417da
+md5_10_upper: C9C2C417DA
+md5_5: c9c2c
+md5_5_upper: C9C2C
+md5_6: c9c2c4
+md5_6_alpha: 7vemc
+md5_6_alpha_upper: 7VEMC
+md5_6_upper: C9C2C4
+name: Electronic Header 2 54 Mm 31 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 31 Pin Surface Mount Right Angle
+name_no_color: 31Pinsurfacemountrightangle
+name_no_size: 31 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 31 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_31_pin_surface_mount_right_angle
+oomp_word: lemon birthday cookie
+oomp_word_emoji: ':lemon: :birthday: :cookie:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':birthday:'
+- ':cookie:'
+oomp_word_list:
+- lemon
+- birthday
+- cookie
+part_number: ''
+size: 2_54_mm
+type: header

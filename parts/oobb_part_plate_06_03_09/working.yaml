@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_03_09
+directory: parts/oobb_part_plate_06_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_09
+id: oobb_part_plate_06_03_09
+id_no_class: part_plate_06_03_09
+id_no_color: 060309
+id_no_size: 06_03_09
+id_no_type: plate_06_03_09
+manufacturer: ''
+md5: d20fecfda932b9cb76884934c41c9010
+md5_10: d20fecfda9
+md5_10_upper: D20FECFDA9
+md5_5: d20fe
+md5_5_upper: D20FE
+md5_6: d20fec
+md5_6_alpha: 872ek
+md5_6_alpha_upper: 872EK
+md5_6_upper: D20FEC
+name: Oobb Part Plate 06 03 09
+name_no_class: Part Plate 06 03 09
+name_no_color: 060309
+name_no_size: 06 03 09
+name_no_type: Plate 06 03 09
+oomp_key: oomp_oobb_part_plate_06_03_09
+oomp_word: pineapple sparkles taxi
+oomp_word_emoji: ':pineapple: :sparkles: :taxi:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':sparkles:'
+- ':taxi:'
+oomp_word_list:
+- pineapple
+- sparkles
+- taxi
+part_number: ''
+size: plate
+type: part

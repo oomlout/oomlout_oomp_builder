@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_30
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_30
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_30
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_30
+id_no_color: hardwarem330
+id_no_size: hardware_m3_30
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_30
+manufacturer: ''
+md5: 0bd94b65b87ba7fc321ce310c8e9ea35
+md5_10: 0bd94b65b8
+md5_10_upper: 0BD94B65B8
+md5_5: 0bd94
+md5_5_upper: 0BD94
+md5_6: 0bd94b
+md5_6_alpha: gn63
+md5_6_alpha_upper: GN63
+md5_6_upper: 0BD94B
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 30
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 30
+name_no_color: Hardwarem330
+name_no_size: Hardware M3 30
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 30
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_30
+oomp_word: sunglasses bank penguin
+oomp_word_emoji: ':sunglasses: :bank: :penguin:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':bank:'
+- ':penguin:'
+oomp_word_list:
+- sunglasses
+- bank
+- penguin
+part_number: ''
+size: screw_countersunk
+type: part

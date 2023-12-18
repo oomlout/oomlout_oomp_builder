@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_8
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_8
+id: oobb_part_bunting_alphabet_03_01_ex_8
+id_no_class: part_bunting_alphabet_03_01_ex_8
+id_no_color: 0301ex8
+id_no_size: 03_01_ex_8
+id_no_type: bunting_alphabet_03_01_ex_8
+manufacturer: ''
+md5: b676b06f3d242d5a85948c4e000a6d44
+md5_10: b676b06f3d
+md5_10_upper: B676B06F3D
+md5_5: b676b
+md5_5_upper: B676B
+md5_6: b676b0
+md5_6_alpha: 74asw
+md5_6_alpha_upper: 74ASW
+md5_6_upper: B676B0
+name: Oobb Part Bunting Alphabet 03 01 Ex 8
+name_no_class: Part Bunting Alphabet 03 01 Ex 8
+name_no_color: 0301Ex8
+name_no_size: 03 01 Ex 8
+name_no_type: Bunting Alphabet 03 01 Ex 8
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_8
+oomp_word: beer santa crown
+oomp_word_emoji: ':beer: :santa: :crown:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':santa:'
+- ':crown:'
+oomp_word_list:
+- beer
+- santa
+- crown
+part_number: ''
+size: bunting_alphabet
+type: part

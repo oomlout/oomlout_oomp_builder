@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_12'
+directory: parts/oobb_part_tray_11_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_11_12
+id: oobb_part_tray_11_11_12
+id_no_class: part_tray_11_11_12
+id_no_color: '111112'
+id_no_size: '11_11_12'
+id_no_type: tray_11_11_12
+manufacturer: ''
+md5: 6ac6a35c03058efbec814dd0a65e641d
+md5_10: 6ac6a35c03
+md5_10_upper: 6AC6A35C03
+md5_5: 6ac6a
+md5_5_upper: 6AC6A
+md5_6: 6ac6a3
+md5_6_alpha: 45zfn
+md5_6_alpha_upper: 45ZFN
+md5_6_upper: 6AC6A3
+name: Oobb Part Tray 11 11 12
+name_no_class: Part Tray 11 11 12
+name_no_color: '111112'
+name_no_size: 11 11 12
+name_no_type: Tray 11 11 12
+oomp_key: oomp_oobb_part_tray_11_11_12
+oomp_word: palm_tree lollipop pencil
+oomp_word_emoji: ':palm_tree: :lollipop: :pencil:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':lollipop:'
+- ':pencil:'
+oomp_word_list:
+- palm_tree
+- lollipop
+- pencil
+part_number: ''
+size: tray
+type: part

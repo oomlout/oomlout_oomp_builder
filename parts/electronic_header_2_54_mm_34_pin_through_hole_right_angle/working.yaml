@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 34_pin
+directory: parts/electronic_header_2_54_mm_34_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_34_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_34_pin_through_hole_right_angle
+id_no_color: 34pinthroughholerightangle
+id_no_size: 34_pin_through_hole_right_angle
+id_no_type: 2_54_mm_34_pin_through_hole_right_angle
+manufacturer: ''
+md5: 7d6b59840452995821633d2eed921151
+md5_10: 7d6b598404
+md5_10_upper: 7D6B598404
+md5_5: 7d6b5
+md5_5_upper: 7D6B5
+md5_6: 7d6b59
+md5_6_alpha: 4w66x
+md5_6_alpha_upper: 4W66X
+md5_6_upper: 7D6B59
+name: Electronic Header 2 54 Mm 34 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 34 Pin Through Hole Right Angle
+name_no_color: 34Pinthroughholerightangle
+name_no_size: 34 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 34 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_34_pin_through_hole_right_angle
+oomp_word: phone chestnut dragon
+oomp_word_emoji: ':phone: :chestnut: :dragon:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':chestnut:'
+- ':dragon:'
+oomp_word_list:
+- phone
+- chestnut
+- dragon
+part_number: ''
+size: 2_54_mm
+type: header

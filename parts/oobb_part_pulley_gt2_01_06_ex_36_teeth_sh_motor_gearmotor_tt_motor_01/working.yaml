@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0106ex36teethshmotorgearmotorttmotor01
+id_no_size: 01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: fe1fe3df9aa28709ed89ad236c4e4b2d
+md5_10: fe1fe3df9a
+md5_10_upper: FE1FE3DF9A
+md5_5: fe1fe
+md5_5_upper: FE1FE
+md5_6: fe1fe3
+md5_6_alpha: 9wyjn
+md5_6_alpha_upper: 9WYJN
+md5_6_upper: FE1FE3
+name: Oobb Part Pulley Gt2 01 06 Ex 36 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 06 Ex 36 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_color: 0106Ex36Teethshmotorgearmotorttmotor01
+name_no_size: 01 06 Ex 36 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 06 Ex 36 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_36_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: recycle princess rowboat
+oomp_word_emoji: ':recycle: :princess: :rowboat:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':princess:'
+- ':rowboat:'
+oomp_word_list:
+- recycle
+- princess
+- rowboat
+part_number: ''
+size: pulley_gt2
+type: part

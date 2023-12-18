@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '25_01_03'
+directory: parts/oobb_part_plate_25_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_25_01_03
+id: oobb_part_plate_25_01_03
+id_no_class: part_plate_25_01_03
+id_no_color: '250103'
+id_no_size: '25_01_03'
+id_no_type: plate_25_01_03
+manufacturer: ''
+md5: 60e61337e5afaa2de128d6812c02bf2a
+md5_10: 60e61337e5
+md5_10_upper: 60E61337E5
+md5_5: 60e61
+md5_5_upper: 60E61
+md5_6: 60e613
+md5_6_alpha: 3s3yr
+md5_6_alpha_upper: 3S3YR
+md5_6_upper: 60E613
+name: Oobb Part Plate 25 01 03
+name_no_class: Part Plate 25 01 03
+name_no_color: '250103'
+name_no_size: 25 01 03
+name_no_type: Plate 25 01 03
+oomp_key: oomp_oobb_part_plate_25_01_03
+oomp_word: poodle airplane question
+oomp_word_emoji: ':poodle: :airplane: :question:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':airplane:'
+- ':question:'
+oomp_word_list:
+- poodle
+- airplane
+- question
+part_number: ''
+size: plate
+type: part

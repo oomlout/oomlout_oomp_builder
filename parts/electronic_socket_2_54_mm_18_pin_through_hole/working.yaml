@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 18_pin
+directory: parts/electronic_socket_2_54_mm_18_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_18_pin_through_hole
+id: electronic_socket_2_54_mm_18_pin_through_hole
+id_no_class: socket_2_54_mm_18_pin_through_hole
+id_no_color: 18pinthroughhole
+id_no_size: 18_pin_through_hole
+id_no_type: 2_54_mm_18_pin_through_hole
+manufacturer: ''
+md5: 04911fb6a378bbb63f6ebc9ab22969f1
+md5_10: 04911fb6a3
+md5_10_upper: 04911FB6A3
+md5_5: 04911
+md5_5_upper: 04911
+md5_6: 04911f
+md5_6_alpha: 6exr
+md5_6_alpha_upper: 6EXR
+md5_6_upper: 04911F
+name: Electronic Socket 2 54 Mm 18 Pin Through Hole
+name_no_class: Socket 2 54 Mm 18 Pin Through Hole
+name_no_color: 18Pinthroughhole
+name_no_size: 18 Pin Through Hole
+name_no_type: 2 54 Mm 18 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_18_pin_through_hole
+oomp_word: wink pushpin princess
+oomp_word_emoji: ':wink: :pushpin: :princess:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':pushpin:'
+- ':princess:'
+oomp_word_list:
+- wink
+- pushpin
+- princess
+part_number: ''
+size: 2_54_mm
+type: socket

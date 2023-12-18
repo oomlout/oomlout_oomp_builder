@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_09_09
+directory: parts/oobb_part_tray_05_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_09_09
+id: oobb_part_tray_05_09_09
+id_no_class: part_tray_05_09_09
+id_no_color: 050909
+id_no_size: 05_09_09
+id_no_type: tray_05_09_09
+manufacturer: ''
+md5: fafcf1de471cdfdc85c4ee6a4c73d925
+md5_10: fafcf1de47
+md5_10_upper: FAFCF1DE47
+md5_5: fafcf
+md5_5_upper: FAFCF
+md5_6: fafcf1
+md5_6_alpha: 9sjxt
+md5_6_alpha_upper: 9SJXT
+md5_6_upper: FAFCF1
+name: Oobb Part Tray 05 09 09
+name_no_class: Part Tray 05 09 09
+name_no_color: 050909
+name_no_size: 05 09 09
+name_no_type: Tray 05 09 09
+oomp_key: oomp_oobb_part_tray_05_09_09
+oomp_word: nine up ticket
+oomp_word_emoji: ':nine: :up: :ticket:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':up:'
+- ':ticket:'
+oomp_word_list:
+- nine
+- up
+- ticket
+part_number: ''
+size: tray
+type: part

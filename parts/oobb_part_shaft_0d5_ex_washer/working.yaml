@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5_ex_washer
+directory: parts/oobb_part_shaft_0d5_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5_ex_washer
+id: oobb_part_shaft_0d5_ex_washer
+id_no_class: part_shaft_0d5_ex_washer
+id_no_color: 0d5exwasher
+id_no_size: 0d5_ex_washer
+id_no_type: shaft_0d5_ex_washer
+manufacturer: ''
+md5: 722bd08fce15ac13baf96fea4383c93a
+md5_10: 722bd08fce
+md5_10_upper: 722BD08FCE
+md5_5: 722bd
+md5_5_upper: 722BD
+md5_6: 722bd0
+md5_6_alpha: 4gde8
+md5_6_alpha_upper: 4GDE8
+md5_6_upper: 722BD0
+name: Oobb Part Shaft 0D5 Ex Washer
+name_no_class: Part Shaft 0D5 Ex Washer
+name_no_color: 0D5Exwasher
+name_no_size: 0D5 Ex Washer
+name_no_type: Shaft 0D5 Ex Washer
+oomp_key: oomp_oobb_part_shaft_0d5_ex_washer
+oomp_word: dolls cloud banana
+oomp_word_emoji: ':dolls: :cloud: :banana:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':cloud:'
+- ':banana:'
+oomp_word_list:
+- dolls
+- cloud
+- banana
+part_number: ''
+size: shaft
+type: part

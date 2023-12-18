@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6813
+directory: parts/oobb_part_bearing_hardware_bearing_6813
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6813
+id: oobb_part_bearing_hardware_bearing_6813
+id_no_class: part_bearing_hardware_bearing_6813
+id_no_color: hardware6813
+id_no_size: hardware_6813
+id_no_type: bearing_hardware_bearing_6813
+manufacturer: ''
+md5: 59b9459116506b13e356a734dd280100
+md5_10: 59b9459116
+md5_10_upper: 59B9459116
+md5_5: 59b94
+md5_5_upper: 59B94
+md5_6: 59b945
+md5_6_alpha: 3i151
+md5_6_alpha_upper: 3I151
+md5_6_upper: 59B945
+name: Oobb Part Bearing Hardware Bearing 6813
+name_no_class: Part Bearing Hardware Bearing 6813
+name_no_color: Hardware6813
+name_no_size: Hardware 6813
+name_no_type: Bearing Hardware Bearing 6813
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6813
+oomp_word: dragon fries snake
+oomp_word_emoji: ':dragon: :fries: :snake:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':fries:'
+- ':snake:'
+oomp_word_list:
+- dragon
+- fries
+- snake
+part_number: ''
+size: bearing
+type: part

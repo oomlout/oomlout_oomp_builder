@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 16_pin
+directory: parts/electronic_header_2_54_mm_16_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole
+id: electronic_header_2_54_mm_16_pin_through_hole
+id_no_class: header_2_54_mm_16_pin_through_hole
+id_no_color: 16pinthroughhole
+id_no_size: 16_pin_through_hole
+id_no_type: 2_54_mm_16_pin_through_hole
+manufacturer: ''
+md5: 628f74b9c47c0b429a473c5cfdc0ce05
+md5_10: 628f74b9c4
+md5_10_upper: 628F74B9C4
+md5_5: 628f7
+md5_5_upper: 628F7
+md5_6: 628f74
+md5_6_alpha: 3ufzo
+md5_6_alpha_upper: 3UFZO
+md5_6_upper: 628F74
+name: Electronic Header 2 54 Mm 16 Pin Through Hole
+name_no_class: Header 2 54 Mm 16 Pin Through Hole
+name_no_color: 16Pinthroughhole
+name_no_size: 16 Pin Through Hole
+name_no_type: 2 54 Mm 16 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_16_pin_through_hole
+oomp_word: tulip calendar fireworks
+oomp_word_emoji: ':tulip: :calendar: :fireworks:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':calendar:'
+- ':fireworks:'
+oomp_word_list:
+- tulip
+- calendar
+- fireworks
+part_number: ''
+size: 2_54_mm
+type: header

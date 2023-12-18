@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27_ohm
+directory: parts/electronic_resistor_0402_27_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_27_ohm
+id: electronic_resistor_0402_27_ohm
+id_no_class: resistor_0402_27_ohm
+id_no_color: 27ohm
+id_no_size: 27_ohm
+id_no_type: 0402_27_ohm
+manufacturer: ''
+md5: 03eda3159cf4ecc41770c0ea8aacf6bc
+md5_10: 03eda3159c
+md5_10_upper: 03EDA3159C
+md5_5: 03eda
+md5_5_upper: 03EDA
+md5_6: 03eda3
+md5_6_alpha: 5in7
+md5_6_alpha_upper: 5IN7
+md5_6_upper: 03EDA3
+name: Electronic Resistor 0402 27 Ohm
+name_no_class: Resistor 0402 27 Ohm
+name_no_color: 27Ohm
+name_no_size: 27 Ohm
+name_no_type: 0402 27 Ohm
+oomp_key: oomp_electronic_resistor_0402_27_ohm
+oomp_word: grin bus pencil
+oomp_word_emoji: ':grin: :bus: :pencil:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':bus:'
+- ':pencil:'
+oomp_word_list:
+- grin
+- bus
+- pencil
+part_number: ''
+size: '0402'
+type: resistor

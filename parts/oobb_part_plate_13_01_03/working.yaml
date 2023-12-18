@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_01_03'
+directory: parts/oobb_part_plate_13_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_03
+id: oobb_part_plate_13_01_03
+id_no_class: part_plate_13_01_03
+id_no_color: '130103'
+id_no_size: '13_01_03'
+id_no_type: plate_13_01_03
+manufacturer: ''
+md5: a7805f1e4a15855b92a5fc03a11564f6
+md5_10: a7805f1e4a
+md5_10_upper: A7805F1E4A
+md5_5: a7805
+md5_5_upper: A7805
+md5_6: a7805f
+md5_6_alpha: 6ja73
+md5_6_alpha_upper: 6JA73
+md5_6_upper: A7805F
+name: Oobb Part Plate 13 01 03
+name_no_class: Part Plate 13 01 03
+name_no_color: '130103'
+name_no_size: 13 01 03
+name_no_type: Plate 13 01 03
+oomp_key: oomp_oobb_part_plate_13_01_03
+oomp_word: guitar hourglass leopard
+oomp_word_emoji: ':guitar: :hourglass: :leopard:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':hourglass:'
+- ':leopard:'
+oomp_word_list:
+- guitar
+- hourglass
+- leopard
+part_number: ''
+size: plate
+type: part

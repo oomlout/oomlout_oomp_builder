@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 32_pin
+directory: parts/electronic_header_2_54_mm_32_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_through_hole_short
+id: electronic_header_2_54_mm_32_pin_through_hole_short
+id_no_class: header_2_54_mm_32_pin_through_hole_short
+id_no_color: 32pinthroughholeshort
+id_no_size: 32_pin_through_hole_short
+id_no_type: 2_54_mm_32_pin_through_hole_short
+manufacturer: ''
+md5: f76146d2ae5f3464bbbd1e63dcb25935
+md5_10: f76146d2ae
+md5_10_upper: F76146D2AE
+md5_5: f7614
+md5_5_upper: F7614
+md5_6: f76146
+md5_6_alpha: 9nhhi
+md5_6_alpha_upper: 9NHHI
+md5_6_upper: F76146
+name: Electronic Header 2 54 Mm 32 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 32 Pin Through Hole Short
+name_no_color: 32Pinthroughholeshort
+name_no_size: 32 Pin Through Hole Short
+name_no_type: 2 54 Mm 32 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_32_pin_through_hole_short
+oomp_word: six bouquet bird
+oomp_word_emoji: ':six: :bouquet: :bird:'
+oomp_word_emoji_list:
+- ':six:'
+- ':bouquet:'
+- ':bird:'
+oomp_word_list:
+- six
+- bouquet
+- bird
+part_number: ''
+size: 2_54_mm
+type: header

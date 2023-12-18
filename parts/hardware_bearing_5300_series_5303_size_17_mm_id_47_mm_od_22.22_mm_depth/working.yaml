@@ -1,0 +1,40 @@
+classification: hardware
+color: 5303_size
+description_extra: ''
+description_main: 17_mm_id_47_mm_od_22.22_mm_depth
+directory: parts/hardware_bearing_5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+id: hardware_bearing_5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+id_no_class: bearing_5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+id_no_color: 17_mm_id_47_mm_od_22.22_mm_depth
+id_no_size: 5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+id_no_type: 5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+manufacturer: ''
+md5: a5183ed3f4cb0df9f7c8b117c032fc5d
+md5_10: a5183ed3f4
+md5_10_upper: A5183ED3F4
+md5_5: a5183
+md5_5_upper: A5183
+md5_6: a5183e
+md5_6_alpha: 6fwhq
+md5_6_alpha_upper: 6FWHQ
+md5_6_upper: A5183E
+name: Hardware Bearing 5300 Series 5303 Size 17 Mm Id 47 Mm Od 22.22 Mm Depth
+name_no_class: Bearing 5300 Series 5303 Size 17 Mm Id 47 Mm Od 22.22 Mm Depth
+name_no_color: 17 Mm Id 47 Mm Od 22.22 Mm Depth
+name_no_size: 5303 Size 17 Mm Id 47 Mm Od 22.22 Mm Depth
+name_no_type: 5300 Series 5303 Size 17 Mm Id 47 Mm Od 22.22 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5303_size_17_mm_id_47_mm_od_22.22_mm_depth
+oomp_word: headphones hand monkey
+oomp_word_emoji: ':headphones: :hand: :monkey:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':hand:'
+- ':monkey:'
+oomp_word_list:
+- headphones
+- hand
+- monkey
+part_number: ''
+size: 5300_series
+type: bearing

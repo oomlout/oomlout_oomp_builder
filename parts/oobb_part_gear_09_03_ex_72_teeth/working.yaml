@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_ex_72_teeth
+directory: parts/oobb_part_gear_09_03_ex_72_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_03_ex_72_teeth
+id: oobb_part_gear_09_03_ex_72_teeth
+id_no_class: part_gear_09_03_ex_72_teeth
+id_no_color: 0903ex72teeth
+id_no_size: 09_03_ex_72_teeth
+id_no_type: gear_09_03_ex_72_teeth
+manufacturer: ''
+md5: cd4da9be1869adac82634b487fd3e8bd
+md5_10: cd4da9be18
+md5_10_upper: CD4DA9BE18
+md5_5: cd4da
+md5_5_upper: CD4DA
+md5_6: cd4da9
+md5_6_alpha: 80drd
+md5_6_alpha_upper: 80DRD
+md5_6_upper: CD4DA9
+name: Oobb Part Gear 09 03 Ex 72 Teeth
+name_no_class: Part Gear 09 03 Ex 72 Teeth
+name_no_color: 0903Ex72Teeth
+name_no_size: 09 03 Ex 72 Teeth
+name_no_type: Gear 09 03 Ex 72 Teeth
+oomp_key: oomp_oobb_part_gear_09_03_ex_72_teeth
+oomp_word: strawberry bug sandal
+oomp_word_emoji: ':strawberry: :bug: :sandal:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':bug:'
+- ':sandal:'
+oomp_word_list:
+- strawberry
+- bug
+- sandal
+part_number: ''
+size: gear
+type: part

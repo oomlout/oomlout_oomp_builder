@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '17_03'
+directory: parts/oobb_part_circle_17_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_17_03
+id: oobb_part_circle_17_03
+id_no_class: part_circle_17_03
+id_no_color: '1703'
+id_no_size: '17_03'
+id_no_type: circle_17_03
+manufacturer: ''
+md5: 66b256824e686db1ecb4c9e259f450bb
+md5_10: 66b256824e
+md5_10_upper: 66B256824E
+md5_5: 66b25
+md5_5_upper: 66B25
+md5_6: 66b256
+md5_6_alpha: 4095i
+md5_6_alpha_upper: 4095I
+md5_6_upper: 66B256
+name: Oobb Part Circle 17 03
+name_no_class: Part Circle 17 03
+name_no_color: '1703'
+name_no_size: 17 03
+name_no_type: Circle 17 03
+oomp_key: oomp_oobb_part_circle_17_03
+oomp_word: leaves handbag ram
+oomp_word_emoji: ':leaves: :handbag: :ram:'
+oomp_word_emoji_list:
+- ':leaves:'
+- ':handbag:'
+- ':ram:'
+oomp_word_list:
+- leaves
+- handbag
+- ram
+part_number: ''
+size: circle
+type: part

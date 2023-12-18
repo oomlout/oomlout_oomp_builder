@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 070714nm12mmtapewidth4mmtapethicknessex4
+id_no_size: 07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: f44c8b3db2e578f8f09c184c6f6322de
+md5_10: f44c8b3db2
+md5_10_upper: F44C8B3DB2
+md5_5: f44c8
+md5_5_upper: F44C8
+md5_6: f44c8b
+md5_6_alpha: 9j5or
+md5_6_alpha_upper: 9J5OR
+md5_6_upper: F44C8B
+name: Oobb Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 070714Nm12Mmtapewidth4Mmtapethicknessex4
+name_no_size: 07 07 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 07 07 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: three turtle door
+oomp_word_emoji: ':three: :turtle: :door:'
+oomp_word_emoji_list:
+- ':three:'
+- ':turtle:'
+- ':door:'
+oomp_word_list:
+- three
+- turtle
+- door
+part_number: ''
+size: smd_magazine
+type: part

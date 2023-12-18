@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6803
+directory: parts/oobb_part_bearing_hardware_bearing_6803
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6803
+id: oobb_part_bearing_hardware_bearing_6803
+id_no_class: part_bearing_hardware_bearing_6803
+id_no_color: hardware6803
+id_no_size: hardware_6803
+id_no_type: bearing_hardware_bearing_6803
+manufacturer: ''
+md5: 34ca143d9b54b5874fafb75894d989a5
+md5_10: 34ca143d9b
+md5_10_upper: 34CA143D9B
+md5_5: 34ca1
+md5_5_upper: 34CA1
+md5_6: 34ca14
+md5_6_alpha: 225g4
+md5_6_alpha_upper: 225G4
+md5_6_upper: 34CA14
+name: Oobb Part Bearing Hardware Bearing 6803
+name_no_class: Part Bearing Hardware Bearing 6803
+name_no_color: Hardware6803
+name_no_size: Hardware 6803
+name_no_type: Bearing Hardware Bearing 6803
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6803
+oomp_word: mouse cherries fire
+oomp_word_emoji: ':mouse: :cherries: :fire:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':cherries:'
+- ':fire:'
+oomp_word_list:
+- mouse
+- cherries
+- fire
+part_number: ''
+size: bearing
+type: part

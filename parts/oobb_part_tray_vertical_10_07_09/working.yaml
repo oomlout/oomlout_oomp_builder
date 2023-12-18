@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_07_09'
+directory: parts/oobb_part_tray_vertical_10_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_07_09
+id: oobb_part_tray_vertical_10_07_09
+id_no_class: part_tray_vertical_10_07_09
+id_no_color: '100709'
+id_no_size: '10_07_09'
+id_no_type: tray_vertical_10_07_09
+manufacturer: ''
+md5: 966d217b76b3d9cab75c30064e483b39
+md5_10: 966d217b76
+md5_10_upper: 966D217B76
+md5_5: 966d2
+md5_5_upper: 966D2
+md5_6: 966d21
+md5_6_alpha: 5vaqp
+md5_6_alpha_upper: 5VAQP
+md5_6_upper: 966D21
+name: Oobb Part Tray Vertical 10 07 09
+name_no_class: Part Tray Vertical 10 07 09
+name_no_color: '100709'
+name_no_size: 10 07 09
+name_no_type: Tray Vertical 10 07 09
+oomp_key: oomp_oobb_part_tray_vertical_10_07_09
+oomp_word: basketball shell feet
+oomp_word_emoji: ':basketball: :shell: :feet:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':shell:'
+- ':feet:'
+oomp_word_list:
+- basketball
+- shell
+- feet
+part_number: ''
+size: tray_vertical
+type: part

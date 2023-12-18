@@ -1,0 +1,40 @@
+classification: hardware
+color: 16019_size
+description_extra: ''
+description_main: 95_mm_id_145_mm_od_16_mm_depth
+directory: parts/hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+id: hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+id_no_class: bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+id_no_color: 95_mm_id_145_mm_od_16_mm_depth
+id_no_size: 16019_size_95_mm_id_145_mm_od_16_mm_depth
+id_no_type: 16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+manufacturer: ''
+md5: 30b37885ab180d61ab18de6e2798d8a4
+md5_10: 30b37885ab
+md5_10_upper: 30B37885AB
+md5_5: 30b37
+md5_5_upper: 30B37
+md5_6: 30b378
+md5_6_alpha: 1wepk
+md5_6_alpha_upper: 1WEPK
+md5_6_upper: 30B378
+name: Hardware Bearing 16000 Series 16019 Size 95 Mm Id 145 Mm Od 16 Mm Depth
+name_no_class: Bearing 16000 Series 16019 Size 95 Mm Id 145 Mm Od 16 Mm Depth
+name_no_color: 95 Mm Id 145 Mm Od 16 Mm Depth
+name_no_size: 16019 Size 95 Mm Id 145 Mm Od 16 Mm Depth
+name_no_type: 16000 Series 16019 Size 95 Mm Id 145 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
+oomp_word: foggy eyeglasses bell
+oomp_word_emoji: ':foggy: :eyeglasses: :bell:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':eyeglasses:'
+- ':bell:'
+oomp_word_list:
+- foggy
+- eyeglasses
+- bell
+part_number: ''
+size: 16000_series
+type: bearing

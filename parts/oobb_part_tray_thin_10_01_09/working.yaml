@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_09'
+directory: parts/oobb_part_tray_thin_10_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_01_09
+id: oobb_part_tray_thin_10_01_09
+id_no_class: part_tray_thin_10_01_09
+id_no_color: '100109'
+id_no_size: '10_01_09'
+id_no_type: tray_thin_10_01_09
+manufacturer: ''
+md5: bce6ad177433af15803f2134edc1beaa
+md5_10: bce6ad1774
+md5_10_upper: BCE6AD1774
+md5_5: bce6a
+md5_5_upper: BCE6A
+md5_6: bce6ad
+md5_6_alpha: 7dcbx
+md5_6_alpha_upper: 7DCBX
+md5_6_upper: BCE6AD
+name: Oobb Part Tray Thin 10 01 09
+name_no_class: Part Tray Thin 10 01 09
+name_no_color: '100109'
+name_no_size: 10 01 09
+name_no_type: Tray Thin 10 01 09
+oomp_key: oomp_oobb_part_tray_thin_10_01_09
+oomp_word: sushi airplane dress
+oomp_word_emoji: ':sushi: :airplane: :dress:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':airplane:'
+- ':dress:'
+oomp_word_list:
+- sushi
+- airplane
+- dress
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 11_pin
+directory: parts/electronic_header_2_54_mm_11_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_11_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_11_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_11_pin_through_hole_right_angle
+id_no_color: 11pinthroughholerightangle
+id_no_size: 11_pin_through_hole_right_angle
+id_no_type: 2_54_mm_11_pin_through_hole_right_angle
+manufacturer: ''
+md5: ddc57db03d1523a7ce71795cde1956ac
+md5_10: ddc57db03d
+md5_10_upper: DDC57DB03D
+md5_5: ddc57
+md5_5_upper: DDC57
+md5_6: ddc57d
+md5_6_alpha: 8niil
+md5_6_alpha_upper: 8NIIL
+md5_6_upper: DDC57D
+name: Electronic Header 2 54 Mm 11 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 11 Pin Through Hole Right Angle
+name_no_color: 11Pinthroughholerightangle
+name_no_size: 11 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 11 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_11_pin_through_hole_right_angle
+oomp_word: stars candy phone
+oomp_word_emoji: ':stars: :candy: :phone:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':candy:'
+- ':phone:'
+oomp_word_list:
+- stars
+- candy
+- phone
+part_number: ''
+size: 2_54_mm
+type: header

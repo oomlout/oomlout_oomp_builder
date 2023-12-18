@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_09_ex_144_teeth_shield
+directory: parts/oobb_part_pulley_gt2_06_09_ex_144_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09_ex_144_teeth_shield
+id: oobb_part_pulley_gt2_06_09_ex_144_teeth_shield
+id_no_class: part_pulley_gt2_06_09_ex_144_teeth_shield
+id_no_color: 0609ex144teethshield
+id_no_size: 06_09_ex_144_teeth_shield
+id_no_type: pulley_gt2_06_09_ex_144_teeth_shield
+manufacturer: ''
+md5: ac7e3a445be73f6b55592ee043ad40a9
+md5_10: ac7e3a445b
+md5_10_upper: AC7E3A445B
+md5_5: ac7e3
+md5_5_upper: AC7E3
+md5_6: ac7e3a
+md5_6_alpha: 6qam2
+md5_6_alpha_upper: 6QAM2
+md5_6_upper: AC7E3A
+name: Oobb Part Pulley Gt2 06 09 Ex 144 Teeth Shield
+name_no_class: Part Pulley Gt2 06 09 Ex 144 Teeth Shield
+name_no_color: 0609Ex144Teethshield
+name_no_size: 06 09 Ex 144 Teeth Shield
+name_no_type: Pulley Gt2 06 09 Ex 144 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_06_09_ex_144_teeth_shield
+oomp_word: shirt fax koala
+oomp_word_emoji: ':shirt: :fax: :koala:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':fax:'
+- ':koala:'
+oomp_word_list:
+- shirt
+- fax
+- koala
+part_number: ''
+size: pulley_gt2
+type: part

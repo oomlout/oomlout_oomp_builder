@@ -1,0 +1,40 @@
+classification: hardware
+color: 6313_size
+description_extra: ''
+description_main: 65_mm_id_140_mm_od_33_mm_depth
+directory: parts/hardware_bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+id: hardware_bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+id_no_class: bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+id_no_color: 65_mm_id_140_mm_od_33_mm_depth
+id_no_size: 6313_size_65_mm_id_140_mm_od_33_mm_depth
+id_no_type: 6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+manufacturer: ''
+md5: 4cad41d5512505cc9caf2f3f4aa36f25
+md5_10: 4cad41d551
+md5_10_upper: 4CAD41D551
+md5_5: 4cad4
+md5_5_upper: 4CAD4
+md5_6: 4cad41
+md5_6_alpha: 2zpdt
+md5_6_alpha_upper: 2ZPDT
+md5_6_upper: 4CAD41
+name: Hardware Bearing 6300 Series 6313 Size 65 Mm Id 140 Mm Od 33 Mm Depth
+name_no_class: Bearing 6300 Series 6313 Size 65 Mm Id 140 Mm Od 33 Mm Depth
+name_no_color: 65 Mm Id 140 Mm Od 33 Mm Depth
+name_no_size: 6313 Size 65 Mm Id 140 Mm Od 33 Mm Depth
+name_no_type: 6300 Series 6313 Size 65 Mm Id 140 Mm Od 33 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
+oomp_word: turtle dress camel
+oomp_word_emoji: ':turtle: :dress: :camel:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':dress:'
+- ':camel:'
+oomp_word_list:
+- turtle
+- dress
+- camel
+part_number: ''
+size: 6300_series
+type: bearing

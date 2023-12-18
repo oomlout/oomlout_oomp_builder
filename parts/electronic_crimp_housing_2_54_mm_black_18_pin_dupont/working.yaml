@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 18_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_18_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_18_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_18_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_18_pin_dupont
+id_no_color: 18_pin_dupont
+id_no_size: black_18_pin_dupont
+id_no_type: 2_54_mm_black_18_pin_dupont
+manufacturer: ''
+md5: a3a5314db38d0274f5ac57f4ed3db8c5
+md5_10: a3a5314db3
+md5_10_upper: A3A5314DB3
+md5_5: a3a53
+md5_5_upper: A3A53
+md5_6: a3a531
+md5_6_alpha: 6dv75
+md5_6_alpha_upper: 6DV75
+md5_6_upper: A3A531
+name: Electronic Crimp Housing 2 54 Mm Black 18 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 18 Pin Dupont
+name_no_color: 18 Pin Dupont
+name_no_size: Black 18 Pin Dupont
+name_no_type: 2 54 Mm Black 18 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_18_pin_dupont
+oomp_word: pencil headphones ocean
+oomp_word_emoji: ':pencil: :headphones: :ocean:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':headphones:'
+- ':ocean:'
+oomp_word_list:
+- pencil
+- headphones
+- ocean
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

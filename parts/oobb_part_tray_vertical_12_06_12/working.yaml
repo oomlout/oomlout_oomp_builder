@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_06_12'
+directory: parts/oobb_part_tray_vertical_12_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_06_12
+id: oobb_part_tray_vertical_12_06_12
+id_no_class: part_tray_vertical_12_06_12
+id_no_color: '120612'
+id_no_size: '12_06_12'
+id_no_type: tray_vertical_12_06_12
+manufacturer: ''
+md5: 6fb6286aa8fec3c6a9a4d67a611afddd
+md5_10: 6fb6286aa8
+md5_10_upper: 6FB6286AA8
+md5_5: 6fb62
+md5_5_upper: 6FB62
+md5_6: 6fb628
+md5_6_alpha: 4cx0o
+md5_6_alpha_upper: 4CX0O
+md5_6_upper: 6FB628
+name: Oobb Part Tray Vertical 12 06 12
+name_no_class: Part Tray Vertical 12 06 12
+name_no_color: '120612'
+name_no_size: 12 06 12
+name_no_type: Tray Vertical 12 06 12
+oomp_key: oomp_oobb_part_tray_vertical_12_06_12
+oomp_word: moon beer tongue
+oomp_word_emoji: ':moon: :beer: :tongue:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':beer:'
+- ':tongue:'
+oomp_word_list:
+- moon
+- beer
+- tongue
+part_number: ''
+size: tray_vertical
+type: part

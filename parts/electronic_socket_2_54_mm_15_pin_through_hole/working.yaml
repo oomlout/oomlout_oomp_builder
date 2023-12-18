@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 15_pin
+directory: parts/electronic_socket_2_54_mm_15_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_15_pin_through_hole
+id: electronic_socket_2_54_mm_15_pin_through_hole
+id_no_class: socket_2_54_mm_15_pin_through_hole
+id_no_color: 15pinthroughhole
+id_no_size: 15_pin_through_hole
+id_no_type: 2_54_mm_15_pin_through_hole
+manufacturer: ''
+md5: e3d007f2dc7c6d7909fb0da6675d1559
+md5_10: e3d007f2dc
+md5_10_upper: E3D007F2DC
+md5_5: e3d00
+md5_5_upper: E3D00
+md5_6: e3d007
+md5_6_alpha: 8w007
+md5_6_alpha_upper: 8W007
+md5_6_upper: E3D007
+name: Electronic Socket 2 54 Mm 15 Pin Through Hole
+name_no_class: Socket 2 54 Mm 15 Pin Through Hole
+name_no_color: 15Pinthroughhole
+name_no_size: 15 Pin Through Hole
+name_no_type: 2 54 Mm 15 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_15_pin_through_hole
+oomp_word: rowboat banana cry
+oomp_word_emoji: ':rowboat: :banana: :cry:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':banana:'
+- ':cry:'
+oomp_word_list:
+- rowboat
+- banana
+- cry
+part_number: ''
+size: 2_54_mm
+type: socket

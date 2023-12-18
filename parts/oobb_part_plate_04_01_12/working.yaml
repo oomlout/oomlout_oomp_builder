@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_12'
+directory: parts/oobb_part_plate_04_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_12
+id: oobb_part_plate_04_01_12
+id_no_class: part_plate_04_01_12
+id_no_color: '040112'
+id_no_size: '04_01_12'
+id_no_type: plate_04_01_12
+manufacturer: ''
+md5: 02ccefab8bb7928e4cc2bcb745b63a4e
+md5_10: 02ccefab8b
+md5_10_upper: 02CCEFAB8B
+md5_5: 02cce
+md5_5_upper: 02CCE
+md5_6: 02ccef
+md5_6_alpha: 3xm7
+md5_6_alpha_upper: 3XM7
+md5_6_upper: 02CCEF
+name: Oobb Part Plate 04 01 12
+name_no_class: Part Plate 04 01 12
+name_no_color: '040112'
+name_no_size: 04 01 12
+name_no_type: Plate 04 01 12
+oomp_key: oomp_oobb_part_plate_04_01_12
+oomp_word: blush watermelon truck
+oomp_word_emoji: ':blush: :watermelon: :truck:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':watermelon:'
+- ':truck:'
+oomp_word_list:
+- blush
+- watermelon
+- truck
+part_number: ''
+size: plate
+type: part

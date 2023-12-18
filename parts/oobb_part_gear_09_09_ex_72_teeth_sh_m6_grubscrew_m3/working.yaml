@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_ex_72_teeth_sh_m6_grubscrew_m3
+directory: parts/oobb_part_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+id: oobb_part_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+id_no_class: part_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+id_no_color: 0909ex72teethshm6grubscrewm3
+id_no_size: 09_09_ex_72_teeth_sh_m6_grubscrew_m3
+id_no_type: gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+manufacturer: ''
+md5: 097ad8fe6bc73054240190a61960dca1
+md5_10: 097ad8fe6b
+md5_10_upper: 097AD8FE6B
+md5_5: 097ad
+md5_5_upper: 097AD
+md5_6: 097ad8
+md5_6_alpha: dbdk
+md5_6_alpha_upper: DBDK
+md5_6_upper: 097AD8
+name: Oobb Part Gear 09 09 Ex 72 Teeth Sh M6 Grubscrew M3
+name_no_class: Part Gear 09 09 Ex 72 Teeth Sh M6 Grubscrew M3
+name_no_color: 0909Ex72Teethshm6Grubscrewm3
+name_no_size: 09 09 Ex 72 Teeth Sh M6 Grubscrew M3
+name_no_type: Gear 09 09 Ex 72 Teeth Sh M6 Grubscrew M3
+oomp_key: oomp_oobb_part_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+oomp_word: angry camera hospital
+oomp_word_emoji: ':angry: :camera: :hospital:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':camera:'
+- ':hospital:'
+oomp_word_list:
+- angry
+- camera
+- hospital
+part_number: ''
+size: gear
+type: part

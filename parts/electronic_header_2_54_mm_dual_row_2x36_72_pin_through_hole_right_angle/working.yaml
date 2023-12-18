@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x36_72_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+id_no_color: 2x3672pinthroughholerightangle
+id_no_size: 2x36_72_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+manufacturer: ''
+md5: 6bcec42fe1d995ddb0f89ade88d80e88
+md5_10: 6bcec42fe1
+md5_10_upper: 6BCEC42FE1
+md5_5: 6bcec
+md5_5_upper: 6BCEC
+md5_6: 6bcec4
+md5_6_alpha: 47flw
+md5_6_alpha_upper: 47FLW
+md5_6_upper: 6BCEC4
+name: Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X36 72 Pin Through Hole Right Angle
+name_no_color: 2X3672Pinthroughholerightangle
+name_no_size: 2X36 72 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X36 72 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x36_72_pin_through_hole_right_angle
+oomp_word: chestnut peach cookie
+oomp_word_emoji: ':chestnut: :peach: :cookie:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':peach:'
+- ':cookie:'
+oomp_word_list:
+- chestnut
+- peach
+- cookie
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

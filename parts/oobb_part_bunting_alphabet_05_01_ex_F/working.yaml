@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_f
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_f
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_f
+id: oobb_part_bunting_alphabet_05_01_ex_f
+id_no_class: part_bunting_alphabet_05_01_ex_f
+id_no_color: 0501exf
+id_no_size: 05_01_ex_f
+id_no_type: bunting_alphabet_05_01_ex_f
+manufacturer: ''
+md5: a92e03782bd7470bf774c53b88d78cce
+md5_10: a92e03782b
+md5_10_upper: A92E03782B
+md5_5: a92e0
+md5_5_upper: A92E0
+md5_6: a92e03
+md5_6_alpha: 6ln2b
+md5_6_alpha_upper: 6LN2B
+md5_6_upper: A92E03
+name: Oobb Part Bunting Alphabet 05 01 Ex F
+name_no_class: Part Bunting Alphabet 05 01 Ex F
+name_no_color: 0501Exf
+name_no_size: 05 01 Ex F
+name_no_type: Bunting Alphabet 05 01 Ex F
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_f
+oomp_word: sandal zap grin
+oomp_word_emoji: ':sandal: :zap: :grin:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':zap:'
+- ':grin:'
+oomp_word_list:
+- sandal
+- zap
+- grin
+part_number: ''
+size: bunting_alphabet
+type: part

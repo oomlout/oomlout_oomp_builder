@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_02_03_ex_t
+directory: parts/oobb_part_plate_05_02_03_ex_t
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03_ex_t
+id: oobb_part_plate_05_02_03_ex_t
+id_no_class: part_plate_05_02_03_ex_t
+id_no_color: 050203ext
+id_no_size: 05_02_03_ex_t
+id_no_type: plate_05_02_03_ex_t
+manufacturer: ''
+md5: 18b790db0edbdf2859ec726e30e8847a
+md5_10: 18b790db0e
+md5_10_upper: 18B790DB0E
+md5_5: 18b79
+md5_5_upper: 18B79
+md5_6: 18b790
+md5_6_alpha: ypw0
+md5_6_alpha_upper: YPW0
+md5_6_upper: 18B790
+name: Oobb Part Plate 05 02 03 Ex T
+name_no_class: Part Plate 05 02 03 Ex T
+name_no_color: 050203Ext
+name_no_size: 05 02 03 Ex T
+name_no_type: Plate 05 02 03 Ex T
+oomp_key: oomp_oobb_part_plate_05_02_03_ex_t
+oomp_word: hand pizza scissors
+oomp_word_emoji: ':hand: :pizza: :scissors:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':pizza:'
+- ':scissors:'
+oomp_word_list:
+- hand
+- pizza
+- scissors
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 75000_ohm
+directory: parts/electronic_resistor_0402_75000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_75000_ohm
+id: electronic_resistor_0402_75000_ohm
+id_no_class: resistor_0402_75000_ohm
+id_no_color: 75000ohm
+id_no_size: 75000_ohm
+id_no_type: 0402_75000_ohm
+manufacturer: ''
+md5: af61d1db12510d2db01e75cacf2fad3b
+md5_10: af61d1db12
+md5_10_upper: AF61D1DB12
+md5_5: af61d
+md5_5_upper: AF61D
+md5_6: af61d1
+md5_6_alpha: 6ucpd
+md5_6_alpha_upper: 6UCPD
+md5_6_upper: AF61D1
+name: Electronic Resistor 0402 75000 Ohm
+name_no_class: Resistor 0402 75000 Ohm
+name_no_color: 75000Ohm
+name_no_size: 75000 Ohm
+name_no_type: 0402 75000 Ohm
+oomp_key: oomp_electronic_resistor_0402_75000_ohm
+oomp_word: tophat bouquet pear
+oomp_word_emoji: ':tophat: :bouquet: :pear:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':bouquet:'
+- ':pear:'
+oomp_word_list:
+- tophat
+- bouquet
+- pear
+part_number: ''
+size: '0402'
+type: resistor

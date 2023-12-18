@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_21'
+directory: parts/oobb_part_plate_03_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_21
+id: oobb_part_plate_03_01_21
+id_no_class: part_plate_03_01_21
+id_no_color: '030121'
+id_no_size: '03_01_21'
+id_no_type: plate_03_01_21
+manufacturer: ''
+md5: 13dbe90dae9d50fd0be1af31b9da29af
+md5_10: 13dbe90dae
+md5_10_upper: 13DBE90DAE
+md5_5: 13dbe
+md5_5_upper: 13DBE
+md5_6: 13dbe9
+md5_6_alpha: rw89
+md5_6_alpha_upper: RW89
+md5_6_upper: 13DBE9
+name: Oobb Part Plate 03 01 21
+name_no_class: Part Plate 03 01 21
+name_no_color: '030121'
+name_no_size: 03 01 21
+name_no_type: Plate 03 01 21
+oomp_key: oomp_oobb_part_plate_03_01_21
+oomp_word: question tent bike
+oomp_word_emoji: ':question: :tent: :bike:'
+oomp_word_emoji_list:
+- ':question:'
+- ':tent:'
+- ':bike:'
+oomp_word_list:
+- question
+- tent
+- bike
+part_number: ''
+size: plate
+type: part

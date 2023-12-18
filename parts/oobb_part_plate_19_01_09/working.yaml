@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_09'
+directory: parts/oobb_part_plate_19_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_09
+id: oobb_part_plate_19_01_09
+id_no_class: part_plate_19_01_09
+id_no_color: '190109'
+id_no_size: '19_01_09'
+id_no_type: plate_19_01_09
+manufacturer: ''
+md5: 6f24ed05c454901ffe0d26a0d85f1910
+md5_10: 6f24ed05c4
+md5_10_upper: 6F24ED05C4
+md5_5: 6f24e
+md5_5_upper: 6F24E
+md5_6: 6f24ed
+md5_6_alpha: 4c4bx
+md5_6_alpha_upper: 4C4BX
+md5_6_upper: 6F24ED
+name: Oobb Part Plate 19 01 09
+name_no_class: Part Plate 19 01 09
+name_no_color: '190109'
+name_no_size: 19 01 09
+name_no_type: Plate 19 01 09
+oomp_key: oomp_oobb_part_plate_19_01_09
+oomp_word: moon droplet bus
+oomp_word_emoji: ':moon: :droplet: :bus:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':droplet:'
+- ':bus:'
+oomp_word_list:
+- moon
+- droplet
+- bus
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_09
+directory: parts/oobb_part_plate_05_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_09
+id: oobb_part_plate_05_05_09
+id_no_class: part_plate_05_05_09
+id_no_color: 050509
+id_no_size: 05_05_09
+id_no_type: plate_05_05_09
+manufacturer: ''
+md5: 9f3f5901fec9271ab63d170469903ebd
+md5_10: 9f3f5901fe
+md5_10_upper: 9F3F5901FE
+md5_5: 9f3f5
+md5_5_upper: 9F3F5
+md5_6: 9f3f59
+md5_6_alpha: 67ot5
+md5_6_alpha_upper: 67OT5
+md5_6_upper: 9F3F59
+name: Oobb Part Plate 05 05 09
+name_no_class: Part Plate 05 05 09
+name_no_color: 050509
+name_no_size: 05 05 09
+name_no_type: Plate 05 05 09
+oomp_key: oomp_oobb_part_plate_05_05_09
+oomp_word: diamonds horse dragon
+oomp_word_emoji: ':diamonds: :horse: :dragon:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':horse:'
+- ':dragon:'
+oomp_word_list:
+- diamonds
+- horse
+- dragon
+part_number: ''
+size: plate
+type: part

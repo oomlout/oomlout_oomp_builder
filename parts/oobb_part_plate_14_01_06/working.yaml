@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_01_06'
+directory: parts/oobb_part_plate_14_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_06
+id: oobb_part_plate_14_01_06
+id_no_class: part_plate_14_01_06
+id_no_color: '140106'
+id_no_size: '14_01_06'
+id_no_type: plate_14_01_06
+manufacturer: ''
+md5: fa03df168699e50e8af96d1a71d8b1ce
+md5_10: fa03df1686
+md5_10_upper: FA03DF1686
+md5_5: fa03d
+md5_5_upper: FA03D
+md5_6: fa03df
+md5_6_alpha: 9r6qn
+md5_6_alpha_upper: 9R6QN
+md5_6_upper: FA03DF
+name: Oobb Part Plate 14 01 06
+name_no_class: Part Plate 14 01 06
+name_no_color: '140106'
+name_no_size: 14 01 06
+name_no_type: Plate 14 01 06
+oomp_key: oomp_oobb_part_plate_14_01_06
+oomp_word: nine grin fountain
+oomp_word_emoji: ':nine: :grin: :fountain:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':grin:'
+- ':fountain:'
+oomp_word_list:
+- nine
+- grin
+- fountain
+part_number: ''
+size: plate
+type: part

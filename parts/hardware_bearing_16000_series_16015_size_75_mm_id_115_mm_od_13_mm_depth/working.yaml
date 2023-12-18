@@ -1,0 +1,40 @@
+classification: hardware
+color: 16015_size
+description_extra: ''
+description_main: 75_mm_id_115_mm_od_13_mm_depth
+directory: parts/hardware_bearing_16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+id: hardware_bearing_16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+id_no_class: bearing_16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+id_no_color: 75_mm_id_115_mm_od_13_mm_depth
+id_no_size: 16015_size_75_mm_id_115_mm_od_13_mm_depth
+id_no_type: 16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+manufacturer: ''
+md5: c538d9a77d62b357ff44291811308abb
+md5_10: c538d9a77d
+md5_10_upper: C538D9A77D
+md5_5: c538d
+md5_5_upper: C538D
+md5_6: c538d9
+md5_6_alpha: 7p13t
+md5_6_alpha_upper: 7P13T
+md5_6_upper: C538D9
+name: Hardware Bearing 16000 Series 16015 Size 75 Mm Id 115 Mm Od 13 Mm Depth
+name_no_class: Bearing 16000 Series 16015 Size 75 Mm Id 115 Mm Od 13 Mm Depth
+name_no_color: 75 Mm Id 115 Mm Od 13 Mm Depth
+name_no_size: 16015 Size 75 Mm Id 115 Mm Od 13 Mm Depth
+name_no_type: 16000 Series 16015 Size 75 Mm Id 115 Mm Od 13 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16015_size_75_mm_id_115_mm_od_13_mm_depth
+oomp_word: candy frog bank
+oomp_word_emoji: ':candy: :frog: :bank:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':frog:'
+- ':bank:'
+oomp_word_list:
+- candy
+- frog
+- bank
+part_number: ''
+size: 16000_series
+type: bearing

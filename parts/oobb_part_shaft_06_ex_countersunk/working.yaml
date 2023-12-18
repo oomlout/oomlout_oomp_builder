@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_ex_countersunk
+directory: parts/oobb_part_shaft_06_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06_ex_countersunk
+id: oobb_part_shaft_06_ex_countersunk
+id_no_class: part_shaft_06_ex_countersunk
+id_no_color: 06excountersunk
+id_no_size: 06_ex_countersunk
+id_no_type: shaft_06_ex_countersunk
+manufacturer: ''
+md5: dbd4ee006e2f783cbe6a57ff4c9a50ba
+md5_10: dbd4ee006e
+md5_10_upper: DBD4EE006E
+md5_5: dbd4e
+md5_5_upper: DBD4E
+md5_6: dbd4ee
+md5_6_alpha: 8ksfi
+md5_6_alpha_upper: 8KSFI
+md5_6_upper: DBD4EE
+name: Oobb Part Shaft 06 Ex Countersunk
+name_no_class: Part Shaft 06 Ex Countersunk
+name_no_color: 06Excountersunk
+name_no_size: 06 Ex Countersunk
+name_no_type: Shaft 06 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_06_ex_countersunk
+oomp_word: tent corn ambulance
+oomp_word_emoji: ':tent: :corn: :ambulance:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':corn:'
+- ':ambulance:'
+oomp_word_list:
+- tent
+- corn
+- ambulance
+part_number: ''
+size: shaft
+type: part

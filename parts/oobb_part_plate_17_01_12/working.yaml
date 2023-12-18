@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '17_01_12'
+directory: parts/oobb_part_plate_17_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_17_01_12
+id: oobb_part_plate_17_01_12
+id_no_class: part_plate_17_01_12
+id_no_color: '170112'
+id_no_size: '17_01_12'
+id_no_type: plate_17_01_12
+manufacturer: ''
+md5: 15e31a9638041517f0a58b536b3e81a1
+md5_10: 15e31a9638
+md5_10_upper: 15E31A9638
+md5_5: 15e31
+md5_5_upper: 15E31
+md5_6: 15e31a
+md5_6_alpha: uqsa
+md5_6_alpha_upper: UQSA
+md5_6_upper: 15E31A
+name: Oobb Part Plate 17 01 12
+name_no_class: Part Plate 17 01 12
+name_no_color: '170112'
+name_no_size: 17 01 12
+name_no_type: Plate 17 01 12
+oomp_key: oomp_oobb_part_plate_17_01_12
+oomp_word: poop rowboat clap
+oomp_word_emoji: ':poop: :rowboat: :clap:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':rowboat:'
+- ':clap:'
+oomp_word_list:
+- poop
+- rowboat
+- clap
+part_number: ''
+size: plate
+type: part

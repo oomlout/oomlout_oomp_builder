@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_n20
+id: oobb_part_gear_02_03_ex_16_teeth_sh_motor_n20
+id_no_class: part_gear_02_03_ex_16_teeth_sh_motor_n20
+id_no_color: 0203ex16teethshmotorn20
+id_no_size: 02_03_ex_16_teeth_sh_motor_n20
+id_no_type: gear_02_03_ex_16_teeth_sh_motor_n20
+manufacturer: ''
+md5: e8babeb1bb98a5acb592092d100258d4
+md5_10: e8babeb1bb
+md5_10_upper: E8BABEB1BB
+md5_5: e8bab
+md5_5_upper: E8BAB
+md5_6: e8babe
+md5_6_alpha: 92wn2
+md5_6_alpha_upper: 92WN2
+md5_6_upper: E8BABE
+name: Oobb Part Gear 02 03 Ex 16 Teeth Sh Motor N20
+name_no_class: Part Gear 02 03 Ex 16 Teeth Sh Motor N20
+name_no_color: 0203Ex16Teethshmotorn20
+name_no_size: 02 03 Ex 16 Teeth Sh Motor N20
+name_no_type: Gear 02 03 Ex 16 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth_sh_motor_n20
+oomp_word: tram spaghetti ramen
+oomp_word_emoji: ':tram: :spaghetti: :ramen:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':spaghetti:'
+- ':ramen:'
+oomp_word_list:
+- tram
+- spaghetti
+- ramen
+part_number: ''
+size: gear
+type: part

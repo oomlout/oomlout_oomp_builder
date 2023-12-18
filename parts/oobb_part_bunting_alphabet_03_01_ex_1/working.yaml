@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_1
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_1
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_1
+id: oobb_part_bunting_alphabet_03_01_ex_1
+id_no_class: part_bunting_alphabet_03_01_ex_1
+id_no_color: 0301ex1
+id_no_size: 03_01_ex_1
+id_no_type: bunting_alphabet_03_01_ex_1
+manufacturer: ''
+md5: 75a610a7d2770fa30cf931036f18a60a
+md5_10: 75a610a7d2
+md5_10_upper: 75A610A7D2
+md5_5: 75a61
+md5_5_upper: 75A61
+md5_6: 75a610
+md5_6_alpha: 4l98w
+md5_6_alpha_upper: 4L98W
+md5_6_upper: 75A610
+name: Oobb Part Bunting Alphabet 03 01 Ex 1
+name_no_class: Part Bunting Alphabet 03 01 Ex 1
+name_no_color: 0301Ex1
+name_no_size: 03 01 Ex 1
+name_no_type: Bunting Alphabet 03 01 Ex 1
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_1
+oomp_word: ghost trumpet star
+oomp_word_emoji: ':ghost: :trumpet: :star:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':trumpet:'
+- ':star:'
+oomp_word_list:
+- ghost
+- trumpet
+- star
+part_number: ''
+size: bunting_alphabet
+type: part

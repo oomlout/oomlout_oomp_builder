@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 16_pin
+directory: parts/electronic_header_2_54_mm_16_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole_short
+id: electronic_header_2_54_mm_16_pin_through_hole_short
+id_no_class: header_2_54_mm_16_pin_through_hole_short
+id_no_color: 16pinthroughholeshort
+id_no_size: 16_pin_through_hole_short
+id_no_type: 2_54_mm_16_pin_through_hole_short
+manufacturer: ''
+md5: 241fb960e7da1c7eec08b8653fe43133
+md5_10: 241fb960e7
+md5_10_upper: 241FB960E7
+md5_5: 241fb
+md5_5_upper: 241FB
+md5_6: 241fb9
+md5_6_alpha: 1eqpl
+md5_6_alpha_upper: 1EQPL
+md5_6_upper: 241FB9
+name: Electronic Header 2 54 Mm 16 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 16 Pin Through Hole Short
+name_no_color: 16Pinthroughholeshort
+name_no_size: 16 Pin Through Hole Short
+name_no_type: 2 54 Mm 16 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_16_pin_through_hole_short
+oomp_word: droplet princess fries
+oomp_word_emoji: ':droplet: :princess: :fries:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':princess:'
+- ':fries:'
+oomp_word_list:
+- droplet
+- princess
+- fries
+part_number: ''
+size: 2_54_mm
+type: header

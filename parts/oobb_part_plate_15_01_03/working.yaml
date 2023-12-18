@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_01_03'
+directory: parts/oobb_part_plate_15_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_03
+id: oobb_part_plate_15_01_03
+id_no_class: part_plate_15_01_03
+id_no_color: '150103'
+id_no_size: '15_01_03'
+id_no_type: plate_15_01_03
+manufacturer: ''
+md5: ff5f67aae11b8323d6f804318175caa6
+md5_10: ff5f67aae1
+md5_10_upper: FF5F67AAE1
+md5_5: ff5f6
+md5_5_upper: FF5F6
+md5_6: ff5f67
+md5_6_alpha: 9ypnr
+md5_6_alpha_upper: 9YPNR
+md5_6_upper: FF5F67
+name: Oobb Part Plate 15 01 03
+name_no_class: Part Plate 15 01 03
+name_no_color: '150103'
+name_no_size: 15 01 03
+name_no_type: Plate 15 01 03
+oomp_key: oomp_oobb_part_plate_15_01_03
+oomp_word: trident leopard herb
+oomp_word_emoji: ':trident: :leopard: :herb:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':leopard:'
+- ':herb:'
+oomp_word_list:
+- trident
+- leopard
+- herb
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x10_20_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x10_20_pin_surface_mount
+id_no_color: 2x1020pinsurfacemount
+id_no_size: 2x10_20_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x10_20_pin_surface_mount
+manufacturer: ''
+md5: 112a4afcac02ffbc1545a479936d80f5
+md5_10: 112a4afcac
+md5_10_upper: 112A4AFCAC
+md5_5: 112a4
+md5_5_upper: 112A4
+md5_6: 112a4a
+md5_6_alpha: o40a
+md5_6_alpha_upper: O40A
+md5_6_upper: 112A4A
+name: Electronic Header 2 54 Mm Dual Row 2X10 20 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X10 20 Pin Surface Mount
+name_no_color: 2X1020Pinsurfacemount
+name_no_size: 2X10 20 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X10 20 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount
+oomp_word: dizzy umbrella chicken
+oomp_word_emoji: ':dizzy: :umbrella: :chicken:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':umbrella:'
+- ':chicken:'
+oomp_word_list:
+- dizzy
+- umbrella
+- chicken
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

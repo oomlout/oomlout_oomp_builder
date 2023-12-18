@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_04_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_14_ex_ninety_degree
+id: oobb_part_plate_04_01_14_ex_ninety_degree
+id_no_class: part_plate_04_01_14_ex_ninety_degree
+id_no_color: 040114exninetydegree
+id_no_size: 04_01_14_ex_ninety_degree
+id_no_type: plate_04_01_14_ex_ninety_degree
+manufacturer: ''
+md5: b32927904db19737f629928ed61bec3d
+md5_10: b32927904d
+md5_10_upper: B32927904D
+md5_5: b3292
+md5_5_upper: B3292
+md5_6: b32927
+md5_6_alpha: 6zns7
+md5_6_alpha_upper: 6ZNS7
+md5_6_upper: B32927
+name: Oobb Part Plate 04 01 14 Ex Ninety Degree
+name_no_class: Part Plate 04 01 14 Ex Ninety Degree
+name_no_color: 040114Exninetydegree
+name_no_size: 04 01 14 Ex Ninety Degree
+name_no_type: Plate 04 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_04_01_14_ex_ninety_degree
+oomp_word: eyeglasses sunny nose
+oomp_word_emoji: ':eyeglasses: :sunny: :nose:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':sunny:'
+- ':nose:'
+oomp_word_list:
+- eyeglasses
+- sunny
+- nose
+part_number: ''
+size: plate
+type: part

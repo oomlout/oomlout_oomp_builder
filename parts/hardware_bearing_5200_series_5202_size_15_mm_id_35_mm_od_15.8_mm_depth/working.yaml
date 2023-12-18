@@ -1,0 +1,40 @@
+classification: hardware
+color: 5202_size
+description_extra: ''
+description_main: 15_mm_id_35_mm_od_15.8_mm_depth
+directory: parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+id: hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+id_no_class: bearing_5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+id_no_color: 15_mm_id_35_mm_od_15.8_mm_depth
+id_no_size: 5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+id_no_type: 5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+manufacturer: ''
+md5: 35bb96a42060b77b32929990fb4d1978
+md5_10: 35bb96a420
+md5_10_upper: 35BB96A420
+md5_5: 35bb9
+md5_5_upper: 35BB9
+md5_6: 35bb96
+md5_6_alpha: 23h5i
+md5_6_alpha_upper: 23H5I
+md5_6_upper: 35BB96
+name: Hardware Bearing 5200 Series 5202 Size 15 Mm Id 35 Mm Od 15.8 Mm Depth
+name_no_class: Bearing 5200 Series 5202 Size 15 Mm Id 35 Mm Od 15.8 Mm Depth
+name_no_color: 15 Mm Id 35 Mm Od 15.8 Mm Depth
+name_no_size: 5202 Size 15 Mm Id 35 Mm Od 15.8 Mm Depth
+name_no_type: 5200 Series 5202 Size 15 Mm Id 35 Mm Od 15.8 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15.8_mm_depth
+oomp_word: hamster curry basketball
+oomp_word_emoji: ':hamster: :curry: :basketball:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':curry:'
+- ':basketball:'
+oomp_word_list:
+- hamster
+- curry
+- basketball
+part_number: ''
+size: 5200_series
+type: bearing

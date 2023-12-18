@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_01_09'
+directory: parts/oobb_part_plate_21_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_01_09
+id: oobb_part_plate_21_01_09
+id_no_class: part_plate_21_01_09
+id_no_color: '210109'
+id_no_size: '21_01_09'
+id_no_type: plate_21_01_09
+manufacturer: ''
+md5: 3078b860571cde8dea6bc4ed76bff04f
+md5_10: 3078b86057
+md5_10_upper: 3078B86057
+md5_5: 3078b
+md5_5_upper: 3078B
+md5_6: 3078b8
+md5_6_alpha: 1w33s
+md5_6_alpha_upper: 1W33S
+md5_6_upper: 3078B8
+name: Oobb Part Plate 21 01 09
+name_no_class: Part Plate 21 01 09
+name_no_color: '210109'
+name_no_size: 21 01 09
+name_no_type: Plate 21 01 09
+oomp_key: oomp_oobb_part_plate_21_01_09
+oomp_word: foggy bell hamburger
+oomp_word_emoji: ':foggy: :bell: :hamburger:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':bell:'
+- ':hamburger:'
+oomp_word_list:
+- foggy
+- bell
+- hamburger
+part_number: ''
+size: plate
+type: part

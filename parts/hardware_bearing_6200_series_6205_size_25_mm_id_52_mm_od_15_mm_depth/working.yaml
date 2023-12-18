@@ -1,0 +1,40 @@
+classification: hardware
+color: 6205_size
+description_extra: ''
+description_main: 25_mm_id_52_mm_od_15_mm_depth
+directory: parts/hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+id: hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+id_no_class: bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+id_no_color: 25_mm_id_52_mm_od_15_mm_depth
+id_no_size: 6205_size_25_mm_id_52_mm_od_15_mm_depth
+id_no_type: 6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+manufacturer: ''
+md5: d874c1a3d322e23c654473a03b3a848e
+md5_10: d874c1a3d3
+md5_10_upper: D874C1A3D3
+md5_5: d874c
+md5_5_upper: D874C
+md5_6: d874c1
+md5_6_alpha: 8g1q9
+md5_6_alpha_upper: 8G1Q9
+md5_6_upper: D874C1
+name: Hardware Bearing 6200 Series 6205 Size 25 Mm Id 52 Mm Od 15 Mm Depth
+name_no_class: Bearing 6200 Series 6205 Size 25 Mm Id 52 Mm Od 15 Mm Depth
+name_no_color: 25 Mm Id 52 Mm Od 15 Mm Depth
+name_no_size: 6205 Size 25 Mm Id 52 Mm Od 15 Mm Depth
+name_no_type: 6200 Series 6205 Size 25 Mm Id 52 Mm Od 15 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+oomp_word: hospital fireworks doughnut
+oomp_word_emoji: ':hospital: :fireworks: :doughnut:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':fireworks:'
+- ':doughnut:'
+oomp_word_list:
+- hospital
+- fireworks
+- doughnut
+part_number: ''
+size: 6200_series
+type: bearing

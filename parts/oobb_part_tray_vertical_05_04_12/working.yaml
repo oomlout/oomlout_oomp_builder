@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_04_12'
+directory: parts/oobb_part_tray_vertical_05_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_12
+id: oobb_part_tray_vertical_05_04_12
+id_no_class: part_tray_vertical_05_04_12
+id_no_color: '050412'
+id_no_size: '05_04_12'
+id_no_type: tray_vertical_05_04_12
+manufacturer: ''
+md5: 23d2463099e4e6947bc61d66fad59a0c
+md5_10: 23d2463099
+md5_10_upper: 23D2463099
+md5_5: 23d24
+md5_5_upper: 23D24
+md5_6: 23d246
+md5_6_alpha: 1ebeu
+md5_6_alpha_upper: 1EBEU
+md5_6_upper: 23D246
+name: Oobb Part Tray Vertical 05 04 12
+name_no_class: Part Tray Vertical 05 04 12
+name_no_color: '050412'
+name_no_size: 05 04 12
+name_no_type: Tray Vertical 05 04 12
+oomp_key: oomp_oobb_part_tray_vertical_05_04_12
+oomp_word: kiss pineapple bird
+oomp_word_emoji: ':kiss: :pineapple: :bird:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':pineapple:'
+- ':bird:'
+oomp_word_list:
+- kiss
+- pineapple
+- bird
+part_number: ''
+size: tray_vertical
+type: part

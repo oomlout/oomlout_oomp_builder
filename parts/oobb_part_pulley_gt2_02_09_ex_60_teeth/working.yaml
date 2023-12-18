@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_60_teeth
+directory: parts/oobb_part_pulley_gt2_02_09_ex_60_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_60_teeth
+id: oobb_part_pulley_gt2_02_09_ex_60_teeth
+id_no_class: part_pulley_gt2_02_09_ex_60_teeth
+id_no_color: 0209ex60teeth
+id_no_size: 02_09_ex_60_teeth
+id_no_type: pulley_gt2_02_09_ex_60_teeth
+manufacturer: ''
+md5: a684d3f3d6fbb9905328af6244c05c4a
+md5_10: a684d3f3d6
+md5_10_upper: A684D3F3D6
+md5_5: a684d
+md5_5_upper: A684D
+md5_6: a684d3
+md5_6_alpha: 6hwib
+md5_6_alpha_upper: 6HWIB
+md5_6_upper: A684D3
+name: Oobb Part Pulley Gt2 02 09 Ex 60 Teeth
+name_no_class: Part Pulley Gt2 02 09 Ex 60 Teeth
+name_no_color: 0209Ex60Teeth
+name_no_size: 02 09 Ex 60 Teeth
+name_no_type: Pulley Gt2 02 09 Ex 60 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_60_teeth
+oomp_word: trumpet key tomato
+oomp_word_emoji: ':trumpet: :key: :tomato:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':key:'
+- ':tomato:'
+oomp_word_list:
+- trumpet
+- key
+- tomato
+part_number: ''
+size: pulley_gt2
+type: part

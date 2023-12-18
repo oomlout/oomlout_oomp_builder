@@ -1,0 +1,40 @@
+classification: electronic
+color: basic
+description_extra: through_hole_right_angle
+description_main: single
+directory: parts/electronic_header_oobb_basic_single_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_single_through_hole_right_angle
+id: electronic_header_oobb_basic_single_through_hole_right_angle
+id_no_class: header_oobb_basic_single_through_hole_right_angle
+id_no_color: single_through_hole_right_angle
+id_no_size: basic_single_through_hole_right_angle
+id_no_type: oobb_basic_single_through_hole_right_angle
+manufacturer: ''
+md5: 982253cc68c740f5ac55e3cd24f3ef6e
+md5_10: 982253cc68
+md5_10_upper: 982253CC68
+md5_5: '98225'
+md5_5_upper: '98225'
+md5_6: '982253'
+md5_6_alpha: 5xp3n
+md5_6_alpha_upper: 5XP3N
+md5_6_upper: '982253'
+name: Electronic Header Oobb Basic Single Through Hole Right Angle
+name_no_class: Header Oobb Basic Single Through Hole Right Angle
+name_no_color: Single Through Hole Right Angle
+name_no_size: Basic Single Through Hole Right Angle
+name_no_type: Oobb Basic Single Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_basic_single_through_hole_right_angle
+oomp_word: tennis lips fish
+oomp_word_emoji: ':tennis: :lips: :fish:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':lips:'
+- ':fish:'
+oomp_word_list:
+- tennis
+- lips
+- fish
+part_number: ''
+size: oobb
+type: header

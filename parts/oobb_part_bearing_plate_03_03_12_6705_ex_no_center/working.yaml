@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_12_6705_ex_no_center
+directory: parts/oobb_part_bearing_plate_03_03_12_6705_ex_no_center
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6705_ex_no_center
+id: oobb_part_bearing_plate_03_03_12_6705_ex_no_center
+id_no_class: part_bearing_plate_03_03_12_6705_ex_no_center
+id_no_color: 0303126705exnocenter
+id_no_size: 03_03_12_6705_ex_no_center
+id_no_type: bearing_plate_03_03_12_6705_ex_no_center
+manufacturer: ''
+md5: 5285aee644c8db3d8b57ba64786a5abc
+md5_10: 5285aee644
+md5_10_upper: 5285AEE644
+md5_5: 5285a
+md5_5_upper: 5285A
+md5_6: 5285ae
+md5_6_alpha: 37wz2
+md5_6_alpha_upper: 37WZ2
+md5_6_upper: 5285AE
+name: Oobb Part Bearing Plate 03 03 12 6705 Ex No Center
+name_no_class: Part Bearing Plate 03 03 12 6705 Ex No Center
+name_no_color: 0303126705Exnocenter
+name_no_size: 03 03 12 6705 Ex No Center
+name_no_type: Bearing Plate 03 03 12 6705 Ex No Center
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6705_ex_no_center
+oomp_word: octopus bulb jeans
+oomp_word_emoji: ':octopus: :bulb: :jeans:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':bulb:'
+- ':jeans:'
+oomp_word_list:
+- octopus
+- bulb
+- jeans
+part_number: ''
+size: bearing_plate
+type: part

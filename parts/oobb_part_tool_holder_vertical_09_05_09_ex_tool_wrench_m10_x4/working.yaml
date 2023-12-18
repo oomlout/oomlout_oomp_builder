@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_09_ex_tool_wrench_m10_x4
+directory: parts/oobb_part_tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+id: oobb_part_tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+id_no_class: part_tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+id_no_color: 090509extoolwrenchm10x4
+id_no_size: 09_05_09_ex_tool_wrench_m10_x4
+id_no_type: tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+manufacturer: ''
+md5: e5cbf067169aee242f39fa0b0bec186d
+md5_10: e5cbf06716
+md5_10_upper: E5CBF06716
+md5_5: e5cbf
+md5_5_upper: E5CBF
+md5_6: e5cbf0
+md5_6_alpha: 8ysc0
+md5_6_alpha_upper: 8YSC0
+md5_6_upper: E5CBF0
+name: Oobb Part Tool Holder Vertical 09 05 09 Ex Tool Wrench M10 X4
+name_no_class: Part Tool Holder Vertical 09 05 09 Ex Tool Wrench M10 X4
+name_no_color: 090509Extoolwrenchm10X4
+name_no_size: 09 05 09 Ex Tool Wrench M10 X4
+name_no_type: Tool Holder Vertical 09 05 09 Ex Tool Wrench M10 X4
+oomp_key: oomp_oobb_part_tool_holder_vertical_09_05_09_ex_tool_wrench_m10_x4
+oomp_word: rocket grapes train
+oomp_word_emoji: ':rocket: :grapes: :train:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':grapes:'
+- ':train:'
+oomp_word_list:
+- rocket
+- grapes
+- train
+part_number: ''
+size: tool_holder_vertical
+type: part

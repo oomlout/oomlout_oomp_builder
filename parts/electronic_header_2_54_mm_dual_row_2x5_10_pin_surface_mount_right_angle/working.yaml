@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x5_10_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+id_no_color: 2x510pinsurfacemountrightangle
+id_no_size: 2x5_10_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+manufacturer: ''
+md5: bfd9ecd817cc7704d5410efba3355d82
+md5_10: bfd9ecd817
+md5_10_upper: BFD9ECD817
+md5_5: bfd9e
+md5_5_upper: BFD9E
+md5_6: bfd9ec
+md5_6_alpha: 7hhik
+md5_6_alpha_upper: 7HHIK
+md5_6_upper: BFD9EC
+name: Electronic Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount Right Angle
+name_no_color: 2X510Pinsurfacemountrightangle
+name_no_size: 2X5 10 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X5 10 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
+oomp_word: egg bank taxi
+oomp_word_emoji: ':egg: :bank: :taxi:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':bank:'
+- ':taxi:'
+oomp_word_list:
+- egg
+- bank
+- taxi
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

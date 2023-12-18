@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 11_pin
+directory: parts/electronic_socket_2_54_mm_11_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_11_pin_through_hole
+id: electronic_socket_2_54_mm_11_pin_through_hole
+id_no_class: socket_2_54_mm_11_pin_through_hole
+id_no_color: 11pinthroughhole
+id_no_size: 11_pin_through_hole
+id_no_type: 2_54_mm_11_pin_through_hole
+manufacturer: ''
+md5: 54fe8ee539b014b9b6ac2eeddff7dc1b
+md5_10: 54fe8ee539
+md5_10_upper: 54FE8EE539
+md5_5: 54fe8
+md5_5_upper: 54FE8
+md5_6: 54fe8e
+md5_6_alpha: 3bdzi
+md5_6_alpha_upper: 3BDZI
+md5_6_upper: 54FE8E
+name: Electronic Socket 2 54 Mm 11 Pin Through Hole
+name_no_class: Socket 2 54 Mm 11 Pin Through Hole
+name_no_color: 11Pinthroughhole
+name_no_size: 11 Pin Through Hole
+name_no_type: 2 54 Mm 11 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_11_pin_through_hole
+oomp_word: whale recycle clipboard
+oomp_word_emoji: ':whale: :recycle: :clipboard:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':recycle:'
+- ':clipboard:'
+oomp_word_list:
+- whale
+- recycle
+- clipboard
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_09
+directory: parts/oobb_part_tray_03_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_06_09
+id: oobb_part_tray_03_06_09
+id_no_class: part_tray_03_06_09
+id_no_color: 030609
+id_no_size: 03_06_09
+id_no_type: tray_03_06_09
+manufacturer: ''
+md5: baeaf50b9c660162ad8af0b75f410959
+md5_10: baeaf50b9c
+md5_10_upper: BAEAF50B9C
+md5_5: baeaf
+md5_5_upper: BAEAF
+md5_6: baeaf5
+md5_6_alpha: 7ak1h
+md5_6_alpha_upper: 7AK1H
+md5_6_upper: BAEAF5
+name: Oobb Part Tray 03 06 09
+name_no_class: Part Tray 03 06 09
+name_no_color: 030609
+name_no_size: 03 06 09
+name_no_type: Tray 03 06 09
+oomp_key: oomp_oobb_part_tray_03_06_09
+oomp_word: spaghetti tractor four
+oomp_word_emoji: ':spaghetti: :tractor: :four:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':tractor:'
+- ':four:'
+oomp_word_list:
+- spaghetti
+- tractor
+- four
+part_number: ''
+size: tray
+type: part

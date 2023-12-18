@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_03_18
+directory: parts/oobb_part_tray_vertical_2d5_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_03_18
+id: oobb_part_tray_vertical_2d5_03_18
+id_no_class: part_tray_vertical_2d5_03_18
+id_no_color: 2d50318
+id_no_size: 2d5_03_18
+id_no_type: tray_vertical_2d5_03_18
+manufacturer: ''
+md5: 4234ca9dff67b582581aa1a31110593f
+md5_10: 4234ca9dff
+md5_10_upper: 4234CA9DFF
+md5_5: 4234c
+md5_5_upper: 4234C
+md5_6: 4234ca
+md5_6_alpha: 2kzwq
+md5_6_alpha_upper: 2KZWQ
+md5_6_upper: 4234CA
+name: Oobb Part Tray Vertical 2D5 03 18
+name_no_class: Part Tray Vertical 2D5 03 18
+name_no_color: 2D50318
+name_no_size: 2D5 03 18
+name_no_type: Tray Vertical 2D5 03 18
+oomp_key: oomp_oobb_part_tray_vertical_2d5_03_18
+oomp_word: sheep mouse cherries
+oomp_word_emoji: ':sheep: :mouse: :cherries:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':mouse:'
+- ':cherries:'
+oomp_word_list:
+- sheep
+- mouse
+- cherries
+part_number: ''
+size: tray_vertical
+type: part

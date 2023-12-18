@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_08_09
+directory: parts/oobb_part_tray_04_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_08_09
+id: oobb_part_tray_04_08_09
+id_no_class: part_tray_04_08_09
+id_no_color: 040809
+id_no_size: 04_08_09
+id_no_type: tray_04_08_09
+manufacturer: ''
+md5: 339b1e0f516a6f26ec677dcb6b012051
+md5_10: 339b1e0f51
+md5_10_upper: 339B1E0F51
+md5_5: 339b1
+md5_5_upper: 339B1
+md5_6: 339b1e
+md5_6_alpha: 20hlq
+md5_6_alpha_upper: 20HLQ
+md5_6_upper: 339B1E
+name: Oobb Part Tray 04 08 09
+name_no_class: Part Tray 04 08 09
+name_no_color: 040809
+name_no_size: 04 08 09
+name_no_type: Tray 04 08 09
+oomp_key: oomp_oobb_part_tray_04_08_09
+oomp_word: dog ski angel
+oomp_word_emoji: ':dog: :ski: :angel:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':ski:'
+- ':angel:'
+oomp_word_list:
+- dog
+- ski
+- angel
+part_number: ''
+size: tray
+type: part

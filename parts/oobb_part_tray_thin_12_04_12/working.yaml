@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_12'
+directory: parts/oobb_part_tray_thin_12_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_04_12
+id: oobb_part_tray_thin_12_04_12
+id_no_class: part_tray_thin_12_04_12
+id_no_color: '120412'
+id_no_size: '12_04_12'
+id_no_type: tray_thin_12_04_12
+manufacturer: ''
+md5: 4a7b66c747a34782b1ba8bbdebefe80a
+md5_10: 4a7b66c747
+md5_10_upper: 4A7B66C747
+md5_5: 4a7b6
+md5_5_upper: 4A7B6
+md5_6: 4a7b66
+md5_6_alpha: 2wmee
+md5_6_alpha_upper: 2WMEE
+md5_6_upper: 4A7B66
+name: Oobb Part Tray Thin 12 04 12
+name_no_class: Part Tray Thin 12 04 12
+name_no_color: '120412'
+name_no_size: 12 04 12
+name_no_type: Tray Thin 12 04 12
+oomp_key: oomp_oobb_part_tray_thin_12_04_12
+oomp_word: chicken computer leaves
+oomp_word_emoji: ':chicken: :computer: :leaves:'
+oomp_word_emoji_list:
+- ':chicken:'
+- ':computer:'
+- ':leaves:'
+oomp_word_list:
+- chicken
+- computer
+- leaves
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_13_03'
+directory: parts/oobb_part_plate_13_13_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_13_03
+id: oobb_part_plate_13_13_03
+id_no_class: part_plate_13_13_03
+id_no_color: '131303'
+id_no_size: '13_13_03'
+id_no_type: plate_13_13_03
+manufacturer: ''
+md5: ff4d15200d0015f0861921dd7465d4d1
+md5_10: ff4d15200d
+md5_10_upper: FF4D15200D
+md5_5: ff4d1
+md5_5_upper: FF4D1
+md5_6: ff4d15
+md5_6_alpha: 9ym1h
+md5_6_alpha_upper: 9YM1H
+md5_6_upper: FF4D15
+name: Oobb Part Plate 13 13 03
+name_no_class: Part Plate 13 13 03
+name_no_color: '131303'
+name_no_size: 13 13 03
+name_no_type: Plate 13 13 03
+oomp_key: oomp_oobb_part_plate_13_13_03
+oomp_word: trident bug poop
+oomp_word_emoji: ':trident: :bug: :poop:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':bug:'
+- ':poop:'
+oomp_word_list:
+- trident
+- bug
+- poop
+part_number: ''
+size: plate
+type: part

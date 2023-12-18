@@ -1,0 +1,40 @@
+classification: hardware
+color: 6319_size
+description_extra: ''
+description_main: 95_mm_id_200_mm_od_45_mm_depth
+directory: parts/hardware_bearing_6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+id: hardware_bearing_6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+id_no_class: bearing_6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+id_no_color: 95_mm_id_200_mm_od_45_mm_depth
+id_no_size: 6319_size_95_mm_id_200_mm_od_45_mm_depth
+id_no_type: 6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+manufacturer: ''
+md5: 0159047fb0b8b8a780e88b5a82ef2d4a
+md5_10: 0159047fb0
+md5_10_upper: 0159047FB0
+md5_5: 01590
+md5_5_upper: 01590
+md5_6: 015904
+md5_6_alpha: 1w5g
+md5_6_alpha_upper: 1W5G
+md5_6_upper: 015904
+name: Hardware Bearing 6300 Series 6319 Size 95 Mm Id 200 Mm Od 45 Mm Depth
+name_no_class: Bearing 6300 Series 6319 Size 95 Mm Id 200 Mm Od 45 Mm Depth
+name_no_color: 95 Mm Id 200 Mm Od 45 Mm Depth
+name_no_size: 6319 Size 95 Mm Id 200 Mm Od 45 Mm Depth
+name_no_type: 6300 Series 6319 Size 95 Mm Id 200 Mm Od 45 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6319_size_95_mm_id_200_mm_od_45_mm_depth
+oomp_word: smile dragon wink
+oomp_word_emoji: ':smile: :dragon: :wink:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':dragon:'
+- ':wink:'
+oomp_word_list:
+- smile
+- dragon
+- wink
+part_number: ''
+size: 6300_series
+type: bearing

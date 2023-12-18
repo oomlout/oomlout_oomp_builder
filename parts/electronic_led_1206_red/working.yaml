@@ -1,0 +1,40 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red
+id: electronic_led_1206_red
+id_no_class: led_1206_red
+id_no_color: red
+id_no_size: red
+id_no_type: 1206_red
+manufacturer: ''
+md5: b55edc6836edaa74c7f0496d6e407293
+md5_10: b55edc6836
+md5_10_upper: B55EDC6836
+md5_5: b55ed
+md5_5_upper: B55ED
+md5_6: b55edc
+md5_6_alpha: 72rj0
+md5_6_alpha_upper: 72RJ0
+md5_6_upper: B55EDC
+name: Electronic Led 1206 Red
+name_no_class: Led 1206 Red
+name_no_color: Red
+name_no_size: Red
+name_no_type: 1206 Red
+oomp_key: oomp_electronic_led_1206_red
+oomp_word: tea crocodile factory
+oomp_word_emoji: ':tea: :crocodile: :factory:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':crocodile:'
+- ':factory:'
+oomp_word_list:
+- tea
+- crocodile
+- factory
+part_number: ''
+size: '1206'
+type: led

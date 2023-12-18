@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_15'
+directory: parts/oobb_part_tray_thin_12_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_12_15
+id: oobb_part_tray_thin_12_12_15
+id_no_class: part_tray_thin_12_12_15
+id_no_color: '121215'
+id_no_size: '12_12_15'
+id_no_type: tray_thin_12_12_15
+manufacturer: ''
+md5: a36aa806d763fdb7e24a7a8d24aaf27d
+md5_10: a36aa806d7
+md5_10_upper: A36AA806D7
+md5_5: a36aa
+md5_5_upper: A36AA
+md5_6: a36aa8
+md5_6_alpha: 6djmw
+md5_6_alpha_upper: 6DJMW
+md5_6_upper: A36AA8
+name: Oobb Part Tray Thin 12 12 15
+name_no_class: Part Tray Thin 12 12 15
+name_no_color: '121215'
+name_no_size: 12 12 15
+name_no_type: Tray Thin 12 12 15
+oomp_key: oomp_oobb_part_tray_thin_12_12_15
+oomp_word: pencil palm_tree shoe
+oomp_word_emoji: ':pencil: :palm_tree: :shoe:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':palm_tree:'
+- ':shoe:'
+oomp_word_list:
+- pencil
+- palm_tree
+- shoe
+part_number: ''
+size: tray_thin
+type: part

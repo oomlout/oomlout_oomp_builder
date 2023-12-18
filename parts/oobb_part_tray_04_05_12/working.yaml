@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_05_12'
+directory: parts/oobb_part_tray_04_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_05_12
+id: oobb_part_tray_04_05_12
+id_no_class: part_tray_04_05_12
+id_no_color: '040512'
+id_no_size: '04_05_12'
+id_no_type: tray_04_05_12
+manufacturer: ''
+md5: 4882a10813386cbdd9addc8149a74f5c
+md5_10: 4882a10813
+md5_10_upper: 4882A10813
+md5_5: 4882a
+md5_5_upper: 4882A
+md5_6: 4882a1
+md5_6_alpha: 2tuox
+md5_6_alpha_upper: 2TUOX
+md5_6_upper: 4882A1
+name: Oobb Part Tray 04 05 12
+name_no_class: Part Tray 04 05 12
+name_no_color: '040512'
+name_no_size: 04 05 12
+name_no_type: Tray 04 05 12
+oomp_key: oomp_oobb_part_tray_04_05_12
+oomp_word: hatched_chick radio trophy
+oomp_word_emoji: ':hatched_chick: :radio: :trophy:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':radio:'
+- ':trophy:'
+oomp_word_list:
+- hatched_chick
+- radio
+- trophy
+part_number: ''
+size: tray
+type: part

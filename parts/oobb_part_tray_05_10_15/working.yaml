@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_10_15'
+directory: parts/oobb_part_tray_05_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_10_15
+id: oobb_part_tray_05_10_15
+id_no_class: part_tray_05_10_15
+id_no_color: '051015'
+id_no_size: '05_10_15'
+id_no_type: tray_05_10_15
+manufacturer: ''
+md5: 9bc0284c78f0cf2362637e75e3ef03db
+md5_10: 9bc0284c78
+md5_10_upper: 9BC0284C78
+md5_5: 9bc02
+md5_5_upper: 9BC02
+md5_6: 9bc028
+md5_6_alpha: 62rzc
+md5_6_alpha_upper: 62RZC
+md5_6_upper: 9BC028
+name: Oobb Part Tray 05 10 15
+name_no_class: Part Tray 05 10 15
+name_no_color: '051015'
+name_no_size: 05 10 15
+name_no_type: Tray 05 10 15
+oomp_key: oomp_oobb_part_tray_05_10_15
+oomp_word: ski bread tongue
+oomp_word_emoji: ':ski: :bread: :tongue:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':bread:'
+- ':tongue:'
+oomp_word_list:
+- ski
+- bread
+- tongue
+part_number: ''
+size: tray
+type: part

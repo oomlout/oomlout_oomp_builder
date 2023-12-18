@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+directory: parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id: oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_class: part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_color: 050303rhm2d5mo56nmaliexpressi2cservodriverpca9685
+id_no_size: 05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+id_no_type: mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+manufacturer: ''
+md5: 31a9c2c006bbd6194ca07ccb203388eb
+md5_10: 31a9c2c006
+md5_10_upper: 31A9C2C006
+md5_5: 31a9c
+md5_5_upper: 31A9C
+md5_6: 31a9c2
+md5_6_alpha: 1xrcy
+md5_6_alpha_upper: 1XRCY
+md5_6_upper: 31A9C2
+name: Oobb Part Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo
+  Driver Pca9685
+name_no_class: Part Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo
+  Driver Pca9685
+name_no_color: 050303Rhm2D5Mo56Nmaliexpressi2Cservodriverpca9685
+name_no_size: 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
+name_no_type: Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver
+  Pca9685
+oomp_key: oomp_oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+oomp_word: ocean sandal birthday
+oomp_word_emoji: ':ocean: :sandal: :birthday:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':sandal:'
+- ':birthday:'
+oomp_word_list:
+- ocean
+- sandal
+- birthday
+part_number: ''
+size: mounting_plate_top
+type: part

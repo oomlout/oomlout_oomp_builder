@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+directory: parts/oobb_part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+id: oobb_part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+id_no_class: part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+id_no_color: 040303rhm2mo47nmraspberrypipico
+id_no_size: 04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+id_no_type: mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+manufacturer: ''
+md5: d8802d72d20cb0e142a91d49bd2b1abd
+md5_10: d8802d72d2
+md5_10_upper: D8802D72D2
+md5_5: d8802
+md5_5_upper: D8802
+md5_6: d8802d
+md5_6_alpha: 8g3zh
+md5_6_alpha_upper: 8G3ZH
+md5_6_upper: D8802D
+name: Oobb Part Mounting Plate Top 04 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+name_no_class: Part Mounting Plate Top 04 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+name_no_color: 040303Rhm2Mo47Nmraspberrypipico
+name_no_size: 04 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+name_no_type: Mounting Plate Top 04 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+oomp_key: oomp_oobb_part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
+oomp_word: hospital hourglass snowman
+oomp_word_emoji: ':hospital: :hourglass: :snowman:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':hourglass:'
+- ':snowman:'
+oomp_word_list:
+- hospital
+- hourglass
+- snowman
+part_number: ''
+size: mounting_plate_top
+type: part

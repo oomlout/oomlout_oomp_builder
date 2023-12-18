@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_08_15'
+directory: parts/oobb_part_tray_thin_12_08_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_08_15
+id: oobb_part_tray_thin_12_08_15
+id_no_class: part_tray_thin_12_08_15
+id_no_color: '120815'
+id_no_size: '12_08_15'
+id_no_type: tray_thin_12_08_15
+manufacturer: ''
+md5: 019fec44427369ed2e939588cbb8c044
+md5_10: 019fec4442
+md5_10_upper: 019FEC4442
+md5_5: 019fe
+md5_5_upper: 019FE
+md5_6: 019fec
+md5_6_alpha: 2a5o
+md5_6_alpha_upper: 2A5O
+md5_6_upper: 019FEC
+name: Oobb Part Tray Thin 12 08 15
+name_no_class: Part Tray Thin 12 08 15
+name_no_color: '120815'
+name_no_size: 12 08 15
+name_no_type: Tray Thin 12 08 15
+oomp_key: oomp_oobb_part_tray_thin_12_08_15
+oomp_word: smile diamonds taxi
+oomp_word_emoji: ':smile: :diamonds: :taxi:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':diamonds:'
+- ':taxi:'
+oomp_word_list:
+- smile
+- diamonds
+- taxi
+part_number: ''
+size: tray_thin
+type: part

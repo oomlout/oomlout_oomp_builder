@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 35_pin
+directory: parts/electronic_header_2_54_mm_35_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount
+id: electronic_header_2_54_mm_35_pin_surface_mount
+id_no_class: header_2_54_mm_35_pin_surface_mount
+id_no_color: 35pinsurfacemount
+id_no_size: 35_pin_surface_mount
+id_no_type: 2_54_mm_35_pin_surface_mount
+manufacturer: ''
+md5: c4c6a36cc61ac40912323b923cf47c80
+md5_10: c4c6a36cc6
+md5_10_upper: C4C6A36CC6
+md5_5: c4c6a
+md5_5_upper: C4C6A
+md5_6: c4c6a3
+md5_6_alpha: 7oejn
+md5_6_alpha_upper: 7OEJN
+md5_6_upper: C4C6A3
+name: Electronic Header 2 54 Mm 35 Pin Surface Mount
+name_no_class: Header 2 54 Mm 35 Pin Surface Mount
+name_no_color: 35Pinsurfacemount
+name_no_size: 35 Pin Surface Mount
+name_no_type: 2 54 Mm 35 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_35_pin_surface_mount
+oomp_word: cookie lollipop pencil
+oomp_word_emoji: ':cookie: :lollipop: :pencil:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':lollipop:'
+- ':pencil:'
+oomp_word_list:
+- cookie
+- lollipop
+- pencil
+part_number: ''
+size: 2_54_mm
+type: header

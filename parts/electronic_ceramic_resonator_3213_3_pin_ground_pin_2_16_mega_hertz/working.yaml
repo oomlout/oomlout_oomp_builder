@@ -1,0 +1,40 @@
+classification: electronic
+color: 3_pin_ground_pin_2
+description_extra: ''
+description_main: 16_mega_hertz
+directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+id_no_class: ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+id_no_color: 16_mega_hertz
+id_no_size: 3_pin_ground_pin_2_16_mega_hertz
+id_no_type: 3213_3_pin_ground_pin_2_16_mega_hertz
+manufacturer: ''
+md5: ebaebba3b264fd4a342d970d6a4f461e
+md5_10: ebaebba3b2
+md5_10_upper: EBAEBBA3B2
+md5_5: ebaeb
+md5_5_upper: EBAEB
+md5_6: ebaebb
+md5_6_alpha: 971yz
+md5_6_alpha_upper: 971YZ
+md5_6_upper: EBAEBB
+name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz
+name_no_class: Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz
+name_no_color: 16 Mega Hertz
+name_no_size: 3 Pin Ground Pin 2 16 Mega Hertz
+name_no_type: 3213 3 Pin Ground Pin 2 16 Mega Hertz
+oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz
+oomp_word: car jeans curry
+oomp_word_emoji: ':car: :jeans: :curry:'
+oomp_word_emoji_list:
+- ':car:'
+- ':jeans:'
+- ':curry:'
+oomp_word_list:
+- car
+- jeans
+- curry
+part_number: ''
+size: '3213'
+type: ceramic_resonator

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150000_ohm
+directory: parts/electronic_resistor_0805_150000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_150000_ohm
+id: electronic_resistor_0805_150000_ohm
+id_no_class: resistor_0805_150000_ohm
+id_no_color: 150000ohm
+id_no_size: 150000_ohm
+id_no_type: 0805_150000_ohm
+manufacturer: ''
+md5: 6f8a1c045e2a609eea9eba1dfa2d2723
+md5_10: 6f8a1c045e
+md5_10_upper: 6F8A1C045E
+md5_5: 6f8a1
+md5_5_upper: 6F8A1
+md5_6: 6f8a1c
+md5_6_alpha: 4cobg
+md5_6_alpha_upper: 4COBG
+md5_6_upper: 6F8A1C
+name: Electronic Resistor 0805 150000 Ohm
+name_no_class: Resistor 0805 150000 Ohm
+name_no_color: 150000Ohm
+name_no_size: 150000 Ohm
+name_no_type: 0805 150000 Ohm
+oomp_key: oomp_electronic_resistor_0805_150000_ohm
+oomp_word: moon envelope dancer
+oomp_word_emoji: ':moon: :envelope: :dancer:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':envelope:'
+- ':dancer:'
+oomp_word_list:
+- moon
+- envelope
+- dancer
+part_number: ''
+size: 0805
+type: resistor

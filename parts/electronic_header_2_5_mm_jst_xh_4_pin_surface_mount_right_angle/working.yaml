@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+id_no_color: 4pinsurfacemountrightangle
+id_no_size: 4_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 0ec26295fd73e3b163d783600c7df353
+md5_10: 0ec26295fd
+md5_10_upper: 0EC26295FD
+md5_5: 0ec26
+md5_5_upper: 0EC26
+md5_6: 0ec262
+md5_6_alpha: kqci
+md5_6_alpha_upper: KQCI
+md5_6_upper: 0EC262
+name: Electronic Header 2 5 Mm Jst Xh 4 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 4 Pin Surface Mount Right Angle
+name_no_color: 4Pinsurfacemountrightangle
+name_no_size: 4 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 4 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_4_pin_surface_mount_right_angle
+oomp_word: cupid birthday tulip
+oomp_word_emoji: ':cupid: :birthday: :tulip:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':birthday:'
+- ':tulip:'
+oomp_word_list:
+- cupid
+- birthday
+- tulip
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

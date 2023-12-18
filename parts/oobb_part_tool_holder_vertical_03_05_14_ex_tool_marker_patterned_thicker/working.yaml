@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_14_ex_tool_marker_patterned_thicker
+directory: parts/oobb_part_tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+id: oobb_part_tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+id_no_class: part_tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+id_no_color: 030514extoolmarkerpatternedthicker
+id_no_size: 03_05_14_ex_tool_marker_patterned_thicker
+id_no_type: tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+manufacturer: ''
+md5: 04c3f804e3fc03385d0dd9da0662ee7b
+md5_10: 04c3f804e3
+md5_10_upper: 04C3F804E3
+md5_5: 04c3f
+md5_5_upper: 04C3F
+md5_6: 04c3f8
+md5_6_alpha: 6ozc
+md5_6_alpha_upper: 6OZC
+md5_6_upper: 04C3F8
+name: Oobb Part Tool Holder Vertical 03 05 14 Ex Tool Marker Patterned Thicker
+name_no_class: Part Tool Holder Vertical 03 05 14 Ex Tool Marker Patterned Thicker
+name_no_color: 030514Extoolmarkerpatternedthicker
+name_no_size: 03 05 14 Ex Tool Marker Patterned Thicker
+name_no_type: Tool Holder Vertical 03 05 14 Ex Tool Marker Patterned Thicker
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_14_ex_tool_marker_patterned_thicker
+oomp_word: wink cake seven
+oomp_word_emoji: ':wink: :cake: :seven:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':cake:'
+- ':seven:'
+oomp_word_list:
+- wink
+- cake
+- seven
+part_number: ''
+size: tool_holder_vertical
+type: part

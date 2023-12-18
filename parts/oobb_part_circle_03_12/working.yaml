@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_12'
+directory: parts/oobb_part_circle_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_03_12
+id: oobb_part_circle_03_12
+id_no_class: part_circle_03_12
+id_no_color: '0312'
+id_no_size: '03_12'
+id_no_type: circle_03_12
+manufacturer: ''
+md5: 4d09ff48d94f1b051baad3b7cee31f14
+md5_10: 4d09ff48d9
+md5_10_upper: 4D09FF48D9
+md5_5: 4d09f
+md5_5_upper: 4D09F
+md5_6: 4d09ff
+md5_6_alpha: 307pb
+md5_6_alpha_upper: 307PB
+md5_6_upper: 4D09FF
+name: Oobb Part Circle 03 12
+name_no_class: Part Circle 03 12
+name_no_color: '0312'
+name_no_size: 03 12
+name_no_type: Circle 03 12
+oomp_key: oomp_oobb_part_circle_03_12
+oomp_word: bug angry trident
+oomp_word_emoji: ':bug: :angry: :trident:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':angry:'
+- ':trident:'
+oomp_word_list:
+- bug
+- angry
+- trident
+part_number: ''
+size: circle
+type: part

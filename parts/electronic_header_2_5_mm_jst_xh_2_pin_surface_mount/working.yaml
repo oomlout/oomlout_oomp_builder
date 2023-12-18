@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+id: electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_2_pin_surface_mount
+id_no_color: 2pinsurfacemount
+id_no_size: 2_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_2_pin_surface_mount
+manufacturer: ''
+md5: 226e38ccc61cefd339d4c56c401e4e5c
+md5_10: 226e38ccc6
+md5_10_upper: 226E38CCC6
+md5_5: 226e3
+md5_5_upper: 226E3
+md5_6: 226e38
+md5_6_alpha: 1cd2w
+md5_6_alpha_upper: 1CD2W
+md5_6_upper: 226E38
+name: Electronic Header 2 5 Mm Jst Xh 2 Pin Surface Mount
+name_no_class: Header 2 5 Mm Jst Xh 2 Pin Surface Mount
+name_no_color: 2Pinsurfacemount
+name_no_size: 2 Pin Surface Mount
+name_no_type: 2 5 Mm Jst Xh 2 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_2_pin_surface_mount
+oomp_word: lips new_moon frog
+oomp_word_emoji: ':lips: :new_moon: :frog:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':new_moon:'
+- ':frog:'
+oomp_word_list:
+- lips
+- new_moon
+- frog
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6321_size
+description_extra: ''
+description_main: 105_mm_id_225_mm_od_49_mm_depth
+directory: parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+id: hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+id_no_class: bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+id_no_color: 105_mm_id_225_mm_od_49_mm_depth
+id_no_size: 6321_size_105_mm_id_225_mm_od_49_mm_depth
+id_no_type: 6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+manufacturer: ''
+md5: 558525470e60dc1c0579e7449a68e8e6
+md5_10: 558525470e
+md5_10_upper: 558525470E
+md5_5: '55852'
+md5_5_upper: '55852'
+md5_6: '558525'
+md5_6_alpha: 3c4kl
+md5_6_alpha_upper: 3C4KL
+md5_6_upper: '558525'
+name: Hardware Bearing 6300 Series 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth
+name_no_class: Bearing 6300 Series 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth
+name_no_color: 105 Mm Id 225 Mm Od 49 Mm Depth
+name_no_size: 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth
+name_no_type: 6300 Series 6321 Size 105 Mm Id 225 Mm Od 49 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6321_size_105_mm_id_225_mm_od_49_mm_depth
+oomp_word: dolphin bulb ear
+oomp_word_emoji: ':dolphin: :bulb: :ear:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':bulb:'
+- ':ear:'
+oomp_word_list:
+- dolphin
+- bulb
+- ear
+part_number: ''
+size: 6300_series
+type: bearing

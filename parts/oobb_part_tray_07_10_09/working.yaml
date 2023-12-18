@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_10_09
+directory: parts/oobb_part_tray_07_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_09
+id: oobb_part_tray_07_10_09
+id_no_class: part_tray_07_10_09
+id_no_color: 071009
+id_no_size: 07_10_09
+id_no_type: tray_07_10_09
+manufacturer: ''
+md5: fb067b0c05b24b3ba3af065d17df3ea7
+md5_10: fb067b0c05
+md5_10_upper: FB067B0C05
+md5_5: fb067
+md5_5_upper: FB067
+md5_6: fb067b
+md5_6_alpha: 9sltn
+md5_6_alpha_upper: 9SLTN
+md5_6_upper: FB067B
+name: Oobb Part Tray 07 10 09
+name_no_class: Part Tray 07 10 09
+name_no_color: 071009
+name_no_size: 07 10 09
+name_no_type: Tray 07 10 09
+oomp_key: oomp_oobb_part_tray_07_10_09
+oomp_word: ok sleeping computer
+oomp_word_emoji: ':ok: :sleeping: :computer:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':sleeping:'
+- ':computer:'
+oomp_word_list:
+- ok
+- sleeping
+- computer
+part_number: ''
+size: tray
+type: part

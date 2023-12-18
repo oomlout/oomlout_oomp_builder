@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_100000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_100000_ohm
+id: electronic_resistor_quarter_watt_through_hole_100000_ohm
+id_no_class: resistor_quarter_watt_through_hole_100000_ohm
+id_no_color: 100000ohm
+id_no_size: 100000_ohm
+id_no_type: quarter_watt_through_hole_100000_ohm
+manufacturer: ''
+md5: a0145e1779153c6df3729398189ffed2
+md5_10: a0145e1779
+md5_10_upper: A0145E1779
+md5_5: a0145
+md5_5_upper: A0145
+md5_6: a0145e
+md5_6_alpha: 68uvy
+md5_6_alpha_upper: 68UVY
+md5_6_upper: A0145E
+name: Electronic Resistor Quarter Watt Through Hole 100000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 100000 Ohm
+name_no_color: 100000Ohm
+name_no_size: 100000 Ohm
+name_no_type: Quarter Watt Through Hole 100000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_100000_ohm
+oomp_word: ring fire crocodile
+oomp_word_emoji: ':ring: :fire: :crocodile:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':fire:'
+- ':crocodile:'
+oomp_word_list:
+- ring
+- fire
+- crocodile
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

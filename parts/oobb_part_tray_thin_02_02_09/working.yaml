@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_09
+directory: parts/oobb_part_tray_thin_02_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_02_09
+id: oobb_part_tray_thin_02_02_09
+id_no_class: part_tray_thin_02_02_09
+id_no_color: 020209
+id_no_size: 02_02_09
+id_no_type: tray_thin_02_02_09
+manufacturer: ''
+md5: ea4b44dcac630a73e7fca76928f2a4b3
+md5_10: ea4b44dcac
+md5_10_upper: EA4B44DCAC
+md5_5: ea4b4
+md5_5_upper: EA4B4
+md5_6: ea4b44
+md5_6_alpha: 953r8
+md5_6_alpha_upper: 953R8
+md5_6_upper: EA4B44
+name: Oobb Part Tray Thin 02 02 09
+name_no_class: Part Tray Thin 02 02 09
+name_no_color: 020209
+name_no_size: 02 02 09
+name_no_type: Tray Thin 02 02 09
+oomp_key: oomp_oobb_part_tray_thin_02_02_09
+oomp_word: tractor penguin panda_face
+oomp_word_emoji: ':tractor: :penguin: :panda_face:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':penguin:'
+- ':panda_face:'
+oomp_word_list:
+- tractor
+- penguin
+- panda_face
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_12'
+directory: parts/oobb_part_tray_thin_11_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_04_12
+id: oobb_part_tray_thin_11_04_12
+id_no_class: part_tray_thin_11_04_12
+id_no_color: '110412'
+id_no_size: '11_04_12'
+id_no_type: tray_thin_11_04_12
+manufacturer: ''
+md5: 94f9a71b8ac0e445f74dc8406afff5db
+md5_10: 94f9a71b8a
+md5_10_upper: 94F9A71B8A
+md5_5: 94f9a
+md5_5_upper: 94F9A
+md5_6: 94f9a7
+md5_6_alpha: 5t9d3
+md5_6_alpha_upper: 5T9D3
+md5_6_upper: 94F9A7
+name: Oobb Part Tray Thin 11 04 12
+name_no_class: Part Tray Thin 11 04 12
+name_no_color: '110412'
+name_no_size: 11 04 12
+name_no_type: Tray Thin 11 04 12
+oomp_key: oomp_oobb_part_tray_thin_11_04_12
+oomp_word: microscope eight guitar
+oomp_word_emoji: ':microscope: :eight: :guitar:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':eight:'
+- ':guitar:'
+oomp_word_list:
+- microscope
+- eight
+- guitar
+part_number: ''
+size: tray_thin
+type: part

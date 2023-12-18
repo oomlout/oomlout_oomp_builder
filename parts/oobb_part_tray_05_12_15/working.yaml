@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_12_15'
+directory: parts/oobb_part_tray_05_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_12_15
+id: oobb_part_tray_05_12_15
+id_no_class: part_tray_05_12_15
+id_no_color: '051215'
+id_no_size: '05_12_15'
+id_no_type: tray_05_12_15
+manufacturer: ''
+md5: 3bb0c4af6d66c08212cc1563277ba934
+md5_10: 3bb0c4af6d
+md5_10_upper: 3BB0C4AF6D
+md5_5: 3bb0c
+md5_5_upper: 3BB0C
+md5_6: 3bb0c4
+md5_6_alpha: 2buf8
+md5_6_alpha_upper: 2BUF8
+md5_6_upper: 3BB0C4
+name: Oobb Part Tray 05 12 15
+name_no_class: Part Tray 05 12 15
+name_no_color: '051215'
+name_no_size: 05 12 15
+name_no_type: Tray 05 12 15
+oomp_key: oomp_oobb_part_tray_05_12_15
+oomp_word: bear crown cookie
+oomp_word_emoji: ':bear: :crown: :cookie:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':crown:'
+- ':cookie:'
+oomp_word_list:
+- bear
+- crown
+- cookie
+part_number: ''
+size: tray
+type: part

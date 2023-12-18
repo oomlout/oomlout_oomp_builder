@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_ex_24_teeth
+directory: parts/oobb_part_gear_03_06_ex_24_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_06_ex_24_teeth
+id: oobb_part_gear_03_06_ex_24_teeth
+id_no_class: part_gear_03_06_ex_24_teeth
+id_no_color: 0306ex24teeth
+id_no_size: 03_06_ex_24_teeth
+id_no_type: gear_03_06_ex_24_teeth
+manufacturer: ''
+md5: 98f89dcf351f2471a4025c3a8bb441d5
+md5_10: 98f89dcf35
+md5_10_upper: 98F89DCF35
+md5_5: 98f89
+md5_5_upper: 98F89
+md5_6: 98f89d
+md5_6_alpha: 5yvfh
+md5_6_alpha_upper: 5YVFH
+md5_6_upper: 98F89D
+name: Oobb Part Gear 03 06 Ex 24 Teeth
+name_no_class: Part Gear 03 06 Ex 24 Teeth
+name_no_color: 0306Ex24Teeth
+name_no_size: 03 06 Ex 24 Teeth
+name_no_type: Gear 03 06 Ex 24 Teeth
+oomp_key: oomp_oobb_part_gear_03_06_ex_24_teeth
+oomp_word: tennis seven hearts
+oomp_word_emoji: ':tennis: :seven: :hearts:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':seven:'
+- ':hearts:'
+oomp_word_list:
+- tennis
+- seven
+- hearts
+part_number: ''
+size: gear
+type: part

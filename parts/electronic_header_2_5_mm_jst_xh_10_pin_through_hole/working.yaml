@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 10_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_10_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_10_pin_through_hole
+id_no_color: 10pinthroughhole
+id_no_size: 10_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_10_pin_through_hole
+manufacturer: ''
+md5: b0313658b6278688f15f5904336fa783
+md5_10: b0313658b6
+md5_10_upper: B0313658B6
+md5_5: b0313
+md5_5_upper: B0313
+md5_6: b03136
+md5_6_alpha: 6vho6
+md5_6_alpha_upper: 6VHO6
+md5_6_upper: B03136
+name: Electronic Header 2 5 Mm Jst Xh 10 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 10 Pin Through Hole
+name_no_color: 10Pinthroughhole
+name_no_size: 10 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 10 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_10_pin_through_hole
+oomp_word: crown ocean rabbit
+oomp_word_emoji: ':crown: :ocean: :rabbit:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':ocean:'
+- ':rabbit:'
+oomp_word_list:
+- crown
+- ocean
+- rabbit
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

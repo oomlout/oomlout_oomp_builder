@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_mounting_hole_m6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6
+id: electronic_mounting_hole_m6
+id_no_class: mounting_hole_m6
+id_no_color: m6
+id_no_size: m6
+id_no_type: m6
+manufacturer: ''
+md5: fbea6534b8834126a7a8dd2e02368bd1
+md5_10: fbea6534b8
+md5_10_upper: FBEA6534B8
+md5_5: fbea6
+md5_5_upper: FBEA6
+md5_6: fbea65
+md5_6_alpha: 9tuud
+md5_6_alpha_upper: 9TUUD
+md5_6_upper: FBEA65
+name: Electronic Mounting Hole M6
+name_no_class: Mounting Hole M6
+name_no_color: M6
+name_no_size: M6
+name_no_type: M6
+oomp_key: oomp_electronic_mounting_hole_m6
+oomp_word: ok tractor maple_leaf
+oomp_word_emoji: ':ok: :tractor: :maple_leaf:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':tractor:'
+- ':maple_leaf:'
+oomp_word_list:
+- ok
+- tractor
+- maple_leaf
+part_number: ''
+size: m6
+type: mounting_hole

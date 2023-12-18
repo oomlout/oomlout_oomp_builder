@@ -1,0 +1,40 @@
+classification: hardware
+color: 5309_size
+description_extra: ''
+description_main: 45_mm_id_100_mm_od_39.68_mm_depth
+directory: parts/hardware_bearing_5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+id: hardware_bearing_5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+id_no_class: bearing_5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+id_no_color: 45_mm_id_100_mm_od_39.68_mm_depth
+id_no_size: 5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+id_no_type: 5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+manufacturer: ''
+md5: ca9cdb0b98e5f0f91d5dc9b6f322a6af
+md5_10: ca9cdb0b98
+md5_10_upper: CA9CDB0B98
+md5_5: ca9cd
+md5_5_upper: CA9CD
+md5_6: ca9cdb
+md5_6_alpha: 7wlp7
+md5_6_alpha_upper: 7WLP7
+md5_6_upper: CA9CDB
+name: Hardware Bearing 5300 Series 5309 Size 45 Mm Id 100 Mm Od 39.68 Mm Depth
+name_no_class: Bearing 5300 Series 5309 Size 45 Mm Id 100 Mm Od 39.68 Mm Depth
+name_no_color: 45 Mm Id 100 Mm Od 39.68 Mm Depth
+name_no_size: 5309 Size 45 Mm Id 100 Mm Od 39.68 Mm Depth
+name_no_type: 5300 Series 5309 Size 45 Mm Id 100 Mm Od 39.68 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5309_size_45_mm_id_100_mm_od_39.68_mm_depth
+oomp_word: cherries spades tent
+oomp_word_emoji: ':cherries: :spades: :tent:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':spades:'
+- ':tent:'
+oomp_word_list:
+- cherries
+- spades
+- tent
+part_number: ''
+size: 5300_series
+type: bearing

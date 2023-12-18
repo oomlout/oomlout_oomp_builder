@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '22_03_03'
+directory: parts/oobb_part_plate_22_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_03_03
+id: oobb_part_plate_22_03_03
+id_no_class: part_plate_22_03_03
+id_no_color: '220303'
+id_no_size: '22_03_03'
+id_no_type: plate_22_03_03
+manufacturer: ''
+md5: 44e29753c1658e9a4e6d63abcc8cd33b
+md5_10: 44e29753c1
+md5_10_upper: 44E29753C1
+md5_5: 44e29
+md5_5_upper: 44E29
+md5_6: 44e297
+md5_6_alpha: 2ordj
+md5_6_alpha_upper: 2ORDJ
+md5_6_upper: 44E297
+name: Oobb Part Plate 22 03 03
+name_no_class: Part Plate 22 03 03
+name_no_color: '220303'
+name_no_size: 22 03 03
+name_no_type: Plate 22 03 03
+oomp_key: oomp_oobb_part_plate_22_03_03
+oomp_word: panda_face sailboat baseball
+oomp_word_emoji: ':panda_face: :sailboat: :baseball:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':sailboat:'
+- ':baseball:'
+oomp_word_list:
+- panda_face
+- sailboat
+- baseball
+part_number: ''
+size: plate
+type: part

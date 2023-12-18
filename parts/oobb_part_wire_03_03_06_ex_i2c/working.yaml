@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_06_ex_i2c
+directory: parts/oobb_part_wire_03_03_06_ex_i2c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c
+id: oobb_part_wire_03_03_06_ex_i2c
+id_no_class: part_wire_03_03_06_ex_i2c
+id_no_color: 030306exi2c
+id_no_size: 03_03_06_ex_i2c
+id_no_type: wire_03_03_06_ex_i2c
+manufacturer: ''
+md5: df7bfc6005ee4126e3113f1910856d0c
+md5_10: df7bfc6005
+md5_10_upper: DF7BFC6005
+md5_5: df7bf
+md5_5_upper: DF7BF
+md5_6: df7bfc
+md5_6_alpha: 8px4s
+md5_6_alpha_upper: 8PX4S
+md5_6_upper: DF7BFC
+name: Oobb Part Wire 03 03 06 Ex I2C
+name_no_class: Part Wire 03 03 06 Ex I2C
+name_no_color: 030306Exi2C
+name_no_size: 03 03 06 Ex I2C
+name_no_type: Wire 03 03 06 Ex I2C
+oomp_key: oomp_oobb_part_wire_03_03_06_ex_i2c
+oomp_word: fountain computer up
+oomp_word_emoji: ':fountain: :computer: :up:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':computer:'
+- ':up:'
+oomp_word_list:
+- fountain
+- computer
+- up
+part_number: ''
+size: wire
+type: part

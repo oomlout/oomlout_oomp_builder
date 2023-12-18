@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_15_ex_tool_marker_sharpie
+directory: parts/oobb_part_tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+id: oobb_part_tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+id_no_class: part_tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+id_no_color: 030515extoolmarkersharpie
+id_no_size: 03_05_15_ex_tool_marker_sharpie
+id_no_type: tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+manufacturer: ''
+md5: 1936672c7f373d5fdf880eac7d0f1ca1
+md5_10: 1936672c7f
+md5_10_upper: 1936672C7F
+md5_5: '19366'
+md5_5_upper: '19366'
+md5_6: '193667'
+md5_6_alpha: zexz
+md5_6_alpha_upper: ZEXZ
+md5_6_upper: '193667'
+name: Oobb Part Tool Holder Vertical 03 05 15 Ex Tool Marker Sharpie
+name_no_class: Part Tool Holder Vertical 03 05 15 Ex Tool Marker Sharpie
+name_no_color: 030515Extoolmarkersharpie
+name_no_size: 03 05 15 Ex Tool Marker Sharpie
+name_no_type: Tool Holder Vertical 03 05 15 Ex Tool Marker Sharpie
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_15_ex_tool_marker_sharpie
+oomp_word: pray rabbit herb
+oomp_word_emoji: ':pray: :rabbit: :herb:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':rabbit:'
+- ':herb:'
+oomp_word_list:
+- pray
+- rabbit
+- herb
+part_number: ''
+size: tool_holder_vertical
+type: part

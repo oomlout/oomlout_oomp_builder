@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_2d5_18
+directory: parts/oobb_part_tray_04_2d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_18
+id: oobb_part_tray_04_2d5_18
+id_no_class: part_tray_04_2d5_18
+id_no_color: 042d518
+id_no_size: 04_2d5_18
+id_no_type: tray_04_2d5_18
+manufacturer: ''
+md5: 9cd3cfb3cfd553afeed6b9d52dd44d67
+md5_10: 9cd3cfb3cf
+md5_10_upper: 9CD3CFB3CF
+md5_5: 9cd3c
+md5_5_upper: 9CD3C
+md5_6: 9cd3cf
+md5_6_alpha: 64afj
+md5_6_alpha_upper: 64AFJ
+md5_6_upper: 9CD3CF
+name: Oobb Part Tray 04 2D5 18
+name_no_class: Part Tray 04 2D5 18
+name_no_color: 042D518
+name_no_size: 04 2D5 18
+name_no_type: Tray 04 2D5 18
+oomp_key: oomp_oobb_part_tray_04_2d5_18
+oomp_word: spades tomato melon
+oomp_word_emoji: ':spades: :tomato: :melon:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':tomato:'
+- ':melon:'
+oomp_word_list:
+- spades
+- tomato
+- melon
+part_number: ''
+size: tray
+type: part

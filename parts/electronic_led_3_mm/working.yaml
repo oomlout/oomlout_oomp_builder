@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm
+id: electronic_led_3_mm
+id_no_class: led_3_mm
+id_no_color: 3mm
+id_no_size: 3_mm
+id_no_type: 3_mm
+manufacturer: ''
+md5: 1c2ecd94ecf44c4e06ef99b0051681bf
+md5_10: 1c2ecd94ec
+md5_10_upper: 1C2ECD94EC
+md5_5: 1c2ec
+md5_5_upper: 1C2EC
+md5_6: 1c2ecd
+md5_6_alpha: 13l59
+md5_6_alpha_upper: 13L59
+md5_6_upper: 1C2ECD
+name: Electronic Led 3 Mm
+name_no_class: Led 3 Mm
+name_no_color: 3Mm
+name_no_size: 3 Mm
+name_no_type: 3 Mm
+oomp_key: oomp_electronic_led_3_mm
+oomp_word: dancer zap strawberry
+oomp_word_emoji: ':dancer: :zap: :strawberry:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':zap:'
+- ':strawberry:'
+oomp_word_list:
+- dancer
+- zap
+- strawberry
+part_number: ''
+size: 3_mm
+type: led

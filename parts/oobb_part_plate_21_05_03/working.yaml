@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '21_05_03'
+directory: parts/oobb_part_plate_21_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_05_03
+id: oobb_part_plate_21_05_03
+id_no_class: part_plate_21_05_03
+id_no_color: '210503'
+id_no_size: '21_05_03'
+id_no_type: plate_21_05_03
+manufacturer: ''
+md5: 333fa3477d32398f121b2b40af3c7bb4
+md5_10: 333fa3477d
+md5_10_upper: 333FA3477D
+md5_5: 333fa
+md5_5_upper: 333FA
+md5_6: 333fa3
+md5_6_alpha: 1zzj7
+md5_6_alpha_upper: 1ZZJ7
+md5_6_upper: 333FA3
+name: Oobb Part Plate 21 05 03
+name_no_class: Part Plate 21 05 03
+name_no_color: '210503'
+name_no_size: 21 05 03
+name_no_type: Plate 21 05 03
+oomp_key: oomp_oobb_part_plate_21_05_03
+oomp_word: dog horse pencil
+oomp_word_emoji: ':dog: :horse: :pencil:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':horse:'
+- ':pencil:'
+oomp_word_list:
+- dog
+- horse
+- pencil
+part_number: ''
+size: plate
+type: part

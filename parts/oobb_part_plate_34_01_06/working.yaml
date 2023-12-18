@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '34_01_06'
+directory: parts/oobb_part_plate_34_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_34_01_06
+id: oobb_part_plate_34_01_06
+id_no_class: part_plate_34_01_06
+id_no_color: '340106'
+id_no_size: '34_01_06'
+id_no_type: plate_34_01_06
+manufacturer: ''
+md5: 313878a55608100f48780975ca29e41f
+md5_10: 313878a556
+md5_10_upper: 313878A556
+md5_5: '31387'
+md5_5_upper: '31387'
+md5_6: '313878'
+md5_6_alpha: 1x4zc
+md5_6_alpha_upper: 1X4ZC
+md5_6_upper: '313878'
+name: Oobb Part Plate 34 01 06
+name_no_class: Part Plate 34 01 06
+name_no_color: '340106'
+name_no_size: 34 01 06
+name_no_type: Plate 34 01 06
+oomp_key: oomp_oobb_part_plate_34_01_06
+oomp_word: ocean frog bell
+oomp_word_emoji: ':ocean: :frog: :bell:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':frog:'
+- ':bell:'
+oomp_word_list:
+- ocean
+- frog
+- bell
+part_number: ''
+size: plate
+type: part

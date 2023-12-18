@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_05_09
+directory: parts/oobb_part_tray_02_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_05_09
+id: oobb_part_tray_02_05_09
+id_no_class: part_tray_02_05_09
+id_no_color: 020509
+id_no_size: 02_05_09
+id_no_type: tray_02_05_09
+manufacturer: ''
+md5: b48c5d554732108f43f2831fbb5b2567
+md5_10: b48c5d5547
+md5_10_upper: B48C5D5547
+md5_5: b48c5
+md5_5_upper: B48C5
+md5_6: b48c5d
+md5_6_alpha: 71ly5
+md5_6_alpha_upper: 71LY5
+md5_6_upper: B48C5D
+name: Oobb Part Tray 02 05 09
+name_no_class: Part Tray 02 05 09
+name_no_color: 020509
+name_no_size: 02 05 09
+name_no_type: Tray 02 05 09
+oomp_key: oomp_oobb_part_tray_02_05_09
+oomp_word: coffee pill blowfish
+oomp_word_emoji: ':coffee: :pill: :blowfish:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':pill:'
+- ':blowfish:'
+oomp_word_list:
+- coffee
+- pill
+- blowfish
+part_number: ''
+size: tray
+type: part

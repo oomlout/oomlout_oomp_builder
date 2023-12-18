@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white
+id: electronic_led_5_mm_white
+id_no_class: led_5_mm_white
+id_no_color: white
+id_no_size: white
+id_no_type: 5_mm_white
+manufacturer: ''
+md5: 7b0fa8663be769586716f0b94bbcc67d
+md5_10: 7b0fa8663b
+md5_10_upper: 7B0FA8663B
+md5_5: 7b0fa
+md5_5_upper: 7B0FA
+md5_6: 7b0fa8
+md5_6_alpha: 4suy0
+md5_6_alpha_upper: 4SUY0
+md5_6_upper: 7B0FA8
+name: Electronic Led 5 Mm White
+name_no_class: Led 5 Mm White
+name_no_color: White
+name_no_size: White
+name_no_type: 5 Mm White
+oomp_key: oomp_electronic_led_5_mm_white
+oomp_word: computer sparkles shoe
+oomp_word_emoji: ':computer: :sparkles: :shoe:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':sparkles:'
+- ':shoe:'
+oomp_word_list:
+- computer
+- sparkles
+- shoe
+part_number: ''
+size: 5_mm
+type: led

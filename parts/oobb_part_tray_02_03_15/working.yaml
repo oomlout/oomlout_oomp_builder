@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_03_15'
+directory: parts/oobb_part_tray_02_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_03_15
+id: oobb_part_tray_02_03_15
+id_no_class: part_tray_02_03_15
+id_no_color: '020315'
+id_no_size: '02_03_15'
+id_no_type: tray_02_03_15
+manufacturer: ''
+md5: 8bee205c4bd0397f77bd9f74fb3952de
+md5_10: 8bee205c4b
+md5_10_upper: 8BEE205C4B
+md5_5: 8bee2
+md5_5_upper: 8BEE2
+md5_6: 8bee20
+md5_6_alpha: 5gjz4
+md5_6_alpha_upper: 5GJZ4
+md5_6_upper: 8BEE20
+name: Oobb Part Tray 02 03 15
+name_no_class: Part Tray 02 03 15
+name_no_color: '020315'
+name_no_size: 02 03 15
+name_no_type: Tray 02 03 15
+oomp_key: oomp_oobb_part_tray_02_03_15
+oomp_word: door ambulance skull
+oomp_word_emoji: ':door: :ambulance: :skull:'
+oomp_word_emoji_list:
+- ':door:'
+- ':ambulance:'
+- ':skull:'
+oomp_word_list:
+- door
+- ambulance
+- skull
+part_number: ''
+size: tray
+type: part

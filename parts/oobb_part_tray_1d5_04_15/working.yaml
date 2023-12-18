@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_04_15
+directory: parts/oobb_part_tray_1d5_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_04_15
+id: oobb_part_tray_1d5_04_15
+id_no_class: part_tray_1d5_04_15
+id_no_color: 1d50415
+id_no_size: 1d5_04_15
+id_no_type: tray_1d5_04_15
+manufacturer: ''
+md5: b2f370608a336275c0f96b9d837bb9ae
+md5_10: b2f370608a
+md5_10_upper: B2F370608A
+md5_5: b2f37
+md5_5_upper: B2F37
+md5_6: b2f370
+md5_6_alpha: 6zd68
+md5_6_alpha_upper: 6ZD68
+md5_6_upper: B2F370
+name: Oobb Part Tray 1D5 04 15
+name_no_class: Part Tray 1D5 04 15
+name_no_color: 1D50415
+name_no_size: 1D5 04 15
+name_no_type: Tray 1D5 04 15
+oomp_key: oomp_oobb_part_tray_1d5_04_15
+oomp_word: handbag two squirrel
+oomp_word_emoji: ':handbag: :two: :squirrel:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':two:'
+- ':squirrel:'
+oomp_word_list:
+- handbag
+- two
+- squirrel
+part_number: ''
+size: tray
+type: part

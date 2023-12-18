@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+directory: parts/oobb_part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+id: oobb_part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+id_no_class: part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+id_no_color: 020203rhm3nmaliexpressusbmicrobreakout01
+id_no_size: 02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+id_no_type: mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+manufacturer: ''
+md5: 22e2437a28ed8f0b2b6badd2e24e13fa
+md5_10: 22e2437a28
+md5_10_upper: 22E2437A28
+md5_5: 22e24
+md5_5_upper: 22E24
+md5_6: 22e243
+md5_6_alpha: 1d003
+md5_6_alpha_upper: 1D003
+md5_6_upper: 22E243
+name: Oobb Part Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress Usb Micro Breakout
+  01
+name_no_class: Part Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress Usb Micro Breakout
+  01
+name_no_color: 020203Rhm3Nmaliexpressusbmicrobreakout01
+name_no_size: 02 02 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01
+name_no_type: Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01
+oomp_key: oomp_oobb_part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
+oomp_word: lips sailboat elephant
+oomp_word_emoji: ':lips: :sailboat: :elephant:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':sailboat:'
+- ':elephant:'
+oomp_word_list:
+- lips
+- sailboat
+- elephant
+part_number: ''
+size: mounting_plate_top
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_01_12'
+directory: parts/oobb_part_plate_16_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_01_12
+id: oobb_part_plate_16_01_12
+id_no_class: part_plate_16_01_12
+id_no_color: '160112'
+id_no_size: '16_01_12'
+id_no_type: plate_16_01_12
+manufacturer: ''
+md5: 4b174d1487545b2b8351b67e0b9ae3dc
+md5_10: 4b174d1487
+md5_10_upper: 4B174D1487
+md5_5: 4b174
+md5_5_upper: 4B174
+md5_6: 4b174d
+md5_6_alpha: 2xh71
+md5_6_alpha_upper: 2XH71
+md5_6_upper: 4B174D
+name: Oobb Part Plate 16 01 12
+name_no_class: Part Plate 16 01 12
+name_no_color: '160112'
+name_no_size: 16 01 12
+name_no_type: Plate 16 01 12
+oomp_key: oomp_oobb_part_plate_16_01_12
+oomp_word: penguin thumbsdown bug
+oomp_word_emoji: ':penguin: :thumbsdown: :bug:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':thumbsdown:'
+- ':bug:'
+oomp_word_list:
+- penguin
+- thumbsdown
+- bug
+part_number: ''
+size: plate
+type: part

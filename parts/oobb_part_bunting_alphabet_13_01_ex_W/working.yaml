@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_w
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_w
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_w
+id: oobb_part_bunting_alphabet_13_01_ex_w
+id_no_class: part_bunting_alphabet_13_01_ex_w
+id_no_color: 1301exw
+id_no_size: 13_01_ex_w
+id_no_type: bunting_alphabet_13_01_ex_w
+manufacturer: ''
+md5: e7a06f81ab2ae90ab77d7b5a71052f44
+md5_10: e7a06f81ab
+md5_10_upper: E7A06F81AB
+md5_5: e7a06
+md5_5_upper: E7A06
+md5_6: e7a06f
+md5_6_alpha: 91cvj
+md5_6_alpha_upper: 91CVJ
+md5_6_upper: E7A06F
+name: Oobb Part Bunting Alphabet 13 01 Ex W
+name_no_class: Part Bunting Alphabet 13 01 Ex W
+name_no_color: 1301Exw
+name_no_size: 13 01 Ex W
+name_no_type: Bunting Alphabet 13 01 Ex W
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_w
+oomp_word: helicopter ring moon
+oomp_word_emoji: ':helicopter: :ring: :moon:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':ring:'
+- ':moon:'
+oomp_word_list:
+- helicopter
+- ring
+- moon
+part_number: ''
+size: bunting_alphabet
+type: part

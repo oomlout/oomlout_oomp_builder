@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_04_18
+directory: parts/oobb_part_tray_03_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_18
+id: oobb_part_tray_03_04_18
+id_no_class: part_tray_03_04_18
+id_no_color: 030418
+id_no_size: 03_04_18
+id_no_type: tray_03_04_18
+manufacturer: ''
+md5: 6daa745a1ec9f12f73cabc64a3a51e1e
+md5_10: 6daa745a1e
+md5_10_upper: 6DAA745A1E
+md5_5: 6daa7
+md5_5_upper: 6DAA7
+md5_6: 6daa74
+md5_6_alpha: 4a1kk
+md5_6_alpha_upper: 4A1KK
+md5_6_upper: 6DAA74
+name: Oobb Part Tray 03 04 18
+name_no_class: Part Tray 03 04 18
+name_no_color: 030418
+name_no_size: 03 04 18
+name_no_type: Tray 03 04 18
+oomp_key: oomp_oobb_part_tray_03_04_18
+oomp_word: shell lipstick fireworks
+oomp_word_emoji: ':shell: :lipstick: :fireworks:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':lipstick:'
+- ':fireworks:'
+oomp_word_list:
+- shell
+- lipstick
+- fireworks
+part_number: ''
+size: tray
+type: part

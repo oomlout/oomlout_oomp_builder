@@ -1,0 +1,40 @@
+classification: hardware
+color: 5203_size
+description_extra: ''
+description_main: 17_mm_id_40_mm_od_17.4_mm_depth
+directory: parts/hardware_bearing_5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+id: hardware_bearing_5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+id_no_class: bearing_5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+id_no_color: 17_mm_id_40_mm_od_17.4_mm_depth
+id_no_size: 5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+id_no_type: 5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+manufacturer: ''
+md5: 5b42b690707567e7b4ea3db95b0fc5cc
+md5_10: 5b42b69070
+md5_10_upper: 5B42B69070
+md5_5: 5b42b
+md5_5_upper: 5B42B
+md5_6: 5b42b6
+md5_6_alpha: 3k6uu
+md5_6_alpha_upper: 3K6UU
+md5_6_upper: 5B42B6
+name: Hardware Bearing 5200 Series 5203 Size 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_class: Bearing 5200 Series 5203 Size 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_color: 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_size: 5203 Size 17 Mm Id 40 Mm Od 17.4 Mm Depth
+name_no_type: 5200 Series 5203 Size 17 Mm Id 40 Mm Od 17.4 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5203_size_17_mm_id_40_mm_od_17.4_mm_depth
+oomp_word: rooster sheep beer
+oomp_word_emoji: ':rooster: :sheep: :beer:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':sheep:'
+- ':beer:'
+oomp_word_list:
+- rooster
+- sheep
+- beer
+part_number: ''
+size: 5200_series
+type: bearing

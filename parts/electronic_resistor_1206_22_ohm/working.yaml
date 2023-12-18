@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_1206_22_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_22_ohm
+id: electronic_resistor_1206_22_ohm
+id_no_class: resistor_1206_22_ohm
+id_no_color: 22ohm
+id_no_size: 22_ohm
+id_no_type: 1206_22_ohm
+manufacturer: ''
+md5: 95c0a23c931e464dad4c1883518628d8
+md5_10: 95c0a23c93
+md5_10_upper: 95C0A23C93
+md5_5: 95c0a
+md5_5_upper: 95C0A
+md5_6: 95c0a2
+md5_6_alpha: 5uco2
+md5_6_alpha_upper: 5UCO2
+md5_6_upper: 95C0A2
+name: Electronic Resistor 1206 22 Ohm
+name_no_class: Resistor 1206 22 Ohm
+name_no_color: 22Ohm
+name_no_size: 22 Ohm
+name_no_type: 1206 22 Ohm
+oomp_key: oomp_electronic_resistor_1206_22_ohm
+oomp_word: telescope bread violin
+oomp_word_emoji: ':telescope: :bread: :violin:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':bread:'
+- ':violin:'
+oomp_word_list:
+- telescope
+- bread
+- violin
+part_number: ''
+size: '1206'
+type: resistor

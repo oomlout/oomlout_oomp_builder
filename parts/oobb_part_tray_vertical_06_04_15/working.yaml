@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_04_15'
+directory: parts/oobb_part_tray_vertical_06_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_15
+id: oobb_part_tray_vertical_06_04_15
+id_no_class: part_tray_vertical_06_04_15
+id_no_color: '060415'
+id_no_size: '06_04_15'
+id_no_type: tray_vertical_06_04_15
+manufacturer: ''
+md5: c5cdb520e3dfccee54766c2e862a676d
+md5_10: c5cdb520e3
+md5_10_upper: C5CDB520E3
+md5_5: c5cdb
+md5_5_upper: C5CDB
+md5_6: c5cdb5
+md5_6_alpha: 7puid
+md5_6_alpha_upper: 7PUID
+md5_6_upper: C5CDB5
+name: Oobb Part Tray Vertical 06 04 15
+name_no_class: Part Tray Vertical 06 04 15
+name_no_color: '060415'
+name_no_size: 06 04 15
+name_no_type: Tray Vertical 06 04 15
+oomp_key: oomp_oobb_part_tray_vertical_06_04_15
+oomp_word: candy strawberry tea
+oomp_word_emoji: ':candy: :strawberry: :tea:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':strawberry:'
+- ':tea:'
+oomp_word_list:
+- candy
+- strawberry
+- tea
+part_number: ''
+size: tray_vertical
+type: part

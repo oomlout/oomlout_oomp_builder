@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+id_no_color: 0109ex16teethshieldshmotorservostandard01
+id_no_size: 01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 70badfe1053d144c3e2d142e23e94344
+md5_10: 70badfe105
+md5_10_upper: 70BADFE105
+md5_5: 70bad
+md5_5_upper: 70BAD
+md5_6: 70badf
+md5_6_alpha: 4ecin
+md5_6_alpha_upper: 4ECIN
+md5_6_upper: 70BADF
+name: Oobb Part Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor Servo Standard 01
+name_no_color: 0109Ex16Teethshieldshmotorservostandard01
+name_no_size: 01 09 Ex 16 Teeth Shield Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_servo_standard_01
+oomp_word: squirrel spaghetti fountain
+oomp_word_emoji: ':squirrel: :spaghetti: :fountain:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':spaghetti:'
+- ':fountain:'
+oomp_word_list:
+- squirrel
+- spaghetti
+- fountain
+part_number: ''
+size: pulley_gt2
+type: part

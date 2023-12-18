@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_16_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+id_no_color: 0109ex16teethshmotorn20
+id_no_size: 01_09_ex_16_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+manufacturer: ''
+md5: 697e0ab6e4866bd18e0dca340d4b5165
+md5_10: 697e0ab6e4
+md5_10_upper: 697E0AB6E4
+md5_5: 697e0
+md5_5_upper: 697E0
+md5_6: 697e0a
+md5_6_alpha: 446iy
+md5_6_alpha_upper: 446IY
+md5_6_upper: 697E0A
+name: Oobb Part Pulley Gt2 01 09 Ex 16 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 16 Teeth Sh Motor N20
+name_no_color: 0109Ex16Teethshmotorn20
+name_no_size: 01 09 Ex 16 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 16 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_motor_n20
+oomp_word: cactus fax sleepy
+oomp_word_emoji: ':cactus: :fax: :sleepy:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':fax:'
+- ':sleepy:'
+oomp_word_list:
+- cactus
+- fax
+- sleepy
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_02_15'
+directory: parts/oobb_part_tray_vertical_03_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_02_15
+id: oobb_part_tray_vertical_03_02_15
+id_no_class: part_tray_vertical_03_02_15
+id_no_color: '030215'
+id_no_size: '03_02_15'
+id_no_type: tray_vertical_03_02_15
+manufacturer: ''
+md5: 605b2f6f54edcb0fee216bcfa87c5c22
+md5_10: 605b2f6f54
+md5_10_upper: 605B2F6F54
+md5_5: 605b2
+md5_5_upper: 605B2
+md5_6: 605b2f
+md5_6_alpha: 3rcj3
+md5_6_alpha_upper: 3RCJ3
+md5_6_upper: 605B2F
+name: Oobb Part Tray Vertical 03 02 15
+name_no_class: Part Tray Vertical 03 02 15
+name_no_color: '030215'
+name_no_size: 03 02 15
+name_no_type: Tray Vertical 03 02 15
+oomp_key: oomp_oobb_part_tray_vertical_03_02_15
+oomp_word: poodle rooster cyclone
+oomp_word_emoji: ':poodle: :rooster: :cyclone:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':rooster:'
+- ':cyclone:'
+oomp_word_list:
+- poodle
+- rooster
+- cyclone
+part_number: ''
+size: tray_vertical
+type: part

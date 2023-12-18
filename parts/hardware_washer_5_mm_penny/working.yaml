@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_5_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_5_mm_penny
+id: hardware_washer_5_mm_penny
+id_no_class: washer_5_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 5_mm_penny
+manufacturer: ''
+md5: 5f9b35492ba631e041c58eff3c35748b
+md5_10: 5f9b35492b
+md5_10_upper: 5F9B35492B
+md5_5: 5f9b3
+md5_5_upper: 5F9B3
+md5_6: 5f9b35
+md5_6_alpha: 3qalx
+md5_6_alpha_upper: 3QALX
+md5_6_upper: 5F9B35
+name: Hardware Washer 5 Mm Penny
+name_no_class: Washer 5 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 5 Mm Penny
+oomp_key: oomp_hardware_washer_5_mm_penny
+oomp_word: leopard ski hamster
+oomp_word_emoji: ':leopard: :ski: :hamster:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':ski:'
+- ':hamster:'
+oomp_word_list:
+- leopard
+- ski
+- hamster
+part_number: ''
+size: 5_mm
+type: washer

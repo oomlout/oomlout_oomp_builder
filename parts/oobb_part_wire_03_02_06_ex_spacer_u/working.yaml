@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_06_ex_spacer_u
+directory: parts/oobb_part_wire_03_02_06_ex_spacer_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06_ex_spacer_u
+id: oobb_part_wire_03_02_06_ex_spacer_u
+id_no_class: part_wire_03_02_06_ex_spacer_u
+id_no_color: 030206exspaceru
+id_no_size: 03_02_06_ex_spacer_u
+id_no_type: wire_03_02_06_ex_spacer_u
+manufacturer: ''
+md5: df20a9e05c30540684d051911c1f47ce
+md5_10: df20a9e05c
+md5_10_upper: DF20A9E05C
+md5_5: df20a
+md5_5_upper: DF20A
+md5_6: df20a9
+md5_6_alpha: 8pf3d
+md5_6_alpha_upper: 8PF3D
+md5_6_upper: DF20A9
+name: Oobb Part Wire 03 02 06 Ex Spacer U
+name_no_class: Part Wire 03 02 06 Ex Spacer U
+name_no_color: 030206Exspaceru
+name_no_size: 03 02 06 Ex Spacer U
+name_no_type: Wire 03 02 06 Ex Spacer U
+oomp_key: oomp_oobb_part_wire_03_02_06_ex_spacer_u
+oomp_word: fountain skull sandal
+oomp_word_emoji: ':fountain: :skull: :sandal:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':skull:'
+- ':sandal:'
+oomp_word_list:
+- fountain
+- skull
+- sandal
+part_number: ''
+size: wire
+type: part

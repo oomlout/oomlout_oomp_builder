@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805
+id: electronic_led_0805
+id_no_class: led_0805
+id_no_color: 0805
+id_no_size: 0805
+id_no_type: 0805
+manufacturer: ''
+md5: 8d664d2da680e32744834a87427c5377
+md5_10: 8d664d2da6
+md5_10_upper: 8D664D2DA6
+md5_5: 8d664
+md5_5_upper: 8D664
+md5_6: 8d664d
+md5_6_alpha: 5ima5
+md5_6_alpha_upper: 5IMA5
+md5_6_upper: 8D664D
+name: Electronic Led 0805
+name_no_class: Led 0805
+name_no_color: 0805
+name_no_size: 0805
+name_no_type: 0805
+oomp_key: oomp_electronic_led_0805
+oomp_word: scroll leaves bug
+oomp_word_emoji: ':scroll: :leaves: :bug:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':leaves:'
+- ':bug:'
+oomp_word_list:
+- scroll
+- leaves
+- bug
+part_number: ''
+size: 0805
+type: led

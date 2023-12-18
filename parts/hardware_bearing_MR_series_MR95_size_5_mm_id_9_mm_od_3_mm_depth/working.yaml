@@ -1,0 +1,40 @@
+classification: hardware
+color: MR95_size
+description_extra: ''
+description_main: 5_mm_id_9_mm_od_3_mm_depth
+directory: parts/hardware_bearing_MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+id: hardware_bearing_MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+id_no_class: bearing_MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+id_no_color: 5_mm_id_9_mm_od_3_mm_depth
+id_no_size: MR95_size_5_mm_id_9_mm_od_3_mm_depth
+id_no_type: MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+manufacturer: ''
+md5: ff3a75461f2d52ab5fb07138d169f9a8
+md5_10: ff3a75461f
+md5_10_upper: FF3A75461F
+md5_5: ff3a7
+md5_5_upper: FF3A7
+md5_6: ff3a75
+md5_6_alpha: 9yid1
+md5_6_alpha_upper: 9YID1
+md5_6_upper: FF3A75
+name: Hardware Bearing Mr Series Mr95 Size 5 Mm Id 9 Mm Od 3 Mm Depth
+name_no_class: Bearing Mr Series Mr95 Size 5 Mm Id 9 Mm Od 3 Mm Depth
+name_no_color: 5 Mm Id 9 Mm Od 3 Mm Depth
+name_no_size: Mr95 Size 5 Mm Id 9 Mm Od 3 Mm Depth
+name_no_type: Mr Series Mr95 Size 5 Mm Id 9 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR95_size_5_mm_id_9_mm_od_3_mm_depth
+oomp_word: trident koala ghost
+oomp_word_emoji: ':trident: :koala: :ghost:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':koala:'
+- ':ghost:'
+oomp_word_list:
+- trident
+- koala
+- ghost
+part_number: ''
+size: MR_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_18'
+directory: parts/oobb_part_tray_12_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_12_18
+id: oobb_part_tray_12_12_18
+id_no_class: part_tray_12_12_18
+id_no_color: '121218'
+id_no_size: '12_12_18'
+id_no_type: tray_12_12_18
+manufacturer: ''
+md5: c2283bcd9088f23b8ac0816f63f7d7e5
+md5_10: c2283bcd90
+md5_10_upper: C2283BCD90
+md5_5: c2283
+md5_5_upper: C2283
+md5_6: c2283b
+md5_6_alpha: 7kq4b
+md5_6_alpha_upper: 7KQ4B
+md5_6_upper: C2283B
+name: Oobb Part Tray 12 12 18
+name_no_class: Part Tray 12 12 18
+name_no_color: '121218'
+name_no_size: 12 12 18
+name_no_type: Tray 12 12 18
+oomp_key: oomp_oobb_part_tray_12_12_18
+oomp_word: birthday tongue bear
+oomp_word_emoji: ':birthday: :tongue: :bear:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':tongue:'
+- ':bear:'
+oomp_word_list:
+- birthday
+- tongue
+- bear
+part_number: ''
+size: tray
+type: part

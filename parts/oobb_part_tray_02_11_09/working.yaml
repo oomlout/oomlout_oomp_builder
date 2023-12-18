@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_11_09
+directory: parts/oobb_part_tray_02_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_11_09
+id: oobb_part_tray_02_11_09
+id_no_class: part_tray_02_11_09
+id_no_color: 021109
+id_no_size: 02_11_09
+id_no_type: tray_02_11_09
+manufacturer: ''
+md5: 234527e4897bcab3d29c573a0ae0eacf
+md5_10: 234527e489
+md5_10_upper: 234527E489
+md5_5: '23452'
+md5_5_upper: '23452'
+md5_6: '234527'
+md5_6_alpha: 1djjb
+md5_6_alpha_upper: 1DJJB
+md5_6_upper: '234527'
+name: Oobb Part Tray 02 11 09
+name_no_class: Part Tray 02 11 09
+name_no_color: 021109
+name_no_size: 02 11 09
+name_no_type: Tray 02 11 09
+oomp_key: oomp_oobb_part_tray_02_11_09
+oomp_word: kiss snake nose
+oomp_word_emoji: ':kiss: :snake: :nose:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':snake:'
+- ':nose:'
+oomp_word_list:
+- kiss
+- snake
+- nose
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x15_30_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x15_30_pin_through_hole
+id_no_color: 2x1530pinthroughhole
+id_no_size: 2x15_30_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x15_30_pin_through_hole
+manufacturer: ''
+md5: a68638ac7590b7cbc4deb95a57df84e3
+md5_10: a68638ac75
+md5_10_upper: A68638AC75
+md5_5: a6863
+md5_5_upper: A6863
+md5_6: a68638
+md5_6_alpha: 6hws8
+md5_6_alpha_upper: 6HWS8
+md5_6_upper: A68638
+name: Electronic Header 2 54 Mm Dual Row 2X15 30 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X15 30 Pin Through Hole
+name_no_color: 2X1530Pinthroughhole
+name_no_size: 2X15 30 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X15 30 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x15_30_pin_through_hole
+oomp_word: trumpet bath frog
+oomp_word_emoji: ':trumpet: :bath: :frog:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':bath:'
+- ':frog:'
+oomp_word_list:
+- trumpet
+- bath
+- frog
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

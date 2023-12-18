@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0209ex48teethshmotorgearmotorttmotor01
+id_no_size: 02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: 15722a4524b22290b0ac973c34170dbe
+md5_10: 15722a4524
+md5_10_upper: 15722A4524
+md5_5: '15722'
+md5_5_upper: '15722'
+md5_6: 15722a
+md5_6_alpha: u4h6
+md5_6_alpha_upper: U4H6
+md5_6_upper: 15722A
+name: Oobb Part Pulley Gt2 02 09 Ex 48 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 02 09 Ex 48 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_color: 0209Ex48Teethshmotorgearmotorttmotor01
+name_no_size: 02 09 Ex 48 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 02 09 Ex 48 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_48_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: poop dolls umbrella
+oomp_word_emoji: ':poop: :dolls: :umbrella:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':dolls:'
+- ':umbrella:'
+oomp_word_list:
+- poop
+- dolls
+- umbrella
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_05_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14_ex_ninety_degree
+id: oobb_part_plate_05_01_14_ex_ninety_degree
+id_no_class: part_plate_05_01_14_ex_ninety_degree
+id_no_color: 050114exninetydegree
+id_no_size: 05_01_14_ex_ninety_degree
+id_no_type: plate_05_01_14_ex_ninety_degree
+manufacturer: ''
+md5: d3bdb41d862ba55c80a385dd04255af6
+md5_10: d3bdb41d86
+md5_10_upper: D3BDB41D86
+md5_5: d3bdb
+md5_5_upper: D3BDB
+md5_6: d3bdb4
+md5_6_alpha: 89fas
+md5_6_alpha_upper: 89FAS
+md5_6_upper: D3BDB4
+name: Oobb Part Plate 05 01 14 Ex Ninety Degree
+name_no_class: Part Plate 05 01 14 Ex Ninety Degree
+name_no_color: 050114Exninetydegree
+name_no_size: 05 01 14 Ex Ninety Degree
+name_no_type: Plate 05 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_05_01_14_ex_ninety_degree
+oomp_word: tomato rice coffee
+oomp_word_emoji: ':tomato: :rice: :coffee:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':rice:'
+- ':coffee:'
+oomp_word_list:
+- tomato
+- rice
+- coffee
+part_number: ''
+size: plate
+type: part

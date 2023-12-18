@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_30'
+directory: parts/oobb_part_tray_thin_03_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_01_30
+id: oobb_part_tray_thin_03_01_30
+id_no_class: part_tray_thin_03_01_30
+id_no_color: '030130'
+id_no_size: '03_01_30'
+id_no_type: tray_thin_03_01_30
+manufacturer: ''
+md5: e305f570b895177f21b96f19f0231b09
+md5_10: e305f570b8
+md5_10_upper: E305F570B8
+md5_5: e305f
+md5_5_upper: E305F
+md5_6: e305f5
+md5_6_alpha: 8uw39
+md5_6_alpha_upper: 8UW39
+md5_6_upper: E305F5
+name: Oobb Part Tray Thin 03 01 30
+name_no_class: Part Tray Thin 03 01 30
+name_no_color: '030130'
+name_no_size: 03 01 30
+name_no_type: Tray Thin 03 01 30
+oomp_key: oomp_oobb_part_tray_thin_03_01_30
+oomp_word: rowboat kissing four
+oomp_word_emoji: ':rowboat: :kissing: :four:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':kissing:'
+- ':four:'
+oomp_word_list:
+- rowboat
+- kissing
+- four
+part_number: ''
+size: tray_thin
+type: part

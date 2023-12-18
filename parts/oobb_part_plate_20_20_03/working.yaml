@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_20_03'
+directory: parts/oobb_part_plate_20_20_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_20_03
+id: oobb_part_plate_20_20_03
+id_no_class: part_plate_20_20_03
+id_no_color: '202003'
+id_no_size: '20_20_03'
+id_no_type: plate_20_20_03
+manufacturer: ''
+md5: 31b8f394fcbf2bc7d82b4e5e11614535
+md5_10: 31b8f394fc
+md5_10_upper: 31B8F394FC
+md5_5: 31b8f
+md5_5_upper: 31B8F
+md5_6: 31b8f3
+md5_6_alpha: 1xucz
+md5_6_alpha_upper: 1XUCZ
+md5_6_upper: 31B8F3
+name: Oobb Part Plate 20 20 03
+name_no_class: Part Plate 20 20 03
+name_no_color: '202003'
+name_no_size: 20 20 03
+name_no_type: Plate 20 20 03
+oomp_key: oomp_oobb_part_plate_20_20_03
+oomp_word: ocean hamburger two
+oomp_word_emoji: ':ocean: :hamburger: :two:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':hamburger:'
+- ':two:'
+oomp_word_list:
+- ocean
+- hamburger
+- two
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 15_ex_nut
+directory: parts/oobb_part_shaft_15_ex_nut
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_ex_nut
+id: oobb_part_shaft_15_ex_nut
+id_no_class: part_shaft_15_ex_nut
+id_no_color: 15exnut
+id_no_size: 15_ex_nut
+id_no_type: shaft_15_ex_nut
+manufacturer: ''
+md5: b8fd5478314eec3e2fe5c1d193e85f31
+md5_10: b8fd547831
+md5_10_upper: B8FD547831
+md5_5: b8fd5
+md5_5_upper: B8FD5
+md5_6: b8fd54
+md5_6_alpha: 77uj8
+md5_6_alpha_upper: 77UJ8
+md5_6_upper: B8FD54
+name: Oobb Part Shaft 15 Ex Nut
+name_no_class: Part Shaft 15 Ex Nut
+name_no_color: 15Exnut
+name_no_size: 15 Ex Nut
+name_no_type: Shaft 15 Ex Nut
+oomp_key: oomp_oobb_part_shaft_15_ex_nut
+oomp_word: hamburger parking whale
+oomp_word_emoji: ':hamburger: :parking: :whale:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':parking:'
+- ':whale:'
+oomp_word_list:
+- hamburger
+- parking
+- whale
+part_number: ''
+size: shaft
+type: part

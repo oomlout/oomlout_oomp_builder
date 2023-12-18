@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: espressif_esp32
+directory: parts/electronic_breakout_board_devkitc_mcu_espressif_esp32
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_devkitc_mcu_espressif_esp32
+id: electronic_breakout_board_devkitc_mcu_espressif_esp32
+id_no_class: breakout_board_devkitc_mcu_espressif_esp32
+id_no_color: espressif_esp32
+id_no_size: mcu_espressif_esp32
+id_no_type: devkitc_mcu_espressif_esp32
+manufacturer: ''
+md5: 16e38de8e43dbbc4ca41fdb138d053ac
+md5_10: 16e38de8e4
+md5_10_upper: 16E38DE8E4
+md5_5: 16e38
+md5_5_upper: 16E38
+md5_6: 16e38d
+md5_6_alpha: w5fx
+md5_6_alpha_upper: W5FX
+md5_6_upper: 16E38D
+name: Electronic Breakout Board Devkitc Mcu Espressif Esp32
+name_no_class: Breakout Board Devkitc Mcu Espressif Esp32
+name_no_color: Espressif Esp32
+name_no_size: Mcu Espressif Esp32
+name_no_type: Devkitc Mcu Espressif Esp32
+oomp_key: oomp_electronic_breakout_board_devkitc_mcu_espressif_esp32
+oomp_word: thumbsup rowboat scroll
+oomp_word_emoji: ':thumbsup: :rowboat: :scroll:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':rowboat:'
+- ':scroll:'
+oomp_word_list:
+- thumbsup
+- rowboat
+- scroll
+part_number: ''
+size: devkitc
+type: breakout_board

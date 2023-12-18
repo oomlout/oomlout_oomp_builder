@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_10_30'
+directory: parts/oobb_part_tray_vertical_11_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_10_30
+id: oobb_part_tray_vertical_11_10_30
+id_no_class: part_tray_vertical_11_10_30
+id_no_color: '111030'
+id_no_size: '11_10_30'
+id_no_type: tray_vertical_11_10_30
+manufacturer: ''
+md5: 1083ea6d6ccf40b380f0127435baa1fb
+md5_10: 1083ea6d6c
+md5_10_upper: 1083EA6D6C
+md5_5: 1083e
+md5_5_upper: 1083E
+md5_6: 1083ea
+md5_6_alpha: n756
+md5_6_alpha_upper: N756
+md5_6_upper: 1083EA
+name: Oobb Part Tray Vertical 11 10 30
+name_no_class: Part Tray Vertical 11 10 30
+name_no_color: '111030'
+name_no_size: 11 10 30
+name_no_type: Tray Vertical 11 10 30
+oomp_key: oomp_oobb_part_tray_vertical_11_10_30
+oomp_word: star lock tractor
+oomp_word_emoji: ':star: :lock: :tractor:'
+oomp_word_emoji_list:
+- ':star:'
+- ':lock:'
+- ':tractor:'
+oomp_word_list:
+- star
+- lock
+- tractor
+part_number: ''
+size: tray_vertical
+type: part

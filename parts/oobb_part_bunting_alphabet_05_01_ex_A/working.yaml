@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_a
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_a
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_a
+id: oobb_part_bunting_alphabet_05_01_ex_a
+id_no_class: part_bunting_alphabet_05_01_ex_a
+id_no_color: 0501exa
+id_no_size: 05_01_ex_a
+id_no_type: bunting_alphabet_05_01_ex_a
+manufacturer: ''
+md5: ca28c0d50170acceafc14539f62f6bd0
+md5_10: ca28c0d501
+md5_10_upper: CA28C0D501
+md5_5: ca28c
+md5_5_upper: CA28C
+md5_6: ca28c0
+md5_6_alpha: 7vyrk
+md5_6_alpha_upper: 7VYRK
+md5_6_upper: CA28C0
+name: Oobb Part Bunting Alphabet 05 01 Ex A
+name_no_class: Part Bunting Alphabet 05 01 Ex A
+name_no_color: 0501Exa
+name_no_size: 05 01 Ex A
+name_no_type: Bunting Alphabet 05 01 Ex A
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_a
+oomp_word: cherries tongue bread
+oomp_word_emoji: ':cherries: :tongue: :bread:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':tongue:'
+- ':bread:'
+oomp_word_list:
+- cherries
+- tongue
+- bread
+part_number: ''
+size: bunting_alphabet
+type: part

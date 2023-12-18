@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_02_09
+directory: parts/oobb_part_tray_vertical_08_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_02_09
+id: oobb_part_tray_vertical_08_02_09
+id_no_class: part_tray_vertical_08_02_09
+id_no_color: 080209
+id_no_size: 08_02_09
+id_no_type: tray_vertical_08_02_09
+manufacturer: ''
+md5: 2c7f2385efc5adbdc598cdd2dd59771b
+md5_10: 2c7f2385ef
+md5_10_upper: 2C7F2385EF
+md5_5: 2c7f2
+md5_5_upper: 2C7F2
+md5_6: 2c7f23
+md5_6_alpha: 1qi3n
+md5_6_alpha_upper: 1QI3N
+md5_6_upper: 2C7F23
+name: Oobb Part Tray Vertical 08 02 09
+name_no_class: Part Tray Vertical 08 02 09
+name_no_color: 080209
+name_no_size: 08 02 09
+name_no_type: Tray Vertical 08 02 09
+oomp_key: oomp_oobb_part_tray_vertical_08_02_09
+oomp_word: snowflake speaker kiss
+oomp_word_emoji: ':snowflake: :speaker: :kiss:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':speaker:'
+- ':kiss:'
+oomp_word_list:
+- snowflake
+- speaker
+- kiss
+part_number: ''
+size: tray_vertical
+type: part

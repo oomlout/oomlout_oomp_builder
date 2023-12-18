@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_55
+directory: parts/oobb_part_bolt_hardware_bolt_m6_55
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_55
+id: oobb_part_bolt_hardware_bolt_m6_55
+id_no_class: part_bolt_hardware_bolt_m6_55
+id_no_color: hardwarem655
+id_no_size: hardware_m6_55
+id_no_type: bolt_hardware_bolt_m6_55
+manufacturer: ''
+md5: 97f4285acb6d6e954ba7610897dfd549
+md5_10: 97f4285acb
+md5_10_upper: 97F4285ACB
+md5_5: 97f42
+md5_5_upper: 97F42
+md5_6: 97f428
+md5_6_alpha: 5xfzc
+md5_6_alpha_upper: 5XFZC
+md5_6_upper: 97F428
+name: Oobb Part Bolt Hardware Bolt M6 55
+name_no_class: Part Bolt Hardware Bolt M6 55
+name_no_color: Hardwarem655
+name_no_size: Hardware M6 55
+name_no_type: Bolt Hardware Bolt M6 55
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_55
+oomp_word: baseball three tongue
+oomp_word_emoji: ':baseball: :three: :tongue:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':three:'
+- ':tongue:'
+oomp_word_list:
+- baseball
+- three
+- tongue
+part_number: ''
+size: bolt
+type: part

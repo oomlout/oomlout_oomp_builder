@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_ex_12d0_teeth_sh_m3
+directory: parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_m3
+id: oobb_part_gear_1d5_03_ex_12d0_teeth_sh_m3
+id_no_class: part_gear_1d5_03_ex_12d0_teeth_sh_m3
+id_no_color: 1d503ex12d0teethshm3
+id_no_size: 1d5_03_ex_12d0_teeth_sh_m3
+id_no_type: gear_1d5_03_ex_12d0_teeth_sh_m3
+manufacturer: ''
+md5: 45268b6348553347c2f8231f927a5b99
+md5_10: 45268b6348
+md5_10_upper: 45268B6348
+md5_5: '45268'
+md5_5_upper: '45268'
+md5_6: 45268b
+md5_6_alpha: 2p4sr
+md5_6_alpha_upper: 2P4SR
+md5_6_upper: 45268B
+name: Oobb Part Gear 1D5 03 Ex 12D0 Teeth Sh M3
+name_no_class: Part Gear 1D5 03 Ex 12D0 Teeth Sh M3
+name_no_color: 1D503Ex12D0Teethshm3
+name_no_size: 1D5 03 Ex 12D0 Teeth Sh M3
+name_no_type: Gear 1D5 03 Ex 12D0 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_1d5_03_ex_12d0_teeth_sh_m3
+oomp_word: snake eyes door
+oomp_word_emoji: ':snake: :eyes: :door:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':eyes:'
+- ':door:'
+oomp_word_list:
+- snake
+- eyes
+- door
+part_number: ''
+size: gear
+type: part

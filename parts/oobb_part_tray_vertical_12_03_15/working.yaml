@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_15'
+directory: parts/oobb_part_tray_vertical_12_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_03_15
+id: oobb_part_tray_vertical_12_03_15
+id_no_class: part_tray_vertical_12_03_15
+id_no_color: '120315'
+id_no_size: '12_03_15'
+id_no_type: tray_vertical_12_03_15
+manufacturer: ''
+md5: 3a66518e95f8e5e84cd3f0e374ae9341
+md5_10: 3a66518e95
+md5_10_upper: 3A66518E95
+md5_5: 3a665
+md5_5_upper: 3A665
+md5_6: 3a6651
+md5_6_alpha: 2a15d
+md5_6_alpha_upper: 2A15D
+md5_6_upper: 3A6651
+name: Oobb Part Tray Vertical 12 03 15
+name_no_class: Part Tray Vertical 12 03 15
+name_no_color: '120315'
+name_no_size: 12 03 15
+name_no_type: Tray Vertical 12 03 15
+oomp_key: oomp_oobb_part_tray_vertical_12_03_15
+oomp_word: koala leaves snail
+oomp_word_emoji: ':koala: :leaves: :snail:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':leaves:'
+- ':snail:'
+oomp_word_list:
+- koala
+- leaves
+- snail
+part_number: ''
+size: tray_vertical
+type: part

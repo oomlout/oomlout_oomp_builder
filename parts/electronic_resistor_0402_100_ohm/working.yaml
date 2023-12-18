@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_ohm
+directory: parts/electronic_resistor_0402_100_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm
+id: electronic_resistor_0402_100_ohm
+id_no_class: resistor_0402_100_ohm
+id_no_color: 100ohm
+id_no_size: 100_ohm
+id_no_type: 0402_100_ohm
+manufacturer: ''
+md5: 5115eb5c6144e661f58cec2948671275
+md5_10: 5115eb5c61
+md5_10_upper: 5115EB5C61
+md5_5: 5115e
+md5_5_upper: 5115E
+md5_6: 5115eb
+md5_6_alpha: 35wbv
+md5_6_alpha_upper: 35WBV
+md5_6_upper: 5115EB
+name: Electronic Resistor 0402 100 Ohm
+name_no_class: Resistor 0402 100 Ohm
+name_no_color: 100Ohm
+name_no_size: 100 Ohm
+name_no_type: 0402 100 Ohm
+oomp_key: oomp_electronic_resistor_0402_100_ohm
+oomp_word: snail poop car
+oomp_word_emoji: ':snail: :poop: :car:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':poop:'
+- ':car:'
+oomp_word_list:
+- snail
+- poop
+- car
+part_number: ''
+size: '0402'
+type: resistor

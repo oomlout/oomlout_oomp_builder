@@ -1,0 +1,40 @@
+classification: hardware
+color: 16016_size
+description_extra: ''
+description_main: 80_mm_id_125_mm_od_14_mm_depth
+directory: parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+id: hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+id_no_class: bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+id_no_color: 80_mm_id_125_mm_od_14_mm_depth
+id_no_size: 16016_size_80_mm_id_125_mm_od_14_mm_depth
+id_no_type: 16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+manufacturer: ''
+md5: 9640bb714359776d798b9fc602f91b16
+md5_10: 9640bb7143
+md5_10_upper: 9640BB7143
+md5_5: 9640b
+md5_5_upper: 9640B
+md5_6: 9640bb
+md5_6_alpha: 5v1yz
+md5_6_alpha_upper: 5V1YZ
+md5_6_upper: 9640BB
+name: Hardware Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
+name_no_class: Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
+name_no_color: 80 Mm Id 125 Mm Od 14 Mm Depth
+name_no_size: 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
+name_no_type: 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+oomp_word: basketball racehorse curry
+oomp_word_emoji: ':basketball: :racehorse: :curry:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':racehorse:'
+- ':curry:'
+oomp_word_list:
+- basketball
+- racehorse
+- curry
+part_number: ''
+size: 16000_series
+type: bearing

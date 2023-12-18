@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_03_ex_t
+directory: parts/oobb_part_plate_03_02_03_ex_t
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_02_03_ex_t
+id: oobb_part_plate_03_02_03_ex_t
+id_no_class: part_plate_03_02_03_ex_t
+id_no_color: 030203ext
+id_no_size: 03_02_03_ex_t
+id_no_type: plate_03_02_03_ex_t
+manufacturer: ''
+md5: 566d95cfd6e7fc2e99f0af9b9c0cd655
+md5_10: 566d95cfd6
+md5_10_upper: 566D95CFD6
+md5_5: 566d9
+md5_5_upper: 566D9
+md5_6: 566d95
+md5_6_alpha: 3dehh
+md5_6_alpha_upper: 3DEHH
+md5_6_upper: 566D95
+name: Oobb Part Plate 03 02 03 Ex T
+name_no_class: Part Plate 03 02 03 Ex T
+name_no_color: 030203Ext
+name_no_size: 03 02 03 Ex T
+name_no_type: Plate 03 02 03 Ex T
+oomp_key: oomp_oobb_part_plate_03_02_03_ex_t
+oomp_word: ram shell telescope
+oomp_word_emoji: ':ram: :shell: :telescope:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':shell:'
+- ':telescope:'
+oomp_word_list:
+- ram
+- shell
+- telescope
+part_number: ''
+size: plate
+type: part

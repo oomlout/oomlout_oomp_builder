@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_03'
+directory: parts/oobb_part_plate_19_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_03
+id: oobb_part_plate_19_01_03
+id_no_class: part_plate_19_01_03
+id_no_color: '190103'
+id_no_size: '19_01_03'
+id_no_type: plate_19_01_03
+manufacturer: ''
+md5: 5a76d0909f1e24be110e07a36cdb83fa
+md5_10: 5a76d0909f
+md5_10_upper: 5A76D0909F
+md5_5: 5a76d
+md5_5_upper: 5A76D
+md5_6: 5a76d0
+md5_6_alpha: 3j2kw
+md5_6_alpha_upper: 3J2KW
+md5_6_upper: 5A76D0
+name: Oobb Part Plate 19 01 03
+name_no_class: Part Plate 19 01 03
+name_no_color: '190103'
+name_no_size: 19 01 03
+name_no_type: Plate 19 01 03
+oomp_key: oomp_oobb_part_plate_19_01_03
+oomp_word: goat santa banana
+oomp_word_emoji: ':goat: :santa: :banana:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':santa:'
+- ':banana:'
+oomp_word_list:
+- goat
+- santa
+- banana
+part_number: ''
+size: plate
+type: part

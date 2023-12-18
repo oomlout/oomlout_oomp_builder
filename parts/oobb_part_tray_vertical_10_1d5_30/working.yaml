@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_1d5_30
+directory: parts/oobb_part_tray_vertical_10_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_1d5_30
+id: oobb_part_tray_vertical_10_1d5_30
+id_no_class: part_tray_vertical_10_1d5_30
+id_no_color: 101d530
+id_no_size: 10_1d5_30
+id_no_type: tray_vertical_10_1d5_30
+manufacturer: ''
+md5: 232b096181457168453638fbfbdd0847
+md5_10: 232b096181
+md5_10_upper: 232B096181
+md5_5: 232b0
+md5_5_upper: 232B0
+md5_6: 232b09
+md5_6_alpha: 1dedl
+md5_6_alpha_upper: 1DEDL
+md5_6_upper: 232B09
+name: Oobb Part Tray Vertical 10 1D5 30
+name_no_class: Part Tray Vertical 10 1D5 30
+name_no_color: 101D530
+name_no_size: 10 1D5 30
+name_no_type: Tray Vertical 10 1D5 30
+oomp_key: oomp_oobb_part_tray_vertical_10_1d5_30
+oomp_word: kiss cloud angry
+oomp_word_emoji: ':kiss: :cloud: :angry:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':cloud:'
+- ':angry:'
+oomp_word_list:
+- kiss
+- cloud
+- angry
+part_number: ''
+size: tray_vertical
+type: part

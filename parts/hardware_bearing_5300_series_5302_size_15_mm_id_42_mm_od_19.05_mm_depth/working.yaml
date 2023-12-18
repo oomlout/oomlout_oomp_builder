@@ -1,0 +1,40 @@
+classification: hardware
+color: 5302_size
+description_extra: ''
+description_main: 15_mm_id_42_mm_od_19.05_mm_depth
+directory: parts/hardware_bearing_5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+id: hardware_bearing_5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+id_no_class: bearing_5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+id_no_color: 15_mm_id_42_mm_od_19.05_mm_depth
+id_no_size: 5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+id_no_type: 5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+manufacturer: ''
+md5: 66296547bd4efe2f043946473904d29f
+md5_10: 66296547bd
+md5_10_upper: 66296547BD
+md5_5: '66296'
+md5_5_upper: '66296'
+md5_6: '662965'
+md5_6_alpha: 3zi3p
+md5_6_alpha_upper: 3ZI3P
+md5_6_upper: '662965'
+name: Hardware Bearing 5300 Series 5302 Size 15 Mm Id 42 Mm Od 19.05 Mm Depth
+name_no_class: Bearing 5300 Series 5302 Size 15 Mm Id 42 Mm Od 19.05 Mm Depth
+name_no_color: 15 Mm Id 42 Mm Od 19.05 Mm Depth
+name_no_size: 5302 Size 15 Mm Id 42 Mm Od 19.05 Mm Depth
+name_no_type: 5300 Series 5302 Size 15 Mm Id 42 Mm Od 19.05 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5302_size_15_mm_id_42_mm_od_19.05_mm_depth
+oomp_word: leaves sunny maple_leaf
+oomp_word_emoji: ':leaves: :sunny: :maple_leaf:'
+oomp_word_emoji_list:
+- ':leaves:'
+- ':sunny:'
+- ':maple_leaf:'
+oomp_word_list:
+- leaves
+- sunny
+- maple_leaf
+part_number: ''
+size: 5300_series
+type: bearing

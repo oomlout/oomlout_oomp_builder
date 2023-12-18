@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 27_pin
+directory: parts/electronic_socket_2_54_mm_27_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole
+id: electronic_socket_2_54_mm_27_pin_through_hole
+id_no_class: socket_2_54_mm_27_pin_through_hole
+id_no_color: 27pinthroughhole
+id_no_size: 27_pin_through_hole
+id_no_type: 2_54_mm_27_pin_through_hole
+manufacturer: ''
+md5: 6a9b13e97af39b9cba4eeca8c095cffe
+md5_10: 6a9b13e97a
+md5_10_upper: 6A9B13E97A
+md5_5: 6a9b1
+md5_5_upper: 6A9B1
+md5_6: 6a9b13
+md5_6_alpha: 45qtv
+md5_6_alpha_upper: 45QTV
+md5_6_upper: 6A9B13
+name: Electronic Socket 2 54 Mm 27 Pin Through Hole
+name_no_class: Socket 2 54 Mm 27 Pin Through Hole
+name_no_color: 27Pinthroughhole
+name_no_size: 27 Pin Through Hole
+name_no_type: 2 54 Mm 27 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_27_pin_through_hole
+oomp_word: palm_tree ski question
+oomp_word_emoji: ':palm_tree: :ski: :question:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':ski:'
+- ':question:'
+oomp_word_list:
+- palm_tree
+- ski
+- question
+part_number: ''
+size: 2_54_mm
+type: socket

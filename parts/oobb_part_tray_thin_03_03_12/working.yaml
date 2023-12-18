@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_12'
+directory: parts/oobb_part_tray_thin_03_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_03_12
+id: oobb_part_tray_thin_03_03_12
+id_no_class: part_tray_thin_03_03_12
+id_no_color: '030312'
+id_no_size: '03_03_12'
+id_no_type: tray_thin_03_03_12
+manufacturer: ''
+md5: ed5feb4b36e5134275981ccbb1c36722
+md5_10: ed5feb4b36
+md5_10_upper: ED5FEB4B36
+md5_5: ed5fe
+md5_5_upper: ED5FE
+md5_6: ed5feb
+md5_6_alpha: 99fjf
+md5_6_alpha_upper: 99FJF
+md5_6_upper: ED5FEB
+name: Oobb Part Tray Thin 03 03 12
+name_no_class: Part Tray Thin 03 03 12
+name_no_color: '030312'
+name_no_size: 03 03 12
+name_no_type: Tray Thin 03 03 12
+oomp_key: oomp_oobb_part_tray_thin_03_03_12
+oomp_word: bus leopard car
+oomp_word_emoji: ':bus: :leopard: :car:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':leopard:'
+- ':car:'
+oomp_word_list:
+- bus
+- leopard
+- car
+part_number: ''
+size: tray_thin
+type: part

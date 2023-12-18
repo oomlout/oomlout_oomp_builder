@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_18
+directory: parts/oobb_part_tray_vertical_07_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_03_18
+id: oobb_part_tray_vertical_07_03_18
+id_no_class: part_tray_vertical_07_03_18
+id_no_color: 070318
+id_no_size: 07_03_18
+id_no_type: tray_vertical_07_03_18
+manufacturer: ''
+md5: 70ca064ee587edecc7c743ce51bff3a8
+md5_10: 70ca064ee5
+md5_10_upper: 70CA064EE5
+md5_5: 70ca0
+md5_5_upper: 70CA0
+md5_6: 70ca06
+md5_6_alpha: 4efie
+md5_6_alpha_upper: 4EFIE
+md5_6_upper: 70CA06
+name: Oobb Part Tray Vertical 07 03 18
+name_no_class: Part Tray Vertical 07 03 18
+name_no_color: 070318
+name_no_size: 07 03 18
+name_no_type: Tray Vertical 07 03 18
+oomp_key: oomp_oobb_part_tray_vertical_07_03_18
+oomp_word: squirrel cherries sleeping
+oomp_word_emoji: ':squirrel: :cherries: :sleeping:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':cherries:'
+- ':sleeping:'
+oomp_word_list:
+- squirrel
+- cherries
+- sleeping
+part_number: ''
+size: tray_vertical
+type: part

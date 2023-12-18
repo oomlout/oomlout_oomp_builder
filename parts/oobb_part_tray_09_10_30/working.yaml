@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_10_30
+directory: parts/oobb_part_tray_09_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_30
+id: oobb_part_tray_09_10_30
+id_no_class: part_tray_09_10_30
+id_no_color: 091030
+id_no_size: 09_10_30
+id_no_type: tray_09_10_30
+manufacturer: ''
+md5: 41da0b361b0adc8003f03e37f85b76ba
+md5_10: 41da0b361b
+md5_10_upper: 41DA0B361B
+md5_5: 41da0
+md5_5_upper: 41DA0
+md5_6: 41da0b
+md5_6_alpha: 2khzf
+md5_6_alpha_upper: 2KHZF
+md5_6_upper: 41DA0B
+name: Oobb Part Tray 09 10 30
+name_no_class: Part Tray 09 10 30
+name_no_color: 091030
+name_no_size: 09 10 30
+name_no_type: Tray 09 10 30
+oomp_key: oomp_oobb_part_tray_09_10_30
+oomp_word: camel hotel sunglasses
+oomp_word_emoji: ':camel: :hotel: :sunglasses:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':hotel:'
+- ':sunglasses:'
+oomp_word_list:
+- camel
+- hotel
+- sunglasses
+part_number: ''
+size: tray
+type: part

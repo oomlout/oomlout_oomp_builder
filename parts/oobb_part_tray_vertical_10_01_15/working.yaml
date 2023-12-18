@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_15'
+directory: parts/oobb_part_tray_vertical_10_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_01_15
+id: oobb_part_tray_vertical_10_01_15
+id_no_class: part_tray_vertical_10_01_15
+id_no_color: '100115'
+id_no_size: '10_01_15'
+id_no_type: tray_vertical_10_01_15
+manufacturer: ''
+md5: b89cc15d63500e760367ec487afe759b
+md5_10: b89cc15d63
+md5_10_upper: B89CC15D63
+md5_5: b89cc
+md5_5_upper: B89CC
+md5_6: b89cc1
+md5_6_alpha: 77bgh
+md5_6_alpha_upper: 77BGH
+md5_6_upper: B89CC1
+name: Oobb Part Tray Vertical 10 01 15
+name_no_class: Part Tray Vertical 10 01 15
+name_no_color: '100115'
+name_no_size: 10 01 15
+name_no_type: Tray Vertical 10 01 15
+oomp_key: oomp_oobb_part_tray_vertical_10_01_15
+oomp_word: hamburger spades doughnut
+oomp_word_emoji: ':hamburger: :spades: :doughnut:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':spades:'
+- ':doughnut:'
+oomp_word_list:
+- hamburger
+- spades
+- doughnut
+part_number: ''
+size: tray_vertical
+type: part

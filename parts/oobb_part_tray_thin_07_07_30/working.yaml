@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_30'
+directory: parts/oobb_part_tray_thin_07_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_07_30
+id: oobb_part_tray_thin_07_07_30
+id_no_class: part_tray_thin_07_07_30
+id_no_color: '070730'
+id_no_size: '07_07_30'
+id_no_type: tray_thin_07_07_30
+manufacturer: ''
+md5: b19ff3f699eb01d75d3e13f01f3b0d5e
+md5_10: b19ff3f699
+md5_10_upper: B19FF3F699
+md5_5: b19ff
+md5_5_upper: B19FF
+md5_6: b19ff3
+md5_6_alpha: 6xi43
+md5_6_alpha_upper: 6XI43
+md5_6_upper: B19FF3
+name: Oobb Part Tray Thin 07 07 30
+name_no_class: Part Tray Thin 07 07 30
+name_no_color: '070730'
+name_no_size: 07 07 30
+name_no_type: Tray Thin 07 07 30
+oomp_key: oomp_oobb_part_tray_thin_07_07_30
+oomp_word: briefcase diamonds two
+oomp_word_emoji: ':briefcase: :diamonds: :two:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':diamonds:'
+- ':two:'
+oomp_word_list:
+- briefcase
+- diamonds
+- two
+part_number: ''
+size: tray_thin
+type: part

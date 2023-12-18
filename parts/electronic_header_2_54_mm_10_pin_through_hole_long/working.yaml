@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 10_pin
+directory: parts/electronic_header_2_54_mm_10_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole_long
+id: electronic_header_2_54_mm_10_pin_through_hole_long
+id_no_class: header_2_54_mm_10_pin_through_hole_long
+id_no_color: 10pinthroughholelong
+id_no_size: 10_pin_through_hole_long
+id_no_type: 2_54_mm_10_pin_through_hole_long
+manufacturer: ''
+md5: 5b16b488b4ef13ae8d65610bf67f815e
+md5_10: 5b16b488b4
+md5_10_upper: 5B16B488B4
+md5_5: 5b16b
+md5_5_upper: 5B16B
+md5_6: 5b16b4
+md5_6_alpha: 3jy5w
+md5_6_alpha_upper: 3JY5W
+md5_6_upper: 5B16B4
+name: Electronic Header 2 54 Mm 10 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 10 Pin Through Hole Long
+name_no_color: 10Pinthroughholelong
+name_no_size: 10 Pin Through Hole Long
+name_no_type: 2 54 Mm 10 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_10_pin_through_hole_long
+oomp_word: rooster thumbsup coffee
+oomp_word_emoji: ':rooster: :thumbsup: :coffee:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':thumbsup:'
+- ':coffee:'
+oomp_word_list:
+- rooster
+- thumbsup
+- coffee
+part_number: ''
+size: 2_54_mm
+type: header

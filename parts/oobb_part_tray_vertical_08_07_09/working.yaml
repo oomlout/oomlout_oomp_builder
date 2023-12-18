@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_07_09
+directory: parts/oobb_part_tray_vertical_08_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_07_09
+id: oobb_part_tray_vertical_08_07_09
+id_no_class: part_tray_vertical_08_07_09
+id_no_color: 080709
+id_no_size: 08_07_09
+id_no_type: tray_vertical_08_07_09
+manufacturer: ''
+md5: e3fbc1c222e39d29d0df3af32cfdc546
+md5_10: e3fbc1c222
+md5_10_upper: E3FBC1C222
+md5_5: e3fbc
+md5_5_upper: E3FBC
+md5_6: e3fbc1
+md5_6_alpha: 8w8n5
+md5_6_alpha_upper: 8W8N5
+md5_6_upper: E3FBC1
+name: Oobb Part Tray Vertical 08 07 09
+name_no_class: Part Tray Vertical 08 07 09
+name_no_color: 080709
+name_no_size: 08 07 09
+name_no_type: Tray Vertical 08 07 09
+oomp_key: oomp_oobb_part_tray_vertical_08_07_09
+oomp_word: rowboat ok doughnut
+oomp_word_emoji: ':rowboat: :ok: :doughnut:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':ok:'
+- ':doughnut:'
+oomp_word_list:
+- rowboat
+- ok
+- doughnut
+part_number: ''
+size: tray_vertical
+type: part

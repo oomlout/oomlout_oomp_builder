@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_0402_560_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_560_ohm
+id: electronic_resistor_0402_560_ohm
+id_no_class: resistor_0402_560_ohm
+id_no_color: 560ohm
+id_no_size: 560_ohm
+id_no_type: 0402_560_ohm
+manufacturer: ''
+md5: 36544347913bccfd754a9e0d94d69903
+md5_10: '3654434791'
+md5_10_upper: '3654434791'
+md5_5: '36544'
+md5_5_upper: '36544'
+md5_6: '365443'
+md5_6_alpha: 24bb7
+md5_6_alpha_upper: 24BB7
+md5_6_upper: '365443'
+name: Electronic Resistor 0402 560 Ohm
+name_no_class: Resistor 0402 560 Ohm
+name_no_color: 560Ohm
+name_no_size: 560 Ohm
+name_no_type: 0402 560 Ohm
+oomp_key: oomp_electronic_resistor_0402_560_ohm
+oomp_word: rabbit whale elephant
+oomp_word_emoji: ':rabbit: :whale: :elephant:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':whale:'
+- ':elephant:'
+oomp_word_list:
+- rabbit
+- whale
+- elephant
+part_number: ''
+size: '0402'
+type: resistor

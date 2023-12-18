@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_02_30'
+directory: parts/oobb_part_tray_01_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_02_30
+id: oobb_part_tray_01_02_30
+id_no_class: part_tray_01_02_30
+id_no_color: '010230'
+id_no_size: '01_02_30'
+id_no_type: tray_01_02_30
+manufacturer: ''
+md5: 10bb914a72fa99caf0825481e05163d8
+md5_10: 10bb914a72
+md5_10_upper: 10BB914A72
+md5_5: 10bb9
+md5_5_upper: 10BB9
+md5_6: 10bb91
+md5_6_alpha: ni4x
+md5_6_alpha_upper: NI4X
+md5_6_upper: 10BB91
+name: Oobb Part Tray 01 02 30
+name_no_class: Part Tray 01 02 30
+name_no_color: '010230'
+name_no_size: 01 02 30
+name_no_type: Tray 01 02 30
+oomp_key: oomp_oobb_part_tray_01_02_30
+oomp_word: star curry pushpin
+oomp_word_emoji: ':star: :curry: :pushpin:'
+oomp_word_emoji_list:
+- ':star:'
+- ':curry:'
+- ':pushpin:'
+oomp_word_list:
+- star
+- curry
+- pushpin
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_03_03'
+directory: parts/oobb_part_plate_07_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_03_03
+id: oobb_part_plate_07_03_03
+id_no_class: part_plate_07_03_03
+id_no_color: '070303'
+id_no_size: '07_03_03'
+id_no_type: plate_07_03_03
+manufacturer: ''
+md5: 068d962c838ec6efad7d8a79d006ec80
+md5_10: 068d962c83
+md5_10_upper: 068D962C83
+md5_5: 068d9
+md5_5_upper: 068D9
+md5_6: 068d96
+md5_6_alpha: 97di
+md5_6_alpha_upper: 97DI
+md5_6_upper: 068D96
+name: Oobb Part Plate 07 03 03
+name_no_class: Part Plate 07 03 03
+name_no_color: '070303'
+name_no_size: 07 03 03
+name_no_type: Plate 07 03 03
+oomp_key: oomp_oobb_part_plate_07_03_03
+oomp_word: sleeping scroll basketball
+oomp_word_emoji: ':sleeping: :scroll: :basketball:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':scroll:'
+- ':basketball:'
+oomp_word_list:
+- sleeping
+- scroll
+- basketball
+part_number: ''
+size: plate
+type: part

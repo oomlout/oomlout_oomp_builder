@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 4_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_4_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_4_pin_dupont
+id_no_color: 4_pin_dupont
+id_no_size: black_4_pin_dupont
+id_no_type: 2_54_mm_black_4_pin_dupont
+manufacturer: ''
+md5: 1ad82705ad79c3f792f552e23e089e38
+md5_10: 1ad82705ad
+md5_10_upper: 1AD82705AD
+md5_5: 1ad82
+md5_5_upper: 1AD82
+md5_6: 1ad827
+md5_6_alpha: 11pgn
+md5_6_alpha_upper: 11PGN
+md5_6_upper: 1AD827
+name: Electronic Crimp Housing 2 54 Mm Black 4 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 4 Pin Dupont
+name_no_color: 4 Pin Dupont
+name_no_size: Black 4 Pin Dupont
+name_no_type: 2 54 Mm Black 4 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_4_pin_dupont
+oomp_word: clap hospital nose
+oomp_word_emoji: ':clap: :hospital: :nose:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':hospital:'
+- ':nose:'
+oomp_word_list:
+- clap
+- hospital
+- nose
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+id_no_color: 1d503ex12d0teethshmotorservostandard01
+id_no_size: 1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+id_no_type: gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 9c09980350516a9c212ee86232a8b734
+md5_10: 9c09980350
+md5_10_upper: 9C09980350
+md5_5: 9c099
+md5_5_upper: 9C099
+md5_6: 9c0998
+md5_6_alpha: 636hk
+md5_6_alpha_upper: 636HK
+md5_6_upper: 9C0998
+name: Oobb Part Gear 1D5 03 Ex 12D0 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 1D5 03 Ex 12D0 Teeth Sh Motor Servo Standard 01
+name_no_color: 1D503Ex12D0Teethshmotorservostandard01
+name_no_size: 1D5 03 Ex 12D0 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 1D5 03 Ex 12D0 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_1d5_03_ex_12d0_teeth_sh_motor_servo_standard_01
+oomp_word: spades angry tennis
+oomp_word_emoji: ':spades: :angry: :tennis:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':angry:'
+- ':tennis:'
+oomp_word_list:
+- spades
+- angry
+- tennis
+part_number: ''
+size: gear
+type: part

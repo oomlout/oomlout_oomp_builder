@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_12_18
+directory: parts/oobb_part_tray_06_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_12_18
+id: oobb_part_tray_06_12_18
+id_no_class: part_tray_06_12_18
+id_no_color: 061218
+id_no_size: 06_12_18
+id_no_type: tray_06_12_18
+manufacturer: ''
+md5: 5c776d3b1d6bc57e4d3e308b08d0bee0
+md5_10: 5c776d3b1d
+md5_10_upper: 5C776D3B1D
+md5_5: 5c776
+md5_5_upper: 5C776
+md5_6: 5c776d
+md5_6_alpha: 3lvu5
+md5_6_alpha_upper: 3LVU5
+md5_6_upper: 5C776D
+name: Oobb Part Tray 06 12 18
+name_no_class: Part Tray 06 12 18
+name_no_color: 061218
+name_no_size: 06 12 18
+name_no_type: Tray 06 12 18
+oomp_key: oomp_oobb_part_tray_06_12_18
+oomp_word: ox gift shell
+oomp_word_emoji: ':ox: :gift: :shell:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':gift:'
+- ':shell:'
+oomp_word_list:
+- ox
+- gift
+- shell
+part_number: ''
+size: tray
+type: part

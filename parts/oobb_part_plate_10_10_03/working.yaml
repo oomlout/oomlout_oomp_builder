@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_03'
+directory: parts/oobb_part_plate_10_10_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_10_03
+id: oobb_part_plate_10_10_03
+id_no_class: part_plate_10_10_03
+id_no_color: '101003'
+id_no_size: '10_10_03'
+id_no_type: plate_10_10_03
+manufacturer: ''
+md5: 1dce95cae0956b54ac49cfd2d6551d56
+md5_10: 1dce95cae0
+md5_10_upper: 1DCE95CAE0
+md5_5: 1dce9
+md5_5_upper: 1DCE9
+md5_6: 1dce95
+md5_6_alpha: 15v9x
+md5_6_alpha_upper: 15V9X
+md5_6_upper: 1DCE95
+name: Oobb Part Plate 10 10 03
+name_no_class: Part Plate 10 10 03
+name_no_color: '101003'
+name_no_size: 10 10 03
+name_no_type: Plate 10 10 03
+oomp_key: oomp_oobb_part_plate_10_10_03
+oomp_word: baby peach telescope
+oomp_word_emoji: ':baby: :peach: :telescope:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':peach:'
+- ':telescope:'
+oomp_word_list:
+- baby
+- peach
+- telescope
+part_number: ''
+size: plate
+type: part

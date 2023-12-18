@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_60_teeth_shield
+directory: parts/oobb_part_pulley_gt2_02_06_ex_60_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_60_teeth_shield
+id: oobb_part_pulley_gt2_02_06_ex_60_teeth_shield
+id_no_class: part_pulley_gt2_02_06_ex_60_teeth_shield
+id_no_color: 0206ex60teethshield
+id_no_size: 02_06_ex_60_teeth_shield
+id_no_type: pulley_gt2_02_06_ex_60_teeth_shield
+manufacturer: ''
+md5: 950addf065f84e432fdda00ab18fa235
+md5_10: 950addf065
+md5_10_upper: 950ADDF065
+md5_5: 950ad
+md5_5_upper: 950AD
+md5_6: 950add
+md5_6_alpha: 5tcrh
+md5_6_alpha_upper: 5TCRH
+md5_6_upper: 950ADD
+name: Oobb Part Pulley Gt2 02 06 Ex 60 Teeth Shield
+name_no_class: Part Pulley Gt2 02 06 Ex 60 Teeth Shield
+name_no_color: 0206Ex60Teethshield
+name_no_size: 02 06 Ex 60 Teeth Shield
+name_no_type: Pulley Gt2 02 06 Ex 60 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_60_teeth_shield
+oomp_word: telescope sleepy stars
+oomp_word_emoji: ':telescope: :sleepy: :stars:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':sleepy:'
+- ':stars:'
+oomp_word_list:
+- telescope
+- sleepy
+- stars
+part_number: ''
+size: pulley_gt2
+type: part

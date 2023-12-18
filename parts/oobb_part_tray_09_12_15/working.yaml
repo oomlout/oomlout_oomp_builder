@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_12_15
+directory: parts/oobb_part_tray_09_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_12_15
+id: oobb_part_tray_09_12_15
+id_no_class: part_tray_09_12_15
+id_no_color: 091215
+id_no_size: 09_12_15
+id_no_type: tray_09_12_15
+manufacturer: ''
+md5: 960bebab3f2abed4bd54c97d8d6976b9
+md5_10: 960bebab3f
+md5_10_upper: 960BEBAB3F
+md5_5: 960be
+md5_5_upper: 960BE
+md5_6: 960beb
+md5_6_alpha: 5urjf
+md5_6_alpha_upper: 5URJF
+md5_6_upper: 960BEB
+name: Oobb Part Tray 09 12 15
+name_no_class: Part Tray 09 12 15
+name_no_color: 091215
+name_no_size: 09 12 15
+name_no_type: Tray 09 12 15
+oomp_key: oomp_oobb_part_tray_09_12_15
+oomp_word: basketball sunglasses car
+oomp_word_emoji: ':basketball: :sunglasses: :car:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':sunglasses:'
+- ':car:'
+oomp_word_list:
+- basketball
+- sunglasses
+- car
+part_number: ''
+size: tray
+type: part

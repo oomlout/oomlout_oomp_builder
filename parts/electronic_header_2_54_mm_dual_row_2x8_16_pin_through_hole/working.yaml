@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x8_16_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x8_16_pin_through_hole
+id_no_color: 2x816pinthroughhole
+id_no_size: 2x8_16_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x8_16_pin_through_hole
+manufacturer: ''
+md5: 9acef0322bfc41f3651d7aedc87c98e4
+md5_10: 9acef0322b
+md5_10_upper: 9ACEF0322B
+md5_5: 9acef
+md5_5_upper: 9ACEF
+md5_6: 9acef0
+md5_6_alpha: 61gc0
+md5_6_alpha_upper: 61GC0
+md5_6_upper: 9ACEF0
+name: Electronic Header 2 54 Mm Dual Row 2X8 16 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X8 16 Pin Through Hole
+name_no_color: 2X816Pinthroughhole
+name_no_size: 2X8 16 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X8 16 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole
+oomp_word: golf peach train
+oomp_word_emoji: ':golf: :peach: :train:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':peach:'
+- ':train:'
+oomp_word_list:
+- golf
+- peach
+- train
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

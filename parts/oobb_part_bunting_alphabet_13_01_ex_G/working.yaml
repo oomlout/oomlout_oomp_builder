@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_g
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_g
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_g
+id: oobb_part_bunting_alphabet_13_01_ex_g
+id_no_class: part_bunting_alphabet_13_01_ex_g
+id_no_color: 1301exg
+id_no_size: 13_01_ex_g
+id_no_type: bunting_alphabet_13_01_ex_g
+manufacturer: ''
+md5: 07be2380bc43c9dd2b3fa545a5b9b1d8
+md5_10: 07be2380bc
+md5_10_upper: 07BE2380BC
+md5_5: 07be2
+md5_5_upper: 07BE2
+md5_6: 07be23
+md5_6_alpha: avj7
+md5_6_alpha_upper: AVJ7
+md5_6_upper: 07BE23
+name: Oobb Part Bunting Alphabet 13 01 Ex G
+name_no_class: Part Bunting Alphabet 13 01 Ex G
+name_no_color: 1301Exg
+name_no_size: 13 01 Ex G
+name_no_type: Bunting Alphabet 13 01 Ex G
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_g
+oomp_word: cry ramen kiss
+oomp_word_emoji: ':cry: :ramen: :kiss:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':ramen:'
+- ':kiss:'
+oomp_word_list:
+- cry
+- ramen
+- kiss
+part_number: ''
+size: bunting_alphabet
+type: part

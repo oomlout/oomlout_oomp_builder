@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_03_30
+directory: parts/oobb_part_tray_vertical_2d5_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_03_30
+id: oobb_part_tray_vertical_2d5_03_30
+id_no_class: part_tray_vertical_2d5_03_30
+id_no_color: 2d50330
+id_no_size: 2d5_03_30
+id_no_type: tray_vertical_2d5_03_30
+manufacturer: ''
+md5: 6f567b4b5ed286f81b4db2cf0e35f73b
+md5_10: 6f567b4b5e
+md5_10_upper: 6F567B4B5E
+md5_5: 6f567
+md5_5_upper: 6F567
+md5_6: 6f567b
+md5_6_alpha: 4ce4b
+md5_6_alpha_upper: 4CE4B
+md5_6_upper: 6F567B
+name: Oobb Part Tray Vertical 2D5 03 30
+name_no_class: Part Tray Vertical 2D5 03 30
+name_no_color: 2D50330
+name_no_size: 2D5 03 30
+name_no_type: Tray Vertical 2D5 03 30
+oomp_key: oomp_oobb_part_tray_vertical_2d5_03_30
+oomp_word: moon ram computer
+oomp_word_emoji: ':moon: :ram: :computer:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':ram:'
+- ':computer:'
+oomp_word_list:
+- moon
+- ram
+- computer
+part_number: ''
+size: tray_vertical
+type: part

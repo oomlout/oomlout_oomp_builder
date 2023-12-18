@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03_12
+directory: parts/oobb_part_tray_vertical_1d5_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_1d5_03_12
+id: oobb_part_tray_vertical_1d5_03_12
+id_no_class: part_tray_vertical_1d5_03_12
+id_no_color: 1d50312
+id_no_size: 1d5_03_12
+id_no_type: tray_vertical_1d5_03_12
+manufacturer: ''
+md5: ee7c9d887519644840a04a1f01cf1873
+md5_10: ee7c9d8875
+md5_10_upper: EE7C9D8875
+md5_5: ee7c9
+md5_5_upper: EE7C9
+md5_6: ee7c9d
+md5_6_alpha: 9azrx
+md5_6_alpha_upper: 9AZRX
+md5_6_upper: EE7C9D
+name: Oobb Part Tray Vertical 1D5 03 12
+name_no_class: Part Tray Vertical 1D5 03 12
+name_no_color: 1D50312
+name_no_size: 1D5 03 12
+name_no_type: Tray Vertical 1D5 03 12
+oomp_key: oomp_oobb_part_tray_vertical_1d5_03_12
+oomp_word: ambulance tv hearts
+oomp_word_emoji: ':ambulance: :tv: :hearts:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':tv:'
+- ':hearts:'
+oomp_word_list:
+- ambulance
+- tv
+- hearts
+part_number: ''
+size: tray_vertical
+type: part

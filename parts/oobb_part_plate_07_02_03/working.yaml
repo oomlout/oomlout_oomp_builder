@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_02_03'
+directory: parts/oobb_part_plate_07_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_02_03
+id: oobb_part_plate_07_02_03
+id_no_class: part_plate_07_02_03
+id_no_color: '070203'
+id_no_size: '07_02_03'
+id_no_type: plate_07_02_03
+manufacturer: ''
+md5: 0df1b1a74a16e87077fa20ad048c7210
+md5_10: 0df1b1a74a
+md5_10_upper: 0DF1B1A74A
+md5_5: 0df1b
+md5_5_upper: 0DF1B
+md5_6: 0df1b1
+md5_6_alpha: jl4h
+md5_6_alpha_upper: JL4H
+md5_6_upper: 0DF1B1
+name: Oobb Part Plate 07 02 03
+name_no_class: Part Plate 07 02 03
+name_no_color: '070203'
+name_no_size: 07 02 03
+name_no_type: Plate 07 02 03
+oomp_key: oomp_oobb_part_plate_07_02_03
+oomp_word: heart ticket briefcase
+oomp_word_emoji: ':heart: :ticket: :briefcase:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':ticket:'
+- ':briefcase:'
+oomp_word_list:
+- heart
+- ticket
+- briefcase
+part_number: ''
+size: plate
+type: part

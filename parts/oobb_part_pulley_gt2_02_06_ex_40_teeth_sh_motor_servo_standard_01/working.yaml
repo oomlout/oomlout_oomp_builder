@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_40_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+id_no_color: 0206ex40teethshmotorservostandard01
+id_no_size: 02_06_ex_40_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 6b9b5b05358101015664bd497e75e7e5
+md5_10: 6b9b5b0535
+md5_10_upper: 6B9B5B0535
+md5_5: 6b9b5
+md5_5_upper: 6B9B5
+md5_6: 6b9b5b
+md5_6_alpha: 475gb
+md5_6_alpha_upper: 475GB
+md5_6_upper: 6B9B5B
+name: Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_color: 0206Ex40Teethshmotorservostandard01
+name_no_size: 02 06 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_servo_standard_01
+oomp_word: chestnut ski rooster
+oomp_word_emoji: ':chestnut: :ski: :rooster:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':ski:'
+- ':rooster:'
+oomp_word_list:
+- chestnut
+- ski
+- rooster
+part_number: ''
+size: pulley_gt2
+type: part

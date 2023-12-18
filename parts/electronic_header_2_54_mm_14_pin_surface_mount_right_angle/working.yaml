@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_14_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_14_pin_surface_mount_right_angle
+id_no_color: 14pinsurfacemountrightangle
+id_no_size: 14_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_14_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 094fab39a83965904a30a3a2b961b710
+md5_10: 094fab39a8
+md5_10_upper: 094FAB39A8
+md5_5: 094fa
+md5_5_upper: 094FA
+md5_6: 094fab
+md5_6_alpha: d2uj
+md5_6_alpha_upper: D2UJ
+md5_6_upper: 094FAB
+name: Electronic Header 2 54 Mm 14 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 14 Pin Surface Mount Right Angle
+name_no_color: 14Pinsurfacemountrightangle
+name_no_size: 14 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 14 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_surface_mount_right_angle
+oomp_word: angry ant boot
+oomp_word_emoji: ':angry: :ant: :boot:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':ant:'
+- ':boot:'
+oomp_word_list:
+- angry
+- ant
+- boot
+part_number: ''
+size: 2_54_mm
+type: header

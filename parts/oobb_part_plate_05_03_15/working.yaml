@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_15'
+directory: parts/oobb_part_plate_05_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_15
+id: oobb_part_plate_05_03_15
+id_no_class: part_plate_05_03_15
+id_no_color: '050315'
+id_no_size: '05_03_15'
+id_no_type: plate_05_03_15
+manufacturer: ''
+md5: 914c8778ade4d67208ccea1a5fc74ed5
+md5_10: 914c8778ad
+md5_10_upper: 914C8778AD
+md5_5: 914c8
+md5_5_upper: 914C8
+md5_6: 914c87
+md5_6_alpha: 5o3gn
+md5_6_alpha_upper: 5O3GN
+md5_6_upper: 914C87
+name: Oobb Part Plate 05 03 15
+name_no_class: Part Plate 05 03 15
+name_no_color: '050315'
+name_no_size: 05 03 15
+name_no_type: Plate 05 03 15
+oomp_key: oomp_oobb_part_plate_05_03_15
+oomp_word: pushpin turtle toilet
+oomp_word_emoji: ':pushpin: :turtle: :toilet:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':turtle:'
+- ':toilet:'
+oomp_word_list:
+- pushpin
+- turtle
+- toilet
+part_number: ''
+size: plate
+type: part

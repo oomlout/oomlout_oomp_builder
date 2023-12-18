@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '31_01_12'
+directory: parts/oobb_part_plate_31_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_31_01_12
+id: oobb_part_plate_31_01_12
+id_no_class: part_plate_31_01_12
+id_no_color: '310112'
+id_no_size: '31_01_12'
+id_no_type: plate_31_01_12
+manufacturer: ''
+md5: f1210d0ac26786993e02ec88df8d167a
+md5_10: f1210d0ac2
+md5_10_upper: F1210D0AC2
+md5_5: f1210
+md5_5_upper: F1210
+md5_6: f1210d
+md5_6_alpha: 9epe5
+md5_6_alpha_upper: 9EPE5
+md5_6_upper: F1210D
+name: Oobb Part Plate 31 01 12
+name_no_class: Part Plate 31 01 12
+name_no_color: '310112'
+name_no_size: 31 01 12
+name_no_type: Plate 31 01 12
+oomp_key: oomp_oobb_part_plate_31_01_12
+oomp_word: ticket feet heart
+oomp_word_emoji: ':ticket: :feet: :heart:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':feet:'
+- ':heart:'
+oomp_word_list:
+- ticket
+- feet
+- heart
+part_number: ''
+size: plate
+type: part

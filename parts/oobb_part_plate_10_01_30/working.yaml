@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_30'
+directory: parts/oobb_part_plate_10_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_30
+id: oobb_part_plate_10_01_30
+id_no_class: part_plate_10_01_30
+id_no_color: '100130'
+id_no_size: '10_01_30'
+id_no_type: plate_10_01_30
+manufacturer: ''
+md5: 2cbea123bb01565abc8bcd6474baf1cc
+md5_10: 2cbea123bb
+md5_10_upper: 2CBEA123BB
+md5_5: 2cbea
+md5_5_upper: 2CBEA
+md5_6: 2cbea1
+md5_6_alpha: 1qun5
+md5_6_alpha_upper: 1QUN5
+md5_6_upper: 2CBEA1
+name: Oobb Part Plate 10 01 30
+name_no_class: Part Plate 10 01 30
+name_no_color: '100130'
+name_no_size: 10 01 30
+name_no_type: Plate 10 01 30
+oomp_key: oomp_oobb_part_plate_10_01_30
+oomp_word: snowflake ramen trophy
+oomp_word_emoji: ':snowflake: :ramen: :trophy:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':ramen:'
+- ':trophy:'
+oomp_word_list:
+- snowflake
+- ramen
+- trophy
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 624_size
+description_extra: ''
+description_main: 4_mm_id_13_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+id: hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+id_no_class: bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+id_no_color: 4_mm_id_13_mm_od_5_mm_depth
+id_no_size: 624_size_4_mm_id_13_mm_od_5_mm_depth
+id_no_type: 600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+manufacturer: ''
+md5: e1364e6ba955358d898f3e7794fe53af
+md5_10: e1364e6ba9
+md5_10_upper: E1364E6BA9
+md5_5: e1364
+md5_5_upper: E1364
+md5_6: e1364e
+md5_6_alpha: 8sci6
+md5_6_alpha_upper: 8SCI6
+md5_6_upper: E1364E
+name: Hardware Bearing 600 Series 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth
+name_no_color: 4 Mm Id 13 Mm Od 5 Mm Depth
+name_no_size: 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth
+name_no_type: 600 Series 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth
+oomp_word: boat rabbit honeybee
+oomp_word_emoji: ':boat: :rabbit: :honeybee:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':rabbit:'
+- ':honeybee:'
+oomp_word_list:
+- boat
+- rabbit
+- honeybee
+part_number: ''
+size: 600_series
+type: bearing

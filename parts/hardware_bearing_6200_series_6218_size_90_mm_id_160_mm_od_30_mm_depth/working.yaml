@@ -1,0 +1,40 @@
+classification: hardware
+color: 6218_size
+description_extra: ''
+description_main: 90_mm_id_160_mm_od_30_mm_depth
+directory: parts/hardware_bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+id: hardware_bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+id_no_class: bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+id_no_color: 90_mm_id_160_mm_od_30_mm_depth
+id_no_size: 6218_size_90_mm_id_160_mm_od_30_mm_depth
+id_no_type: 6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+manufacturer: ''
+md5: 80ea59c9941c3f651a31cc1bae29f0d3
+md5_10: 80ea59c994
+md5_10_upper: 80EA59C994
+md5_5: 80ea5
+md5_5_upper: 80EA5
+md5_6: 80ea59
+md5_6_alpha: 512zd
+md5_6_alpha_upper: 512ZD
+md5_6_upper: 80EA59
+name: Hardware Bearing 6200 Series 6218 Size 90 Mm Id 160 Mm Od 30 Mm Depth
+name_no_class: Bearing 6200 Series 6218 Size 90 Mm Id 160 Mm Od 30 Mm Depth
+name_no_color: 90 Mm Id 160 Mm Od 30 Mm Depth
+name_no_size: 6218 Size 90 Mm Id 160 Mm Od 30 Mm Depth
+name_no_type: 6200 Series 6218 Size 90 Mm Id 160 Mm Od 30 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
+oomp_word: hourglass tractor dragon
+oomp_word_emoji: ':hourglass: :tractor: :dragon:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':tractor:'
+- ':dragon:'
+oomp_word_list:
+- hourglass
+- tractor
+- dragon
+part_number: ''
+size: 6200_series
+type: bearing

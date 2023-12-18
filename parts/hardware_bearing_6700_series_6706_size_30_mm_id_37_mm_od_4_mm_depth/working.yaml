@@ -1,0 +1,40 @@
+classification: hardware
+color: 6706_size
+description_extra: ''
+description_main: 30_mm_id_37_mm_od_4_mm_depth
+directory: parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+id: hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+id_no_class: bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+id_no_color: 30_mm_id_37_mm_od_4_mm_depth
+id_no_size: 6706_size_30_mm_id_37_mm_od_4_mm_depth
+id_no_type: 6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+manufacturer: ''
+md5: d442f00e58471c74ace9ba0b9bf0eb83
+md5_10: d442f00e58
+md5_10_upper: D442F00E58
+md5_5: d442f
+md5_5_upper: D442F
+md5_6: d442f0
+md5_6_alpha: 8a5m8
+md5_6_alpha_upper: 8A5M8
+md5_6_upper: D442F0
+name: Hardware Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
+name_no_class: Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
+name_no_color: 30 Mm Id 37 Mm Od 4 Mm Depth
+name_no_size: 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
+name_no_type: 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+oomp_word: corn sheep train
+oomp_word_emoji: ':corn: :sheep: :train:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':sheep:'
+- ':train:'
+oomp_word_list:
+- corn
+- sheep
+- train
+part_number: ''
+size: 6700_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_through_hole
+id: electronic_header_2_54_mm_3_pin_through_hole
+id_no_class: header_2_54_mm_3_pin_through_hole
+id_no_color: 3pinthroughhole
+id_no_size: 3_pin_through_hole
+id_no_type: 2_54_mm_3_pin_through_hole
+manufacturer: ''
+md5: 976d4f67e8cecaf1f880e6bc86157f9c
+md5_10: 976d4f67e8
+md5_10_upper: 976D4F67E8
+md5_5: 976d4
+md5_5_upper: 976D4
+md5_6: 976d4f
+md5_6_alpha: 5wpcf
+md5_6_alpha_upper: 5WPCF
+md5_6_upper: 976D4F
+name: Electronic Header 2 54 Mm 3 Pin Through Hole
+name_no_class: Header 2 54 Mm 3 Pin Through Hole
+name_no_color: 3Pinthroughhole
+name_no_size: 3 Pin Through Hole
+name_no_type: 2 54 Mm 3 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_through_hole
+oomp_word: baseball shell ant
+oomp_word_emoji: ':baseball: :shell: :ant:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':shell:'
+- ':ant:'
+oomp_word_list:
+- baseball
+- shell
+- ant
+part_number: ''
+size: 2_54_mm
+type: header

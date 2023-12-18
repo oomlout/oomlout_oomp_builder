@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680_ohm
+directory: parts/electronic_resistor_0201_680_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_680_ohm
+id: electronic_resistor_0201_680_ohm
+id_no_class: resistor_0201_680_ohm
+id_no_color: 680ohm
+id_no_size: 680_ohm
+id_no_type: 0201_680_ohm
+manufacturer: ''
+md5: 373d945785c04c3622aa474d1db3d635
+md5_10: 373d945785
+md5_10_upper: 373D945785
+md5_5: 373d9
+md5_5_upper: 373D9
+md5_6: 373d94
+md5_6_alpha: 25lec
+md5_6_alpha_upper: 25LEC
+md5_6_upper: 373D94
+name: Electronic Resistor 0201 680 Ohm
+name_no_class: Resistor 0201 680 Ohm
+name_no_color: 680Ohm
+name_no_size: 680 Ohm
+name_no_type: 0201 680 Ohm
+oomp_key: oomp_electronic_resistor_0201_680_ohm
+oomp_word: wolf cow microscope
+oomp_word_emoji: ':wolf: :cow: :microscope:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':cow:'
+- ':microscope:'
+oomp_word_list:
+- wolf
+- cow
+- microscope
+part_number: ''
+size: '0201'
+type: resistor

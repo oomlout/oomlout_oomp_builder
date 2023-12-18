@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_01_12'
+directory: parts/oobb_part_plate_13_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_12
+id: oobb_part_plate_13_01_12
+id_no_class: part_plate_13_01_12
+id_no_color: '130112'
+id_no_size: '13_01_12'
+id_no_type: plate_13_01_12
+manufacturer: ''
+md5: ba09891681c57932df94d9ad42b2aa5b
+md5_10: ba09891681
+md5_10_upper: BA09891681
+md5_5: ba098
+md5_5_upper: BA098
+md5_6: ba0989
+md5_6_alpha: 79bih
+md5_6_alpha_upper: 79BIH
+md5_6_upper: BA0989
+name: Oobb Part Plate 13 01 12
+name_no_class: Part Plate 13 01 12
+name_no_color: '130112'
+name_no_size: 13 01 12
+name_no_type: Plate 13 01 12
+oomp_key: oomp_oobb_part_plate_13_01_12
+oomp_word: spaghetti angry hammer
+oomp_word_emoji: ':spaghetti: :angry: :hammer:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':angry:'
+- ':hammer:'
+oomp_word_list:
+- spaghetti
+- angry
+- hammer
+part_number: ''
+size: plate
+type: part

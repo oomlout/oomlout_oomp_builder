@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 20_pin
+directory: parts/electronic_header_2_54_mm_20_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_through_hole
+id: electronic_header_2_54_mm_20_pin_through_hole
+id_no_class: header_2_54_mm_20_pin_through_hole
+id_no_color: 20pinthroughhole
+id_no_size: 20_pin_through_hole
+id_no_type: 2_54_mm_20_pin_through_hole
+manufacturer: ''
+md5: eabc85da593973718373fa6a77df01b4
+md5_10: eabc85da59
+md5_10_upper: EABC85DA59
+md5_5: eabc8
+md5_5_upper: EABC8
+md5_6: eabc85
+md5_6_alpha: 95q4l
+md5_6_alpha_upper: 95Q4L
+md5_6_upper: EABC85
+name: Electronic Header 2 54 Mm 20 Pin Through Hole
+name_no_class: Header 2 54 Mm 20 Pin Through Hole
+name_no_color: 20Pinthroughhole
+name_no_size: 20 Pin Through Hole
+name_no_type: 2 54 Mm 20 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_20_pin_through_hole
+oomp_word: tractor sushi bulb
+oomp_word_emoji: ':tractor: :sushi: :bulb:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':sushi:'
+- ':bulb:'
+oomp_word_list:
+- tractor
+- sushi
+- bulb
+part_number: ''
+size: 2_54_mm
+type: header

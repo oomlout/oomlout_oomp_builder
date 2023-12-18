@@ -1,0 +1,40 @@
+classification: hardware
+color: 62205_size
+description_extra: ''
+description_main: 25_mm_id_52_mm_od_18_mm_depth
+directory: parts/hardware_bearing_62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+id: hardware_bearing_62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+id_no_class: bearing_62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+id_no_color: 25_mm_id_52_mm_od_18_mm_depth
+id_no_size: 62205_size_25_mm_id_52_mm_od_18_mm_depth
+id_no_type: 62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+manufacturer: ''
+md5: 27654b7559221b4cd69032921a5d74fe
+md5_10: 27654b7559
+md5_10_upper: 27654B7559
+md5_5: '27654'
+md5_5_upper: '27654'
+md5_6: 27654b
+md5_6_alpha: 1jc5n
+md5_6_alpha_upper: 1JC5N
+md5_6_upper: 27654B
+name: Hardware Bearing 62000 Series 62205 Size 25 Mm Id 52 Mm Od 18 Mm Depth
+name_no_class: Bearing 62000 Series 62205 Size 25 Mm Id 52 Mm Od 18 Mm Depth
+name_no_color: 25 Mm Id 52 Mm Od 18 Mm Depth
+name_no_size: 62205 Size 25 Mm Id 52 Mm Od 18 Mm Depth
+name_no_type: 62000 Series 62205 Size 25 Mm Id 52 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62205_size_25_mm_id_52_mm_od_18_mm_depth
+oomp_word: nose maple_leaf penguin
+oomp_word_emoji: ':nose: :maple_leaf: :penguin:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':maple_leaf:'
+- ':penguin:'
+oomp_word_list:
+- nose
+- maple_leaf
+- penguin
+part_number: ''
+size: 62000_series
+type: bearing

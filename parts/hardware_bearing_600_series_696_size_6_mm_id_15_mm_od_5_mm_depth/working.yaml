@@ -1,0 +1,40 @@
+classification: hardware
+color: 696_size
+description_extra: ''
+description_main: 6_mm_id_15_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+id: hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+id_no_class: bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+id_no_color: 6_mm_id_15_mm_od_5_mm_depth
+id_no_size: 696_size_6_mm_id_15_mm_od_5_mm_depth
+id_no_type: 600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+manufacturer: ''
+md5: 7ce96af24ae90c21e128676f04b019a3
+md5_10: 7ce96af24a
+md5_10_upper: 7CE96AF24A
+md5_5: 7ce96
+md5_5_upper: 7CE96
+md5_6: 7ce96a
+md5_6_alpha: 4vgiy
+md5_6_alpha_upper: 4VGIY
+md5_6_upper: 7CE96A
+name: Hardware Bearing 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_color: 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_size: 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_type: 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
+oomp_word: tv bike palm_tree
+oomp_word_emoji: ':tv: :bike: :palm_tree:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':bike:'
+- ':palm_tree:'
+oomp_word_list:
+- tv
+- bike
+- palm_tree
+part_number: ''
+size: 600_series
+type: bearing

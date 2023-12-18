@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_05_06'
+directory: parts/oobb_part_ziptie_holder_02_05_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_02_05_06
+id: oobb_part_ziptie_holder_02_05_06
+id_no_class: part_ziptie_holder_02_05_06
+id_no_color: '020506'
+id_no_size: '02_05_06'
+id_no_type: ziptie_holder_02_05_06
+manufacturer: ''
+md5: f93f9de3964e2518234daf7f2e5e7a4a
+md5_10: f93f9de396
+md5_10_upper: F93F9DE396
+md5_5: f93f9
+md5_5_upper: F93F9
+md5_6: f93f9d
+md5_6_alpha: 9q3z1
+md5_6_alpha_upper: 9Q3Z1
+md5_6_upper: F93F9D
+name: Oobb Part Ziptie Holder 02 05 06
+name_no_class: Part Ziptie Holder 02 05 06
+name_no_color: '020506'
+name_no_size: 02 05 06
+name_no_type: Ziptie Holder 02 05 06
+oomp_key: oomp_oobb_part_ziptie_holder_02_05_06
+oomp_word: eight horse hearts
+oomp_word_emoji: ':eight: :horse: :hearts:'
+oomp_word_emoji_list:
+- ':eight:'
+- ':horse:'
+- ':hearts:'
+oomp_word_list:
+- eight
+- horse
+- hearts
+part_number: ''
+size: ziptie_holder
+type: part

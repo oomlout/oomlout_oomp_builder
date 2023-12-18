@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_09'
+directory: parts/oobb_part_tray_thin_12_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_10_09
+id: oobb_part_tray_thin_12_10_09
+id_no_class: part_tray_thin_12_10_09
+id_no_color: '121009'
+id_no_size: '12_10_09'
+id_no_type: tray_thin_12_10_09
+manufacturer: ''
+md5: 19f6cf11e8ef24f0428db393e500245b
+md5_10: 19f6cf11e8
+md5_10_upper: 19F6CF11E8
+md5_5: 19f6c
+md5_5_upper: 19F6C
+md5_6: 19f6cf
+md5_6_alpha: 10gy7
+md5_6_alpha_upper: 10GY7
+md5_6_upper: 19F6CF
+name: Oobb Part Tray Thin 12 10 09
+name_no_class: Part Tray Thin 12 10 09
+name_no_color: '121009'
+name_no_size: 12 10 09
+name_no_type: Tray Thin 12 10 09
+oomp_key: oomp_oobb_part_tray_thin_12_10_09
+oomp_word: pray five melon
+oomp_word_emoji: ':pray: :five: :melon:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':five:'
+- ':melon:'
+oomp_word_list:
+- pray
+- five
+- melon
+part_number: ''
+size: tray_thin
+type: part

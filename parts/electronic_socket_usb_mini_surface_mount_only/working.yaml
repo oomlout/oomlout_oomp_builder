@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: surface_mount_only
+directory: parts/electronic_socket_usb_mini_surface_mount_only
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only
+id: electronic_socket_usb_mini_surface_mount_only
+id_no_class: socket_usb_mini_surface_mount_only
+id_no_color: surfacemountonly
+id_no_size: surface_mount_only
+id_no_type: usb_mini_surface_mount_only
+manufacturer: ''
+md5: 34c5c0be3324508572b94f980c1c9606
+md5_10: 34c5c0be33
+md5_10_upper: 34C5C0BE33
+md5_5: 34c5c
+md5_5_upper: 34C5C
+md5_6: 34c5c0
+md5_6_alpha: 224lc
+md5_6_alpha_upper: 224LC
+md5_6_upper: 34C5C0
+name: Electronic Socket Usb Mini Surface Mount Only
+name_no_class: Socket Usb Mini Surface Mount Only
+name_no_color: Surfacemountonly
+name_no_size: Surface Mount Only
+name_no_type: Usb Mini Surface Mount Only
+oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
+oomp_word: mouse candy bread
+oomp_word_emoji: ':mouse: :candy: :bread:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':candy:'
+- ':bread:'
+oomp_word_list:
+- mouse
+- candy
+- bread
+part_number: ''
+size: usb_mini
+type: socket

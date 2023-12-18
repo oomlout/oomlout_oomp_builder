@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_03_03'
+directory: parts/oobb_part_plate_13_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_03_03
+id: oobb_part_plate_13_03_03
+id_no_class: part_plate_13_03_03
+id_no_color: '130303'
+id_no_size: '13_03_03'
+id_no_type: plate_13_03_03
+manufacturer: ''
+md5: c1739dc1956038ac54566ac5853654ca
+md5_10: c1739dc195
+md5_10_upper: C1739DC195
+md5_5: c1739
+md5_5_upper: C1739
+md5_6: c1739d
+md5_6_alpha: 7jqfx
+md5_6_alpha_upper: 7JQFX
+md5_6_upper: C1739D
+name: Oobb Part Plate 13 03 03
+name_no_class: Part Plate 13 03 03
+name_no_color: '130303'
+name_no_size: 13 03 03
+name_no_type: Plate 13 03 03
+oomp_key: oomp_oobb_part_plate_13_03_03
+oomp_word: doughnut flags hearts
+oomp_word_emoji: ':doughnut: :flags: :hearts:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':flags:'
+- ':hearts:'
+oomp_word_list:
+- doughnut
+- flags
+- hearts
+part_number: ''
+size: plate
+type: part

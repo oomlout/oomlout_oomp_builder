@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_03'
+directory: parts/oobb_part_plate_06_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_01_03
+id: oobb_part_plate_06_01_03
+id_no_class: part_plate_06_01_03
+id_no_color: '060103'
+id_no_size: '06_01_03'
+id_no_type: plate_06_01_03
+manufacturer: ''
+md5: 01987943b0b9cb9cdd433acf95bd9f8c
+md5_10: 01987943b0
+md5_10_upper: 01987943B0
+md5_5: 01987
+md5_5_upper: 01987
+md5_6: 019879
+md5_6_alpha: 28op
+md5_6_alpha_upper: 28OP
+md5_6_upper: 019879
+name: Oobb Part Plate 06 01 03
+name_no_class: Part Plate 06 01 03
+name_no_color: '060103'
+name_no_size: 06 01 03
+name_no_type: Plate 06 01 03
+oomp_key: oomp_oobb_part_plate_06_01_03
+oomp_word: smile tennis balloon
+oomp_word_emoji: ':smile: :tennis: :balloon:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':tennis:'
+- ':balloon:'
+oomp_word_list:
+- smile
+- tennis
+- balloon
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_03'
+directory: parts/oobb_part_plate_01_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_03
+id: oobb_part_plate_01_01_03
+id_no_class: part_plate_01_01_03
+id_no_color: '010103'
+id_no_size: '01_01_03'
+id_no_type: plate_01_01_03
+manufacturer: ''
+md5: 6533b3c6e257318cc52e09d39f5b7517
+md5_10: 6533b3c6e2
+md5_10_upper: 6533B3C6E2
+md5_5: 6533b
+md5_5_upper: 6533B
+md5_6: 6533b3
+md5_6_alpha: 3y5kj
+md5_6_alpha_upper: 3Y5KJ
+md5_6_upper: 6533B3
+name: Oobb Part Plate 01 01 03
+name_no_class: Part Plate 01 01 03
+name_no_color: '010103'
+name_no_size: 01 01 03
+name_no_type: Plate 01 01 03
+oomp_key: oomp_oobb_part_plate_01_01_03
+oomp_word: maple_leaf dog eyeglasses
+oomp_word_emoji: ':maple_leaf: :dog: :eyeglasses:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':dog:'
+- ':eyeglasses:'
+oomp_word_list:
+- maple_leaf
+- dog
+- eyeglasses
+part_number: ''
+size: plate
+type: part

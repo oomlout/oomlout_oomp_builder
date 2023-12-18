@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_09
+directory: parts/oobb_part_tray_vertical_07_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_09
+id: oobb_part_tray_vertical_07_07_09
+id_no_class: part_tray_vertical_07_07_09
+id_no_color: 070709
+id_no_size: 07_07_09
+id_no_type: tray_vertical_07_07_09
+manufacturer: ''
+md5: 888c3e88240bc05a25f9d977e81600d2
+md5_10: 888c3e8824
+md5_10_upper: 888C3E8824
+md5_5: 888c3
+md5_5_upper: 888C3
+md5_6: 888c3e
+md5_6_alpha: 5bsxq
+md5_6_alpha_upper: 5BSXQ
+md5_6_upper: 888C3E
+name: Oobb Part Tray Vertical 07 07 09
+name_no_class: Part Tray Vertical 07 07 09
+name_no_color: 070709
+name_no_size: 07 07 09
+name_no_type: Tray Vertical 07 07 09
+oomp_key: oomp_oobb_part_tray_vertical_07_07_09
+oomp_word: wrench pill monkey
+oomp_word_emoji: ':wrench: :pill: :monkey:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':pill:'
+- ':monkey:'
+oomp_word_list:
+- wrench
+- pill
+- monkey
+part_number: ''
+size: tray_vertical
+type: part

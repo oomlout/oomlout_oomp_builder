@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 16_pin
+directory: parts/electronic_header_2_54_mm_16_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount
+id: electronic_header_2_54_mm_16_pin_surface_mount
+id_no_class: header_2_54_mm_16_pin_surface_mount
+id_no_color: 16pinsurfacemount
+id_no_size: 16_pin_surface_mount
+id_no_type: 2_54_mm_16_pin_surface_mount
+manufacturer: ''
+md5: 61d8ade412e9a3fd8e8aa5049e904de9
+md5_10: 61d8ade412
+md5_10_upper: 61D8ADE412
+md5_5: 61d8a
+md5_5_upper: 61D8A
+md5_6: 61d8ad
+md5_6_alpha: 3tfvx
+md5_6_alpha_upper: 3TFVX
+md5_6_upper: 61D8AD
+name: Electronic Header 2 54 Mm 16 Pin Surface Mount
+name_no_class: Header 2 54 Mm 16 Pin Surface Mount
+name_no_color: 16Pinsurfacemount
+name_no_size: 16 Pin Surface Mount
+name_no_type: 2 54 Mm 16 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_16_pin_surface_mount
+oomp_word: bouquet hospital dress
+oomp_word_emoji: ':bouquet: :hospital: :dress:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':hospital:'
+- ':dress:'
+oomp_word_list:
+- bouquet
+- hospital
+- dress
+part_number: ''
+size: 2_54_mm
+type: header

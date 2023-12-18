@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_06_30'
+directory: parts/oobb_part_tray_thin_07_06_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_06_30
+id: oobb_part_tray_thin_07_06_30
+id_no_class: part_tray_thin_07_06_30
+id_no_color: '070630'
+id_no_size: '07_06_30'
+id_no_type: tray_thin_07_06_30
+manufacturer: ''
+md5: 89c3b1a66bffe44a993d621451805086
+md5_10: 89c3b1a66b
+md5_10_upper: 89C3B1A66B
+md5_5: 89c3b
+md5_5_upper: 89C3B
+md5_6: 89c3b1
+md5_6_alpha: 5digh
+md5_6_alpha_upper: 5DIGH
+md5_6_upper: 89C3B1
+name: Oobb Part Tray Thin 07 06 30
+name_no_class: Part Tray Thin 07 06 30
+name_no_color: '070630'
+name_no_size: 07 06 30
+name_no_type: Tray Thin 07 06 30
+oomp_key: oomp_oobb_part_tray_thin_07_06_30
+oomp_word: hammer cake briefcase
+oomp_word_emoji: ':hammer: :cake: :briefcase:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':cake:'
+- ':briefcase:'
+oomp_word_list:
+- hammer
+- cake
+- briefcase
+part_number: ''
+size: tray_thin
+type: part

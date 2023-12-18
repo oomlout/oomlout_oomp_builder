@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+directory: parts/oobb_part_mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+id: oobb_part_mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+id_no_class: part_mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+id_no_color: 050503rhm2d5mo56d5nmpimoronipim613servo2040
+id_no_size: 05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+id_no_type: mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+manufacturer: ''
+md5: a0d484a54f951ea93b99cb57d6ab8e35
+md5_10: a0d484a54f
+md5_10_upper: A0D484A54F
+md5_5: a0d48
+md5_5_upper: A0D48
+md5_6: a0d484
+md5_6_alpha: 69wuc
+md5_6_alpha_upper: 69WUC
+md5_6_upper: A0D484
+name: Oobb Part Mounting Plate Top 05 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo
+  2040
+name_no_class: Part Mounting Plate Top 05 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613
+  Servo 2040
+name_no_color: 050503Rhm2D5Mo56D5Nmpimoronipim613Servo2040
+name_no_size: 05 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
+name_no_type: Mounting Plate Top 05 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo
+  2040
+oomp_key: oomp_oobb_part_mounting_plate_top_05_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
+oomp_word: ring corn key
+oomp_word_emoji: ':ring: :corn: :key:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':corn:'
+- ':key:'
+oomp_word_list:
+- ring
+- corn
+- key
+part_number: ''
+size: mounting_plate_top
+type: part

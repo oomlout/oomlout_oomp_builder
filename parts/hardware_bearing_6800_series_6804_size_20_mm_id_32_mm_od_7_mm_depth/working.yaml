@@ -1,0 +1,40 @@
+classification: hardware
+color: 6804_size
+description_extra: ''
+description_main: 20_mm_id_32_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+id: hardware_bearing_6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+id_no_class: bearing_6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+id_no_color: 20_mm_id_32_mm_od_7_mm_depth
+id_no_size: 6804_size_20_mm_id_32_mm_od_7_mm_depth
+id_no_type: 6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+manufacturer: ''
+md5: 288b66089e573b8658de58109c69f304
+md5_10: 288b66089e
+md5_10_upper: 288B66089E
+md5_5: 288b6
+md5_5_upper: 288B6
+md5_6: 288b66
+md5_6_alpha: 1ky92
+md5_6_alpha_upper: 1KY92
+md5_6_upper: 288B66
+name: Hardware Bearing 6800 Series 6804 Size 20 Mm Id 32 Mm Od 7 Mm Depth
+name_no_class: Bearing 6800 Series 6804 Size 20 Mm Id 32 Mm Od 7 Mm Depth
+name_no_color: 20 Mm Id 32 Mm Od 7 Mm Depth
+name_no_size: 6804 Size 20 Mm Id 32 Mm Od 7 Mm Depth
+name_no_type: 6800 Series 6804 Size 20 Mm Id 32 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6804_size_20_mm_id_32_mm_od_7_mm_depth
+oomp_word: tongue door leaves
+oomp_word_emoji: ':tongue: :door: :leaves:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':door:'
+- ':leaves:'
+oomp_word_list:
+- tongue
+- door
+- leaves
+part_number: ''
+size: 6800_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_2_5_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_5_mm_penny
+id: hardware_washer_2_5_mm_penny
+id_no_class: washer_2_5_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 2_5_mm_penny
+manufacturer: ''
+md5: fa19c1c3b9fce010848223595d01c81c
+md5_10: fa19c1c3b9
+md5_10_upper: FA19C1C3B9
+md5_5: fa19c
+md5_5_upper: FA19C
+md5_6: fa19c1
+md5_6_alpha: 9rb29
+md5_6_alpha_upper: 9RB29
+md5_6_upper: FA19C1
+name: Hardware Washer 2 5 Mm Penny
+name_no_class: Washer 2 5 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 2 5 Mm Penny
+oomp_key: oomp_hardware_washer_2_5_mm_penny
+oomp_word: nine pray doughnut
+oomp_word_emoji: ':nine: :pray: :doughnut:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':pray:'
+- ':doughnut:'
+oomp_word_list:
+- nine
+- pray
+- doughnut
+part_number: ''
+size: 2_5_mm
+type: washer

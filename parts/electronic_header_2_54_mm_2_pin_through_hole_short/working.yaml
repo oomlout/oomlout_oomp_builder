@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 2_pin
+directory: parts/electronic_header_2_54_mm_2_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_through_hole_short
+id: electronic_header_2_54_mm_2_pin_through_hole_short
+id_no_class: header_2_54_mm_2_pin_through_hole_short
+id_no_color: 2pinthroughholeshort
+id_no_size: 2_pin_through_hole_short
+id_no_type: 2_54_mm_2_pin_through_hole_short
+manufacturer: ''
+md5: f163255d0a57dccf18955dd5f3d66bd5
+md5_10: f163255d0a
+md5_10_upper: F163255D0A
+md5_5: f1632
+md5_5_upper: F1632
+md5_6: f16325
+md5_6_alpha: 9f2g5
+md5_6_alpha_upper: 9F2G5
+md5_6_upper: F16325
+name: Electronic Header 2 54 Mm 2 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 2 Pin Through Hole Short
+name_no_color: 2Pinthroughholeshort
+name_no_size: 2 Pin Through Hole Short
+name_no_type: 2 54 Mm 2 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_2_pin_through_hole_short
+oomp_word: ticket rose ear
+oomp_word_emoji: ':ticket: :rose: :ear:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':rose:'
+- ':ear:'
+oomp_word_list:
+- ticket
+- rose
+- ear
+part_number: ''
+size: 2_54_mm
+type: header

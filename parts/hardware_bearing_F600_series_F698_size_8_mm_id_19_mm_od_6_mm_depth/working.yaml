@@ -1,0 +1,40 @@
+classification: hardware
+color: F698_size
+description_extra: ''
+description_main: 8_mm_id_19_mm_od_6_mm_depth
+directory: parts/hardware_bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+id: hardware_bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+id_no_class: bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+id_no_color: 8_mm_id_19_mm_od_6_mm_depth
+id_no_size: F698_size_8_mm_id_19_mm_od_6_mm_depth
+id_no_type: F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+manufacturer: ''
+md5: 294374e766f032efccfa6f425186ba94
+md5_10: 294374e766
+md5_10_upper: 294374E766
+md5_5: '29437'
+md5_5_upper: '29437'
+md5_6: '294374'
+md5_6_alpha: 1lylw
+md5_6_alpha_upper: 1LYLW
+md5_6_upper: '294374'
+name: Hardware Bearing F600 Series F698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+name_no_class: Bearing F600 Series F698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+name_no_color: 8 Mm Id 19 Mm Od 6 Mm Depth
+name_no_size: F698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+name_no_type: F600 Series F698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
+oomp_word: sunny elephant fireworks
+oomp_word_emoji: ':sunny: :elephant: :fireworks:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':elephant:'
+- ':fireworks:'
+oomp_word_list:
+- sunny
+- elephant
+- fireworks
+part_number: ''
+size: F600_series
+type: bearing

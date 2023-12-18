@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_03
+directory: parts/oobb_part_plate_09_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_03_03
+id: oobb_part_plate_09_03_03
+id_no_class: part_plate_09_03_03
+id_no_color: 090303
+id_no_size: 09_03_03
+id_no_type: plate_09_03_03
+manufacturer: ''
+md5: 835e7f244b47d8275d40b2e77a4f4159
+md5_10: 835e7f244b
+md5_10_upper: 835E7F244B
+md5_5: 835e7
+md5_5_upper: 835E7
+md5_6: 835e7f
+md5_6_alpha: 54j27
+md5_6_alpha_upper: 54J27
+md5_6_upper: 835E7F
+name: Oobb Part Plate 09 03 03
+name_no_class: Part Plate 09 03 03
+name_no_color: 090303
+name_no_size: 09 03 03
+name_no_type: Plate 09 03 03
+oomp_key: oomp_oobb_part_plate_09_03_03
+oomp_word: lock crocodile speaker
+oomp_word_emoji: ':lock: :crocodile: :speaker:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':crocodile:'
+- ':speaker:'
+oomp_word_list:
+- lock
+- crocodile
+- speaker
+part_number: ''
+size: plate
+type: part

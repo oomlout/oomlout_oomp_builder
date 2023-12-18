@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_08_18
+directory: parts/oobb_part_tray_vertical_08_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_08_18
+id: oobb_part_tray_vertical_08_08_18
+id_no_class: part_tray_vertical_08_08_18
+id_no_color: 080818
+id_no_size: 08_08_18
+id_no_type: tray_vertical_08_08_18
+manufacturer: ''
+md5: 9c5bb66a7abf272c4edca6e78cdbcd44
+md5_10: 9c5bb66a7a
+md5_10_upper: 9C5BB66A7A
+md5_5: 9c5bb
+md5_5_upper: 9C5BB
+md5_6: 9c5bb6
+md5_6_alpha: 63mpi
+md5_6_alpha_upper: 63MPI
+md5_6_upper: 9C5BB6
+name: Oobb Part Tray Vertical 08 08 18
+name_no_class: Part Tray Vertical 08 08 18
+name_no_color: 080818
+name_no_size: 08 08 18
+name_no_type: Tray Vertical 08 08 18
+oomp_key: oomp_oobb_part_tray_vertical_08_08_18
+oomp_word: spades rooster beer
+oomp_word_emoji: ':spades: :rooster: :beer:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':rooster:'
+- ':beer:'
+oomp_word_list:
+- spades
+- rooster
+- beer
+part_number: ''
+size: tray_vertical
+type: part

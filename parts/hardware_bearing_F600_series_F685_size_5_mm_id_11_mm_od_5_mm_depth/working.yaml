@@ -1,0 +1,40 @@
+classification: hardware
+color: F685_size
+description_extra: ''
+description_main: 5_mm_id_11_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+id_no_color: 5_mm_id_11_mm_od_5_mm_depth
+id_no_size: F685_size_5_mm_id_11_mm_od_5_mm_depth
+id_no_type: F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+manufacturer: ''
+md5: 3079f4b9fe694eb4b1ce39abe01c8e7d
+md5_10: 3079f4b9fe
+md5_10_upper: 3079F4B9FE
+md5_5: 3079f
+md5_5_upper: 3079F
+md5_6: 3079f4
+md5_6_alpha: 1w3ck
+md5_6_alpha_upper: 1W3CK
+md5_6_upper: 3079F4
+name: Hardware Bearing F600 Series F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth
+name_no_color: 5 Mm Id 11 Mm Od 5 Mm Depth
+name_no_size: F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth
+name_no_type: F600 Series F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+oomp_word: foggy balloon three
+oomp_word_emoji: ':foggy: :balloon: :three:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':balloon:'
+- ':three:'
+oomp_word_list:
+- foggy
+- balloon
+- three
+part_number: ''
+size: F600_series
+type: bearing

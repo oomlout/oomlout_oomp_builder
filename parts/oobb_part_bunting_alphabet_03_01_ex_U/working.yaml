@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_u
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_u
+id: oobb_part_bunting_alphabet_03_01_ex_u
+id_no_class: part_bunting_alphabet_03_01_ex_u
+id_no_color: 0301exu
+id_no_size: 03_01_ex_u
+id_no_type: bunting_alphabet_03_01_ex_u
+manufacturer: ''
+md5: 5034103ccd6ebb866b34af25e2dd7f92
+md5_10: 5034103ccd
+md5_10_upper: 5034103CCD
+md5_5: '50341'
+md5_5_upper: '50341'
+md5_6: '503410'
+md5_6_alpha: 34nps
+md5_6_alpha_upper: 34NPS
+md5_6_upper: '503410'
+name: Oobb Part Bunting Alphabet 03 01 Ex U
+name_no_class: Part Bunting Alphabet 03 01 Ex U
+name_no_color: 0301Exu
+name_no_size: 03 01 Ex U
+name_no_type: Bunting Alphabet 03 01 Ex U
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_u
+oomp_word: beetle mouse star
+oomp_word_emoji: ':beetle: :mouse: :star:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':mouse:'
+- ':star:'
+oomp_word_list:
+- beetle
+- mouse
+- star
+part_number: ''
+size: bunting_alphabet
+type: part

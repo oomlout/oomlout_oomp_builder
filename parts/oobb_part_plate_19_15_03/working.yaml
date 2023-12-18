@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_15_03'
+directory: parts/oobb_part_plate_19_15_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_15_03
+id: oobb_part_plate_19_15_03
+id_no_class: part_plate_19_15_03
+id_no_color: '191503'
+id_no_size: '19_15_03'
+id_no_type: plate_19_15_03
+manufacturer: ''
+md5: edbede7b8d5fc00086c155facedae73c
+md5_10: edbede7b8d
+md5_10_upper: EDBEDE7B8D
+md5_5: edbed
+md5_5_upper: EDBED
+md5_6: edbede
+md5_6_alpha: 99yam
+md5_6_alpha_upper: 99YAM
+md5_6_upper: EDBEDE
+name: Oobb Part Plate 19 15 03
+name_no_class: Part Plate 19 15 03
+name_no_color: '191503'
+name_no_size: 19 15 03
+name_no_type: Plate 19 15 03
+oomp_key: oomp_oobb_part_plate_19_15_03
+oomp_word: bus ramen rainbow
+oomp_word_emoji: ':bus: :ramen: :rainbow:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':ramen:'
+- ':rainbow:'
+oomp_word_list:
+- bus
+- ramen
+- rainbow
+part_number: ''
+size: plate
+type: part

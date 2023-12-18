@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_04_09'
+directory: parts/oobb_part_tray_vertical_10_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_04_09
+id: oobb_part_tray_vertical_10_04_09
+id_no_class: part_tray_vertical_10_04_09
+id_no_color: '100409'
+id_no_size: '10_04_09'
+id_no_type: tray_vertical_10_04_09
+manufacturer: ''
+md5: 9698194ba2a72feee9c3f80928c30184
+md5_10: 9698194ba2
+md5_10_upper: 9698194BA2
+md5_5: '96981'
+md5_5_upper: '96981'
+md5_6: '969819'
+md5_6_alpha: 5vj89
+md5_6_alpha_upper: 5VJ89
+md5_6_upper: '969819'
+name: Oobb Part Tray Vertical 10 04 09
+name_no_class: Part Tray Vertical 10 04 09
+name_no_color: '100409'
+name_no_size: 10 04 09
+name_no_type: Tray Vertical 10 04 09
+oomp_key: oomp_oobb_part_tray_vertical_10_04_09
+oomp_word: basketball tennis pray
+oomp_word_emoji: ':basketball: :tennis: :pray:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':tennis:'
+- ':pray:'
+oomp_word_list:
+- basketball
+- tennis
+- pray
+part_number: ''
+size: tray_vertical
+type: part

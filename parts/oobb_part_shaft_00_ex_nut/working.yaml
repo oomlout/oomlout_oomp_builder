@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 00_ex_nut
+directory: parts/oobb_part_shaft_00_ex_nut
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00_ex_nut
+id: oobb_part_shaft_00_ex_nut
+id_no_class: part_shaft_00_ex_nut
+id_no_color: 00exnut
+id_no_size: 00_ex_nut
+id_no_type: shaft_00_ex_nut
+manufacturer: ''
+md5: bedb8803217ee4922b97dd33649b4d57
+md5_10: bedb880321
+md5_10_upper: BEDB880321
+md5_5: bedb8
+md5_5_upper: BEDB8
+md5_6: bedb88
+md5_6_alpha: 7g39k
+md5_6_alpha_upper: 7G39K
+md5_6_upper: BEDB88
+name: Oobb Part Shaft 00 Ex Nut
+name_no_class: Part Shaft 00 Ex Nut
+name_no_color: 00Exnut
+name_no_size: 00 Ex Nut
+name_no_type: Shaft 00 Ex Nut
+oomp_key: oomp_oobb_part_shaft_00_ex_nut
+oomp_word: ramen tent wrench
+oomp_word_emoji: ':ramen: :tent: :wrench:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':tent:'
+- ':wrench:'
+oomp_word_list:
+- ramen
+- tent
+- wrench
+part_number: ''
+size: shaft
+type: part

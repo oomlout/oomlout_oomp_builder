@@ -1,0 +1,40 @@
+classification: electronic
+color: tantalum
+description_extra: 16_volt
+description_main: 4_7_micro_farad
+directory: parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+id_no_class: capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+id_no_color: 4_7_micro_farad_16_volt
+id_no_size: tantalum_4_7_micro_farad_16_volt
+id_no_type: 3216_avx_a_tantalum_4_7_micro_farad_16_volt
+manufacturer: ''
+md5: 951eebab538d3a391eb9ef33560a6b6b
+md5_10: 951eebab53
+md5_10_upper: 951EEBAB53
+md5_5: 951ee
+md5_5_upper: 951EE
+md5_6: 951eeb
+md5_6_alpha: 5tgq3
+md5_6_alpha_upper: 5TGQ3
+md5_6_upper: 951EEB
+name: Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
+name_no_class: Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
+name_no_color: 4 7 Micro Farad 16 Volt
+name_no_size: Tantalum 4 7 Micro Farad 16 Volt
+name_no_type: 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
+oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+oomp_word: telescope angel car
+oomp_word_emoji: ':telescope: :angel: :car:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':angel:'
+- ':car:'
+oomp_word_list:
+- telescope
+- angel
+- car
+part_number: ''
+size: 3216_avx_a
+type: capacitor

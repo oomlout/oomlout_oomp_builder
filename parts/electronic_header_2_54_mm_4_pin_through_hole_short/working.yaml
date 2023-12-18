@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 4_pin
+directory: parts/electronic_header_2_54_mm_4_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_through_hole_short
+id: electronic_header_2_54_mm_4_pin_through_hole_short
+id_no_class: header_2_54_mm_4_pin_through_hole_short
+id_no_color: 4pinthroughholeshort
+id_no_size: 4_pin_through_hole_short
+id_no_type: 2_54_mm_4_pin_through_hole_short
+manufacturer: ''
+md5: f608c957f6d0a3c3bb1f91ea26879f51
+md5_10: f608c957f6
+md5_10_upper: F608C957F6
+md5_5: f608c
+md5_5_upper: F608C
+md5_6: f608c9
+md5_6_alpha: 9llft
+md5_6_alpha_upper: 9LLFT
+md5_6_upper: F608C9
+name: Electronic Header 2 54 Mm 4 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 4 Pin Through Hole Short
+name_no_color: 4Pinthroughholeshort
+name_no_size: 4 Pin Through Hole Short
+name_no_type: 2 54 Mm 4 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_4_pin_through_hole_short
+oomp_word: five scream lemon
+oomp_word_emoji: ':five: :scream: :lemon:'
+oomp_word_emoji_list:
+- ':five:'
+- ':scream:'
+- ':lemon:'
+oomp_word_list:
+- five
+- scream
+- lemon
+part_number: ''
+size: 2_54_mm
+type: header

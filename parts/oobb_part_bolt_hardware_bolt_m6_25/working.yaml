@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_25
+directory: parts/oobb_part_bolt_hardware_bolt_m6_25
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_25
+id: oobb_part_bolt_hardware_bolt_m6_25
+id_no_class: part_bolt_hardware_bolt_m6_25
+id_no_color: hardwarem625
+id_no_size: hardware_m6_25
+id_no_type: bolt_hardware_bolt_m6_25
+manufacturer: ''
+md5: 25cc60cc89587e25cbcbd0ae659deed6
+md5_10: 25cc60cc89
+md5_10_upper: 25CC60CC89
+md5_5: 25cc6
+md5_5_upper: 25CC6
+md5_6: 25cc60
+md5_6_alpha: 1h3ds
+md5_6_alpha_upper: 1H3DS
+md5_6_upper: 25CC60
+name: Oobb Part Bolt Hardware Bolt M6 25
+name_no_class: Part Bolt Hardware Bolt M6 25
+name_no_color: Hardwarem625
+name_no_size: Hardware M6 25
+name_no_type: Bolt Hardware Bolt M6 25
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_25
+oomp_word: ear watermelon poodle
+oomp_word_emoji: ':ear: :watermelon: :poodle:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':watermelon:'
+- ':poodle:'
+oomp_word_list:
+- ear
+- watermelon
+- poodle
+part_number: ''
+size: bolt
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_07_30
+directory: parts/oobb_part_tray_thin_08_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_07_30
+id: oobb_part_tray_thin_08_07_30
+id_no_class: part_tray_thin_08_07_30
+id_no_color: 080730
+id_no_size: 08_07_30
+id_no_type: tray_thin_08_07_30
+manufacturer: ''
+md5: b5948e777788541da404bf87d5170849
+md5_10: b5948e7777
+md5_10_upper: B5948E7777
+md5_5: b5948
+md5_5_upper: B5948
+md5_6: b5948e
+md5_6_alpha: 7324u
+md5_6_alpha_upper: 7324U
+md5_6_upper: B5948E
+name: Oobb Part Tray Thin 08 07 30
+name_no_class: Part Tray Thin 08 07 30
+name_no_color: 080730
+name_no_size: 08 07 30
+name_no_type: Tray Thin 08 07 30
+oomp_key: oomp_oobb_part_tray_thin_08_07_30
+oomp_word: tea microscope clipboard
+oomp_word_emoji: ':tea: :microscope: :clipboard:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':microscope:'
+- ':clipboard:'
+oomp_word_list:
+- tea
+- microscope
+- clipboard
+part_number: ''
+size: tray_thin
+type: part

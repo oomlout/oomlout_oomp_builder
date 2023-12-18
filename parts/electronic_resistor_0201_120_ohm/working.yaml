@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120_ohm
+directory: parts/electronic_resistor_0201_120_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_120_ohm
+id: electronic_resistor_0201_120_ohm
+id_no_class: resistor_0201_120_ohm
+id_no_color: 120ohm
+id_no_size: 120_ohm
+id_no_type: 0201_120_ohm
+manufacturer: ''
+md5: 497fea9b9a4bc18b40f176b147f74b40
+md5_10: 497fea9b9a
+md5_10_upper: 497FEA9B9A
+md5_5: 497fe
+md5_5_upper: 497FE
+md5_6: 497fea
+md5_6_alpha: 2v8q2
+md5_6_alpha_upper: 2V8Q2
+md5_6_upper: 497FEA
+name: Electronic Resistor 0201 120 Ohm
+name_no_class: Resistor 0201 120 Ohm
+name_no_color: 120Ohm
+name_no_size: 120 Ohm
+name_no_type: 0201 120 Ohm
+oomp_key: oomp_electronic_resistor_0201_120_ohm
+oomp_word: hatching_chick speaker tractor
+oomp_word_emoji: ':hatching_chick: :speaker: :tractor:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':speaker:'
+- ':tractor:'
+oomp_word_list:
+- hatching_chick
+- speaker
+- tractor
+part_number: ''
+size: '0201'
+type: resistor

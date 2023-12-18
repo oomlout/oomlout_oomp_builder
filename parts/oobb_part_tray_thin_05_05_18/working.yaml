@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_18
+directory: parts/oobb_part_tray_thin_05_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_05_18
+id: oobb_part_tray_thin_05_05_18
+id_no_class: part_tray_thin_05_05_18
+id_no_color: 050518
+id_no_size: 05_05_18
+id_no_type: tray_thin_05_05_18
+manufacturer: ''
+md5: 3493e1e0eeb1a24aba1ec85f404cf488
+md5_10: 3493e1e0ee
+md5_10_upper: 3493E1E0EE
+md5_5: 3493e
+md5_5_upper: 3493E
+md5_6: 3493e1
+md5_6_alpha: 21uqp
+md5_6_alpha_upper: 21UQP
+md5_6_upper: 3493E1
+name: Oobb Part Tray Thin 05 05 18
+name_no_class: Part Tray Thin 05 05 18
+name_no_color: 050518
+name_no_size: 05 05 18
+name_no_type: Tray Thin 05 05 18
+oomp_key: oomp_oobb_part_tray_thin_05_05_18
+oomp_word: mouse books boat
+oomp_word_emoji: ':mouse: :books: :boat:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':books:'
+- ':boat:'
+oomp_word_list:
+- mouse
+- books
+- boat
+part_number: ''
+size: tray_thin
+type: part

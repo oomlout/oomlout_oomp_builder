@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+directory: parts/oobb_part_holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+id: oobb_part_holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+id_no_class: part_holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+id_no_color: 050504exelectronicbatteryboxaabattery4cell
+id_no_size: 05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+id_no_type: holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+manufacturer: ''
+md5: bc6c28d59da025f023c6369b2741bc89
+md5_10: bc6c28d59d
+md5_10_upper: BC6C28D59D
+md5_5: bc6c2
+md5_5_upper: BC6C2
+md5_6: bc6c28
+md5_6_alpha: 7co4o
+md5_6_alpha_upper: 7CO4O
+md5_6_upper: BC6C28
+name: Oobb Part Holder 05 05 04 Ex Electronic Battery Box Aa Battery 4 Cell
+name_no_class: Part Holder 05 05 04 Ex Electronic Battery Box Aa Battery 4 Cell
+name_no_color: 050504Exelectronicbatteryboxaabattery4Cell
+name_no_size: 05 05 04 Ex Electronic Battery Box Aa Battery 4 Cell
+name_no_type: Holder 05 05 04 Ex Electronic Battery Box Aa Battery 4 Cell
+oomp_key: oomp_oobb_part_holder_05_05_04_ex_electronic_battery_box_aa_battery_4_cell
+oomp_word: sushi blossom tongue
+oomp_word_emoji: ':sushi: :blossom: :tongue:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':blossom:'
+- ':tongue:'
+oomp_word_list:
+- sushi
+- blossom
+- tongue
+part_number: ''
+size: holder
+type: part

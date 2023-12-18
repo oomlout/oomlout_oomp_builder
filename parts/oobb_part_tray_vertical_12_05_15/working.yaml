@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_15'
+directory: parts/oobb_part_tray_vertical_12_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_05_15
+id: oobb_part_tray_vertical_12_05_15
+id_no_class: part_tray_vertical_12_05_15
+id_no_color: '120515'
+id_no_size: '12_05_15'
+id_no_type: tray_vertical_12_05_15
+manufacturer: ''
+md5: 57d1a541c6ad608c7baee640a5c99b6f
+md5_10: 57d1a541c6
+md5_10_upper: 57D1A541C6
+md5_5: 57d1a
+md5_5_upper: 57D1A
+md5_6: 57d1a5
+md5_6_alpha: 3fcth
+md5_6_alpha_upper: 3FCTH
+md5_6_upper: 57D1A5
+name: Oobb Part Tray Vertical 12 05 15
+name_no_class: Part Tray Vertical 12 05 15
+name_no_color: '120515'
+name_no_size: 12 05 15
+name_no_type: Tray Vertical 12 05 15
+oomp_key: oomp_oobb_part_tray_vertical_12_05_15
+oomp_word: rat pear headphones
+oomp_word_emoji: ':rat: :pear: :headphones:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':pear:'
+- ':headphones:'
+oomp_word_list:
+- rat
+- pear
+- headphones
+part_number: ''
+size: tray_vertical
+type: part

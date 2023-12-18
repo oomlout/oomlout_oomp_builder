@@ -1,0 +1,40 @@
+classification: hardware
+color: 6030_size
+description_extra: ''
+description_main: 150_mm_id_225_mm_od_35_mm_depth
+directory: parts/hardware_bearing_6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+id: hardware_bearing_6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+id_no_class: bearing_6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+id_no_color: 150_mm_id_225_mm_od_35_mm_depth
+id_no_size: 6030_size_150_mm_id_225_mm_od_35_mm_depth
+id_no_type: 6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+manufacturer: ''
+md5: 2647d225c4f2e2545481eb904b47387b
+md5_10: 2647d225c4
+md5_10_upper: 2647D225C4
+md5_5: 2647d
+md5_5_upper: 2647D
+md5_6: 2647d2
+md5_6_alpha: 1hrrm
+md5_6_alpha_upper: 1HRRM
+md5_6_upper: 2647D2
+name: Hardware Bearing 6000 Series 6030 Size 150 Mm Id 225 Mm Od 35 Mm Depth
+name_no_class: Bearing 6000 Series 6030 Size 150 Mm Id 225 Mm Od 35 Mm Depth
+name_no_color: 150 Mm Id 225 Mm Od 35 Mm Depth
+name_no_size: 6030 Size 150 Mm Id 225 Mm Od 35 Mm Depth
+name_no_type: 6000 Series 6030 Size 150 Mm Id 225 Mm Od 35 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6030_size_150_mm_id_225_mm_od_35_mm_depth
+oomp_word: eyes baby_chick pineapple
+oomp_word_emoji: ':eyes: :baby_chick: :pineapple:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':baby_chick:'
+- ':pineapple:'
+oomp_word_list:
+- eyes
+- baby_chick
+- pineapple
+part_number: ''
+size: 6000_series
+type: bearing

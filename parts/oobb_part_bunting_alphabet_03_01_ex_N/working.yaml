@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_n
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_n
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_n
+id: oobb_part_bunting_alphabet_03_01_ex_n
+id_no_class: part_bunting_alphabet_03_01_ex_n
+id_no_color: 0301exn
+id_no_size: 03_01_ex_n
+id_no_type: bunting_alphabet_03_01_ex_n
+manufacturer: ''
+md5: 2928427b835c5ceea6269d87a1f0c43a
+md5_10: 2928427b83
+md5_10_upper: 2928427B83
+md5_5: '29284'
+md5_5_upper: '29284'
+md5_6: '292842'
+md5_6_alpha: 1lt8i
+md5_6_alpha_upper: 1LT8I
+md5_6_upper: '292842'
+name: Oobb Part Bunting Alphabet 03 01 Ex N
+name_no_class: Part Bunting Alphabet 03 01 Ex N
+name_no_color: 0301Exn
+name_no_size: 03 01 Ex N
+name_no_type: Bunting Alphabet 03 01 Ex N
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_n
+oomp_word: sunny tongue sheep
+oomp_word_emoji: ':sunny: :tongue: :sheep:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':tongue:'
+- ':sheep:'
+oomp_word_list:
+- sunny
+- tongue
+- sheep
+part_number: ''
+size: bunting_alphabet
+type: part

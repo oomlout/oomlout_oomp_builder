@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_d
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_d
+id: oobb_part_bunting_alphabet_05_01_ex_d
+id_no_class: part_bunting_alphabet_05_01_ex_d
+id_no_color: 0501exd
+id_no_size: 05_01_ex_d
+id_no_type: bunting_alphabet_05_01_ex_d
+manufacturer: ''
+md5: 75306c0cb76bacb482c8443d61bfb4b8
+md5_10: 75306c0cb7
+md5_10_upper: 75306C0CB7
+md5_5: '75306'
+md5_5_upper: '75306'
+md5_6: 75306c
+md5_6_alpha: 4km0c
+md5_6_alpha_upper: 4KM0C
+md5_6_upper: 75306C
+name: Oobb Part Bunting Alphabet 05 01 Ex D
+name_no_class: Part Bunting Alphabet 05 01 Ex D
+name_no_color: 0501Exd
+name_no_size: 05 01 Ex D
+name_no_type: Bunting Alphabet 05 01 Ex D
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_d
+oomp_word: ghost foggy blossom
+oomp_word_emoji: ':ghost: :foggy: :blossom:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':foggy:'
+- ':blossom:'
+oomp_word_list:
+- ghost
+- foggy
+- blossom
+part_number: ''
+size: bunting_alphabet
+type: part

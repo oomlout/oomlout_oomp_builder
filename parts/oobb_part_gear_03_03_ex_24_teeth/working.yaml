@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_ex_24_teeth
+directory: parts/oobb_part_gear_03_03_ex_24_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_03_ex_24_teeth
+id: oobb_part_gear_03_03_ex_24_teeth
+id_no_class: part_gear_03_03_ex_24_teeth
+id_no_color: 0303ex24teeth
+id_no_size: 03_03_ex_24_teeth
+id_no_type: gear_03_03_ex_24_teeth
+manufacturer: ''
+md5: 1e82ef9d8f4dc25747d621ed55e93d9e
+md5_10: 1e82ef9d8f
+md5_10_upper: 1E82EF9D8F
+md5_5: 1e82e
+md5_5_upper: 1E82E
+md5_6: 1e82ef
+md5_6_alpha: 16uwf
+md5_6_alpha_upper: 16UWF
+md5_6_upper: 1E82EF
+name: Oobb Part Gear 03 03 Ex 24 Teeth
+name_no_class: Part Gear 03 03 Ex 24 Teeth
+name_no_color: 0303Ex24Teeth
+name_no_size: 03 03 Ex 24 Teeth
+name_no_type: Gear 03 03 Ex 24 Teeth
+oomp_key: oomp_oobb_part_gear_03_03_ex_24_teeth
+oomp_word: angel radio truck
+oomp_word_emoji: ':angel: :radio: :truck:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':radio:'
+- ':truck:'
+oomp_word_list:
+- angel
+- radio
+- truck
+part_number: ''
+size: gear
+type: part

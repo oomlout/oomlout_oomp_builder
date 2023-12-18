@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_30
+directory: parts/oobb_part_tray_thin_09_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_03_30
+id: oobb_part_tray_thin_09_03_30
+id_no_class: part_tray_thin_09_03_30
+id_no_color: 090330
+id_no_size: 09_03_30
+id_no_type: tray_thin_09_03_30
+manufacturer: ''
+md5: 7f1c0ffa2d8e28020c754fa6bd01c64a
+md5_10: 7f1c0ffa2d
+md5_10_upper: 7F1C0FFA2D
+md5_5: 7f1c0
+md5_5_upper: 7F1C0
+md5_6: 7f1c0f
+md5_6_alpha: 4yjnz
+md5_6_alpha_upper: 4YJNZ
+md5_6_upper: 7F1C0F
+name: Oobb Part Tray Thin 09 03 30
+name_no_class: Part Tray Thin 09 03 30
+name_no_color: 090330
+name_no_size: 09 03 30
+name_no_type: Tray Thin 09 03 30
+oomp_key: oomp_oobb_part_tray_thin_09_03_30
+oomp_word: speaker dancer sparkles
+oomp_word_emoji: ':speaker: :dancer: :sparkles:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':dancer:'
+- ':sparkles:'
+oomp_word_list:
+- speaker
+- dancer
+- sparkles
+part_number: ''
+size: tray_thin
+type: part

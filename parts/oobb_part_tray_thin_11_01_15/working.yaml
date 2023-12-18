@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_15'
+directory: parts/oobb_part_tray_thin_11_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_01_15
+id: oobb_part_tray_thin_11_01_15
+id_no_class: part_tray_thin_11_01_15
+id_no_color: '110115'
+id_no_size: '11_01_15'
+id_no_type: tray_thin_11_01_15
+manufacturer: ''
+md5: 0662d9153757f8a2a70c0a7d14be1323
+md5_10: 0662d91537
+md5_10_upper: 0662D91537
+md5_5: 0662d
+md5_5_upper: 0662D
+md5_6: 0662d9
+md5_6_alpha: 8yxl
+md5_6_alpha_upper: 8YXL
+md5_6_upper: 0662D9
+name: Oobb Part Tray Thin 11 01 15
+name_no_class: Part Tray Thin 11 01 15
+name_no_color: '110115'
+name_no_size: 11 01 15
+name_no_type: Tray Thin 11 01 15
+oomp_key: oomp_oobb_part_tray_thin_11_01_15
+oomp_word: sleeping tulip bank
+oomp_word_emoji: ':sleeping: :tulip: :bank:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':tulip:'
+- ':bank:'
+oomp_word_list:
+- sleeping
+- tulip
+- bank
+part_number: ''
+size: tray_thin
+type: part

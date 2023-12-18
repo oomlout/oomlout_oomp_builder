@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150_ohm
+directory: parts/electronic_resistor_0603_150_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_150_ohm
+id: electronic_resistor_0603_150_ohm
+id_no_class: resistor_0603_150_ohm
+id_no_color: 150ohm
+id_no_size: 150_ohm
+id_no_type: 0603_150_ohm
+manufacturer: ''
+md5: 84ae3b7d321743959fbe1139ae63bfc2
+md5_10: 84ae3b7d32
+md5_10_upper: 84AE3B7D32
+md5_5: 84ae3
+md5_5_upper: 84AE3
+md5_6: 84ae3b
+md5_6_alpha: 56ddn
+md5_6_alpha_upper: 56DDN
+md5_6_upper: 84AE3B
+name: Electronic Resistor 0603 150 Ohm
+name_no_class: Resistor 0603 150 Ohm
+name_no_color: 150Ohm
+name_no_size: 150 Ohm
+name_no_type: 0603 150 Ohm
+oomp_key: oomp_electronic_resistor_0603_150_ohm
+oomp_word: key jeans bear
+oomp_word_emoji: ':key: :jeans: :bear:'
+oomp_word_emoji_list:
+- ':key:'
+- ':jeans:'
+- ':bear:'
+oomp_word_list:
+- key
+- jeans
+- bear
+part_number: ''
+size: '0603'
+type: resistor

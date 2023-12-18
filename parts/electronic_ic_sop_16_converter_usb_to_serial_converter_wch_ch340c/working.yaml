@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+id_no_class: ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+id_no_color: usb_to_serial_wch_ch340c
+id_no_size: converter_usb_to_serial_converter_wch_ch340c
+id_no_type: sop_16_converter_usb_to_serial_converter_wch_ch340c
+manufacturer: wch
+md5: 8b394cfe55fb40b61533e33d89af18b7
+md5_10: 8b394cfe55
+md5_10_upper: 8B394CFE55
+md5_5: 8b394
+md5_5_upper: 8B394
+md5_6: 8b394c
+md5_6_alpha: 5fk98
+md5_6_alpha_upper: 5FK98
+md5_6_upper: 8B394C
+name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
+name_no_class: Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
+name_no_color: Usb To Serial Wch Ch340C
+name_no_size: Converter Usb To Serial Converter Wch Ch340C
+name_no_type: Sop 16 Converter Usb To Serial Converter Wch Ch340C
+oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+oomp_word: door tiger turtle
+oomp_word_emoji: ':door: :tiger: :turtle:'
+oomp_word_emoji_list:
+- ':door:'
+- ':tiger:'
+- ':turtle:'
+oomp_word_list:
+- door
+- tiger
+- turtle
+part_number: ch340c
+size: sop_16
+type: ic

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_s
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_s
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_s
+id: oobb_part_bunting_alphabet_05_01_ex_s
+id_no_class: part_bunting_alphabet_05_01_ex_s
+id_no_color: 0501exs
+id_no_size: 05_01_ex_s
+id_no_type: bunting_alphabet_05_01_ex_s
+manufacturer: ''
+md5: d1ca086eb8ccb6007c2e69dd4e848f4f
+md5_10: d1ca086eb8
+md5_10_upper: D1CA086EB8
+md5_5: d1ca0
+md5_5_upper: D1CA0
+md5_6: d1ca08
+md5_6_alpha: 86olk
+md5_6_alpha_upper: 86OLK
+md5_6_upper: D1CA08
+name: Oobb Part Bunting Alphabet 05 01 Ex S
+name_no_class: Part Bunting Alphabet 05 01 Ex S
+name_no_color: 0501Exs
+name_no_size: 05 01 Ex S
+name_no_type: Bunting Alphabet 05 01 Ex S
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_s
+oomp_word: pear cherries scream
+oomp_word_emoji: ':pear: :cherries: :scream:'
+oomp_word_emoji_list:
+- ':pear:'
+- ':cherries:'
+- ':scream:'
+oomp_word_list:
+- pear
+- cherries
+- scream
+part_number: ''
+size: bunting_alphabet
+type: part

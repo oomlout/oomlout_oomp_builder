@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_08_18
+directory: parts/oobb_part_tray_04_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_08_18
+id: oobb_part_tray_04_08_18
+id_no_class: part_tray_04_08_18
+id_no_color: 040818
+id_no_size: 04_08_18
+id_no_type: tray_04_08_18
+manufacturer: ''
+md5: e3661a74a1aeca2b64667852be84d966
+md5_10: e3661a74a1
+md5_10_upper: E3661A74A1
+md5_5: e3661
+md5_5_upper: E3661
+md5_6: e3661a
+md5_6_alpha: 8vf2y
+md5_6_alpha_upper: 8VF2Y
+md5_6_upper: E3661A
+name: Oobb Part Tray 04 08 18
+name_no_class: Part Tray 04 08 18
+name_no_color: 040818
+name_no_size: 04 08 18
+name_no_type: Tray 04 08 18
+oomp_key: oomp_oobb_part_tray_04_08_18
+oomp_word: rowboat leaves clap
+oomp_word_emoji: ':rowboat: :leaves: :clap:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':leaves:'
+- ':clap:'
+oomp_word_list:
+- rowboat
+- leaves
+- clap
+part_number: ''
+size: tray
+type: part

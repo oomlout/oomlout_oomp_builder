@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_18
+directory: parts/oobb_part_tray_thin_04_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_04_18
+id: oobb_part_tray_thin_04_04_18
+id_no_class: part_tray_thin_04_04_18
+id_no_color: 040418
+id_no_size: 04_04_18
+id_no_type: tray_thin_04_04_18
+manufacturer: ''
+md5: c39d00b495c458cbb542d620ab35f846
+md5_10: c39d00b495
+md5_10_upper: C39D00B495
+md5_5: c39d0
+md5_5_upper: C39D0
+md5_6: c39d00
+md5_6_alpha: 7mrr4
+md5_6_alpha_upper: 7MRR4
+md5_6_upper: C39D00
+name: Oobb Part Tray Thin 04 04 18
+name_no_class: Part Tray Thin 04 04 18
+name_no_color: 040418
+name_no_size: 04 04 18
+name_no_type: Tray Thin 04 04 18
+oomp_key: oomp_oobb_part_tray_thin_04_04_18
+oomp_word: cake hearts bowtie
+oomp_word_emoji: ':cake: :hearts: :bowtie:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':hearts:'
+- ':bowtie:'
+oomp_word_list:
+- cake
+- hearts
+- bowtie
+part_number: ''
+size: tray_thin
+type: part

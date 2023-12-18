@@ -1,0 +1,40 @@
+classification: hardware
+color: F623_size
+description_extra: ''
+description_main: 3_mm_id_10_mm_od_4_mm_depth
+directory: parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+id: hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_class: bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_color: 3_mm_id_10_mm_od_4_mm_depth
+id_no_size: F623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_type: F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+manufacturer: ''
+md5: 3e14aec0ae02382a7043672cd347df8d
+md5_10: 3e14aec0ae
+md5_10_upper: 3E14AEC0AE
+md5_5: 3e14a
+md5_5_upper: 3E14A
+md5_6: 3e14ae
+md5_6_alpha: 2f7am
+md5_6_alpha_upper: 2F7AM
+md5_6_upper: 3E14AE
+name: Hardware Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_class: Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_size: F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_type: F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+oomp_word: monkey fire jeans
+oomp_word_emoji: ':monkey: :fire: :jeans:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':fire:'
+- ':jeans:'
+oomp_word_list:
+- monkey
+- fire
+- jeans
+part_number: ''
+size: F600_series
+type: bearing

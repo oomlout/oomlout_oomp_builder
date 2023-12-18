@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 19_pin
+directory: parts/electronic_socket_2_54_mm_19_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole
+id: electronic_socket_2_54_mm_19_pin_through_hole
+id_no_class: socket_2_54_mm_19_pin_through_hole
+id_no_color: 19pinthroughhole
+id_no_size: 19_pin_through_hole
+id_no_type: 2_54_mm_19_pin_through_hole
+manufacturer: ''
+md5: 43571022d68dd6429916dd976e9afc19
+md5_10: 43571022d6
+md5_10_upper: 43571022D6
+md5_5: '43571'
+md5_5_upper: '43571'
+md5_6: '435710'
+md5_6_alpha: 2ml8w
+md5_6_alpha_upper: 2ML8W
+md5_6_upper: '435710'
+name: Electronic Socket 2 54 Mm 19 Pin Through Hole
+name_no_class: Socket 2 54 Mm 19 Pin Through Hole
+name_no_color: 19Pinthroughhole
+name_no_size: 19 Pin Through Hole
+name_no_type: 2 54 Mm 19 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_19_pin_through_hole
+oomp_word: elephant rat star
+oomp_word_emoji: ':elephant: :rat: :star:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':rat:'
+- ':star:'
+oomp_word_list:
+- elephant
+- rat
+- star
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_2_54_mm_7_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_7_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_7_pin_surface_mount_right_angle
+id_no_color: 7pinsurfacemountrightangle
+id_no_size: 7_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_7_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 5dcfcd2076a9721e9d670b035d234be8
+md5_10: 5dcfcd2076
+md5_10_upper: 5DCFCD2076
+md5_5: 5dcfc
+md5_5_upper: 5DCFC
+md5_6: 5dcfcd
+md5_6_alpha: 3nrv1
+md5_6_alpha_upper: 3NRV1
+md5_6_upper: 5DCFCD
+name: Electronic Header 2 54 Mm 7 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 7 Pin Surface Mount Right Angle
+name_no_color: 7Pinsurfacemountrightangle
+name_no_size: 7 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 7 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_7_pin_surface_mount_right_angle
+oomp_word: blowfish melon strawberry
+oomp_word_emoji: ':blowfish: :melon: :strawberry:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':melon:'
+- ':strawberry:'
+oomp_word_list:
+- blowfish
+- melon
+- strawberry
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_08_12
+directory: parts/oobb_part_tray_03_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_12
+id: oobb_part_tray_03_08_12
+id_no_class: part_tray_03_08_12
+id_no_color: 030812
+id_no_size: 03_08_12
+id_no_type: tray_03_08_12
+manufacturer: ''
+md5: ea6bdacbab7f071fc9ea01aa450f43f8
+md5_10: ea6bdacbab
+md5_10_upper: EA6BDACBAB
+md5_5: ea6bd
+md5_5_upper: EA6BD
+md5_6: ea6bda
+md5_6_alpha: 95a6y
+md5_6_alpha_upper: 95A6Y
+md5_6_upper: EA6BDA
+name: Oobb Part Tray 03 08 12
+name_no_class: Part Tray 03 08 12
+name_no_color: 030812
+name_no_size: 03 08 12
+name_no_type: Tray 03 08 12
+oomp_key: oomp_oobb_part_tray_03_08_12
+oomp_word: tractor chestnut hotel
+oomp_word_emoji: ':tractor: :chestnut: :hotel:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':chestnut:'
+- ':hotel:'
+oomp_word_list:
+- tractor
+- chestnut
+- hotel
+part_number: ''
+size: tray
+type: part

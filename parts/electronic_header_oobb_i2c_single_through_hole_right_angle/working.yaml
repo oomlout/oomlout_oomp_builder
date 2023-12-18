@@ -1,0 +1,40 @@
+classification: electronic
+color: i2c
+description_extra: through_hole_right_angle
+description_main: single
+directory: parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+id: electronic_header_oobb_i2c_single_through_hole_right_angle
+id_no_class: header_oobb_i2c_single_through_hole_right_angle
+id_no_color: single_through_hole_right_angle
+id_no_size: i2c_single_through_hole_right_angle
+id_no_type: oobb_i2c_single_through_hole_right_angle
+manufacturer: ''
+md5: 4456779cced84238da6c1f33679c44f2
+md5_10: 4456779cce
+md5_10_upper: 4456779CCE
+md5_5: '44567'
+md5_5_upper: '44567'
+md5_6: '445677'
+md5_6_alpha: 2nzp3
+md5_6_alpha_upper: 2NZP3
+md5_6_upper: '445677'
+name: Electronic Header Oobb I2C Single Through Hole Right Angle
+name_no_class: Header Oobb I2C Single Through Hole Right Angle
+name_no_color: Single Through Hole Right Angle
+name_no_size: I2C Single Through Hole Right Angle
+name_no_type: Oobb I2C Single Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_i2c_single_through_hole_right_angle
+oomp_word: panda_face ram gift
+oomp_word_emoji: ':panda_face: :ram: :gift:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':ram:'
+- ':gift:'
+oomp_word_list:
+- panda_face
+- ram
+- gift
+part_number: ''
+size: oobb
+type: header

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 1_pin
+directory: parts/electronic_header_2_54_mm_1_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_long
+id: electronic_header_2_54_mm_1_pin_through_hole_long
+id_no_class: header_2_54_mm_1_pin_through_hole_long
+id_no_color: 1pinthroughholelong
+id_no_size: 1_pin_through_hole_long
+id_no_type: 2_54_mm_1_pin_through_hole_long
+manufacturer: ''
+md5: 204ab36878fd2feef5689c1f602c5065
+md5_10: 204ab36878
+md5_10_upper: 204AB36878
+md5_5: 204ab
+md5_5_upper: 204AB
+md5_6: 204ab3
+md5_6_alpha: 19cxf
+md5_6_alpha_upper: 19CXF
+md5_6_upper: 204AB3
+name: Electronic Header 2 54 Mm 1 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 1 Pin Through Hole Long
+name_no_color: 1Pinthroughholelong
+name_no_size: 1 Pin Through Hole Long
+name_no_type: 2 54 Mm 1 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole_long
+oomp_word: skull chicken eyeglasses
+oomp_word_emoji: ':skull: :chicken: :eyeglasses:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':chicken:'
+- ':eyeglasses:'
+oomp_word_list:
+- skull
+- chicken
+- eyeglasses
+part_number: ''
+size: 2_54_mm
+type: header

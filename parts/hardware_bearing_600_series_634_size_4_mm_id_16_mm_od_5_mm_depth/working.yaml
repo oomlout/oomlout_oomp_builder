@@ -1,0 +1,40 @@
+classification: hardware
+color: 634_size
+description_extra: ''
+description_main: 4_mm_id_16_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+id: hardware_bearing_600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_class: bearing_600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_color: 4_mm_id_16_mm_od_5_mm_depth
+id_no_size: 634_size_4_mm_id_16_mm_od_5_mm_depth
+id_no_type: 600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+manufacturer: ''
+md5: 8f57b092b5da35f1a20b3dc59bc0b3ea
+md5_10: 8f57b092b5
+md5_10_upper: 8F57B092B5
+md5_5: 8f57b
+md5_5_upper: 8F57B
+md5_6: 8f57b0
+md5_6_alpha: 5lcj4
+md5_6_alpha_upper: 5LCJ4
+md5_6_upper: 8F57B0
+name: Hardware Bearing 600 Series 634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_color: 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_size: 634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+name_no_type: 600 Series 634 Size 4 Mm Id 16 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_634_size_4_mm_id_16_mm_od_5_mm_depth
+oomp_word: calendar rat crown
+oomp_word_emoji: ':calendar: :rat: :crown:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':rat:'
+- ':crown:'
+oomp_word_list:
+- calendar
+- rat
+- crown
+part_number: ''
+size: 600_series
+type: bearing

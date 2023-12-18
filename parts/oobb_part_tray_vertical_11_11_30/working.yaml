@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_30'
+directory: parts/oobb_part_tray_vertical_11_11_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_11_30
+id: oobb_part_tray_vertical_11_11_30
+id_no_class: part_tray_vertical_11_11_30
+id_no_color: '111130'
+id_no_size: '11_11_30'
+id_no_type: tray_vertical_11_11_30
+manufacturer: ''
+md5: 4e8bed964f4f80f780ade0003838bdd5
+md5_10: 4e8bed964f
+md5_10_upper: 4E8BED964F
+md5_5: 4e8be
+md5_5_upper: 4E8BE
+md5_6: 4e8bed
+md5_6_alpha: 32bxp
+md5_6_alpha_upper: 32BXP
+md5_6_upper: 4E8BED
+name: Oobb Part Tray Vertical 11 11 30
+name_no_class: Part Tray Vertical 11 11 30
+name_no_color: '111130'
+name_no_size: 11 11 30
+name_no_type: Tray Vertical 11 11 30
+oomp_key: oomp_oobb_part_tray_vertical_11_11_30
+oomp_word: honeybee door bus
+oomp_word_emoji: ':honeybee: :door: :bus:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':door:'
+- ':bus:'
+oomp_word_list:
+- honeybee
+- door
+- bus
+part_number: ''
+size: tray_vertical
+type: part

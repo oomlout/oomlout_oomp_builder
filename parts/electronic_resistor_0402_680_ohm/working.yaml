@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680_ohm
+directory: parts/electronic_resistor_0402_680_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm
+id: electronic_resistor_0402_680_ohm
+id_no_class: resistor_0402_680_ohm
+id_no_color: 680ohm
+id_no_size: 680_ohm
+id_no_type: 0402_680_ohm
+manufacturer: ''
+md5: 7bcc213feb320a61f529a8467b045787
+md5_10: 7bcc213feb
+md5_10_upper: 7BCC213FEB
+md5_5: 7bcc2
+md5_5_upper: 7BCC2
+md5_6: 7bcc21
+md5_6_alpha: 4tw69
+md5_6_alpha_upper: 4TW69
+md5_6_upper: 7BCC21
+name: Electronic Resistor 0402 680 Ohm
+name_no_class: Resistor 0402 680 Ohm
+name_no_color: 680Ohm
+name_no_size: 680 Ohm
+name_no_type: 0402 680 Ohm
+oomp_key: oomp_electronic_resistor_0402_680_ohm
+oomp_word: computer watermelon feet
+oomp_word_emoji: ':computer: :watermelon: :feet:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':watermelon:'
+- ':feet:'
+oomp_word_list:
+- computer
+- watermelon
+- feet
+part_number: ''
+size: '0402'
+type: resistor

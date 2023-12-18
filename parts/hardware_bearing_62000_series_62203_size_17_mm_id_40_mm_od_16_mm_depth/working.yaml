@@ -1,0 +1,40 @@
+classification: hardware
+color: 62203_size
+description_extra: ''
+description_main: 17_mm_id_40_mm_od_16_mm_depth
+directory: parts/hardware_bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+id: hardware_bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+id_no_class: bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+id_no_color: 17_mm_id_40_mm_od_16_mm_depth
+id_no_size: 62203_size_17_mm_id_40_mm_od_16_mm_depth
+id_no_type: 62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+manufacturer: ''
+md5: e14e08193798b66798a4830fe1604c85
+md5_10: e14e081937
+md5_10_upper: E14E081937
+md5_5: e14e0
+md5_5_upper: E14E0
+md5_6: e14e08
+md5_6_alpha: 8sh6w
+md5_6_alpha_upper: 8SH6W
+md5_6_upper: E14E08
+name: Hardware Bearing 62000 Series 62203 Size 17 Mm Id 40 Mm Od 16 Mm Depth
+name_no_class: Bearing 62000 Series 62203 Size 17 Mm Id 40 Mm Od 16 Mm Depth
+name_no_color: 17 Mm Id 40 Mm Od 16 Mm Depth
+name_no_size: 62203 Size 17 Mm Id 40 Mm Od 16 Mm Depth
+name_no_type: 62000 Series 62203 Size 17 Mm Id 40 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
+oomp_word: boat honeybee scream
+oomp_word_emoji: ':boat: :honeybee: :scream:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':honeybee:'
+- ':scream:'
+oomp_word_list:
+- boat
+- honeybee
+- scream
+part_number: ''
+size: 62000_series
+type: bearing

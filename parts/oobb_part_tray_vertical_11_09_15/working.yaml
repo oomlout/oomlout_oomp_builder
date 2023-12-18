@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_09_15'
+directory: parts/oobb_part_tray_vertical_11_09_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_09_15
+id: oobb_part_tray_vertical_11_09_15
+id_no_class: part_tray_vertical_11_09_15
+id_no_color: '110915'
+id_no_size: '11_09_15'
+id_no_type: tray_vertical_11_09_15
+manufacturer: ''
+md5: 0020a7b140a07114696355a9845abb0a
+md5_10: 0020a7b140
+md5_10_upper: 0020A7B140
+md5_5: 0020a
+md5_5_upper: 0020A
+md5_6: 0020a7
+md5_6_alpha: 6g7
+md5_6_alpha_upper: 6G7
+md5_6_upper: 0020A7
+name: Oobb Part Tray Vertical 11 09 15
+name_no_class: Part Tray Vertical 11 09 15
+name_no_color: '110915'
+name_no_size: 11 09 15
+name_no_type: Tray Vertical 11 09 15
+oomp_key: oomp_oobb_part_tray_vertical_11_09_15
+oomp_word: bowtie skull guitar
+oomp_word_emoji: ':bowtie: :skull: :guitar:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':skull:'
+- ':guitar:'
+oomp_word_list:
+- bowtie
+- skull
+- guitar
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_self_tapping_m2_12
+directory: parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+id: oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+id_no_class: part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+id_no_color: hardwarem212
+id_no_size: hardware_m2_12
+id_no_type: screw_self_tapping_hardware_screw_self_tapping_m2_12
+manufacturer: ''
+md5: f3132c96265e8a1f29f967f1720efc08
+md5_10: f3132c9626
+md5_10_upper: F3132C9626
+md5_5: f3132
+md5_5_upper: F3132
+md5_6: f3132c
+md5_6_alpha: 9hfsc
+md5_6_alpha_upper: 9HFSC
+md5_6_upper: F3132C
+name: Oobb Part Screw Self Tapping Hardware Screw Self Tapping M2 12
+name_no_class: Part Screw Self Tapping Hardware Screw Self Tapping M2 12
+name_no_color: Hardwarem212
+name_no_size: Hardware M2 12
+name_no_type: Screw Self Tapping Hardware Screw Self Tapping M2 12
+oomp_key: oomp_oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+oomp_word: two question snowflake
+oomp_word_emoji: ':two: :question: :snowflake:'
+oomp_word_emoji_list:
+- ':two:'
+- ':question:'
+- ':snowflake:'
+oomp_word_list:
+- two
+- question
+- snowflake
+part_number: ''
+size: screw_self_tapping
+type: part

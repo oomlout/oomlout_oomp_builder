@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_02_18
+directory: parts/oobb_part_tray_vertical_08_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_02_18
+id: oobb_part_tray_vertical_08_02_18
+id_no_class: part_tray_vertical_08_02_18
+id_no_color: 080218
+id_no_size: 08_02_18
+id_no_type: tray_vertical_08_02_18
+manufacturer: ''
+md5: 134cb19e7e3f269f9f1122df1776f41b
+md5_10: 134cb19e7e
+md5_10_upper: 134CB19E7E
+md5_5: 134cb
+md5_5_upper: 134CB
+md5_6: 134cb1
+md5_6_alpha: r3xt
+md5_6_alpha_upper: R3XT
+md5_6_upper: 134CB1
+name: Oobb Part Tray Vertical 08 02 18
+name_no_class: Part Tray Vertical 08 02 18
+name_no_color: 080218
+name_no_size: 08 02 18
+name_no_type: Tray Vertical 08 02 18
+oomp_key: oomp_oobb_part_tray_vertical_08_02_18
+oomp_word: question turtle briefcase
+oomp_word_emoji: ':question: :turtle: :briefcase:'
+oomp_word_emoji_list:
+- ':question:'
+- ':turtle:'
+- ':briefcase:'
+oomp_word_list:
+- question
+- turtle
+- briefcase
+part_number: ''
+size: tray_vertical
+type: part

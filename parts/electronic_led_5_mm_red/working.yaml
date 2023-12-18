@@ -1,0 +1,40 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_5_mm_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_red
+id: electronic_led_5_mm_red
+id_no_class: led_5_mm_red
+id_no_color: red
+id_no_size: red
+id_no_type: 5_mm_red
+manufacturer: ''
+md5: 30578ce27beae920469b86e05a198be3
+md5_10: 30578ce27b
+md5_10_upper: 30578CE27B
+md5_5: '30578'
+md5_5_upper: '30578'
+md5_6: 30578c
+md5_6_alpha: 1vwjw
+md5_6_alpha_upper: 1VWJW
+md5_6_upper: 30578C
+name: Electronic Led 5 Mm Red
+name_no_class: Led 5 Mm Red
+name_no_color: Red
+name_no_size: Red
+name_no_type: 5 Mm Red
+oomp_key: oomp_electronic_led_5_mm_red
+oomp_word: foggy rat pill
+oomp_word_emoji: ':foggy: :rat: :pill:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':rat:'
+- ':pill:'
+oomp_word_list:
+- foggy
+- rat
+- pill
+part_number: ''
+size: 5_mm
+type: led

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_10
+directory: parts/oobb_part_standoff_hardware_standoff_m3_10
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_10
+id: oobb_part_standoff_hardware_standoff_m3_10
+id_no_class: part_standoff_hardware_standoff_m3_10
+id_no_color: hardwarem310
+id_no_size: hardware_m3_10
+id_no_type: standoff_hardware_standoff_m3_10
+manufacturer: ''
+md5: a35d4e6d48306fbfd492b8f9127e0029
+md5_10: a35d4e6d48
+md5_10_upper: A35D4E6D48
+md5_5: a35d4
+md5_5_upper: A35D4
+md5_6: a35d4e
+md5_6_alpha: 6dgzy
+md5_6_alpha_upper: 6DGZY
+md5_6_upper: A35D4E
+name: Oobb Part Standoff Hardware Standoff M3 10
+name_no_class: Part Standoff Hardware Standoff M3 10
+name_no_color: Hardwarem310
+name_no_size: Hardware M3 10
+name_no_type: Standoff Hardware Standoff M3 10
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_10
+oomp_word: pencil blowfish honeybee
+oomp_word_emoji: ':pencil: :blowfish: :honeybee:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':blowfish:'
+- ':honeybee:'
+oomp_word_list:
+- pencil
+- blowfish
+- honeybee
+part_number: ''
+size: standoff
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 36_pin
+directory: parts/electronic_header_2_54_mm_36_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_36_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_36_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_36_pin_surface_mount_right_angle
+id_no_color: 36pinsurfacemountrightangle
+id_no_size: 36_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_36_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 63f84863003482064e315e4a8ac31ea1
+md5_10: 63f8486300
+md5_10_upper: 63F8486300
+md5_5: 63f84
+md5_5_upper: 63F84
+md5_6: 63f848
+md5_6_alpha: 3wf9k
+md5_6_alpha_upper: 3WF9K
+md5_6_upper: 63F848
+name: Electronic Header 2 54 Mm 36 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 36 Pin Surface Mount Right Angle
+name_no_color: 36Pinsurfacemountrightangle
+name_no_size: 36 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 36 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_36_pin_surface_mount_right_angle
+oomp_word: rose seven hatched_chick
+oomp_word_emoji: ':rose: :seven: :hatched_chick:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':seven:'
+- ':hatched_chick:'
+oomp_word_list:
+- rose
+- seven
+- hatched_chick
+part_number: ''
+size: 2_54_mm
+type: header

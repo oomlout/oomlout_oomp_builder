@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x9_18_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x9_18_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x9_18_pin_surface_mount
+id_no_color: 2x918pinsurfacemount
+id_no_size: 2x9_18_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x9_18_pin_surface_mount
+manufacturer: ''
+md5: 29e96dbde773d1ac6ad800975808742e
+md5_10: 29e96dbde7
+md5_10_upper: 29E96DBDE7
+md5_5: 29e96
+md5_5_upper: 29E96
+md5_6: 29e96d
+md5_6_alpha: 1mve5
+md5_6_alpha_upper: 1MVE5
+md5_6_upper: 29E96D
+name: Electronic Header 2 54 Mm Dual Row 2X9 18 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X9 18 Pin Surface Mount
+name_no_color: 2X918Pinsurfacemount
+name_no_size: 2X9 18 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X9 18 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x9_18_pin_surface_mount
+oomp_word: sunny bike shell
+oomp_word_emoji: ':sunny: :bike: :shell:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':bike:'
+- ':shell:'
+oomp_word_list:
+- sunny
+- bike
+- shell
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

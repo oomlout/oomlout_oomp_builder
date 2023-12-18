@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_09'
+directory: parts/oobb_part_plate_11_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_01_09
+id: oobb_part_plate_11_01_09
+id_no_class: part_plate_11_01_09
+id_no_color: '110109'
+id_no_size: '11_01_09'
+id_no_type: plate_11_01_09
+manufacturer: ''
+md5: 564ebcdd348b7ab8a9790709108526fb
+md5_10: 564ebcdd34
+md5_10_upper: 564EBCDD34
+md5_5: 564eb
+md5_5_upper: 564EB
+md5_6: 564ebc
+md5_6_alpha: 3d8e4
+md5_6_alpha_upper: 3D8E4
+md5_6_upper: 564EBC
+name: Oobb Part Plate 11 01 09
+name_no_class: Part Plate 11 01 09
+name_no_color: '110109'
+name_no_size: 11 01 09
+name_no_type: Plate 11 01 09
+oomp_key: oomp_oobb_part_plate_11_01_09
+oomp_word: ram honeybee sushi
+oomp_word_emoji: ':ram: :honeybee: :sushi:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':honeybee:'
+- ':sushi:'
+oomp_word_list:
+- ram
+- honeybee
+- sushi
+part_number: ''
+size: plate
+type: part

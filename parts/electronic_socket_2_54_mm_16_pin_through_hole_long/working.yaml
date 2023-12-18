@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 16_pin
+directory: parts/electronic_socket_2_54_mm_16_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_16_pin_through_hole_long
+id: electronic_socket_2_54_mm_16_pin_through_hole_long
+id_no_class: socket_2_54_mm_16_pin_through_hole_long
+id_no_color: 16pinthroughholelong
+id_no_size: 16_pin_through_hole_long
+id_no_type: 2_54_mm_16_pin_through_hole_long
+manufacturer: ''
+md5: e56a6c0223cbfbd83fe0b3a09a610012
+md5_10: e56a6c0223
+md5_10_upper: E56A6C0223
+md5_5: e56a6
+md5_5_upper: E56A6
+md5_6: e56a6c
+md5_6_alpha: 8y92k
+md5_6_alpha_upper: 8Y92K
+md5_6_upper: E56A6C
+name: Electronic Socket 2 54 Mm 16 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 16 Pin Through Hole Long
+name_no_color: 16Pinthroughholelong
+name_no_size: 16 Pin Through Hole Long
+name_no_type: 2 54 Mm 16 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_16_pin_through_hole_long
+oomp_word: rocket palm_tree blossom
+oomp_word_emoji: ':rocket: :palm_tree: :blossom:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':palm_tree:'
+- ':blossom:'
+oomp_word_list:
+- rocket
+- palm_tree
+- blossom
+part_number: ''
+size: 2_54_mm
+type: socket

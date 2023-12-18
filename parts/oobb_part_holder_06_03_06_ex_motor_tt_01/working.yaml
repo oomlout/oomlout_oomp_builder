@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_03_06_ex_motor_tt_01
+directory: parts/oobb_part_holder_06_03_06_ex_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_06_03_06_ex_motor_tt_01
+id: oobb_part_holder_06_03_06_ex_motor_tt_01
+id_no_class: part_holder_06_03_06_ex_motor_tt_01
+id_no_color: 060306exmotortt01
+id_no_size: 06_03_06_ex_motor_tt_01
+id_no_type: holder_06_03_06_ex_motor_tt_01
+manufacturer: ''
+md5: da12d4329f3cd7ce96cdde8ba2d52d43
+md5_10: da12d4329f
+md5_10_upper: DA12D4329F
+md5_5: da12d
+md5_5_upper: DA12D
+md5_6: da12d4
+md5_6_alpha: 8ibis
+md5_6_alpha_upper: 8IBIS
+md5_6_upper: DA12D4
+name: Oobb Part Holder 06 03 06 Ex Motor Tt 01
+name_no_class: Part Holder 06 03 06 Ex Motor Tt 01
+name_no_color: 060306Exmotortt01
+name_no_size: 06 03 06 Ex Motor Tt 01
+name_no_type: Holder 06 03 06 Ex Motor Tt 01
+oomp_key: oomp_oobb_part_holder_06_03_06_ex_motor_tt_01
+oomp_word: hotel anger corn
+oomp_word_emoji: ':hotel: :anger: :corn:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':anger:'
+- ':corn:'
+oomp_word_list:
+- hotel
+- anger
+- corn
+part_number: ''
+size: holder
+type: part

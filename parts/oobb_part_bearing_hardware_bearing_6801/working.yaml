@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6801
+directory: parts/oobb_part_bearing_hardware_bearing_6801
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6801
+id: oobb_part_bearing_hardware_bearing_6801
+id_no_class: part_bearing_hardware_bearing_6801
+id_no_color: hardware6801
+id_no_size: hardware_6801
+id_no_type: bearing_hardware_bearing_6801
+manufacturer: ''
+md5: e2f4e50bb74c96acd33bd67b1813c44a
+md5_10: e2f4e50bb7
+md5_10_upper: E2F4E50BB7
+md5_5: e2f4e
+md5_5_upper: E2F4E
+md5_6: e2f4e5
+md5_6_alpha: 8uspx
+md5_6_alpha_upper: 8USPX
+md5_6_upper: E2F4E5
+name: Oobb Part Bearing Hardware Bearing 6801
+name_no_class: Part Bearing Hardware Bearing 6801
+name_no_color: Hardware6801
+name_no_size: Hardware 6801
+name_no_type: Bearing Hardware Bearing 6801
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6801
+oomp_word: sailboat three rocket
+oomp_word_emoji: ':sailboat: :three: :rocket:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':three:'
+- ':rocket:'
+oomp_word_list:
+- sailboat
+- three
+- rocket
+part_number: ''
+size: bearing
+type: part

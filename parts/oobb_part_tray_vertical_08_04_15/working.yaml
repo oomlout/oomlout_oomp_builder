@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_15
+directory: parts/oobb_part_tray_vertical_08_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_04_15
+id: oobb_part_tray_vertical_08_04_15
+id_no_class: part_tray_vertical_08_04_15
+id_no_color: 080415
+id_no_size: 08_04_15
+id_no_type: tray_vertical_08_04_15
+manufacturer: ''
+md5: a82161c6a728fbf30da6aa99bccb7e0d
+md5_10: a82161c6a7
+md5_10_upper: A82161C6A7
+md5_5: a8216
+md5_5_upper: A8216
+md5_6: a82161
+md5_6_alpha: 6k601
+md5_6_alpha_upper: 6K601
+md5_6_upper: A82161
+name: Oobb Part Tray Vertical 08 04 15
+name_no_class: Part Tray Vertical 08 04 15
+name_no_color: 080415
+name_no_size: 08 04 15
+name_no_type: Tray Vertical 08 04 15
+oomp_key: oomp_oobb_part_tray_vertical_08_04_15
+oomp_word: shoe feet bouquet
+oomp_word_emoji: ':shoe: :feet: :bouquet:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':feet:'
+- ':bouquet:'
+oomp_word_list:
+- shoe
+- feet
+- bouquet
+part_number: ''
+size: tray_vertical
+type: part

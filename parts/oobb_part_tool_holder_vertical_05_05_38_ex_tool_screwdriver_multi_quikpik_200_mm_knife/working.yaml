@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+directory: parts/oobb_part_tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+id: oobb_part_tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+id_no_class: part_tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+id_no_color: 050538extoolscrewdrivermultiquikpik200mmknife
+id_no_size: 05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+id_no_type: tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+manufacturer: ''
+md5: 5d3737394a646f2dcbd6d13a702d4b20
+md5_10: 5d3737394a
+md5_10_upper: 5D3737394A
+md5_5: 5d373
+md5_5_upper: 5D373
+md5_6: 5d3737
+md5_6_alpha: 3mxpz
+md5_6_alpha_upper: 3MXPZ
+md5_6_upper: 5D3737
+name: Oobb Part Tool Holder Vertical 05 05 38 Ex Tool Screwdriver Multi Quikpik 200
+  Mm Knife
+name_no_class: Part Tool Holder Vertical 05 05 38 Ex Tool Screwdriver Multi Quikpik
+  200 Mm Knife
+name_no_color: 050538Extoolscrewdrivermultiquikpik200Mmknife
+name_no_size: 05 05 38 Ex Tool Screwdriver Multi Quikpik 200 Mm Knife
+name_no_type: Tool Holder Vertical 05 05 38 Ex Tool Screwdriver Multi Quikpik 200
+  Mm Knife
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_38_ex_tool_screwdriver_multi_quikpik_200_mm_knife
+oomp_word: blowfish wolf wolf
+oomp_word_emoji: ':blowfish: :wolf: :wolf:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':wolf:'
+- ':wolf:'
+oomp_word_list:
+- blowfish
+- wolf
+- wolf
+part_number: ''
+size: tool_holder_vertical
+type: part

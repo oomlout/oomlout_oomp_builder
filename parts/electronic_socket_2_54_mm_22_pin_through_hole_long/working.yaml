@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 22_pin
+directory: parts/electronic_socket_2_54_mm_22_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_22_pin_through_hole_long
+id: electronic_socket_2_54_mm_22_pin_through_hole_long
+id_no_class: socket_2_54_mm_22_pin_through_hole_long
+id_no_color: 22pinthroughholelong
+id_no_size: 22_pin_through_hole_long
+id_no_type: 2_54_mm_22_pin_through_hole_long
+manufacturer: ''
+md5: d93fe7e18b3ca15c47874dc6799436f5
+md5_10: d93fe7e18b
+md5_10_upper: D93FE7E18B
+md5_5: d93fe
+md5_5_upper: D93FE
+md5_6: d93fe7
+md5_6_alpha: 8h5uv
+md5_6_alpha_upper: 8H5UV
+md5_6_upper: D93FE7
+name: Electronic Socket 2 54 Mm 22 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 22 Pin Through Hole Long
+name_no_color: 22Pinthroughholelong
+name_no_size: 22 Pin Through Hole Long
+name_no_type: 2 54 Mm 22 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_22_pin_through_hole_long
+oomp_word: bank horse helicopter
+oomp_word_emoji: ':bank: :horse: :helicopter:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':horse:'
+- ':helicopter:'
+oomp_word_list:
+- bank
+- horse
+- helicopter
+part_number: ''
+size: 2_54_mm
+type: socket

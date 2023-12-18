@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_06_03'
+directory: parts/oobb_part_plate_15_06_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_06_03
+id: oobb_part_plate_15_06_03
+id_no_class: part_plate_15_06_03
+id_no_color: '150603'
+id_no_size: '15_06_03'
+id_no_type: plate_15_06_03
+manufacturer: ''
+md5: 5c8d9d10c20ba5c4aabbef3d8ad64635
+md5_10: 5c8d9d10c2
+md5_10_upper: 5C8D9D10C2
+md5_5: 5c8d9
+md5_5_upper: 5C8D9
+md5_6: 5c8d9d
+md5_6_alpha: 3m07x
+md5_6_alpha_upper: 3M07X
+md5_6_upper: 5C8D9D
+name: Oobb Part Plate 15 06 03
+name_no_class: Part Plate 15 06 03
+name_no_color: '150603'
+name_no_size: 15 06 03
+name_no_type: Plate 15 06 03
+oomp_key: oomp_oobb_part_plate_15_06_03
+oomp_word: ox scroll hearts
+oomp_word_emoji: ':ox: :scroll: :hearts:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':scroll:'
+- ':hearts:'
+oomp_word_list:
+- ox
+- scroll
+- hearts
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_08_12
+directory: parts/oobb_part_tray_07_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_08_12
+id: oobb_part_tray_07_08_12
+id_no_class: part_tray_07_08_12
+id_no_color: 070812
+id_no_size: 07_08_12
+id_no_type: tray_07_08_12
+manufacturer: ''
+md5: 0cce6aa6c758c2a07e095e0ac1d87d56
+md5_10: 0cce6aa6c7
+md5_10_upper: 0CCE6AA6C7
+md5_5: 0cce6
+md5_5_upper: 0CCE6
+md5_6: 0cce6a
+md5_6_alpha: hzl6
+md5_6_alpha_upper: HZL6
+md5_6_upper: 0CCE6A
+name: Oobb Part Tray 07 08 12
+name_no_class: Part Tray 07 08 12
+name_no_color: 070812
+name_no_size: 07 08 12
+name_no_type: Tray 07 08 12
+oomp_key: oomp_oobb_part_tray_07_08_12
+oomp_word: alien peach palm_tree
+oomp_word_emoji: ':alien: :peach: :palm_tree:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':peach:'
+- ':palm_tree:'
+oomp_word_list:
+- alien
+- peach
+- palm_tree
+part_number: ''
+size: tray
+type: part

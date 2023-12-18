@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_6
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_6
+id: oobb_part_bunting_alphabet_07_01_ex_6
+id_no_class: part_bunting_alphabet_07_01_ex_6
+id_no_color: 0701ex6
+id_no_size: 07_01_ex_6
+id_no_type: bunting_alphabet_07_01_ex_6
+manufacturer: ''
+md5: dd187ee178c50f799eb2767571b80090
+md5_10: dd187ee178
+md5_10_upper: DD187EE178
+md5_5: dd187
+md5_5_upper: DD187
+md5_6: dd187e
+md5_6_alpha: 8mkce
+md5_6_alpha_upper: 8MKCE
+md5_6_upper: DD187E
+name: Oobb Part Bunting Alphabet 07 01 Ex 6
+name_no_class: Part Bunting Alphabet 07 01 Ex 6
+name_no_color: 0701Ex6
+name_no_size: 07 01 Ex 6
+name_no_type: Bunting Alphabet 07 01 Ex 6
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_6
+oomp_word: stars hand fax
+oomp_word_emoji: ':stars: :hand: :fax:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':hand:'
+- ':fax:'
+oomp_word_list:
+- stars
+- hand
+- fax
+part_number: ''
+size: bunting_alphabet
+type: part

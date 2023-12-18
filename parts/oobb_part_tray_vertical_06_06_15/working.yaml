@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_06_15'
+directory: parts/oobb_part_tray_vertical_06_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_06_15
+id: oobb_part_tray_vertical_06_06_15
+id_no_class: part_tray_vertical_06_06_15
+id_no_color: '060615'
+id_no_size: '06_06_15'
+id_no_type: tray_vertical_06_06_15
+manufacturer: ''
+md5: 51ecc7d62896dfec2d93fbbb5fb8300b
+md5_10: 51ecc7d628
+md5_10_upper: 51ECC7D628
+md5_5: 51ecc
+md5_5_upper: 51ECC
+md5_6: 51ecc7
+md5_6_alpha: 372rr
+md5_6_alpha_upper: 372RR
+md5_6_upper: 51ECC7
+name: Oobb Part Tray Vertical 06 06 15
+name_no_class: Part Tray Vertical 06 06 15
+name_no_color: '060615'
+name_no_size: 06 06 15
+name_no_type: Tray Vertical 06 06 15
+oomp_key: oomp_oobb_part_tray_vertical_06_06_15
+oomp_word: snail taxi honey_pot
+oomp_word_emoji: ':snail: :taxi: :honey_pot:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':taxi:'
+- ':honey_pot:'
+oomp_word_list:
+- snail
+- taxi
+- honey_pot
+part_number: ''
+size: tray_vertical
+type: part

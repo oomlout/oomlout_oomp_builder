@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_09
+directory: parts/oobb_part_tray_vertical_11_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_1d5_09
+id: oobb_part_tray_vertical_11_1d5_09
+id_no_class: part_tray_vertical_11_1d5_09
+id_no_color: 111d509
+id_no_size: 11_1d5_09
+id_no_type: tray_vertical_11_1d5_09
+manufacturer: ''
+md5: aac22a8b8489e05da31610dea9f15cf9
+md5_10: aac22a8b84
+md5_10_upper: AAC22A8B84
+md5_5: aac22
+md5_5_upper: AAC22
+md5_6: aac22a
+md5_6_alpha: 6nuwa
+md5_6_alpha_upper: 6NUWA
+md5_6_upper: AAC22A
+name: Oobb Part Tray Vertical 11 1D5 09
+name_no_class: Part Tray Vertical 11 1D5 09
+name_no_color: 111D509
+name_no_size: 11 1D5 09
+name_no_type: Tray Vertical 11 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_11_1d5_09
+oomp_word: lipstick birthday umbrella
+oomp_word_emoji: ':lipstick: :birthday: :umbrella:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':birthday:'
+- ':umbrella:'
+oomp_word_list:
+- lipstick
+- birthday
+- umbrella
+part_number: ''
+size: tray_vertical
+type: part

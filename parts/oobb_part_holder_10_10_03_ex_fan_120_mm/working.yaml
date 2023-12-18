@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_10_03_ex_fan_120_mm
+directory: parts/oobb_part_holder_10_10_03_ex_fan_120_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_10_10_03_ex_fan_120_mm
+id: oobb_part_holder_10_10_03_ex_fan_120_mm
+id_no_class: part_holder_10_10_03_ex_fan_120_mm
+id_no_color: 101003exfan120mm
+id_no_size: 10_10_03_ex_fan_120_mm
+id_no_type: holder_10_10_03_ex_fan_120_mm
+manufacturer: ''
+md5: 2eb97fa8c91563b866c01a42fd9124d3
+md5_10: 2eb97fa8c9
+md5_10_upper: 2EB97FA8C9
+md5_5: 2eb97
+md5_5_upper: 2EB97
+md5_6: 2eb97f
+md5_6_alpha: 1tmrj
+md5_6_alpha_upper: 1TMRJ
+md5_6_upper: 2EB97F
+name: Oobb Part Holder 10 10 03 Ex Fan 120 Mm
+name_no_class: Part Holder 10 10 03 Ex Fan 120 Mm
+name_no_color: 101003Exfan120Mm
+name_no_size: 10 10 03 Ex Fan 120 Mm
+name_no_type: Holder 10 10 03 Ex Fan 120 Mm
+oomp_key: oomp_oobb_part_holder_10_10_03_ex_fan_120_mm
+oomp_word: zap fries speaker
+oomp_word_emoji: ':zap: :fries: :speaker:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':fries:'
+- ':speaker:'
+oomp_word_list:
+- zap
+- fries
+- speaker
+part_number: ''
+size: holder
+type: part

@@ -1,0 +1,40 @@
+classification: packaging
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+id: packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+id_no_class: takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+id_no_color: nisbetfiestalargedm183
+id_no_size: nisbet_fiesta_large_dm183
+id_no_type: 1000_ml_nisbet_fiesta_large_dm183
+manufacturer: nisbet_fiesta
+md5: 493ba0395edb6cdbf8d392393348d874
+md5_10: 493ba0395e
+md5_10_upper: 493BA0395E
+md5_5: 493ba
+md5_5_upper: 493BA
+md5_6: 493ba0
+md5_6_alpha: 2uv8g
+md5_6_alpha_upper: 2UV8G
+md5_6_upper: 493BA0
+name: Packaging Takeaway Container Rectangle 1000 Ml Nisbet Fiesta Large Dm183
+name_no_class: Takeaway Container Rectangle 1000 Ml Nisbet Fiesta Large Dm183
+name_no_color: Nisbetfiestalargedm183
+name_no_size: Nisbet Fiesta Large Dm183
+name_no_type: 1000 Ml Nisbet Fiesta Large Dm183
+oomp_key: oomp_packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+oomp_word: hatching_chick bear ring
+oomp_word_emoji: ':hatching_chick: :bear: :ring:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':bear:'
+- ':ring:'
+oomp_word_list:
+- hatching_chick
+- bear
+- ring
+part_number: large_dm183
+size: 1000_ml
+type: takeaway_container_rectangle

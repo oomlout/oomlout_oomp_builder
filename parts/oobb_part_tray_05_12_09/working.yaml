@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_12_09
+directory: parts/oobb_part_tray_05_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_12_09
+id: oobb_part_tray_05_12_09
+id_no_class: part_tray_05_12_09
+id_no_color: 051209
+id_no_size: 05_12_09
+id_no_type: tray_05_12_09
+manufacturer: ''
+md5: 0445ab5cb94f66fc5cb5bdf7c5b0f2b6
+md5_10: 0445ab5cb9
+md5_10_upper: 0445AB5CB9
+md5_5: 0445a
+md5_5_upper: 0445A
+md5_6: 0445ab
+md5_6_alpha: '6017'
+md5_6_alpha_upper: '6017'
+md5_6_upper: 0445AB
+name: Oobb Part Tray 05 12 09
+name_no_class: Part Tray 05 12 09
+name_no_color: 051209
+name_no_size: 05 12 09
+name_no_type: Tray 05 12 09
+oomp_key: oomp_oobb_part_tray_05_12_09
+oomp_word: wink snake boot
+oomp_word_emoji: ':wink: :snake: :boot:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':snake:'
+- ':boot:'
+oomp_word_list:
+- wink
+- snake
+- boot
+part_number: ''
+size: tray
+type: part

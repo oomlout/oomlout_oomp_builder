@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_14_ex_tool_tdpb_nozzle_changer
+directory: parts/oobb_part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id: oobb_part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_class: part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_color: 030514extooltdpbnozzlechanger
+id_no_size: 03_05_14_ex_tool_tdpb_nozzle_changer
+id_no_type: tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+manufacturer: ''
+md5: 5ce462c18c2f23cf24bb53c9dfa2c266
+md5_10: 5ce462c18c
+md5_10_upper: 5CE462C18C
+md5_5: 5ce46
+md5_5_upper: 5CE46
+md5_6: 5ce462
+md5_6_alpha: 3mhcy
+md5_6_alpha_upper: 3MHCY
+md5_6_upper: 5CE462
+name: Oobb Part Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_class: Part Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_color: 030514Extooltdpbnozzlechanger
+name_no_size: 03 05 14 Ex Tool Tdpb Nozzle Changer
+name_no_type: Tool Holder Vertical 03 05 14 Ex Tool Tdpb Nozzle Changer
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_14_ex_tool_tdpb_nozzle_changer
+oomp_word: ox anchor tulip
+oomp_word_emoji: ':ox: :anchor: :tulip:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':anchor:'
+- ':tulip:'
+oomp_word_list:
+- ox
+- anchor
+- tulip
+part_number: ''
+size: tool_holder_vertical
+type: part

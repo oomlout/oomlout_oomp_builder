@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_09_ex_tool_wrench_m10_x2
+directory: parts/oobb_part_tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+id: oobb_part_tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+id_no_class: part_tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+id_no_color: 050509extoolwrenchm10x2
+id_no_size: 05_05_09_ex_tool_wrench_m10_x2
+id_no_type: tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+manufacturer: ''
+md5: 3b9f9bf49ebc4998b46f06c6be8d6833
+md5_10: 3b9f9bf49e
+md5_10_upper: 3B9F9BF49E
+md5_5: 3b9f9
+md5_5_upper: 3B9F9
+md5_6: 3b9f9b
+md5_6_alpha: 2br17
+md5_6_alpha_upper: 2BR17
+md5_6_upper: 3B9F9B
+name: Oobb Part Tool Holder Vertical 05 05 09 Ex Tool Wrench M10 X2
+name_no_class: Part Tool Holder Vertical 05 05 09 Ex Tool Wrench M10 X2
+name_no_color: 050509Extoolwrenchm10X2
+name_no_size: 05 05 09 Ex Tool Wrench M10 X2
+name_no_type: Tool Holder Vertical 05 05 09 Ex Tool Wrench M10 X2
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_09_ex_tool_wrench_m10_x2
+oomp_word: bear diamonds ski
+oomp_word_emoji: ':bear: :diamonds: :ski:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':diamonds:'
+- ':ski:'
+oomp_word_list:
+- bear
+- diamonds
+- ski
+part_number: ''
+size: tool_holder_vertical
+type: part

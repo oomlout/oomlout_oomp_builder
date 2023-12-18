@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_12_12'
+directory: parts/oobb_part_tray_12_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_12_12
+id: oobb_part_tray_12_12_12
+id_no_class: part_tray_12_12_12
+id_no_color: '121212'
+id_no_size: '12_12_12'
+id_no_type: tray_12_12_12
+manufacturer: ''
+md5: bdf07a1e07b48ddffd2f6a7df3141516
+md5_10: bdf07a1e07
+md5_10_upper: BDF07A1E07
+md5_5: bdf07
+md5_5_upper: BDF07
+md5_6: bdf07a
+md5_6_alpha: 7esu2
+md5_6_alpha_upper: 7ESU2
+md5_6_upper: BDF07A
+name: Oobb Part Tray 12 12 12
+name_no_class: Part Tray 12 12 12
+name_no_color: '121212'
+name_no_size: 12 12 12
+name_no_type: Tray 12 12 12
+oomp_key: oomp_oobb_part_tray_12_12_12
+oomp_word: rice train camera
+oomp_word_emoji: ':rice: :train: :camera:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':train:'
+- ':camera:'
+oomp_word_list:
+- rice
+- train
+- camera
+part_number: ''
+size: tray
+type: part

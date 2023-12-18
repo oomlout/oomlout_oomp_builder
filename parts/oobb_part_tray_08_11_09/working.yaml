@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_11_09
+directory: parts/oobb_part_tray_08_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_09
+id: oobb_part_tray_08_11_09
+id_no_class: part_tray_08_11_09
+id_no_color: 081109
+id_no_size: 08_11_09
+id_no_type: tray_08_11_09
+manufacturer: ''
+md5: f2581197cbf0a3eb4123466054727e18
+md5_10: f2581197cb
+md5_10_upper: F2581197CB
+md5_5: f2581
+md5_5_upper: F2581
+md5_6: f25811
+md5_6_alpha: 9gett
+md5_6_alpha_upper: 9GETT
+md5_6_upper: F25811
+name: Oobb Part Tray 08 11 09
+name_no_class: Part Tray 08 11 09
+name_no_color: 081109
+name_no_size: 08 11 09
+name_no_type: Tray 08 11 09
+oomp_key: oomp_oobb_part_tray_08_11_09
+oomp_word: one water_buffalo dizzy
+oomp_word_emoji: ':one: :water_buffalo: :dizzy:'
+oomp_word_emoji_list:
+- ':one:'
+- ':water_buffalo:'
+- ':dizzy:'
+oomp_word_list:
+- one
+- water_buffalo
+- dizzy
+part_number: ''
+size: tray
+type: part

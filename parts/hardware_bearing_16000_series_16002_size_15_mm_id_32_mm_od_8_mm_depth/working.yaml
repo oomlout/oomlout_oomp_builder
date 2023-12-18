@@ -1,0 +1,40 @@
+classification: hardware
+color: 16002_size
+description_extra: ''
+description_main: 15_mm_id_32_mm_od_8_mm_depth
+directory: parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+id: hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+id_no_class: bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+id_no_color: 15_mm_id_32_mm_od_8_mm_depth
+id_no_size: 16002_size_15_mm_id_32_mm_od_8_mm_depth
+id_no_type: 16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+manufacturer: ''
+md5: 3c8766a3059977ffe6ba3cd30993c38f
+md5_10: 3c8766a305
+md5_10_upper: 3C8766A305
+md5_5: 3c876
+md5_5_upper: 3C876
+md5_6: 3c8766
+md5_6_alpha: 2d0ti
+md5_6_alpha_upper: 2D0TI
+md5_6_upper: 3C8766
+name: Hardware Bearing 16000 Series 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth
+name_no_class: Bearing 16000 Series 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth
+name_no_color: 15 Mm Id 32 Mm Od 8 Mm Depth
+name_no_size: 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth
+name_no_type: 16000 Series 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
+oomp_word: pig toilet leaves
+oomp_word_emoji: ':pig: :toilet: :leaves:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':toilet:'
+- ':leaves:'
+oomp_word_list:
+- pig
+- toilet
+- leaves
+part_number: ''
+size: 16000_series
+type: bearing

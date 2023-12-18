@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x5_10_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x5_10_pin_surface_mount
+id_no_color: 2x510pinsurfacemount
+id_no_size: 2x5_10_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x5_10_pin_surface_mount
+manufacturer: ''
+md5: 8ae581bad495670269442013c78919ec
+md5_10: 8ae581bad4
+md5_10_upper: 8AE581BAD4
+md5_5: 8ae58
+md5_5_upper: 8AE58
+md5_6: 8ae581
+md5_6_alpha: 5f3pd
+md5_6_alpha_upper: 5F3PD
+md5_6_upper: 8AE581
+name: Electronic Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount
+name_no_color: 2X510Pinsurfacemount
+name_no_size: 2X5 10 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X5 10 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount
+oomp_word: envelope rocket watch
+oomp_word_emoji: ':envelope: :rocket: :watch:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':rocket:'
+- ':watch:'
+oomp_word_list:
+- envelope
+- rocket
+- watch
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

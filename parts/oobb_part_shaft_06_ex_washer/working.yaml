@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_ex_washer
+directory: parts/oobb_part_shaft_06_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06_ex_washer
+id: oobb_part_shaft_06_ex_washer
+id_no_class: part_shaft_06_ex_washer
+id_no_color: 06exwasher
+id_no_size: 06_ex_washer
+id_no_type: shaft_06_ex_washer
+manufacturer: ''
+md5: 6a75824effc53782bb3679b96b07b643
+md5_10: 6a75824eff
+md5_10_upper: 6A75824EFF
+md5_5: 6a758
+md5_5_upper: 6A758
+md5_6: 6a7582
+md5_6_alpha: 45jeq
+md5_6_alpha_upper: 45JEQ
+md5_6_upper: 6A7582
+name: Oobb Part Shaft 06 Ex Washer
+name_no_class: Part Shaft 06 Ex Washer
+name_no_color: 06Exwasher
+name_no_size: 06 Ex Washer
+name_no_type: Shaft 06 Ex Washer
+oomp_key: oomp_oobb_part_shaft_06_ex_washer
+oomp_word: palm_tree ghost radio
+oomp_word_emoji: ':palm_tree: :ghost: :radio:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':ghost:'
+- ':radio:'
+oomp_word_list:
+- palm_tree
+- ghost
+- radio
+part_number: ''
+size: shaft
+type: part

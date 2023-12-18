@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_06_12'
+directory: parts/oobb_part_tray_05_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_06_12
+id: oobb_part_tray_05_06_12
+id_no_class: part_tray_05_06_12
+id_no_color: '050612'
+id_no_size: '05_06_12'
+id_no_type: tray_05_06_12
+manufacturer: ''
+md5: 95ce65b5342d8e2c9ceff36bb0b24762
+md5_10: 95ce65b534
+md5_10_upper: 95CE65B534
+md5_5: 95ce6
+md5_5_upper: 95CE6
+md5_6: 95ce65
+md5_6_alpha: 5ufdx
+md5_6_alpha_upper: 5UFDX
+md5_6_upper: 95CE65
+name: Oobb Part Tray 05 06 12
+name_no_class: Part Tray 05 06 12
+name_no_color: '050612'
+name_no_size: 05 06 12
+name_no_type: Tray 05 06 12
+oomp_key: oomp_oobb_part_tray_05_06_12
+oomp_word: telescope peach maple_leaf
+oomp_word_emoji: ':telescope: :peach: :maple_leaf:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':peach:'
+- ':maple_leaf:'
+oomp_word_list:
+- telescope
+- peach
+- maple_leaf
+part_number: ''
+size: tray
+type: part

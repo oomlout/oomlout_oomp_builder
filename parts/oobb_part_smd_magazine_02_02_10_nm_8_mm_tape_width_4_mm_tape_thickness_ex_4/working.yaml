@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 020210nm8mmtapewidth4mmtapethicknessex4
+id_no_size: 02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: 850b5e9d6436ade61a1e0f698200b07d
+md5_10: 850b5e9d64
+md5_10_upper: 850B5E9D64
+md5_5: 850b5
+md5_5_upper: 850B5
+md5_6: 850b5e
+md5_6_alpha: 56vry
+md5_6_alpha_upper: 56VRY
+md5_6_upper: 850B5E
+name: Oobb Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 02 02 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex
+  4
+name_no_color: 020210Nm8Mmtapewidth4Mmtapethicknessex4
+name_no_size: 02 02 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 02 02 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: bulb sunglasses crocodile
+oomp_word_emoji: ':bulb: :sunglasses: :crocodile:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':sunglasses:'
+- ':crocodile:'
+oomp_word_list:
+- bulb
+- sunglasses
+- crocodile
+part_number: ''
+size: smd_magazine
+type: part

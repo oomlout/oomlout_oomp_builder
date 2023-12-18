@@ -1,0 +1,40 @@
+classification: hardware
+color: 5213_size
+description_extra: ''
+description_main: 65_mm_id_120_mm_od_38.1_mm_depth
+directory: parts/hardware_bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+id: hardware_bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+id_no_class: bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+id_no_color: 65_mm_id_120_mm_od_38.1_mm_depth
+id_no_size: 5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+id_no_type: 5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+manufacturer: ''
+md5: 218bcfd9e598171842272b5594f2d54d
+md5_10: 218bcfd9e5
+md5_10_upper: 218BCFD9E5
+md5_5: 218bc
+md5_5_upper: 218BC
+md5_6: 218bcf
+md5_6_alpha: 1b4cv
+md5_6_alpha_upper: 1B4CV
+md5_6_upper: 218BCF
+name: Hardware Bearing 5200 Series 5213 Size 65 Mm Id 120 Mm Od 38.1 Mm Depth
+name_no_class: Bearing 5200 Series 5213 Size 65 Mm Id 120 Mm Od 38.1 Mm Depth
+name_no_color: 65 Mm Id 120 Mm Od 38.1 Mm Depth
+name_no_size: 5213 Size 65 Mm Id 120 Mm Od 38.1 Mm Depth
+name_no_type: 5200 Series 5213 Size 65 Mm Id 120 Mm Od 38.1 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
+oomp_word: feet door melon
+oomp_word_emoji: ':feet: :door: :melon:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':door:'
+- ':melon:'
+oomp_word_list:
+- feet
+- door
+- melon
+part_number: ''
+size: 5200_series
+type: bearing

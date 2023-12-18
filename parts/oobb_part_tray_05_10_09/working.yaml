@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_10_09
+directory: parts/oobb_part_tray_05_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_10_09
+id: oobb_part_tray_05_10_09
+id_no_class: part_tray_05_10_09
+id_no_color: 051009
+id_no_size: 05_10_09
+id_no_type: tray_05_10_09
+manufacturer: ''
+md5: 988044d97d85b5ec40f17186c2696e79
+md5_10: 988044d97d
+md5_10_upper: 988044D97D
+md5_5: '98804'
+md5_5_upper: '98804'
+md5_6: '988044'
+md5_6_alpha: 5y7no
+md5_6_alpha_upper: 5Y7NO
+md5_6_upper: '988044'
+name: Oobb Part Tray 05 10 09
+name_no_class: Part Tray 05 10 09
+name_no_color: 051009
+name_no_size: 05 10 09
+name_no_type: Tray 05 10 09
+oomp_key: oomp_oobb_part_tray_05_10_09
+oomp_word: tennis hourglass panda_face
+oomp_word_emoji: ':tennis: :hourglass: :panda_face:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':hourglass:'
+- ':panda_face:'
+oomp_word_list:
+- tennis
+- hourglass
+- panda_face
+part_number: ''
+size: tray
+type: part

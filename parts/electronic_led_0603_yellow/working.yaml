@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow
+id: electronic_led_0603_yellow
+id_no_class: led_0603_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 0603_yellow
+manufacturer: ''
+md5: 27dbb49a7267d86fab8e1a25638fda98
+md5_10: 27dbb49a72
+md5_10_upper: 27DBB49A72
+md5_5: 27dbb
+md5_5_upper: 27DBB
+md5_6: 27dbb4
+md5_6_alpha: 1jzjo
+md5_6_alpha_upper: 1JZJO
+md5_6_upper: 27DBB4
+name: Electronic Led 0603 Yellow
+name_no_class: Led 0603 Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 0603 Yellow
+oomp_key: oomp_electronic_led_0603_yellow
+oomp_word: nose tent coffee
+oomp_word_emoji: ':nose: :tent: :coffee:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':tent:'
+- ':coffee:'
+oomp_word_list:
+- nose
+- tent
+- coffee
+part_number: ''
+size: '0603'
+type: led

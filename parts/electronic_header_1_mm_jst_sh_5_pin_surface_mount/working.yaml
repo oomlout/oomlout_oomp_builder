@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 5_pin
+directory: parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount
+id: electronic_header_1_mm_jst_sh_5_pin_surface_mount
+id_no_class: header_1_mm_jst_sh_5_pin_surface_mount
+id_no_color: 5pinsurfacemount
+id_no_size: 5_pin_surface_mount
+id_no_type: 1_mm_jst_sh_5_pin_surface_mount
+manufacturer: ''
+md5: c820e730a0b4955cce9ffd4df166c7c6
+md5_10: c820e730a0
+md5_10_upper: C820E730A0
+md5_5: c820e
+md5_5_upper: C820E
+md5_6: c820e7
+md5_6_alpha: 7t42v
+md5_6_alpha_upper: 7T42V
+md5_6_upper: C820E7
+name: Electronic Header 1 Mm Jst Sh 5 Pin Surface Mount
+name_no_class: Header 1 Mm Jst Sh 5 Pin Surface Mount
+name_no_color: 5Pinsurfacemount
+name_no_size: 5 Pin Surface Mount
+name_no_type: 1 Mm Jst Sh 5 Pin Surface Mount
+oomp_key: oomp_electronic_header_1_mm_jst_sh_5_pin_surface_mount
+oomp_word: apple skull helicopter
+oomp_word_emoji: ':apple: :skull: :helicopter:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':skull:'
+- ':helicopter:'
+oomp_word_list:
+- apple
+- skull
+- helicopter
+part_number: ''
+size: 1_mm_jst_sh
+type: header

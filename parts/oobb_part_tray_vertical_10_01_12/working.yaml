@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_12'
+directory: parts/oobb_part_tray_vertical_10_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_01_12
+id: oobb_part_tray_vertical_10_01_12
+id_no_class: part_tray_vertical_10_01_12
+id_no_color: '100112'
+id_no_size: '10_01_12'
+id_no_type: tray_vertical_10_01_12
+manufacturer: ''
+md5: bbd7f38e65c774462992f04471898a46
+md5_10: bbd7f38e65
+md5_10_upper: BBD7F38E65
+md5_5: bbd7f
+md5_5_upper: BBD7F
+md5_6: bbd7f3
+md5_6_alpha: 7buur
+md5_6_alpha_upper: 7BUUR
+md5_6_upper: BBD7F3
+name: Oobb Part Tray Vertical 10 01 12
+name_no_class: Part Tray Vertical 10 01 12
+name_no_color: '100112'
+name_no_size: 10 01 12
+name_no_type: Tray Vertical 10 01 12
+oomp_key: oomp_oobb_part_tray_vertical_10_01_12
+oomp_word: curry office two
+oomp_word_emoji: ':curry: :office: :two:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':office:'
+- ':two:'
+oomp_word_list:
+- curry
+- office
+- two
+part_number: ''
+size: tray_vertical
+type: part

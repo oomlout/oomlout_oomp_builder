@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_09_ex_40_teeth_sh_m6_grubscrew_m3
+directory: parts/oobb_part_gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+id: oobb_part_gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+id_no_class: part_gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+id_no_color: 0509ex40teethshm6grubscrewm3
+id_no_size: 05_09_ex_40_teeth_sh_m6_grubscrew_m3
+id_no_type: gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+manufacturer: ''
+md5: 9f439acf7fb488f411fcc72aec2c1410
+md5_10: 9f439acf7f
+md5_10_upper: 9F439ACF7F
+md5_5: 9f439
+md5_5_upper: 9F439
+md5_6: 9f439a
+md5_6_alpha: 67pne
+md5_6_alpha_upper: 67PNE
+md5_6_upper: 9F439A
+name: Oobb Part Gear 05 09 Ex 40 Teeth Sh M6 Grubscrew M3
+name_no_class: Part Gear 05 09 Ex 40 Teeth Sh M6 Grubscrew M3
+name_no_color: 0509Ex40Teethshm6Grubscrewm3
+name_no_size: 05 09 Ex 40 Teeth Sh M6 Grubscrew M3
+name_no_type: Gear 05 09 Ex 40 Teeth Sh M6 Grubscrew M3
+oomp_key: oomp_oobb_part_gear_05_09_ex_40_teeth_sh_m6_grubscrew_m3
+oomp_word: diamonds elephant golf
+oomp_word_emoji: ':diamonds: :elephant: :golf:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':elephant:'
+- ':golf:'
+oomp_word_list:
+- diamonds
+- elephant
+- golf
+part_number: ''
+size: gear
+type: part

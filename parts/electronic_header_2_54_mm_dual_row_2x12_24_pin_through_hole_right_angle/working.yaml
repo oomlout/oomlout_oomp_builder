@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x12_24_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+id_no_color: 2x1224pinthroughholerightangle
+id_no_size: 2x12_24_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+manufacturer: ''
+md5: 6a44f0a91a5cbb7010f7d615c0b652c3
+md5_10: 6a44f0a91a
+md5_10_upper: 6A44F0A91A
+md5_5: 6a44f
+md5_5_upper: 6A44F
+md5_6: 6a44f0
+md5_6_alpha: 459tc
+md5_6_alpha_upper: 459TC
+md5_6_upper: 6A44F0
+name: Electronic Header 2 54 Mm Dual Row 2X12 24 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X12 24 Pin Through Hole Right Angle
+name_no_color: 2X1224Pinthroughholerightangle
+name_no_size: 2X12 24 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X12 24 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole_right_angle
+oomp_word: palm_tree panda_face train
+oomp_word_emoji: ':palm_tree: :panda_face: :train:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':panda_face:'
+- ':train:'
+oomp_word_list:
+- palm_tree
+- panda_face
+- train
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

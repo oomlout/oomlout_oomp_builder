@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_16_teeth_sh_m3
+directory: parts/oobb_part_gear_02_06_ex_16_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06_ex_16_teeth_sh_m3
+id: oobb_part_gear_02_06_ex_16_teeth_sh_m3
+id_no_class: part_gear_02_06_ex_16_teeth_sh_m3
+id_no_color: 0206ex16teethshm3
+id_no_size: 02_06_ex_16_teeth_sh_m3
+id_no_type: gear_02_06_ex_16_teeth_sh_m3
+manufacturer: ''
+md5: 17c6ca24d28ff5789f854a1942c2d4b3
+md5_10: 17c6ca24d2
+md5_10_upper: 17C6CA24D2
+md5_5: 17c6c
+md5_5_upper: 17C6C
+md5_6: 17c6ca
+md5_6_alpha: xebu
+md5_6_alpha_upper: XEBU
+md5_6_upper: 17C6CA
+name: Oobb Part Gear 02 06 Ex 16 Teeth Sh M3
+name_no_class: Part Gear 02 06 Ex 16 Teeth Sh M3
+name_no_color: 0206Ex16Teethshm3
+name_no_size: 02 06 Ex 16 Teeth Sh M3
+name_no_type: Gear 02 06 Ex 16 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_02_06_ex_16_teeth_sh_m3
+oomp_word: thumbsdown lollipop cherries
+oomp_word_emoji: ':thumbsdown: :lollipop: :cherries:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':lollipop:'
+- ':cherries:'
+oomp_word_list:
+- thumbsdown
+- lollipop
+- cherries
+part_number: ''
+size: gear
+type: part

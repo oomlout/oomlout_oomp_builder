@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12_ohm
+directory: parts/electronic_resistor_0402_12_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_12_ohm
+id: electronic_resistor_0402_12_ohm
+id_no_class: resistor_0402_12_ohm
+id_no_color: 12ohm
+id_no_size: 12_ohm
+id_no_type: 0402_12_ohm
+manufacturer: ''
+md5: 77b9917b0f9e31b4afa36ad766f5043e
+md5_10: 77b9917b0f
+md5_10_upper: 77B9917B0F
+md5_5: 77b99
+md5_5_upper: 77B99
+md5_6: 77b991
+md5_6_alpha: 4o68h
+md5_6_alpha_upper: 4O68H
+md5_6_upper: 77B991
+name: Electronic Resistor 0402 12 Ohm
+name_no_class: Resistor 0402 12 Ohm
+name_no_color: 12Ohm
+name_no_size: 12 Ohm
+name_no_type: 0402 12 Ohm
+oomp_key: oomp_electronic_resistor_0402_12_ohm
+oomp_word: gift fries pushpin
+oomp_word_emoji: ':gift: :fries: :pushpin:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':fries:'
+- ':pushpin:'
+oomp_word_list:
+- gift
+- fries
+- pushpin
+part_number: ''
+size: '0402'
+type: resistor

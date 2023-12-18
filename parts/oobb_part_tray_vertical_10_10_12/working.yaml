@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_12'
+directory: parts/oobb_part_tray_vertical_10_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_10_12
+id: oobb_part_tray_vertical_10_10_12
+id_no_class: part_tray_vertical_10_10_12
+id_no_color: '101012'
+id_no_size: '10_10_12'
+id_no_type: tray_vertical_10_10_12
+manufacturer: ''
+md5: 7b9f4c03650a2a3ad0e194f6ef4b093d
+md5_10: 7b9f4c0365
+md5_10_upper: 7B9F4C0365
+md5_5: 7b9f4
+md5_5_upper: 7B9F4
+md5_6: 7b9f4c
+md5_6_alpha: 4tnbg
+md5_6_alpha_upper: 4TNBG
+md5_6_upper: 7B9F4C
+name: Oobb Part Tray Vertical 10 10 12
+name_no_class: Part Tray Vertical 10 10 12
+name_no_color: '101012'
+name_no_size: 10 10 12
+name_no_type: Tray Vertical 10 10 12
+oomp_key: oomp_oobb_part_tray_vertical_10_10_12
+oomp_word: computer diamonds turtle
+oomp_word_emoji: ':computer: :diamonds: :turtle:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':diamonds:'
+- ':turtle:'
+oomp_word_list:
+- computer
+- diamonds
+- turtle
+part_number: ''
+size: tray_vertical
+type: part

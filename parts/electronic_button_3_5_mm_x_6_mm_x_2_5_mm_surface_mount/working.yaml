@@ -1,0 +1,40 @@
+classification: electronic
+color: surface_mount
+description_extra: ''
+description_main: ''
+directory: parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+id_no_class: button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+id_no_color: surface_mount
+id_no_size: surface_mount
+id_no_type: 3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+manufacturer: ''
+md5: daac5353b33e60c79876e2262b80147e
+md5_10: daac5353b3
+md5_10_upper: DAAC5353B3
+md5_5: daac5
+md5_5_upper: DAAC5
+md5_6: daac53
+md5_6_alpha: 8j5ub
+md5_6_alpha_upper: 8J5UB
+md5_6_upper: DAAC53
+name: Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
+name_no_class: Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
+name_no_color: Surface Mount
+name_no_size: Surface Mount
+name_no_type: 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
+oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+oomp_word: hotel shirt fish
+oomp_word_emoji: ':hotel: :shirt: :fish:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':shirt:'
+- ':fish:'
+oomp_word_list:
+- hotel
+- shirt
+- fish
+part_number: ''
+size: 3_5_mm_x_6_mm_x_2_5_mm
+type: button

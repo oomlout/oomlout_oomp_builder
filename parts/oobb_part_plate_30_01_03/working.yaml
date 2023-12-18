@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '30_01_03'
+directory: parts/oobb_part_plate_30_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_30_01_03
+id: oobb_part_plate_30_01_03
+id_no_class: part_plate_30_01_03
+id_no_color: '300103'
+id_no_size: '30_01_03'
+id_no_type: plate_30_01_03
+manufacturer: ''
+md5: 6ab776618e0de2b0ce0a0f2b8d923ad1
+md5_10: 6ab776618e
+md5_10_upper: 6AB776618E
+md5_5: 6ab77
+md5_5_upper: 6AB77
+md5_6: 6ab776
+md5_6_alpha: 45wfq
+md5_6_alpha_upper: 45WFQ
+md5_6_upper: 6AB776
+name: Oobb Part Plate 30 01 03
+name_no_class: Part Plate 30 01 03
+name_no_color: '300103'
+name_no_size: 30 01 03
+name_no_type: Plate 30 01 03
+oomp_key: oomp_oobb_part_plate_30_01_03
+oomp_word: palm_tree pizza santa
+oomp_word_emoji: ':palm_tree: :pizza: :santa:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':pizza:'
+- ':santa:'
+oomp_word_list:
+- palm_tree
+- pizza
+- santa
+part_number: ''
+size: plate
+type: part

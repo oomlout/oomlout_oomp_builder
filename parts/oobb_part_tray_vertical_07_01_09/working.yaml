@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_09
+directory: parts/oobb_part_tray_vertical_07_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_01_09
+id: oobb_part_tray_vertical_07_01_09
+id_no_class: part_tray_vertical_07_01_09
+id_no_color: 070109
+id_no_size: 07_01_09
+id_no_type: tray_vertical_07_01_09
+manufacturer: ''
+md5: e5079d0f716d84d506ae9d2d95f800e8
+md5_10: e5079d0f71
+md5_10_upper: E5079D0F71
+md5_5: e5079
+md5_5_upper: E5079
+md5_6: e5079d
+md5_6_alpha: 8xpjx
+md5_6_alpha_upper: 8XPJX
+md5_6_upper: E5079D
+name: Oobb Part Tray Vertical 07 01 09
+name_no_class: Part Tray Vertical 07 01 09
+name_no_color: 070109
+name_no_size: 07 01 09
+name_no_type: Tray Vertical 07 01 09
+oomp_key: oomp_oobb_part_tray_vertical_07_01_09
+oomp_word: rocket cry hearts
+oomp_word_emoji: ':rocket: :cry: :hearts:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':cry:'
+- ':hearts:'
+oomp_word_list:
+- rocket
+- cry
+- hearts
+part_number: ''
+size: tray_vertical
+type: part

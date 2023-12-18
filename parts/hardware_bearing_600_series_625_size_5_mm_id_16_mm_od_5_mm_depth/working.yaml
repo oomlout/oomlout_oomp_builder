@@ -1,0 +1,40 @@
+classification: hardware
+color: 625_size
+description_extra: ''
+description_main: 5_mm_id_16_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+id: hardware_bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_class: bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_color: 5_mm_id_16_mm_od_5_mm_depth
+id_no_size: 625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_type: 600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+manufacturer: ''
+md5: 4fa025926f6cf0d674f3fd33db823984
+md5_10: 4fa025926f
+md5_10_upper: 4FA025926F
+md5_5: 4fa02
+md5_5_upper: 4FA02
+md5_6: 4fa025
+md5_6_alpha: 33uhx
+md5_6_alpha_upper: 33UHX
+md5_6_upper: 4FA025
+name: Hardware Bearing 600 Series 625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_color: 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_size: 625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_type: 600 Series 625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
+oomp_word: ant ring ear
+oomp_word_emoji: ':ant: :ring: :ear:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':ring:'
+- ':ear:'
+oomp_word_list:
+- ant
+- ring
+- ear
+part_number: ''
+size: 600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6702
+directory: parts/oobb_part_bearing_hardware_bearing_6702
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6702
+id: oobb_part_bearing_hardware_bearing_6702
+id_no_class: part_bearing_hardware_bearing_6702
+id_no_color: hardware6702
+id_no_size: hardware_6702
+id_no_type: bearing_hardware_bearing_6702
+manufacturer: ''
+md5: f0466ee8c8f310fa7f249ba28823f252
+md5_10: f0466ee8c8
+md5_10_upper: F0466EE8C8
+md5_5: f0466
+md5_5_upper: F0466
+md5_6: f0466e
+md5_6_alpha: 9di7i
+md5_6_alpha_upper: 9DI7I
+md5_6_upper: F0466E
+name: Oobb Part Bearing Hardware Bearing 6702
+name_no_class: Part Bearing Hardware Bearing 6702
+name_no_color: Hardware6702
+name_no_size: Hardware 6702
+name_no_type: Bearing Hardware Bearing 6702
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6702
+oomp_word: train bird new_moon
+oomp_word_emoji: ':train: :bird: :new_moon:'
+oomp_word_emoji_list:
+- ':train:'
+- ':bird:'
+- ':new_moon:'
+oomp_word_list:
+- train
+- bird
+- new_moon
+part_number: ''
+size: bearing
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_12'
+directory: parts/oobb_part_plate_07_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_12
+id: oobb_part_plate_07_01_12
+id_no_class: part_plate_07_01_12
+id_no_color: '070112'
+id_no_size: '07_01_12'
+id_no_type: plate_07_01_12
+manufacturer: ''
+md5: 2967a61f597e0afb348a5d62250165ce
+md5_10: 2967a61f59
+md5_10_upper: 2967A61F59
+md5_5: 2967a
+md5_5_upper: 2967A
+md5_6: 2967a6
+md5_6_alpha: 1m5ra
+md5_6_alpha_upper: 1M5RA
+md5_6_upper: 2967A6
+name: Oobb Part Plate 07 01 12
+name_no_class: Part Plate 07 01 12
+name_no_color: '070112'
+name_no_size: 07 01 12
+name_no_type: Plate 07 01 12
+oomp_key: oomp_oobb_part_plate_07_01_12
+oomp_word: sunny herb trumpet
+oomp_word_emoji: ':sunny: :herb: :trumpet:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':herb:'
+- ':trumpet:'
+oomp_word_list:
+- sunny
+- herb
+- trumpet
+part_number: ''
+size: plate
+type: part

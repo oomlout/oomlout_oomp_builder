@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x2_4_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x2_4_pin_surface_mount
+id_no_color: 2x24pinsurfacemount
+id_no_size: 2x2_4_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x2_4_pin_surface_mount
+manufacturer: ''
+md5: f5084efc5fc7fa065f11ca3069d271ff
+md5_10: f5084efc5f
+md5_10_upper: F5084EFC5F
+md5_5: f5084
+md5_5_upper: F5084
+md5_6: f5084e
+md5_6_alpha: 9k6ry
+md5_6_alpha_upper: 9K6RY
+md5_6_upper: F5084E
+name: Electronic Header 2 54 Mm Dual Row 2X2 4 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X2 4 Pin Surface Mount
+name_no_color: 2X24Pinsurfacemount
+name_no_size: 2X2 4 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X2 4 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount
+oomp_word: four scream honeybee
+oomp_word_emoji: ':four: :scream: :honeybee:'
+oomp_word_emoji_list:
+- ':four:'
+- ':scream:'
+- ':honeybee:'
+oomp_word_list:
+- four
+- scream
+- honeybee
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

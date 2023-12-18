@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_36_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_m3
+id: oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_m3
+id_no_class: part_pulley_gt2_01_09_ex_36_teeth_sh_m3
+id_no_color: 0109ex36teethshm3
+id_no_size: 01_09_ex_36_teeth_sh_m3
+id_no_type: pulley_gt2_01_09_ex_36_teeth_sh_m3
+manufacturer: ''
+md5: 51228a3553882b7d133ace9538c0f351
+md5_10: 51228a3553
+md5_10_upper: 51228A3553
+md5_5: '51228'
+md5_5_upper: '51228'
+md5_6: 51228a
+md5_6_alpha: 35ytm
+md5_6_alpha_upper: 35YTM
+md5_6_upper: 51228A
+name: Oobb Part Pulley Gt2 01 09 Ex 36 Teeth Sh M3
+name_no_class: Part Pulley Gt2 01 09 Ex 36 Teeth Sh M3
+name_no_color: 0109Ex36Teethshm3
+name_no_size: 01 09 Ex 36 Teeth Sh M3
+name_no_type: Pulley Gt2 01 09 Ex 36 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_m3
+oomp_word: snail lips envelope
+oomp_word_emoji: ':snail: :lips: :envelope:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':lips:'
+- ':envelope:'
+oomp_word_list:
+- snail
+- lips
+- envelope
+part_number: ''
+size: pulley_gt2
+type: part

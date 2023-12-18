@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 10_pin
+directory: parts/electronic_header_2_54_mm_10_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole
+id: electronic_header_2_54_mm_10_pin_through_hole
+id_no_class: header_2_54_mm_10_pin_through_hole
+id_no_color: 10pinthroughhole
+id_no_size: 10_pin_through_hole
+id_no_type: 2_54_mm_10_pin_through_hole
+manufacturer: ''
+md5: ee6acca49e7dee65ab49e861a23c8bac
+md5_10: ee6acca49e
+md5_10_upper: EE6ACCA49E
+md5_5: ee6ac
+md5_5_upper: EE6AC
+md5_6: ee6acc
+md5_6_alpha: 9aw98
+md5_6_alpha_upper: 9AW98
+md5_6_upper: EE6ACC
+name: Electronic Header 2 54 Mm 10 Pin Through Hole
+name_no_class: Header 2 54 Mm 10 Pin Through Hole
+name_no_color: 10Pinthroughhole
+name_no_size: 10 Pin Through Hole
+name_no_type: 2 54 Mm 10 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_10_pin_through_hole
+oomp_word: ambulance palm_tree watermelon
+oomp_word_emoji: ':ambulance: :palm_tree: :watermelon:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':palm_tree:'
+- ':watermelon:'
+oomp_word_list:
+- ambulance
+- palm_tree
+- watermelon
+part_number: ''
+size: 2_54_mm
+type: header

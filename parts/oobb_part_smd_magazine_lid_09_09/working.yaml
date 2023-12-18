@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09
+directory: parts/oobb_part_smd_magazine_lid_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_09_09
+id: oobb_part_smd_magazine_lid_09_09
+id_no_class: part_smd_magazine_lid_09_09
+id_no_color: 0909
+id_no_size: 09_09
+id_no_type: smd_magazine_lid_09_09
+manufacturer: ''
+md5: bc1d1a1a0fddd5370a0f24f8e249ec35
+md5_10: bc1d1a1a0f
+md5_10_upper: BC1D1A1A0F
+md5_5: bc1d1
+md5_5_upper: BC1D1
+md5_6: bc1d1a
+md5_6_alpha: 7c8ii
+md5_6_alpha_upper: 7C8II
+md5_6_upper: BC1D1A
+name: Oobb Part Smd Magazine Lid 09 09
+name_no_class: Part Smd Magazine Lid 09 09
+name_no_color: 0909
+name_no_size: 09 09
+name_no_type: Smd Magazine Lid 09 09
+oomp_key: oomp_oobb_part_smd_magazine_lid_09_09
+oomp_word: sushi baby clap
+oomp_word_emoji: ':sushi: :baby: :clap:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':baby:'
+- ':clap:'
+oomp_word_list:
+- sushi
+- baby
+- clap
+part_number: ''
+size: smd_magazine_lid
+type: part

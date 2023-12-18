@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_15'
+directory: parts/oobb_part_tray_01_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_01_15
+id: oobb_part_tray_01_01_15
+id_no_class: part_tray_01_01_15
+id_no_color: '010115'
+id_no_size: '01_01_15'
+id_no_type: tray_01_01_15
+manufacturer: ''
+md5: 44330968f103e17fc39fa1a356c65c1a
+md5_10: 44330968f1
+md5_10_upper: 44330968F1
+md5_5: '44330'
+md5_5_upper: '44330'
+md5_6: '443309'
+md5_6_alpha: 2nsp5
+md5_6_alpha_upper: 2NSP5
+md5_6_upper: '443309'
+name: Oobb Part Tray 01 01 15
+name_no_class: Part Tray 01 01 15
+name_no_color: '010115'
+name_no_size: 01 01 15
+name_no_type: Tray 01 01 15
+oomp_key: oomp_oobb_part_tray_01_01_15
+oomp_word: panda_face dog angry
+oomp_word_emoji: ':panda_face: :dog: :angry:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':dog:'
+- ':angry:'
+oomp_word_list:
+- panda_face
+- dog
+- angry
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_5600000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_5600000_ohm
+id: electronic_resistor_quarter_watt_through_hole_5600000_ohm
+id_no_class: resistor_quarter_watt_through_hole_5600000_ohm
+id_no_color: 5600000ohm
+id_no_size: 5600000_ohm
+id_no_type: quarter_watt_through_hole_5600000_ohm
+manufacturer: ''
+md5: af998cf8f83d108d2b8272f36b4c8bf2
+md5_10: af998cf8f8
+md5_10_upper: AF998CF8F8
+md5_5: af998
+md5_5_upper: AF998
+md5_6: af998c
+md5_6_alpha: 6unpo
+md5_6_alpha_upper: 6UNPO
+md5_6_upper: AF998C
+name: Electronic Resistor Quarter Watt Through Hole 5600000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 5600000 Ohm
+name_no_color: 5600000Ohm
+name_no_size: 5600000 Ohm
+name_no_type: Quarter Watt Through Hole 5600000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_5600000_ohm
+oomp_word: tophat bowling pill
+oomp_word_emoji: ':tophat: :bowling: :pill:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':bowling:'
+- ':pill:'
+oomp_word_list:
+- tophat
+- bowling
+- pill
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

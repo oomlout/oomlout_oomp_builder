@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_03_18
+directory: parts/oobb_part_tray_vertical_06_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_18
+id: oobb_part_tray_vertical_06_03_18
+id_no_class: part_tray_vertical_06_03_18
+id_no_color: 060318
+id_no_size: 06_03_18
+id_no_type: tray_vertical_06_03_18
+manufacturer: ''
+md5: 9c03c609ae115b37acbf6d270ef46a72
+md5_10: 9c03c609ae
+md5_10_upper: 9C03C609AE
+md5_5: 9c03c
+md5_5_upper: 9C03C
+md5_6: 9c03c6
+md5_6_alpha: 635c6
+md5_6_alpha_upper: 635C6
+md5_6_upper: 9C03C6
+name: Oobb Part Tray Vertical 06 03 18
+name_no_class: Part Tray Vertical 06 03 18
+name_no_color: 060318
+name_no_size: 06 03 18
+name_no_type: Tray Vertical 06 03 18
+oomp_key: oomp_oobb_part_tray_vertical_06_03_18
+oomp_word: spades grin lollipop
+oomp_word_emoji: ':spades: :grin: :lollipop:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':grin:'
+- ':lollipop:'
+oomp_word_list:
+- spades
+- grin
+- lollipop
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_09_30'
+directory: parts/oobb_part_tray_thin_11_09_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_09_30
+id: oobb_part_tray_thin_11_09_30
+id_no_class: part_tray_thin_11_09_30
+id_no_color: '110930'
+id_no_size: '11_09_30'
+id_no_type: tray_thin_11_09_30
+manufacturer: ''
+md5: b2ebc66d43bef32c0abc633ce55faac8
+md5_10: b2ebc66d43
+md5_10_upper: B2EBC66D43
+md5_5: b2ebc
+md5_5_upper: B2EBC
+md5_6: b2ebc6
+md5_6_alpha: 6zbnq
+md5_6_alpha_upper: 6ZBNQ
+md5_6_upper: B2EBC6
+name: Oobb Part Tray Thin 11 09 30
+name_no_class: Part Tray Thin 11 09 30
+name_no_color: '110930'
+name_no_size: 11 09 30
+name_no_type: Tray Thin 11 09 30
+oomp_key: oomp_oobb_part_tray_thin_11_09_30
+oomp_word: handbag car lollipop
+oomp_word_emoji: ':handbag: :car: :lollipop:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':car:'
+- ':lollipop:'
+oomp_word_list:
+- handbag
+- car
+- lollipop
+part_number: ''
+size: tray_thin
+type: part

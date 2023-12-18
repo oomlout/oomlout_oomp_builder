@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x3_9_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x3_9_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x3_9_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x3_9_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x3_9_pin_through_hole
+id_no_color: 3x39pinthroughhole
+id_no_size: 3x3_9_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x3_9_pin_through_hole
+manufacturer: ''
+md5: 8d727ea5b21279dffac5a080fe60ef11
+md5_10: 8d727ea5b2
+md5_10_upper: 8D727EA5B2
+md5_5: 8d727
+md5_5_upper: 8D727
+md5_6: 8d727e
+md5_6_alpha: 5ioou
+md5_6_alpha_upper: 5IOOU
+md5_6_upper: 8D727E
+name: Electronic Header 2 54 Mm Triple Row 3X3 9 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X3 9 Pin Through Hole
+name_no_color: 3X39Pinthroughhole
+name_no_size: 3X3 9 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X3 9 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x3_9_pin_through_hole
+oomp_word: scroll dolls fax
+oomp_word_emoji: ':scroll: :dolls: :fax:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':dolls:'
+- ':fax:'
+oomp_word_list:
+- scroll
+- dolls
+- fax
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

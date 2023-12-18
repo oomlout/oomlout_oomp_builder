@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 30_pin
+directory: parts/electronic_header_2_54_mm_30_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_30_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_30_pin_through_hole_right_angle
+id_no_color: 30pinthroughholerightangle
+id_no_size: 30_pin_through_hole_right_angle
+id_no_type: 2_54_mm_30_pin_through_hole_right_angle
+manufacturer: ''
+md5: a012b6b6dfede2a7181b8ac74d77f21d
+md5_10: a012b6b6df
+md5_10_upper: A012B6B6DF
+md5_5: a012b
+md5_5_upper: A012B
+md5_6: a012b6
+md5_6_alpha: 68uk6
+md5_6_alpha_upper: 68UK6
+md5_6_upper: A012B6
+name: Electronic Header 2 54 Mm 30 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 30 Pin Through Hole Right Angle
+name_no_color: 30Pinthroughholerightangle
+name_no_size: 30 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 30 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_30_pin_through_hole_right_angle
+oomp_word: ring anger beer
+oomp_word_emoji: ':ring: :anger: :beer:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':anger:'
+- ':beer:'
+oomp_word_list:
+- ring
+- anger
+- beer
+part_number: ''
+size: 2_54_mm
+type: header

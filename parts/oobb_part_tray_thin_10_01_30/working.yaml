@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_30'
+directory: parts/oobb_part_tray_thin_10_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_01_30
+id: oobb_part_tray_thin_10_01_30
+id_no_class: part_tray_thin_10_01_30
+id_no_color: '100130'
+id_no_size: '10_01_30'
+id_no_type: tray_thin_10_01_30
+manufacturer: ''
+md5: 02ca184534f2e5444be6a2730cb6ba30
+md5_10: 02ca184534
+md5_10_upper: 02CA184534
+md5_5: 02ca1
+md5_5_upper: 02CA1
+md5_6: 02ca18
+md5_6_alpha: 3x20
+md5_6_alpha_upper: 3X20
+md5_6_upper: 02CA18
+name: Oobb Part Tray Thin 10 01 30
+name_no_class: Part Tray Thin 10 01 30
+name_no_color: '100130'
+name_no_size: 10 01 30
+name_no_type: Tray Thin 10 01 30
+oomp_key: oomp_oobb_part_tray_thin_10_01_30
+oomp_word: blush cherries hand
+oomp_word_emoji: ':blush: :cherries: :hand:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':cherries:'
+- ':hand:'
+oomp_word_list:
+- blush
+- cherries
+- hand
+part_number: ''
+size: tray_thin
+type: part

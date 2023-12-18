@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_18'
+directory: parts/oobb_part_tray_thin_12_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_18
+id: oobb_part_tray_thin_12_01_18
+id_no_class: part_tray_thin_12_01_18
+id_no_color: '120118'
+id_no_size: '12_01_18'
+id_no_type: tray_thin_12_01_18
+manufacturer: ''
+md5: bf6d895698d9ad306e107b70a9826f61
+md5_10: bf6d895698
+md5_10_upper: BF6D895698
+md5_5: bf6d8
+md5_5_upper: BF6D8
+md5_6: bf6d89
+md5_6_alpha: 7gw3t
+md5_6_alpha_upper: 7GW3T
+md5_6_upper: BF6D89
+name: Oobb Part Tray Thin 12 01 18
+name_no_class: Part Tray Thin 12 01 18
+name_no_color: '120118'
+name_no_size: 12 01 18
+name_no_type: Tray Thin 12 01 18
+oomp_key: oomp_oobb_part_tray_thin_12_01_18
+oomp_word: egg shell hammer
+oomp_word_emoji: ':egg: :shell: :hammer:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':shell:'
+- ':hammer:'
+oomp_word_list:
+- egg
+- shell
+- hammer
+part_number: ''
+size: tray_thin
+type: part

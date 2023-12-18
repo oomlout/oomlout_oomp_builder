@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_c
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_c
+id: oobb_part_bunting_alphabet_05_01_ex_c
+id_no_class: part_bunting_alphabet_05_01_ex_c
+id_no_color: 0501exc
+id_no_size: 05_01_ex_c
+id_no_type: bunting_alphabet_05_01_ex_c
+manufacturer: ''
+md5: a0f58e5310fb2cf91b37d0e156177bec
+md5_10: a0f58e5310
+md5_10_upper: A0F58E5310
+md5_5: a0f58
+md5_5_upper: A0F58
+md5_6: a0f58e
+md5_6_alpha: 6a3da
+md5_6_alpha_upper: 6A3DA
+md5_6_upper: A0F58E
+name: Oobb Part Bunting Alphabet 05 01 Ex C
+name_no_class: Part Bunting Alphabet 05 01 Ex C
+name_no_color: 0501Exc
+name_no_size: 05 01 Ex C
+name_no_type: Bunting Alphabet 05 01 Ex C
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_c
+oomp_word: ring four clipboard
+oomp_word_emoji: ':ring: :four: :clipboard:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':four:'
+- ':clipboard:'
+oomp_word_list:
+- ring
+- four
+- clipboard
+part_number: ''
+size: bunting_alphabet
+type: part

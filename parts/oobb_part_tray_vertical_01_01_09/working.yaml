@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_01_09
+directory: parts/oobb_part_tray_vertical_01_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_01_01_09
+id: oobb_part_tray_vertical_01_01_09
+id_no_class: part_tray_vertical_01_01_09
+id_no_color: 010109
+id_no_size: 01_01_09
+id_no_type: tray_vertical_01_01_09
+manufacturer: ''
+md5: df6ee6be65760f790aac96ea72e9cb9d
+md5_10: df6ee6be65
+md5_10_upper: DF6EE6BE65
+md5_5: df6ee
+md5_5_upper: DF6EE
+md5_6: df6ee6
+md5_6_alpha: 8pujq
+md5_6_alpha_upper: 8PUJQ
+md5_6_upper: DF6EE6
+name: Oobb Part Tray Vertical 01 01 09
+name_no_class: Part Tray Vertical 01 01 09
+name_no_color: 010109
+name_no_size: 01 01 09
+name_no_type: Tray Vertical 01 01 09
+oomp_key: oomp_oobb_part_tray_vertical_01_01_09
+oomp_word: fountain new_moon airplane
+oomp_word_emoji: ':fountain: :new_moon: :airplane:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':new_moon:'
+- ':airplane:'
+oomp_word_list:
+- fountain
+- new_moon
+- airplane
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_q
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_q
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_q
+id: oobb_part_bunting_alphabet_13_01_ex_q
+id_no_class: part_bunting_alphabet_13_01_ex_q
+id_no_color: 1301exq
+id_no_size: 13_01_ex_q
+id_no_type: bunting_alphabet_13_01_ex_q
+manufacturer: ''
+md5: 198836a985063544b21807920ea80552
+md5_10: 198836a985
+md5_10_upper: 198836A985
+md5_5: '19883'
+md5_5_upper: '19883'
+md5_6: '198836'
+md5_6_alpha: zv3q
+md5_6_alpha_upper: ZV3Q
+md5_6_upper: '198836'
+name: Oobb Part Bunting Alphabet 13 01 Ex Q
+name_no_class: Part Bunting Alphabet 13 01 Ex Q
+name_no_color: 1301Exq
+name_no_size: 13 01 Ex Q
+name_no_type: Bunting Alphabet 13 01 Ex Q
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_q
+oomp_word: pray wrench rabbit
+oomp_word_emoji: ':pray: :wrench: :rabbit:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':wrench:'
+- ':rabbit:'
+oomp_word_list:
+- pray
+- wrench
+- rabbit
+part_number: ''
+size: bunting_alphabet
+type: part

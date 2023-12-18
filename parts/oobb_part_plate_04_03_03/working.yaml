@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_03_03'
+directory: parts/oobb_part_plate_04_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_03_03
+id: oobb_part_plate_04_03_03
+id_no_class: part_plate_04_03_03
+id_no_color: '040303'
+id_no_size: '04_03_03'
+id_no_type: plate_04_03_03
+manufacturer: ''
+md5: 48405e15a6f9fc57592729d7aec0e99d
+md5_10: 48405e15a6
+md5_10_upper: 48405E15A6
+md5_5: '48405'
+md5_5_upper: '48405'
+md5_6: 48405e
+md5_6_alpha: 2thlq
+md5_6_alpha_upper: 2THLQ
+md5_6_upper: 48405E
+name: Oobb Part Plate 04 03 03
+name_no_class: Part Plate 04 03 03
+name_no_color: '040303'
+name_no_size: 04 03 03
+name_no_type: Plate 04 03 03
+oomp_key: oomp_oobb_part_plate_04_03_03
+oomp_word: hatched_chick racehorse crocodile
+oomp_word_emoji: ':hatched_chick: :racehorse: :crocodile:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':racehorse:'
+- ':crocodile:'
+oomp_word_list:
+- hatched_chick
+- racehorse
+- crocodile
+part_number: ''
+size: plate
+type: part

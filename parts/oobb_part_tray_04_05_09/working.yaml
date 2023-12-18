@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_05_09
+directory: parts/oobb_part_tray_04_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_05_09
+id: oobb_part_tray_04_05_09
+id_no_class: part_tray_04_05_09
+id_no_color: 040509
+id_no_size: 04_05_09
+id_no_type: tray_04_05_09
+manufacturer: ''
+md5: b179a7963d428d1a1a3455027ecf7b2c
+md5_10: b179a7963d
+md5_10_upper: B179A7963D
+md5_5: b179a
+md5_5_upper: B179A
+md5_6: b179a7
+md5_6_alpha: 6xajr
+md5_6_alpha_upper: 6XAJR
+md5_6_upper: B179A7
+name: Oobb Part Tray 04 05 09
+name_no_class: Part Tray 04 05 09
+name_no_color: 040509
+name_no_size: 04 05 09
+name_no_type: Tray 04 05 09
+oomp_key: oomp_oobb_part_tray_04_05_09
+oomp_word: briefcase balloon guitar
+oomp_word_emoji: ':briefcase: :balloon: :guitar:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':balloon:'
+- ':guitar:'
+oomp_word_list:
+- briefcase
+- balloon
+- guitar
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_04_15'
+directory: parts/oobb_part_tray_thin_05_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_04_15
+id: oobb_part_tray_thin_05_04_15
+id_no_class: part_tray_thin_05_04_15
+id_no_color: '050415'
+id_no_size: '05_04_15'
+id_no_type: tray_thin_05_04_15
+manufacturer: ''
+md5: 7fd86b09588470100157a198022c0552
+md5_10: 7fd86b0958
+md5_10_upper: 7FD86B0958
+md5_5: 7fd86
+md5_5_upper: 7FD86
+md5_6: 7fd86b
+md5_6_alpha: 4zkvf
+md5_6_alpha_upper: 4ZKVF
+md5_6_upper: 7FD86B
+name: Oobb Part Tray Thin 05 04 15
+name_no_class: Part Tray Thin 05 04 15
+name_no_color: '050415'
+name_no_size: 05 04 15
+name_no_type: Tray Thin 05 04 15
+oomp_key: oomp_oobb_part_tray_thin_05_04_15
+oomp_word: speaker hospital chestnut
+oomp_word_emoji: ':speaker: :hospital: :chestnut:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':hospital:'
+- ':chestnut:'
+oomp_word_list:
+- speaker
+- hospital
+- chestnut
+part_number: ''
+size: tray_thin
+type: part

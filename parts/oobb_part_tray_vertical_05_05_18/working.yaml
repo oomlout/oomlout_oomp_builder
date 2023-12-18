@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_18
+directory: parts/oobb_part_tray_vertical_05_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_05_18
+id: oobb_part_tray_vertical_05_05_18
+id_no_class: part_tray_vertical_05_05_18
+id_no_color: 050518
+id_no_size: 05_05_18
+id_no_type: tray_vertical_05_05_18
+manufacturer: ''
+md5: d4a39efe2bcb229f2edc2f1aedd70ef7
+md5_10: d4a39efe2b
+md5_10_upper: D4A39EFE2B
+md5_5: d4a39
+md5_5_upper: D4A39
+md5_6: d4a39e
+md5_6_alpha: 8aopq
+md5_6_alpha_upper: 8AOPQ
+md5_6_upper: D4A39E
+name: Oobb Part Tray Vertical 05 05 18
+name_no_class: Part Tray Vertical 05 05 18
+name_no_color: 050518
+name_no_size: 05 05 18
+name_no_type: Tray Vertical 05 05 18
+oomp_key: oomp_oobb_part_tray_vertical_05_05_18
+oomp_word: corn pencil clubs
+oomp_word_emoji: ':corn: :pencil: :clubs:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':pencil:'
+- ':clubs:'
+oomp_word_list:
+- corn
+- pencil
+- clubs
+part_number: ''
+size: tray_vertical
+type: part

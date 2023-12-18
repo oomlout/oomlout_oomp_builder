@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_j
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_j
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_j
+id: oobb_part_bunting_alphabet_13_01_ex_j
+id_no_class: part_bunting_alphabet_13_01_ex_j
+id_no_color: 1301exj
+id_no_size: 13_01_ex_j
+id_no_type: bunting_alphabet_13_01_ex_j
+manufacturer: ''
+md5: 73a449c8fb319f8904618a76114868a8
+md5_10: 73a449c8fb
+md5_10_upper: 73A449C8FB
+md5_5: 73a44
+md5_5_upper: 73A44
+md5_6: 73a449
+md5_6_alpha: 4ifrd
+md5_6_alpha_upper: 4IFRD
+md5_6_upper: 73A449
+name: Oobb Part Bunting Alphabet 13 01 Ex J
+name_no_class: Part Bunting Alphabet 13 01 Ex J
+name_no_color: 1301Exj
+name_no_size: 13 01 Ex J
+name_no_type: Bunting Alphabet 13 01 Ex J
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_j
+oomp_word: flags book hatching_chick
+oomp_word_emoji: ':flags: :book: :hatching_chick:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':book:'
+- ':hatching_chick:'
+oomp_word_list:
+- flags
+- book
+- hatching_chick
+part_number: ''
+size: bunting_alphabet
+type: part

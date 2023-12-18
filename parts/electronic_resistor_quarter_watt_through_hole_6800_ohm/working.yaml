@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 6800_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_6800_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_6800_ohm
+id: electronic_resistor_quarter_watt_through_hole_6800_ohm
+id_no_class: resistor_quarter_watt_through_hole_6800_ohm
+id_no_color: 6800ohm
+id_no_size: 6800_ohm
+id_no_type: quarter_watt_through_hole_6800_ohm
+manufacturer: ''
+md5: a143e8d4635b9da5dbb1dee8eb576d77
+md5_10: a143e8d463
+md5_10_upper: A143E8D463
+md5_5: a143e
+md5_5_upper: A143E
+md5_6: a143e8
+md5_6_alpha: 6aiug
+md5_6_alpha_upper: 6AIUG
+md5_6_upper: A143E8
+name: Electronic Resistor Quarter Watt Through Hole 6800 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 6800 Ohm
+name_no_color: 6800Ohm
+name_no_size: 6800 Ohm
+name_no_type: Quarter Watt Through Hole 6800 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_6800_ohm
+oomp_word: trophy elephant tram
+oomp_word_emoji: ':trophy: :elephant: :tram:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':elephant:'
+- ':tram:'
+oomp_word_list:
+- trophy
+- elephant
+- tram
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

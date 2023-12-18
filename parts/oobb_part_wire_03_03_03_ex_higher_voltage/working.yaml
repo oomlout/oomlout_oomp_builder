@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_higher_voltage
+directory: parts/oobb_part_wire_03_03_03_ex_higher_voltage
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03_ex_higher_voltage
+id: oobb_part_wire_03_03_03_ex_higher_voltage
+id_no_class: part_wire_03_03_03_ex_higher_voltage
+id_no_color: 030303exhighervoltage
+id_no_size: 03_03_03_ex_higher_voltage
+id_no_type: wire_03_03_03_ex_higher_voltage
+manufacturer: ''
+md5: 0daa4ef2b2f0352143e58c63cc293fc9
+md5_10: 0daa4ef2b2
+md5_10_upper: 0DAA4EF2B2
+md5_5: 0daa4
+md5_5_upper: 0DAA4
+md5_6: 0daa4e
+md5_6_alpha: j70u
+md5_6_alpha_upper: J70U
+md5_6_upper: 0DAA4E
+name: Oobb Part Wire 03 03 03 Ex Higher Voltage
+name_no_class: Part Wire 03 03 03 Ex Higher Voltage
+name_no_color: 030303Exhighervoltage
+name_no_size: 03 03 03 Ex Higher Voltage
+name_no_type: Wire 03 03 03 Ex Higher Voltage
+oomp_key: oomp_oobb_part_wire_03_03_03_ex_higher_voltage
+oomp_word: heart lipstick honeybee
+oomp_word_emoji: ':heart: :lipstick: :honeybee:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':lipstick:'
+- ':honeybee:'
+oomp_word_list:
+- heart
+- lipstick
+- honeybee
+part_number: ''
+size: wire
+type: part

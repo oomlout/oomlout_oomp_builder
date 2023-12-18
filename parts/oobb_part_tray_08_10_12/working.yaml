@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_10_12
+directory: parts/oobb_part_tray_08_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_10_12
+id: oobb_part_tray_08_10_12
+id_no_class: part_tray_08_10_12
+id_no_color: 081012
+id_no_size: 08_10_12
+id_no_type: tray_08_10_12
+manufacturer: ''
+md5: 6777998aabe76e78bbe1d74daf42e918
+md5_10: 6777998aab
+md5_10_upper: 6777998AAB
+md5_5: '67779'
+md5_5_upper: '67779'
+md5_6: '677799'
+md5_6_alpha: 41c49
+md5_6_alpha_upper: 41C49
+md5_6_upper: '677799'
+name: Oobb Part Tray 08 10 12
+name_no_class: Part Tray 08 10 12
+name_no_color: 081012
+name_no_size: 08 10 12
+name_no_type: Tray 08 10 12
+oomp_key: oomp_oobb_part_tray_08_10_12
+oomp_word: herb gift bowling
+oomp_word_emoji: ':herb: :gift: :bowling:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':gift:'
+- ':bowling:'
+oomp_word_list:
+- herb
+- gift
+- bowling
+part_number: ''
+size: tray
+type: part

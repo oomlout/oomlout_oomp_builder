@@ -1,0 +1,42 @@
+classification: electronic
+color: surface_mount
+description_extra: ''
+description_main: single_pole_double_throw
+directory: parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+id: electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+id_no_class: switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+id_no_color: single_pole_double_throw
+id_no_size: surface_mount_single_pole_double_throw
+id_no_type: 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+manufacturer: ''
+md5: 4c18b3b1e7fc9152eea1c1d675c0327e
+md5_10: 4c18b3b1e7
+md5_10_upper: 4C18B3B1E7
+md5_5: 4c18b
+md5_5_upper: 4C18B
+md5_6: 4c18b3
+md5_6_alpha: 2yw1f
+md5_6_alpha_upper: 2YW1F
+md5_6_upper: 4C18B3
+name: Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double
+  Throw
+name_no_class: Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double
+  Throw
+name_no_color: Single Pole Double Throw
+name_no_size: Surface Mount Single Pole Double Throw
+name_no_type: 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw
+oomp_key: oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+oomp_word: turtle hand eyeglasses
+oomp_word_emoji: ':turtle: :hand: :eyeglasses:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':hand:'
+- ':eyeglasses:'
+oomp_word_list:
+- turtle
+- hand
+- eyeglasses
+part_number: ''
+size: 2_8_mm_x_8_mm_x_1_4_mm
+type: switch_slide

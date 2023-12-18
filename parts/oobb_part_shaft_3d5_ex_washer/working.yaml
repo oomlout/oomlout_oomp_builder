@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5_ex_washer
+directory: parts/oobb_part_shaft_3d5_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_ex_washer
+id: oobb_part_shaft_3d5_ex_washer
+id_no_class: part_shaft_3d5_ex_washer
+id_no_color: 3d5exwasher
+id_no_size: 3d5_ex_washer
+id_no_type: shaft_3d5_ex_washer
+manufacturer: ''
+md5: 9d2939a62f127c56eb19b97764f393c0
+md5_10: 9d2939a62f
+md5_10_upper: 9D2939A62F
+md5_5: 9d293
+md5_5_upper: 9D293
+md5_6: 9d2939
+md5_6_alpha: 64rax
+md5_6_alpha_upper: 64RAX
+md5_6_upper: 9D2939
+name: Oobb Part Shaft 3D5 Ex Washer
+name_no_class: Part Shaft 3D5 Ex Washer
+name_no_color: 3D5Exwasher
+name_no_size: 3D5 Ex Washer
+name_no_type: Shaft 3D5 Ex Washer
+oomp_key: oomp_oobb_part_shaft_3d5_ex_washer
+oomp_word: hearts sunny tiger
+oomp_word_emoji: ':hearts: :sunny: :tiger:'
+oomp_word_emoji_list:
+- ':hearts:'
+- ':sunny:'
+- ':tiger:'
+oomp_word_list:
+- hearts
+- sunny
+- tiger
+part_number: ''
+size: shaft
+type: part

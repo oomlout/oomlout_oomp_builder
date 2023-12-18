@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_02_15'
+directory: parts/oobb_part_tray_thin_12_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_02_15
+id: oobb_part_tray_thin_12_02_15
+id_no_class: part_tray_thin_12_02_15
+id_no_color: '120215'
+id_no_size: '12_02_15'
+id_no_type: tray_thin_12_02_15
+manufacturer: ''
+md5: e2213549d3cf6d2cdb2d4a7d8d7e7f4e
+md5_10: e2213549d3
+md5_10_upper: E2213549D3
+md5_5: e2213
+md5_5_upper: E2213
+md5_6: e22135
+md5_6_alpha: 8tmwl
+md5_6_alpha_upper: 8TMWL
+md5_6_upper: E22135
+name: Oobb Part Tray Thin 12 02 15
+name_no_class: Part Tray Thin 12 02 15
+name_no_color: '120215'
+name_no_size: 12 02 15
+name_no_type: Tray Thin 12 02 15
+oomp_key: oomp_oobb_part_tray_thin_12_02_15
+oomp_word: sailboat feet hamster
+oomp_word_emoji: ':sailboat: :feet: :hamster:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':feet:'
+- ':hamster:'
+oomp_word_list:
+- sailboat
+- feet
+- hamster
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_30
+directory: parts/oobb_part_standoff_hardware_standoff_m3_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_30
+id: oobb_part_standoff_hardware_standoff_m3_30
+id_no_class: part_standoff_hardware_standoff_m3_30
+id_no_color: hardwarem330
+id_no_size: hardware_m3_30
+id_no_type: standoff_hardware_standoff_m3_30
+manufacturer: ''
+md5: 97e719da43dfa1c35e90ad81b2b6fb4c
+md5_10: 97e719da43
+md5_10_upper: 97E719DA43
+md5_5: 97e71
+md5_5_upper: 97E71
+md5_6: 97e719
+md5_6_alpha: 5xdeh
+md5_6_alpha_upper: 5XDEH
+md5_6_upper: 97E719
+name: Oobb Part Standoff Hardware Standoff M3 30
+name_no_class: Part Standoff Hardware Standoff M3 30
+name_no_color: Hardwarem330
+name_no_size: Hardware M3 30
+name_no_type: Standoff Hardware Standoff M3 30
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_30
+oomp_word: baseball helicopter pray
+oomp_word_emoji: ':baseball: :helicopter: :pray:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':helicopter:'
+- ':pray:'
+oomp_word_list:
+- baseball
+- helicopter
+- pray
+part_number: ''
+size: standoff
+type: part

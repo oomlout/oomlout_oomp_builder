@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_10_09
+directory: parts/oobb_part_tray_06_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_10_09
+id: oobb_part_tray_06_10_09
+id_no_class: part_tray_06_10_09
+id_no_color: 061009
+id_no_size: 06_10_09
+id_no_type: tray_06_10_09
+manufacturer: ''
+md5: be475a2fd8e8511873ee87c4f663d5af
+md5_10: be475a2fd8
+md5_10_upper: BE475A2FD8
+md5_5: be475
+md5_5_upper: BE475
+md5_6: be475a
+md5_6_alpha: 7f9zu
+md5_6_alpha_upper: 7F9ZU
+md5_6_upper: BE475A
+name: Oobb Part Tray 06 10 09
+name_no_class: Part Tray 06 10 09
+name_no_color: 061009
+name_no_size: 06 10 09
+name_no_type: Tray 06 10 09
+oomp_key: oomp_oobb_part_tray_06_10_09
+oomp_word: ramen baby_chick goat
+oomp_word_emoji: ':ramen: :baby_chick: :goat:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':baby_chick:'
+- ':goat:'
+oomp_word_list:
+- ramen
+- baby_chick
+- goat
+part_number: ''
+size: tray
+type: part

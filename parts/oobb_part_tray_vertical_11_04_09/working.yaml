@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_09'
+directory: parts/oobb_part_tray_vertical_11_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_04_09
+id: oobb_part_tray_vertical_11_04_09
+id_no_class: part_tray_vertical_11_04_09
+id_no_color: '110409'
+id_no_size: '11_04_09'
+id_no_type: tray_vertical_11_04_09
+manufacturer: ''
+md5: 3ef6f8a5c0f0aa12d6631b5a481136f8
+md5_10: 3ef6f8a5c0
+md5_10_upper: 3EF6F8A5C0
+md5_5: 3ef6f
+md5_5_upper: 3EF6F
+md5_6: 3ef6f8
+md5_6_alpha: 2gfzs
+md5_6_alpha_upper: 2GFZS
+md5_6_upper: 3EF6F8
+name: Oobb Part Tray Vertical 11 04 09
+name_no_class: Part Tray Vertical 11 04 09
+name_no_color: '110409'
+name_no_size: 11 04 09
+name_no_type: Tray Vertical 11 04 09
+oomp_key: oomp_oobb_part_tray_vertical_11_04_09
+oomp_word: monkey five seven
+oomp_word_emoji: ':monkey: :five: :seven:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':five:'
+- ':seven:'
+oomp_word_list:
+- monkey
+- five
+- seven
+part_number: ''
+size: tray_vertical
+type: part

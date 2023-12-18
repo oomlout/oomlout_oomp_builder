@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39_ohm
+directory: parts/electronic_resistor_0402_39_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39_ohm
+id: electronic_resistor_0402_39_ohm
+id_no_class: resistor_0402_39_ohm
+id_no_color: 39ohm
+id_no_size: 39_ohm
+id_no_type: 0402_39_ohm
+manufacturer: ''
+md5: 051e9a1de9c9dd8e87376ad32a06db17
+md5_10: 051e9a1de9
+md5_10_upper: 051E9A1DE9
+md5_5: 051e9
+md5_5_upper: 051E9
+md5_6: 051e9a
+md5_6_alpha: 76vu
+md5_6_alpha_upper: 76VU
+md5_6_upper: 051E9A
+name: Electronic Resistor 0402 39 Ohm
+name_no_class: Resistor 0402 39 Ohm
+name_no_color: 39Ohm
+name_no_size: 39 Ohm
+name_no_type: 0402 39 Ohm
+oomp_key: oomp_electronic_resistor_0402_39_ohm
+oomp_word: kissing angel golf
+oomp_word_emoji: ':kissing: :angel: :golf:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':angel:'
+- ':golf:'
+oomp_word_list:
+- kissing
+- angel
+- golf
+part_number: ''
+size: '0402'
+type: resistor

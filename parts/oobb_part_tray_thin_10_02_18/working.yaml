@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_02_18'
+directory: parts/oobb_part_tray_thin_10_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_02_18
+id: oobb_part_tray_thin_10_02_18
+id_no_class: part_tray_thin_10_02_18
+id_no_color: '100218'
+id_no_size: '10_02_18'
+id_no_type: tray_thin_10_02_18
+manufacturer: ''
+md5: efa8cfb42f55dc1679ed13d45998b050
+md5_10: efa8cfb42f
+md5_10_upper: EFA8CFB42F
+md5_5: efa8c
+md5_5_upper: EFA8C
+md5_6: efa8cf
+md5_6_alpha: 9cn2n
+md5_6_alpha_upper: 9CN2N
+md5_6_upper: EFA8CF
+name: Oobb Part Tray Thin 10 02 18
+name_no_class: Part Tray Thin 10 02 18
+name_no_color: '100218'
+name_no_size: 10 02 18
+name_no_type: Tray Thin 10 02 18
+oomp_key: oomp_oobb_part_tray_thin_10_02_18
+oomp_word: truck shoe melon
+oomp_word_emoji: ':truck: :shoe: :melon:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':shoe:'
+- ':melon:'
+oomp_word_list:
+- truck
+- shoe
+- melon
+part_number: ''
+size: tray_thin
+type: part

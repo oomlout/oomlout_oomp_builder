@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_09
+directory: parts/oobb_part_tray_thin_08_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_01_09
+id: oobb_part_tray_thin_08_01_09
+id_no_class: part_tray_thin_08_01_09
+id_no_color: 080109
+id_no_size: 08_01_09
+id_no_type: tray_thin_08_01_09
+manufacturer: ''
+md5: 62e1b883e2978bc09f3226e5c117a1f0
+md5_10: 62e1b883e2
+md5_10_upper: 62E1B883E2
+md5_5: 62e1b
+md5_5_upper: 62E1B
+md5_6: 62e1b8
+md5_6_alpha: 3uw8o
+md5_6_alpha_upper: 3UW8O
+md5_6_upper: 62E1B8
+name: Oobb Part Tray Thin 08 01 09
+name_no_class: Part Tray Thin 08 01 09
+name_no_color: 080109
+name_no_size: 08 01 09
+name_no_type: Tray Thin 08 01 09
+oomp_key: oomp_oobb_part_tray_thin_08_01_09
+oomp_word: tulip boat hamburger
+oomp_word_emoji: ':tulip: :boat: :hamburger:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':boat:'
+- ':hamburger:'
+oomp_word_list:
+- tulip
+- boat
+- hamburger
+part_number: ''
+size: tray_thin
+type: part

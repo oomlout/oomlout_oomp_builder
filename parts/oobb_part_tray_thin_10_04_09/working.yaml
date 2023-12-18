@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_04_09'
+directory: parts/oobb_part_tray_thin_10_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_09
+id: oobb_part_tray_thin_10_04_09
+id_no_class: part_tray_thin_10_04_09
+id_no_color: '100409'
+id_no_size: '10_04_09'
+id_no_type: tray_thin_10_04_09
+manufacturer: ''
+md5: d44715e65dbaf45e25a83244b353282f
+md5_10: d44715e65d
+md5_10_upper: D44715E65D
+md5_5: d4471
+md5_5_upper: D4471
+md5_6: d44715
+md5_6_alpha: 8a6fp
+md5_6_alpha_upper: 8A6FP
+md5_6_upper: D44715
+name: Oobb Part Tray Thin 10 04 09
+name_no_class: Part Tray Thin 10 04 09
+name_no_color: '100409'
+name_no_size: 10 04 09
+name_no_type: Tray Thin 10 04 09
+oomp_key: oomp_oobb_part_tray_thin_10_04_09
+oomp_word: corn baby_chick poop
+oomp_word_emoji: ':corn: :baby_chick: :poop:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':baby_chick:'
+- ':poop:'
+oomp_word_list:
+- corn
+- baby_chick
+- poop
+part_number: ''
+size: tray_thin
+type: part

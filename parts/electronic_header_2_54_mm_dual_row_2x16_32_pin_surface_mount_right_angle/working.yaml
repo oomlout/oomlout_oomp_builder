@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x16_32_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+id_no_color: 2x1632pinsurfacemountrightangle
+id_no_size: 2x16_32_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 470171fde8b6539d01618e5cc2828ce0
+md5_10: 470171fde8
+md5_10_upper: 470171FDE8
+md5_5: '47017'
+md5_5_upper: '47017'
+md5_6: '470171'
+md5_6_alpha: 2rqlt
+md5_6_alpha_upper: 2RQLT
+md5_6_upper: '470171'
+name: Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X16 32 Pin Surface Mount Right Angle
+name_no_color: 2X1632Pinsurfacemountrightangle
+name_no_size: 2X16 32 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X16 32 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x16_32_pin_surface_mount_right_angle
+oomp_word: baby_chick smile bamboo
+oomp_word_emoji: ':baby_chick: :smile: :bamboo:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':smile:'
+- ':bamboo:'
+oomp_word_list:
+- baby_chick
+- smile
+- bamboo
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

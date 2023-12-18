@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_06_15'
+directory: parts/oobb_part_tray_thin_11_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_06_15
+id: oobb_part_tray_thin_11_06_15
+id_no_class: part_tray_thin_11_06_15
+id_no_color: '110615'
+id_no_size: '11_06_15'
+id_no_type: tray_thin_11_06_15
+manufacturer: ''
+md5: 0c83f0eba01ccda2683d777e609f08ef
+md5_10: 0c83f0eba0
+md5_10_upper: 0C83F0EBA0
+md5_5: 0c83f
+md5_5_upper: 0C83F
+md5_6: 0c83f0
+md5_6_alpha: hkvk
+md5_6_alpha_upper: HKVK
+md5_6_upper: 0C83F0
+name: Oobb Part Tray Thin 11 06 15
+name_no_class: Part Tray Thin 11 06 15
+name_no_color: '110615'
+name_no_size: 11 06 15
+name_no_type: Tray Thin 11 06 15
+oomp_key: oomp_oobb_part_tray_thin_11_06_15
+oomp_word: alien lock train
+oomp_word_emoji: ':alien: :lock: :train:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':lock:'
+- ':train:'
+oomp_word_list:
+- alien
+- lock
+- train
+part_number: ''
+size: tray_thin
+type: part

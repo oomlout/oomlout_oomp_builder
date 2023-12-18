@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_04_30'
+directory: parts/oobb_part_tray_thin_05_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_04_30
+id: oobb_part_tray_thin_05_04_30
+id_no_class: part_tray_thin_05_04_30
+id_no_color: '050430'
+id_no_size: '05_04_30'
+id_no_type: tray_thin_05_04_30
+manufacturer: ''
+md5: c61704981ca05d4393d97af035d4938b
+md5_10: c61704981c
+md5_10_upper: C61704981C
+md5_5: c6170
+md5_5_upper: C6170
+md5_6: c61704
+md5_6_alpha: 7q8zo
+md5_6_alpha_upper: 7Q8ZO
+md5_6_upper: C61704
+name: Oobb Part Tray Thin 05 04 30
+name_no_class: Part Tray Thin 05 04 30
+name_no_color: '050430'
+name_no_size: 05 04 30
+name_no_type: Tray Thin 05 04 30
+oomp_key: oomp_oobb_part_tray_thin_05_04_30
+oomp_word: lollipop thumbsdown wink
+oomp_word_emoji: ':lollipop: :thumbsdown: :wink:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':thumbsdown:'
+- ':wink:'
+oomp_word_list:
+- lollipop
+- thumbsdown
+- wink
+part_number: ''
+size: tray_thin
+type: part

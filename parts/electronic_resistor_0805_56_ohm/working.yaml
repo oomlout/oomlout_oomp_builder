@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56_ohm
+directory: parts/electronic_resistor_0805_56_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_56_ohm
+id: electronic_resistor_0805_56_ohm
+id_no_class: resistor_0805_56_ohm
+id_no_color: 56ohm
+id_no_size: 56_ohm
+id_no_type: 0805_56_ohm
+manufacturer: ''
+md5: f429e1817e003d01daa0b5010c6230da
+md5_10: f429e1817e
+md5_10_upper: F429E1817E
+md5_5: f429e
+md5_5_upper: F429E
+md5_6: f429e1
+md5_6_alpha: 9iyu9
+md5_6_alpha_upper: 9IYU9
+md5_6_upper: F429E1
+name: Electronic Resistor 0805 56 Ohm
+name_no_class: Resistor 0805 56 Ohm
+name_no_color: 56Ohm
+name_no_size: 56 Ohm
+name_no_type: 0805 56 Ohm
+oomp_key: oomp_electronic_resistor_0805_56_ohm
+oomp_word: three sunny boat
+oomp_word_emoji: ':three: :sunny: :boat:'
+oomp_word_emoji_list:
+- ':three:'
+- ':sunny:'
+- ':boat:'
+oomp_word_list:
+- three
+- sunny
+- boat
+part_number: ''
+size: 0805
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_12
+directory: parts/oobb_part_tray_vertical_09_09_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_09_12
+id: oobb_part_tray_vertical_09_09_12
+id_no_class: part_tray_vertical_09_09_12
+id_no_color: 090912
+id_no_size: 09_09_12
+id_no_type: tray_vertical_09_09_12
+manufacturer: ''
+md5: 6eded2a49540ba426cbc1e75d99bd463
+md5_10: 6eded2a495
+md5_10_upper: 6EDED2A495
+md5_5: 6eded
+md5_5_upper: 6EDED
+md5_6: 6eded2
+md5_6_alpha: 4bqhe
+md5_6_alpha_upper: 4BQHE
+md5_6_upper: 6EDED2
+name: Oobb Part Tray Vertical 09 09 12
+name_no_class: Part Tray Vertical 09 09 12
+name_no_color: 090912
+name_no_size: 09 09 12
+name_no_type: Tray Vertical 09 09 12
+oomp_key: oomp_oobb_part_tray_vertical_09_09_12
+oomp_word: new_moon rainbow pineapple
+oomp_word_emoji: ':new_moon: :rainbow: :pineapple:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':rainbow:'
+- ':pineapple:'
+oomp_word_list:
+- new_moon
+- rainbow
+- pineapple
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_01_03'
+directory: parts/oobb_part_plate_16_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_01_03
+id: oobb_part_plate_16_01_03
+id_no_class: part_plate_16_01_03
+id_no_color: '160103'
+id_no_size: '16_01_03'
+id_no_type: plate_16_01_03
+manufacturer: ''
+md5: 453538d6646cb56e9de4d554deddaf63
+md5_10: 453538d664
+md5_10_upper: 453538D664
+md5_5: '45353'
+md5_5_upper: '45353'
+md5_6: '453538'
+md5_6_alpha: 2p7p4
+md5_6_alpha_upper: 2P7P4
+md5_6_upper: '453538'
+name: Oobb Part Plate 16 01 03
+name_no_class: Part Plate 16 01 03
+name_no_color: '160103'
+name_no_size: 16 01 03
+name_no_type: Plate 16 01 03
+oomp_key: oomp_oobb_part_plate_16_01_03
+oomp_word: snake hamster frog
+oomp_word_emoji: ':snake: :hamster: :frog:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':hamster:'
+- ':frog:'
+oomp_word_list:
+- snake
+- hamster
+- frog
+part_number: ''
+size: plate
+type: part

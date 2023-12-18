@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 12_pin
+directory: parts/electronic_header_2_54_mm_12_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_surface_mount
+id: electronic_header_2_54_mm_12_pin_surface_mount
+id_no_class: header_2_54_mm_12_pin_surface_mount
+id_no_color: 12pinsurfacemount
+id_no_size: 12_pin_surface_mount
+id_no_type: 2_54_mm_12_pin_surface_mount
+manufacturer: ''
+md5: fbb478ce55f7b833e37f7e2e5a982737
+md5_10: fbb478ce55
+md5_10_upper: FBB478CE55
+md5_5: fbb47
+md5_5_upper: FBB47
+md5_6: fbb478
+md5_6_alpha: 9tk6w
+md5_6_alpha_upper: 9TK6W
+md5_6_upper: FBB478
+name: Electronic Header 2 54 Mm 12 Pin Surface Mount
+name_no_class: Header 2 54 Mm 12 Pin Surface Mount
+name_no_color: 12Pinsurfacemount
+name_no_size: 12 Pin Surface Mount
+name_no_type: 2 54 Mm 12 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_surface_mount
+oomp_word: ok coffee bell
+oomp_word_emoji: ':ok: :coffee: :bell:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':coffee:'
+- ':bell:'
+oomp_word_list:
+- ok
+- coffee
+- bell
+part_number: ''
+size: 2_54_mm
+type: header

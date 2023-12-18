@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2200_ohm
+directory: parts/electronic_resistor_0805_2200_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_2200_ohm
+id: electronic_resistor_0805_2200_ohm
+id_no_class: resistor_0805_2200_ohm
+id_no_color: 2200ohm
+id_no_size: 2200_ohm
+id_no_type: 0805_2200_ohm
+manufacturer: ''
+md5: c20cc43324d6079bb754f4e66a98df43
+md5_10: c20cc43324
+md5_10_upper: C20CC43324
+md5_5: c20cc
+md5_5_upper: C20CC
+md5_6: c20cc4
+md5_6_alpha: 7kkp0
+md5_6_alpha_upper: 7KKP0
+md5_6_upper: C20CC4
+name: Electronic Resistor 0805 2200 Ohm
+name_no_class: Resistor 0805 2200 Ohm
+name_no_color: 2200Ohm
+name_no_size: 2200 Ohm
+name_no_type: 0805 2200 Ohm
+oomp_key: oomp_electronic_resistor_0805_2200_ohm
+oomp_word: birthday alien cookie
+oomp_word_emoji: ':birthday: :alien: :cookie:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':alien:'
+- ':cookie:'
+oomp_word_list:
+- birthday
+- alien
+- cookie
+part_number: ''
+size: 0805
+type: resistor

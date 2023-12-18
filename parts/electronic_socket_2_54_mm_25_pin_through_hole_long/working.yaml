@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 25_pin
+directory: parts/electronic_socket_2_54_mm_25_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole_long
+id: electronic_socket_2_54_mm_25_pin_through_hole_long
+id_no_class: socket_2_54_mm_25_pin_through_hole_long
+id_no_color: 25pinthroughholelong
+id_no_size: 25_pin_through_hole_long
+id_no_type: 2_54_mm_25_pin_through_hole_long
+manufacturer: ''
+md5: 5e4a98ee535675bdd7fb4e337c169cd8
+md5_10: 5e4a98ee53
+md5_10_upper: 5E4A98EE53
+md5_5: 5e4a9
+md5_5_upper: 5E4A9
+md5_6: 5e4a98
+md5_6_alpha: 3og48
+md5_6_alpha_upper: 3OG48
+md5_6_upper: 5E4A98
+name: Electronic Socket 2 54 Mm 25 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 25 Pin Through Hole Long
+name_no_color: 25Pinthroughholelong
+name_no_size: 25 Pin Through Hole Long
+name_no_type: 2 54 Mm 25 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_25_pin_through_hole_long
+oomp_word: crocodile chicken tennis
+oomp_word_emoji: ':crocodile: :chicken: :tennis:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':chicken:'
+- ':tennis:'
+oomp_word_list:
+- crocodile
+- chicken
+- tennis
+part_number: ''
+size: 2_54_mm
+type: socket

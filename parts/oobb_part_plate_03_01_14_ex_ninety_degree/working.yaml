@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_03_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14_ex_ninety_degree
+id: oobb_part_plate_03_01_14_ex_ninety_degree
+id_no_class: part_plate_03_01_14_ex_ninety_degree
+id_no_color: 030114exninetydegree
+id_no_size: 03_01_14_ex_ninety_degree
+id_no_type: plate_03_01_14_ex_ninety_degree
+manufacturer: ''
+md5: 172267b83b6d6e9b7c8c83cf3d40f619
+md5_10: 172267b83b
+md5_10_upper: 172267B83B
+md5_5: '17226'
+md5_5_upper: '17226'
+md5_6: '172267'
+md5_6_alpha: whuv
+md5_6_alpha_upper: WHUV
+md5_6_upper: '172267'
+name: Oobb Part Plate 03 01 14 Ex Ninety Degree
+name_no_class: Part Plate 03 01 14 Ex Ninety Degree
+name_no_color: 030114Exninetydegree
+name_no_size: 03 01 14 Ex Ninety Degree
+name_no_type: Plate 03 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_03_01_14_ex_ninety_degree
+oomp_word: thumbsdown lips herb
+oomp_word_emoji: ':thumbsdown: :lips: :herb:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':lips:'
+- ':herb:'
+oomp_word_list:
+- thumbsdown
+- lips
+- herb
+part_number: ''
+size: plate
+type: part

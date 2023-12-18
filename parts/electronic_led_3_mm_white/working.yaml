@@ -1,0 +1,40 @@
+classification: electronic
+color: white
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm_white
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white
+id: electronic_led_3_mm_white
+id_no_class: led_3_mm_white
+id_no_color: white
+id_no_size: white
+id_no_type: 3_mm_white
+manufacturer: ''
+md5: 799a76eca4e04a8148fb90484fe20265
+md5_10: 799a76eca4
+md5_10_upper: 799A76ECA4
+md5_5: 799a7
+md5_5_upper: 799A7
+md5_6: 799a76
+md5_6_alpha: 4qt86
+md5_6_alpha_upper: 4QT86
+md5_6_upper: 799A76
+name: Electronic Led 3 Mm White
+name_no_class: Led 3 Mm White
+name_no_color: White
+name_no_size: White
+name_no_type: 3 Mm White
+oomp_key: oomp_electronic_led_3_mm_white
+oomp_word: balloon golf santa
+oomp_word_emoji: ':balloon: :golf: :santa:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':golf:'
+- ':santa:'
+oomp_word_list:
+- balloon
+- golf
+- santa
+part_number: ''
+size: 3_mm
+type: led

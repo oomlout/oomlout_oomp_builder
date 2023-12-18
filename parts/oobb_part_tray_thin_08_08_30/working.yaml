@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_08_30
+directory: parts/oobb_part_tray_thin_08_08_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_08_30
+id: oobb_part_tray_thin_08_08_30
+id_no_class: part_tray_thin_08_08_30
+id_no_color: 080830
+id_no_size: 08_08_30
+id_no_type: tray_thin_08_08_30
+manufacturer: ''
+md5: b8f87756e4d0569efda0f2f9384c5889
+md5_10: b8f87756e4
+md5_10_upper: B8F87756E4
+md5_5: b8f87
+md5_5_upper: B8F87
+md5_6: b8f877
+md5_6_alpha: 77tkn
+md5_6_alpha_upper: 77TKN
+md5_6_upper: B8F877
+name: Oobb Part Tray Thin 08 08 30
+name_no_class: Part Tray Thin 08 08 30
+name_no_color: 080830
+name_no_size: 08 08 30
+name_no_type: Tray Thin 08 08 30
+oomp_key: oomp_oobb_part_tray_thin_08_08_30
+oomp_word: hamburger seven gift
+oomp_word_emoji: ':hamburger: :seven: :gift:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':seven:'
+- ':gift:'
+oomp_word_list:
+- hamburger
+- seven
+- gift
+part_number: ''
+size: tray_thin
+type: part

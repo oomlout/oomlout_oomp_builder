@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_18
+directory: parts/oobb_part_tray_03_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_05_18
+id: oobb_part_tray_03_05_18
+id_no_class: part_tray_03_05_18
+id_no_color: 030518
+id_no_size: 03_05_18
+id_no_type: tray_03_05_18
+manufacturer: ''
+md5: 34c6b2aacb373912a86d9c040e32a0e7
+md5_10: 34c6b2aacb
+md5_10_upper: 34C6B2AACB
+md5_5: 34c6b
+md5_5_upper: 34C6B
+md5_6: 34c6b2
+md5_6_alpha: 224s2
+md5_6_alpha_upper: 224S2
+md5_6_upper: 34C6B2
+name: Oobb Part Tray 03 05 18
+name_no_class: Part Tray 03 05 18
+name_no_color: 030518
+name_no_size: 03 05 18
+name_no_type: Tray 03 05 18
+oomp_key: oomp_oobb_part_tray_03_05_18
+oomp_word: mouse lollipop handbag
+oomp_word_emoji: ':mouse: :lollipop: :handbag:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':lollipop:'
+- ':handbag:'
+oomp_word_list:
+- mouse
+- lollipop
+- handbag
+part_number: ''
+size: tray
+type: part

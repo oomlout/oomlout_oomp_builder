@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 14_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_14_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_14_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_14_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_14_pin_dupont
+id_no_color: 14_pin_dupont
+id_no_size: black_14_pin_dupont
+id_no_type: 2_54_mm_black_14_pin_dupont
+manufacturer: ''
+md5: 842cf3c820eb092598059daeac9d760f
+md5_10: 842cf3c820
+md5_10_upper: 842CF3C820
+md5_5: 842cf
+md5_5_upper: 842CF
+md5_6: 842cf3
+md5_6_alpha: 55nub
+md5_6_alpha_upper: 55NUB
+md5_6_upper: 842CF3
+name: Electronic Crimp Housing 2 54 Mm Black 14 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 14 Pin Dupont
+name_no_color: 14 Pin Dupont
+name_no_size: Black 14 Pin Dupont
+name_no_type: 2 54 Mm Black 14 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_14_pin_dupont
+oomp_word: key snowflake two
+oomp_word_emoji: ':key: :snowflake: :two:'
+oomp_word_emoji_list:
+- ':key:'
+- ':snowflake:'
+- ':two:'
+oomp_word_list:
+- key
+- snowflake
+- two
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

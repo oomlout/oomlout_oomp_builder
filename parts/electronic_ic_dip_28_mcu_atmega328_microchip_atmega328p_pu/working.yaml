@@ -1,0 +1,40 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+directory: parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+id: electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+id_no_class: ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+id_no_color: atmega328_microchip_atmega328p_pu
+id_no_size: mcu_atmega328_microchip_atmega328p_pu
+id_no_type: dip_28_mcu_atmega328_microchip_atmega328p_pu
+manufacturer: microchip
+md5: 5b2b5de6dc21043bec6c02133654d333
+md5_10: 5b2b5de6dc
+md5_10_upper: 5B2B5DE6DC
+md5_5: 5b2b5
+md5_5_upper: 5B2B5
+md5_6: 5b2b5d
+md5_6_alpha: 3k28t
+md5_6_alpha_upper: 3K28T
+md5_6_upper: 5B2B5D
+name: Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
+name_no_class: Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
+name_no_color: Atmega328 Microchip Atmega328P Pu
+name_no_size: Mcu Atmega328 Microchip Atmega328P Pu
+name_no_type: Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
+oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+oomp_word: rooster cloud blowfish
+oomp_word_emoji: ':rooster: :cloud: :blowfish:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':cloud:'
+- ':blowfish:'
+oomp_word_list:
+- rooster
+- cloud
+- blowfish
+part_number: atmega328p_pu
+size: dip_28
+type: ic

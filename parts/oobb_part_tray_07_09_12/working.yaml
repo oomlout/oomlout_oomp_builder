@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_09_12
+directory: parts/oobb_part_tray_07_09_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_09_12
+id: oobb_part_tray_07_09_12
+id_no_class: part_tray_07_09_12
+id_no_color: 070912
+id_no_size: 07_09_12
+id_no_type: tray_07_09_12
+manufacturer: ''
+md5: cd92aefbee5bd2b39151a038a5a2ddf8
+md5_10: cd92aefbee
+md5_10_upper: CD92AEFBEE
+md5_5: cd92a
+md5_5_upper: CD92A
+md5_6: cd92ae
+md5_6_alpha: 80re6
+md5_6_alpha_upper: 80RE6
+md5_6_upper: CD92AE
+name: Oobb Part Tray 07 09 12
+name_no_class: Part Tray 07 09 12
+name_no_color: 070912
+name_no_size: 07 09 12
+name_no_type: Tray 07 09 12
+oomp_key: oomp_oobb_part_tray_07_09_12
+oomp_word: strawberry paperclip jeans
+oomp_word_emoji: ':strawberry: :paperclip: :jeans:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':paperclip:'
+- ':jeans:'
+oomp_word_list:
+- strawberry
+- paperclip
+- jeans
+part_number: ''
+size: tray
+type: part

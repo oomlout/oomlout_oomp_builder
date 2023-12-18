@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_15'
+directory: parts/oobb_part_tray_vertical_07_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_15
+id: oobb_part_tray_vertical_07_07_15
+id_no_class: part_tray_vertical_07_07_15
+id_no_color: '070715'
+id_no_size: '07_07_15'
+id_no_type: tray_vertical_07_07_15
+manufacturer: ''
+md5: 41c9e99c306cb9f68c3b33b35094fb54
+md5_10: 41c9e99c30
+md5_10_upper: 41C9E99C30
+md5_5: 41c9e
+md5_5_upper: 41C9E
+md5_6: 41c9e9
+md5_6_alpha: 2kesp
+md5_6_alpha_upper: 2KESP
+md5_6_upper: 41C9E9
+name: Oobb Part Tray Vertical 07 07 15
+name_no_class: Part Tray Vertical 07 07 15
+name_no_color: '070715'
+name_no_size: 07 07 15
+name_no_type: Tray Vertical 07 07 15
+oomp_key: oomp_oobb_part_tray_vertical_07_07_15
+oomp_word: camel lemon bike
+oomp_word_emoji: ':camel: :lemon: :bike:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':lemon:'
+- ':bike:'
+oomp_word_list:
+- camel
+- lemon
+- bike
+part_number: ''
+size: tray_vertical
+type: part

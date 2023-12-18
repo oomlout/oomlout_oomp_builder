@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_y
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_y
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_y
+id: oobb_part_bunting_alphabet_05_01_ex_y
+id_no_class: part_bunting_alphabet_05_01_ex_y
+id_no_color: 0501exy
+id_no_size: 05_01_ex_y
+id_no_type: bunting_alphabet_05_01_ex_y
+manufacturer: ''
+md5: 847c8960c92c1248625bddf78ff2e226
+md5_10: 847c8960c9
+md5_10_upper: 847C8960C9
+md5_5: 847c8
+md5_5_upper: 847C8
+md5_6: 847c89
+md5_6_alpha: 563k9
+md5_6_alpha_upper: 563K9
+md5_6_upper: 847C89
+name: Oobb Part Bunting Alphabet 05 01 Ex Y
+name_no_class: Part Bunting Alphabet 05 01 Ex Y
+name_no_color: 0501Exy
+name_no_size: 05 01 Ex Y
+name_no_type: Bunting Alphabet 05 01 Ex Y
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_y
+oomp_word: key tv hammer
+oomp_word_emoji: ':key: :tv: :hammer:'
+oomp_word_emoji_list:
+- ':key:'
+- ':tv:'
+- ':hammer:'
+oomp_word_list:
+- key
+- tv
+- hammer
+part_number: ''
+size: bunting_alphabet
+type: part

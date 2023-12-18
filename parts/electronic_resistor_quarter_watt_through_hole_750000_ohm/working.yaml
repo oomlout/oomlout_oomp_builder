@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 750000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_750000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750000_ohm
+id: electronic_resistor_quarter_watt_through_hole_750000_ohm
+id_no_class: resistor_quarter_watt_through_hole_750000_ohm
+id_no_color: 750000ohm
+id_no_size: 750000_ohm
+id_no_type: quarter_watt_through_hole_750000_ohm
+manufacturer: ''
+md5: 42537ab1d6b8cd39f03a283b937881da
+md5_10: 42537ab1d6
+md5_10_upper: 42537AB1D6
+md5_5: '42537'
+md5_5_upper: '42537'
+md5_6: 42537a
+md5_6_alpha: 2l5yy
+md5_6_alpha_upper: 2L5YY
+md5_6_upper: 42537A
+name: Electronic Resistor Quarter Watt Through Hole 750000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 750000 Ohm
+name_no_color: 750000Ohm
+name_no_size: 750000 Ohm
+name_no_type: Quarter Watt Through Hole 750000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_750000_ohm
+oomp_word: sheep fish camera
+oomp_word_emoji: ':sheep: :fish: :camera:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':fish:'
+- ':camera:'
+oomp_word_list:
+- sheep
+- fish
+- camera
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

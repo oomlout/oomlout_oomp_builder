@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_8
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_8
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_8
+id: oobb_part_bunting_alphabet_07_01_ex_8
+id_no_class: part_bunting_alphabet_07_01_ex_8
+id_no_color: 0701ex8
+id_no_size: 07_01_ex_8
+id_no_type: bunting_alphabet_07_01_ex_8
+manufacturer: ''
+md5: e5d276b29588533458bdd4b0f5f1030e
+md5_10: e5d276b295
+md5_10_upper: E5D276B295
+md5_5: e5d27
+md5_5_upper: E5D27
+md5_6: e5d276
+md5_6_alpha: 8ytme
+md5_6_alpha_upper: 8YTME
+md5_6_upper: E5D276
+name: Oobb Part Bunting Alphabet 07 01 Ex 8
+name_no_class: Part Bunting Alphabet 07 01 Ex 8
+name_no_color: 0701Ex8
+name_no_size: 07 01 Ex 8
+name_no_type: Bunting Alphabet 07 01 Ex 8
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_8
+oomp_word: rocket pineapple santa
+oomp_word_emoji: ':rocket: :pineapple: :santa:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':pineapple:'
+- ':santa:'
+oomp_word_list:
+- rocket
+- pineapple
+- santa
+part_number: ''
+size: bunting_alphabet
+type: part

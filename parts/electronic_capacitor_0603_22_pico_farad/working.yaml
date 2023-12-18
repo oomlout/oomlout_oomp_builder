@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_pico_farad
+directory: parts/electronic_capacitor_0603_22_pico_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad
+id: electronic_capacitor_0603_22_pico_farad
+id_no_class: capacitor_0603_22_pico_farad
+id_no_color: 22picofarad
+id_no_size: 22_pico_farad
+id_no_type: 0603_22_pico_farad
+manufacturer: ''
+md5: ed43fc9f13c024e0a26ef47e97a61fd1
+md5_10: ed43fc9f13
+md5_10_upper: ED43FC9F13
+md5_5: ed43f
+md5_5_upper: ED43F
+md5_6: ed43fc
+md5_6_alpha: 99a0s
+md5_6_alpha_upper: 99A0S
+md5_6_upper: ED43FC
+name: Electronic Capacitor 0603 22 Pico Farad
+name_no_class: Capacitor 0603 22 Pico Farad
+name_no_color: 22Picofarad
+name_no_size: 22 Pico Farad
+name_no_type: 0603 22 Pico Farad
+oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
+oomp_word: bus elephant up
+oomp_word_emoji: ':bus: :elephant: :up:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':elephant:'
+- ':up:'
+oomp_word_list:
+- bus
+- elephant
+- up
+part_number: ''
+size: '0603'
+type: capacitor

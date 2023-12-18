@@ -1,0 +1,40 @@
+classification: hardware
+color: 6209_size
+description_extra: ''
+description_main: 45_mm_id_85_mm_od_19_mm_depth
+directory: parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+id: hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+id_no_class: bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+id_no_color: 45_mm_id_85_mm_od_19_mm_depth
+id_no_size: 6209_size_45_mm_id_85_mm_od_19_mm_depth
+id_no_type: 6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+manufacturer: ''
+md5: 2949ce336726562c706feed916b97ae3
+md5_10: 2949ce3367
+md5_10_upper: 2949CE3367
+md5_5: 2949c
+md5_5_upper: 2949C
+md5_6: 2949ce
+md5_6_alpha: 1lzv2
+md5_6_alpha_upper: 1LZV2
+md5_6_upper: 2949CE
+name: Hardware Bearing 6200 Series 6209 Size 45 Mm Id 85 Mm Od 19 Mm Depth
+name_no_class: Bearing 6200 Series 6209 Size 45 Mm Id 85 Mm Od 19 Mm Depth
+name_no_color: 45 Mm Id 85 Mm Od 19 Mm Depth
+name_no_size: 6209 Size 45 Mm Id 85 Mm Od 19 Mm Depth
+name_no_type: 6200 Series 6209 Size 45 Mm Id 85 Mm Od 19 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
+oomp_word: sunny hatching_chick peach
+oomp_word_emoji: ':sunny: :hatching_chick: :peach:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':hatching_chick:'
+- ':peach:'
+oomp_word_list:
+- sunny
+- hatching_chick
+- peach
+part_number: ''
+size: 6200_series
+type: bearing

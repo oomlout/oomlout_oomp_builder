@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x12_24_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x12_24_pin_surface_mount
+id_no_color: 2x1224pinsurfacemount
+id_no_size: 2x12_24_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x12_24_pin_surface_mount
+manufacturer: ''
+md5: 79dc4c61a4a6184f49f38050f0574057
+md5_10: 79dc4c61a4
+md5_10_upper: 79DC4C61A4
+md5_5: 79dc4
+md5_5_upper: 79DC4
+md5_6: 79dc4c
+md5_6_alpha: 4r68c
+md5_6_alpha_upper: 4R68C
+md5_6_upper: 79DC4C
+name: Electronic Header 2 54 Mm Dual Row 2X12 24 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X12 24 Pin Surface Mount
+name_no_color: 2X1224Pinsurfacemount
+name_no_size: 2X12 24 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X12 24 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount
+oomp_word: balloon factory turtle
+oomp_word_emoji: ':balloon: :factory: :turtle:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':factory:'
+- ':turtle:'
+oomp_word_list:
+- balloon
+- factory
+- turtle
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

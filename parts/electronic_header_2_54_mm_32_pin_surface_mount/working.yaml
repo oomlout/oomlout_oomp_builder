@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 32_pin
+directory: parts/electronic_header_2_54_mm_32_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_surface_mount
+id: electronic_header_2_54_mm_32_pin_surface_mount
+id_no_class: header_2_54_mm_32_pin_surface_mount
+id_no_color: 32pinsurfacemount
+id_no_size: 32_pin_surface_mount
+id_no_type: 2_54_mm_32_pin_surface_mount
+manufacturer: ''
+md5: 4ea64a22da27935ec034bf62d542e9bf
+md5_10: 4ea64a22da
+md5_10_upper: 4EA64A22DA
+md5_5: 4ea64
+md5_5_upper: 4EA64
+md5_6: 4ea64a
+md5_6_alpha: 32h56
+md5_6_alpha_upper: 32H56
+md5_6_upper: 4EA64A
+name: Electronic Header 2 54 Mm 32 Pin Surface Mount
+name_no_class: Header 2 54 Mm 32 Pin Surface Mount
+name_no_color: 32Pinsurfacemount
+name_no_size: 32 Pin Surface Mount
+name_no_type: 2 54 Mm 32 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_32_pin_surface_mount
+oomp_word: honeybee trumpet chicken
+oomp_word_emoji: ':honeybee: :trumpet: :chicken:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':trumpet:'
+- ':chicken:'
+oomp_word_list:
+- honeybee
+- trumpet
+- chicken
+part_number: ''
+size: 2_54_mm
+type: header

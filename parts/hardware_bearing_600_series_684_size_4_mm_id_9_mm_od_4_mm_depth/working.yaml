@@ -1,0 +1,40 @@
+classification: hardware
+color: 684_size
+description_extra: ''
+description_main: 4_mm_id_9_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+id: hardware_bearing_600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+id_no_class: bearing_600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+id_no_color: 4_mm_id_9_mm_od_4_mm_depth
+id_no_size: 684_size_4_mm_id_9_mm_od_4_mm_depth
+id_no_type: 600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+manufacturer: ''
+md5: a48defeacf20d3c0d596cfe3c071b881
+md5_10: a48defeacf
+md5_10_upper: A48DEFEACF
+md5_5: a48de
+md5_5_upper: A48DE
+md5_6: a48def
+md5_6_alpha: 6f567
+md5_6_alpha_upper: 6F567
+md5_6_upper: A48DEF
+name: Hardware Bearing 600 Series 684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
+name_no_color: 4 Mm Id 9 Mm Od 4 Mm Depth
+name_no_size: 684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
+name_no_type: 600 Series 684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_684_size_4_mm_id_9_mm_od_4_mm_depth
+oomp_word: book scroll truck
+oomp_word_emoji: ':book: :scroll: :truck:'
+oomp_word_emoji_list:
+- ':book:'
+- ':scroll:'
+- ':truck:'
+oomp_word_list:
+- book
+- scroll
+- truck
+part_number: ''
+size: 600_series
+type: bearing

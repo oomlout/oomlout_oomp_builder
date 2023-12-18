@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 21_pin
+directory: parts/electronic_header_2_54_mm_21_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_surface_mount
+id: electronic_header_2_54_mm_21_pin_surface_mount
+id_no_class: header_2_54_mm_21_pin_surface_mount
+id_no_color: 21pinsurfacemount
+id_no_size: 21_pin_surface_mount
+id_no_type: 2_54_mm_21_pin_surface_mount
+manufacturer: ''
+md5: c5c8cd6bf245c1a2b53ee8804dc2420c
+md5_10: c5c8cd6bf2
+md5_10_upper: C5C8CD6BF2
+md5_5: c5c8c
+md5_5_upper: C5C8C
+md5_6: c5c8cd
+md5_6_alpha: 7ptjh
+md5_6_alpha_upper: 7PTJH
+md5_6_upper: C5C8CD
+name: Electronic Header 2 54 Mm 21 Pin Surface Mount
+name_no_class: Header 2 54 Mm 21 Pin Surface Mount
+name_no_color: 21Pinsurfacemount
+name_no_size: 21 Pin Surface Mount
+name_no_type: 2 54 Mm 21 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_21_pin_surface_mount
+oomp_word: candy apple strawberry
+oomp_word_emoji: ':candy: :apple: :strawberry:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':apple:'
+- ':strawberry:'
+oomp_word_list:
+- candy
+- apple
+- strawberry
+part_number: ''
+size: 2_54_mm
+type: header

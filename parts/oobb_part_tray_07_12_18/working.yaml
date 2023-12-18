@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_12_18
+directory: parts/oobb_part_tray_07_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_18
+id: oobb_part_tray_07_12_18
+id_no_class: part_tray_07_12_18
+id_no_color: 071218
+id_no_size: 07_12_18
+id_no_type: tray_07_12_18
+manufacturer: ''
+md5: 21fef5efaa72ce6c2c37337f4ab66067
+md5_10: 21fef5efaa
+md5_10_upper: 21FEF5EFAA
+md5_5: 21fef
+md5_5_upper: 21FEF
+md5_6: 21fef5
+md5_6_alpha: 1br3p
+md5_6_alpha_upper: 1BR3P
+md5_6_upper: 21FEF5
+name: Oobb Part Tray 07 12 18
+name_no_class: Part Tray 07 12 18
+name_no_color: 071218
+name_no_size: 07 12 18
+name_no_type: Tray 07 12 18
+oomp_key: oomp_oobb_part_tray_07_12_18
+oomp_word: feet recycle four
+oomp_word_emoji: ':feet: :recycle: :four:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':recycle:'
+- ':four:'
+oomp_word_list:
+- feet
+- recycle
+- four
+part_number: ''
+size: tray
+type: part

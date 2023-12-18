@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_10_09
+directory: parts/oobb_part_tray_09_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_09
+id: oobb_part_tray_09_10_09
+id_no_class: part_tray_09_10_09
+id_no_color: 091009
+id_no_size: 09_10_09
+id_no_type: tray_09_10_09
+manufacturer: ''
+md5: e45d4645939cdeedcba2155505d94d25
+md5_10: e45d464593
+md5_10_upper: E45D464593
+md5_5: e45d4
+md5_5_upper: E45D4
+md5_6: e45d46
+md5_6_alpha: 8wrwm
+md5_6_alpha_upper: 8WRWM
+md5_6_upper: E45D46
+name: Oobb Part Tray 09 10 09
+name_no_class: Part Tray 09 10 09
+name_no_color: 091009
+name_no_size: 09 10 09
+name_no_type: Tray 09 10 09
+oomp_key: oomp_oobb_part_tray_09_10_09
+oomp_word: anchor blowfish bird
+oomp_word_emoji: ':anchor: :blowfish: :bird:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':blowfish:'
+- ':bird:'
+oomp_word_list:
+- anchor
+- blowfish
+- bird
+part_number: ''
+size: tray
+type: part

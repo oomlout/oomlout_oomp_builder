@@ -1,0 +1,40 @@
+classification: hardware
+color: 6302_size
+description_extra: ''
+description_main: 15_mm_id_42_mm_od_13_mm_depth
+directory: parts/hardware_bearing_6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+id: hardware_bearing_6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+id_no_class: bearing_6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+id_no_color: 15_mm_id_42_mm_od_13_mm_depth
+id_no_size: 6302_size_15_mm_id_42_mm_od_13_mm_depth
+id_no_type: 6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+manufacturer: ''
+md5: 08733d459977eb887f391df5305bd06c
+md5_10: 08733d4599
+md5_10_upper: 08733D4599
+md5_5: 08733
+md5_5_upper: 08733
+md5_6: 08733d
+md5_6_alpha: bvb1
+md5_6_alpha_upper: BVB1
+md5_6_upper: 08733D
+name: Hardware Bearing 6300 Series 6302 Size 15 Mm Id 42 Mm Od 13 Mm Depth
+name_no_class: Bearing 6300 Series 6302 Size 15 Mm Id 42 Mm Od 13 Mm Depth
+name_no_color: 15 Mm Id 42 Mm Od 13 Mm Depth
+name_no_size: 6302 Size 15 Mm Id 42 Mm Od 13 Mm Depth
+name_no_type: 6300 Series 6302 Size 15 Mm Id 42 Mm Od 13 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6302_size_15_mm_id_42_mm_od_13_mm_depth
+oomp_word: scream flags cow
+oomp_word_emoji: ':scream: :flags: :cow:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':flags:'
+- ':cow:'
+oomp_word_list:
+- scream
+- flags
+- cow
+part_number: ''
+size: 6300_series
+type: bearing

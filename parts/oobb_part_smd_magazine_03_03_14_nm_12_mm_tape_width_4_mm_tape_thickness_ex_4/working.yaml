@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 030314nm12mmtapewidth4mmtapethicknessex4
+id_no_size: 03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: 7257bb97eb04106d7c254bd8929c4851
+md5_10: 7257bb97eb
+md5_10_upper: 7257BB97EB
+md5_5: 7257b
+md5_5_upper: 7257B
+md5_6: 7257bb
+md5_6_alpha: 4gm2j
+md5_6_alpha_upper: 4GM2J
+md5_6_upper: 7257BB
+name: Oobb Part Smd Magazine 03 03 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 03 03 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 030314Nm12Mmtapewidth4Mmtapethicknessex4
+name_no_size: 03 03 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 03 03 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: dolls rat curry
+oomp_word_emoji: ':dolls: :rat: :curry:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':rat:'
+- ':curry:'
+oomp_word_list:
+- dolls
+- rat
+- curry
+part_number: ''
+size: smd_magazine
+type: part

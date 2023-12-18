@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_01_30'
+directory: parts/oobb_part_plate_15_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_30
+id: oobb_part_plate_15_01_30
+id_no_class: part_plate_15_01_30
+id_no_color: '150130'
+id_no_size: '15_01_30'
+id_no_type: plate_15_01_30
+manufacturer: ''
+md5: 548a3cae53a0f0dadffecdede2b61648
+md5_10: 548a3cae53
+md5_10_upper: 548A3CAE53
+md5_5: 548a3
+md5_5_upper: 548A3
+md5_6: 548a3c
+md5_6_alpha: 3ar0c
+md5_6_alpha_upper: 3AR0C
+md5_6_upper: 548A3C
+name: Oobb Part Plate 15 01 30
+name_no_class: Part Plate 15 01 30
+name_no_color: '150130'
+name_no_size: 15 01 30
+name_no_type: Plate 15 01 30
+oomp_key: oomp_oobb_part_plate_15_01_30
+oomp_word: whale envelope pig
+oomp_word_emoji: ':whale: :envelope: :pig:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':envelope:'
+- ':pig:'
+oomp_word_list:
+- whale
+- envelope
+- pig
+part_number: ''
+size: plate
+type: part

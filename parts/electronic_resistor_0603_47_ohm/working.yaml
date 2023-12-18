@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 47_ohm
+directory: parts/electronic_resistor_0603_47_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_47_ohm
+id: electronic_resistor_0603_47_ohm
+id_no_class: resistor_0603_47_ohm
+id_no_color: 47ohm
+id_no_size: 47_ohm
+id_no_type: 0603_47_ohm
+manufacturer: ''
+md5: a7ac6cea85b8741f6175603c741dd065
+md5_10: a7ac6cea85
+md5_10_upper: A7AC6CEA85
+md5_5: a7ac6
+md5_5_upper: A7AC6
+md5_6: a7ac6c
+md5_6_alpha: 6jiwc
+md5_6_alpha_upper: 6JIWC
+md5_6_upper: A7AC6C
+name: Electronic Resistor 0603 47 Ohm
+name_no_class: Resistor 0603 47 Ohm
+name_no_color: 47Ohm
+name_no_size: 47 Ohm
+name_no_type: 0603 47 Ohm
+oomp_key: oomp_electronic_resistor_0603_47_ohm
+oomp_word: guitar shirt blossom
+oomp_word_emoji: ':guitar: :shirt: :blossom:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':shirt:'
+- ':blossom:'
+oomp_word_list:
+- guitar
+- shirt
+- blossom
+part_number: ''
+size: '0603'
+type: resistor

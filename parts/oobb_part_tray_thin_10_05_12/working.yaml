@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_05_12'
+directory: parts/oobb_part_tray_thin_10_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_05_12
+id: oobb_part_tray_thin_10_05_12
+id_no_class: part_tray_thin_10_05_12
+id_no_color: '100512'
+id_no_size: '10_05_12'
+id_no_type: tray_thin_10_05_12
+manufacturer: ''
+md5: c50d2fd5d59c115d4ddd0298e6b66093
+md5_10: c50d2fd5d5
+md5_10_upper: C50D2FD5D5
+md5_5: c50d2
+md5_5_upper: C50D2
+md5_6: c50d2f
+md5_6_alpha: 7oshb
+md5_6_alpha_upper: 7OSHB
+md5_6_upper: C50D2F
+name: Oobb Part Tray Thin 10 05 12
+name_no_class: Part Tray Thin 10 05 12
+name_no_color: '100512'
+name_no_size: 10 05 12
+name_no_type: Tray Thin 10 05 12
+oomp_key: oomp_oobb_part_tray_thin_10_05_12
+oomp_word: candy heart cyclone
+oomp_word_emoji: ':candy: :heart: :cyclone:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':heart:'
+- ':cyclone:'
+oomp_word_list:
+- candy
+- heart
+- cyclone
+part_number: ''
+size: tray_thin
+type: part

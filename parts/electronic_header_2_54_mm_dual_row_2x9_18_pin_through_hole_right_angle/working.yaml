@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x9_18_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+id_no_color: 2x918pinthroughholerightangle
+id_no_size: 2x9_18_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+manufacturer: ''
+md5: 977294d44a0abb94fcdf066b2577721a
+md5_10: 977294d44a
+md5_10_upper: 977294D44A
+md5_5: '97729'
+md5_5_upper: '97729'
+md5_6: '977294'
+md5_6_alpha: 5wqdw
+md5_6_alpha_upper: 5WQDW
+md5_6_upper: '977294'
+name: Electronic Header 2 54 Mm Dual Row 2X9 18 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X9 18 Pin Through Hole Right Angle
+name_no_color: 2X918Pinthroughholerightangle
+name_no_size: 2X9 18 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X9 18 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x9_18_pin_through_hole_right_angle
+oomp_word: baseball dolls microscope
+oomp_word_emoji: ':baseball: :dolls: :microscope:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':dolls:'
+- ':microscope:'
+oomp_word_list:
+- baseball
+- dolls
+- microscope
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

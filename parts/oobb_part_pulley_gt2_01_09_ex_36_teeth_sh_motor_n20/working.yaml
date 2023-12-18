@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_36_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+id_no_color: 0109ex36teethshmotorn20
+id_no_size: 01_09_ex_36_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+manufacturer: ''
+md5: 578bd00f08d9c235edb279e50ed81497
+md5_10: 578bd00f08
+md5_10_upper: 578BD00F08
+md5_5: 578bd
+md5_5_upper: 578BD
+md5_6: 578bd0
+md5_6_alpha: 3ez0w
+md5_6_alpha_upper: 3EZ0W
+md5_6_upper: 578BD0
+name: Oobb Part Pulley Gt2 01 09 Ex 36 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 36 Teeth Sh Motor N20
+name_no_color: 0109Ex36Teethshmotorn20
+name_no_size: 01 09 Ex 36 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 36 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_36_teeth_sh_motor_n20
+oomp_word: rat door banana
+oomp_word_emoji: ':rat: :door: :banana:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':door:'
+- ':banana:'
+oomp_word_list:
+- rat
+- door
+- banana
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6828_size
+description_extra: ''
+description_main: 140_mm_id_175_mm_od_18_mm_depth
+directory: parts/hardware_bearing_6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+id: hardware_bearing_6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+id_no_class: bearing_6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+id_no_color: 140_mm_id_175_mm_od_18_mm_depth
+id_no_size: 6828_size_140_mm_id_175_mm_od_18_mm_depth
+id_no_type: 6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+manufacturer: ''
+md5: da8e6f281ff4bfdebcf0523607b1f483
+md5_10: da8e6f281f
+md5_10_upper: DA8E6F281F
+md5_5: da8e6
+md5_5_upper: DA8E6
+md5_6: da8e6f
+md5_6_alpha: 8izxr
+md5_6_alpha_upper: 8IZXR
+md5_6_upper: DA8E6F
+name: Hardware Bearing 6800 Series 6828 Size 140 Mm Id 175 Mm Od 18 Mm Depth
+name_no_class: Bearing 6800 Series 6828 Size 140 Mm Id 175 Mm Od 18 Mm Depth
+name_no_color: 140 Mm Id 175 Mm Od 18 Mm Depth
+name_no_size: 6828 Size 140 Mm Id 175 Mm Od 18 Mm Depth
+name_no_type: 6800 Series 6828 Size 140 Mm Id 175 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6828_size_140_mm_id_175_mm_od_18_mm_depth
+oomp_word: hotel clipboard moon
+oomp_word_emoji: ':hotel: :clipboard: :moon:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':clipboard:'
+- ':moon:'
+oomp_word_list:
+- hotel
+- clipboard
+- moon
+part_number: ''
+size: 6800_series
+type: bearing

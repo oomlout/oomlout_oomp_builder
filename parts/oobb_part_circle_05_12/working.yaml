@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_12'
+directory: parts/oobb_part_circle_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_05_12
+id: oobb_part_circle_05_12
+id_no_class: part_circle_05_12
+id_no_color: '0512'
+id_no_size: '05_12'
+id_no_type: circle_05_12
+manufacturer: ''
+md5: 705bd5a6f278f6062ece6d8d56adbc5b
+md5_10: 705bd5a6f2
+md5_10_upper: 705BD5A6F2
+md5_5: 705bd
+md5_5_upper: 705BD
+md5_6: 705bd5
+md5_6_alpha: 4dtqt
+md5_6_alpha_upper: 4DTQT
+md5_6_upper: 705BD5
+name: Oobb Part Circle 05 12
+name_no_class: Part Circle 05 12
+name_no_color: '0512'
+name_no_size: 05 12
+name_no_type: Circle 05 12
+oomp_key: oomp_oobb_part_circle_05_12
+oomp_word: squirrel rooster house
+oomp_word_emoji: ':squirrel: :rooster: :house:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':rooster:'
+- ':house:'
+oomp_word_list:
+- squirrel
+- rooster
+- house
+part_number: ''
+size: circle
+type: part

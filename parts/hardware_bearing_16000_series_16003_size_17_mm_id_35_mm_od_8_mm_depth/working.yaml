@@ -1,0 +1,40 @@
+classification: hardware
+color: 16003_size
+description_extra: ''
+description_main: 17_mm_id_35_mm_od_8_mm_depth
+directory: parts/hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+id: hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+id_no_class: bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+id_no_color: 17_mm_id_35_mm_od_8_mm_depth
+id_no_size: 16003_size_17_mm_id_35_mm_od_8_mm_depth
+id_no_type: 16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+manufacturer: ''
+md5: e3db565549d2ca7a0bc963036cbd66e6
+md5_10: e3db565549
+md5_10_upper: E3DB565549
+md5_5: e3db5
+md5_5_upper: E3DB5
+md5_6: e3db56
+md5_6_alpha: 8w28m
+md5_6_alpha_upper: 8W28M
+md5_6_upper: E3DB56
+name: Hardware Bearing 16000 Series 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth
+name_no_class: Bearing 16000 Series 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth
+name_no_color: 17 Mm Id 35 Mm Od 8 Mm Depth
+name_no_size: 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth
+name_no_type: 16000 Series 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+oomp_word: rowboat tent ram
+oomp_word_emoji: ':rowboat: :tent: :ram:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':tent:'
+- ':ram:'
+oomp_word_list:
+- rowboat
+- tent
+- ram
+part_number: ''
+size: 16000_series
+type: bearing

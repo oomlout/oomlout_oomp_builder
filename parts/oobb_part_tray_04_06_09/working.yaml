@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_06_09
+directory: parts/oobb_part_tray_04_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_09
+id: oobb_part_tray_04_06_09
+id_no_class: part_tray_04_06_09
+id_no_color: 040609
+id_no_size: 04_06_09
+id_no_type: tray_04_06_09
+manufacturer: ''
+md5: f338c2abbd44c2c3760711f51b64ed18
+md5_10: f338c2abbd
+md5_10_upper: F338C2ABBD
+md5_5: f338c
+md5_5_upper: F338C
+md5_6: f338c2
+md5_6_alpha: 9hn7m
+md5_6_alpha_upper: 9HN7M
+md5_6_upper: F338C2
+name: Oobb Part Tray 04 06 09
+name_no_class: Part Tray 04 06 09
+name_no_color: 040609
+name_no_size: 04 06 09
+name_no_type: Tray 04 06 09
+oomp_key: oomp_oobb_part_tray_04_06_09
+oomp_word: two frog birthday
+oomp_word_emoji: ':two: :frog: :birthday:'
+oomp_word_emoji_list:
+- ':two:'
+- ':frog:'
+- ':birthday:'
+oomp_word_list:
+- two
+- frog
+- birthday
+part_number: ''
+size: tray
+type: part

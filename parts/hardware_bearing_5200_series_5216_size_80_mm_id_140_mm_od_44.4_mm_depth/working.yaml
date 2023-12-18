@@ -1,0 +1,40 @@
+classification: hardware
+color: 5216_size
+description_extra: ''
+description_main: 80_mm_id_140_mm_od_44.4_mm_depth
+directory: parts/hardware_bearing_5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+id: hardware_bearing_5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+id_no_class: bearing_5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+id_no_color: 80_mm_id_140_mm_od_44.4_mm_depth
+id_no_size: 5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+id_no_type: 5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+manufacturer: ''
+md5: 54c9d40970683da1bcd0191c97a6f7a1
+md5_10: 54c9d40970
+md5_10_upper: 54C9D40970
+md5_5: 54c9d
+md5_5_upper: 54C9D
+md5_6: 54c9d4
+md5_6_alpha: 3b3kk
+md5_6_alpha_upper: 3B3KK
+md5_6_upper: 54C9D4
+name: Hardware Bearing 5200 Series 5216 Size 80 Mm Id 140 Mm Od 44.4 Mm Depth
+name_no_class: Bearing 5200 Series 5216 Size 80 Mm Id 140 Mm Od 44.4 Mm Depth
+name_no_color: 80 Mm Id 140 Mm Od 44.4 Mm Depth
+name_no_size: 5216 Size 80 Mm Id 140 Mm Od 44.4 Mm Depth
+name_no_type: 5200 Series 5216 Size 80 Mm Id 140 Mm Od 44.4 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5216_size_80_mm_id_140_mm_od_44.4_mm_depth
+oomp_word: whale lemon corn
+oomp_word_emoji: ':whale: :lemon: :corn:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':lemon:'
+- ':corn:'
+oomp_word_list:
+- whale
+- lemon
+- corn
+part_number: ''
+size: 5200_series
+type: bearing

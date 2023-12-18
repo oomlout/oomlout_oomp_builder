@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_3
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_3
+id: oobb_part_bunting_alphabet_07_01_ex_3
+id_no_class: part_bunting_alphabet_07_01_ex_3
+id_no_color: 0701ex3
+id_no_size: 07_01_ex_3
+id_no_type: bunting_alphabet_07_01_ex_3
+manufacturer: ''
+md5: a5a8921558270a0b650306ef63212162
+md5_10: a5a8921558
+md5_10_upper: A5A8921558
+md5_5: a5a89
+md5_5_upper: A5A89
+md5_6: a5a892
+md5_6_alpha: 6gp02
+md5_6_alpha_upper: 6GP02
+md5_6_upper: A5A892
+name: Oobb Part Bunting Alphabet 07 01 Ex 3
+name_no_class: Part Bunting Alphabet 07 01 Ex 3
+name_no_color: 0701Ex3
+name_no_size: 07 01 Ex 3
+name_no_type: Bunting Alphabet 07 01 Ex 3
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_3
+oomp_word: headphones shoe paperclip
+oomp_word_emoji: ':headphones: :shoe: :paperclip:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':shoe:'
+- ':paperclip:'
+oomp_word_list:
+- headphones
+- shoe
+- paperclip
+part_number: ''
+size: bunting_alphabet
+type: part

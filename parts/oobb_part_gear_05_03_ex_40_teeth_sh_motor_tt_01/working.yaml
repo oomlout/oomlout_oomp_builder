@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_ex_40_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_tt_01
+id: oobb_part_gear_05_03_ex_40_teeth_sh_motor_tt_01
+id_no_class: part_gear_05_03_ex_40_teeth_sh_motor_tt_01
+id_no_color: 0503ex40teethshmotortt01
+id_no_size: 05_03_ex_40_teeth_sh_motor_tt_01
+id_no_type: gear_05_03_ex_40_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: bca1ba39e59adb1972eb93431e941c5a
+md5_10: bca1ba39e5
+md5_10_upper: BCA1BA39E5
+md5_5: bca1b
+md5_5_upper: BCA1B
+md5_6: bca1ba
+md5_6_alpha: 7cypm
+md5_6_alpha_upper: 7CYPM
+md5_6_upper: BCA1BA
+name: Oobb Part Gear 05 03 Ex 40 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 05 03 Ex 40 Teeth Sh Motor Tt 01
+name_no_color: 0503Ex40Teethshmotortt01
+name_no_size: 05 03 Ex 40 Teeth Sh Motor Tt 01
+name_no_type: Gear 05 03 Ex 40 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_05_03_ex_40_teeth_sh_motor_tt_01
+oomp_word: sushi trophy spaghetti
+oomp_word_emoji: ':sushi: :trophy: :spaghetti:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':trophy:'
+- ':spaghetti:'
+oomp_word_list:
+- sushi
+- trophy
+- spaghetti
+part_number: ''
+size: gear
+type: part

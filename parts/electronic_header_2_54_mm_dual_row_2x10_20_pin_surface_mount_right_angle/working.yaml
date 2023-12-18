@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x10_20_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+id_no_color: 2x1020pinsurfacemountrightangle
+id_no_size: 2x10_20_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+manufacturer: ''
+md5: c05f90def5cc3720de1730d5ab0bd6f8
+md5_10: c05f90def5
+md5_10_upper: C05F90DEF5
+md5_5: c05f9
+md5_5_upper: C05F9
+md5_6: c05f90
+md5_6_alpha: 7i7ww
+md5_6_alpha_upper: 7I7WW
+md5_6_upper: C05F90
+name: Electronic Header 2 54 Mm Dual Row 2X10 20 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X10 20 Pin Surface Mount Right Angle
+name_no_color: 2X1020Pinsurfacemountrightangle
+name_no_size: 2X10 20 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X10 20 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x10_20_pin_surface_mount_right_angle
+oomp_word: bread leopard scissors
+oomp_word_emoji: ':bread: :leopard: :scissors:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':leopard:'
+- ':scissors:'
+oomp_word_list:
+- bread
+- leopard
+- scissors
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

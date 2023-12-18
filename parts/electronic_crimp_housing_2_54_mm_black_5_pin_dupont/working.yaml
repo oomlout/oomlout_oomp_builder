@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 5_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_5_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_5_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_5_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_5_pin_dupont
+id_no_color: 5_pin_dupont
+id_no_size: black_5_pin_dupont
+id_no_type: 2_54_mm_black_5_pin_dupont
+manufacturer: ''
+md5: 1e071703395a06920c46e5f37c932064
+md5_10: 1e07170339
+md5_10_upper: 1E07170339
+md5_5: 1e071
+md5_5_upper: 1E071
+md5_6: 1e0717
+md5_6_alpha: 166fr
+md5_6_alpha_upper: 166FR
+md5_6_upper: 1E0717
+name: Electronic Crimp Housing 2 54 Mm Black 5 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 5 Pin Dupont
+name_no_color: 5 Pin Dupont
+name_no_size: Black 5 Pin Dupont
+name_no_type: 2 54 Mm Black 5 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_5_pin_dupont
+oomp_word: angel cry thumbsdown
+oomp_word_emoji: ':angel: :cry: :thumbsdown:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':cry:'
+- ':thumbsdown:'
+oomp_word_list:
+- angel
+- cry
+- thumbsdown
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

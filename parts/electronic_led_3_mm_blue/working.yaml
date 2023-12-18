@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue
+id: electronic_led_3_mm_blue
+id_no_class: led_3_mm_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 3_mm_blue
+manufacturer: ''
+md5: 727504b3d7e6048c1e699c4c01cdf2b5
+md5_10: 727504b3d7
+md5_10_upper: 727504B3D7
+md5_5: '72750'
+md5_5_upper: '72750'
+md5_6: '727504'
+md5_6_alpha: 4grus
+md5_6_alpha_upper: 4GRUS
+md5_6_upper: '727504'
+name: Electronic Led 3 Mm Blue
+name_no_class: Led 3 Mm Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 3 Mm Blue
+oomp_key: oomp_electronic_led_3_mm_blue
+oomp_word: dolls ghost wink
+oomp_word_emoji: ':dolls: :ghost: :wink:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':ghost:'
+- ':wink:'
+oomp_word_list:
+- dolls
+- ghost
+- wink
+part_number: ''
+size: 3_mm
+type: led

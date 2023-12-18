@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_m3
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_m3
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_sh_m3
+id_no_color: 0606ex144teethshm3
+id_no_size: 06_06_ex_144_teeth_sh_m3
+id_no_type: pulley_gt2_06_06_ex_144_teeth_sh_m3
+manufacturer: ''
+md5: 195af0159d19de6686041cc2bca85696
+md5_10: 195af0159d
+md5_10_upper: 195AF0159D
+md5_5: 195af
+md5_5_upper: 195AF
+md5_6: 195af0
+md5_6_alpha: zm5s
+md5_6_alpha_upper: ZM5S
+md5_6_upper: 195AF0
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Sh M3
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Sh M3
+name_no_color: 0606Ex144Teethshm3
+name_no_size: 06 06 Ex 144 Teeth Sh M3
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_m3
+oomp_word: pray goat train
+oomp_word_emoji: ':pray: :goat: :train:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':goat:'
+- ':train:'
+oomp_word_list:
+- pray
+- goat
+- train
+part_number: ''
+size: pulley_gt2
+type: part

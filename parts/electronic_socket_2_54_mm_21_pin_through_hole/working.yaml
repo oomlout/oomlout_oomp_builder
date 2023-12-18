@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 21_pin
+directory: parts/electronic_socket_2_54_mm_21_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_21_pin_through_hole
+id: electronic_socket_2_54_mm_21_pin_through_hole
+id_no_class: socket_2_54_mm_21_pin_through_hole
+id_no_color: 21pinthroughhole
+id_no_size: 21_pin_through_hole
+id_no_type: 2_54_mm_21_pin_through_hole
+manufacturer: ''
+md5: c0f4882224ef7f4cb884fbf28d071994
+md5_10: c0f4882224
+md5_10_upper: C0F4882224
+md5_5: c0f48
+md5_5_upper: C0F48
+md5_6: c0f488
+md5_6_alpha: 7j1c8
+md5_6_alpha_upper: 7J1C8
+md5_6_upper: C0F488
+name: Electronic Socket 2 54 Mm 21 Pin Through Hole
+name_no_class: Socket 2 54 Mm 21 Pin Through Hole
+name_no_color: 21Pinthroughhole
+name_no_size: 21 Pin Through Hole
+name_no_type: 2 54 Mm 21 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_21_pin_through_hole
+oomp_word: bread three wrench
+oomp_word_emoji: ':bread: :three: :wrench:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':three:'
+- ':wrench:'
+oomp_word_list:
+- bread
+- three
+- wrench
+part_number: ''
+size: 2_54_mm
+type: socket

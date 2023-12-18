@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_30
+directory: parts/oobb_part_tray_vertical_09_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_03_30
+id: oobb_part_tray_vertical_09_03_30
+id_no_class: part_tray_vertical_09_03_30
+id_no_color: 090330
+id_no_size: 09_03_30
+id_no_type: tray_vertical_09_03_30
+manufacturer: ''
+md5: d53c32ca222dc6b3c489fbb6110d2567
+md5_10: d53c32ca22
+md5_10_upper: D53C32CA22
+md5_5: d53c3
+md5_5_upper: D53C3
+md5_6: d53c32
+md5_6_alpha: 8biuq
+md5_6_alpha_upper: 8BIUQ
+md5_6_upper: D53C32
+name: Oobb Part Tray Vertical 09 03 30
+name_no_class: Part Tray Vertical 09 03 30
+name_no_color: 090330
+name_no_size: 09 03 30
+name_no_type: Tray Vertical 09 03 30
+oomp_key: oomp_oobb_part_tray_vertical_09_03_30
+oomp_word: house pig cat
+oomp_word_emoji: ':house: :pig: :cat:'
+oomp_word_emoji_list:
+- ':house:'
+- ':pig:'
+- ':cat:'
+oomp_word_list:
+- house
+- pig
+- cat
+part_number: ''
+size: tray_vertical
+type: part

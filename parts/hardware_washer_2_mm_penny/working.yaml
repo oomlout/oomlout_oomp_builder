@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_2_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_2_mm_penny
+id: hardware_washer_2_mm_penny
+id_no_class: washer_2_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 2_mm_penny
+manufacturer: ''
+md5: b5325eb03aa4bde2b3a4be509a9e74f7
+md5_10: b5325eb03a
+md5_10_upper: B5325EB03A
+md5_5: b5325
+md5_5_upper: B5325
+md5_6: b5325e
+md5_6_alpha: 72iqm
+md5_6_alpha_upper: 72IQM
+md5_6_upper: B5325E
+name: Hardware Washer 2 Mm Penny
+name_no_class: Washer 2 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 2 Mm Penny
+oomp_key: oomp_hardware_washer_2_mm_penny
+oomp_word: tea cat crocodile
+oomp_word_emoji: ':tea: :cat: :crocodile:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':cat:'
+- ':crocodile:'
+oomp_word_list:
+- tea
+- cat
+- crocodile
+part_number: ''
+size: 2_mm
+type: washer

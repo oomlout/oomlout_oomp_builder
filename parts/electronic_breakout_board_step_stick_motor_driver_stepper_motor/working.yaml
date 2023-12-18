@@ -1,0 +1,40 @@
+classification: electronic
+color: motor_driver
+description_extra: ''
+description_main: stepper_motor
+directory: parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor
+id: electronic_breakout_board_step_stick_motor_driver_stepper_motor
+id_no_class: breakout_board_step_stick_motor_driver_stepper_motor
+id_no_color: stepper_motor
+id_no_size: motor_driver_stepper_motor
+id_no_type: step_stick_motor_driver_stepper_motor
+manufacturer: ''
+md5: 6c94dab5276260f88ab0eabadd66118c
+md5_10: 6c94dab527
+md5_10_upper: 6C94DAB527
+md5_5: 6c94d
+md5_5_upper: 6C94D
+md5_6: 6c94da
+md5_6_alpha: 48iqi
+md5_6_alpha_upper: 48IQI
+md5_6_upper: 6C94DA
+name: Electronic Breakout Board Step Stick Motor Driver Stepper Motor
+name_no_class: Breakout Board Step Stick Motor Driver Stepper Motor
+name_no_color: Stepper Motor
+name_no_size: Motor Driver Stepper Motor
+name_no_type: Step Stick Motor Driver Stepper Motor
+oomp_key: oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor
+oomp_word: blossom microscope hotel
+oomp_word_emoji: ':blossom: :microscope: :hotel:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':microscope:'
+- ':hotel:'
+oomp_word_list:
+- blossom
+- microscope
+- hotel
+part_number: ''
+size: step_stick
+type: breakout_board

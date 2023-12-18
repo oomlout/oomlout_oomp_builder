@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_3_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_3_pin_through_hole_right_angle
+id_no_color: 3pinthroughholerightangle
+id_no_size: 3_pin_through_hole_right_angle
+id_no_type: 2_54_mm_3_pin_through_hole_right_angle
+manufacturer: ''
+md5: 224896d47c7af444a10f1b355006cb72
+md5_10: 224896d47c
+md5_10_upper: 224896D47C
+md5_5: '22489'
+md5_5_upper: '22489'
+md5_6: '224896'
+md5_6_alpha: 1c5na
+md5_6_alpha_upper: 1C5NA
+md5_6_upper: '224896'
+name: Electronic Header 2 54 Mm 3 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 3 Pin Through Hole Right Angle
+name_no_color: 3Pinthroughholerightangle
+name_no_size: 3 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 3 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_through_hole_right_angle
+oomp_word: lips hatched_chick basketball
+oomp_word_emoji: ':lips: :hatched_chick: :basketball:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':hatched_chick:'
+- ':basketball:'
+oomp_word_list:
+- lips
+- hatched_chick
+- basketball
+part_number: ''
+size: 2_54_mm
+type: header

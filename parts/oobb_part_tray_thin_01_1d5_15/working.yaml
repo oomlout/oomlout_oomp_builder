@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_1d5_15
+directory: parts/oobb_part_tray_thin_01_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_1d5_15
+id: oobb_part_tray_thin_01_1d5_15
+id_no_class: part_tray_thin_01_1d5_15
+id_no_color: 011d515
+id_no_size: 01_1d5_15
+id_no_type: tray_thin_01_1d5_15
+manufacturer: ''
+md5: 2884a7695f2e7c8dc217c957999e2994
+md5_10: 2884a7695f
+md5_10_upper: 2884A7695F
+md5_5: 2884a
+md5_5_upper: 2884A
+md5_6: 2884a7
+md5_6_alpha: 1kwx3
+md5_6_alpha_upper: 1KWX3
+md5_6_upper: 2884A7
+name: Oobb Part Tray Thin 01 1D5 15
+name_no_class: Part Tray Thin 01 1D5 15
+name_no_color: 011D515
+name_no_size: 01 1D5 15
+name_no_type: Tray Thin 01 1D5 15
+oomp_key: oomp_oobb_part_tray_thin_01_1d5_15
+oomp_word: tongue key guitar
+oomp_word_emoji: ':tongue: :key: :guitar:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':key:'
+- ':guitar:'
+oomp_word_list:
+- tongue
+- key
+- guitar
+part_number: ''
+size: tray_thin
+type: part

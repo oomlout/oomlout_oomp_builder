@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_06_09
+directory: parts/oobb_part_tray_vertical_08_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_06_09
+id: oobb_part_tray_vertical_08_06_09
+id_no_class: part_tray_vertical_08_06_09
+id_no_color: 080609
+id_no_size: 08_06_09
+id_no_type: tray_vertical_08_06_09
+manufacturer: ''
+md5: 15abb570d3a7d06469680d06e27c3c54
+md5_10: 15abb570d3
+md5_10_upper: 15ABB570D3
+md5_5: 15abb
+md5_5_upper: 15ABB
+md5_6: 15abb5
+md5_6_alpha: ufud
+md5_6_alpha_upper: UFUD
+md5_6_upper: 15ABB5
+name: Oobb Part Tray Vertical 08 06 09
+name_no_class: Part Tray Vertical 08 06 09
+name_no_color: 080609
+name_no_size: 08 06 09
+name_no_type: Tray Vertical 08 06 09
+oomp_key: oomp_oobb_part_tray_vertical_08_06_09
+oomp_word: poop boot tea
+oomp_word_emoji: ':poop: :boot: :tea:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':boot:'
+- ':tea:'
+oomp_word_list:
+- poop
+- boot
+- tea
+part_number: ''
+size: tray_vertical
+type: part

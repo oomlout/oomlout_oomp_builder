@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_h
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_h
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_h
+id: oobb_part_bunting_alphabet_03_01_ex_h
+id_no_class: part_bunting_alphabet_03_01_ex_h
+id_no_color: 0301exh
+id_no_size: 03_01_ex_h
+id_no_type: bunting_alphabet_03_01_ex_h
+manufacturer: ''
+md5: 5cea899ffe0eccc9c151310b2cefa410
+md5_10: 5cea899ffe
+md5_10_upper: 5CEA899FFE
+md5_5: 5cea8
+md5_5_upper: 5CEA8
+md5_6: 5cea89
+md5_6_alpha: 3mikp
+md5_6_alpha_upper: 3MIKP
+md5_6_upper: 5CEA89
+name: Oobb Part Bunting Alphabet 03 01 Ex H
+name_no_class: Part Bunting Alphabet 03 01 Ex H
+name_no_color: 0301Exh
+name_no_size: 03 01 Ex H
+name_no_type: Bunting Alphabet 03 01 Ex H
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_h
+oomp_word: ox tractor hammer
+oomp_word_emoji: ':ox: :tractor: :hammer:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':tractor:'
+- ':hammer:'
+oomp_word_list:
+- ox
+- tractor
+- hammer
+part_number: ''
+size: bunting_alphabet
+type: part

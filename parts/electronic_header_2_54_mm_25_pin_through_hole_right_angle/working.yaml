@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 25_pin
+directory: parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_25_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_25_pin_through_hole_right_angle
+id_no_color: 25pinthroughholerightangle
+id_no_size: 25_pin_through_hole_right_angle
+id_no_type: 2_54_mm_25_pin_through_hole_right_angle
+manufacturer: ''
+md5: b83e3ff113eaccd956c8808a2c64194d
+md5_10: b83e3ff113
+md5_10_upper: B83E3FF113
+md5_5: b83e3
+md5_5_upper: B83E3
+md5_6: b83e3f
+md5_6_alpha: 76ssf
+md5_6_alpha_upper: 76SSF
+md5_6_upper: B83E3F
+name: Electronic Header 2 54 Mm 25 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 25 Pin Through Hole Right Angle
+name_no_color: 25Pinthroughholerightangle
+name_no_size: 25 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 25 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_25_pin_through_hole_right_angle
+oomp_word: hamburger monkey horse
+oomp_word_emoji: ':hamburger: :monkey: :horse:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':monkey:'
+- ':horse:'
+oomp_word_list:
+- hamburger
+- monkey
+- horse
+part_number: ''
+size: 2_54_mm
+type: header

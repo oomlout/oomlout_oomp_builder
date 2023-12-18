@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0203ex16teethshelectronicpotentiometer17mm
+id_no_size: 02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 09b337c8a03bb4c35e43c8e417c57b9c
+md5_10: 09b337c8a0
+md5_10_upper: 09B337C8A0
+md5_5: 09b33
+md5_5_upper: 09B33
+md5_6: 09b337
+md5_6_alpha: dmif
+md5_6_alpha_upper: DMIF
+md5_6_upper: 09B337
+name: Oobb Part Gear 02 03 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 02 03 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0203Ex16Teethshelectronicpotentiometer17Mm
+name_no_size: 02 03 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 02 03 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: angry eyeglasses wolf
+oomp_word_emoji: ':angry: :eyeglasses: :wolf:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':eyeglasses:'
+- ':wolf:'
+oomp_word_list:
+- angry
+- eyeglasses
+- wolf
+part_number: ''
+size: gear
+type: part

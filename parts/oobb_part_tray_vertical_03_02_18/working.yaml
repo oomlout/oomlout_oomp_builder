@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_18
+directory: parts/oobb_part_tray_vertical_03_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_02_18
+id: oobb_part_tray_vertical_03_02_18
+id_no_class: part_tray_vertical_03_02_18
+id_no_color: 030218
+id_no_size: 03_02_18
+id_no_type: tray_vertical_03_02_18
+manufacturer: ''
+md5: a002ff04cb0d5add565b484fa7b3e8f6
+md5_10: a002ff04cb
+md5_10_upper: A002FF04CB
+md5_5: a002f
+md5_5_upper: A002F
+md5_6: a002ff
+md5_6_alpha: 68rgf
+md5_6_alpha_upper: 68RGF
+md5_6_upper: A002FF
+name: Oobb Part Tray Vertical 03 02 18
+name_no_class: Part Tray Vertical 03 02 18
+name_no_color: 030218
+name_no_size: 03 02 18
+name_no_type: Tray Vertical 03 02 18
+oomp_key: oomp_oobb_part_tray_vertical_03_02_18
+oomp_word: ring blush trident
+oomp_word_emoji: ':ring: :blush: :trident:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':blush:'
+- ':trident:'
+oomp_word_list:
+- ring
+- blush
+- trident
+part_number: ''
+size: tray_vertical
+type: part

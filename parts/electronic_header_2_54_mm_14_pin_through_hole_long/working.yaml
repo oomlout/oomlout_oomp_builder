@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_through_hole_long
+id: electronic_header_2_54_mm_14_pin_through_hole_long
+id_no_class: header_2_54_mm_14_pin_through_hole_long
+id_no_color: 14pinthroughholelong
+id_no_size: 14_pin_through_hole_long
+id_no_type: 2_54_mm_14_pin_through_hole_long
+manufacturer: ''
+md5: 0dd052ae06622b88987cb9f423c6e018
+md5_10: 0dd052ae06
+md5_10_upper: 0DD052AE06
+md5_5: 0dd05
+md5_5_upper: 0DD05
+md5_6: 0dd052
+md5_6_alpha: jej6
+md5_6_alpha_upper: JEJ6
+md5_6_upper: 0DD052
+name: Electronic Header 2 54 Mm 14 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 14 Pin Through Hole Long
+name_no_color: 14Pinthroughholelong
+name_no_size: 14 Pin Through Hole Long
+name_no_type: 2 54 Mm 14 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_through_hole_long
+oomp_word: heart banana octopus
+oomp_word_emoji: ':heart: :banana: :octopus:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':banana:'
+- ':octopus:'
+oomp_word_list:
+- heart
+- banana
+- octopus
+part_number: ''
+size: 2_54_mm
+type: header

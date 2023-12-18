@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_03_12'
+directory: parts/oobb_part_tray_vertical_10_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_03_12
+id: oobb_part_tray_vertical_10_03_12
+id_no_class: part_tray_vertical_10_03_12
+id_no_color: '100312'
+id_no_size: '10_03_12'
+id_no_type: tray_vertical_10_03_12
+manufacturer: ''
+md5: 39c55cf51afe563da49de5f83e6949ed
+md5_10: 39c55cf51a
+md5_10_upper: 39C55CF51A
+md5_5: 39c55
+md5_5_upper: 39C55
+md5_6: 39c55c
+md5_6_alpha: 295cs
+md5_6_alpha_upper: 295CS
+md5_6_upper: 39C55C
+name: Oobb Part Tray Vertical 10 03 12
+name_no_class: Part Tray Vertical 10 03 12
+name_no_color: '100312'
+name_no_size: 10 03 12
+name_no_type: Tray Vertical 10 03 12
+oomp_key: oomp_oobb_part_tray_vertical_10_03_12
+oomp_word: tiger candy ox
+oomp_word_emoji: ':tiger: :candy: :ox:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':candy:'
+- ':ox:'
+oomp_word_list:
+- tiger
+- candy
+- ox
+part_number: ''
+size: tray_vertical
+type: part

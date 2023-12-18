@@ -1,0 +1,40 @@
+classification: hardware
+color: MR52_size
+description_extra: ''
+description_main: 2_mm_id_5_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+id_no_color: 2_mm_id_5_mm_od_2.5_mm_depth
+id_no_size: MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: 2b72bf458a4366226b0056703c76833c
+md5_10: 2b72bf458a
+md5_10_upper: 2B72BF458A
+md5_5: 2b72b
+md5_5_upper: 2B72B
+md5_6: 2b72bf
+md5_6_alpha: 1p133
+md5_6_alpha_upper: 1P133
+md5_6_upper: 2B72BF
+name: Hardware Bearing Mr Series Mr52 Size 2 Mm Id 5 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr52 Size 2 Mm Id 5 Mm Od 2.5 Mm Depth
+name_no_color: 2 Mm Id 5 Mm Od 2.5 Mm Depth
+name_no_size: Mr52 Size 2 Mm Id 5 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr52 Size 2 Mm Id 5 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2.5_mm_depth
+oomp_word: cloud dolls egg
+oomp_word_emoji: ':cloud: :dolls: :egg:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':dolls:'
+- ':egg:'
+oomp_word_list:
+- cloud
+- dolls
+- egg
+part_number: ''
+size: MR_series
+type: bearing

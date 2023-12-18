@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_02_15'
+directory: parts/oobb_part_tray_vertical_10_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_02_15
+id: oobb_part_tray_vertical_10_02_15
+id_no_class: part_tray_vertical_10_02_15
+id_no_color: '100215'
+id_no_size: '10_02_15'
+id_no_type: tray_vertical_10_02_15
+manufacturer: ''
+md5: 187c6246fb405de711e7d5de5073d24b
+md5_10: 187c6246fb
+md5_10_upper: 187C6246FB
+md5_5: 187c6
+md5_5_upper: 187C6
+md5_6: 187c62
+md5_6_alpha: ye76
+md5_6_alpha_upper: YE76
+md5_6_upper: 187C62
+name: Oobb Part Tray Vertical 10 02 15
+name_no_class: Part Tray Vertical 10 02 15
+name_no_color: '100215'
+name_no_size: 10 02 15
+name_no_type: Tray Vertical 10 02 15
+oomp_key: oomp_oobb_part_tray_vertical_10_02_15
+oomp_word: hand tv tulip
+oomp_word_emoji: ':hand: :tv: :tulip:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':tv:'
+- ':tulip:'
+oomp_word_list:
+- hand
+- tv
+- tulip
+part_number: ''
+size: tray_vertical
+type: part

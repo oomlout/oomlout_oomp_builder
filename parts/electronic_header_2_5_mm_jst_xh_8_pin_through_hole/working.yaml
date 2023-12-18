@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 8_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_8_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_8_pin_through_hole
+id_no_color: 8pinthroughhole
+id_no_size: 8_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_8_pin_through_hole
+manufacturer: ''
+md5: 350e06e205b270b8258244c66405423e
+md5_10: 350e06e205
+md5_10_upper: 350E06E205
+md5_5: 350e0
+md5_5_upper: 350E0
+md5_6: 350e06
+md5_6_alpha: 22iva
+md5_6_alpha_upper: 22IVA
+md5_6_upper: 350E06
+name: Electronic Header 2 5 Mm Jst Xh 8 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 8 Pin Through Hole
+name_no_color: 8Pinthroughhole
+name_no_size: 8 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 8 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_8_pin_through_hole
+oomp_word: hamster cupid sleeping
+oomp_word_emoji: ':hamster: :cupid: :sleeping:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':cupid:'
+- ':sleeping:'
+oomp_word_list:
+- hamster
+- cupid
+- sleeping
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

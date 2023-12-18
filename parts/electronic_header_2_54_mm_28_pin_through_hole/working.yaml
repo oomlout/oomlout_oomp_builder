@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 28_pin
+directory: parts/electronic_header_2_54_mm_28_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_through_hole
+id: electronic_header_2_54_mm_28_pin_through_hole
+id_no_class: header_2_54_mm_28_pin_through_hole
+id_no_color: 28pinthroughhole
+id_no_size: 28_pin_through_hole
+id_no_type: 2_54_mm_28_pin_through_hole
+manufacturer: ''
+md5: b18ba8c6396e62de02669f8a0d301327
+md5_10: b18ba8c639
+md5_10_upper: B18BA8C639
+md5_5: b18ba
+md5_5_upper: B18BA
+md5_6: b18ba8
+md5_6_alpha: 6xe3s
+md5_6_alpha_upper: 6XE3S
+md5_6_upper: B18BA8
+name: Electronic Header 2 54 Mm 28 Pin Through Hole
+name_no_class: Header 2 54 Mm 28 Pin Through Hole
+name_no_color: 28Pinthroughhole
+name_no_size: 28 Pin Through Hole
+name_no_type: 2 54 Mm 28 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_28_pin_through_hole
+oomp_word: briefcase door shoe
+oomp_word_emoji: ':briefcase: :door: :shoe:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':door:'
+- ':shoe:'
+oomp_word_list:
+- briefcase
+- door
+- shoe
+part_number: ''
+size: 2_54_mm
+type: header

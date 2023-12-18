@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+directory: parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id: oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_class: part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 070718nm16mmtapewidth2mmtapethicknessex2
+id_no_size: 07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_type: smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+md5: 4e457fc00b724bc606165f94cc0a663a
+md5_10: 4e457fc00b
+md5_10_upper: 4E457FC00B
+md5_5: 4e457
+md5_5_upper: 4E457
+md5_6: 4e457f
+md5_6_alpha: 31y0v
+md5_6_alpha_upper: 31Y0V
+md5_6_upper: 4E457F
+name: Oobb Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_class: Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness
+  Ex 2
+name_no_color: 070718Nm16Mmtapewidth2Mmtapethicknessex2
+name_no_size: 07 07 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name_no_type: Smd Magazine 07 07 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+oomp_key: oomp_oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+oomp_word: honeybee snake speaker
+oomp_word_emoji: ':honeybee: :snake: :speaker:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':snake:'
+- ':speaker:'
+oomp_word_list:
+- honeybee
+- snake
+- speaker
+part_number: ''
+size: smd_magazine
+type: part

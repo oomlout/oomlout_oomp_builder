@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_11_12'
+directory: parts/oobb_part_tray_07_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_12
+id: oobb_part_tray_07_11_12
+id_no_class: part_tray_07_11_12
+id_no_color: '071112'
+id_no_size: '07_11_12'
+id_no_type: tray_07_11_12
+manufacturer: ''
+md5: 3dc25b9db0e48e37cc4069b067c8371d
+md5_10: 3dc25b9db0
+md5_10_upper: 3DC25B9DB0
+md5_5: 3dc25
+md5_5_upper: 3DC25
+md5_6: 3dc25b
+md5_6_alpha: 2er17
+md5_6_alpha_upper: 2ER17
+md5_6_upper: 3DC25B
+name: Oobb Part Tray 07 11 12
+name_no_class: Part Tray 07 11 12
+name_no_color: '071112'
+name_no_size: 07 11 12
+name_no_type: Tray 07 11 12
+oomp_key: oomp_oobb_part_tray_07_11_12
+oomp_word: cow birthday rooster
+oomp_word_emoji: ':cow: :birthday: :rooster:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':birthday:'
+- ':rooster:'
+oomp_word_list:
+- cow
+- birthday
+- rooster
+part_number: ''
+size: tray
+type: part

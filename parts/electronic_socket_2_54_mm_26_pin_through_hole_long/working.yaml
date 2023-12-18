@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 26_pin
+directory: parts/electronic_socket_2_54_mm_26_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_26_pin_through_hole_long
+id: electronic_socket_2_54_mm_26_pin_through_hole_long
+id_no_class: socket_2_54_mm_26_pin_through_hole_long
+id_no_color: 26pinthroughholelong
+id_no_size: 26_pin_through_hole_long
+id_no_type: 2_54_mm_26_pin_through_hole_long
+manufacturer: ''
+md5: a4eae3fc23789424f1ec99663de97f6b
+md5_10: a4eae3fc23
+md5_10_upper: A4EAE3FC23
+md5_5: a4eae
+md5_5_upper: A4EAE
+md5_6: a4eae3
+md5_6_alpha: 6fnj7
+md5_6_alpha_upper: 6FNJ7
+md5_6_upper: A4EAE3
+name: Electronic Socket 2 54 Mm 26 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 26 Pin Through Hole Long
+name_no_color: 26Pinthroughholelong
+name_no_size: 26 Pin Through Hole Long
+name_no_type: 2 54 Mm 26 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_26_pin_through_hole_long
+oomp_word: book tractor rowboat
+oomp_word_emoji: ':book: :tractor: :rowboat:'
+oomp_word_emoji_list:
+- ':book:'
+- ':tractor:'
+- ':rowboat:'
+oomp_word_list:
+- book
+- tractor
+- rowboat
+part_number: ''
+size: 2_54_mm
+type: socket

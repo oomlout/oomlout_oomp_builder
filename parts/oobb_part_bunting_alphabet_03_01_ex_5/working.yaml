@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_5
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_5
+id: oobb_part_bunting_alphabet_03_01_ex_5
+id_no_class: part_bunting_alphabet_03_01_ex_5
+id_no_color: 0301ex5
+id_no_size: 03_01_ex_5
+id_no_type: bunting_alphabet_03_01_ex_5
+manufacturer: ''
+md5: 1161cd85e0f869592cd91f3d8d68d683
+md5_10: 1161cd85e0
+md5_10_upper: 1161CD85E0
+md5_5: 1161c
+md5_5_upper: 1161C
+md5_6: 1161cd
+md5_6_alpha: oez1
+md5_6_alpha_upper: OEZ1
+md5_6_upper: 1161CD
+name: Oobb Part Bunting Alphabet 03 01 Ex 5
+name_no_class: Part Bunting Alphabet 03 01 Ex 5
+name_no_color: 0301Ex5
+name_no_size: 03 01 Ex 5
+name_no_type: Bunting Alphabet 03 01 Ex 5
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_5
+oomp_word: dizzy bouquet strawberry
+oomp_word_emoji: ':dizzy: :bouquet: :strawberry:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':bouquet:'
+- ':strawberry:'
+oomp_word_list:
+- dizzy
+- bouquet
+- strawberry
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_01_15
+directory: parts/oobb_part_plate_09_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_15
+id: oobb_part_plate_09_01_15
+id_no_class: part_plate_09_01_15
+id_no_color: 090115
+id_no_size: 09_01_15
+id_no_type: plate_09_01_15
+manufacturer: ''
+md5: aa2247005ce70b865bdfa13eae36eceb
+md5_10: aa2247005c
+md5_10_upper: AA2247005C
+md5_5: aa224
+md5_5_upper: AA224
+md5_6: aa2247
+md5_6_alpha: 6mzbb
+md5_6_alpha_upper: 6MZBB
+md5_6_upper: AA2247
+name: Oobb Part Plate 09 01 15
+name_no_class: Part Plate 09 01 15
+name_no_color: 090115
+name_no_size: 09 01 15
+name_no_type: Plate 09 01 15
+oomp_key: oomp_oobb_part_plate_09_01_15
+oomp_word: lipstick lips baby_chick
+oomp_word_emoji: ':lipstick: :lips: :baby_chick:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':lips:'
+- ':baby_chick:'
+oomp_word_list:
+- lipstick
+- lips
+- baby_chick
+part_number: ''
+size: plate
+type: part

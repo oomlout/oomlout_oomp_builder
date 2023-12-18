@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 37_pin
+directory: parts/electronic_header_2_54_mm_37_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_surface_mount
+id: electronic_header_2_54_mm_37_pin_surface_mount
+id_no_class: header_2_54_mm_37_pin_surface_mount
+id_no_color: 37pinsurfacemount
+id_no_size: 37_pin_surface_mount
+id_no_type: 2_54_mm_37_pin_surface_mount
+manufacturer: ''
+md5: 7732ba935c0527bf4279d032d5656206
+md5_10: 7732ba935c
+md5_10_upper: 7732BA935C
+md5_5: 7732b
+md5_5_upper: 7732B
+md5_6: 7732ba
+md5_6_alpha: 4nflm
+md5_6_alpha_upper: 4NFLM
+md5_6_upper: 7732BA
+name: Electronic Header 2 54 Mm 37 Pin Surface Mount
+name_no_class: Header 2 54 Mm 37 Pin Surface Mount
+name_no_color: 37Pinsurfacemount
+name_no_size: 37 Pin Surface Mount
+name_no_type: 2 54 Mm 37 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_37_pin_surface_mount
+oomp_word: gift cat spaghetti
+oomp_word_emoji: ':gift: :cat: :spaghetti:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':cat:'
+- ':spaghetti:'
+oomp_word_list:
+- gift
+- cat
+- spaghetti
+part_number: ''
+size: 2_54_mm
+type: header

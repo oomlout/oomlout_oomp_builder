@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_06_12'
+directory: parts/oobb_part_tray_04_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_12
+id: oobb_part_tray_04_06_12
+id_no_class: part_tray_04_06_12
+id_no_color: '040612'
+id_no_size: '04_06_12'
+id_no_type: tray_04_06_12
+manufacturer: ''
+md5: 24603cbc1a78dfb97489ce7cd84b519d
+md5_10: 24603cbc1a
+md5_10_upper: 24603CBC1A
+md5_5: '24603'
+md5_5_upper: '24603'
+md5_6: 24603c
+md5_6_alpha: 1f3gc
+md5_6_alpha_upper: 1F3GC
+md5_6_upper: 24603C
+name: Oobb Part Tray 04 06 12
+name_no_class: Part Tray 04 06 12
+name_no_color: '040612'
+name_no_size: 04 06 12
+name_no_type: Tray 04 06 12
+oomp_key: oomp_oobb_part_tray_04_06_12
+oomp_word: droplet poodle pig
+oomp_word_emoji: ':droplet: :poodle: :pig:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':poodle:'
+- ':pig:'
+oomp_word_list:
+- droplet
+- poodle
+- pig
+part_number: ''
+size: tray
+type: part

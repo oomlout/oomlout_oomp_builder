@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x19_38_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+id_no_color: 2x1938pinthroughholerightangle
+id_no_size: 2x19_38_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+manufacturer: ''
+md5: efda1af9864cb7c02a6a4fe506b9cbac
+md5_10: efda1af986
+md5_10_upper: EFDA1AF986
+md5_5: efda1
+md5_5_upper: EFDA1
+md5_6: efda1a
+md5_6_alpha: 9cwt6
+md5_6_alpha_upper: 9CWT6
+md5_6_upper: EFDA1A
+name: Electronic Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole Right Angle
+name_no_color: 2X1938Pinthroughholerightangle
+name_no_size: 2X19 38 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X19 38 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole_right_angle
+oomp_word: truck hotel clap
+oomp_word_emoji: ':truck: :hotel: :clap:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':hotel:'
+- ':clap:'
+oomp_word_list:
+- truck
+- hotel
+- clap
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

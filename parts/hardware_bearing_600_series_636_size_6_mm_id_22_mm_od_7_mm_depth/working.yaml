@@ -1,0 +1,40 @@
+classification: hardware
+color: 636_size
+description_extra: ''
+description_main: 6_mm_id_22_mm_od_7_mm_depth
+directory: parts/hardware_bearing_600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+id: hardware_bearing_600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+id_no_class: bearing_600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+id_no_color: 6_mm_id_22_mm_od_7_mm_depth
+id_no_size: 636_size_6_mm_id_22_mm_od_7_mm_depth
+id_no_type: 600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+manufacturer: ''
+md5: 2da84e24ed82627a3f24d6dbd318c4ad
+md5_10: 2da84e24ed
+md5_10_upper: 2DA84E24ED
+md5_5: 2da84
+md5_5_upper: 2DA84
+md5_6: 2da84e
+md5_6_alpha: 1s4su
+md5_6_alpha_upper: 1S4SU
+md5_6_upper: 2DA84E
+name: Hardware Bearing 600 Series 636 Size 6 Mm Id 22 Mm Od 7 Mm Depth
+name_no_class: Bearing 600 Series 636 Size 6 Mm Id 22 Mm Od 7 Mm Depth
+name_no_color: 6 Mm Id 22 Mm Od 7 Mm Depth
+name_no_size: 636 Size 6 Mm Id 22 Mm Od 7 Mm Depth
+name_no_type: 600 Series 636 Size 6 Mm Id 22 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_636_size_6_mm_id_22_mm_od_7_mm_depth
+oomp_word: snowman shoe honeybee
+oomp_word_emoji: ':snowman: :shoe: :honeybee:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':shoe:'
+- ':honeybee:'
+oomp_word_list:
+- snowman
+- shoe
+- honeybee
+part_number: ''
+size: 600_series
+type: bearing

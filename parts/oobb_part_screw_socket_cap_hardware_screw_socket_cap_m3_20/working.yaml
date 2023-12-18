@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_20
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_20
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_20
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_20
+id_no_color: hardwarem320
+id_no_size: hardware_m3_20
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_20
+manufacturer: ''
+md5: d387727d03c10cfac99e9e93084596d7
+md5_10: d387727d03
+md5_10_upper: D387727D03
+md5_5: d3877
+md5_5_upper: D3877
+md5_6: d38772
+md5_6_alpha: 894ky
+md5_6_alpha_upper: 894KY
+md5_6_upper: D38772
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 20
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 20
+name_no_color: Hardwarem320
+name_no_size: Hardware M3 20
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 20
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_20
+oomp_word: tomato toilet dolls
+oomp_word_emoji: ':tomato: :toilet: :dolls:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':toilet:'
+- ':dolls:'
+oomp_word_list:
+- tomato
+- toilet
+- dolls
+part_number: ''
+size: screw_socket_cap
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_2d5_30
+directory: parts/oobb_part_tray_02_2d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_2d5_30
+id: oobb_part_tray_02_2d5_30
+id_no_class: part_tray_02_2d5_30
+id_no_color: 022d530
+id_no_size: 02_2d5_30
+id_no_type: tray_02_2d5_30
+manufacturer: ''
+md5: 492e72233988a948e82ae5e26575728f
+md5_10: 492e722339
+md5_10_upper: 492E722339
+md5_5: 492e7
+md5_5_upper: 492E7
+md5_6: 492e72
+md5_6_alpha: 2usmq
+md5_6_alpha_upper: 2USMQ
+md5_6_upper: 492E72
+name: Oobb Part Tray 02 2D5 30
+name_no_class: Part Tray 02 2D5 30
+name_no_color: 022D530
+name_no_size: 02 2D5 30
+name_no_type: Tray 02 2D5 30
+oomp_key: oomp_oobb_part_tray_02_2d5_30
+oomp_word: hatching_chick zap dolls
+oomp_word_emoji: ':hatching_chick: :zap: :dolls:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':zap:'
+- ':dolls:'
+oomp_word_list:
+- hatching_chick
+- zap
+- dolls
+part_number: ''
+size: tray
+type: part

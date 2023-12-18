@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_02_15
+directory: parts/oobb_part_tray_thin_08_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_02_15
+id: oobb_part_tray_thin_08_02_15
+id_no_class: part_tray_thin_08_02_15
+id_no_color: 080215
+id_no_size: 08_02_15
+id_no_type: tray_thin_08_02_15
+manufacturer: ''
+md5: 65ddfd5a9e999c9dcf45f072c080f4b1
+md5_10: 65ddfd5a9e
+md5_10_upper: 65DDFD5A9E
+md5_5: 65ddf
+md5_5_upper: 65DDF
+md5_6: 65ddfd
+md5_6_alpha: 3z37h
+md5_6_alpha_upper: 3Z37H
+md5_6_upper: 65DDFD
+name: Oobb Part Tray Thin 08 02 15
+name_no_class: Part Tray Thin 08 02 15
+name_no_color: 080215
+name_no_size: 08 02 15
+name_no_type: Tray Thin 08 02 15
+oomp_key: oomp_oobb_part_tray_thin_08_02_15
+oomp_word: maple_leaf stars parking
+oomp_word_emoji: ':maple_leaf: :stars: :parking:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':stars:'
+- ':parking:'
+oomp_word_list:
+- maple_leaf
+- stars
+- parking
+part_number: ''
+size: tray_thin
+type: part

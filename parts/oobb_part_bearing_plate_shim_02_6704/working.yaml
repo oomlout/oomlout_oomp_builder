@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_6704'
+directory: parts/oobb_part_bearing_plate_shim_02_6704
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_02_6704
+id: oobb_part_bearing_plate_shim_02_6704
+id_no_class: part_bearing_plate_shim_02_6704
+id_no_color: '026704'
+id_no_size: '02_6704'
+id_no_type: bearing_plate_shim_02_6704
+manufacturer: ''
+md5: 3f54201cdc1b1e6939d1f5b565c62e23
+md5_10: 3f54201cdc
+md5_10_upper: 3F54201CDC
+md5_5: 3f542
+md5_5_upper: 3F542
+md5_6: 3f5420
+md5_6_alpha: 2gye8
+md5_6_alpha_upper: 2GYE8
+md5_6_upper: 3F5420
+name: Oobb Part Bearing Plate Shim 02 6704
+name_no_class: Part Bearing Plate Shim 02 6704
+name_no_color: '026704'
+name_no_size: 02 6704
+name_no_type: Bearing Plate Shim 02 6704
+oomp_key: oomp_oobb_part_bearing_plate_shim_02_6704
+oomp_word: horse whale skull
+oomp_word_emoji: ':horse: :whale: :skull:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':whale:'
+- ':skull:'
+oomp_word_list:
+- horse
+- whale
+- skull
+part_number: ''
+size: bearing_plate_shim
+type: part

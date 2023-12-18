@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1200_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_1200_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm
+id: electronic_resistor_quarter_watt_through_hole_1200_ohm
+id_no_class: resistor_quarter_watt_through_hole_1200_ohm
+id_no_color: 1200ohm
+id_no_size: 1200_ohm
+id_no_type: quarter_watt_through_hole_1200_ohm
+manufacturer: ''
+md5: c86d3b56cb5f4ad5f489e57640cab2c6
+md5_10: c86d3b56cb
+md5_10_upper: C86D3B56CB
+md5_5: c86d3
+md5_5_upper: C86D3
+md5_6: c86d3b
+md5_6_alpha: 7tj5n
+md5_6_alpha_upper: 7TJ5N
+md5_6_upper: C86D3B
+name: Electronic Resistor Quarter Watt Through Hole 1200 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 1200 Ohm
+name_no_color: 1200Ohm
+name_no_size: 1200 Ohm
+name_no_type: Quarter Watt Through Hole 1200 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1200_ohm
+oomp_word: apple shell bear
+oomp_word_emoji: ':apple: :shell: :bear:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':shell:'
+- ':bear:'
+oomp_word_list:
+- apple
+- shell
+- bear
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_02_09
+directory: parts/oobb_part_tray_thin_04_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_02_09
+id: oobb_part_tray_thin_04_02_09
+id_no_class: part_tray_thin_04_02_09
+id_no_color: 040209
+id_no_size: 04_02_09
+id_no_type: tray_thin_04_02_09
+manufacturer: ''
+md5: 95e3273ebe107468362639e91856ac8e
+md5_10: 95e3273ebe
+md5_10_upper: 95E3273EBE
+md5_5: 95e32
+md5_5_upper: 95E32
+md5_6: 95e327
+md5_6_alpha: 5ujhj
+md5_6_alpha_upper: 5UJHJ
+md5_6_upper: 95E327
+name: Oobb Part Tray Thin 04 02 09
+name_no_class: Part Tray Thin 04 02 09
+name_no_color: 040209
+name_no_size: 04 02 09
+name_no_type: Tray Thin 04 02 09
+oomp_key: oomp_oobb_part_tray_thin_04_02_09
+oomp_word: telescope rowboat nose
+oomp_word_emoji: ':telescope: :rowboat: :nose:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':rowboat:'
+- ':nose:'
+oomp_word_list:
+- telescope
+- rowboat
+- nose
+part_number: ''
+size: tray_thin
+type: part

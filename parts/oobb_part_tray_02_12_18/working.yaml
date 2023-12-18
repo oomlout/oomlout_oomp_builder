@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_12_18
+directory: parts/oobb_part_tray_02_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_12_18
+id: oobb_part_tray_02_12_18
+id_no_class: part_tray_02_12_18
+id_no_color: 021218
+id_no_size: 02_12_18
+id_no_type: tray_02_12_18
+manufacturer: ''
+md5: a8c5533e800b879fd4d185c1ae176322
+md5_10: a8c5533e80
+md5_10_upper: A8C5533E80
+md5_5: a8c55
+md5_5_upper: A8C55
+md5_6: a8c553
+md5_6_alpha: 6l2dv
+md5_6_alpha_upper: 6L2DV
+md5_6_upper: A8C553
+name: Oobb Part Tray 02 12 18
+name_no_class: Part Tray 02 12 18
+name_no_color: 021218
+name_no_size: 02 12 18
+name_no_type: Tray 02 12 18
+oomp_key: oomp_oobb_part_tray_02_12_18
+oomp_word: shoe candy fish
+oomp_word_emoji: ':shoe: :candy: :fish:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':candy:'
+- ':fish:'
+oomp_word_list:
+- shoe
+- candy
+- fish
+part_number: ''
+size: tray
+type: part

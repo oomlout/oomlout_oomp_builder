@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 20_pin
+directory: parts/electronic_header_2_54_mm_20_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_20_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_20_pin_through_hole_right_angle
+id_no_color: 20pinthroughholerightangle
+id_no_size: 20_pin_through_hole_right_angle
+id_no_type: 2_54_mm_20_pin_through_hole_right_angle
+manufacturer: ''
+md5: c046fbc84fa108a0eb15c58b29d5781f
+md5_10: c046fbc84f
+md5_10_upper: C046FBC84F
+md5_5: c046f
+md5_5_upper: C046F
+md5_6: c046fb
+md5_6_alpha: 7i323
+md5_6_alpha_upper: 7I323
+md5_6_upper: C046FB
+name: Electronic Header 2 54 Mm 20 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 20 Pin Through Hole Right Angle
+name_no_color: 20Pinthroughholerightangle
+name_no_size: 20 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 20 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_20_pin_through_hole_right_angle
+oomp_word: bread bird ok
+oomp_word_emoji: ':bread: :bird: :ok:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':bird:'
+- ':ok:'
+oomp_word_list:
+- bread
+- bird
+- ok
+part_number: ''
+size: 2_54_mm
+type: header

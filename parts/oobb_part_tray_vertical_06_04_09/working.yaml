@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_04_09
+directory: parts/oobb_part_tray_vertical_06_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_09
+id: oobb_part_tray_vertical_06_04_09
+id_no_class: part_tray_vertical_06_04_09
+id_no_color: 060409
+id_no_size: 06_04_09
+id_no_type: tray_vertical_06_04_09
+manufacturer: ''
+md5: 5f72df0b6ccf5f2931d4350af2f27a3a
+md5_10: 5f72df0b6c
+md5_10_upper: 5F72DF0B6C
+md5_5: 5f72d
+md5_5_upper: 5F72D
+md5_6: 5f72df
+md5_6_alpha: 3q2n3
+md5_6_alpha_upper: 3Q2N3
+md5_6_upper: 5F72DF
+name: Oobb Part Tray Vertical 06 04 09
+name_no_class: Part Tray Vertical 06 04 09
+name_no_color: 060409
+name_no_size: 06 04 09
+name_no_type: Tray Vertical 06 04 09
+oomp_key: oomp_oobb_part_tray_vertical_06_04_09
+oomp_word: leopard dolls fountain
+oomp_word_emoji: ':leopard: :dolls: :fountain:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':dolls:'
+- ':fountain:'
+oomp_word_list:
+- leopard
+- dolls
+- fountain
+part_number: ''
+size: tray_vertical
+type: part

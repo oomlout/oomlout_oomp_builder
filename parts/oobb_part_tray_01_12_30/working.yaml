@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_12_30'
+directory: parts/oobb_part_tray_01_12_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_12_30
+id: oobb_part_tray_01_12_30
+id_no_class: part_tray_01_12_30
+id_no_color: '011230'
+id_no_size: '01_12_30'
+id_no_type: tray_01_12_30
+manufacturer: ''
+md5: 36fb4e1cb744e4225ee2cacba2bde66d
+md5_10: 36fb4e1cb7
+md5_10_upper: 36FB4E1CB7
+md5_5: 36fb4
+md5_5_upper: 36FB4
+md5_6: 36fb4e
+md5_6_alpha: 258b2
+md5_6_alpha_upper: 258B2
+md5_6_upper: 36FB4E
+name: Oobb Part Tray 01 12 30
+name_no_class: Part Tray 01 12 30
+name_no_color: '011230'
+name_no_size: 01 12 30
+name_no_type: Tray 01 12 30
+oomp_key: oomp_oobb_part_tray_01_12_30
+oomp_word: rabbit ok honeybee
+oomp_word_emoji: ':rabbit: :ok: :honeybee:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':ok:'
+- ':honeybee:'
+oomp_word_list:
+- rabbit
+- ok
+- honeybee
+part_number: ''
+size: tray
+type: part

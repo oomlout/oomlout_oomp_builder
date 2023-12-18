@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_18
+directory: parts/oobb_part_tray_thin_11_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_18
+id: oobb_part_tray_thin_11_1d5_18
+id_no_class: part_tray_thin_11_1d5_18
+id_no_color: 111d518
+id_no_size: 11_1d5_18
+id_no_type: tray_thin_11_1d5_18
+manufacturer: ''
+md5: f177f242fa59e07a8a428f91e44931be
+md5_10: f177f242fa
+md5_10_upper: F177F242FA
+md5_5: f177f
+md5_5_upper: F177F
+md5_6: f177f2
+md5_6_alpha: 9f6k2
+md5_6_alpha_upper: 9F6K2
+md5_6_upper: F177F2
+name: Oobb Part Tray Thin 11 1D5 18
+name_no_class: Part Tray Thin 11 1D5 18
+name_no_color: 111D518
+name_no_size: 11 1D5 18
+name_no_type: Tray Thin 11 1D5 18
+oomp_key: oomp_oobb_part_tray_thin_11_1d5_18
+oomp_word: ticket gift one
+oomp_word_emoji: ':ticket: :gift: :one:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':gift:'
+- ':one:'
+oomp_word_list:
+- ticket
+- gift
+- one
+part_number: ''
+size: tray_thin
+type: part

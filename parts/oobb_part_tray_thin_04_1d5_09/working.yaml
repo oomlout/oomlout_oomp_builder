@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_1d5_09
+directory: parts/oobb_part_tray_thin_04_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_1d5_09
+id: oobb_part_tray_thin_04_1d5_09
+id_no_class: part_tray_thin_04_1d5_09
+id_no_color: 041d509
+id_no_size: 04_1d5_09
+id_no_type: tray_thin_04_1d5_09
+manufacturer: ''
+md5: baf0ca5ac7f65d52cca10be5edd73f5c
+md5_10: baf0ca5ac7
+md5_10_upper: BAF0CA5AC7
+md5_5: baf0c
+md5_5_upper: BAF0C
+md5_6: baf0ca
+md5_6_alpha: 7al6y
+md5_6_alpha_upper: 7AL6Y
+md5_6_upper: BAF0CA
+name: Oobb Part Tray Thin 04 1D5 09
+name_no_class: Part Tray Thin 04 1D5 09
+name_no_color: 041D509
+name_no_size: 04 1D5 09
+name_no_type: Tray Thin 04 1D5 09
+oomp_key: oomp_oobb_part_tray_thin_04_1d5_09
+oomp_word: spaghetti train cherries
+oomp_word_emoji: ':spaghetti: :train: :cherries:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':train:'
+- ':cherries:'
+oomp_word_list:
+- spaghetti
+- train
+- cherries
+part_number: ''
+size: tray_thin
+type: part

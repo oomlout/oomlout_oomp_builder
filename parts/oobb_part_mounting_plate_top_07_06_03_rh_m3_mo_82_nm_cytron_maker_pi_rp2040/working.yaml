@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+directory: parts/oobb_part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+id: oobb_part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+id_no_class: part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+id_no_color: 070603rhm3mo82nmcytronmakerpirp2040
+id_no_size: 07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+id_no_type: mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+manufacturer: ''
+md5: e0016359bdfdc9c9954bb6c8e8be1dbb
+md5_10: e0016359bd
+md5_10_upper: E0016359BD
+md5_5: e0016
+md5_5_upper: E0016
+md5_6: e00163
+md5_6_alpha: 8qnhf
+md5_6_alpha_upper: 8QNHF
+md5_6_upper: E00163
+name: Oobb Part Mounting Plate Top 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040
+name_no_class: Part Mounting Plate Top 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040
+name_no_color: 070603Rhm3Mo82Nmcytronmakerpirp2040
+name_no_size: 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040
+name_no_type: Mounting Plate Top 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040
+oomp_key: oomp_oobb_part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
+oomp_word: ship smile rose
+oomp_word_emoji: ':ship: :smile: :rose:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':smile:'
+- ':rose:'
+oomp_word_list:
+- ship
+- smile
+- rose
+part_number: ''
+size: mounting_plate_top
+type: part

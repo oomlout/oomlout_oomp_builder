@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x40_80_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+id_no_color: 2x4080pinthroughholerightangle
+id_no_size: 2x40_80_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+manufacturer: ''
+md5: 4fc45befc864400075d9febd04daf7c0
+md5_10: 4fc45befc8
+md5_10_upper: 4FC45BEFC8
+md5_5: 4fc45
+md5_5_upper: 4FC45
+md5_6: 4fc45b
+md5_6_alpha: 341nf
+md5_6_alpha_upper: 341NF
+md5_6_upper: 4FC45B
+name: Electronic Header 2 54 Mm Dual Row 2X40 80 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X40 80 Pin Through Hole Right Angle
+name_no_color: 2X4080Pinthroughholerightangle
+name_no_size: 2X40 80 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X40 80 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
+oomp_word: ant cookie rooster
+oomp_word_emoji: ':ant: :cookie: :rooster:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':cookie:'
+- ':rooster:'
+oomp_word_list:
+- ant
+- cookie
+- rooster
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

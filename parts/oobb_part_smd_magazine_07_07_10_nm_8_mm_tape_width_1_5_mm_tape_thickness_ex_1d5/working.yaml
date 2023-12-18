@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+directory: parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id: oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_class: part_smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_color: 070710nm8mmtapewidth15mmtapethicknessex1d5
+id_no_size: 07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+id_no_type: smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+manufacturer: ''
+md5: e8011accefaee546d07e0c3f42391422
+md5_10: e8011accef
+md5_10_upper: E8011ACCEF
+md5_5: e8011
+md5_5_upper: E8011
+md5_6: e8011a
+md5_6_alpha: 91vyy
+md5_6_alpha_upper: 91VYY
+md5_6_upper: E8011A
+name: Oobb Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex
+  1D5
+name_no_class: Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness
+  Ex 1D5
+name_no_color: 070710Nm8Mmtapewidth15Mmtapethicknessex1D5
+name_no_size: 07 07 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+name_no_type: Smd Magazine 07 07 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness Ex 1D5
+oomp_key: oomp_oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_1_5_mm_tape_thickness_ex_1d5
+oomp_word: tram smile clap
+oomp_word_emoji: ':tram: :smile: :clap:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':smile:'
+- ':clap:'
+oomp_word_list:
+- tram
+- smile
+- clap
+part_number: ''
+size: smd_magazine
+type: part

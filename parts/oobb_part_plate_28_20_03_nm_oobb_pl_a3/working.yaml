@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 28_20_03_nm_oobb_pl_a3
+directory: parts/oobb_part_plate_28_20_03_nm_oobb_pl_a3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_28_20_03_nm_oobb_pl_a3
+id: oobb_part_plate_28_20_03_nm_oobb_pl_a3
+id_no_class: part_plate_28_20_03_nm_pl_a3
+id_no_color: 282003nmpla3
+id_no_size: 28_20_03_nm_pl_a3
+id_no_type: plate_28_20_03_nm_pl_a3
+manufacturer: ''
+md5: 61eac04e857841655c1c4a57507005be
+md5_10: 61eac04e85
+md5_10_upper: 61EAC04E85
+md5_5: 61eac
+md5_5_upper: 61EAC
+md5_6: 61eac0
+md5_6_alpha: 3tjgg
+md5_6_alpha_upper: 3TJGG
+md5_6_upper: 61EAC0
+name: Oobb Part Plate 28 20 03 Nm Oobb Pl A3
+name_no_class: Part Plate 28 20 03 Nm Pl A3
+name_no_color: 282003Nmpla3
+name_no_size: 28 20 03 Nm Pl A3
+name_no_type: Plate 28 20 03 Nm Pl A3
+oomp_key: oomp_oobb_part_plate_28_20_03_nm_oobb_pl_a3
+oomp_word: bouquet tractor bread
+oomp_word_emoji: ':bouquet: :tractor: :bread:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':tractor:'
+- ':bread:'
+oomp_word_list:
+- bouquet
+- tractor
+- bread
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_04_15'
+directory: parts/oobb_part_tray_thin_04_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_04_15
+id: oobb_part_tray_thin_04_04_15
+id_no_class: part_tray_thin_04_04_15
+id_no_color: '040415'
+id_no_size: '04_04_15'
+id_no_type: tray_thin_04_04_15
+manufacturer: ''
+md5: cc82bd89d54d4f6ff377aae08101ad42
+md5_10: cc82bd89d5
+md5_10_upper: CC82BD89D5
+md5_5: cc82b
+md5_5_upper: CC82B
+md5_6: cc82bd
+md5_6_alpha: 7z9od
+md5_6_alpha_upper: 7Z9OD
+md5_6_upper: CC82BD
+name: Oobb Part Tray Thin 04 04 15
+name_no_class: Part Tray Thin 04 04 15
+name_no_color: '040415'
+name_no_size: 04 04 15
+name_no_type: Tray Thin 04 04 15
+oomp_key: oomp_oobb_part_tray_thin_04_04_15
+oomp_word: watermelon radio rice
+oomp_word_emoji: ':watermelon: :radio: :rice:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':radio:'
+- ':rice:'
+oomp_word_list:
+- watermelon
+- radio
+- rice
+part_number: ''
+size: tray_thin
+type: part

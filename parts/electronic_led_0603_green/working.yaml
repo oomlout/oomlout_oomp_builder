@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_green
+id: electronic_led_0603_green
+id_no_class: led_0603_green
+id_no_color: green
+id_no_size: green
+id_no_type: 0603_green
+manufacturer: ''
+md5: b4e8235ce213fd0badfc8ca2c6c558de
+md5_10: b4e8235ce2
+md5_10_upper: B4E8235CE2
+md5_5: b4e82
+md5_5_upper: B4E82
+md5_6: b4e823
+md5_6_alpha: 7242r
+md5_6_alpha_upper: 7242R
+md5_6_upper: B4E823
+name: Electronic Led 0603 Green
+name_no_class: Led 0603 Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 0603 Green
+oomp_key: oomp_electronic_led_0603_green
+oomp_word: coffee tram kiss
+oomp_word_emoji: ':coffee: :tram: :kiss:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':tram:'
+- ':kiss:'
+oomp_word_list:
+- coffee
+- tram
+- kiss
+part_number: ''
+size: '0603'
+type: led

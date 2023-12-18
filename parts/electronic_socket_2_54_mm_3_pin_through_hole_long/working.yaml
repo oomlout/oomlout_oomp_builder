@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 3_pin
+directory: parts/electronic_socket_2_54_mm_3_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_3_pin_through_hole_long
+id: electronic_socket_2_54_mm_3_pin_through_hole_long
+id_no_class: socket_2_54_mm_3_pin_through_hole_long
+id_no_color: 3pinthroughholelong
+id_no_size: 3_pin_through_hole_long
+id_no_type: 2_54_mm_3_pin_through_hole_long
+manufacturer: ''
+md5: 75c7179ce908fa9411330c2a9e98b7d3
+md5_10: 75c7179ce9
+md5_10_upper: 75C7179CE9
+md5_5: 75c71
+md5_5_upper: 75C71
+md5_6: 75c717
+md5_6_alpha: 4lfrr
+md5_6_alpha_upper: 4LFRR
+md5_6_upper: 75C717
+name: Electronic Socket 2 54 Mm 3 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 3 Pin Through Hole Long
+name_no_color: 3Pinthroughholelong
+name_no_size: 3 Pin Through Hole Long
+name_no_type: 2 54 Mm 3 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_3_pin_through_hole_long
+oomp_word: ghost honey_pot thumbsdown
+oomp_word_emoji: ':ghost: :honey_pot: :thumbsdown:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':honey_pot:'
+- ':thumbsdown:'
+oomp_word_list:
+- ghost
+- honey_pot
+- thumbsdown
+part_number: ''
+size: 2_54_mm
+type: socket

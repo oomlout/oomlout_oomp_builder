@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_10_12'
+directory: parts/oobb_part_tray_01_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_10_12
+id: oobb_part_tray_01_10_12
+id_no_class: part_tray_01_10_12
+id_no_color: '011012'
+id_no_size: '01_10_12'
+id_no_type: tray_01_10_12
+manufacturer: ''
+md5: b3f508b397ec0d962629c5c97a4c161a
+md5_10: b3f508b397
+md5_10_upper: B3F508B397
+md5_5: b3f50
+md5_5_upper: B3F50
+md5_6: b3f508
+md5_6_alpha: 70s20
+md5_6_alpha_upper: 70S20
+md5_6_upper: B3F508
+name: Oobb Part Tray 01 10 12
+name_no_class: Part Tray 01 10 12
+name_no_color: '011012'
+name_no_size: 01 10 12
+name_no_type: Tray 01 10 12
+oomp_key: oomp_oobb_part_tray_01_10_12
+oomp_word: eyeglasses four scream
+oomp_word_emoji: ':eyeglasses: :four: :scream:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':four:'
+- ':scream:'
+oomp_word_list:
+- eyeglasses
+- four
+- scream
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+directory: parts/oobb_part_tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+id: oobb_part_tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+id_no_class: part_tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+id_no_color: 030520extoolscrewdriverhexm2wera60mm
+id_no_size: 03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+id_no_type: tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+manufacturer: ''
+md5: 8dd66396996653db7edd6d0f9c0979ff
+md5_10: 8dd6639699
+md5_10_upper: 8DD6639699
+md5_5: 8dd66
+md5_5_upper: 8DD66
+md5_6: 8dd663
+md5_6_alpha: 5j8f7
+md5_6_alpha_upper: 5J8F7
+md5_6_upper: 8DD663
+name: Oobb Part Tool Holder Vertical 03 05 20 Ex Tool Screwdriver Hex M2 Wera 60 Mm
+name_no_class: Part Tool Holder Vertical 03 05 20 Ex Tool Screwdriver Hex M2 Wera
+  60 Mm
+name_no_color: 030520Extoolscrewdriverhexm2Wera60Mm
+name_no_size: 03 05 20 Ex Tool Screwdriver Hex M2 Wera 60 Mm
+name_no_type: Tool Holder Vertical 03 05 20 Ex Tool Screwdriver Hex M2 Wera 60 Mm
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_20_ex_tool_screwdriver_hex_m2_wera_60_mm
+oomp_word: scroll school rose
+oomp_word_emoji: ':scroll: :school: :rose:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':school:'
+- ':rose:'
+oomp_word_list:
+- scroll
+- school
+- rose
+part_number: ''
+size: tool_holder_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_07_12
+directory: parts/oobb_part_tray_vertical_08_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_07_12
+id: oobb_part_tray_vertical_08_07_12
+id_no_class: part_tray_vertical_08_07_12
+id_no_color: 080712
+id_no_size: 08_07_12
+id_no_type: tray_vertical_08_07_12
+manufacturer: ''
+md5: db62bee1612d8212823ef1494497b959
+md5_10: db62bee161
+md5_10_upper: DB62BEE161
+md5_5: db62b
+md5_5_upper: DB62B
+md5_6: db62be
+md5_6_alpha: 8k5vi
+md5_6_alpha_upper: 8K5VI
+md5_6_upper: DB62BE
+name: Oobb Part Tray Vertical 08 07 12
+name_no_class: Part Tray Vertical 08 07 12
+name_no_color: 080712
+name_no_size: 08 07 12
+name_no_type: Tray Vertical 08 07 12
+oomp_key: oomp_oobb_part_tray_vertical_08_07_12
+oomp_word: tent tulip ramen
+oomp_word_emoji: ':tent: :tulip: :ramen:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':tulip:'
+- ':ramen:'
+oomp_word_list:
+- tent
+- tulip
+- ramen
+part_number: ''
+size: tray_vertical
+type: part

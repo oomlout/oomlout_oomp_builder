@@ -1,0 +1,40 @@
+classification: hardware
+color: F604_size
+description_extra: ''
+description_main: 4_mm_id_12_mm_od_4_mm_depth
+directory: parts/hardware_bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+id: hardware_bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_class: bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_color: 4_mm_id_12_mm_od_4_mm_depth
+id_no_size: F604_size_4_mm_id_12_mm_od_4_mm_depth
+id_no_type: F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+manufacturer: ''
+md5: 561424a6b2794d379f120271b97b0223
+md5_10: 561424a6b2
+md5_10_upper: 561424A6B2
+md5_5: '56142'
+md5_5_upper: '56142'
+md5_6: '561424'
+md5_6_alpha: 3cwtg
+md5_6_alpha_upper: 3CWTG
+md5_6_upper: '561424'
+name: Hardware Bearing F600 Series F604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_class: Bearing F600 Series F604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_color: 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_size: F604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+name_no_type: F600 Series F604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
+oomp_word: ram fire droplet
+oomp_word_emoji: ':ram: :fire: :droplet:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':fire:'
+- ':droplet:'
+oomp_word_list:
+- ram
+- fire
+- droplet
+part_number: ''
+size: F600_series
+type: bearing

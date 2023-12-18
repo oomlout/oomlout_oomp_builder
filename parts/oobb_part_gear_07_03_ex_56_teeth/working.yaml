@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_ex_56_teeth
+directory: parts/oobb_part_gear_07_03_ex_56_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03_ex_56_teeth
+id: oobb_part_gear_07_03_ex_56_teeth
+id_no_class: part_gear_07_03_ex_56_teeth
+id_no_color: 0703ex56teeth
+id_no_size: 07_03_ex_56_teeth
+id_no_type: gear_07_03_ex_56_teeth
+manufacturer: ''
+md5: 63a6d5947c0f5d0a2b106a0e320ea2d5
+md5_10: 63a6d5947c
+md5_10_upper: 63A6D5947C
+md5_5: 63a6d
+md5_5_upper: 63A6D
+md5_6: 63a6d5
+md5_6_alpha: 3vz6d
+md5_6_alpha_upper: 3VZ6D
+md5_6_upper: 63A6D5
+name: Oobb Part Gear 07 03 Ex 56 Teeth
+name_no_class: Part Gear 07 03 Ex 56 Teeth
+name_no_color: 0703Ex56Teeth
+name_no_size: 07 03 Ex 56 Teeth
+name_no_type: Gear 07 03 Ex 56 Teeth
+oomp_key: oomp_oobb_part_gear_07_03_ex_56_teeth
+oomp_word: rose trumpet house
+oomp_word_emoji: ':rose: :trumpet: :house:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':trumpet:'
+- ':house:'
+oomp_word_list:
+- rose
+- trumpet
+- house
+part_number: ''
+size: gear
+type: part

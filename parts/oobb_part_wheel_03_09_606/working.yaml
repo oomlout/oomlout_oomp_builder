@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_09_606
+directory: parts/oobb_part_wheel_03_09_606
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606
+id: oobb_part_wheel_03_09_606
+id_no_class: part_wheel_03_09_606
+id_no_color: 0309606
+id_no_size: 03_09_606
+id_no_type: wheel_03_09_606
+manufacturer: ''
+md5: f4fd352cf5132937f875df96204a8c47
+md5_10: f4fd352cf5
+md5_10_upper: F4FD352CF5
+md5_5: f4fd3
+md5_5_upper: F4FD3
+md5_6: f4fd35
+md5_6_alpha: 9k4l1
+md5_6_alpha_upper: 9K4L1
+md5_6_upper: F4FD35
+name: Oobb Part Wheel 03 09 606
+name_no_class: Part Wheel 03 09 606
+name_no_color: 0309606
+name_no_size: 03 09 606
+name_no_type: Wheel 03 09 606
+oomp_key: oomp_oobb_part_wheel_03_09_606
+oomp_word: three parking hamster
+oomp_word_emoji: ':three: :parking: :hamster:'
+oomp_word_emoji_list:
+- ':three:'
+- ':parking:'
+- ':hamster:'
+oomp_word_list:
+- three
+- parking
+- hamster
+part_number: ''
+size: wheel
+type: part

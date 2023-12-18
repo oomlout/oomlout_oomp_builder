@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_06_ex_motor_stepper
+directory: parts/oobb_part_wire_03_03_06_ex_motor_stepper
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_motor_stepper
+id: oobb_part_wire_03_03_06_ex_motor_stepper
+id_no_class: part_wire_03_03_06_ex_motor_stepper
+id_no_color: 030306exmotorstepper
+id_no_size: 03_03_06_ex_motor_stepper
+id_no_type: wire_03_03_06_ex_motor_stepper
+manufacturer: ''
+md5: 92c1756e536af9a8ed39c7554e41a1b4
+md5_10: 92c1756e53
+md5_10_upper: 92C1756E53
+md5_5: 92c17
+md5_5_upper: 92C17
+md5_6: 92c175
+md5_6_alpha: 5q54l
+md5_6_alpha_upper: 5Q54L
+md5_6_upper: 92C175
+name: Oobb Part Wire 03 03 06 Ex Motor Stepper
+name_no_class: Part Wire 03 03 06 Ex Motor Stepper
+name_no_color: 030306Exmotorstepper
+name_no_size: 03 03 06 Ex Motor Stepper
+name_no_type: Wire 03 03 06 Ex Motor Stepper
+oomp_key: oomp_oobb_part_wire_03_03_06_ex_motor_stepper
+oomp_word: paperclip doughnut ghost
+oomp_word_emoji: ':paperclip: :doughnut: :ghost:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':doughnut:'
+- ':ghost:'
+oomp_word_list:
+- paperclip
+- doughnut
+- ghost
+part_number: ''
+size: wire
+type: part

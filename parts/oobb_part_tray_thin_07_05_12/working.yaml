@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_05_12'
+directory: parts/oobb_part_tray_thin_07_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_05_12
+id: oobb_part_tray_thin_07_05_12
+id_no_class: part_tray_thin_07_05_12
+id_no_color: '070512'
+id_no_size: '07_05_12'
+id_no_type: tray_thin_07_05_12
+manufacturer: ''
+md5: a2149d50708f3dc5c4c2146a3173d4bb
+md5_10: a2149d5070
+md5_10_upper: A2149D5070
+md5_5: a2149
+md5_5_upper: A2149
+md5_6: a2149d
+md5_6_alpha: 6bo2l
+md5_6_alpha_upper: 6BO2L
+md5_6_upper: A2149D
+name: Oobb Part Tray Thin 07 05 12
+name_no_class: Part Tray Thin 07 05 12
+name_no_color: '070512'
+name_no_size: 07 05 12
+name_no_type: Tray Thin 07 05 12
+oomp_key: oomp_oobb_part_tray_thin_07_05_12
+oomp_word: violin fire hearts
+oomp_word_emoji: ':violin: :fire: :hearts:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':fire:'
+- ':hearts:'
+oomp_word_list:
+- violin
+- fire
+- hearts
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: smd
+directory: parts/electronic_nettie_2_nets_smd
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_smd
+id: electronic_nettie_2_nets_smd
+id_no_class: nettie_2_nets_smd
+id_no_color: smd
+id_no_size: smd
+id_no_type: 2_nets_smd
+manufacturer: ''
+md5: 4ef35d1f2d790456123942109a5f27e9
+md5_10: 4ef35d1f2d
+md5_10_upper: 4EF35D1F2D
+md5_5: 4ef35
+md5_5_upper: 4EF35
+md5_6: 4ef35d
+md5_6_alpha: 32wd9
+md5_6_alpha_upper: 32WD9
+md5_6_upper: 4EF35D
+name: Electronic Nettie 2 Nets Smd
+name_no_class: Nettie 2 Nets Smd
+name_no_color: Smd
+name_no_size: Smd
+name_no_type: 2 Nets Smd
+oomp_key: oomp_electronic_nettie_2_nets_smd
+oomp_word: honeybee two blowfish
+oomp_word_emoji: ':honeybee: :two: :blowfish:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':two:'
+- ':blowfish:'
+oomp_word_list:
+- honeybee
+- two
+- blowfish
+part_number: ''
+size: 2_nets
+type: nettie

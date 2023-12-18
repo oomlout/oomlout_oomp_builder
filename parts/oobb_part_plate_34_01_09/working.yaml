@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '34_01_09'
+directory: parts/oobb_part_plate_34_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_34_01_09
+id: oobb_part_plate_34_01_09
+id_no_class: part_plate_34_01_09
+id_no_color: '340109'
+id_no_size: '34_01_09'
+id_no_type: plate_34_01_09
+manufacturer: ''
+md5: e1b55f665597c0fa0c831e40a9c14ec5
+md5_10: e1b55f6655
+md5_10_upper: E1B55F6655
+md5_5: e1b55
+md5_5_upper: E1B55
+md5_6: e1b55f
+md5_6_alpha: 8t1lr
+md5_6_alpha_upper: 8T1LR
+md5_6_upper: E1B55F
+name: Oobb Part Plate 34 01 09
+name_no_class: Part Plate 34 01 09
+name_no_color: '340109'
+name_no_size: 34 01 09
+name_no_type: Plate 34 01 09
+oomp_key: oomp_oobb_part_plate_34_01_09
+oomp_word: boat tea leopard
+oomp_word_emoji: ':boat: :tea: :leopard:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':tea:'
+- ':leopard:'
+oomp_word_list:
+- boat
+- tea
+- leopard
+part_number: ''
+size: plate
+type: part

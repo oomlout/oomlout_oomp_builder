@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x17_34_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x17_34_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_34_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x17_34_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x17_34_pin_through_hole
+id_no_color: 2x1734pinthroughhole
+id_no_size: 2x17_34_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x17_34_pin_through_hole
+manufacturer: ''
+md5: 547301399b8b33ab701a88b958925390
+md5_10: 547301399b
+md5_10_upper: 547301399B
+md5_5: '54730'
+md5_5_upper: '54730'
+md5_6: '547301'
+md5_6_alpha: 3amf5
+md5_6_alpha_upper: 3AMF5
+md5_6_upper: '547301'
+name: Electronic Header 2 54 Mm Dual Row 2X17 34 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X17 34 Pin Through Hole
+name_no_color: 2X1734Pinthroughhole
+name_no_size: 2X17 34 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X17 34 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x17_34_pin_through_hole
+oomp_word: whale flags smile
+oomp_word_emoji: ':whale: :flags: :smile:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':flags:'
+- ':smile:'
+oomp_word_list:
+- whale
+- flags
+- smile
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

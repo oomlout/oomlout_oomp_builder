@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12'
+directory: parts/oobb_part_shaft_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12
+id: oobb_part_shaft_12
+id_no_class: part_shaft_12
+id_no_color: '12'
+id_no_size: '12'
+id_no_type: shaft_12
+manufacturer: ''
+md5: ab0ab7e96679a88aca4848307601530a
+md5_10: ab0ab7e966
+md5_10_upper: AB0AB7E966
+md5_5: ab0ab
+md5_5_upper: AB0AB
+md5_6: ab0ab7
+md5_6_alpha: 6o987
+md5_6_alpha_upper: 6O987
+md5_6_upper: AB0AB7
+name: Oobb Part Shaft 12
+name_no_class: Part Shaft 12
+name_no_color: '12'
+name_no_size: '12'
+name_no_type: Shaft 12
+oomp_key: oomp_oobb_part_shaft_12
+oomp_word: boot sleepy pizza
+oomp_word_emoji: ':boot: :sleepy: :pizza:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':sleepy:'
+- ':pizza:'
+oomp_word_list:
+- boot
+- sleepy
+- pizza
+part_number: ''
+size: shaft
+type: part

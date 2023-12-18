@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_09
+directory: parts/oobb_part_plate_07_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_09
+id: oobb_part_plate_07_01_09
+id_no_class: part_plate_07_01_09
+id_no_color: 070109
+id_no_size: 07_01_09
+id_no_type: plate_07_01_09
+manufacturer: ''
+md5: 9917b6001b27f48013719b0ad49de2bc
+md5_10: 9917b6001b
+md5_10_upper: 9917B6001B
+md5_5: 9917b
+md5_5_upper: 9917B
+md5_6: 9917b6
+md5_6_alpha: 5z1km
+md5_6_alpha_upper: 5Z1KM
+md5_6_upper: 9917B6
+name: Oobb Part Plate 07 01 09
+name_no_class: Part Plate 07 01 09
+name_no_color: 070109
+name_no_size: 07 01 09
+name_no_type: Plate 07 01 09
+oomp_key: oomp_oobb_part_plate_07_01_09
+oomp_word: bowling thumbsdown beer
+oomp_word_emoji: ':bowling: :thumbsdown: :beer:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':thumbsdown:'
+- ':beer:'
+oomp_word_list:
+- bowling
+- thumbsdown
+- beer
+part_number: ''
+size: plate
+type: part

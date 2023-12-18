@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_09
+directory: parts/oobb_part_smd_magazine_joiner_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09
+id: oobb_part_smd_magazine_joiner_07_09
+id_no_class: part_smd_magazine_joiner_07_09
+id_no_color: 0709
+id_no_size: 07_09
+id_no_type: smd_magazine_joiner_07_09
+manufacturer: ''
+md5: b82f7e57ab02d1de5521b53d3d9df3c3
+md5_10: b82f7e57ab
+md5_10_upper: B82F7E57AB
+md5_5: b82f7
+md5_5_upper: B82F7
+md5_6: b82f7e
+md5_6_alpha: 76pvi
+md5_6_alpha_upper: 76PVI
+md5_6_upper: B82F7E
+name: Oobb Part Smd Magazine Joiner 07 09
+name_no_class: Part Smd Magazine Joiner 07 09
+name_no_color: 0709
+name_no_size: 07 09
+name_no_type: Smd Magazine Joiner 07 09
+oomp_key: oomp_oobb_part_smd_magazine_joiner_07_09
+oomp_word: hamburger cyclone fax
+oomp_word_emoji: ':hamburger: :cyclone: :fax:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':cyclone:'
+- ':fax:'
+oomp_word_list:
+- hamburger
+- cyclone
+- fax
+part_number: ''
+size: smd_magazine_joiner
+type: part

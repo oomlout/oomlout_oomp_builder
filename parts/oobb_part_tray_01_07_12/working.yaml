@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_07_12'
+directory: parts/oobb_part_tray_01_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_07_12
+id: oobb_part_tray_01_07_12
+id_no_class: part_tray_01_07_12
+id_no_color: '010712'
+id_no_size: '01_07_12'
+id_no_type: tray_01_07_12
+manufacturer: ''
+md5: 79ffec06d0f715f67e40789a18d22031
+md5_10: 79ffec06d0
+md5_10_upper: 79FFEC06D0
+md5_5: 79ffe
+md5_5_upper: 79FFE
+md5_6: 79ffec
+md5_6_alpha: 4rd9o
+md5_6_alpha_upper: 4RD9O
+md5_6_upper: 79FFEC
+name: Oobb Part Tray 01 07 12
+name_no_class: Part Tray 01 07 12
+name_no_color: '010712'
+name_no_size: 01 07 12
+name_no_type: Tray 01 07 12
+oomp_key: oomp_oobb_part_tray_01_07_12
+oomp_word: balloon trident taxi
+oomp_word_emoji: ':balloon: :trident: :taxi:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':trident:'
+- ':taxi:'
+oomp_word_list:
+- balloon
+- trident
+- taxi
+part_number: ''
+size: tray
+type: part

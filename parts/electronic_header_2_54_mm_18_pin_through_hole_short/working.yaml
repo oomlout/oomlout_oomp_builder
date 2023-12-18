@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 18_pin
+directory: parts/electronic_header_2_54_mm_18_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_through_hole_short
+id: electronic_header_2_54_mm_18_pin_through_hole_short
+id_no_class: header_2_54_mm_18_pin_through_hole_short
+id_no_color: 18pinthroughholeshort
+id_no_size: 18_pin_through_hole_short
+id_no_type: 2_54_mm_18_pin_through_hole_short
+manufacturer: ''
+md5: d7888b5676e6b87810bfcfb11f312a4e
+md5_10: d7888b5676
+md5_10_upper: D7888B5676
+md5_5: d7888
+md5_5_upper: D7888
+md5_6: d7888b
+md5_6_alpha: 8er2j
+md5_6_alpha_upper: 8ER2J
+md5_6_upper: D7888B
+name: Electronic Header 2 54 Mm 18 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 18 Pin Through Hole Short
+name_no_color: 18Pinthroughholeshort
+name_no_size: 18 Pin Through Hole Short
+name_no_type: 2 54 Mm 18 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_18_pin_through_hole_short
+oomp_word: office wrench door
+oomp_word_emoji: ':office: :wrench: :door:'
+oomp_word_emoji_list:
+- ':office:'
+- ':wrench:'
+- ':door:'
+oomp_word_list:
+- office
+- wrench
+- door
+part_number: ''
+size: 2_54_mm
+type: header

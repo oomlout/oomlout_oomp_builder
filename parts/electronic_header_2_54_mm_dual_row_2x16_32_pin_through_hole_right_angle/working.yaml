@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x16_32_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+id_no_color: 2x1632pinthroughholerightangle
+id_no_size: 2x16_32_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+manufacturer: ''
+md5: 81a7dd4c5a1c73cb200f9006ba574c56
+md5_10: 81a7dd4c5a
+md5_10_upper: 81A7DD4C5A
+md5_5: 81a7d
+md5_5_upper: 81A7D
+md5_6: 81a7dd
+md5_6_alpha: 524f1
+md5_6_alpha_upper: 524F1
+md5_6_upper: 81A7DD
+name: Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole Right Angle
+name_no_color: 2X1632Pinthroughholerightangle
+name_no_size: 2X16 32 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X16 32 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole_right_angle
+oomp_word: watch guitar stars
+oomp_word_emoji: ':watch: :guitar: :stars:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':guitar:'
+- ':stars:'
+oomp_word_list:
+- watch
+- guitar
+- stars
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '17_17_03'
+directory: parts/oobb_part_plate_17_17_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_17_17_03
+id: oobb_part_plate_17_17_03
+id_no_class: part_plate_17_17_03
+id_no_color: '171703'
+id_no_size: '17_17_03'
+id_no_type: plate_17_17_03
+manufacturer: ''
+md5: 5a7605007b664b6827d219ac8b995a47
+md5_10: 5a7605007b
+md5_10_upper: 5A7605007B
+md5_5: 5a760
+md5_5_upper: 5A760
+md5_6: 5a7605
+md5_6_alpha: 3j2f9
+md5_6_alpha_upper: 3J2F9
+md5_6_upper: 5A7605
+name: Oobb Part Plate 17 17 03
+name_no_class: Part Plate 17 17 03
+name_no_color: '171703'
+name_no_size: 17 17 03
+name_no_type: Plate 17 17 03
+oomp_key: oomp_oobb_part_plate_17_17_03
+oomp_word: goat santa kissing
+oomp_word_emoji: ':goat: :santa: :kissing:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':santa:'
+- ':kissing:'
+oomp_word_list:
+- goat
+- santa
+- kissing
+part_number: ''
+size: plate
+type: part

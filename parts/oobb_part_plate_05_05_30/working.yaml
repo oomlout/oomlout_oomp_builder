@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_30'
+directory: parts/oobb_part_plate_05_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_30
+id: oobb_part_plate_05_05_30
+id_no_class: part_plate_05_05_30
+id_no_color: '050530'
+id_no_size: '05_05_30'
+id_no_type: plate_05_05_30
+manufacturer: ''
+md5: dc44773e35b694dfede04e6d211a4cf7
+md5_10: dc44773e35
+md5_10_upper: DC44773E35
+md5_5: dc447
+md5_5_upper: DC447
+md5_6: dc4477
+md5_6_alpha: 8legn
+md5_6_alpha_upper: 8LEGN
+md5_6_upper: DC4477
+name: Oobb Part Plate 05 05 30
+name_no_class: Part Plate 05 05 30
+name_no_color: '050530'
+name_no_size: 05 05 30
+name_no_type: Plate 05 05 30
+oomp_key: oomp_oobb_part_plate_05_05_30
+oomp_word: factory panda_face gift
+oomp_word_emoji: ':factory: :panda_face: :gift:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':panda_face:'
+- ':gift:'
+oomp_word_list:
+- factory
+- panda_face
+- gift
+part_number: ''
+size: plate
+type: part

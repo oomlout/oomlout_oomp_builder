@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_30'
+directory: parts/oobb_part_tray_thin_12_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_03_30
+id: oobb_part_tray_thin_12_03_30
+id_no_class: part_tray_thin_12_03_30
+id_no_color: '120330'
+id_no_size: '12_03_30'
+id_no_type: tray_thin_12_03_30
+manufacturer: ''
+md5: 7574a9d4d9daaf61e0b0947cd8e73a46
+md5_10: 7574a9d4d9
+md5_10_upper: 7574A9D4D9
+md5_5: 7574a
+md5_5_upper: 7574A
+md5_6: 7574a9
+md5_6_alpha: 4kzhl
+md5_6_alpha_upper: 4KZHL
+md5_6_upper: 7574A9
+name: Oobb Part Tray Thin 12 03 30
+name_no_class: Part Tray Thin 12 03 30
+name_no_color: '120330'
+name_no_size: 12 03 30
+name_no_type: Tray Thin 12 03 30
+oomp_key: oomp_oobb_part_tray_thin_12_03_30
+oomp_word: ghost fireworks sandal
+oomp_word_emoji: ':ghost: :fireworks: :sandal:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':fireworks:'
+- ':sandal:'
+oomp_word_list:
+- ghost
+- fireworks
+- sandal
+part_number: ''
+size: tray_thin
+type: part

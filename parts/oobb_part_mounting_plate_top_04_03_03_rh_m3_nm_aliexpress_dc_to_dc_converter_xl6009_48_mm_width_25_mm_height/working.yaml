@@ -1,0 +1,44 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+directory: parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id: oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_class: part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_color: 040303rhm3nmaliexpressdctodcconverterxl600948mmwidth25mmheight
+id_no_size: 04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_type: mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+manufacturer: ''
+md5: 9f010127445a5843f98b11a1adbf724b
+md5_10: 9f01012744
+md5_10_upper: 9F01012744
+md5_5: 9f010
+md5_5_upper: 9F010
+md5_6: 9f0101
+md5_6_alpha: 67cht
+md5_6_alpha_upper: 67CHT
+md5_6_upper: 9F0101
+name: Oobb Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter
+  Xl6009 48 Mm Width 25 Mm Height
+name_no_class: Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter
+  Xl6009 48 Mm Width 25 Mm Height
+name_no_color: 040303Rhm3Nmaliexpressdctodcconverterxl600948Mmwidth25Mmheight
+name_no_size: 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25
+  Mm Height
+name_no_type: Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009
+  48 Mm Width 25 Mm Height
+oomp_key: oomp_oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+oomp_word: diamonds smile smile
+oomp_word_emoji: ':diamonds: :smile: :smile:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':smile:'
+- ':smile:'
+oomp_word_list:
+- diamonds
+- smile
+- smile
+part_number: ''
+size: mounting_plate_top
+type: part

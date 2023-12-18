@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 10_micro_farad
+directory: parts/electronic_capacitor_0603_10_micro_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad
+id: electronic_capacitor_0603_10_micro_farad
+id_no_class: capacitor_0603_10_micro_farad
+id_no_color: 10microfarad
+id_no_size: 10_micro_farad
+id_no_type: 0603_10_micro_farad
+manufacturer: ''
+md5: 01a6930e31d97cf8bcaabfe951e94821
+md5_10: 01a6930e31
+md5_10_upper: 01A6930E31
+md5_5: 01a69
+md5_5_upper: 01A69
+md5_6: 01a693
+md5_6_alpha: 2bgz
+md5_6_alpha_upper: 2BGZ
+md5_6_upper: 01A693
+name: Electronic Capacitor 0603 10 Micro Farad
+name_no_class: Capacitor 0603 10 Micro Farad
+name_no_color: 10Microfarad
+name_no_size: 10 Micro Farad
+name_no_type: 0603 10 Micro Farad
+oomp_key: oomp_electronic_capacitor_0603_10_micro_farad
+oomp_word: smile trumpet books
+oomp_word_emoji: ':smile: :trumpet: :books:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':trumpet:'
+- ':books:'
+oomp_word_list:
+- smile
+- trumpet
+- books
+part_number: ''
+size: '0603'
+type: capacitor

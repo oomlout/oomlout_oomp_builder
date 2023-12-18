@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_02_03
+directory: parts/oobb_part_plate_09_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_02_03
+id: oobb_part_plate_09_02_03
+id_no_class: part_plate_09_02_03
+id_no_color: 090203
+id_no_size: 09_02_03
+id_no_type: plate_09_02_03
+manufacturer: ''
+md5: 6cb4ead576fb14406613ebb987683014
+md5_10: 6cb4ead576
+md5_10_upper: 6CB4EAD576
+md5_5: 6cb4e
+md5_5_upper: 6CB4E
+md5_6: 6cb4ea
+md5_6_alpha: 48p2i
+md5_6_alpha_upper: 48P2I
+md5_6_upper: 6CB4EA
+name: Oobb Part Plate 09 02 03
+name_no_class: Part Plate 09 02 03
+name_no_color: 090203
+name_no_size: 09 02 03
+name_no_type: Plate 09 02 03
+oomp_key: oomp_oobb_part_plate_09_02_03
+oomp_word: blossom coffee tractor
+oomp_word_emoji: ':blossom: :coffee: :tractor:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':coffee:'
+- ':tractor:'
+oomp_word_list:
+- blossom
+- coffee
+- tractor
+part_number: ''
+size: plate
+type: part

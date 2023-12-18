@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_1d5_30
+directory: parts/oobb_part_tray_vertical_05_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_1d5_30
+id: oobb_part_tray_vertical_05_1d5_30
+id_no_class: part_tray_vertical_05_1d5_30
+id_no_color: 051d530
+id_no_size: 05_1d5_30
+id_no_type: tray_vertical_05_1d5_30
+manufacturer: ''
+md5: c9154c42a87809434b6c873a714dd5e9
+md5_10: c9154c42a8
+md5_10_upper: C9154C42A8
+md5_5: c9154
+md5_5_upper: C9154
+md5_6: c9154c
+md5_6_alpha: 7ugcs
+md5_6_alpha_upper: 7UGCS
+md5_6_upper: C9154C
+name: Oobb Part Tray Vertical 05 1D5 30
+name_no_class: Part Tray Vertical 05 1D5 30
+name_no_color: 051D530
+name_no_size: 05 1D5 30
+name_no_type: Tray Vertical 05 1D5 30
+oomp_key: oomp_oobb_part_tray_vertical_05_1d5_30
+oomp_word: lemon poop turtle
+oomp_word_emoji: ':lemon: :poop: :turtle:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':poop:'
+- ':turtle:'
+oomp_word_list:
+- lemon
+- poop
+- turtle
+part_number: ''
+size: tray_vertical
+type: part

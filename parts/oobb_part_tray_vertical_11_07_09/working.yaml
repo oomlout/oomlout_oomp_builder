@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_07_09'
+directory: parts/oobb_part_tray_vertical_11_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_07_09
+id: oobb_part_tray_vertical_11_07_09
+id_no_class: part_tray_vertical_11_07_09
+id_no_color: '110709'
+id_no_size: '11_07_09'
+id_no_type: tray_vertical_11_07_09
+manufacturer: ''
+md5: 71d21e100169df7025090bc03952df1b
+md5_10: 71d21e1001
+md5_10_upper: 71D21E1001
+md5_5: 71d21
+md5_5_upper: 71D21
+md5_6: 71d21e
+md5_6_alpha: 4fvoe
+md5_6_alpha_upper: 4FVOE
+md5_6_upper: 71D21E
+name: Oobb Part Tray Vertical 11 07 09
+name_no_class: Part Tray Vertical 11 07 09
+name_no_color: '110709'
+name_no_size: 11 07 09
+name_no_type: Tray Vertical 11 07 09
+oomp_key: oomp_oobb_part_tray_vertical_11_07_09
+oomp_word: bamboo pineapple angel
+oomp_word_emoji: ':bamboo: :pineapple: :angel:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':pineapple:'
+- ':angel:'
+oomp_word_list:
+- bamboo
+- pineapple
+- angel
+part_number: ''
+size: tray_vertical
+type: part

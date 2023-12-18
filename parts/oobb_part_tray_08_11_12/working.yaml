@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_11_12
+directory: parts/oobb_part_tray_08_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_12
+id: oobb_part_tray_08_11_12
+id_no_class: part_tray_08_11_12
+id_no_color: 081112
+id_no_size: 08_11_12
+id_no_type: tray_08_11_12
+manufacturer: ''
+md5: a7905dd4d97500716c7bc84160030e26
+md5_10: a7905dd4d9
+md5_10_upper: A7905DD4D9
+md5_5: a7905
+md5_5_upper: A7905
+md5_6: a7905d
+md5_6_alpha: 6jdct
+md5_6_alpha_upper: 6JDCT
+md5_6_upper: A7905D
+name: Oobb Part Tray 08 11 12
+name_no_class: Part Tray 08 11 12
+name_no_color: 081112
+name_no_size: 08 11 12
+name_no_type: Tray 08 11 12
+oomp_key: oomp_oobb_part_tray_08_11_12
+oomp_word: guitar scissors blowfish
+oomp_word_emoji: ':guitar: :scissors: :blowfish:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':scissors:'
+- ':blowfish:'
+oomp_word_list:
+- guitar
+- scissors
+- blowfish
+part_number: ''
+size: tray
+type: part

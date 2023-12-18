@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_12
+directory: parts/oobb_part_circle_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_1d5_12
+id: oobb_part_circle_1d5_12
+id_no_class: part_circle_1d5_12
+id_no_color: 1d512
+id_no_size: 1d5_12
+id_no_type: circle_1d5_12
+manufacturer: ''
+md5: 6f1e934909eff332f54fbef20132ccc7
+md5_10: 6f1e934909
+md5_10_upper: 6F1E934909
+md5_5: 6f1e9
+md5_5_upper: 6F1E9
+md5_6: 6f1e93
+md5_6_alpha: 4c32r
+md5_6_alpha_upper: 4C32R
+md5_6_upper: 6F1E93
+name: Oobb Part Circle 1D5 12
+name_no_class: Part Circle 1D5 12
+name_no_color: 1D512
+name_no_size: 1D5 12
+name_no_type: Circle 1D5 12
+oomp_key: oomp_oobb_part_circle_1d5_12
+oomp_word: moon angel books
+oomp_word_emoji: ':moon: :angel: :books:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':angel:'
+- ':books:'
+oomp_word_list:
+- moon
+- angel
+- books
+part_number: ''
+size: circle
+type: part

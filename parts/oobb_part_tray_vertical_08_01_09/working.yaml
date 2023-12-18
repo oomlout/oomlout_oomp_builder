@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_09
+directory: parts/oobb_part_tray_vertical_08_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_01_09
+id: oobb_part_tray_vertical_08_01_09
+id_no_class: part_tray_vertical_08_01_09
+id_no_color: 080109
+id_no_size: 08_01_09
+id_no_type: tray_vertical_08_01_09
+manufacturer: ''
+md5: 97b9cade8a63963e82baa3b3ef78faa4
+md5_10: 97b9cade8a
+md5_10_upper: 97B9CADE8A
+md5_5: 97b9c
+md5_5_upper: 97B9C
+md5_6: 97b9ca
+md5_6_alpha: 5x4ga
+md5_6_alpha_upper: 5X4GA
+md5_6_upper: 97B9CA
+name: Oobb Part Tray Vertical 08 01 09
+name_no_class: Part Tray Vertical 08 01 09
+name_no_color: 080109
+name_no_size: 08 01 09
+name_no_type: Tray Vertical 08 01 09
+oomp_key: oomp_oobb_part_tray_vertical_08_01_09
+oomp_word: baseball fries cherries
+oomp_word_emoji: ':baseball: :fries: :cherries:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':fries:'
+- ':cherries:'
+oomp_word_list:
+- baseball
+- fries
+- cherries
+part_number: ''
+size: tray_vertical
+type: part

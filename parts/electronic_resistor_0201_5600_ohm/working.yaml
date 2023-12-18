@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600_ohm
+directory: parts/electronic_resistor_0201_5600_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_5600_ohm
+id: electronic_resistor_0201_5600_ohm
+id_no_class: resistor_0201_5600_ohm
+id_no_color: 5600ohm
+id_no_size: 5600_ohm
+id_no_type: 0201_5600_ohm
+manufacturer: ''
+md5: 592e1a115978f85aef8c2ccc9afa0d8f
+md5_10: 592e1a1159
+md5_10_upper: 592E1A1159
+md5_5: 592e1
+md5_5_upper: 592E1
+md5_6: 592e1a
+md5_6_alpha: 3h9ne
+md5_6_alpha_upper: 3H9NE
+md5_6_upper: 592E1A
+name: Electronic Resistor 0201 5600 Ohm
+name_no_class: Resistor 0201 5600 Ohm
+name_no_color: 5600Ohm
+name_no_size: 5600 Ohm
+name_no_type: 0201 5600 Ohm
+oomp_key: oomp_electronic_resistor_0201_5600_ohm
+oomp_word: dragon zap clap
+oomp_word_emoji: ':dragon: :zap: :clap:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':zap:'
+- ':clap:'
+oomp_word_list:
+- dragon
+- zap
+- clap
+part_number: ''
+size: '0201'
+type: resistor

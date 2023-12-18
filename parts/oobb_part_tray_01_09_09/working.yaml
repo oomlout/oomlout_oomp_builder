@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_09
+directory: parts/oobb_part_tray_01_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_09_09
+id: oobb_part_tray_01_09_09
+id_no_class: part_tray_01_09_09
+id_no_color: 010909
+id_no_size: 01_09_09
+id_no_type: tray_01_09_09
+manufacturer: ''
+md5: efe597cf3669f1cda4140ca5177d7e6c
+md5_10: efe597cf36
+md5_10_upper: EFE597CF36
+md5_5: efe59
+md5_5_upper: EFE59
+md5_6: efe597
+md5_6_alpha: 9cz2v
+md5_6_alpha_upper: 9CZ2V
+md5_6_upper: EFE597
+name: Oobb Part Tray 01 09 09
+name_no_class: Part Tray 01 09 09
+name_no_color: 010909
+name_no_size: 01 09 09
+name_no_type: Tray 01 09 09
+oomp_key: oomp_oobb_part_tray_01_09_09
+oomp_word: truck rocket baseball
+oomp_word_emoji: ':truck: :rocket: :baseball:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':rocket:'
+- ':baseball:'
+oomp_word_list:
+- truck
+- rocket
+- baseball
+part_number: ''
+size: tray
+type: part

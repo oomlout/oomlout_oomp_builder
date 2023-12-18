@@ -1,0 +1,40 @@
+classification: hardware
+color: 693_size
+description_extra: ''
+description_main: 3_mm_id_8_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+id: hardware_bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_class: bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_color: 3_mm_id_8_mm_od_4_mm_depth
+id_no_size: 693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_type: 600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+manufacturer: ''
+md5: e185d83f8f845a123a17c8ad685f88e1
+md5_10: e185d83f8f
+md5_10_upper: E185D83F8F
+md5_5: e185d
+md5_5_upper: E185D
+md5_6: e185d8
+md5_6_alpha: 8ss7s
+md5_6_alpha_upper: 8SS7S
+md5_6_upper: E185D8
+name: Hardware Bearing 600 Series 693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_size: 693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_type: 600 Series 693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
+oomp_word: boat bulb hospital
+oomp_word_emoji: ':boat: :bulb: :hospital:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':bulb:'
+- ':hospital:'
+oomp_word_list:
+- boat
+- bulb
+- hospital
+part_number: ''
+size: 600_series
+type: bearing

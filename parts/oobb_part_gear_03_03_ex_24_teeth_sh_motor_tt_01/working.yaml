@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_ex_24_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_03_03_ex_24_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_03_ex_24_teeth_sh_motor_tt_01
+id: oobb_part_gear_03_03_ex_24_teeth_sh_motor_tt_01
+id_no_class: part_gear_03_03_ex_24_teeth_sh_motor_tt_01
+id_no_color: 0303ex24teethshmotortt01
+id_no_size: 03_03_ex_24_teeth_sh_motor_tt_01
+id_no_type: gear_03_03_ex_24_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 0a09429c5da3330a0085043a7628da93
+md5_10: 0a09429c5d
+md5_10_upper: 0A09429C5D
+md5_5: 0a094
+md5_5_upper: 0A094
+md5_6: 0a0942
+md5_6_alpha: e3ia
+md5_6_alpha_upper: E3IA
+md5_6_upper: 0A0942
+name: Oobb Part Gear 03 03 Ex 24 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 03 03 Ex 24 Teeth Sh Motor Tt 01
+name_no_color: 0303Ex24Teethshmotortt01
+name_no_size: 03 03 Ex 24 Teeth Sh Motor Tt 01
+name_no_type: Gear 03 03 Ex 24 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_03_03_ex_24_teeth_sh_motor_tt_01
+oomp_word: sleepy angry sheep
+oomp_word_emoji: ':sleepy: :angry: :sheep:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':angry:'
+- ':sheep:'
+oomp_word_list:
+- sleepy
+- angry
+- sheep
+part_number: ''
+size: gear
+type: part

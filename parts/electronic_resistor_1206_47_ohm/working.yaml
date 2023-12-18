@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 47_ohm
+directory: parts/electronic_resistor_1206_47_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47_ohm
+id: electronic_resistor_1206_47_ohm
+id_no_class: resistor_1206_47_ohm
+id_no_color: 47ohm
+id_no_size: 47_ohm
+id_no_type: 1206_47_ohm
+manufacturer: ''
+md5: fd1d4641deb5294bd8f721084de3d44e
+md5_10: fd1d4641de
+md5_10_upper: FD1D4641DE
+md5_5: fd1d4
+md5_5_upper: FD1D4
+md5_6: fd1d46
+md5_6_alpha: 9vjgm
+md5_6_alpha_upper: 9VJGM
+md5_6_upper: FD1D46
+name: Electronic Resistor 1206 47 Ohm
+name_no_class: Resistor 1206 47 Ohm
+name_no_color: 47Ohm
+name_no_size: 47 Ohm
+name_no_type: 1206 47 Ohm
+oomp_key: oomp_electronic_resistor_1206_47_ohm
+oomp_word: parking baby bird
+oomp_word_emoji: ':parking: :baby: :bird:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':baby:'
+- ':bird:'
+oomp_word_list:
+- parking
+- baby
+- bird
+part_number: ''
+size: '1206'
+type: resistor

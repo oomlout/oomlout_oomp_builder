@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_56_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_56_ohm
+id: electronic_resistor_quarter_watt_through_hole_56_ohm
+id_no_class: resistor_quarter_watt_through_hole_56_ohm
+id_no_color: 56ohm
+id_no_size: 56_ohm
+id_no_type: quarter_watt_through_hole_56_ohm
+manufacturer: ''
+md5: 5b6923439645134c5655983ef54e29e1
+md5_10: 5b69234396
+md5_10_upper: 5B69234396
+md5_5: 5b692
+md5_5_upper: 5B692
+md5_6: 5b6923
+md5_6_alpha: 3keg3
+md5_6_alpha_upper: 3KEG3
+md5_6_upper: 5B6923
+name: Electronic Resistor Quarter Watt Through Hole 56 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 56 Ohm
+name_no_color: 56Ohm
+name_no_size: 56 Ohm
+name_no_type: Quarter Watt Through Hole 56 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_56_ohm
+oomp_word: rooster cactus kiss
+oomp_word_emoji: ':rooster: :cactus: :kiss:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':cactus:'
+- ':kiss:'
+oomp_word_list:
+- rooster
+- cactus
+- kiss
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

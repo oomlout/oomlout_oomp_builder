@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 10_pin
+directory: parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_10_pin_surface_mount_right_angle
+id_no_color: 10pinsurfacemountrightangle
+id_no_size: 10_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_10_pin_surface_mount_right_angle
+manufacturer: ''
+md5: a5d918c0b8320b129ac488715bf4593a
+md5_10: a5d918c0b8
+md5_10_upper: A5D918C0B8
+md5_5: a5d91
+md5_5_upper: A5D91
+md5_6: a5d918
+md5_6_alpha: 6gyl4
+md5_6_alpha_upper: 6GYL4
+md5_6_upper: A5D918
+name: Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 10 Pin Surface Mount Right Angle
+name_no_color: 10Pinsurfacemountrightangle
+name_no_size: 10 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 10 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount_right_angle
+oomp_word: headphones bank hand
+oomp_word_emoji: ':headphones: :bank: :hand:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':bank:'
+- ':hand:'
+oomp_word_list:
+- headphones
+- bank
+- hand
+part_number: ''
+size: 1_mm_jst_sh
+type: header

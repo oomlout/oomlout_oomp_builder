@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_16_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+id_no_color: 0206ex16teethshmotorservostandard01
+id_no_size: 02_06_ex_16_teeth_sh_motor_servo_standard_01
+id_no_type: gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 04b6e47fb16dbbd3d1d0a076c440ff3b
+md5_10: 04b6e47fb1
+md5_10_upper: 04B6E47FB1
+md5_5: 04b6e
+md5_5_upper: 04B6E
+md5_6: 04b6e4
+md5_6_alpha: 6mec
+md5_6_alpha_upper: 6MEC
+md5_6_upper: 04B6E4
+name: Oobb Part Gear 02 06 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 02 06 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_color: 0206Ex16Teethshmotorservostandard01
+name_no_size: 02 06 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 02 06 Ex 16 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_02_06_ex_16_teeth_sh_motor_servo_standard_01
+oomp_word: wink beer anchor
+oomp_word_emoji: ':wink: :beer: :anchor:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':beer:'
+- ':anchor:'
+oomp_word_list:
+- wink
+- beer
+- anchor
+part_number: ''
+size: gear
+type: part

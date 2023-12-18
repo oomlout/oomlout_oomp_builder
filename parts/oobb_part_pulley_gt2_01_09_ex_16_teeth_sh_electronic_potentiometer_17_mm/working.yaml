@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0109ex16teethshelectronicpotentiometer17mm
+id_no_size: 01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: f52cff266f74bf88224bf00e217166a1
+md5_10: f52cff266f
+md5_10_upper: F52CFF266F
+md5_5: f52cf
+md5_5_upper: F52CF
+md5_6: f52cff
+md5_6_alpha: 9ke0v
+md5_6_alpha_upper: 9KE0V
+md5_6_upper: F52CFF
+name: Oobb Part Pulley Gt2 01 09 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Pulley Gt2 01 09 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0109Ex16Teethshelectronicpotentiometer17Mm
+name_no_size: 01 09 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 01 09 Ex 16 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_16_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: four snowflake trident
+oomp_word_emoji: ':four: :snowflake: :trident:'
+oomp_word_emoji_list:
+- ':four:'
+- ':snowflake:'
+- ':trident:'
+oomp_word_list:
+- four
+- snowflake
+- trident
+part_number: ''
+size: pulley_gt2
+type: part

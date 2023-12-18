@@ -1,0 +1,9 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+manufacturer: wch
+part_number: ch340e
+size: msop_10
+type: ic

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_15'
+directory: parts/oobb_part_plate_10_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_15
+id: oobb_part_plate_10_01_15
+id_no_class: part_plate_10_01_15
+id_no_color: '100115'
+id_no_size: '10_01_15'
+id_no_type: plate_10_01_15
+manufacturer: ''
+md5: dfac7ff96d671e11ba99d38643b46da7
+md5_10: dfac7ff96d
+md5_10_upper: DFAC7FF96D
+md5_5: dfac7
+md5_5_upper: DFAC7
+md5_6: dfac7f
+md5_6_alpha: 8q6pr
+md5_6_alpha_upper: 8Q6PR
+md5_6_upper: DFAC7F
+name: Oobb Part Plate 10 01 15
+name_no_class: Part Plate 10 01 15
+name_no_color: '100115'
+name_no_size: 10 01 15
+name_no_type: Plate 10 01 15
+oomp_key: oomp_oobb_part_plate_10_01_15
+oomp_word: fountain shirt speaker
+oomp_word_emoji: ':fountain: :shirt: :speaker:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':shirt:'
+- ':speaker:'
+oomp_word_list:
+- fountain
+- shirt
+- speaker
+part_number: ''
+size: plate
+type: part

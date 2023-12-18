@@ -1,0 +1,40 @@
+classification: hardware
+color: 16021_size
+description_extra: ''
+description_main: 105_mm_id_160_mm_od_18_mm_depth
+directory: parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+id: hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+id_no_class: bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+id_no_color: 105_mm_id_160_mm_od_18_mm_depth
+id_no_size: 16021_size_105_mm_id_160_mm_od_18_mm_depth
+id_no_type: 16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+manufacturer: ''
+md5: bdf215dbd8e62d0442c64ea9c776e737
+md5_10: bdf215dbd8
+md5_10_upper: BDF215DBD8
+md5_5: bdf21
+md5_5_upper: BDF21
+md5_6: bdf215
+md5_6_alpha: 7et5h
+md5_6_alpha_upper: 7ET5H
+md5_6_upper: BDF215
+name: Hardware Bearing 16000 Series 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth
+name_no_class: Bearing 16000 Series 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth
+name_no_color: 105 Mm Id 160 Mm Od 18 Mm Depth
+name_no_size: 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth
+name_no_type: 16000 Series 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+oomp_word: rice one poop
+oomp_word_emoji: ':rice: :one: :poop:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':one:'
+- ':poop:'
+oomp_word_list:
+- rice
+- one
+- poop
+part_number: ''
+size: 16000_series
+type: bearing

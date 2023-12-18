@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x6_18_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x6_18_pin_through_hole
+id_no_color: 3x618pinthroughhole
+id_no_size: 3x6_18_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x6_18_pin_through_hole
+manufacturer: ''
+md5: 6711234d0c9a2a29c2725556fa608952
+md5_10: 6711234d0c
+md5_10_upper: 6711234D0C
+md5_5: '67112'
+md5_5_upper: '67112'
+md5_6: '671123'
+md5_6_alpha: 40rvn
+md5_6_alpha_upper: 40RVN
+md5_6_upper: '671123'
+name: Electronic Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole
+name_no_color: 3X618Pinthroughhole
+name_no_size: 3X6 18 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X6 18 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole
+oomp_word: herb dizzy kiss
+oomp_word_emoji: ':herb: :dizzy: :kiss:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':dizzy:'
+- ':kiss:'
+oomp_word_list:
+- herb
+- dizzy
+- kiss
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

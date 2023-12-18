@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '27_01_03'
+directory: parts/oobb_part_plate_27_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_01_03
+id: oobb_part_plate_27_01_03
+id_no_class: part_plate_27_01_03
+id_no_color: '270103'
+id_no_size: '27_01_03'
+id_no_type: plate_27_01_03
+manufacturer: ''
+md5: 0e48bf6a7521b11db8b03a0ff144fb94
+md5_10: 0e48bf6a75
+md5_10_upper: 0E48BF6A75
+md5_5: 0e48b
+md5_5_upper: 0E48B
+md5_6: 0e48bf
+md5_6_alpha: k2bj
+md5_6_alpha_upper: K2BJ
+md5_6_upper: 0E48BF
+name: Oobb Part Plate 27 01 03
+name_no_class: Part Plate 27 01 03
+name_no_color: '270103'
+name_no_size: 27 01 03
+name_no_type: Plate 27 01 03
+oomp_key: oomp_oobb_part_plate_27_01_03
+oomp_word: cupid hatched_chick egg
+oomp_word_emoji: ':cupid: :hatched_chick: :egg:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':hatched_chick:'
+- ':egg:'
+oomp_word_list:
+- cupid
+- hatched_chick
+- egg
+part_number: ''
+size: plate
+type: part

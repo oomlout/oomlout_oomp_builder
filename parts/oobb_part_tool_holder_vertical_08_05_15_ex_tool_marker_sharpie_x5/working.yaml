@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_15_ex_tool_marker_sharpie_x5
+directory: parts/oobb_part_tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+id: oobb_part_tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+id_no_class: part_tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+id_no_color: 080515extoolmarkersharpiex5
+id_no_size: 08_05_15_ex_tool_marker_sharpie_x5
+id_no_type: tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+manufacturer: ''
+md5: be7102f4e946f0e02da1527545d502af
+md5_10: be7102f4e9
+md5_10_upper: BE7102F4E9
+md5_5: be710
+md5_5_upper: BE710
+md5_6: be7102
+md5_6_alpha: 7fi82
+md5_6_alpha_upper: 7FI82
+md5_6_upper: BE7102
+name: Oobb Part Tool Holder Vertical 08 05 15 Ex Tool Marker Sharpie X5
+name_no_class: Part Tool Holder Vertical 08 05 15 Ex Tool Marker Sharpie X5
+name_no_color: 080515Extoolmarkersharpiex5
+name_no_size: 08 05 15 Ex Tool Marker Sharpie X5
+name_no_type: Tool Holder Vertical 08 05 15 Ex Tool Marker Sharpie X5
+oomp_key: oomp_oobb_part_tool_holder_vertical_08_05_15_ex_tool_marker_sharpie_x5
+oomp_word: ramen bamboo blush
+oomp_word_emoji: ':ramen: :bamboo: :blush:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':bamboo:'
+- ':blush:'
+oomp_word_list:
+- ramen
+- bamboo
+- blush
+part_number: ''
+size: tool_holder_vertical
+type: part

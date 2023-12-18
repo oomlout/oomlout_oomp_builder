@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_21'
+directory: parts/oobb_part_plate_06_03_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_21
+id: oobb_part_plate_06_03_21
+id_no_class: part_plate_06_03_21
+id_no_color: '060321'
+id_no_size: '06_03_21'
+id_no_type: plate_06_03_21
+manufacturer: ''
+md5: 1426ca0bc16be8086f1c6d2c97f3e42c
+md5_10: 1426ca0bc1
+md5_10_upper: 1426CA0BC1
+md5_5: 1426c
+md5_5_upper: 1426C
+md5_6: 1426ca
+md5_6_alpha: sb0q
+md5_6_alpha_upper: SB0Q
+md5_6_upper: 1426CA
+name: Oobb Part Plate 06 03 21
+name_no_class: Part Plate 06 03 21
+name_no_color: '060321'
+name_no_size: 06 03 21
+name_no_type: Plate 06 03 21
+oomp_key: oomp_oobb_part_plate_06_03_21
+oomp_word: fire eyes cherries
+oomp_word_emoji: ':fire: :eyes: :cherries:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':eyes:'
+- ':cherries:'
+oomp_word_list:
+- fire
+- eyes
+- cherries
+part_number: ''
+size: plate
+type: part

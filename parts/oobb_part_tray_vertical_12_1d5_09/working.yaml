@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_1d5_09
+directory: parts/oobb_part_tray_vertical_12_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_1d5_09
+id: oobb_part_tray_vertical_12_1d5_09
+id_no_class: part_tray_vertical_12_1d5_09
+id_no_color: 121d509
+id_no_size: 12_1d5_09
+id_no_type: tray_vertical_12_1d5_09
+manufacturer: ''
+md5: 85fb41be49698d2598b6a08fd15d2be7
+md5_10: 85fb41be49
+md5_10_upper: 85FB41BE49
+md5_5: 85fb4
+md5_5_upper: 85FB4
+md5_6: 85fb41
+md5_6_alpha: 5875t
+md5_6_alpha_upper: 5875T
+md5_6_upper: 85FB41
+name: Oobb Part Tray Vertical 12 1D5 09
+name_no_class: Part Tray Vertical 12 1D5 09
+name_no_color: 121D509
+name_no_size: 12 1D5 09
+name_no_type: Tray Vertical 12 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_12_1d5_09
+oomp_word: bulb ok camel
+oomp_word_emoji: ':bulb: :ok: :camel:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':ok:'
+- ':camel:'
+oomp_word_list:
+- bulb
+- ok
+- camel
+part_number: ''
+size: tray_vertical
+type: part

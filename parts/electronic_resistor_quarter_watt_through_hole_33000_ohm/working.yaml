@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_33000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_33000_ohm
+id: electronic_resistor_quarter_watt_through_hole_33000_ohm
+id_no_class: resistor_quarter_watt_through_hole_33000_ohm
+id_no_color: 33000ohm
+id_no_size: 33000_ohm
+id_no_type: quarter_watt_through_hole_33000_ohm
+manufacturer: ''
+md5: ae2a7820f35b7384222f704479d15460
+md5_10: ae2a7820f3
+md5_10_upper: AE2A7820F3
+md5_5: ae2a7
+md5_5_upper: AE2A7
+md5_6: ae2a78
+md5_6_alpha: 6sn7c
+md5_6_alpha_upper: 6SN7C
+md5_6_upper: AE2A78
+name: Electronic Resistor Quarter Watt Through Hole 33000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 33000 Ohm
+name_no_color: 33000Ohm
+name_no_size: 33000 Ohm
+name_no_type: Quarter Watt Through Hole 33000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_33000_ohm
+oomp_word: jeans umbrella bell
+oomp_word_emoji: ':jeans: :umbrella: :bell:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':umbrella:'
+- ':bell:'
+oomp_word_list:
+- jeans
+- umbrella
+- bell
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

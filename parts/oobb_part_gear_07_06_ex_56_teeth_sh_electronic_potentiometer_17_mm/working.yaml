@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0706ex56teethshelectronicpotentiometer17mm
+id_no_size: 07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 77ef22872b1df0060a52985d5d7b8255
+md5_10: 77ef22872b
+md5_10_upper: 77EF22872B
+md5_5: 77ef2
+md5_5_upper: 77EF2
+md5_6: 77ef22
+md5_6_alpha: 4ogte
+md5_6_alpha_upper: 4OGTE
+md5_6_upper: 77EF22
+name: Oobb Part Gear 07 06 Ex 56 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 07 06 Ex 56 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0706Ex56Teethshelectronicpotentiometer17Mm
+name_no_size: 07 06 Ex 56 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 07 06 Ex 56 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_07_06_ex_56_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: gift truck lips
+oomp_word_emoji: ':gift: :truck: :lips:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':truck:'
+- ':lips:'
+oomp_word_list:
+- gift
+- truck
+- lips
+part_number: ''
+size: gear
+type: part

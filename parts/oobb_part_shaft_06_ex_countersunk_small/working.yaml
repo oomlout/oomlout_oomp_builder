@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_ex_countersunk_small
+directory: parts/oobb_part_shaft_06_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06_ex_countersunk_small
+id: oobb_part_shaft_06_ex_countersunk_small
+id_no_class: part_shaft_06_ex_countersunk_small
+id_no_color: 06excountersunksmall
+id_no_size: 06_ex_countersunk_small
+id_no_type: shaft_06_ex_countersunk_small
+manufacturer: ''
+md5: 60788a1493d4b9c26189134c90140c2e
+md5_10: 60788a1493
+md5_10_upper: 60788A1493
+md5_5: '60788'
+md5_5_upper: '60788'
+md5_6: 60788a
+md5_6_alpha: 3ribu
+md5_6_alpha_upper: 3RIBU
+md5_6_upper: 60788A
+name: Oobb Part Shaft 06 Ex Countersunk Small
+name_no_class: Part Shaft 06 Ex Countersunk Small
+name_no_color: 06Excountersunksmall
+name_no_size: 06 Ex Countersunk Small
+name_no_type: Shaft 06 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_06_ex_countersunk_small
+oomp_word: poodle bell envelope
+oomp_word_emoji: ':poodle: :bell: :envelope:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':bell:'
+- ':envelope:'
+oomp_word_list:
+- poodle
+- bell
+- envelope
+part_number: ''
+size: shaft
+type: part

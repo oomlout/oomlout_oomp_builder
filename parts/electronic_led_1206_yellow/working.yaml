@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_1206_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_yellow
+id: electronic_led_1206_yellow
+id_no_class: led_1206_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 1206_yellow
+manufacturer: ''
+md5: 487cc6fa62d15dd9e507708889fecbfb
+md5_10: 487cc6fa62
+md5_10_upper: 487CC6FA62
+md5_5: 487cc
+md5_5_upper: 487CC
+md5_6: 487cc6
+md5_6_alpha: 2ttja
+md5_6_alpha_upper: 2TTJA
+md5_6_upper: 487CC6
+name: Electronic Led 1206 Yellow
+name_no_class: Led 1206 Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 1206 Yellow
+oomp_key: oomp_electronic_led_1206_yellow
+oomp_word: hatched_chick tv lollipop
+oomp_word_emoji: ':hatched_chick: :tv: :lollipop:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':tv:'
+- ':lollipop:'
+oomp_word_list:
+- hatched_chick
+- tv
+- lollipop
+part_number: ''
+size: '1206'
+type: led

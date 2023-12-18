@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4_7_micro_farad
+directory: parts/electronic_capacitor_0603_4_7_micro_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad
+id: electronic_capacitor_0603_4_7_micro_farad
+id_no_class: capacitor_0603_4_7_micro_farad
+id_no_color: 47microfarad
+id_no_size: 4_7_micro_farad
+id_no_type: 0603_4_7_micro_farad
+manufacturer: ''
+md5: 6ab38cdcab2221adc1a931e09497a8b8
+md5_10: 6ab38cdcab
+md5_10_upper: 6AB38CDCAB
+md5_5: 6ab38
+md5_5_upper: 6AB38
+md5_6: 6ab38c
+md5_6_alpha: 45vnw
+md5_6_alpha_upper: 45VNW
+md5_6_upper: 6AB38C
+name: Electronic Capacitor 0603 4 7 Micro Farad
+name_no_class: Capacitor 0603 4 7 Micro Farad
+name_no_color: 47Microfarad
+name_no_size: 4 7 Micro Farad
+name_no_type: 0603 4 7 Micro Farad
+oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
+oomp_word: palm_tree eyeglasses pill
+oomp_word_emoji: ':palm_tree: :eyeglasses: :pill:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':eyeglasses:'
+- ':pill:'
+oomp_word_list:
+- palm_tree
+- eyeglasses
+- pill
+part_number: ''
+size: '0603'
+type: capacitor

@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 070718nm16mmtapewidth4mmtapethicknessex4
+id_no_size: 07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: ef1808411626675cacdb850b411af5bd
+md5_10: ef18084116
+md5_10_upper: EF18084116
+md5_5: ef180
+md5_5_upper: EF180
+md5_6: ef1808
+md5_6_alpha: 9buh4
+md5_6_alpha_upper: 9BUH4
+md5_6_upper: EF1808
+name: Oobb Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 07 07 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 070718Nm16Mmtapewidth4Mmtapethicknessex4
+name_no_size: 07 07 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 07 07 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: truck hand scream
+oomp_word_emoji: ':truck: :hand: :scream:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':hand:'
+- ':scream:'
+oomp_word_list:
+- truck
+- hand
+- scream
+part_number: ''
+size: smd_magazine
+type: part

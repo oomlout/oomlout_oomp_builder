@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_12
+directory: parts/oobb_part_bolt_hardware_bolt_m6_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_12
+id: oobb_part_bolt_hardware_bolt_m6_12
+id_no_class: part_bolt_hardware_bolt_m6_12
+id_no_color: hardwarem612
+id_no_size: hardware_m6_12
+id_no_type: bolt_hardware_bolt_m6_12
+manufacturer: ''
+md5: 7405e1a951925910b28191d87a6866ff
+md5_10: 7405e1a951
+md5_10_upper: 7405E1A951
+md5_5: 7405e
+md5_5_upper: 7405E
+md5_6: 7405e1
+md5_6_alpha: 4iz1d
+md5_6_alpha_upper: 4IZ1D
+md5_6_upper: 7405E1
+name: Oobb Part Bolt Hardware Bolt M6 12
+name_no_class: Part Bolt Hardware Bolt M6 12
+name_no_color: Hardwarem612
+name_no_size: Hardware M6 12
+name_no_type: Bolt Hardware Bolt M6 12
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_12
+oomp_word: fireworks kissing boat
+oomp_word_emoji: ':fireworks: :kissing: :boat:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':kissing:'
+- ':boat:'
+oomp_word_list:
+- fireworks
+- kissing
+- boat
+part_number: ''
+size: bolt
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_12
+directory: parts/oobb_part_tray_vertical_09_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_05_12
+id: oobb_part_tray_vertical_09_05_12
+id_no_class: part_tray_vertical_09_05_12
+id_no_color: 090512
+id_no_size: 09_05_12
+id_no_type: tray_vertical_09_05_12
+manufacturer: ''
+md5: e465701974199f8eba9acfa059483b32
+md5_10: e465701974
+md5_10_upper: E465701974
+md5_5: e4657
+md5_5_upper: E4657
+md5_6: e46570
+md5_6_alpha: 8wtio
+md5_6_alpha_upper: 8WTIO
+md5_6_upper: E46570
+name: Oobb Part Tray Vertical 09 05 12
+name_no_class: Part Tray Vertical 09 05 12
+name_no_color: 090512
+name_no_size: 09 05 12
+name_no_type: Tray Vertical 09 05 12
+oomp_key: oomp_oobb_part_tray_vertical_09_05_12
+oomp_word: anchor maple_leaf squirrel
+oomp_word_emoji: ':anchor: :maple_leaf: :squirrel:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':maple_leaf:'
+- ':squirrel:'
+oomp_word_list:
+- anchor
+- maple_leaf
+- squirrel
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 9_pin
+directory: parts/electronic_socket_2_54_mm_9_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_9_pin_through_hole
+id: electronic_socket_2_54_mm_9_pin_through_hole
+id_no_class: socket_2_54_mm_9_pin_through_hole
+id_no_color: 9pinthroughhole
+id_no_size: 9_pin_through_hole
+id_no_type: 2_54_mm_9_pin_through_hole
+manufacturer: ''
+md5: 341a12a2bdd7426d1170c681f4409049
+md5_10: 341a12a2bd
+md5_10_upper: 341A12A2BD
+md5_5: 341a1
+md5_5_upper: 341A1
+md5_6: 341a12
+md5_6_alpha: 216oi
+md5_6_alpha_upper: 216OI
+md5_6_upper: 341A12
+name: Electronic Socket 2 54 Mm 9 Pin Through Hole
+name_no_class: Socket 2 54 Mm 9 Pin Through Hole
+name_no_color: 9Pinthroughhole
+name_no_size: 9 Pin Through Hole
+name_no_type: 2 54 Mm 9 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_9_pin_through_hole
+oomp_word: mouse clap anger
+oomp_word_emoji: ':mouse: :clap: :anger:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':clap:'
+- ':anger:'
+oomp_word_list:
+- mouse
+- clap
+- anger
+part_number: ''
+size: 2_54_mm
+type: socket

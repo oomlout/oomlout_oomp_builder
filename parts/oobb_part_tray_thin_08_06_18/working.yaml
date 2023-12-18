@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_06_18
+directory: parts/oobb_part_tray_thin_08_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_18
+id: oobb_part_tray_thin_08_06_18
+id_no_class: part_tray_thin_08_06_18
+id_no_color: 080618
+id_no_size: 08_06_18
+id_no_type: tray_thin_08_06_18
+manufacturer: ''
+md5: d8f8b1e18e6caa31362babd85749e0d8
+md5_10: d8f8b1e18e
+md5_10_upper: D8F8B1E18E
+md5_5: d8f8b
+md5_5_upper: D8F8B
+md5_6: d8f8b1
+md5_6_alpha: 8grsh
+md5_6_alpha_upper: 8GRSH
+md5_6_upper: D8F8B1
+name: Oobb Part Tray Thin 08 06 18
+name_no_class: Part Tray Thin 08 06 18
+name_no_color: 080618
+name_no_size: 08 06 18
+name_no_type: Tray Thin 08 06 18
+oomp_key: oomp_oobb_part_tray_thin_08_06_18
+oomp_word: hospital seven briefcase
+oomp_word_emoji: ':hospital: :seven: :briefcase:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':seven:'
+- ':briefcase:'
+oomp_word_list:
+- hospital
+- seven
+- briefcase
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_04_12'
+directory: parts/oobb_part_tray_vertical_11_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_04_12
+id: oobb_part_tray_vertical_11_04_12
+id_no_class: part_tray_vertical_11_04_12
+id_no_color: '110412'
+id_no_size: '11_04_12'
+id_no_type: tray_vertical_11_04_12
+manufacturer: ''
+md5: a984d64a8f4d12ca5ee2d9f6d9e8d183
+md5_10: a984d64a8f
+md5_10_upper: A984D64A8F
+md5_5: a984d
+md5_5_upper: A984D
+md5_6: a984d6
+md5_6_alpha: 6m47q
+md5_6_alpha_upper: 6M47Q
+md5_6_upper: A984D6
+name: Oobb Part Tray Vertical 11 04 12
+name_no_class: Part Tray Vertical 11 04 12
+name_no_color: '110412'
+name_no_size: 11 04 12
+name_no_type: Tray Vertical 11 04 12
+oomp_key: oomp_oobb_part_tray_vertical_11_04_12
+oomp_word: sandal key school
+oomp_word_emoji: ':sandal: :key: :school:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':key:'
+- ':school:'
+oomp_word_list:
+- sandal
+- key
+- school
+part_number: ''
+size: tray_vertical
+type: part

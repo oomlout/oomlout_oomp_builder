@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x3_6_pin
+directory: parts/electronic_socket_2_54_mm_dual_row_2x3_6_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_dual_row_2x3_6_pin_through_hole
+id: electronic_socket_2_54_mm_dual_row_2x3_6_pin_through_hole
+id_no_class: socket_2_54_mm_dual_row_2x3_6_pin_through_hole
+id_no_color: 2x36pinthroughhole
+id_no_size: 2x3_6_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x3_6_pin_through_hole
+manufacturer: ''
+md5: 1c04753ab2eb098e68558383872335e3
+md5_10: 1c04753ab2
+md5_10_upper: 1C04753AB2
+md5_5: 1c047
+md5_5_upper: 1C047
+md5_6: 1c0475
+md5_6_alpha: 13cs5
+md5_6_alpha_upper: 13CS5
+md5_6_upper: 1C0475
+name: Electronic Socket 2 54 Mm Dual Row 2X3 6 Pin Through Hole
+name_no_class: Socket 2 54 Mm Dual Row 2X3 6 Pin Through Hole
+name_no_color: 2X36Pinthroughhole
+name_no_size: 2X3 6 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X3 6 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_dual_row_2x3_6_pin_through_hole
+oomp_word: dancer wink ghost
+oomp_word_emoji: ':dancer: :wink: :ghost:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':wink:'
+- ':ghost:'
+oomp_word_list:
+- dancer
+- wink
+- ghost
+part_number: ''
+size: 2_54_mm_dual_row
+type: socket

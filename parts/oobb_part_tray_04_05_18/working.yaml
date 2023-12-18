@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_05_18
+directory: parts/oobb_part_tray_04_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_05_18
+id: oobb_part_tray_04_05_18
+id_no_class: part_tray_04_05_18
+id_no_color: 040518
+id_no_size: 04_05_18
+id_no_type: tray_04_05_18
+manufacturer: ''
+md5: 6c43e49b093122a85dfaadd5ab90e1ff
+md5_10: 6c43e49b09
+md5_10_upper: 6C43E49B09
+md5_5: 6c43e
+md5_5_upper: 6C43E
+md5_6: 6c43e4
+md5_6_alpha: 482qs
+md5_6_alpha_upper: 482QS
+md5_6_upper: 6C43E4
+name: Oobb Part Tray 04 05 18
+name_no_class: Part Tray 04 05 18
+name_no_color: 040518
+name_no_size: 04 05 18
+name_no_type: Tray 04 05 18
+oomp_key: oomp_oobb_part_tray_04_05_18
+oomp_word: blossom elephant anchor
+oomp_word_emoji: ':blossom: :elephant: :anchor:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':elephant:'
+- ':anchor:'
+oomp_word_list:
+- blossom
+- elephant
+- anchor
+part_number: ''
+size: tray
+type: part

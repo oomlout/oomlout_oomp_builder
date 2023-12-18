@@ -1,0 +1,40 @@
+classification: hardware
+color: 6004_size
+description_extra: ''
+description_main: 20_mm_id_42_mm_od_12_mm_depth
+directory: parts/hardware_bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+id: hardware_bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+id_no_class: bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+id_no_color: 20_mm_id_42_mm_od_12_mm_depth
+id_no_size: 6004_size_20_mm_id_42_mm_od_12_mm_depth
+id_no_type: 6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+manufacturer: ''
+md5: 3d1f0ded0a46e7d33bf577f3bc3e4387
+md5_10: 3d1f0ded0a
+md5_10_upper: 3D1F0DED0A
+md5_5: 3d1f0
+md5_5_upper: 3D1F0
+md5_6: 3d1f0d
+md5_6_alpha: 2durx
+md5_6_alpha_upper: 2DURX
+md5_6_upper: 3D1F0D
+name: Hardware Bearing 6000 Series 6004 Size 20 Mm Id 42 Mm Od 12 Mm Depth
+name_no_class: Bearing 6000 Series 6004 Size 20 Mm Id 42 Mm Od 12 Mm Depth
+name_no_color: 20 Mm Id 42 Mm Od 12 Mm Depth
+name_no_size: 6004 Size 20 Mm Id 42 Mm Od 12 Mm Depth
+name_no_type: 6000 Series 6004 Size 20 Mm Id 42 Mm Od 12 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
+oomp_word: cow princess heart
+oomp_word_emoji: ':cow: :princess: :heart:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':princess:'
+- ':heart:'
+oomp_word_list:
+- cow
+- princess
+- heart
+part_number: ''
+size: 6000_series
+type: bearing

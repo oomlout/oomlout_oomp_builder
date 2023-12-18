@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_ex_washer
+directory: parts/oobb_part_shaft_03_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03_ex_washer
+id: oobb_part_shaft_03_ex_washer
+id_no_class: part_shaft_03_ex_washer
+id_no_color: 03exwasher
+id_no_size: 03_ex_washer
+id_no_type: shaft_03_ex_washer
+manufacturer: ''
+md5: 7d60cc056c12b039d8e79c3d05293e99
+md5_10: 7d60cc056c
+md5_10_upper: 7D60CC056C
+md5_5: 7d60c
+md5_5_upper: 7D60C
+md5_6: 7d60cc
+md5_6_alpha: 4w43w
+md5_6_alpha_upper: 4W43W
+md5_6_upper: 7D60CC
+name: Oobb Part Shaft 03 Ex Washer
+name_no_class: Part Shaft 03 Ex Washer
+name_no_color: 03Exwasher
+name_no_size: 03 Ex Washer
+name_no_type: Shaft 03 Ex Washer
+oomp_key: oomp_oobb_part_shaft_03_ex_washer
+oomp_word: phone poodle watermelon
+oomp_word_emoji: ':phone: :poodle: :watermelon:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':poodle:'
+- ':watermelon:'
+oomp_word_list:
+- phone
+- poodle
+- watermelon
+part_number: ''
+size: shaft
+type: part

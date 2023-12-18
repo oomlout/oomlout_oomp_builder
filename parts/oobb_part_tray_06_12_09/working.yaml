@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_12_09
+directory: parts/oobb_part_tray_06_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_12_09
+id: oobb_part_tray_06_12_09
+id_no_class: part_tray_06_12_09
+id_no_color: 061209
+id_no_size: 06_12_09
+id_no_type: tray_06_12_09
+manufacturer: ''
+md5: ae308d4b88125e1d72b785db9380f9d4
+md5_10: ae308d4b88
+md5_10_upper: AE308D4B88
+md5_5: ae308
+md5_5_upper: AE308
+md5_6: ae308d
+md5_6_alpha: 6soel
+md5_6_alpha_upper: 6SOEL
+md5_6_upper: AE308D
+name: Oobb Part Tray 06 12 09
+name_no_class: Part Tray 06 12 09
+name_no_color: 061209
+name_no_size: 06 12 09
+name_no_type: Tray 06 12 09
+oomp_key: oomp_oobb_part_tray_06_12_09
+oomp_word: jeans foggy scroll
+oomp_word_emoji: ':jeans: :foggy: :scroll:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':foggy:'
+- ':scroll:'
+oomp_word_list:
+- jeans
+- foggy
+- scroll
+part_number: ''
+size: tray
+type: part

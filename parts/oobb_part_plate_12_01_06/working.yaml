@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_06'
+directory: parts/oobb_part_plate_12_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_06
+id: oobb_part_plate_12_01_06
+id_no_class: part_plate_12_01_06
+id_no_color: '120106'
+id_no_size: '12_01_06'
+id_no_type: plate_12_01_06
+manufacturer: ''
+md5: 83b23186a07e94913858a16d74e08823
+md5_10: 83b23186a0
+md5_10_upper: 83B23186A0
+md5_5: 83b23
+md5_5_upper: 83B23
+md5_6: 83b231
+md5_6_alpha: 54zld
+md5_6_alpha_upper: 54ZLD
+md5_6_upper: 83B231
+name: Oobb Part Plate 12 01 06
+name_no_class: Part Plate 12 01 06
+name_no_color: '120106'
+name_no_size: 12 01 06
+name_no_type: Plate 12 01 06
+oomp_key: oomp_oobb_part_plate_12_01_06
+oomp_word: lock handbag ocean
+oomp_word_emoji: ':lock: :handbag: :ocean:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':handbag:'
+- ':ocean:'
+oomp_word_list:
+- lock
+- handbag
+- ocean
+part_number: ''
+size: plate
+type: part

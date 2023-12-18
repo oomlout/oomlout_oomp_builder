@@ -1,0 +1,40 @@
+classification: hardware
+color: 5212_size
+description_extra: ''
+description_main: 60_mm_id_110_mm_od_36.5_mm_depth
+directory: parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+id: hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+id_no_class: bearing_5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+id_no_color: 60_mm_id_110_mm_od_36.5_mm_depth
+id_no_size: 5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+id_no_type: 5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+manufacturer: ''
+md5: 6e585bbd040cbd1c3d2a75bf5a458806
+md5_10: 6e585bbd04
+md5_10_upper: 6E585BBD04
+md5_5: 6e585
+md5_5_upper: 6E585
+md5_6: 6e585b
+md5_6_alpha: 4azx7
+md5_6_alpha_upper: 4AZX7
+md5_6_upper: 6E585B
+name: Hardware Bearing 5200 Series 5212 Size 60 Mm Id 110 Mm Od 36.5 Mm Depth
+name_no_class: Bearing 5200 Series 5212 Size 60 Mm Id 110 Mm Od 36.5 Mm Depth
+name_no_color: 60 Mm Id 110 Mm Od 36.5 Mm Depth
+name_no_size: 5212 Size 60 Mm Id 110 Mm Od 36.5 Mm Depth
+name_no_type: 5200 Series 5212 Size 60 Mm Id 110 Mm Od 36.5 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36.5_mm_depth
+oomp_word: new_moon water_buffalo rooster
+oomp_word_emoji: ':new_moon: :water_buffalo: :rooster:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':water_buffalo:'
+- ':rooster:'
+oomp_word_list:
+- new_moon
+- water_buffalo
+- rooster
+part_number: ''
+size: 5200_series
+type: bearing

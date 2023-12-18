@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_11_12
+directory: parts/oobb_part_tray_09_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_11_12
+id: oobb_part_tray_09_11_12
+id_no_class: part_tray_09_11_12
+id_no_color: 091112
+id_no_size: 09_11_12
+id_no_type: tray_09_11_12
+manufacturer: ''
+md5: 404843dc4648f9821bb6c70ce3f543f2
+md5_10: 404843dc46
+md5_10_upper: 404843DC46
+md5_5: '40484'
+md5_5_upper: '40484'
+md5_6: '404843'
+md5_6_alpha: 2iamb
+md5_6_alpha_upper: 2IAMB
+md5_6_upper: '404843'
+name: Oobb Part Tray 09 11 12
+name_no_class: Part Tray 09 11 12
+name_no_color: 091112
+name_no_size: 09 11 12
+name_no_type: Tray 09 11 12
+oomp_key: oomp_oobb_part_tray_09_11_12
+oomp_word: racehorse hatched_chick elephant
+oomp_word_emoji: ':racehorse: :hatched_chick: :elephant:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':hatched_chick:'
+- ':elephant:'
+oomp_word_list:
+- racehorse
+- hatched_chick
+- elephant
+part_number: ''
+size: tray
+type: part

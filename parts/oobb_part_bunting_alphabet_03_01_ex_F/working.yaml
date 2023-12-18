@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_f
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_f
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_f
+id: oobb_part_bunting_alphabet_03_01_ex_f
+id_no_class: part_bunting_alphabet_03_01_ex_f
+id_no_color: 0301exf
+id_no_size: 03_01_ex_f
+id_no_type: bunting_alphabet_03_01_ex_f
+manufacturer: ''
+md5: f54acde967d490c8825164574204a772
+md5_10: f54acde967
+md5_10_upper: F54ACDE967
+md5_5: f54ac
+md5_5_upper: F54AC
+md5_6: f54acd
+md5_6_alpha: 9kjwt
+md5_6_alpha_upper: 9KJWT
+md5_6_upper: F54ACD
+name: Oobb Part Bunting Alphabet 03 01 Ex F
+name_no_class: Part Bunting Alphabet 03 01 Ex F
+name_no_color: 0301Exf
+name_no_size: 03 01 Ex F
+name_no_type: Bunting Alphabet 03 01 Ex F
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_f
+oomp_word: four chicken strawberry
+oomp_word_emoji: ':four: :chicken: :strawberry:'
+oomp_word_emoji_list:
+- ':four:'
+- ':chicken:'
+- ':strawberry:'
+oomp_word_list:
+- four
+- chicken
+- strawberry
+part_number: ''
+size: bunting_alphabet
+type: part

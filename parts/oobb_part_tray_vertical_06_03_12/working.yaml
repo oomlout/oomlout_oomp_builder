@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_12'
+directory: parts/oobb_part_tray_vertical_06_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_12
+id: oobb_part_tray_vertical_06_03_12
+id_no_class: part_tray_vertical_06_03_12
+id_no_color: '060312'
+id_no_size: '06_03_12'
+id_no_type: tray_vertical_06_03_12
+manufacturer: ''
+md5: 5da9a065e66f6432ed7d3391ff900f05
+md5_10: 5da9a065e6
+md5_10_upper: 5DA9A065E6
+md5_5: 5da9a
+md5_5_upper: 5DA9A
+md5_6: 5da9a0
+md5_6_alpha: 3nkbk
+md5_6_alpha_upper: 3NKBK
+md5_6_upper: 5DA9A0
+name: Oobb Part Tray Vertical 06 03 12
+name_no_class: Part Tray Vertical 06 03 12
+name_no_color: '060312'
+name_no_size: 06 03 12
+name_no_type: Tray Vertical 06 03 12
+oomp_key: oomp_oobb_part_tray_vertical_06_03_12
+oomp_word: blowfish sandal ring
+oomp_word_emoji: ':blowfish: :sandal: :ring:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':sandal:'
+- ':ring:'
+oomp_word_list:
+- blowfish
+- sandal
+- ring
+part_number: ''
+size: tray_vertical
+type: part

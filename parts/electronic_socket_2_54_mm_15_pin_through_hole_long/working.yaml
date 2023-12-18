@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 15_pin
+directory: parts/electronic_socket_2_54_mm_15_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_15_pin_through_hole_long
+id: electronic_socket_2_54_mm_15_pin_through_hole_long
+id_no_class: socket_2_54_mm_15_pin_through_hole_long
+id_no_color: 15pinthroughholelong
+id_no_size: 15_pin_through_hole_long
+id_no_type: 2_54_mm_15_pin_through_hole_long
+manufacturer: ''
+md5: 7138748965e60dd41988101bd80f5b64
+md5_10: '7138748965'
+md5_10_upper: '7138748965'
+md5_5: '71387'
+md5_5_upper: '71387'
+md5_6: '713874'
+md5_6_alpha: 4f1bo
+md5_6_alpha_upper: 4F1BO
+md5_6_upper: '713874'
+name: Electronic Socket 2 54 Mm 15 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 15 Pin Through Hole Long
+name_no_color: 15Pinthroughholelong
+name_no_size: 15 Pin Through Hole Long
+name_no_type: 2 54 Mm 15 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_15_pin_through_hole_long
+oomp_word: bamboo frog fireworks
+oomp_word_emoji: ':bamboo: :frog: :fireworks:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':frog:'
+- ':fireworks:'
+oomp_word_list:
+- bamboo
+- frog
+- fireworks
+part_number: ''
+size: 2_54_mm
+type: socket

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '23_01_12'
+directory: parts/oobb_part_plate_23_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_23_01_12
+id: oobb_part_plate_23_01_12
+id_no_class: part_plate_23_01_12
+id_no_color: '230112'
+id_no_size: '23_01_12'
+id_no_type: plate_23_01_12
+manufacturer: ''
+md5: 33159bce53be39f1eaf03dd11075a8e4
+md5_10: 33159bce53
+md5_10_upper: 33159BCE53
+md5_5: '33159'
+md5_5_upper: '33159'
+md5_6: 33159b
+md5_6_alpha: 1zr8b
+md5_6_alpha_upper: 1ZR8B
+md5_6_upper: 33159B
+name: Oobb Part Plate 23 01 12
+name_no_class: Part Plate 23 01 12
+name_no_color: '230112'
+name_no_size: 23 01 12
+name_no_type: Plate 23 01 12
+oomp_key: oomp_oobb_part_plate_23_01_12
+oomp_word: dog poop ski
+oomp_word_emoji: ':dog: :poop: :ski:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':poop:'
+- ':ski:'
+oomp_word_list:
+- dog
+- poop
+- ski
+part_number: ''
+size: plate
+type: part

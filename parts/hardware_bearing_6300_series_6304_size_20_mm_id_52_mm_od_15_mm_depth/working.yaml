@@ -1,0 +1,40 @@
+classification: hardware
+color: 6304_size
+description_extra: ''
+description_main: 20_mm_id_52_mm_od_15_mm_depth
+directory: parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+id: hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+id_no_class: bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+id_no_color: 20_mm_id_52_mm_od_15_mm_depth
+id_no_size: 6304_size_20_mm_id_52_mm_od_15_mm_depth
+id_no_type: 6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+manufacturer: ''
+md5: 1f040cd7547a4e7254a26b20e176a6e5
+md5_10: 1f040cd754
+md5_10_upper: 1F040CD754
+md5_5: 1f040
+md5_5_upper: 1F040
+md5_6: 1f040c
+md5_6_alpha: 17kek
+md5_6_alpha_upper: 17KEK
+md5_6_upper: 1F040C
+name: Hardware Bearing 6300 Series 6304 Size 20 Mm Id 52 Mm Od 15 Mm Depth
+name_no_class: Bearing 6300 Series 6304 Size 20 Mm Id 52 Mm Od 15 Mm Depth
+name_no_color: 20 Mm Id 52 Mm Od 15 Mm Depth
+name_no_size: 6304 Size 20 Mm Id 52 Mm Od 15 Mm Depth
+name_no_type: 6300 Series 6304 Size 20 Mm Id 52 Mm Od 15 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
+oomp_word: princess wink alien
+oomp_word_emoji: ':princess: :wink: :alien:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':wink:'
+- ':alien:'
+oomp_word_list:
+- princess
+- wink
+- alien
+part_number: ''
+size: 6300_series
+type: bearing

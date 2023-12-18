@@ -1,0 +1,40 @@
+classification: hardware
+color: F603_size
+description_extra: ''
+description_main: 3_mm_id_9_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_color: 3_mm_id_9_mm_od_5_mm_depth
+id_no_size: F603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_type: F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+manufacturer: ''
+md5: 9be9282d137c6e92eec149af108575b0
+md5_10: 9be9282d13
+md5_10_upper: 9BE9282D13
+md5_5: 9be92
+md5_5_upper: 9BE92
+md5_6: 9be928
+md5_6_alpha: 6302w
+md5_6_alpha_upper: 6302W
+md5_6_upper: 9BE928
+name: Hardware Bearing F600 Series F603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_color: 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_size: F603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_type: F600 Series F603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F603_size_3_mm_id_9_mm_od_5_mm_depth
+oomp_word: ski bike tongue
+oomp_word_emoji: ':ski: :bike: :tongue:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':bike:'
+- ':tongue:'
+oomp_word_list:
+- ski
+- bike
+- tongue
+part_number: ''
+size: F600_series
+type: bearing

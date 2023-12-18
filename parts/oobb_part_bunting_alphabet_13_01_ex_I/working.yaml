@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_i
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_i
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i
+id: oobb_part_bunting_alphabet_13_01_ex_i
+id_no_class: part_bunting_alphabet_13_01_ex_i
+id_no_color: 1301exi
+id_no_size: 13_01_ex_i
+id_no_type: bunting_alphabet_13_01_ex_i
+manufacturer: ''
+md5: 697fa82e48b2ce028ad066bf71a9967b
+md5_10: 697fa82e48
+md5_10_upper: 697FA82E48
+md5_5: 697fa
+md5_5_upper: 697FA
+md5_6: 697fa8
+md5_6_alpha: 446ug
+md5_6_alpha_upper: 446UG
+md5_6_upper: 697FA8
+name: Oobb Part Bunting Alphabet 13 01 Ex I
+name_no_class: Part Bunting Alphabet 13 01 Ex I
+name_no_color: 1301Exi
+name_no_size: 13 01 Ex I
+name_no_type: Bunting Alphabet 13 01 Ex I
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_i
+oomp_word: cactus speaker shoe
+oomp_word_emoji: ':cactus: :speaker: :shoe:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':speaker:'
+- ':shoe:'
+oomp_word_list:
+- cactus
+- speaker
+- shoe
+part_number: ''
+size: bunting_alphabet
+type: part

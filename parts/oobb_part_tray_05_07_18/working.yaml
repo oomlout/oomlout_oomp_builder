@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_07_18
+directory: parts/oobb_part_tray_05_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_07_18
+id: oobb_part_tray_05_07_18
+id_no_class: part_tray_05_07_18
+id_no_color: 050718
+id_no_size: 05_07_18
+id_no_type: tray_05_07_18
+manufacturer: ''
+md5: d9eadc935dfcbcb7fcffb855246a5da8
+md5_10: d9eadc935d
+md5_10_upper: D9EADC935D
+md5_5: d9ead
+md5_5_upper: D9EAD
+md5_6: d9eadc
+md5_6_alpha: 8i3mk
+md5_6_alpha_upper: 8I3MK
+md5_6_upper: D9EADC
+name: Oobb Part Tray 05 07 18
+name_no_class: Part Tray 05 07 18
+name_no_color: 050718
+name_no_size: 05 07 18
+name_no_type: Tray 05 07 18
+oomp_key: oomp_oobb_part_tray_05_07_18
+oomp_word: bank tractor factory
+oomp_word_emoji: ':bank: :tractor: :factory:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':tractor:'
+- ':factory:'
+oomp_word_list:
+- bank
+- tractor
+- factory
+part_number: ''
+size: tray
+type: part

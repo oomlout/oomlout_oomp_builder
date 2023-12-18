@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 39_pin
+directory: parts/electronic_header_2_54_mm_39_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short
+id: electronic_header_2_54_mm_39_pin_through_hole_short
+id_no_class: header_2_54_mm_39_pin_through_hole_short
+id_no_color: 39pinthroughholeshort
+id_no_size: 39_pin_through_hole_short
+id_no_type: 2_54_mm_39_pin_through_hole_short
+manufacturer: ''
+md5: 98ff70d181efc00dbf9d06438366b1ff
+md5_10: 98ff70d181
+md5_10_upper: 98FF70D181
+md5_5: 98ff7
+md5_5_upper: 98FF7
+md5_6: 98ff70
+md5_6_alpha: 5yws0
+md5_6_alpha_upper: 5YWS0
+md5_6_upper: 98FF70
+name: Electronic Header 2 54 Mm 39 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 39 Pin Through Hole Short
+name_no_color: 39Pinthroughholeshort
+name_no_size: 39 Pin Through Hole Short
+name_no_type: 2 54 Mm 39 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_39_pin_through_hole_short
+oomp_word: tennis trident squirrel
+oomp_word_emoji: ':tennis: :trident: :squirrel:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':trident:'
+- ':squirrel:'
+oomp_word_list:
+- tennis
+- trident
+- squirrel
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+id_no_color: 0203ex16teethshmotorservostandard01
+id_no_size: 02_03_ex_16_teeth_sh_motor_servo_standard_01
+id_no_type: gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 476657de7eb892865a032063cd43477b
+md5_10: 476657de7e
+md5_10_upper: 476657DE7E
+md5_5: '47665'
+md5_5_upper: '47665'
+md5_6: '476657'
+md5_6_alpha: 2sajb
+md5_6_alpha_upper: 2SAJB
+md5_6_upper: '476657'
+name: Oobb Part Gear 02 03 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 02 03 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_color: 0203Ex16Teethshmotorservostandard01
+name_no_size: 02 03 Ex 16 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 02 03 Ex 16 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth_sh_motor_servo_standard_01
+oomp_word: baby_chick leaves rat
+oomp_word_emoji: ':baby_chick: :leaves: :rat:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':leaves:'
+- ':rat:'
+oomp_word_list:
+- baby_chick
+- leaves
+- rat
+part_number: ''
+size: gear
+type: part

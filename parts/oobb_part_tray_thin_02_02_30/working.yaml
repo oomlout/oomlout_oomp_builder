@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_02_30'
+directory: parts/oobb_part_tray_thin_02_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_02_30
+id: oobb_part_tray_thin_02_02_30
+id_no_class: part_tray_thin_02_02_30
+id_no_color: '020230'
+id_no_size: '02_02_30'
+id_no_type: tray_thin_02_02_30
+manufacturer: ''
+md5: 917e465ddf35c8cb3707da7483336ba5
+md5_10: 917e465ddf
+md5_10_upper: 917E465DDF
+md5_5: 917e4
+md5_5_upper: 917E4
+md5_6: 917e46
+md5_6_alpha: 5odae
+md5_6_alpha_upper: 5ODAE
+md5_6_upper: 917E46
+name: Oobb Part Tray Thin 02 02 30
+name_no_class: Part Tray Thin 02 02 30
+name_no_color: '020230'
+name_no_size: 02 02 30
+name_no_type: Tray Thin 02 02 30
+oomp_key: oomp_oobb_part_tray_thin_02_02_30
+oomp_word: pushpin fax bird
+oomp_word_emoji: ':pushpin: :fax: :bird:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':fax:'
+- ':bird:'
+oomp_word_list:
+- pushpin
+- fax
+- bird
+part_number: ''
+size: tray_thin
+type: part

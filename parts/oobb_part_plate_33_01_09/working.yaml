@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '33_01_09'
+directory: parts/oobb_part_plate_33_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_33_01_09
+id: oobb_part_plate_33_01_09
+id_no_class: part_plate_33_01_09
+id_no_color: '330109'
+id_no_size: '33_01_09'
+id_no_type: plate_33_01_09
+manufacturer: ''
+md5: 4bbfb6d3593dba276f5d83c7513999e4
+md5_10: 4bbfb6d359
+md5_10_upper: 4BBFB6D359
+md5_5: 4bbfb
+md5_5_upper: 4BBFB
+md5_6: 4bbfb6
+md5_6_alpha: 2yegm
+md5_6_alpha_upper: 2YEGM
+md5_6_upper: 4BBFB6
+name: Oobb Part Plate 33 01 09
+name_no_class: Part Plate 33 01 09
+name_no_color: '330109'
+name_no_size: 33 01 09
+name_no_type: Plate 33 01 09
+oomp_key: oomp_oobb_part_plate_33_01_09
+oomp_word: penguin egg beer
+oomp_word_emoji: ':penguin: :egg: :beer:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':egg:'
+- ':beer:'
+oomp_word_list:
+- penguin
+- egg
+- beer
+part_number: ''
+size: plate
+type: part

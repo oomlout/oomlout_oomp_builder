@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '33_01_06'
+directory: parts/oobb_part_plate_33_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_33_01_06
+id: oobb_part_plate_33_01_06
+id_no_class: part_plate_33_01_06
+id_no_color: '330106'
+id_no_size: '33_01_06'
+id_no_type: plate_33_01_06
+manufacturer: ''
+md5: af4a539b5d243fd0cb8e284e8dbdfa93
+md5_10: af4a539b5d
+md5_10_upper: AF4A539B5D
+md5_5: af4a5
+md5_5_upper: AF4A5
+md5_6: af4a53
+md5_6_alpha: 6u82b
+md5_6_alpha_upper: 6U82B
+md5_6_upper: AF4A53
+name: Oobb Part Plate 33 01 06
+name_no_class: Part Plate 33 01 06
+name_no_color: '330106'
+name_no_size: 33 01 06
+name_no_type: Plate 33 01 06
+oomp_key: oomp_oobb_part_plate_33_01_06
+oomp_word: tophat chicken fish
+oomp_word_emoji: ':tophat: :chicken: :fish:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':chicken:'
+- ':fish:'
+oomp_word_list:
+- tophat
+- chicken
+- fish
+part_number: ''
+size: plate
+type: part

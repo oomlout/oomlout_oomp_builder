@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 10_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_surface_mount
+id: electronic_header_2_5_mm_jst_xh_10_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_10_pin_surface_mount
+id_no_color: 10pinsurfacemount
+id_no_size: 10_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_10_pin_surface_mount
+manufacturer: ''
+md5: 5d40613953fa0c4603bb9a8fce85d1e4
+md5_10: 5d40613953
+md5_10_upper: 5D40613953
+md5_5: 5d406
+md5_5_upper: 5D406
+md5_6: 5d4061
+md5_6_alpha: 3mzj5
+md5_6_alpha_upper: 3MZJ5
+md5_6_upper: 5D4061
+name: Electronic Header 2 5 Mm Jst Xh 10 Pin Surface Mount
+name_no_class: Header 2 5 Mm Jst Xh 10 Pin Surface Mount
+name_no_color: 10Pinsurfacemount
+name_no_size: 10 Pin Surface Mount
+name_no_type: 2 5 Mm Jst Xh 10 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_10_pin_surface_mount
+oomp_word: blowfish racehorse bouquet
+oomp_word_emoji: ':blowfish: :racehorse: :bouquet:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':racehorse:'
+- ':bouquet:'
+oomp_word_list:
+- blowfish
+- racehorse
+- bouquet
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

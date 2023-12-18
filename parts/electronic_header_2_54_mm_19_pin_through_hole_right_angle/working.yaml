@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 19_pin
+directory: parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_19_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_19_pin_through_hole_right_angle
+id_no_color: 19pinthroughholerightangle
+id_no_size: 19_pin_through_hole_right_angle
+id_no_type: 2_54_mm_19_pin_through_hole_right_angle
+manufacturer: ''
+md5: 21c3517d9359e49338ba0c700f623bcc
+md5_10: 21c3517d93
+md5_10_upper: 21C3517D93
+md5_5: 21c35
+md5_5_upper: 21C35
+md5_6: 21c351
+md5_6_alpha: 1bfbl
+md5_6_alpha_upper: 1BFBL
+md5_6_upper: 21C351
+name: Electronic Header 2 54 Mm 19 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 19 Pin Through Hole Right Angle
+name_no_color: 19Pinthroughholerightangle
+name_no_size: 19 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 19 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_19_pin_through_hole_right_angle
+oomp_word: feet cake snail
+oomp_word_emoji: ':feet: :cake: :snail:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':cake:'
+- ':snail:'
+oomp_word_list:
+- feet
+- cake
+- snail
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 34_pin
+directory: parts/electronic_header_2_54_mm_34_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_long
+id: electronic_header_2_54_mm_34_pin_through_hole_long
+id_no_class: header_2_54_mm_34_pin_through_hole_long
+id_no_color: 34pinthroughholelong
+id_no_size: 34_pin_through_hole_long
+id_no_type: 2_54_mm_34_pin_through_hole_long
+manufacturer: ''
+md5: 3c785007356aa0c9194db95defe65fb0
+md5_10: 3c78500735
+md5_10_upper: 3C78500735
+md5_5: 3c785
+md5_5_upper: 3C785
+md5_6: 3c7850
+md5_6_alpha: 2cxu8
+md5_6_alpha_upper: 2CXU8
+md5_6_upper: 3C7850
+name: Electronic Header 2 54 Mm 34 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 34 Pin Through Hole Long
+name_no_color: 34Pinthroughholelong
+name_no_size: 34 Pin Through Hole Long
+name_no_type: 2 54 Mm 34 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_34_pin_through_hole_long
+oomp_word: pig bell beetle
+oomp_word_emoji: ':pig: :bell: :beetle:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':bell:'
+- ':beetle:'
+oomp_word_list:
+- pig
+- bell
+- beetle
+part_number: ''
+size: 2_54_mm
+type: header

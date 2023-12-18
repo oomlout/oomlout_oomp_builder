@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0206ex40teethshmotorgearmotorttmotor01
+id_no_size: 02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: 97281414ecb198bdf2aca1d06613c126
+md5_10: 97281414ec
+md5_10_upper: 97281414EC
+md5_5: '97281'
+md5_5_upper: '97281'
+md5_6: '972814'
+md5_6_alpha: 5wbo4
+md5_6_alpha_upper: 5WBO4
+md5_6_upper: '972814'
+name: Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_color: 0206Ex40Teethshmotorgearmotorttmotor01
+name_no_size: 02 06 Ex 40 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 02 06 Ex 40 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: baseball tongue fire
+oomp_word_emoji: ':baseball: :tongue: :fire:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':tongue:'
+- ':fire:'
+oomp_word_list:
+- baseball
+- tongue
+- fire
+part_number: ''
+size: pulley_gt2
+type: part

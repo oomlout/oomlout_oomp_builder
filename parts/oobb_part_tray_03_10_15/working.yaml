@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_10_15'
+directory: parts/oobb_part_tray_03_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_10_15
+id: oobb_part_tray_03_10_15
+id_no_class: part_tray_03_10_15
+id_no_color: '031015'
+id_no_size: '03_10_15'
+id_no_type: tray_03_10_15
+manufacturer: ''
+md5: 7ea58a9fc4b03d49589f50c036092989
+md5_10: 7ea58a9fc4
+md5_10_upper: 7EA58A9FC4
+md5_5: 7ea58
+md5_5_upper: 7EA58
+md5_6: 7ea58a
+md5_6_alpha: 4xw96
+md5_6_alpha_upper: 4XW96
+md5_6_upper: 7EA58A
+name: Oobb Part Tray 03 10 15
+name_no_class: Part Tray 03 10 15
+name_no_color: '031015'
+name_no_size: 03 10 15
+name_no_type: Tray 03 10 15
+oomp_key: oomp_oobb_part_tray_03_10_15
+oomp_word: fax headphones envelope
+oomp_word_emoji: ':fax: :headphones: :envelope:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':headphones:'
+- ':envelope:'
+oomp_word_list:
+- fax
+- headphones
+- envelope
+part_number: ''
+size: tray
+type: part

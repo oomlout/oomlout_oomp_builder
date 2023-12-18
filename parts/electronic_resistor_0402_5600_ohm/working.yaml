@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600_ohm
+directory: parts/electronic_resistor_0402_5600_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_5600_ohm
+id: electronic_resistor_0402_5600_ohm
+id_no_class: resistor_0402_5600_ohm
+id_no_color: 5600ohm
+id_no_size: 5600_ohm
+id_no_type: 0402_5600_ohm
+manufacturer: ''
+md5: 8b307b2f986c4efca7666f0676203e4a
+md5_10: 8b307b2f98
+md5_10_upper: 8B307B2F98
+md5_5: 8b307
+md5_5_upper: 8B307
+md5_6: 8b307b
+md5_6_alpha: 5fiij
+md5_6_alpha_upper: 5FIIJ
+md5_6_upper: 8B307B
+name: Electronic Resistor 0402 5600 Ohm
+name_no_class: Resistor 0402 5600 Ohm
+name_no_color: 5600Ohm
+name_no_size: 5600 Ohm
+name_no_type: 0402 5600 Ohm
+oomp_key: oomp_electronic_resistor_0402_5600_ohm
+oomp_word: door foggy computer
+oomp_word_emoji: ':door: :foggy: :computer:'
+oomp_word_emoji_list:
+- ':door:'
+- ':foggy:'
+- ':computer:'
+oomp_word_list:
+- door
+- foggy
+- computer
+part_number: ''
+size: '0402'
+type: resistor

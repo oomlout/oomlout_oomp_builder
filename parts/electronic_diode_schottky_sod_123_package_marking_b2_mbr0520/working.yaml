@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: package_marking_b2
+description_main: ''
+directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+id_no_class: diode_schottky_sod_123_package_marking_b2_mbr0520
+id_no_color: packagemarkingb2mbr0520
+id_no_size: package_marking_b2_mbr0520
+id_no_type: sod_123_package_marking_b2_mbr0520
+manufacturer: ''
+md5: fd1bfba95edbbb6f03cb0e465b2a0493
+md5_10: fd1bfba95e
+md5_10_upper: FD1BFBA95E
+md5_5: fd1bf
+md5_5_upper: FD1BF
+md5_6: fd1bfb
+md5_6_alpha: 9vj7f
+md5_6_alpha_upper: 9VJ7F
+md5_6_upper: FD1BFB
+name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
+name_no_class: Diode Schottky Sod 123 Package Marking B2 Mbr0520
+name_no_color: Packagemarkingb2Mbr0520
+name_no_size: Package Marking B2 Mbr0520
+name_no_type: Sod 123 Package Marking B2 Mbr0520
+oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+oomp_word: parking muscle ok
+oomp_word_emoji: ':parking: :muscle: :ok:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':muscle:'
+- ':ok:'
+oomp_word_list:
+- parking
+- muscle
+- ok
+part_number: mbr0520
+size: sod_123
+type: diode_schottky

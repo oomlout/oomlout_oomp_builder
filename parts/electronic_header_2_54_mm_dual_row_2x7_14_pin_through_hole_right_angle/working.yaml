@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x7_14_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+id_no_color: 2x714pinthroughholerightangle
+id_no_size: 2x7_14_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+manufacturer: ''
+md5: d7894750737d43805a02ea0ee52f92a3
+md5_10: d789475073
+md5_10_upper: D789475073
+md5_5: d7894
+md5_5_upper: D7894
+md5_6: d78947
+md5_6_alpha: 8er7r
+md5_6_alpha_upper: 8ER7R
+md5_6_upper: D78947
+name: Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X7 14 Pin Through Hole Right Angle
+name_no_color: 2X714Pinthroughholerightangle
+name_no_size: 2X7 14 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X7 14 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x7_14_pin_through_hole_right_angle
+oomp_word: office hammer baby_chick
+oomp_word_emoji: ':office: :hammer: :baby_chick:'
+oomp_word_emoji_list:
+- ':office:'
+- ':hammer:'
+- ':baby_chick:'
+oomp_word_list:
+- office
+- hammer
+- baby_chick
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

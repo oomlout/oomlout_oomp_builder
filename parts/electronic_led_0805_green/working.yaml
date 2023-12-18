@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_green
+id: electronic_led_0805_green
+id_no_class: led_0805_green
+id_no_color: green
+id_no_size: green
+id_no_type: 0805_green
+manufacturer: ''
+md5: 86fed6a509f645111309ee5e446eb91f
+md5_10: 86fed6a509
+md5_10_upper: 86FED6A509
+md5_5: 86fed
+md5_5_upper: 86FED
+md5_6: 86fed6
+md5_6_alpha: 59mfq
+md5_6_alpha_upper: 59MFQ
+md5_6_upper: 86FED6
+name: Electronic Led 0805 Green
+name_no_class: Led 0805 Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 0805 Green
+oomp_key: oomp_electronic_led_0805_green
+oomp_word: bath recycle school
+oomp_word_emoji: ':bath: :recycle: :school:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':recycle:'
+- ':school:'
+oomp_word_list:
+- bath
+- recycle
+- school
+part_number: ''
+size: 0805
+type: led

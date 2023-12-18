@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_09
+directory: parts/oobb_part_tray_vertical_06_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_06_09
+id: oobb_part_tray_vertical_06_06_09
+id_no_class: part_tray_vertical_06_06_09
+id_no_color: 060609
+id_no_size: 06_06_09
+id_no_type: tray_vertical_06_06_09
+manufacturer: ''
+md5: f29710a68bc5c30d317cc1c99ba9e078
+md5_10: f29710a68b
+md5_10_upper: F29710A68B
+md5_5: f2971
+md5_5_upper: F2971
+md5_6: f29710
+md5_6_alpha: 9gr9s
+md5_6_alpha_upper: 9GR9S
+md5_6_upper: F29710
+name: Oobb Part Tray Vertical 06 06 09
+name_no_class: Part Tray Vertical 06 06 09
+name_no_color: 060609
+name_no_size: 06 06 09
+name_no_type: Tray Vertical 06 06 09
+oomp_key: oomp_oobb_part_tray_vertical_06_06_09
+oomp_word: one baseball star
+oomp_word_emoji: ':one: :baseball: :star:'
+oomp_word_emoji_list:
+- ':one:'
+- ':baseball:'
+- ':star:'
+oomp_word_list:
+- one
+- baseball
+- star
+part_number: ''
+size: tray_vertical
+type: part

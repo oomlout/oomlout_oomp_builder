@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_12_15
+directory: parts/oobb_part_tray_08_12_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_12_15
+id: oobb_part_tray_08_12_15
+id_no_class: part_tray_08_12_15
+id_no_color: 081215
+id_no_size: 08_12_15
+id_no_type: tray_08_12_15
+manufacturer: ''
+md5: f6ec86f95986b26ea70a2df9430dff3e
+md5_10: f6ec86f959
+md5_10_upper: F6EC86F959
+md5_5: f6ec8
+md5_5_upper: F6EC8
+md5_6: f6ec86
+md5_6_alpha: 9mufa
+md5_6_alpha_upper: 9MUFA
+md5_6_upper: F6EC86
+name: Oobb Part Tray 08 12 15
+name_no_class: Part Tray 08 12 15
+name_no_color: 081215
+name_no_size: 08 12 15
+name_no_type: Tray 08 12 15
+oomp_key: oomp_oobb_part_tray_08_12_15
+oomp_word: five taxi bath
+oomp_word_emoji: ':five: :taxi: :bath:'
+oomp_word_emoji_list:
+- ':five:'
+- ':taxi:'
+- ':bath:'
+oomp_word_list:
+- five
+- taxi
+- bath
+part_number: ''
+size: tray
+type: part

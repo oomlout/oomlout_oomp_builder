@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_09
+directory: parts/oobb_part_tray_thin_04_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_04_09
+id: oobb_part_tray_thin_04_04_09
+id_no_class: part_tray_thin_04_04_09
+id_no_color: 040409
+id_no_size: 04_04_09
+id_no_type: tray_thin_04_04_09
+manufacturer: ''
+md5: cfde40c2e0757123da2693ffc9e4d7a2
+md5_10: cfde40c2e0
+md5_10_upper: CFDE40C2E0
+md5_5: cfde4
+md5_5_upper: CFDE4
+md5_6: cfde40
+md5_6_alpha: 83zgg
+md5_6_alpha_upper: 83ZGG
+md5_6_upper: CFDE40
+name: Oobb Part Tray Thin 04 04 09
+name_no_class: Part Tray Thin 04 04 09
+name_no_color: 040409
+name_no_size: 04 04 09
+name_no_type: Tray Thin 04 04 09
+oomp_key: oomp_oobb_part_tray_thin_04_04_09
+oomp_word: melon rainbow racehorse
+oomp_word_emoji: ':melon: :rainbow: :racehorse:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':rainbow:'
+- ':racehorse:'
+oomp_word_list:
+- melon
+- rainbow
+- racehorse
+part_number: ''
+size: tray_thin
+type: part

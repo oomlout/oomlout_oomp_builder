@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_18
+directory: parts/oobb_part_tray_01_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_18
+id: oobb_part_tray_01_06_18
+id_no_class: part_tray_01_06_18
+id_no_color: 010618
+id_no_size: 01_06_18
+id_no_type: tray_01_06_18
+manufacturer: ''
+md5: 51de856f55c4e65c5b3483ab6760c111
+md5_10: 51de856f55
+md5_10_upper: 51DE856F55
+md5_5: 51de8
+md5_5_upper: 51DE8
+md5_6: 51de85
+md5_6_alpha: 36zyd
+md5_6_alpha_upper: 36ZYD
+md5_6_upper: 51DE85
+name: Oobb Part Tray 01 06 18
+name_no_class: Part Tray 01 06 18
+name_no_color: 010618
+name_no_size: 01 06 18
+name_no_type: Tray 01 06 18
+oomp_key: oomp_oobb_part_tray_01_06_18
+oomp_word: snail rainbow bulb
+oomp_word_emoji: ':snail: :rainbow: :bulb:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':rainbow:'
+- ':bulb:'
+oomp_word_list:
+- snail
+- rainbow
+- bulb
+part_number: ''
+size: tray
+type: part

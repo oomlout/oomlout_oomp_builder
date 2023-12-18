@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_05_18
+directory: parts/oobb_part_tray_vertical_06_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_18
+id: oobb_part_tray_vertical_06_05_18
+id_no_class: part_tray_vertical_06_05_18
+id_no_color: 060518
+id_no_size: 06_05_18
+id_no_type: tray_vertical_06_05_18
+manufacturer: ''
+md5: 31938f3398bf3883813be84f81d85ff8
+md5_10: 31938f3398
+md5_10_upper: 31938F3398
+md5_5: '31938'
+md5_5_upper: '31938'
+md5_6: 31938f
+md5_6_alpha: 1xmz3
+md5_6_alpha_upper: 1XMZ3
+md5_6_upper: 31938F
+name: Oobb Part Tray Vertical 06 05 18
+name_no_class: Part Tray Vertical 06 05 18
+name_no_color: 060518
+name_no_size: 06 05 18
+name_no_type: Tray Vertical 06 05 18
+oomp_key: oomp_oobb_part_tray_vertical_06_05_18
+oomp_word: ocean books calendar
+oomp_word_emoji: ':ocean: :books: :calendar:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':books:'
+- ':calendar:'
+oomp_word_list:
+- ocean
+- books
+- calendar
+part_number: ''
+size: tray_vertical
+type: part

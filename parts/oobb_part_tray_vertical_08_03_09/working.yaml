@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_03_09
+directory: parts/oobb_part_tray_vertical_08_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_03_09
+id: oobb_part_tray_vertical_08_03_09
+id_no_class: part_tray_vertical_08_03_09
+id_no_color: 080309
+id_no_size: 08_03_09
+id_no_type: tray_vertical_08_03_09
+manufacturer: ''
+md5: 35b3bdeed70622868d338f615c0720bf
+md5_10: 35b3bdeed7
+md5_10_upper: 35B3BDEED7
+md5_5: 35b3b
+md5_5_upper: 35B3B
+md5_6: 35b3bd
+md5_6_alpha: 23flp
+md5_6_alpha_upper: 23FLP
+md5_6_upper: 35B3BD
+name: Oobb Part Tray Vertical 08 03 09
+name_no_class: Part Tray Vertical 08 03 09
+name_no_color: 080309
+name_no_size: 08 03 09
+name_no_type: Tray Vertical 08 03 09
+oomp_key: oomp_oobb_part_tray_vertical_08_03_09
+oomp_word: hamster eyeglasses rice
+oomp_word_emoji: ':hamster: :eyeglasses: :rice:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':eyeglasses:'
+- ':rice:'
+oomp_word_list:
+- hamster
+- eyeglasses
+- rice
+part_number: ''
+size: tray_vertical
+type: part

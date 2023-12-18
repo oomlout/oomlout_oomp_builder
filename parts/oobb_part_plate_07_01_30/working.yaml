@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_01_30'
+directory: parts/oobb_part_plate_07_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_30
+id: oobb_part_plate_07_01_30
+id_no_class: part_plate_07_01_30
+id_no_color: '070130'
+id_no_size: '07_01_30'
+id_no_type: plate_07_01_30
+manufacturer: ''
+md5: b31217e92c30a60d38987db6f6cd64ab
+md5_10: b31217e92c
+md5_10_upper: B31217E92C
+md5_5: b3121
+md5_5_upper: B3121
+md5_6: b31217
+md5_6_alpha: 6zj87
+md5_6_alpha_upper: 6ZJ87
+md5_6_upper: B31217
+name: Oobb Part Plate 07 01 30
+name_no_class: Part Plate 07 01 30
+name_no_color: '070130'
+name_no_size: 07 01 30
+name_no_type: Plate 07 01 30
+oomp_key: oomp_oobb_part_plate_07_01_30
+oomp_word: eyeglasses anger thumbsdown
+oomp_word_emoji: ':eyeglasses: :anger: :thumbsdown:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':anger:'
+- ':thumbsdown:'
+oomp_word_list:
+- eyeglasses
+- anger
+- thumbsdown
+part_number: ''
+size: plate
+type: part

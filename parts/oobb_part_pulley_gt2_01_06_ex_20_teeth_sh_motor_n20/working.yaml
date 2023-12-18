@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_20_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+id_no_color: 0106ex20teethshmotorn20
+id_no_size: 01_06_ex_20_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+manufacturer: ''
+md5: 2d8ef335eeaf967cafa14b55dd48794f
+md5_10: 2d8ef335ee
+md5_10_upper: 2D8EF335EE
+md5_5: 2d8ef
+md5_5_upper: 2D8EF
+md5_6: 2d8ef3
+md5_6_alpha: 1rzsj
+md5_6_alpha_upper: 1RZSJ
+md5_6_upper: 2D8EF3
+name: Oobb Part Pulley Gt2 01 06 Ex 20 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 06 Ex 20 Teeth Sh Motor N20
+name_no_color: 0106Ex20Teethshmotorn20
+name_no_size: 01 06 Ex 20 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 06 Ex 20 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_20_teeth_sh_motor_n20
+oomp_word: snowman clipboard two
+oomp_word_emoji: ':snowman: :clipboard: :two:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':clipboard:'
+- ':two:'
+oomp_word_list:
+- snowman
+- clipboard
+- two
+part_number: ''
+size: pulley_gt2
+type: part

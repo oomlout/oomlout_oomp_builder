@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_12_6704_sh_motor_building_block_large_01
+directory: parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+id: oobb_part_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+id_no_class: part_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+id_no_color: 0303126704shmotorbuildingblocklarge01
+id_no_size: 03_03_12_6704_sh_motor_building_block_large_01
+id_no_type: bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+manufacturer: ''
+md5: e4340ef40dbec72ee963de0e3b3d03e7
+md5_10: e4340ef40d
+md5_10_upper: E4340EF40D
+md5_5: e4340
+md5_5_upper: E4340
+md5_6: e4340e
+md5_6_alpha: 8wjri
+md5_6_alpha_upper: 8WJRI
+md5_6_upper: E4340E
+name: Oobb Part Bearing Plate 03 03 12 6704 Sh Motor Building Block Large 01
+name_no_class: Part Bearing Plate 03 03 12 6704 Sh Motor Building Block Large 01
+name_no_color: 0303126704Shmotorbuildingblocklarge01
+name_no_size: 03 03 12 6704 Sh Motor Building Block Large 01
+name_no_type: Bearing Plate 03 03 12 6704 Sh Motor Building Block Large 01
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01
+oomp_word: anchor mouse cupid
+oomp_word_emoji: ':anchor: :mouse: :cupid:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':mouse:'
+- ':cupid:'
+oomp_word_list:
+- anchor
+- mouse
+- cupid
+part_number: ''
+size: bearing_plate
+type: part

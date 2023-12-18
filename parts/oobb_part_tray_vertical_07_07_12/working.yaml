@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_07_12'
+directory: parts/oobb_part_tray_vertical_07_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_12
+id: oobb_part_tray_vertical_07_07_12
+id_no_class: part_tray_vertical_07_07_12
+id_no_color: '070712'
+id_no_size: '07_07_12'
+id_no_type: tray_vertical_07_07_12
+manufacturer: ''
+md5: ea1fa43d5de7138a2d84c7e70f1703fe
+md5_10: ea1fa43d5d
+md5_10_upper: EA1FA43D5D
+md5_5: ea1fa
+md5_5_upper: EA1FA
+md5_6: ea1fa4
+md5_6_alpha: 94v50
+md5_6_alpha_upper: 94V50
+md5_6_upper: EA1FA4
+name: Oobb Part Tray Vertical 07 07 12
+name_no_class: Part Tray Vertical 07 07 12
+name_no_color: '070712'
+name_no_size: 07 07 12
+name_no_type: Tray Vertical 07 07 12
+oomp_key: oomp_oobb_part_tray_vertical_07_07_12
+oomp_word: tractor princess book
+oomp_word_emoji: ':tractor: :princess: :book:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':princess:'
+- ':book:'
+oomp_word_list:
+- tractor
+- princess
+- book
+part_number: ''
+size: tray_vertical
+type: part

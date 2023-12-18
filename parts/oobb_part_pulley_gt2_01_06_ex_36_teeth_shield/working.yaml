@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_36_teeth_shield
+directory: parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_shield
+id: oobb_part_pulley_gt2_01_06_ex_36_teeth_shield
+id_no_class: part_pulley_gt2_01_06_ex_36_teeth_shield
+id_no_color: 0106ex36teethshield
+id_no_size: 01_06_ex_36_teeth_shield
+id_no_type: pulley_gt2_01_06_ex_36_teeth_shield
+manufacturer: ''
+md5: 67ff6ca5a7f1d78f326ab4a518e28f11
+md5_10: 67ff6ca5a7
+md5_10_upper: 67FF6CA5A7
+md5_5: 67ff6
+md5_5_upper: 67FF6
+md5_6: 67ff6c
+md5_6_alpha: 422y4
+md5_6_alpha_upper: 422Y4
+md5_6_upper: 67FF6C
+name: Oobb Part Pulley Gt2 01 06 Ex 36 Teeth Shield
+name_no_class: Part Pulley Gt2 01 06 Ex 36 Teeth Shield
+name_no_color: 0106Ex36Teethshield
+name_no_size: 01 06 Ex 36 Teeth Shield
+name_no_type: Pulley Gt2 01 06 Ex 36 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_36_teeth_shield
+oomp_word: herb trident blossom
+oomp_word_emoji: ':herb: :trident: :blossom:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':trident:'
+- ':blossom:'
+oomp_word_list:
+- herb
+- trident
+- blossom
+part_number: ''
+size: pulley_gt2
+type: part

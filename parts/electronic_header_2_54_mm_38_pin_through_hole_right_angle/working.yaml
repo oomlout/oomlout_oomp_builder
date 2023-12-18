@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 38_pin
+directory: parts/electronic_header_2_54_mm_38_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_38_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_38_pin_through_hole_right_angle
+id_no_color: 38pinthroughholerightangle
+id_no_size: 38_pin_through_hole_right_angle
+id_no_type: 2_54_mm_38_pin_through_hole_right_angle
+manufacturer: ''
+md5: 6d0c1e4efbfe85ad67dc379725ef7cdc
+md5_10: 6d0c1e4efb
+md5_10_upper: 6D0C1E4EFB
+md5_5: 6d0c1
+md5_5_upper: 6D0C1
+md5_6: 6d0c1e
+md5_6_alpha: 496am
+md5_6_alpha_upper: 496AM
+md5_6_upper: 6D0C1E
+name: Electronic Header 2 54 Mm 38 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 38 Pin Through Hole Right Angle
+name_no_color: 38Pinthroughholerightangle
+name_no_size: 38 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 38 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_38_pin_through_hole_right_angle
+oomp_word: shell alien angel
+oomp_word_emoji: ':shell: :alien: :angel:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':alien:'
+- ':angel:'
+oomp_word_list:
+- shell
+- alien
+- angel
+part_number: ''
+size: 2_54_mm
+type: header

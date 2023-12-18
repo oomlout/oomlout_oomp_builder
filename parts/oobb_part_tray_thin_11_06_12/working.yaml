@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_06_12'
+directory: parts/oobb_part_tray_thin_11_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_06_12
+id: oobb_part_tray_thin_11_06_12
+id_no_class: part_tray_thin_11_06_12
+id_no_color: '110612'
+id_no_size: '11_06_12'
+id_no_type: tray_thin_11_06_12
+manufacturer: ''
+md5: 5928a9c02eae05d947b86be033a3858a
+md5_10: 5928a9c02e
+md5_10_upper: 5928A9C02E
+md5_5: 5928a
+md5_5_upper: 5928A
+md5_6: 5928a9
+md5_6_alpha: 3h8kp
+md5_6_alpha_upper: 3H8KP
+md5_6_upper: 5928A9
+name: Oobb Part Tray Thin 11 06 12
+name_no_class: Part Tray Thin 11 06 12
+name_no_color: '110612'
+name_no_size: 11 06 12
+name_no_type: Tray Thin 11 06 12
+oomp_key: oomp_oobb_part_tray_thin_11_06_12
+oomp_word: dragon tongue sandal
+oomp_word_emoji: ':dragon: :tongue: :sandal:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':tongue:'
+- ':sandal:'
+oomp_word_list:
+- dragon
+- tongue
+- sandal
+part_number: ''
+size: tray_thin
+type: part

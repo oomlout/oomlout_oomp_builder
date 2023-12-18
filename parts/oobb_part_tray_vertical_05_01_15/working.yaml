@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_15'
+directory: parts/oobb_part_tray_vertical_05_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_01_15
+id: oobb_part_tray_vertical_05_01_15
+id_no_class: part_tray_vertical_05_01_15
+id_no_color: '050115'
+id_no_size: '05_01_15'
+id_no_type: tray_vertical_05_01_15
+manufacturer: ''
+md5: 4571bd1e91cb23d4762cf36e6d9462ec
+md5_10: 4571bd1e91
+md5_10_upper: 4571BD1E91
+md5_5: 4571b
+md5_5_upper: 4571B
+md5_6: 4571bd
+md5_6_alpha: 2pjnh
+md5_6_alpha_upper: 2PJNH
+md5_6_upper: 4571BD
+name: Oobb Part Tray Vertical 05 01 15
+name_no_class: Part Tray Vertical 05 01 15
+name_no_color: '050115'
+name_no_size: 05 01 15
+name_no_type: Tray Vertical 05 01 15
+oomp_key: oomp_oobb_part_tray_vertical_05_01_15
+oomp_word: snake bamboo rice
+oomp_word_emoji: ':snake: :bamboo: :rice:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':bamboo:'
+- ':rice:'
+oomp_word_list:
+- snake
+- bamboo
+- rice
+part_number: ''
+size: tray_vertical
+type: part

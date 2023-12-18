@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_v
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_v
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_v
+id: oobb_part_bunting_alphabet_07_01_ex_v
+id_no_class: part_bunting_alphabet_07_01_ex_v
+id_no_color: 0701exv
+id_no_size: 07_01_ex_v
+id_no_type: bunting_alphabet_07_01_ex_v
+manufacturer: ''
+md5: f1850e4398845b4c97a133c3a5010833
+md5_10: f1850e4398
+md5_10_upper: F1850E4398
+md5_5: f1850
+md5_5_upper: F1850
+md5_6: f1850e
+md5_6_alpha: 9f95a
+md5_6_alpha_upper: 9F95A
+md5_6_upper: F1850E
+name: Oobb Part Bunting Alphabet 07 01 Ex V
+name_no_class: Part Bunting Alphabet 07 01 Ex V
+name_no_color: 0701Exv
+name_no_size: 07 01 Ex V
+name_no_type: Bunting Alphabet 07 01 Ex V
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_v
+oomp_word: ticket bulb cupid
+oomp_word_emoji: ':ticket: :bulb: :cupid:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':bulb:'
+- ':cupid:'
+oomp_word_list:
+- ticket
+- bulb
+- cupid
+part_number: ''
+size: bunting_alphabet
+type: part

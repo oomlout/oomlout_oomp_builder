@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 7_pin
+directory: parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+id_no_color: 7pinsurfacemountrightangle
+id_no_size: 7_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_7_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 9ca7b3f936efc0aaf745cecc64c2a58d
+md5_10: 9ca7b3f936
+md5_10_upper: 9CA7B3F936
+md5_5: 9ca7b
+md5_5_upper: 9CA7B
+md5_6: 9ca7b3
+md5_6_alpha: 641pv
+md5_6_alpha_upper: 641PV
+md5_6_upper: 9CA7B3
+name: Electronic Header 1 Mm Jst Sh 7 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 7 Pin Surface Mount Right Angle
+name_no_color: 7Pinsurfacemountrightangle
+name_no_size: 7 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 7 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_7_pin_surface_mount_right_angle
+oomp_word: spades guitar eyeglasses
+oomp_word_emoji: ':spades: :guitar: :eyeglasses:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':guitar:'
+- ':eyeglasses:'
+oomp_word_list:
+- spades
+- guitar
+- eyeglasses
+part_number: ''
+size: 1_mm_jst_sh
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_1d5_30
+directory: parts/oobb_part_tray_thin_04_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_1d5_30
+id: oobb_part_tray_thin_04_1d5_30
+id_no_class: part_tray_thin_04_1d5_30
+id_no_color: 041d530
+id_no_size: 04_1d5_30
+id_no_type: tray_thin_04_1d5_30
+manufacturer: ''
+md5: fe54f23a85b2dc84bf5aec0a9baee4ff
+md5_10: fe54f23a85
+md5_10_upper: FE54F23A85
+md5_5: fe54f
+md5_5_upper: FE54F
+md5_6: fe54f2
+md5_6_alpha: 9x90y
+md5_6_alpha_upper: 9X90Y
+md5_6_upper: FE54F2
+name: Oobb Part Tray Thin 04 1D5 30
+name_no_class: Part Tray Thin 04 1D5 30
+name_no_color: 041D530
+name_no_size: 04 1D5 30
+name_no_type: Tray Thin 04 1D5 30
+oomp_key: oomp_oobb_part_tray_thin_04_1d5_30
+oomp_word: recycle whale one
+oomp_word_emoji: ':recycle: :whale: :one:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':whale:'
+- ':one:'
+oomp_word_list:
+- recycle
+- whale
+- one
+part_number: ''
+size: tray_thin
+type: part

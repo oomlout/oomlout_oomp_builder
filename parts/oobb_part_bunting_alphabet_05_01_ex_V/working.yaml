@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_v
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_v
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_v
+id: oobb_part_bunting_alphabet_05_01_ex_v
+id_no_class: part_bunting_alphabet_05_01_ex_v
+id_no_color: 0501exv
+id_no_size: 05_01_ex_v
+id_no_type: bunting_alphabet_05_01_ex_v
+manufacturer: ''
+md5: 14f730b9dc65ce5347597593efaeae51
+md5_10: 14f730b9dc
+md5_10_upper: 14F730B9DC
+md5_5: 14f73
+md5_5_upper: 14F73
+md5_6: 14f730
+md5_6_alpha: tg6o
+md5_6_alpha_upper: TG6O
+md5_6_upper: 14F730
+name: Oobb Part Bunting Alphabet 05 01 Ex V
+name_no_class: Part Bunting Alphabet 05 01 Ex V
+name_no_color: 0501Exv
+name_no_size: 05 01 Ex V
+name_no_type: Bunting Alphabet 05 01 Ex V
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_v
+oomp_word: fire six foggy
+oomp_word_emoji: ':fire: :six: :foggy:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':six:'
+- ':foggy:'
+oomp_word_list:
+- fire
+- six
+- foggy
+part_number: ''
+size: bunting_alphabet
+type: part

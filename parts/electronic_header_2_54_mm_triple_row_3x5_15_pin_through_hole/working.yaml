@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x5_15_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x5_15_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x5_15_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x5_15_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x5_15_pin_through_hole
+id_no_color: 3x515pinthroughhole
+id_no_size: 3x5_15_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x5_15_pin_through_hole
+manufacturer: ''
+md5: da7568c0a3aad3cdca825f6ccd2aa1a1
+md5_10: da7568c0a3
+md5_10_upper: DA7568C0A3
+md5_5: da756
+md5_5_upper: DA756
+md5_6: da7568
+md5_6_alpha: 8iuzs
+md5_6_alpha_upper: 8IUZS
+md5_6_upper: DA7568
+name: Electronic Header 2 54 Mm Triple Row 3X5 15 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X5 15 Pin Through Hole
+name_no_color: 3X515Pinthroughhole
+name_no_size: 3X5 15 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X5 15 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x5_15_pin_through_hole
+oomp_word: hotel ghost mushroom
+oomp_word_emoji: ':hotel: :ghost: :mushroom:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':ghost:'
+- ':mushroom:'
+oomp_word_list:
+- hotel
+- ghost
+- mushroom
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

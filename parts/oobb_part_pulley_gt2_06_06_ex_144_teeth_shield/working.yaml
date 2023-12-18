@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_shield
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_shield
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_shield
+id_no_color: 0606ex144teethshield
+id_no_size: 06_06_ex_144_teeth_shield
+id_no_type: pulley_gt2_06_06_ex_144_teeth_shield
+manufacturer: ''
+md5: 4fbf34c0d0e95e62984174a6855445ea
+md5_10: 4fbf34c0d0
+md5_10_upper: 4FBF34C0D0
+md5_5: 4fbf3
+md5_5_upper: 4FBF3
+md5_6: 4fbf34
+md5_6_alpha: 340ms
+md5_6_alpha_upper: 340MS
+md5_6_upper: 4FBF34
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Shield
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Shield
+name_no_color: 0606Ex144Teethshield
+name_no_size: 06 06 Ex 144 Teeth Shield
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_shield
+oomp_word: ant egg mouse
+oomp_word_emoji: ':ant: :egg: :mouse:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':egg:'
+- ':mouse:'
+oomp_word_list:
+- ant
+- egg
+- mouse
+part_number: ''
+size: pulley_gt2
+type: part

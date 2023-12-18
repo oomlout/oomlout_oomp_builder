@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_15'
+directory: parts/oobb_part_tray_thin_12_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_05_15
+id: oobb_part_tray_thin_12_05_15
+id_no_class: part_tray_thin_12_05_15
+id_no_color: '120515'
+id_no_size: '12_05_15'
+id_no_type: tray_thin_12_05_15
+manufacturer: ''
+md5: 6c8e30a3779fc79cf616997cbcd604cd
+md5_10: 6c8e30a377
+md5_10_upper: 6C8E30A377
+md5_5: 6c8e3
+md5_5_upper: 6C8E3
+md5_6: 6c8e30
+md5_6_alpha: 48hf4
+md5_6_alpha_upper: 48HF4
+md5_6_upper: 6C8E30
+name: Oobb Part Tray Thin 12 05 15
+name_no_class: Part Tray Thin 12 05 15
+name_no_color: '120515'
+name_no_size: 12 05 15
+name_no_type: Tray Thin 12 05 15
+oomp_key: oomp_oobb_part_tray_thin_12_05_15
+oomp_word: blossom clipboard foggy
+oomp_word_emoji: ':blossom: :clipboard: :foggy:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':clipboard:'
+- ':foggy:'
+oomp_word_list:
+- blossom
+- clipboard
+- foggy
+part_number: ''
+size: tray_thin
+type: part

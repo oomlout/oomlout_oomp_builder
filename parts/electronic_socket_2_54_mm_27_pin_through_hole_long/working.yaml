@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 27_pin
+directory: parts/electronic_socket_2_54_mm_27_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_27_pin_through_hole_long
+id: electronic_socket_2_54_mm_27_pin_through_hole_long
+id_no_class: socket_2_54_mm_27_pin_through_hole_long
+id_no_color: 27pinthroughholelong
+id_no_size: 27_pin_through_hole_long
+id_no_type: 2_54_mm_27_pin_through_hole_long
+manufacturer: ''
+md5: ca0878b4dcb42d966fd414f23241af2a
+md5_10: ca0878b4dc
+md5_10_upper: CA0878B4DC
+md5_5: ca087
+md5_5_upper: CA087
+md5_6: ca0878
+md5_6_alpha: 7vse0
+md5_6_alpha_upper: 7VSE0
+md5_6_upper: CA0878
+name: Electronic Socket 2 54 Mm 27 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 27 Pin Through Hole Long
+name_no_color: 27Pinthroughholelong
+name_no_size: 27 Pin Through Hole Long
+name_no_type: 2 54 Mm 27 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_27_pin_through_hole_long
+oomp_word: cherries scream bell
+oomp_word_emoji: ':cherries: :scream: :bell:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':scream:'
+- ':bell:'
+oomp_word_list:
+- cherries
+- scream
+- bell
+part_number: ''
+size: 2_54_mm
+type: socket

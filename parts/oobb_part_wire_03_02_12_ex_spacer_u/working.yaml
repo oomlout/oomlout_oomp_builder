@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_12_ex_spacer_u
+directory: parts/oobb_part_wire_03_02_12_ex_spacer_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12_ex_spacer_u
+id: oobb_part_wire_03_02_12_ex_spacer_u
+id_no_class: part_wire_03_02_12_ex_spacer_u
+id_no_color: 030212exspaceru
+id_no_size: 03_02_12_ex_spacer_u
+id_no_type: wire_03_02_12_ex_spacer_u
+manufacturer: ''
+md5: d7ab0ed94cf4cec4c8ba75a255f009aa
+md5_10: d7ab0ed94c
+md5_10_upper: D7AB0ED94C
+md5_5: d7ab0
+md5_5_upper: D7AB0
+md5_6: d7ab0e
+md5_6_alpha: 8exvy
+md5_6_alpha_upper: 8EXVY
+md5_6_upper: D7AB0E
+name: Oobb Part Wire 03 02 12 Ex Spacer U
+name_no_class: Part Wire 03 02 12 Ex Spacer U
+name_no_color: 030212Exspaceru
+name_no_size: 03 02 12 Ex Spacer U
+name_no_type: Wire 03 02 12 Ex Spacer U
+oomp_key: oomp_oobb_part_wire_03_02_12_ex_spacer_u
+oomp_word: office boot cupid
+oomp_word_emoji: ':office: :boot: :cupid:'
+oomp_word_emoji_list:
+- ':office:'
+- ':boot:'
+- ':cupid:'
+oomp_word_list:
+- office
+- boot
+- cupid
+part_number: ''
+size: wire
+type: part

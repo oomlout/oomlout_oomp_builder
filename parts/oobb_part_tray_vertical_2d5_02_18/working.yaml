@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_18
+directory: parts/oobb_part_tray_vertical_2d5_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_02_18
+id: oobb_part_tray_vertical_2d5_02_18
+id_no_class: part_tray_vertical_2d5_02_18
+id_no_color: 2d50218
+id_no_size: 2d5_02_18
+id_no_type: tray_vertical_2d5_02_18
+manufacturer: ''
+md5: 2afd48fa51c495f766d73cc94a91f7e6
+md5_10: 2afd48fa51
+md5_10_upper: 2AFD48FA51
+md5_5: 2afd4
+md5_5_upper: 2AFD4
+md5_6: 2afd48
+md5_6_alpha: 1odvs
+md5_6_alpha_upper: 1ODVS
+md5_6_upper: 2AFD48
+name: Oobb Part Tray Vertical 2D5 02 18
+name_no_class: Part Tray Vertical 2D5 02 18
+name_no_color: 2D50218
+name_no_size: 2D5 02 18
+name_no_type: Tray Vertical 2D5 02 18
+oomp_key: oomp_oobb_part_tray_vertical_2d5_02_18
+oomp_word: umbrella parking hatched_chick
+oomp_word_emoji: ':umbrella: :parking: :hatched_chick:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':parking:'
+- ':hatched_chick:'
+oomp_word_list:
+- umbrella
+- parking
+- hatched_chick
+part_number: ''
+size: tray_vertical
+type: part

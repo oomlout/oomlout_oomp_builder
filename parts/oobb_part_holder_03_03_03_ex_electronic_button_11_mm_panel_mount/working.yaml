@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_electronic_button_11_mm_panel_mount
+directory: parts/oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+id: oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+id_no_class: part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+id_no_color: 030303exelectronicbutton11mmpanelmount
+id_no_size: 03_03_03_ex_electronic_button_11_mm_panel_mount
+id_no_type: holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+manufacturer: ''
+md5: efc1887ddf085ba8a4135e99561a467d
+md5_10: efc1887ddf
+md5_10_upper: EFC1887DDF
+md5_5: efc18
+md5_5_upper: EFC18
+md5_6: efc188
+md5_6_alpha: 9cryg
+md5_6_alpha_upper: 9CRYG
+md5_6_upper: EFC188
+name: Oobb Part Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount
+name_no_class: Part Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount
+name_no_color: 030303Exelectronicbutton11Mmpanelmount
+name_no_size: 03 03 03 Ex Electronic Button 11 Mm Panel Mount
+name_no_type: Holder 03 03 03 Ex Electronic Button 11 Mm Panel Mount
+oomp_key: oomp_oobb_part_holder_03_03_03_ex_electronic_button_11_mm_panel_mount
+oomp_word: truck doughnut wrench
+oomp_word_emoji: ':truck: :doughnut: :wrench:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':doughnut:'
+- ':wrench:'
+oomp_word_list:
+- truck
+- doughnut
+- wrench
+part_number: ''
+size: holder
+type: part

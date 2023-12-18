@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_06_ex_spacer
+directory: parts/oobb_part_wire_03_02_06_ex_spacer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_06_ex_spacer
+id: oobb_part_wire_03_02_06_ex_spacer
+id_no_class: part_wire_03_02_06_ex_spacer
+id_no_color: 030206exspacer
+id_no_size: 03_02_06_ex_spacer
+id_no_type: wire_03_02_06_ex_spacer
+manufacturer: ''
+md5: 52d1afb66e6f48b4471cdbe26db12438
+md5_10: 52d1afb66e
+md5_10_upper: 52D1AFB66E
+md5_5: 52d1a
+md5_5_upper: 52D1A
+md5_6: 52d1af
+md5_6_alpha: 38bzj
+md5_6_alpha_upper: 38BZJ
+md5_6_upper: 52D1AF
+name: Oobb Part Wire 03 02 06 Ex Spacer
+name_no_class: Part Wire 03 02 06 Ex Spacer
+name_no_color: 030206Exspacer
+name_no_size: 03 02 06 Ex Spacer
+name_no_type: Wire 03 02 06 Ex Spacer
+oomp_key: oomp_oobb_part_wire_03_02_06_ex_spacer
+oomp_word: octopus pear tophat
+oomp_word_emoji: ':octopus: :pear: :tophat:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':pear:'
+- ':tophat:'
+oomp_word_list:
+- octopus
+- pear
+- tophat
+part_number: ''
+size: wire
+type: part

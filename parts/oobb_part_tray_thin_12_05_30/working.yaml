@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_05_30'
+directory: parts/oobb_part_tray_thin_12_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_05_30
+id: oobb_part_tray_thin_12_05_30
+id_no_class: part_tray_thin_12_05_30
+id_no_color: '120530'
+id_no_size: '12_05_30'
+id_no_type: tray_thin_12_05_30
+manufacturer: ''
+md5: e40be5bcf7142af56018fff0959b144f
+md5_10: e40be5bcf7
+md5_10_upper: E40BE5BCF7
+md5_5: e40be
+md5_5_upper: E40BE
+md5_6: e40be5
+md5_6_alpha: 8wbtx
+md5_6_alpha_upper: 8WBTX
+md5_6_upper: E40BE5
+name: Oobb Part Tray Thin 12 05 30
+name_no_class: Part Tray Thin 12 05 30
+name_no_color: '120530'
+name_no_size: 12 05 30
+name_no_type: Tray Thin 12 05 30
+oomp_key: oomp_oobb_part_tray_thin_12_05_30
+oomp_word: anchor sunglasses rocket
+oomp_word_emoji: ':anchor: :sunglasses: :rocket:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':sunglasses:'
+- ':rocket:'
+oomp_word_list:
+- anchor
+- sunglasses
+- rocket
+part_number: ''
+size: tray_thin
+type: part

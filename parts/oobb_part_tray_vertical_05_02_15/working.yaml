@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_02_15'
+directory: parts/oobb_part_tray_vertical_05_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_02_15
+id: oobb_part_tray_vertical_05_02_15
+id_no_class: part_tray_vertical_05_02_15
+id_no_color: '050215'
+id_no_size: '05_02_15'
+id_no_type: tray_vertical_05_02_15
+manufacturer: ''
+md5: 7075012081a69543c0bdf8c2378fa3ea
+md5_10: '7075012081'
+md5_10_upper: '7075012081'
+md5_5: '70750'
+md5_5_upper: '70750'
+md5_6: '707501'
+md5_6_alpha: 4dypt
+md5_6_alpha_upper: 4DYPT
+md5_6_upper: '707501'
+name: Oobb Part Tray Vertical 05 02 15
+name_no_class: Part Tray Vertical 05 02 15
+name_no_color: '050215'
+name_no_size: 05 02 15
+name_no_type: Tray Vertical 05 02 15
+oomp_key: oomp_oobb_part_tray_vertical_05_02_15
+oomp_word: squirrel ghost smile
+oomp_word_emoji: ':squirrel: :ghost: :smile:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':ghost:'
+- ':smile:'
+oomp_word_list:
+- squirrel
+- ghost
+- smile
+part_number: ''
+size: tray_vertical
+type: part

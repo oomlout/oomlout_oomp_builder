@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+directory: parts/oobb_part_tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+id: oobb_part_tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+id_no_class: part_tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+id_no_color: 050512extoolpliersneedlenosegeneric130mmblue
+id_no_size: 05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+id_no_type: tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+manufacturer: ''
+md5: d7f99018130be4c0ccffe696783e4152
+md5_10: d7f9901813
+md5_10_upper: D7F9901813
+md5_5: d7f99
+md5_5_upper: D7F99
+md5_6: d7f990
+md5_6_alpha: 8fde8
+md5_6_alpha_upper: 8FDE8
+md5_6_upper: D7F990
+name: Oobb Part Tool Holder Vertical 05 05 12 Ex Tool Pliers Needlenose Generic 130
+  Mm Blue
+name_no_class: Part Tool Holder Vertical 05 05 12 Ex Tool Pliers Needlenose Generic
+  130 Mm Blue
+name_no_color: 050512Extoolpliersneedlenosegeneric130Mmblue
+name_no_size: 05 05 12 Ex Tool Pliers Needlenose Generic 130 Mm Blue
+name_no_type: Tool Holder Vertical 05 05 12 Ex Tool Pliers Needlenose Generic 130
+  Mm Blue
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_12_ex_tool_pliers_needlenose_generic_130_mm_blue
+oomp_word: office eight scissors
+oomp_word_emoji: ':office: :eight: :scissors:'
+oomp_word_emoji_list:
+- ':office:'
+- ':eight:'
+- ':scissors:'
+oomp_word_list:
+- office
+- eight
+- scissors
+part_number: ''
+size: tool_holder_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m5_50
+directory: parts/oobb_part_bolt_hardware_bolt_m5_50
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_50
+id: oobb_part_bolt_hardware_bolt_m5_50
+id_no_class: part_bolt_hardware_bolt_m5_50
+id_no_color: hardwarem550
+id_no_size: hardware_m5_50
+id_no_type: bolt_hardware_bolt_m5_50
+manufacturer: ''
+md5: 83ba517995329168b29485d781728d7d
+md5_10: 83ba517995
+md5_10_upper: 83BA517995
+md5_5: 83ba5
+md5_5_upper: 83BA5
+md5_6: 83ba51
+md5_6_alpha: '55175'
+md5_6_alpha_upper: '55175'
+md5_6_upper: 83BA51
+name: Oobb Part Bolt Hardware Bolt M5 50
+name_no_class: Part Bolt Hardware Bolt M5 50
+name_no_color: Hardwarem550
+name_no_size: Hardware M5 50
+name_no_type: Bolt Hardware Bolt M5 50
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_50
+oomp_word: lock spaghetti snail
+oomp_word_emoji: ':lock: :spaghetti: :snail:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':spaghetti:'
+- ':snail:'
+oomp_word_list:
+- lock
+- spaghetti
+- snail
+part_number: ''
+size: bolt
+type: part

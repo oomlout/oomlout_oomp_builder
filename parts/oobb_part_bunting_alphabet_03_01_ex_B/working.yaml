@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_b
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_b
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_b
+id: oobb_part_bunting_alphabet_03_01_ex_b
+id_no_class: part_bunting_alphabet_03_01_ex_b
+id_no_color: 0301exb
+id_no_size: 03_01_ex_b
+id_no_type: bunting_alphabet_03_01_ex_b
+manufacturer: ''
+md5: 9b36f029c47190450fc09d624cbcdade
+md5_10: 9b36f029c4
+md5_10_upper: 9B36F029C4
+md5_5: 9b36f
+md5_5_upper: 9B36F
+md5_6: 9b36f0
+md5_6_alpha: 620vk
+md5_6_alpha_upper: 620VK
+md5_6_upper: 9B36F0
+name: Oobb Part Bunting Alphabet 03 01 Ex B
+name_no_class: Part Bunting Alphabet 03 01 Ex B
+name_no_color: 0301Exb
+name_no_size: 03 01 Ex B
+name_no_type: Bunting Alphabet 03 01 Ex B
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_b
+oomp_word: ski rabbit train
+oomp_word_emoji: ':ski: :rabbit: :train:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':rabbit:'
+- ':train:'
+oomp_word_list:
+- ski
+- rabbit
+- train
+part_number: ''
+size: bunting_alphabet
+type: part

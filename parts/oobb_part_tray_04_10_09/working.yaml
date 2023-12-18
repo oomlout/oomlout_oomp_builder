@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_10_09
+directory: parts/oobb_part_tray_04_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_09
+id: oobb_part_tray_04_10_09
+id_no_class: part_tray_04_10_09
+id_no_color: 041009
+id_no_size: 04_10_09
+id_no_type: tray_04_10_09
+manufacturer: ''
+md5: 8b1cba7305c7f564179ce73f57378441
+md5_10: 8b1cba7305
+md5_10_upper: 8B1CBA7305
+md5_5: 8b1cb
+md5_5_upper: 8B1CB
+md5_6: 8b1cba
+md5_6_alpha: 5fem2
+md5_6_alpha_upper: 5FEM2
+md5_6_upper: 8B1CBA
+name: Oobb Part Tray 04 10 09
+name_no_class: Part Tray 04 10 09
+name_no_color: 041009
+name_no_size: 04 10 09
+name_no_type: Tray 04 10 09
+oomp_key: oomp_oobb_part_tray_04_10_09
+oomp_word: door dancer spaghetti
+oomp_word_emoji: ':door: :dancer: :spaghetti:'
+oomp_word_emoji_list:
+- ':door:'
+- ':dancer:'
+- ':spaghetti:'
+oomp_word_list:
+- door
+- dancer
+- spaghetti
+part_number: ''
+size: tray
+type: part

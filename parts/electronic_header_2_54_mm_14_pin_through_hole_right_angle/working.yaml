@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_14_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_14_pin_through_hole_right_angle
+id_no_color: 14pinthroughholerightangle
+id_no_size: 14_pin_through_hole_right_angle
+id_no_type: 2_54_mm_14_pin_through_hole_right_angle
+manufacturer: ''
+md5: 575c8d16e449d32dad0896d2b418299e
+md5_10: 575c8d16e4
+md5_10_upper: 575C8D16E4
+md5_5: 575c8
+md5_5_upper: 575C8
+md5_6: 575c8d
+md5_6_alpha: 3epot
+md5_6_alpha_upper: 3EPOT
+md5_6_upper: 575C8D
+name: Electronic Header 2 54 Mm 14 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 14 Pin Through Hole Right Angle
+name_no_color: 14Pinthroughholerightangle
+name_no_size: 14 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 14 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_through_hole_right_angle
+oomp_word: rat ox scroll
+oomp_word_emoji: ':rat: :ox: :scroll:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':ox:'
+- ':scroll:'
+oomp_word_list:
+- rat
+- ox
+- scroll
+part_number: ''
+size: 2_54_mm
+type: header

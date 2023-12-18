@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_08_15'
+directory: parts/oobb_part_tray_thin_10_08_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_08_15
+id: oobb_part_tray_thin_10_08_15
+id_no_class: part_tray_thin_10_08_15
+id_no_color: '100815'
+id_no_size: '10_08_15'
+id_no_type: tray_thin_10_08_15
+manufacturer: ''
+md5: dabec6d3dbdbd693b2273d65657e5bc4
+md5_10: dabec6d3db
+md5_10_upper: DABEC6D3DB
+md5_5: dabec
+md5_5_upper: DABEC
+md5_6: dabec6
+md5_6_alpha: 8j9hi
+md5_6_alpha_upper: 8J9HI
+md5_6_upper: DABEC6
+name: Oobb Part Tray Thin 10 08 15
+name_no_class: Part Tray Thin 10 08 15
+name_no_color: '100815'
+name_no_size: 10 08 15
+name_no_type: Tray Thin 10 08 15
+oomp_key: oomp_oobb_part_tray_thin_10_08_15
+oomp_word: hotel ramen lollipop
+oomp_word_emoji: ':hotel: :ramen: :lollipop:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':ramen:'
+- ':lollipop:'
+oomp_word_list:
+- hotel
+- ramen
+- lollipop
+part_number: ''
+size: tray_thin
+type: part

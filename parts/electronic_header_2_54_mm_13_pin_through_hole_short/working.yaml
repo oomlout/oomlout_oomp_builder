@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 13_pin
+directory: parts/electronic_header_2_54_mm_13_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_13_pin_through_hole_short
+id: electronic_header_2_54_mm_13_pin_through_hole_short
+id_no_class: header_2_54_mm_13_pin_through_hole_short
+id_no_color: 13pinthroughholeshort
+id_no_size: 13_pin_through_hole_short
+id_no_type: 2_54_mm_13_pin_through_hole_short
+manufacturer: ''
+md5: d129e60d39f6990f029c4dbf0d498520
+md5_10: d129e60d39
+md5_10_upper: D129E60D39
+md5_5: d129e
+md5_5_upper: D129E
+md5_6: d129e6
+md5_6_alpha: 85syu
+md5_6_alpha_upper: 85SYU
+md5_6_upper: D129E6
+name: Electronic Header 2 54 Mm 13 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 13 Pin Through Hole Short
+name_no_color: 13Pinthroughholeshort
+name_no_size: 13 Pin Through Hole Short
+name_no_type: 2 54 Mm 13 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_13_pin_through_hole_short
+oomp_word: pear sunny airplane
+oomp_word_emoji: ':pear: :sunny: :airplane:'
+oomp_word_emoji_list:
+- ':pear:'
+- ':sunny:'
+- ':airplane:'
+oomp_word_list:
+- pear
+- sunny
+- airplane
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_24_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+id_no_color: 0109ex24teethshmotorservostandard01
+id_no_size: 01_09_ex_24_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 9706099510d2d240ecf6ed950e6df57a
+md5_10: '9706099510'
+md5_10_upper: '9706099510'
+md5_5: '97060'
+md5_5_upper: '97060'
+md5_6: '970609'
+md5_6_alpha: 5w4y1
+md5_6_alpha_upper: 5W4Y1
+md5_6_upper: '970609'
+name: Oobb Part Pulley Gt2 01 09 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 01 09 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_color: 0109Ex24Teethshmotorservostandard01
+name_no_size: 01 09 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 01 09 Ex 24 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_24_teeth_sh_motor_servo_standard_01
+oomp_word: baseball sleeping angry
+oomp_word_emoji: ':baseball: :sleeping: :angry:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':sleeping:'
+- ':angry:'
+oomp_word_list:
+- baseball
+- sleeping
+- angry
+part_number: ''
+size: pulley_gt2
+type: part

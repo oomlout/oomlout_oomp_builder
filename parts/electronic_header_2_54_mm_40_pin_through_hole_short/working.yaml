@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 40_pin
+directory: parts/electronic_header_2_54_mm_40_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_short
+id: electronic_header_2_54_mm_40_pin_through_hole_short
+id_no_class: header_2_54_mm_40_pin_through_hole_short
+id_no_color: 40pinthroughholeshort
+id_no_size: 40_pin_through_hole_short
+id_no_type: 2_54_mm_40_pin_through_hole_short
+manufacturer: ''
+md5: a3e640f408376820be73099a8fc5b093
+md5_10: a3e640f408
+md5_10_upper: A3E640F408
+md5_5: a3e64
+md5_5_upper: A3E64
+md5_6: a3e640
+md5_6_alpha: 6e81s
+md5_6_alpha_upper: 6E81S
+md5_6_upper: A3E640
+name: Electronic Header 2 54 Mm 40 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 40 Pin Through Hole Short
+name_no_color: 40Pinthroughholeshort
+name_no_size: 40 Pin Through Hole Short
+name_no_type: 2 54 Mm 40 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_40_pin_through_hole_short
+oomp_word: pencil airplane racehorse
+oomp_word_emoji: ':pencil: :airplane: :racehorse:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':airplane:'
+- ':racehorse:'
+oomp_word_list:
+- pencil
+- airplane
+- racehorse
+part_number: ''
+size: 2_54_mm
+type: header

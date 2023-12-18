@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_25
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_25
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_25
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_25
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_25
+id_no_color: hardwarem325
+id_no_size: hardware_m3_25
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_25
+manufacturer: ''
+md5: 0f640ed3e775068f88bd771725fbb02a
+md5_10: 0f640ed3e7
+md5_10_upper: 0F640ED3E7
+md5_5: 0f640
+md5_5_upper: 0F640
+md5_6: 0f640e
+md5_6_alpha: lma6
+md5_6_alpha_upper: LMA6
+md5_6_upper: 0F640E
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 25
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 25
+name_no_color: Hardwarem325
+name_no_size: Hardware M3 25
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 25
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_25
+oomp_word: sparkles sunflower cupid
+oomp_word_emoji: ':sparkles: :sunflower: :cupid:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':sunflower:'
+- ':cupid:'
+oomp_word_list:
+- sparkles
+- sunflower
+- cupid
+part_number: ''
+size: screw_socket_cap
+type: part

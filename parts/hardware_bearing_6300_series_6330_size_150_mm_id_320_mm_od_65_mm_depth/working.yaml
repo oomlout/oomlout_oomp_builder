@@ -1,0 +1,40 @@
+classification: hardware
+color: 6330_size
+description_extra: ''
+description_main: 150_mm_id_320_mm_od_65_mm_depth
+directory: parts/hardware_bearing_6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+id: hardware_bearing_6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+id_no_class: bearing_6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+id_no_color: 150_mm_id_320_mm_od_65_mm_depth
+id_no_size: 6330_size_150_mm_id_320_mm_od_65_mm_depth
+id_no_type: 6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+manufacturer: ''
+md5: b0a74242bae5c212a868baa7383e169c
+md5_10: b0a74242ba
+md5_10_upper: B0A74242BA
+md5_5: b0a74
+md5_5_upper: B0A74
+md5_6: b0a742
+md5_6_alpha: 6w4zm
+md5_6_alpha_upper: 6W4ZM
+md5_6_upper: B0A742
+name: Hardware Bearing 6300 Series 6330 Size 150 Mm Id 320 Mm Od 65 Mm Depth
+name_no_class: Bearing 6300 Series 6330 Size 150 Mm Id 320 Mm Od 65 Mm Depth
+name_no_color: 150 Mm Id 320 Mm Od 65 Mm Depth
+name_no_size: 6330 Size 150 Mm Id 320 Mm Od 65 Mm Depth
+name_no_type: 6300 Series 6330 Size 150 Mm Id 320 Mm Od 65 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6330_size_150_mm_id_320_mm_od_65_mm_depth
+oomp_word: crown guitar sheep
+oomp_word_emoji: ':crown: :guitar: :sheep:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':guitar:'
+- ':sheep:'
+oomp_word_list:
+- crown
+- guitar
+- sheep
+part_number: ''
+size: 6300_series
+type: bearing

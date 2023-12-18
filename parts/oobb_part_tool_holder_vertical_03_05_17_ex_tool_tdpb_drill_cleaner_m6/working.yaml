@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_17_ex_tool_tdpb_drill_cleaner_m6
+directory: parts/oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+id: oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+id_no_class: part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+id_no_color: 030517extooltdpbdrillcleanerm6
+id_no_size: 03_05_17_ex_tool_tdpb_drill_cleaner_m6
+id_no_type: tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+manufacturer: ''
+md5: ed53b386b8b0cce2ef59169c0ea6dc9d
+md5_10: ed53b386b8
+md5_10_upper: ED53B386B8
+md5_5: ed53b
+md5_5_upper: ED53B
+md5_6: ed53b3
+md5_6_alpha: 99d4j
+md5_6_alpha_upper: 99D4J
+md5_6_upper: ED53B3
+name: Oobb Part Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M6
+name_no_class: Part Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M6
+name_no_color: 030517Extooltdpbdrillcleanerm6
+name_no_size: 03 05 17 Ex Tool Tdpb Drill Cleaner M6
+name_no_type: Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M6
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m6
+oomp_word: bus fish eyeglasses
+oomp_word_emoji: ':bus: :fish: :eyeglasses:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':fish:'
+- ':eyeglasses:'
+oomp_word_list:
+- bus
+- fish
+- eyeglasses
+part_number: ''
+size: tool_holder_vertical
+type: part

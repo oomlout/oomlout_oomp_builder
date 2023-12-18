@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700000_ohm
+directory: parts/electronic_resistor_0201_4700000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_4700000_ohm
+id: electronic_resistor_0201_4700000_ohm
+id_no_class: resistor_0201_4700000_ohm
+id_no_color: 4700000ohm
+id_no_size: 4700000_ohm
+id_no_type: 0201_4700000_ohm
+manufacturer: ''
+md5: d7ee91e7a76d98dada37c98e49e31175
+md5_10: d7ee91e7a7
+md5_10_upper: D7EE91E7A7
+md5_5: d7ee9
+md5_5_upper: D7EE9
+md5_6: d7ee91
+md5_6_alpha: 8fb81
+md5_6_alpha_upper: 8FB81
+md5_6_upper: D7EE91
+name: Electronic Resistor 0201 4700000 Ohm
+name_no_class: Resistor 0201 4700000 Ohm
+name_no_color: 4700000Ohm
+name_no_size: 4700000 Ohm
+name_no_type: 0201 4700000 Ohm
+oomp_key: oomp_electronic_resistor_0201_4700000_ohm
+oomp_word: office ambulance pushpin
+oomp_word_emoji: ':office: :ambulance: :pushpin:'
+oomp_word_emoji_list:
+- ':office:'
+- ':ambulance:'
+- ':pushpin:'
+oomp_word_list:
+- office
+- ambulance
+- pushpin
+part_number: ''
+size: '0201'
+type: resistor

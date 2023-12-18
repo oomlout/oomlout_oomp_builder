@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+directory: parts/oobb_part_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+id: oobb_part_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+id_no_class: part_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+id_no_color: 030109exelectronicpotentiometersticksingleaxis16mmarm
+id_no_size: 03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+id_no_type: holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+manufacturer: ''
+md5: 3fa44774c9cdb7f6aeb06d3b95801408
+md5_10: 3fa44774c9
+md5_10_upper: 3FA44774C9
+md5_5: 3fa44
+md5_5_upper: 3FA44
+md5_6: 3fa447
+md5_6_alpha: 2he87
+md5_6_alpha_upper: 2HE87
+md5_6_upper: 3FA447
+name: Oobb Part Holder 03 01 09 Ex Electronic Potentiometer Stick Single Axis 16 Mm
+  Arm
+name_no_class: Part Holder 03 01 09 Ex Electronic Potentiometer Stick Single Axis
+  16 Mm Arm
+name_no_color: 030109Exelectronicpotentiometersticksingleaxis16Mmarm
+name_no_size: 03 01 09 Ex Electronic Potentiometer Stick Single Axis 16 Mm Arm
+name_no_type: Holder 03 01 09 Ex Electronic Potentiometer Stick Single Axis 16 Mm
+  Arm
+oomp_key: oomp_oobb_part_holder_03_01_09_ex_electronic_potentiometer_stick_single_axis_16_mm_arm
+oomp_word: horse book baby_chick
+oomp_word_emoji: ':horse: :book: :baby_chick:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':book:'
+- ':baby_chick:'
+oomp_word_list:
+- horse
+- book
+- baby_chick
+part_number: ''
+size: holder
+type: part

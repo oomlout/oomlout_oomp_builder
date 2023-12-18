@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 29_pin
+directory: parts/electronic_header_2_54_mm_29_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_through_hole_long
+id: electronic_header_2_54_mm_29_pin_through_hole_long
+id_no_class: header_2_54_mm_29_pin_through_hole_long
+id_no_color: 29pinthroughholelong
+id_no_size: 29_pin_through_hole_long
+id_no_type: 2_54_mm_29_pin_through_hole_long
+manufacturer: ''
+md5: d959c3ab19c24efdbab6aa6ed7be3258
+md5_10: d959c3ab19
+md5_10_upper: D959C3AB19
+md5_5: d959c
+md5_5_upper: D959C
+md5_6: d959c3
+md5_6_alpha: 8hayr
+md5_6_alpha_upper: 8HAYR
+md5_6_upper: D959C3
+name: Electronic Header 2 54 Mm 29 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 29 Pin Through Hole Long
+name_no_color: 29Pinthroughholelong
+name_no_size: 29 Pin Through Hole Long
+name_no_type: 2 54 Mm 29 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_29_pin_through_hole_long
+oomp_word: bank dragon cake
+oomp_word_emoji: ':bank: :dragon: :cake:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':dragon:'
+- ':cake:'
+oomp_word_list:
+- bank
+- dragon
+- cake
+part_number: ''
+size: 2_54_mm
+type: header

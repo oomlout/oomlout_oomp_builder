@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_p
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_p
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_p
+id: oobb_part_bunting_alphabet_05_01_ex_p
+id_no_class: part_bunting_alphabet_05_01_ex_p
+id_no_color: 0501exp
+id_no_size: 05_01_ex_p
+id_no_type: bunting_alphabet_05_01_ex_p
+manufacturer: ''
+md5: 046ed87475c1ffefdcecd1dbc6af5191
+md5_10: 046ed87475
+md5_10_upper: 046ED87475
+md5_5: 046ed
+md5_5_upper: 046ED
+md5_6: 046ed8
+md5_6_alpha: '6860'
+md5_6_alpha_upper: '6860'
+md5_6_upper: 046ED8
+name: Oobb Part Bunting Alphabet 05 01 Ex P
+name_no_class: Part Bunting Alphabet 05 01 Ex P
+name_no_color: 0501Exp
+name_no_size: 05 01 Ex P
+name_no_type: Bunting Alphabet 05 01 Ex P
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_p
+oomp_word: wink new_moon hospital
+oomp_word_emoji: ':wink: :new_moon: :hospital:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':new_moon:'
+- ':hospital:'
+oomp_word_list:
+- wink
+- new_moon
+- hospital
+part_number: ''
+size: bunting_alphabet
+type: part

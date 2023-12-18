@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 21_pin
+directory: parts/electronic_header_2_54_mm_21_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole_short
+id: electronic_header_2_54_mm_21_pin_through_hole_short
+id_no_class: header_2_54_mm_21_pin_through_hole_short
+id_no_color: 21pinthroughholeshort
+id_no_size: 21_pin_through_hole_short
+id_no_type: 2_54_mm_21_pin_through_hole_short
+manufacturer: ''
+md5: b81fab55ed225c561ef611feee2aa00d
+md5_10: b81fab55ed
+md5_10_upper: B81FAB55ED
+md5_5: b81fa
+md5_5_upper: B81FA
+md5_6: b81fab
+md5_6_alpha: 76mqz
+md5_6_alpha_upper: 76MQZ
+md5_6_upper: B81FAB
+name: Electronic Header 2 54 Mm 21 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 21 Pin Through Hole Short
+name_no_color: 21Pinthroughholeshort
+name_no_size: 21 Pin Through Hole Short
+name_no_type: 2 54 Mm 21 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_21_pin_through_hole_short
+oomp_word: hamburger princess boot
+oomp_word_emoji: ':hamburger: :princess: :boot:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':princess:'
+- ':boot:'
+oomp_word_list:
+- hamburger
+- princess
+- boot
+part_number: ''
+size: 2_54_mm
+type: header

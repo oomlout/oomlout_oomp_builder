@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_48_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+id_no_color: 0206ex48teethshmotorn20
+id_no_size: 02_06_ex_48_teeth_sh_motor_n20
+id_no_type: pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+manufacturer: ''
+md5: b74c4cfd4323e1cbec42cb2434607e4a
+md5_10: b74c4cfd43
+md5_10_upper: B74C4CFD43
+md5_5: b74c4
+md5_5_upper: B74C4
+md5_6: b74c4c
+md5_6_alpha: 75gzw
+md5_6_alpha_upper: 75GZW
+md5_6_upper: B74C4C
+name: Oobb Part Pulley Gt2 02 06 Ex 48 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 02 06 Ex 48 Teeth Sh Motor N20
+name_no_color: 0206Ex48Teethshmotorn20
+name_no_size: 02 06 Ex 48 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 02 06 Ex 48 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_48_teeth_sh_motor_n20
+oomp_word: pizza turtle turtle
+oomp_word_emoji: ':pizza: :turtle: :turtle:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':turtle:'
+- ':turtle:'
+oomp_word_list:
+- pizza
+- turtle
+- turtle
+part_number: ''
+size: pulley_gt2
+type: part

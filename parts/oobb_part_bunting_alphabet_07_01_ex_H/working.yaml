@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_h
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_h
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_h
+id: oobb_part_bunting_alphabet_07_01_ex_h
+id_no_class: part_bunting_alphabet_07_01_ex_h
+id_no_color: 0701exh
+id_no_size: 07_01_ex_h
+id_no_type: bunting_alphabet_07_01_ex_h
+manufacturer: ''
+md5: 2d747644307ddc11fb30e62d3a33ccfc
+md5_10: 2d74764430
+md5_10_upper: 2D74764430
+md5_5: 2d747
+md5_5_upper: 2D747
+md5_6: 2d7476
+md5_6_alpha: 1ruk6
+md5_6_alpha_upper: 1RUK6
+md5_6_upper: 2D7476
+name: Oobb Part Bunting Alphabet 07 01 Ex H
+name_no_class: Part Bunting Alphabet 07 01 Ex H
+name_no_color: 0701Exh
+name_no_size: 07 01 Ex H
+name_no_type: Bunting Alphabet 07 01 Ex H
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_h
+oomp_word: snowman fireworks santa
+oomp_word_emoji: ':snowman: :fireworks: :santa:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':fireworks:'
+- ':santa:'
+oomp_word_list:
+- snowman
+- fireworks
+- santa
+part_number: ''
+size: bunting_alphabet
+type: part

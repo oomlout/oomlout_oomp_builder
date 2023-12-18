@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_16
+directory: parts/oobb_part_bolt_hardware_bolt_m6_16
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_16
+id: oobb_part_bolt_hardware_bolt_m6_16
+id_no_class: part_bolt_hardware_bolt_m6_16
+id_no_color: hardwarem616
+id_no_size: hardware_m6_16
+id_no_type: bolt_hardware_bolt_m6_16
+manufacturer: ''
+md5: 22dc3c15008602701a06aac0dd96f7ac
+md5_10: 22dc3c1500
+md5_10_upper: 22DC3C1500
+md5_5: 22dc3
+md5_5_upper: 22DC3
+md5_6: 22dc3c
+md5_6_alpha: 1cyt8
+md5_6_alpha_upper: 1CYT8
+md5_6_upper: 22DC3C
+name: Oobb Part Bolt Hardware Bolt M6 16
+name_no_class: Part Bolt Hardware Bolt M6 16
+name_no_color: Hardwarem616
+name_no_size: Hardware M6 16
+name_no_type: Bolt Hardware Bolt M6 16
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_16
+oomp_word: lips factory pig
+oomp_word_emoji: ':lips: :factory: :pig:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':factory:'
+- ':pig:'
+oomp_word_list:
+- lips
+- factory
+- pig
+part_number: ''
+size: bolt
+type: part

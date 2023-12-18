@@ -1,0 +1,40 @@
+classification: hardware
+color: 6228_size
+description_extra: ''
+description_main: 140_mm_id_250_mm_od_42_mm_depth
+directory: parts/hardware_bearing_6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+id: hardware_bearing_6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+id_no_class: bearing_6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+id_no_color: 140_mm_id_250_mm_od_42_mm_depth
+id_no_size: 6228_size_140_mm_id_250_mm_od_42_mm_depth
+id_no_type: 6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+manufacturer: ''
+md5: 2ec6ec9bf89feb04835483783566e2f5
+md5_10: 2ec6ec9bf8
+md5_10_upper: 2EC6EC9BF8
+md5_5: 2ec6e
+md5_5_upper: 2EC6E
+md5_6: 2ec6ec
+md5_6_alpha: 1tpf0
+md5_6_alpha_upper: 1TPF0
+md5_6_upper: 2EC6EC
+name: Hardware Bearing 6200 Series 6228 Size 140 Mm Id 250 Mm Od 42 Mm Depth
+name_no_class: Bearing 6200 Series 6228 Size 140 Mm Id 250 Mm Od 42 Mm Depth
+name_no_color: 140 Mm Id 250 Mm Od 42 Mm Depth
+name_no_size: 6228 Size 140 Mm Id 250 Mm Od 42 Mm Depth
+name_no_type: 6200 Series 6228 Size 140 Mm Id 250 Mm Od 42 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6228_size_140_mm_id_250_mm_od_42_mm_depth
+oomp_word: zap lollipop taxi
+oomp_word_emoji: ':zap: :lollipop: :taxi:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':lollipop:'
+- ':taxi:'
+oomp_word_list:
+- zap
+- lollipop
+- taxi
+part_number: ''
+size: 6200_series
+type: bearing

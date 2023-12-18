@@ -1,0 +1,40 @@
+classification: hardware
+color: 6812_size
+description_extra: ''
+description_main: 60_mm_id_78_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+id: hardware_bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+id_no_class: bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+id_no_color: 60_mm_id_78_mm_od_10_mm_depth
+id_no_size: 6812_size_60_mm_id_78_mm_od_10_mm_depth
+id_no_type: 6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+manufacturer: ''
+md5: 931261437a051c82ceaf9e7b9ec41009
+md5_10: 931261437a
+md5_10_upper: 931261437A
+md5_5: '93126'
+md5_5_upper: '93126'
+md5_6: '931261'
+md5_6_alpha: 5ql41
+md5_6_alpha_upper: 5QL41
+md5_6_upper: '931261'
+name: Hardware Bearing 6800 Series 6812 Size 60 Mm Id 78 Mm Od 10 Mm Depth
+name_no_class: Bearing 6800 Series 6812 Size 60 Mm Id 78 Mm Od 10 Mm Depth
+name_no_color: 60 Mm Id 78 Mm Od 10 Mm Depth
+name_no_size: 6812 Size 60 Mm Id 78 Mm Od 10 Mm Depth
+name_no_type: 6800 Series 6812 Size 60 Mm Id 78 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
+oomp_word: books anger bouquet
+oomp_word_emoji: ':books: :anger: :bouquet:'
+oomp_word_emoji_list:
+- ':books:'
+- ':anger:'
+- ':bouquet:'
+oomp_word_list:
+- books
+- anger
+- bouquet
+part_number: ''
+size: 6800_series
+type: bearing

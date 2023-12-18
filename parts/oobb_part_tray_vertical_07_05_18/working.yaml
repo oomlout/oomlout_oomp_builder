@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_05_18
+directory: parts/oobb_part_tray_vertical_07_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_05_18
+id: oobb_part_tray_vertical_07_05_18
+id_no_class: part_tray_vertical_07_05_18
+id_no_color: 070518
+id_no_size: 07_05_18
+id_no_type: tray_vertical_07_05_18
+manufacturer: ''
+md5: 3d7c5f3ceee436fb62bc3936114f3c1a
+md5_10: 3d7c5f3cee
+md5_10_upper: 3D7C5F3CEE
+md5_5: 3d7c5
+md5_5_upper: 3D7C5
+md5_6: 3d7c5f
+md5_6_alpha: 2ed7j
+md5_6_alpha_upper: 2ED7J
+md5_6_upper: 3D7C5F
+name: Oobb Part Tray Vertical 07 05 18
+name_no_class: Part Tray Vertical 07 05 18
+name_no_color: 070518
+name_no_size: 07 05 18
+name_no_type: Tray Vertical 07 05 18
+oomp_key: oomp_oobb_part_tray_vertical_07_05_18
+oomp_word: cow tv leopard
+oomp_word_emoji: ':cow: :tv: :leopard:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':tv:'
+- ':leopard:'
+oomp_word_list:
+- cow
+- tv
+- leopard
+part_number: ''
+size: tray_vertical
+type: part

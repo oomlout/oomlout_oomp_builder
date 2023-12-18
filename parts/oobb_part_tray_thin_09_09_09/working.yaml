@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_09
+directory: parts/oobb_part_tray_thin_09_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_09_09
+id: oobb_part_tray_thin_09_09_09
+id_no_class: part_tray_thin_09_09_09
+id_no_color: 090909
+id_no_size: 09_09_09
+id_no_type: tray_thin_09_09_09
+manufacturer: ''
+md5: bb3c000dcf6d130b01d26fa0d5ef616d
+md5_10: bb3c000dcf
+md5_10_upper: BB3C000DCF
+md5_5: bb3c0
+md5_5_upper: BB3C0
+md5_6: bb3c00
+md5_6_alpha: 7b01s
+md5_6_alpha_upper: 7B01S
+md5_6_upper: BB3C00
+name: Oobb Part Tray Thin 09 09 09
+name_no_class: Part Tray Thin 09 09 09
+name_no_color: 090909
+name_no_size: 09 09 09
+name_no_type: Tray Thin 09 09 09
+oomp_key: oomp_oobb_part_tray_thin_09_09_09
+oomp_word: curry pig bowtie
+oomp_word_emoji: ':curry: :pig: :bowtie:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':pig:'
+- ':bowtie:'
+oomp_word_list:
+- curry
+- pig
+- bowtie
+part_number: ''
+size: tray_thin
+type: part

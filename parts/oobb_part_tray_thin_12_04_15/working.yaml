@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_15'
+directory: parts/oobb_part_tray_thin_12_04_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_04_15
+id: oobb_part_tray_thin_12_04_15
+id_no_class: part_tray_thin_12_04_15
+id_no_color: '120415'
+id_no_size: '12_04_15'
+id_no_type: tray_thin_12_04_15
+manufacturer: ''
+md5: 95d8dfbebefc58cba2e60e150252a46a
+md5_10: 95d8dfbebe
+md5_10_upper: 95D8DFBEBE
+md5_5: 95d8d
+md5_5_upper: 95D8D
+md5_6: 95d8df
+md5_6_alpha: 5uhgf
+md5_6_alpha_upper: 5UHGF
+md5_6_upper: 95D8DF
+name: Oobb Part Tray Thin 12 04 15
+name_no_class: Part Tray Thin 12 04 15
+name_no_color: '120415'
+name_no_size: 12 04 15
+name_no_type: Tray Thin 12 04 15
+oomp_key: oomp_oobb_part_tray_thin_12_04_15
+oomp_word: telescope hospital fountain
+oomp_word_emoji: ':telescope: :hospital: :fountain:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':hospital:'
+- ':fountain:'
+oomp_word_list:
+- telescope
+- hospital
+- fountain
+part_number: ''
+size: tray_thin
+type: part

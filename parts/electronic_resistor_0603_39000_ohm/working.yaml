@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39000_ohm
+directory: parts/electronic_resistor_0603_39000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39000_ohm
+id: electronic_resistor_0603_39000_ohm
+id_no_class: resistor_0603_39000_ohm
+id_no_color: 39000ohm
+id_no_size: 39000_ohm
+id_no_type: 0603_39000_ohm
+manufacturer: ''
+md5: c60bfbc9533310382a360d07dbf1af29
+md5_10: c60bfbc953
+md5_10_upper: C60BFBC953
+md5_5: c60bf
+md5_5_upper: C60BF
+md5_6: c60bfb
+md5_6_alpha: 7q6t7
+md5_6_alpha_upper: 7Q6T7
+md5_6_upper: C60BFB
+name: Electronic Resistor 0603 39000 Ohm
+name_no_class: Resistor 0603 39000 Ohm
+name_no_color: 39000Ohm
+name_no_size: 39000 Ohm
+name_no_type: 0603 39000 Ohm
+oomp_key: oomp_electronic_resistor_0603_39000_ohm
+oomp_word: lollipop sunglasses ok
+oomp_word_emoji: ':lollipop: :sunglasses: :ok:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':sunglasses:'
+- ':ok:'
+oomp_word_list:
+- lollipop
+- sunglasses
+- ok
+part_number: ''
+size: '0603'
+type: resistor

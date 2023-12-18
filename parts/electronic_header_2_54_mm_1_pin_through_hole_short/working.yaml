@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 1_pin
+directory: parts/electronic_header_2_54_mm_1_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short
+id: electronic_header_2_54_mm_1_pin_through_hole_short
+id_no_class: header_2_54_mm_1_pin_through_hole_short
+id_no_color: 1pinthroughholeshort
+id_no_size: 1_pin_through_hole_short
+id_no_type: 2_54_mm_1_pin_through_hole_short
+manufacturer: ''
+md5: b727356abd8bba862ffc8f3bc87fef32
+md5_10: b727356abd
+md5_10_upper: B727356ABD
+md5_5: b7273
+md5_5_upper: B7273
+md5_6: b72735
+md5_6_alpha: 759o5
+md5_6_alpha_upper: 759O5
+md5_6_upper: B72735
+name: Electronic Header 2 54 Mm 1 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 1 Pin Through Hole Short
+name_no_color: 1Pinthroughholeshort
+name_no_size: 1 Pin Through Hole Short
+name_no_type: 2 54 Mm 1 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole_short
+oomp_word: pizza nose hamster
+oomp_word_emoji: ':pizza: :nose: :hamster:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':nose:'
+- ':hamster:'
+oomp_word_list:
+- pizza
+- nose
+- hamster
+part_number: ''
+size: 2_54_mm
+type: header

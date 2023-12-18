@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_10_ex_tool_screwdriver_driver_bit_x4
+directory: parts/oobb_part_tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+id: oobb_part_tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+id_no_class: part_tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+id_no_color: 050310extoolscrewdriverdriverbitx4
+id_no_size: 05_03_10_ex_tool_screwdriver_driver_bit_x4
+id_no_type: tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+manufacturer: ''
+md5: 5f8c9289f4aa349e12a605701fd98c5e
+md5_10: 5f8c9289f4
+md5_10_upper: 5F8C9289F4
+md5_5: 5f8c9
+md5_5_upper: 5F8C9
+md5_6: 5f8c92
+md5_6_alpha: 3q7pu
+md5_6_alpha_upper: 3Q7PU
+md5_6_upper: 5F8C92
+name: Oobb Part Tool Holder Vertical 05 03 10 Ex Tool Screwdriver Driver Bit X4
+name_no_class: Part Tool Holder Vertical 05 03 10 Ex Tool Screwdriver Driver Bit X4
+name_no_color: 050310Extoolscrewdriverdriverbitx4
+name_no_size: 05 03 10 Ex Tool Screwdriver Driver Bit X4
+name_no_type: Tool Holder Vertical 05 03 10 Ex Tool Screwdriver Driver Bit X4
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_03_10_ex_tool_screwdriver_driver_bit_x4
+oomp_word: leopard pill paperclip
+oomp_word_emoji: ':leopard: :pill: :paperclip:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':pill:'
+- ':paperclip:'
+oomp_word_list:
+- leopard
+- pill
+- paperclip
+part_number: ''
+size: tool_holder_vertical
+type: part

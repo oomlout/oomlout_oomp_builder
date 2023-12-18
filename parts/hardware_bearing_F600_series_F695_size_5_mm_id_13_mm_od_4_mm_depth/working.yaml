@@ -1,0 +1,40 @@
+classification: hardware
+color: F695_size
+description_extra: ''
+description_main: 5_mm_id_13_mm_od_4_mm_depth
+directory: parts/hardware_bearing_F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+id: hardware_bearing_F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_class: bearing_F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_color: 5_mm_id_13_mm_od_4_mm_depth
+id_no_size: F695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_type: F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+manufacturer: ''
+md5: 7a2570924e7d99148b36ad3f2e0583cd
+md5_10: 7a2570924e
+md5_10_upper: 7A2570924E
+md5_5: 7a257
+md5_5_upper: 7A257
+md5_6: 7a2570
+md5_6_alpha: 4rkog
+md5_6_alpha_upper: 4RKOG
+md5_6_upper: 7A2570
+name: Hardware Bearing F600 Series F695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_class: Bearing F600 Series F695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_color: 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_size: F695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_type: F600 Series F695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F695_size_5_mm_id_13_mm_od_4_mm_depth
+oomp_word: camera ear squirrel
+oomp_word_emoji: ':camera: :ear: :squirrel:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':ear:'
+- ':squirrel:'
+oomp_word_list:
+- camera
+- ear
+- squirrel
+part_number: ''
+size: F600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x2_4_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+id_no_color: 2x24pinsurfacemountrightangle
+id_no_size: 2x2_4_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 6bc8ab73673bc483d79fa88c86cf20c8
+md5_10: 6bc8ab7367
+md5_10_upper: 6BC8AB7367
+md5_5: 6bc8a
+md5_5_upper: 6BC8A
+md5_6: 6bc8ab
+md5_6_alpha: 47eej
+md5_6_alpha_upper: 47EEJ
+md5_6_upper: 6BC8AB
+name: Electronic Header 2 54 Mm Dual Row 2X2 4 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X2 4 Pin Surface Mount Right Angle
+name_no_color: 2X24Pinsurfacemountrightangle
+name_no_size: 2X2 4 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X2 4 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount_right_angle
+oomp_word: chestnut apple boot
+oomp_word_emoji: ':chestnut: :apple: :boot:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':apple:'
+- ':boot:'
+oomp_word_list:
+- chestnut
+- apple
+- boot
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

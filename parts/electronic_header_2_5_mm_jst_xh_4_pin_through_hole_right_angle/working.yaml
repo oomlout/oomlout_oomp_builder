@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_4_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_4_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_4_pin_through_hole_right_angle
+id_no_color: 4pinthroughholerightangle
+id_no_size: 4_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_4_pin_through_hole_right_angle
+manufacturer: ''
+md5: 69ebef4aa877897db2c42e05923595ae
+md5_10: 69ebef4aa8
+md5_10_upper: 69EBEF4AA8
+md5_5: 69ebe
+md5_5_upper: 69EBE
+md5_6: 69ebef
+md5_6_alpha: 44s8f
+md5_6_alpha_upper: 44S8F
+md5_6_upper: 69EBEF
+name: Electronic Header 2 5 Mm Jst Xh 4 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 4 Pin Through Hole Right Angle
+name_no_color: 4Pinthroughholerightangle
+name_no_size: 4 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 4 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_4_pin_through_hole_right_angle
+oomp_word: cactus car truck
+oomp_word_emoji: ':cactus: :car: :truck:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':car:'
+- ':truck:'
+oomp_word_list:
+- cactus
+- car
+- truck
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

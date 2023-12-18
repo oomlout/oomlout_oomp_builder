@@ -1,0 +1,40 @@
+classification: hardware
+color: 62206_size
+description_extra: ''
+description_main: 30_mm_id_62_mm_od_20_mm_depth
+directory: parts/hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+id: hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+id_no_class: bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+id_no_color: 30_mm_id_62_mm_od_20_mm_depth
+id_no_size: 62206_size_30_mm_id_62_mm_od_20_mm_depth
+id_no_type: 62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+manufacturer: ''
+md5: 1d828a63fc23f213ad01ae37aa40fd39
+md5_10: 1d828a63fc
+md5_10_upper: 1D828A63FC
+md5_5: 1d828
+md5_5_upper: 1D828
+md5_6: 1d828a
+md5_6_alpha: 15g96
+md5_6_alpha_upper: 15G96
+md5_6_upper: 1D828A
+name: Hardware Bearing 62000 Series 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth
+name_no_class: Bearing 62000 Series 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth
+name_no_color: 30 Mm Id 62 Mm Od 20 Mm Depth
+name_no_size: 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth
+name_no_type: 62000 Series 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+oomp_word: baby radio envelope
+oomp_word_emoji: ':baby: :radio: :envelope:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':radio:'
+- ':envelope:'
+oomp_word_list:
+- baby
+- radio
+- envelope
+part_number: ''
+size: 62000_series
+type: bearing

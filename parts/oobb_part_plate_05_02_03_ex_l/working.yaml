@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_02_03_ex_l
+directory: parts/oobb_part_plate_05_02_03_ex_l
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03_ex_l
+id: oobb_part_plate_05_02_03_ex_l
+id_no_class: part_plate_05_02_03_ex_l
+id_no_color: 050203exl
+id_no_size: 05_02_03_ex_l
+id_no_type: plate_05_02_03_ex_l
+manufacturer: ''
+md5: 561fec6db02fbc2ed811664d1d6f4452
+md5_10: 561fec6db0
+md5_10_upper: 561FEC6DB0
+md5_5: 561fe
+md5_5_upper: 561FE
+md5_6: 561fec
+md5_6_alpha: 3cz58
+md5_6_alpha_upper: 3CZ58
+md5_6_upper: 561FEC
+name: Oobb Part Plate 05 02 03 Ex L
+name_no_class: Part Plate 05 02 03 Ex L
+name_no_color: 050203Exl
+name_no_size: 05 02 03 Ex L
+name_no_type: Plate 05 02 03 Ex L
+oomp_key: oomp_oobb_part_plate_05_02_03_ex_l
+oomp_word: ram princess taxi
+oomp_word_emoji: ':ram: :princess: :taxi:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':princess:'
+- ':taxi:'
+oomp_word_list:
+- ram
+- princess
+- taxi
+part_number: ''
+size: plate
+type: part

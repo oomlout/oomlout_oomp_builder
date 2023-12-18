@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_09
+directory: parts/oobb_part_tray_vertical_04_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_03_09
+id: oobb_part_tray_vertical_04_03_09
+id_no_class: part_tray_vertical_04_03_09
+id_no_color: 040309
+id_no_size: 04_03_09
+id_no_type: tray_vertical_04_03_09
+manufacturer: ''
+md5: 8188ef9434bba385001c7d90bd156a7c
+md5_10: 8188ef9434
+md5_10_upper: 8188EF9434
+md5_5: 8188e
+md5_5_upper: 8188E
+md5_6: 8188ef
+md5_6_alpha: 51yb3
+md5_6_alpha_upper: 51YB3
+md5_6_upper: 8188EF
+name: Oobb Part Tray Vertical 04 03 09
+name_no_class: Part Tray Vertical 04 03 09
+name_no_color: 040309
+name_no_size: 04 03 09
+name_no_type: Tray Vertical 04 03 09
+oomp_key: oomp_oobb_part_tray_vertical_04_03_09
+oomp_word: watch wrench truck
+oomp_word_emoji: ':watch: :wrench: :truck:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':wrench:'
+- ':truck:'
+oomp_word_list:
+- watch
+- wrench
+- truck
+part_number: ''
+size: tray_vertical
+type: part

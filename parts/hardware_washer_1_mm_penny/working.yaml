@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_1_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_1_mm_penny
+id: hardware_washer_1_mm_penny
+id_no_class: washer_1_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 1_mm_penny
+manufacturer: ''
+md5: 39daac07bc9fcf7b944e8b74ada94d66
+md5_10: 39daac07bc
+md5_10_upper: 39DAAC07BC
+md5_5: 39daa
+md5_5_upper: 39DAA
+md5_6: 39daac
+md5_6_alpha: 299kc
+md5_6_alpha_upper: 299KC
+md5_6_upper: 39DAAC
+name: Hardware Washer 1 Mm Penny
+name_no_class: Washer 1 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 1 Mm Penny
+oomp_key: oomp_hardware_washer_1_mm_penny
+oomp_word: tiger hotel shirt
+oomp_word_emoji: ':tiger: :hotel: :shirt:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':hotel:'
+- ':shirt:'
+oomp_word_list:
+- tiger
+- hotel
+- shirt
+part_number: ''
+size: 1_mm
+type: washer

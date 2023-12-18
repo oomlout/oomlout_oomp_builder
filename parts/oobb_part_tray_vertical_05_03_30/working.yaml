@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_03_30'
+directory: parts/oobb_part_tray_vertical_05_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_03_30
+id: oobb_part_tray_vertical_05_03_30
+id_no_class: part_tray_vertical_05_03_30
+id_no_color: '050330'
+id_no_size: '05_03_30'
+id_no_type: tray_vertical_05_03_30
+manufacturer: ''
+md5: 5977385f9abb42689473dd5a2948d85a
+md5_10: 5977385f9a
+md5_10_upper: 5977385F9A
+md5_5: '59773'
+md5_5_upper: '59773'
+md5_6: '597738'
+md5_6_alpha: 3ho3c
+md5_6_alpha_upper: 3HO3C
+md5_6_upper: '597738'
+name: Oobb Part Tray Vertical 05 03 30
+name_no_class: Part Tray Vertical 05 03 30
+name_no_color: '050330'
+name_no_size: 05 03 30
+name_no_type: Tray Vertical 05 03 30
+oomp_key: oomp_oobb_part_tray_vertical_05_03_30
+oomp_word: dragon gift frog
+oomp_word_emoji: ':dragon: :gift: :frog:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':gift:'
+- ':frog:'
+oomp_word_list:
+- dragon
+- gift
+- frog
+part_number: ''
+size: tray_vertical
+type: part

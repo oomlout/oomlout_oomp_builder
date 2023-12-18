@@ -1,0 +1,40 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: light
+directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+id_no_class: ic_0603_sensor_light_everlight_elec_als_pt19
+id_no_color: light_everlight_elec_als_pt19
+id_no_size: sensor_light_everlight_elec_als_pt19
+id_no_type: 0603_sensor_light_everlight_elec_als_pt19
+manufacturer: everlight_elec
+md5: a899fa60e8493d80f5a175ad3370e8c5
+md5_10: a899fa60e8
+md5_10_upper: A899FA60E8
+md5_5: a899f
+md5_5_upper: A899F
+md5_6: a899fa
+md5_6_alpha: 6kttm
+md5_6_alpha_upper: 6KTTM
+md5_6_upper: A899FA
+name: Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19
+name_no_class: Ic 0603 Sensor Light Everlight Elec Als Pt19
+name_no_color: Light Everlight Elec Als Pt19
+name_no_size: Sensor Light Everlight Elec Als Pt19
+name_no_type: 0603 Sensor Light Everlight Elec Als Pt19
+oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+oomp_word: shoe bowling nine
+oomp_word_emoji: ':shoe: :bowling: :nine:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':bowling:'
+- ':nine:'
+oomp_word_list:
+- shoe
+- bowling
+- nine
+part_number: als_pt19
+size: '0603'
+type: ic

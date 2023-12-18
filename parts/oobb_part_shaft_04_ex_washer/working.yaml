@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_ex_washer
+directory: parts/oobb_part_shaft_04_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04_ex_washer
+id: oobb_part_shaft_04_ex_washer
+id_no_class: part_shaft_04_ex_washer
+id_no_color: 04exwasher
+id_no_size: 04_ex_washer
+id_no_type: shaft_04_ex_washer
+manufacturer: ''
+md5: 67a88305b15fed8e3db5622a3e4c1a96
+md5_10: 67a88305b1
+md5_10_upper: 67A88305B1
+md5_5: 67a88
+md5_5_upper: 67A88
+md5_6: 67a883
+md5_6_alpha: 41ls3
+md5_6_alpha_upper: 41LS3
+md5_6_upper: 67A883
+name: Oobb Part Shaft 04 Ex Washer
+name_no_class: Part Shaft 04 Ex Washer
+name_no_color: 04Exwasher
+name_no_size: 04 Ex Washer
+name_no_type: Shaft 04 Ex Washer
+oomp_key: oomp_oobb_part_shaft_04_ex_washer
+oomp_word: herb shoe lock
+oomp_word_emoji: ':herb: :shoe: :lock:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':shoe:'
+- ':lock:'
+oomp_word_list:
+- herb
+- shoe
+- lock
+part_number: ''
+size: shaft
+type: part

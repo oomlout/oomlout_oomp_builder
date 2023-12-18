@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 40_mm
-description_main_capital: 40 mm
-description_main_first_letter: '4'
-description_main_first_letter_upper: '4'
-description_main_upper: 40_MM
-description_only_numbers: '40'
-description_only_numbers_short: '40'
-description_or_color: '40'
-description_or_color_upper: '40'
 directory: parts/hardware_bolt_4_mm_40_mm
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_4_mm_40_mm
 id: hardware_bolt_4_mm_40_mm
 id_no_class: bolt_4_mm_40_mm
 id_no_color: 40mm
 id_no_size: 40_mm
 id_no_type: 4_mm_40_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_bolt_4_mm_40_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_4_mm_40_mm/working)<br>[b440](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_4_mm_40_mm/working)<br>[Hardware
-  Bolt 4 Mm 40 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_4_mm_40_mm/working)<br><br>'
-markdown_short: '[hardware_bolt_4_mm_40_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_4_mm_40_mm/working)<br><br>'
 md5: 5815bbe94a8156ac5b9343546997575e
 md5_10: 5815bbe94a
 md5_10_upper: 5815BBE94A
@@ -55,17 +23,14 @@ name: Hardware Bolt 4 Mm 40 Mm
 name_no_class: Bolt 4 Mm 40 Mm
 name_no_color: 40Mm
 name_no_size: 40 Mm
-name_no_size_short: 40 Mm
 name_no_type: 4 Mm 40 Mm
 oomlout_bolt_color: ''
-oomlout_bolt_head_type: ''
-oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_head_type: Bolt
 oomlout_bolt_length: 40 mm
 oomlout_bolt_length_no_unit: '40'
-oomlout_bolt_name: Bolt M4X40 mm  ()
+oomlout_bolt_name: Bolt M4X40 mm  (Bolt)
 oomlout_bolt_size: M4
 oomlout_bolt_type: Bolt
-oomlout_bolt_type_diagram_diagram: type_diagram.svg
 oomlout_short_code: b4m40
 oomlout_short_code_upper: B4M40
 oomp_key: oomp_hardware_bolt_4_mm_40_mm
@@ -80,21 +45,5 @@ oomp_word_list:
 - poop
 - curry
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: b440
-short_code_upper: B440
 size: 4_mm
-size_capital: 4 mm
-size_first_letter: '4'
-size_first_letter_upper: '4'
-size_only_numbers: '4'
-size_only_numbers_no_zeros: '4'
-size_upper: 4_MM
 type: bolt
-type_capital: Bolt
-type_first_letter: b
-type_first_letter_upper: B
-type_upper: BOLT

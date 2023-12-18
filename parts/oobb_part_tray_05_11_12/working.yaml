@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_11_12'
+directory: parts/oobb_part_tray_05_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_11_12
+id: oobb_part_tray_05_11_12
+id_no_class: part_tray_05_11_12
+id_no_color: '051112'
+id_no_size: '05_11_12'
+id_no_type: tray_05_11_12
+manufacturer: ''
+md5: a8f2dcacbddd6b243fd98743dfa6b642
+md5_10: a8f2dcacbd
+md5_10_upper: A8F2DCACBD
+md5_5: a8f2d
+md5_5_upper: A8F2D
+md5_6: a8f2dc
+md5_6_alpha: 6lbdo
+md5_6_alpha_upper: 6LBDO
+md5_6_upper: A8F2DC
+name: Oobb Part Tray 05 11 12
+name_no_class: Part Tray 05 11 12
+name_no_color: '051112'
+name_no_size: 05 11 12
+name_no_type: Tray 05 11 12
+oomp_key: oomp_oobb_part_tray_05_11_12
+oomp_word: shoe one factory
+oomp_word_emoji: ':shoe: :one: :factory:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':one:'
+- ':factory:'
+oomp_word_list:
+- shoe
+- one
+- factory
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: packaging
+color: ''
+description_extra: ''
+description_main: hinged_lid
+directory: parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
+id: packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
+id_no_class: takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
+id_no_color: hingedlidmajestic05385pv11
+id_no_size: hinged_lid_majestic_05385_pv11
+id_no_type: 30_ml_hinged_lid_majestic_05385_pv11
+manufacturer: majestic
+md5: fbd4dd81fa11059d01076e0041c33a8a
+md5_10: fbd4dd81fa
+md5_10_upper: FBD4DD81FA
+md5_5: fbd4d
+md5_5_upper: FBD4D
+md5_6: fbd4dd
+md5_6_alpha: 9tql9
+md5_6_alpha_upper: 9TQL9
+md5_6_upper: FBD4DD
+name: Packaging Takeaway Container Circle 30 Ml Hinged Lid Majestic 05385 Pv11
+name_no_class: Takeaway Container Circle 30 Ml Hinged Lid Majestic 05385 Pv11
+name_no_color: Hingedlidmajestic05385Pv11
+name_no_size: Hinged Lid Majestic 05385 Pv11
+name_no_type: 30 Ml Hinged Lid Majestic 05385 Pv11
+oomp_key: oomp_packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
+oomp_word: ok corn stars
+oomp_word_emoji: ':ok: :corn: :stars:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':corn:'
+- ':stars:'
+oomp_word_list:
+- ok
+- corn
+- stars
+part_number: 05385_pv11
+size: 30_ml
+type: takeaway_container_circle

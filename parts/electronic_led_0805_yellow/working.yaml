@@ -1,0 +1,40 @@
+classification: electronic
+color: yellow
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_yellow
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow
+id: electronic_led_0805_yellow
+id_no_class: led_0805_yellow
+id_no_color: yellow
+id_no_size: yellow
+id_no_type: 0805_yellow
+manufacturer: ''
+md5: 5c87ad5a4f3215668066a822e24d75cf
+md5_10: 5c87ad5a4f
+md5_10_upper: 5C87AD5A4F
+md5_5: 5c87a
+md5_5_upper: 5C87A
+md5_6: 5c87ad
+md5_6_alpha: 3lz1p
+md5_6_alpha_upper: 3LZ1P
+md5_6_upper: 5C87AD
+name: Electronic Led 0805 Yellow
+name_no_class: Led 0805 Yellow
+name_no_color: Yellow
+name_no_size: Yellow
+name_no_type: 0805 Yellow
+oomp_key: oomp_electronic_led_0805_yellow
+oomp_word: ox toilet dress
+oomp_word_emoji: ':ox: :toilet: :dress:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':toilet:'
+- ':dress:'
+oomp_word_list:
+- ox
+- toilet
+- dress
+part_number: ''
+size: 0805
+type: led

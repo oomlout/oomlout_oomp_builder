@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_03_09'
+directory: parts/oobb_part_tray_thin_11_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_03_09
+id: oobb_part_tray_thin_11_03_09
+id_no_class: part_tray_thin_11_03_09
+id_no_color: '110309'
+id_no_size: '11_03_09'
+id_no_type: tray_thin_11_03_09
+manufacturer: ''
+md5: e3d0e11f15b5008baca8f7dbf345929f
+md5_10: e3d0e11f15
+md5_10_upper: E3D0E11F15
+md5_5: e3d0e
+md5_5_upper: E3D0E
+md5_6: e3d0e1
+md5_6_alpha: 8w069
+md5_6_alpha_upper: 8W069
+md5_6_upper: E3D0E1
+name: Oobb Part Tray Thin 11 03 09
+name_no_class: Part Tray Thin 11 03 09
+name_no_color: '110309'
+name_no_size: 11 03 09
+name_no_type: Tray Thin 11 03 09
+oomp_key: oomp_oobb_part_tray_thin_11_03_09
+oomp_word: rowboat banana boat
+oomp_word_emoji: ':rowboat: :banana: :boat:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':banana:'
+- ':boat:'
+oomp_word_list:
+- rowboat
+- banana
+- boat
+part_number: ''
+size: tray_thin
+type: part

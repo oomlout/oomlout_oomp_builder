@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_1d5_14_ex_timing_belt_clamp_gt2
+directory: parts/oobb_part_other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+id: oobb_part_other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+id_no_class: part_other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+id_no_color: 2d51d514extimingbeltclampgt2
+id_no_size: 2d5_1d5_14_ex_timing_belt_clamp_gt2
+id_no_type: other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+manufacturer: ''
+md5: 7c90187d9afd3568f856d2f0818b336f
+md5_10: 7c90187d9a
+md5_10_upper: 7C90187D9A
+md5_5: 7c901
+md5_5_upper: 7C901
+md5_6: 7c9018
+md5_6_alpha: 4uyvs
+md5_6_alpha_upper: 4UYVS
+md5_6_upper: 7C9018
+name: Oobb Part Other 2D5 1D5 14 Ex Timing Belt Clamp Gt2
+name_no_class: Part Other 2D5 1D5 14 Ex Timing Belt Clamp Gt2
+name_no_color: 2D51D514Extimingbeltclampgt2
+name_no_size: 2D5 1D5 14 Ex Timing Belt Clamp Gt2
+name_no_type: Other 2D5 1D5 14 Ex Timing Belt Clamp Gt2
+oomp_key: oomp_oobb_part_other_2d5_1d5_14_ex_timing_belt_clamp_gt2
+oomp_word: tv scissors hand
+oomp_word_emoji: ':tv: :scissors: :hand:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':scissors:'
+- ':hand:'
+oomp_word_list:
+- tv
+- scissors
+- hand
+part_number: ''
+size: other
+type: part

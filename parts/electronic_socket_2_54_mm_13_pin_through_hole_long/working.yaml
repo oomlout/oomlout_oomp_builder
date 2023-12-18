@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 13_pin
+directory: parts/electronic_socket_2_54_mm_13_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_13_pin_through_hole_long
+id: electronic_socket_2_54_mm_13_pin_through_hole_long
+id_no_class: socket_2_54_mm_13_pin_through_hole_long
+id_no_color: 13pinthroughholelong
+id_no_size: 13_pin_through_hole_long
+id_no_type: 2_54_mm_13_pin_through_hole_long
+manufacturer: ''
+md5: 2266258b190f191721d04ea0b85997f6
+md5_10: 2266258b19
+md5_10_upper: 2266258B19
+md5_5: '22662'
+md5_5_upper: '22662'
+md5_6: '226625'
+md5_6_alpha: 1cbhh
+md5_6_alpha_upper: 1CBHH
+md5_6_upper: '226625'
+name: Electronic Socket 2 54 Mm 13 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 13 Pin Through Hole Long
+name_no_color: 13Pinthroughholelong
+name_no_size: 13 Pin Through Hole Long
+name_no_type: 2 54 Mm 13 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_13_pin_through_hole_long
+oomp_word: lips leaves ear
+oomp_word_emoji: ':lips: :leaves: :ear:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':leaves:'
+- ':ear:'
+oomp_word_list:
+- lips
+- leaves
+- ear
+part_number: ''
+size: 2_54_mm
+type: socket

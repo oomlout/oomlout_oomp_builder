@@ -1,0 +1,40 @@
+classification: hardware
+color: 6222_size
+description_extra: ''
+description_main: 110_mm_id_200_mm_od_38_mm_depth
+directory: parts/hardware_bearing_6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+id: hardware_bearing_6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+id_no_class: bearing_6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+id_no_color: 110_mm_id_200_mm_od_38_mm_depth
+id_no_size: 6222_size_110_mm_id_200_mm_od_38_mm_depth
+id_no_type: 6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+manufacturer: ''
+md5: 3a85e7900fd717e70722de78cc6cba29
+md5_10: 3a85e7900f
+md5_10_upper: 3A85E7900F
+md5_5: 3a85e
+md5_5_upper: 3A85E
+md5_6: 3a85e7
+md5_6_alpha: 2a7dz
+md5_6_alpha_upper: 2A7DZ
+md5_6_upper: 3A85E7
+name: Hardware Bearing 6200 Series 6222 Size 110 Mm Id 200 Mm Od 38 Mm Depth
+name_no_class: Bearing 6200 Series 6222 Size 110 Mm Id 200 Mm Od 38 Mm Depth
+name_no_color: 110 Mm Id 200 Mm Od 38 Mm Depth
+name_no_size: 6222 Size 110 Mm Id 200 Mm Od 38 Mm Depth
+name_no_type: 6200 Series 6222 Size 110 Mm Id 200 Mm Od 38 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6222_size_110_mm_id_200_mm_od_38_mm_depth
+oomp_word: koala bulb helicopter
+oomp_word_emoji: ':koala: :bulb: :helicopter:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':bulb:'
+- ':helicopter:'
+oomp_word_list:
+- koala
+- bulb
+- helicopter
+part_number: ''
+size: 6200_series
+type: bearing

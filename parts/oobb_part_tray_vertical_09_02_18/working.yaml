@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_02_18
+directory: parts/oobb_part_tray_vertical_09_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_02_18
+id: oobb_part_tray_vertical_09_02_18
+id_no_class: part_tray_vertical_09_02_18
+id_no_color: 090218
+id_no_size: 09_02_18
+id_no_type: tray_vertical_09_02_18
+manufacturer: ''
+md5: b234ddac76a7d17b1e5e60da5160b2ee
+md5_10: b234ddac76
+md5_10_upper: B234DDAC76
+md5_5: b234d
+md5_5_upper: B234D
+md5_6: b234dd
+md5_6_alpha: 6ybj1
+md5_6_alpha_upper: 6YBJ1
+md5_6_upper: B234DD
+name: Oobb Part Tray Vertical 09 02 18
+name_no_class: Part Tray Vertical 09 02 18
+name_no_color: 090218
+name_no_size: 09 02 18
+name_no_type: Tray Vertical 09 02 18
+oomp_key: oomp_oobb_part_tray_vertical_09_02_18
+oomp_word: handbag mouse stars
+oomp_word_emoji: ':handbag: :mouse: :stars:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':mouse:'
+- ':stars:'
+oomp_word_list:
+- handbag
+- mouse
+- stars
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_04_18
+directory: parts/oobb_part_tray_vertical_06_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_18
+id: oobb_part_tray_vertical_06_04_18
+id_no_class: part_tray_vertical_06_04_18
+id_no_color: 060418
+id_no_size: 06_04_18
+id_no_type: tray_vertical_06_04_18
+manufacturer: ''
+md5: d20dc3a3576f9e540fd750dea0e4ec28
+md5_10: d20dc3a357
+md5_10_upper: D20DC3A357
+md5_5: d20dc
+md5_5_upper: D20DC
+md5_6: d20dc3
+md5_6_alpha: 871z7
+md5_6_alpha_upper: 871Z7
+md5_6_upper: D20DC3
+name: Oobb Part Tray Vertical 06 04 18
+name_no_class: Part Tray Vertical 06 04 18
+name_no_color: 060418
+name_no_size: 06 04 18
+name_no_type: Tray Vertical 06 04 18
+oomp_key: oomp_oobb_part_tray_vertical_06_04_18
+oomp_word: pineapple heart cake
+oomp_word_emoji: ':pineapple: :heart: :cake:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':heart:'
+- ':cake:'
+oomp_word_list:
+- pineapple
+- heart
+- cake
+part_number: ''
+size: tray_vertical
+type: part

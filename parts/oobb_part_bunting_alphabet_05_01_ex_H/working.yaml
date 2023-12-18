@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_h
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_h
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_h
+id: oobb_part_bunting_alphabet_05_01_ex_h
+id_no_class: part_bunting_alphabet_05_01_ex_h
+id_no_color: 0501exh
+id_no_size: 05_01_ex_h
+id_no_type: bunting_alphabet_05_01_ex_h
+manufacturer: ''
+md5: 5bd1713254001b9537ddd03261ab9ec2
+md5_10: 5bd1713254
+md5_10_upper: 5BD1713254
+md5_5: 5bd17
+md5_5_upper: 5BD17
+md5_6: 5bd171
+md5_6_alpha: 3kz1t
+md5_6_alpha_upper: 3KZ1T
+md5_6_upper: 5BD171
+name: Oobb Part Bunting Alphabet 05 01 Ex H
+name_no_class: Part Bunting Alphabet 05 01 Ex H
+name_no_color: 0501Exh
+name_no_size: 05 01 Ex H
+name_no_type: Bunting Alphabet 05 01 Ex H
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_h
+oomp_word: rooster pear bamboo
+oomp_word_emoji: ':rooster: :pear: :bamboo:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':pear:'
+- ':bamboo:'
+oomp_word_list:
+- rooster
+- pear
+- bamboo
+part_number: ''
+size: bunting_alphabet
+type: part

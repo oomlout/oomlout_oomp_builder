@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '26_01_06'
+directory: parts/oobb_part_plate_26_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_26_01_06
+id: oobb_part_plate_26_01_06
+id_no_class: part_plate_26_01_06
+id_no_color: '260106'
+id_no_size: '26_01_06'
+id_no_type: plate_26_01_06
+manufacturer: ''
+md5: 3cf197a36746126fabea44e634e484d9
+md5_10: 3cf197a367
+md5_10_upper: 3CF197A367
+md5_5: 3cf19
+md5_5_upper: 3CF19
+md5_6: 3cf197
+md5_6_alpha: 2dlsn
+md5_6_alpha_upper: 2DLSN
+md5_6_upper: 3CF197
+name: Oobb Part Plate 26 01 06
+name_no_class: Part Plate 26 01 06
+name_no_color: '260106'
+name_no_size: 26 01 06
+name_no_type: Plate 26 01 06
+oomp_key: oomp_oobb_part_plate_26_01_06
+oomp_word: pig ticket baseball
+oomp_word_emoji: ':pig: :ticket: :baseball:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':ticket:'
+- ':baseball:'
+oomp_word_list:
+- pig
+- ticket
+- baseball
+part_number: ''
+size: plate
+type: part

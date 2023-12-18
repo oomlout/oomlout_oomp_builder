@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_03_ex_bolt_stacker
+directory: parts/oobb_part_other_01_06_03_ex_bolt_stacker
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03_ex_bolt_stacker
+id: oobb_part_other_01_06_03_ex_bolt_stacker
+id_no_class: part_other_01_06_03_ex_bolt_stacker
+id_no_color: 010603exboltstacker
+id_no_size: 01_06_03_ex_bolt_stacker
+id_no_type: other_01_06_03_ex_bolt_stacker
+manufacturer: ''
+md5: 5616d85c1b25c10a07ec30f33e654525
+md5_10: 5616d85c1b
+md5_10_upper: 5616D85C1B
+md5_5: 5616d
+md5_5_upper: 5616D
+md5_6: 5616d8
+md5_6_alpha: 3cxco
+md5_6_alpha_upper: 3CXCO
+md5_6_upper: 5616D8
+name: Oobb Part Other 01 06 03 Ex Bolt Stacker
+name_no_class: Part Other 01 06 03 Ex Bolt Stacker
+name_no_color: 010603Exboltstacker
+name_no_size: 01 06 03 Ex Bolt Stacker
+name_no_type: Other 01 06 03 Ex Bolt Stacker
+oomp_key: oomp_oobb_part_other_01_06_03_ex_bolt_stacker
+oomp_word: ram thumbsup hospital
+oomp_word_emoji: ':ram: :thumbsup: :hospital:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':thumbsup:'
+- ':hospital:'
+oomp_word_list:
+- ram
+- thumbsup
+- hospital
+part_number: ''
+size: other
+type: part

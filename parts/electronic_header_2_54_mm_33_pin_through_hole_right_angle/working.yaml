@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 33_pin
+directory: parts/electronic_header_2_54_mm_33_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_33_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_33_pin_through_hole_right_angle
+id_no_color: 33pinthroughholerightangle
+id_no_size: 33_pin_through_hole_right_angle
+id_no_type: 2_54_mm_33_pin_through_hole_right_angle
+manufacturer: ''
+md5: 2d86a230e34cd5435cf301f5747bb956
+md5_10: 2d86a230e3
+md5_10_upper: 2D86A230E3
+md5_5: 2d86a
+md5_5_upper: 2D86A
+md5_6: 2d86a2
+md5_6_alpha: 1ry5e
+md5_6_alpha_upper: 1RY5E
+md5_6_upper: 2D86A2
+name: Electronic Header 2 54 Mm 33 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 33 Pin Through Hole Right Angle
+name_no_color: 33Pinthroughholerightangle
+name_no_size: 33 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 33 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_through_hole_right_angle
+oomp_word: snowman bath violin
+oomp_word_emoji: ':snowman: :bath: :violin:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':bath:'
+- ':violin:'
+oomp_word_list:
+- snowman
+- bath
+- violin
+part_number: ''
+size: 2_54_mm
+type: header

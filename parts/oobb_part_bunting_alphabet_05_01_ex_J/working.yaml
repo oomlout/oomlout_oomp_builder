@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_j
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_j
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_j
+id: oobb_part_bunting_alphabet_05_01_ex_j
+id_no_class: part_bunting_alphabet_05_01_ex_j
+id_no_color: 0501exj
+id_no_size: 05_01_ex_j
+id_no_type: bunting_alphabet_05_01_ex_j
+manufacturer: ''
+md5: 7d47f086b992ab702225e5438a0a6e79
+md5_10: 7d47f086b9
+md5_10_upper: 7D47F086B9
+md5_5: 7d47f
+md5_5_upper: 7D47F
+md5_6: 7d47f0
+md5_6_alpha: 4vz74
+md5_6_alpha_upper: 4VZ74
+md5_6_upper: 7D47F0
+name: Oobb Part Bunting Alphabet 05 01 Ex J
+name_no_class: Part Bunting Alphabet 05 01 Ex J
+name_no_color: 0501Exj
+name_no_size: 05 01 Ex J
+name_no_type: Bunting Alphabet 05 01 Ex J
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_j
+oomp_word: phone baby_chick train
+oomp_word_emoji: ':phone: :baby_chick: :train:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':baby_chick:'
+- ':train:'
+oomp_word_list:
+- phone
+- baby_chick
+- train
+part_number: ''
+size: bunting_alphabet
+type: part

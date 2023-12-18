@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_03_18'
+directory: parts/oobb_part_tray_vertical_10_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_03_18
+id: oobb_part_tray_vertical_10_03_18
+id_no_class: part_tray_vertical_10_03_18
+id_no_color: '100318'
+id_no_size: '10_03_18'
+id_no_type: tray_vertical_10_03_18
+manufacturer: ''
+md5: 9cb3d32ebade9240989a3f245e7ae27b
+md5_10: 9cb3d32eba
+md5_10_upper: 9CB3D32EBA
+md5_5: 9cb3d
+md5_5_upper: 9CB3D
+md5_6: 9cb3d3
+md5_6_alpha: '64443'
+md5_6_alpha_upper: '64443'
+md5_6_upper: 9CB3D3
+name: Oobb Part Tray Vertical 10 03 18
+name_no_class: Part Tray Vertical 10 03 18
+name_no_color: '100318'
+name_no_size: 10 03 18
+name_no_type: Tray Vertical 10 03 18
+oomp_key: oomp_oobb_part_tray_vertical_10_03_18
+oomp_word: spades eyeglasses tomato
+oomp_word_emoji: ':spades: :eyeglasses: :tomato:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':eyeglasses:'
+- ':tomato:'
+oomp_word_list:
+- spades
+- eyeglasses
+- tomato
+part_number: ''
+size: tray_vertical
+type: part

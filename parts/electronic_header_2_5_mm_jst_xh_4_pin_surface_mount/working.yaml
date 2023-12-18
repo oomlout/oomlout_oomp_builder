@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 4_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_surface_mount
+id: electronic_header_2_5_mm_jst_xh_4_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_4_pin_surface_mount
+id_no_color: 4pinsurfacemount
+id_no_size: 4_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_4_pin_surface_mount
+manufacturer: ''
+md5: 62848963c405381b88d86c84beec1e0d
+md5_10: 62848963c4
+md5_10_upper: 62848963C4
+md5_5: '62848'
+md5_5_upper: '62848'
+md5_6: '628489'
+md5_6_alpha: 3udu1
+md5_6_alpha_upper: 3UDU1
+md5_6_upper: '628489'
+name: Electronic Header 2 5 Mm Jst Xh 4 Pin Surface Mount
+name_no_class: Header 2 5 Mm Jst Xh 4 Pin Surface Mount
+name_no_color: 4Pinsurfacemount
+name_no_size: 4 Pin Surface Mount
+name_no_type: 2 5 Mm Jst Xh 4 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_4_pin_surface_mount
+oomp_word: tulip key hammer
+oomp_word_emoji: ':tulip: :key: :hammer:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':key:'
+- ':hammer:'
+oomp_word_list:
+- tulip
+- key
+- hammer
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

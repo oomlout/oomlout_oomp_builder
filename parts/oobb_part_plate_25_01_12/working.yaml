@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '25_01_12'
+directory: parts/oobb_part_plate_25_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_25_01_12
+id: oobb_part_plate_25_01_12
+id_no_class: part_plate_25_01_12
+id_no_color: '250112'
+id_no_size: '25_01_12'
+id_no_type: plate_25_01_12
+manufacturer: ''
+md5: 73427e9276d3c56cda78623f1f31840f
+md5_10: 73427e9276
+md5_10_upper: 73427E9276
+md5_5: '73427'
+md5_5_upper: '73427'
+md5_6: 73427e
+md5_6_alpha: 4hwfy
+md5_6_alpha_upper: 4HWFY
+md5_6_upper: 73427E
+name: Oobb Part Plate 25 01 12
+name_no_class: Part Plate 25 01 12
+name_no_color: '250112'
+name_no_size: 25 01 12
+name_no_type: Plate 25 01 12
+oomp_key: oomp_oobb_part_plate_25_01_12
+oomp_word: flags sheep fax
+oomp_word_emoji: ':flags: :sheep: :fax:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':sheep:'
+- ':fax:'
+oomp_word_list:
+- flags
+- sheep
+- fax
+part_number: ''
+size: plate
+type: part

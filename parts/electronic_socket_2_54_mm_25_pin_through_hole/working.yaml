@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 25_pin
+directory: parts/electronic_socket_2_54_mm_25_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole
+id: electronic_socket_2_54_mm_25_pin_through_hole
+id_no_class: socket_2_54_mm_25_pin_through_hole
+id_no_color: 25pinthroughhole
+id_no_size: 25_pin_through_hole
+id_no_type: 2_54_mm_25_pin_through_hole
+manufacturer: ''
+md5: 59e9fa8efdc6e581e3b5480cc3cc3299
+md5_10: 59e9fa8efd
+md5_10_upper: 59E9FA8EFD
+md5_5: 59e9f
+md5_5_upper: 59E9F
+md5_6: 59e9fa
+md5_6_alpha: 3iare
+md5_6_alpha_upper: 3IARE
+md5_6_upper: 59E9FA
+name: Electronic Socket 2 54 Mm 25 Pin Through Hole
+name_no_class: Socket 2 54 Mm 25 Pin Through Hole
+name_no_color: 25Pinthroughhole
+name_no_size: 25 Pin Through Hole
+name_no_type: 2 54 Mm 25 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_25_pin_through_hole
+oomp_word: dragon bike nine
+oomp_word_emoji: ':dragon: :bike: :nine:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':bike:'
+- ':nine:'
+oomp_word_list:
+- dragon
+- bike
+- nine
+part_number: ''
+size: 2_54_mm
+type: socket

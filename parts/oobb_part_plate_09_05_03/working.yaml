@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_05_03
+directory: parts/oobb_part_plate_09_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_05_03
+id: oobb_part_plate_09_05_03
+id_no_class: part_plate_09_05_03
+id_no_color: 090503
+id_no_size: 09_05_03
+id_no_type: plate_09_05_03
+manufacturer: ''
+md5: 25cff27e523d6b070150d7ed35ba9310
+md5_10: 25cff27e52
+md5_10_upper: 25CFF27E52
+md5_5: 25cff
+md5_5_upper: 25CFF
+md5_6: 25cff2
+md5_6_alpha: 1h436
+md5_6_alpha_upper: 1H436
+md5_6_upper: 25CFF2
+name: Oobb Part Plate 09 05 03
+name_no_class: Part Plate 09 05 03
+name_no_color: 090503
+name_no_size: 09 05 03
+name_no_type: Plate 09 05 03
+oomp_key: oomp_oobb_part_plate_09_05_03
+oomp_word: ear melon one
+oomp_word_emoji: ':ear: :melon: :one:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':melon:'
+- ':one:'
+oomp_word_list:
+- ear
+- melon
+- one
+part_number: ''
+size: plate
+type: part

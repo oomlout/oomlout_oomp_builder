@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_07_03_nm_oobb_pl_a6
+directory: parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6
+id: oobb_part_plate_10_07_03_nm_oobb_pl_a6
+id_no_class: part_plate_10_07_03_nm_pl_a6
+id_no_color: 100703nmpla6
+id_no_size: 10_07_03_nm_pl_a6
+id_no_type: plate_10_07_03_nm_pl_a6
+manufacturer: ''
+md5: 9e19cc23a821af8da378e1fcb4482caa
+md5_10: 9e19cc23a8
+md5_10_upper: 9E19CC23A8
+md5_5: 9e19c
+md5_5_upper: 9E19C
+md5_6: 9e19cc
+md5_6_alpha: 662to
+md5_6_alpha_upper: 662TO
+md5_6_upper: 9E19CC
+name: Oobb Part Plate 10 07 03 Nm Oobb Pl A6
+name_no_class: Part Plate 10 07 03 Nm Pl A6
+name_no_color: 100703Nmpla6
+name_no_size: 10 07 03 Nm Pl A6
+name_no_type: Plate 10 07 03 Nm Pl A6
+oomp_key: oomp_oobb_part_plate_10_07_03_nm_oobb_pl_a6
+oomp_word: clubs pray watermelon
+oomp_word_emoji: ':clubs: :pray: :watermelon:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':pray:'
+- ':watermelon:'
+oomp_word_list:
+- clubs
+- pray
+- watermelon
+part_number: ''
+size: plate
+type: part

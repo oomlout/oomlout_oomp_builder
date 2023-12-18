@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_11_18
+directory: parts/oobb_part_tray_02_11_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_11_18
+id: oobb_part_tray_02_11_18
+id_no_class: part_tray_02_11_18
+id_no_color: 021118
+id_no_size: 02_11_18
+id_no_type: tray_02_11_18
+manufacturer: ''
+md5: 0eb0d7be5e5e7f8510200e93022211a8
+md5_10: 0eb0d7be5e
+md5_10_upper: 0EB0D7BE5E
+md5_5: 0eb0d
+md5_5_upper: 0EB0D
+md5_6: 0eb0d7
+md5_6_alpha: kmvr
+md5_6_alpha_upper: KMVR
+md5_6_upper: 0EB0D7
+name: Oobb Part Tray 02 11 18
+name_no_class: Part Tray 02 11 18
+name_no_color: 021118
+name_no_size: 02 11 18
+name_no_type: Tray 02 11 18
+oomp_key: oomp_oobb_part_tray_02_11_18
+oomp_word: cupid crown office
+oomp_word_emoji: ':cupid: :crown: :office:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':crown:'
+- ':office:'
+oomp_word_list:
+- cupid
+- crown
+- office
+part_number: ''
+size: tray
+type: part

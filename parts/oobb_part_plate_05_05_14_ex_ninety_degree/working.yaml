@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_14_ex_ninety_degree
+directory: parts/oobb_part_plate_05_05_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_14_ex_ninety_degree
+id: oobb_part_plate_05_05_14_ex_ninety_degree
+id_no_class: part_plate_05_05_14_ex_ninety_degree
+id_no_color: 050514exninetydegree
+id_no_size: 05_05_14_ex_ninety_degree
+id_no_type: plate_05_05_14_ex_ninety_degree
+manufacturer: ''
+md5: e6f8559287a7ec880820d0712ef8b9ee
+md5_10: e6f8559287
+md5_10_upper: E6F8559287
+md5_5: e6f85
+md5_5_upper: E6F85
+md5_6: e6f855
+md5_6_alpha: 90fo5
+md5_6_alpha_upper: 90FO5
+md5_6_upper: E6F855
+name: Oobb Part Plate 05 05 14 Ex Ninety Degree
+name_no_class: Part Plate 05 05 14 Ex Ninety Degree
+name_no_color: 050514Exninetydegree
+name_no_size: 05 05 14 Ex Ninety Degree
+name_no_type: Plate 05 05 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_05_05_14_ex_ninety_degree
+oomp_word: airplane seven dolphin
+oomp_word_emoji: ':airplane: :seven: :dolphin:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':seven:'
+- ':dolphin:'
+oomp_word_list:
+- airplane
+- seven
+- dolphin
+part_number: ''
+size: plate
+type: part

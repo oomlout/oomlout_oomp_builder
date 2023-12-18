@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_15_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_15_pin_surface_mount_right_angle
+id_no_color: 15pinsurfacemountrightangle
+id_no_size: 15_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_15_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 6b854ff4e8d2499a1950b8626d4760a6
+md5_10: 6b854ff4e8
+md5_10_upper: 6B854FF4E8
+md5_5: 6b854
+md5_5_upper: 6B854
+md5_6: 6b854f
+md5_6_alpha: 4713j
+md5_6_alpha_upper: 4713J
+md5_6_upper: 6B854F
+name: Electronic Header 2 54 Mm 15 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 15 Pin Surface Mount Right Angle
+name_no_color: 15Pinsurfacemountrightangle
+name_no_size: 15 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 15 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_surface_mount_right_angle
+oomp_word: chestnut bulb ant
+oomp_word_emoji: ':chestnut: :bulb: :ant:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':bulb:'
+- ':ant:'
+oomp_word_list:
+- chestnut
+- bulb
+- ant
+part_number: ''
+size: 2_54_mm
+type: header

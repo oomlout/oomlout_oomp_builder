@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 22_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_22_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_22_ohm
+id: electronic_resistor_quarter_watt_through_hole_22_ohm
+id_no_class: resistor_quarter_watt_through_hole_22_ohm
+id_no_color: 22ohm
+id_no_size: 22_ohm
+id_no_type: quarter_watt_through_hole_22_ohm
+manufacturer: ''
+md5: 7946f61974411c32c06d965b36302c02
+md5_10: 7946f61974
+md5_10_upper: 7946F61974
+md5_5: 7946f
+md5_5_upper: 7946F
+md5_6: 7946f6
+md5_6_alpha: 4qcqe
+md5_6_alpha_upper: 4QCQE
+md5_6_upper: 7946F6
+name: Electronic Resistor Quarter Watt Through Hole 22 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 22 Ohm
+name_no_color: 22Ohm
+name_no_size: 22 Ohm
+name_no_type: Quarter Watt Through Hole 22 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_22_ohm
+oomp_word: balloon bird five
+oomp_word_emoji: ':balloon: :bird: :five:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':bird:'
+- ':five:'
+oomp_word_list:
+- balloon
+- bird
+- five
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

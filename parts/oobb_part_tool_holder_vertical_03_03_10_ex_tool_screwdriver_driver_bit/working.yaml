@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_10_ex_tool_screwdriver_driver_bit
+directory: parts/oobb_part_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+id: oobb_part_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+id_no_class: part_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+id_no_color: 030310extoolscrewdriverdriverbit
+id_no_size: 03_03_10_ex_tool_screwdriver_driver_bit
+id_no_type: tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+manufacturer: ''
+md5: 714d53dc587c0da103c297e79b0b98c7
+md5_10: 714d53dc58
+md5_10_upper: 714D53DC58
+md5_5: 714d5
+md5_5_upper: 714D5
+md5_6: 714d53
+md5_6_alpha: 4f5g3
+md5_6_alpha_upper: 4F5G3
+md5_6_upper: 714D53
+name: Oobb Part Tool Holder Vertical 03 03 10 Ex Tool Screwdriver Driver Bit
+name_no_class: Part Tool Holder Vertical 03 03 10 Ex Tool Screwdriver Driver Bit
+name_no_color: 030310Extoolscrewdriverdriverbit
+name_no_size: 03 03 10 Ex Tool Screwdriver Driver Bit
+name_no_type: Tool Holder Vertical 03 03 10 Ex Tool Screwdriver Driver Bit
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_03_10_ex_tool_screwdriver_driver_bit
+oomp_word: bamboo bug fish
+oomp_word_emoji: ':bamboo: :bug: :fish:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':bug:'
+- ':fish:'
+oomp_word_list:
+- bamboo
+- bug
+- fish
+part_number: ''
+size: tool_holder_vertical
+type: part

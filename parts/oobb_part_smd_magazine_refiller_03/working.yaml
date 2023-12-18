@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03'
+directory: parts/oobb_part_smd_magazine_refiller_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03
+id: oobb_part_smd_magazine_refiller_03
+id_no_class: part_smd_magazine_refiller_03
+id_no_color: '03'
+id_no_size: '03'
+id_no_type: smd_magazine_refiller_03
+manufacturer: ''
+md5: a99ae702e85148fef4171d0d88e3a878
+md5_10: a99ae702e8
+md5_10_upper: A99AE702E8
+md5_5: a99ae
+md5_5_upper: A99AE
+md5_6: a99ae7
+md5_6_alpha: 6m8kn
+md5_6_alpha_upper: 6M8KN
+md5_6_upper: A99AE7
+name: Oobb Part Smd Magazine Refiller 03
+name_no_class: Part Smd Magazine Refiller 03
+name_no_color: '03'
+name_no_size: '03'
+name_no_type: Smd Magazine Refiller 03
+oomp_key: oomp_oobb_part_smd_magazine_refiller_03
+oomp_word: sandal golf helicopter
+oomp_word_emoji: ':sandal: :golf: :helicopter:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':golf:'
+- ':helicopter:'
+oomp_word_list:
+- sandal
+- golf
+- helicopter
+part_number: ''
+size: smd_magazine_refiller
+type: part

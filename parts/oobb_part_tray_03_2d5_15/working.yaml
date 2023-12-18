@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_2d5_15
+directory: parts/oobb_part_tray_03_2d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_2d5_15
+id: oobb_part_tray_03_2d5_15
+id_no_class: part_tray_03_2d5_15
+id_no_color: 032d515
+id_no_size: 03_2d5_15
+id_no_type: tray_03_2d5_15
+manufacturer: ''
+md5: 2bca81626a3c6b592e6ec1ee54dc0857
+md5_10: 2bca81626a
+md5_10_upper: 2BCA81626A
+md5_5: 2bca8
+md5_5_upper: 2BCA8
+md5_6: 2bca81
+md5_6_alpha: 1pif5
+md5_6_alpha_upper: 1PIF5
+md5_6_upper: 2BCA81
+name: Oobb Part Tray 03 2D5 15
+name_no_class: Part Tray 03 2D5 15
+name_no_color: 032D515
+name_no_size: 03 2D5 15
+name_no_type: Tray 03 2D5 15
+oomp_key: oomp_oobb_part_tray_03_2d5_15
+oomp_word: cloud cherries watch
+oomp_word_emoji: ':cloud: :cherries: :watch:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':cherries:'
+- ':watch:'
+oomp_word_list:
+- cloud
+- cherries
+- watch
+part_number: ''
+size: tray
+type: part

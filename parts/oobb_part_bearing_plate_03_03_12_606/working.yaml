@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_12_606'
+directory: parts/oobb_part_bearing_plate_03_03_12_606
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_606
+id: oobb_part_bearing_plate_03_03_12_606
+id_no_class: part_bearing_plate_03_03_12_606
+id_no_color: '030312606'
+id_no_size: '03_03_12_606'
+id_no_type: bearing_plate_03_03_12_606
+manufacturer: ''
+md5: 1cc8451b279b65d530df75311189c042
+md5_10: 1cc8451b27
+md5_10_upper: 1CC8451B27
+md5_5: 1cc84
+md5_5_upper: 1CC84
+md5_6: 1cc845
+md5_6_alpha: 14fgl
+md5_6_alpha_upper: 14FGL
+md5_6_upper: 1CC845
+name: Oobb Part Bearing Plate 03 03 12 606
+name_no_class: Part Bearing Plate 03 03 12 606
+name_no_color: '030312606'
+name_no_size: 03 03 12 606
+name_no_type: Bearing Plate 03 03 12 606
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_606
+oomp_word: dancer apple snake
+oomp_word_emoji: ':dancer: :apple: :snake:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':apple:'
+- ':snake:'
+oomp_word_list:
+- dancer
+- apple
+- snake
+part_number: ''
+size: bearing_plate
+type: part

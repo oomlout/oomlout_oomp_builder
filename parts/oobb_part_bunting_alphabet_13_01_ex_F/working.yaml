@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_f
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_f
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_f
+id: oobb_part_bunting_alphabet_13_01_ex_f
+id_no_class: part_bunting_alphabet_13_01_ex_f
+id_no_color: 1301exf
+id_no_size: 13_01_ex_f
+id_no_type: bunting_alphabet_13_01_ex_f
+manufacturer: ''
+md5: 181171ace47ebe40116045fd07a972f7
+md5_10: 181171ace4
+md5_10_upper: 181171ACE4
+md5_5: '18117'
+md5_5_upper: '18117'
+md5_6: '181171'
+md5_6_alpha: xt2p
+md5_6_alpha_upper: XT2P
+md5_6_upper: '181171'
+name: Oobb Part Bunting Alphabet 13 01 Ex F
+name_no_class: Part Bunting Alphabet 13 01 Ex F
+name_no_color: 1301Exf
+name_no_size: 13 01 Ex F
+name_no_type: Bunting Alphabet 13 01 Ex F
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_f
+oomp_word: hand dizzy bamboo
+oomp_word_emoji: ':hand: :dizzy: :bamboo:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':dizzy:'
+- ':bamboo:'
+oomp_word_list:
+- hand
+- dizzy
+- bamboo
+part_number: ''
+size: bunting_alphabet
+type: part

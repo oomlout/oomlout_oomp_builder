@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2_pin
+directory: parts/electronic_header_2_54_mm_2_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_2_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_2_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_2_pin_through_hole_right_angle
+id_no_color: 2pinthroughholerightangle
+id_no_size: 2_pin_through_hole_right_angle
+id_no_type: 2_54_mm_2_pin_through_hole_right_angle
+manufacturer: ''
+md5: 87aa4c01161ec4523cabc5f45b669703
+md5_10: 87aa4c0116
+md5_10_upper: 87AA4C0116
+md5_5: 87aa4
+md5_5_upper: 87AA4
+md5_6: 87aa4c
+md5_6_alpha: 5akb0
+md5_6_alpha_upper: 5AKB0
+md5_6_upper: 87AA4C
+name: Electronic Header 2 54 Mm 2 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 2 Pin Through Hole Right Angle
+name_no_color: 2Pinthroughholerightangle
+name_no_size: 2 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 2 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_2_pin_through_hole_right_angle
+oomp_word: toilet lipstick turtle
+oomp_word_emoji: ':toilet: :lipstick: :turtle:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':lipstick:'
+- ':turtle:'
+oomp_word_list:
+- toilet
+- lipstick
+- turtle
+part_number: ''
+size: 2_54_mm
+type: header

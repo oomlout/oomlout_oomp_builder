@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_u
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_u
+id: oobb_part_bunting_alphabet_13_01_ex_u
+id_no_class: part_bunting_alphabet_13_01_ex_u
+id_no_color: 1301exu
+id_no_size: 13_01_ex_u
+id_no_type: bunting_alphabet_13_01_ex_u
+manufacturer: ''
+md5: 9614355973695028ec11fd4af7bc65f5
+md5_10: '9614355973'
+md5_10_upper: '9614355973'
+md5_5: '96143'
+md5_5_upper: '96143'
+md5_6: '961435'
+md5_6_alpha: 5ut6d
+md5_6_alpha_upper: 5UT6D
+md5_6_upper: '961435'
+name: Oobb Part Bunting Alphabet 13 01 Ex U
+name_no_class: Part Bunting Alphabet 13 01 Ex U
+name_no_color: 1301Exu
+name_no_size: 13 01 Ex U
+name_no_type: Bunting Alphabet 13 01 Ex U
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_u
+oomp_word: basketball fire hamster
+oomp_word_emoji: ':basketball: :fire: :hamster:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':fire:'
+- ':hamster:'
+oomp_word_list:
+- basketball
+- fire
+- hamster
+part_number: ''
+size: bunting_alphabet
+type: part

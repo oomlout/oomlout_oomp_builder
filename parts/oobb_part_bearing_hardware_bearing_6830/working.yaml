@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bearing_6830
+directory: parts/oobb_part_bearing_hardware_bearing_6830
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6830
+id: oobb_part_bearing_hardware_bearing_6830
+id_no_class: part_bearing_hardware_bearing_6830
+id_no_color: hardware6830
+id_no_size: hardware_6830
+id_no_type: bearing_hardware_bearing_6830
+manufacturer: ''
+md5: e84703f5297a6f898f38aac078fbbebc
+md5_10: e84703f529
+md5_10_upper: E84703F529
+md5_5: e8470
+md5_5_upper: E8470
+md5_6: e84703
+md5_6_alpha: 929s3
+md5_6_alpha_upper: 929S3
+md5_6_upper: E84703
+name: Oobb Part Bearing Hardware Bearing 6830
+name_no_class: Part Bearing Hardware Bearing 6830
+name_no_color: Hardware6830
+name_no_size: Hardware 6830
+name_no_type: Bearing Hardware Bearing 6830
+oomp_key: oomp_oobb_part_bearing_hardware_bearing_6830
+oomp_word: tram baby_chick grin
+oomp_word_emoji: ':tram: :baby_chick: :grin:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':baby_chick:'
+- ':grin:'
+oomp_word_list:
+- tram
+- baby_chick
+- grin
+part_number: ''
+size: bearing
+type: part

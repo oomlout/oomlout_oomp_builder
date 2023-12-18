@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_03_ex_32_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_04_03_ex_32_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_03_ex_32_teeth_sh_motor_n20
+id: oobb_part_gear_04_03_ex_32_teeth_sh_motor_n20
+id_no_class: part_gear_04_03_ex_32_teeth_sh_motor_n20
+id_no_color: 0403ex32teethshmotorn20
+id_no_size: 04_03_ex_32_teeth_sh_motor_n20
+id_no_type: gear_04_03_ex_32_teeth_sh_motor_n20
+manufacturer: ''
+md5: e93446deeedf93d358219f8dc988b5de
+md5_10: e93446deee
+md5_10_upper: E93446DEEE
+md5_5: e9344
+md5_5_upper: E9344
+md5_6: e93446
+md5_6_alpha: 93kna
+md5_6_alpha_upper: 93KNA
+md5_6_upper: E93446
+name: Oobb Part Gear 04 03 Ex 32 Teeth Sh Motor N20
+name_no_class: Part Gear 04 03 Ex 32 Teeth Sh Motor N20
+name_no_color: 0403Ex32Teethshmotorn20
+name_no_size: 04 03 Ex 32 Teeth Sh Motor N20
+name_no_type: Gear 04 03 Ex 32 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_04_03_ex_32_teeth_sh_motor_n20
+oomp_word: bike mouse bird
+oomp_word_emoji: ':bike: :mouse: :bird:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':mouse:'
+- ':bird:'
+oomp_word_list:
+- bike
+- mouse
+- bird
+part_number: ''
+size: gear
+type: part

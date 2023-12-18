@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_03_30'
+directory: parts/oobb_part_plate_03_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_30
+id: oobb_part_plate_03_03_30
+id_no_class: part_plate_03_03_30
+id_no_color: '030330'
+id_no_size: '03_03_30'
+id_no_type: plate_03_03_30
+manufacturer: ''
+md5: ec6000bedacc5f41ea59b1b4da3ff50d
+md5_10: ec6000beda
+md5_10_upper: EC6000BEDA
+md5_5: ec600
+md5_5_upper: EC600
+md5_6: ec6000
+md5_6_alpha: 980zk
+md5_6_alpha_upper: 980ZK
+md5_6_upper: EC6000
+name: Oobb Part Plate 03 03 30
+name_no_class: Part Plate 03 03 30
+name_no_color: '030330'
+name_no_size: 03 03 30
+name_no_type: Plate 03 03 30
+oomp_key: oomp_oobb_part_plate_03_03_30
+oomp_word: taxi poodle bowtie
+oomp_word_emoji: ':taxi: :poodle: :bowtie:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':poodle:'
+- ':bowtie:'
+oomp_word_list:
+- taxi
+- poodle
+- bowtie
+part_number: ''
+size: plate
+type: part

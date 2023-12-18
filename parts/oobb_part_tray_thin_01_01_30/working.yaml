@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_30'
+directory: parts/oobb_part_tray_thin_01_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_01_30
+id: oobb_part_tray_thin_01_01_30
+id_no_class: part_tray_thin_01_01_30
+id_no_color: '010130'
+id_no_size: '01_01_30'
+id_no_type: tray_thin_01_01_30
+manufacturer: ''
+md5: 31b95bca080b8ae3eee37aae741032cf
+md5_10: 31b95bca08
+md5_10_upper: 31B95BCA08
+md5_5: 31b95
+md5_5_upper: 31B95
+md5_6: 31b95b
+md5_6_alpha: 1xufv
+md5_6_alpha_upper: 1XUFV
+md5_6_upper: 31B95B
+name: Oobb Part Tray Thin 01 01 30
+name_no_class: Part Tray Thin 01 01 30
+name_no_color: '010130'
+name_no_size: 01 01 30
+name_no_type: Tray Thin 01 01 30
+oomp_key: oomp_oobb_part_tray_thin_01_01_30
+oomp_word: ocean fries rooster
+oomp_word_emoji: ':ocean: :fries: :rooster:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':fries:'
+- ':rooster:'
+oomp_word_list:
+- ocean
+- fries
+- rooster
+part_number: ''
+size: tray_thin
+type: part

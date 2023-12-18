@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_12'
+directory: parts/oobb_part_tray_vertical_03_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_12
+id: oobb_part_tray_vertical_03_01_12
+id_no_class: part_tray_vertical_03_01_12
+id_no_color: '030112'
+id_no_size: '03_01_12'
+id_no_type: tray_vertical_03_01_12
+manufacturer: ''
+md5: bb1ad899056266a83839a23d5550c250
+md5_10: bb1ad89905
+md5_10_upper: BB1AD89905
+md5_5: bb1ad
+md5_5_upper: BB1AD
+md5_6: bb1ad8
+md5_6_alpha: 7ati0
+md5_6_alpha_upper: 7ATI0
+md5_6_upper: BB1AD8
+name: Oobb Part Tray Vertical 03 01 12
+name_no_class: Part Tray Vertical 03 01 12
+name_no_color: '030112'
+name_no_size: 03 01 12
+name_no_type: Tray Vertical 03 01 12
+oomp_key: oomp_oobb_part_tray_vertical_03_01_12
+oomp_word: curry clap hospital
+oomp_word_emoji: ':curry: :clap: :hospital:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':clap:'
+- ':hospital:'
+oomp_word_list:
+- curry
+- clap
+- hospital
+part_number: ''
+size: tray_vertical
+type: part

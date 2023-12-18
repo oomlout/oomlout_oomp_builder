@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_ex_40_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+id_no_color: 0503ex40teethshmotorservostandard01
+id_no_size: 05_03_ex_40_teeth_sh_motor_servo_standard_01
+id_no_type: gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 2312b3dac2cce8d1a7c226b58f55792e
+md5_10: 2312b3dac2
+md5_10_upper: 2312B3DAC2
+md5_5: 2312b
+md5_5_upper: 2312B
+md5_6: 2312b3
+md5_6_alpha: 1d9kj
+md5_6_alpha_upper: 1D9KJ
+md5_6_upper: 2312B3
+name: Oobb Part Gear 05 03 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 05 03 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_color: 0503Ex40Teethshmotorservostandard01
+name_no_size: 05 03 Ex 40 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 05 03 Ex 40 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_05_03_ex_40_teeth_sh_motor_servo_standard_01
+oomp_word: kiss anger eyeglasses
+oomp_word_emoji: ':kiss: :anger: :eyeglasses:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':anger:'
+- ':eyeglasses:'
+oomp_word_list:
+- kiss
+- anger
+- eyeglasses
+part_number: ''
+size: gear
+type: part

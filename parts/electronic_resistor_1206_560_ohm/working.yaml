@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_1206_560_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_560_ohm
+id: electronic_resistor_1206_560_ohm
+id_no_class: resistor_1206_560_ohm
+id_no_color: 560ohm
+id_no_size: 560_ohm
+id_no_type: 1206_560_ohm
+manufacturer: ''
+md5: c4d11235bc116ccb2b63dea694673a97
+md5_10: c4d11235bc
+md5_10_upper: C4D11235BC
+md5_5: c4d11
+md5_5_upper: C4D11
+md5_6: c4d112
+md5_6_alpha: 7oglu
+md5_6_alpha_upper: 7OGLU
+md5_6_upper: C4D112
+name: Electronic Resistor 1206 560 Ohm
+name_no_class: Resistor 1206 560 Ohm
+name_no_color: 560Ohm
+name_no_size: 560 Ohm
+name_no_type: 1206 560 Ohm
+oomp_key: oomp_electronic_resistor_1206_560_ohm
+oomp_word: cookie pear anger
+oomp_word_emoji: ':cookie: :pear: :anger:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':pear:'
+- ':anger:'
+oomp_word_list:
+- cookie
+- pear
+- anger
+part_number: ''
+size: '1206'
+type: resistor

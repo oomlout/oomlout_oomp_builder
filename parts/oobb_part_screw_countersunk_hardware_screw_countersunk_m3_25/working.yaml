@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_25
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_25
+id_no_color: hardwarem325
+id_no_size: hardware_m3_25
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_25
+manufacturer: ''
+md5: 17a31c008dd69d2c2f78475ef91d454c
+md5_10: 17a31c008d
+md5_10_upper: 17A31C008D
+md5_5: 17a31
+md5_5_upper: 17A31
+md5_6: 17a31c
+md5_6_alpha: x7a4
+md5_6_alpha_upper: X7A4
+md5_6_upper: 17A31C
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 25
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 25
+name_no_color: Hardwarem325
+name_no_size: Hardware M3 25
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 25
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+oomp_word: thumbsdown pencil dancer
+oomp_word_emoji: ':thumbsdown: :pencil: :dancer:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':pencil:'
+- ':dancer:'
+oomp_word_list:
+- thumbsdown
+- pencil
+- dancer
+part_number: ''
+size: screw_countersunk
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_09_18
+directory: parts/oobb_part_tray_04_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_09_18
+id: oobb_part_tray_04_09_18
+id_no_class: part_tray_04_09_18
+id_no_color: 040918
+id_no_size: 04_09_18
+id_no_type: tray_04_09_18
+manufacturer: ''
+md5: 5900aef220ff5b36ff20c7db0ca6604f
+md5_10: 5900aef220
+md5_10_upper: 5900AEF220
+md5_5: 5900a
+md5_5_upper: 5900A
+md5_6: 5900ae
+md5_6_alpha: 3h0oe
+md5_6_alpha_upper: 3H0OE
+md5_6_upper: 5900AE
+name: Oobb Part Tray 04 09 18
+name_no_class: Part Tray 04 09 18
+name_no_color: 040918
+name_no_size: 04 09 18
+name_no_type: Tray 04 09 18
+oomp_key: oomp_oobb_part_tray_04_09_18
+oomp_word: dragon bowtie jeans
+oomp_word_emoji: ':dragon: :bowtie: :jeans:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':bowtie:'
+- ':jeans:'
+oomp_word_list:
+- dragon
+- bowtie
+- jeans
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3900_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_3900_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900_ohm
+id: electronic_resistor_quarter_watt_through_hole_3900_ohm
+id_no_class: resistor_quarter_watt_through_hole_3900_ohm
+id_no_color: 3900ohm
+id_no_size: 3900_ohm
+id_no_type: quarter_watt_through_hole_3900_ohm
+manufacturer: ''
+md5: 87c5421cb3e4b824c9dc5e99bd59aae5
+md5_10: 87c5421cb3
+md5_10_upper: 87C5421CB3
+md5_5: 87c54
+md5_5_upper: 87C54
+md5_6: 87c542
+md5_6_alpha: 5apmq
+md5_6_alpha_upper: 5APMQ
+md5_6_upper: 87C542
+name: Electronic Resistor Quarter Watt Through Hole 3900 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 3900 Ohm
+name_no_color: 3900Ohm
+name_no_size: 3900 Ohm
+name_no_type: Quarter Watt Through Hole 3900 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_3900_ohm
+oomp_word: toilet candy sheep
+oomp_word_emoji: ':toilet: :candy: :sheep:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':candy:'
+- ':sheep:'
+oomp_word_list:
+- toilet
+- candy
+- sheep
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

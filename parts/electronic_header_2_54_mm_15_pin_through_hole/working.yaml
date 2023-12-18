@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole
+id: electronic_header_2_54_mm_15_pin_through_hole
+id_no_class: header_2_54_mm_15_pin_through_hole
+id_no_color: 15pinthroughhole
+id_no_size: 15_pin_through_hole
+id_no_type: 2_54_mm_15_pin_through_hole
+manufacturer: ''
+md5: 0b5cb7ba5403dcfa51b1952b6db045e8
+md5_10: 0b5cb7ba54
+md5_10_upper: 0B5CB7BA54
+md5_5: 0b5cb
+md5_5_upper: 0B5CB
+md5_6: 0b5cb7
+md5_6_alpha: fyk7
+md5_6_alpha_upper: FYK7
+md5_6_upper: 0B5CB7
+name: Electronic Header 2 54 Mm 15 Pin Through Hole
+name_no_class: Header 2 54 Mm 15 Pin Through Hole
+name_no_color: 15Pinthroughhole
+name_no_size: 15 Pin Through Hole
+name_no_type: 2 54 Mm 15 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_through_hole
+oomp_word: sunglasses ox pizza
+oomp_word_emoji: ':sunglasses: :ox: :pizza:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':ox:'
+- ':pizza:'
+oomp_word_list:
+- sunglasses
+- ox
+- pizza
+part_number: ''
+size: 2_54_mm
+type: header

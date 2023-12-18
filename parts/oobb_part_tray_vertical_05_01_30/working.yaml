@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_30'
+directory: parts/oobb_part_tray_vertical_05_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_01_30
+id: oobb_part_tray_vertical_05_01_30
+id_no_class: part_tray_vertical_05_01_30
+id_no_color: '050130'
+id_no_size: '05_01_30'
+id_no_type: tray_vertical_05_01_30
+manufacturer: ''
+md5: e59af3b307a9c5308182114cc56a7e30
+md5_10: e59af3b307
+md5_10_upper: E59AF3B307
+md5_5: e59af
+md5_5_upper: E59AF
+md5_6: e59af3
+md5_6_alpha: 8yinn
+md5_6_alpha_upper: 8YINN
+md5_6_upper: E59AF3
+name: Oobb Part Tray Vertical 05 01 30
+name_no_class: Part Tray Vertical 05 01 30
+name_no_color: '050130'
+name_no_size: 05 01 30
+name_no_type: Tray Vertical 05 01 30
+oomp_key: oomp_oobb_part_tray_vertical_05_01_30
+oomp_word: rocket golf two
+oomp_word_emoji: ':rocket: :golf: :two:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':golf:'
+- ':two:'
+oomp_word_list:
+- rocket
+- golf
+- two
+part_number: ''
+size: tray_vertical
+type: part

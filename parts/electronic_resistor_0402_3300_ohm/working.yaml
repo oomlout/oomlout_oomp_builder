@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3300_ohm
+directory: parts/electronic_resistor_0402_3300_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3300_ohm
+id: electronic_resistor_0402_3300_ohm
+id_no_class: resistor_0402_3300_ohm
+id_no_color: 3300ohm
+id_no_size: 3300_ohm
+id_no_type: 0402_3300_ohm
+manufacturer: ''
+md5: fcf53e6757cae71916db06c02bd039fd
+md5_10: fcf53e6757
+md5_10_upper: FCF53E6757
+md5_5: fcf53
+md5_5_upper: FCF53
+md5_6: fcf53e
+md5_6_alpha: 9vbjy
+md5_6_alpha_upper: 9VBJY
+md5_6_upper: FCF53E
+name: Electronic Resistor 0402 3300 Ohm
+name_no_class: Resistor 0402 3300 Ohm
+name_no_color: 3300Ohm
+name_no_size: 3300 Ohm
+name_no_type: 0402 3300 Ohm
+oomp_key: oomp_electronic_resistor_0402_3300_ohm
+oomp_word: up four monkey
+oomp_word_emoji: ':up: :four: :monkey:'
+oomp_word_emoji_list:
+- ':up:'
+- ':four:'
+- ':monkey:'
+oomp_word_list:
+- up
+- four
+- monkey
+part_number: ''
+size: '0402'
+type: resistor

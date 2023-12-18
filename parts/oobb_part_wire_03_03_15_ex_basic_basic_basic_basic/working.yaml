@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_15_ex_basic_basic_basic_basic
+directory: parts/oobb_part_wire_03_03_15_ex_basic_basic_basic_basic
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_15_ex_basic_basic_basic_basic
+id: oobb_part_wire_03_03_15_ex_basic_basic_basic_basic
+id_no_class: part_wire_03_03_15_ex_basic_basic_basic_basic
+id_no_color: 030315exbasicbasicbasicbasic
+id_no_size: 03_03_15_ex_basic_basic_basic_basic
+id_no_type: wire_03_03_15_ex_basic_basic_basic_basic
+manufacturer: ''
+md5: 0a8b434e8842dc7092cc7eabc6462d92
+md5_10: 0a8b434e88
+md5_10_upper: 0A8B434E88
+md5_5: 0a8b4
+md5_5_upper: 0A8B4
+md5_6: 0a8b43
+md5_6_alpha: et6r
+md5_6_alpha_upper: ET6R
+md5_6_upper: 0A8B43
+name: Oobb Part Wire 03 03 15 Ex Basic Basic Basic Basic
+name_no_class: Part Wire 03 03 15 Ex Basic Basic Basic Basic
+name_no_color: 030315Exbasicbasicbasicbasic
+name_no_size: 03 03 15 Ex Basic Basic Basic Basic
+name_no_type: Wire 03 03 15 Ex Basic Basic Basic Basic
+oomp_key: oomp_oobb_part_wire_03_03_15_ex_basic_basic_basic_basic
+oomp_word: sleepy door elephant
+oomp_word_emoji: ':sleepy: :door: :elephant:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':door:'
+- ':elephant:'
+oomp_word_list:
+- sleepy
+- door
+- elephant
+part_number: ''
+size: wire
+type: part

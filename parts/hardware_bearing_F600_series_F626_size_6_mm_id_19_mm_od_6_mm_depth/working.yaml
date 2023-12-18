@@ -1,0 +1,40 @@
+classification: hardware
+color: F626_size
+description_extra: ''
+description_main: 6_mm_id_19_mm_od_6_mm_depth
+directory: parts/hardware_bearing_F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+id: hardware_bearing_F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_class: bearing_F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_color: 6_mm_id_19_mm_od_6_mm_depth
+id_no_size: F626_size_6_mm_id_19_mm_od_6_mm_depth
+id_no_type: F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+manufacturer: ''
+md5: 664e3493421b97624e6e28fafa0fa623
+md5_10: 664e349342
+md5_10_upper: 664E349342
+md5_5: 664e3
+md5_5_upper: 664E3
+md5_6: 664e34
+md5_6_alpha: 3zpdg
+md5_6_alpha_upper: 3ZPDG
+md5_6_upper: 664E34
+name: Hardware Bearing F600 Series F626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_class: Bearing F600 Series F626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_color: 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_size: F626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+name_no_type: F600 Series F626 Size 6 Mm Id 19 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F626_size_6_mm_id_19_mm_od_6_mm_depth
+oomp_word: leaves honeybee mouse
+oomp_word_emoji: ':leaves: :honeybee: :mouse:'
+oomp_word_emoji_list:
+- ':leaves:'
+- ':honeybee:'
+- ':mouse:'
+oomp_word_list:
+- leaves
+- honeybee
+- mouse
+part_number: ''
+size: F600_series
+type: bearing

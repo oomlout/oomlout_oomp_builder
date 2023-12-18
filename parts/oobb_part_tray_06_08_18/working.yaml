@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_08_18
+directory: parts/oobb_part_tray_06_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_08_18
+id: oobb_part_tray_06_08_18
+id_no_class: part_tray_06_08_18
+id_no_color: 060818
+id_no_size: 06_08_18
+id_no_type: tray_06_08_18
+manufacturer: ''
+md5: 60f0e46886de950063d255b72f00f2b2
+md5_10: 60f0e46886
+md5_10_upper: 60F0E46886
+md5_5: 60f0e
+md5_5_upper: 60F0E
+md5_6: 60f0e4
+md5_6_alpha: 3s63o
+md5_6_alpha_upper: 3S63O
+md5_6_upper: 60F0E4
+name: Oobb Part Tray 06 08 18
+name_no_class: Part Tray 06 08 18
+name_no_color: 060818
+name_no_size: 06 08 18
+name_no_type: Tray 06 08 18
+oomp_key: oomp_oobb_part_tray_06_08_18
+oomp_word: poodle train anchor
+oomp_word_emoji: ':poodle: :train: :anchor:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':train:'
+- ':anchor:'
+oomp_word_list:
+- poodle
+- train
+- anchor
+part_number: ''
+size: tray
+type: part

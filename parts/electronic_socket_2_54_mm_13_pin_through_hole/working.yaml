@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 13_pin
+directory: parts/electronic_socket_2_54_mm_13_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_13_pin_through_hole
+id: electronic_socket_2_54_mm_13_pin_through_hole
+id_no_class: socket_2_54_mm_13_pin_through_hole
+id_no_color: 13pinthroughhole
+id_no_size: 13_pin_through_hole
+id_no_type: 2_54_mm_13_pin_through_hole
+manufacturer: ''
+md5: cbb48350c4f2e59f6fa6e3d18bf34e09
+md5_10: cbb48350c4
+md5_10_upper: CBB48350C4
+md5_5: cbb48
+md5_5_upper: CBB48
+md5_6: cbb483
+md5_6_alpha: 7y4xv
+md5_6_alpha_upper: 7Y4XV
+md5_6_upper: CBB483
+name: Electronic Socket 2 54 Mm 13 Pin Through Hole
+name_no_class: Socket 2 54 Mm 13 Pin Through Hole
+name_no_color: 13Pinthroughhole
+name_no_size: 13 Pin Through Hole
+name_no_type: 2 54 Mm 13 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_13_pin_through_hole
+oomp_word: grapes coffee lock
+oomp_word_emoji: ':grapes: :coffee: :lock:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':coffee:'
+- ':lock:'
+oomp_word_list:
+- grapes
+- coffee
+- lock
+part_number: ''
+size: 2_54_mm
+type: socket

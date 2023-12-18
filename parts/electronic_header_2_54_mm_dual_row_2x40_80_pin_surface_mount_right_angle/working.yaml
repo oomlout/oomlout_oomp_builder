@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x40_80_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+id_no_color: 2x4080pinsurfacemountrightangle
+id_no_size: 2x40_80_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 1bc4e32fe5fbf69408a0c149fbf95dc6
+md5_10: 1bc4e32fe5
+md5_10_upper: 1BC4E32FE5
+md5_5: 1bc4e
+md5_5_upper: 1BC4E
+md5_6: 1bc4e3
+md5_6_alpha: '13083'
+md5_6_alpha_upper: '13083'
+md5_6_upper: 1BC4E3
+name: Electronic Header 2 54 Mm Dual Row 2X40 80 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X40 80 Pin Surface Mount Right Angle
+name_no_color: 2X4080Pinsurfacemountrightangle
+name_no_size: 2X40 80 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X40 80 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x40_80_pin_surface_mount_right_angle
+oomp_word: muscle cookie rowboat
+oomp_word_emoji: ':muscle: :cookie: :rowboat:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':cookie:'
+- ':rowboat:'
+oomp_word_list:
+- muscle
+- cookie
+- rowboat
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

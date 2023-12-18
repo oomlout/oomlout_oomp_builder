@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_01_09'
+directory: parts/oobb_part_plate_13_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_09
+id: oobb_part_plate_13_01_09
+id_no_class: part_plate_13_01_09
+id_no_color: '130109'
+id_no_size: '13_01_09'
+id_no_type: plate_13_01_09
+manufacturer: ''
+md5: 7f34b9d5a374f3e21d7d5fd02487758c
+md5_10: 7f34b9d5a3
+md5_10_upper: 7F34B9D5A3
+md5_5: 7f34b
+md5_5_upper: 7F34B
+md5_6: 7f34b9
+md5_6_alpha: 4yojd
+md5_6_alpha_upper: 4YOJD
+md5_6_upper: 7F34B9
+name: Oobb Part Plate 13 01 09
+name_no_class: Part Plate 13 01 09
+name_no_color: '130109'
+name_no_size: 13 01 09
+name_no_type: Plate 13 01 09
+oomp_key: oomp_oobb_part_plate_13_01_09
+oomp_word: speaker mouse fries
+oomp_word_emoji: ':speaker: :mouse: :fries:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':mouse:'
+- ':fries:'
+oomp_word_list:
+- speaker
+- mouse
+- fries
+part_number: ''
+size: plate
+type: part

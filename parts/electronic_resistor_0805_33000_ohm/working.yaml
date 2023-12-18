@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 33000_ohm
+directory: parts/electronic_resistor_0805_33000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_33000_ohm
+id: electronic_resistor_0805_33000_ohm
+id_no_class: resistor_0805_33000_ohm
+id_no_color: 33000ohm
+id_no_size: 33000_ohm
+id_no_type: 0805_33000_ohm
+manufacturer: ''
+md5: ce98ee403690bd5c44c51168006c182c
+md5_10: ce98ee4036
+md5_10_upper: CE98EE4036
+md5_5: ce98e
+md5_5_upper: CE98E
+md5_6: ce98ee
+md5_6_alpha: '82772'
+md5_6_alpha_upper: '82772'
+md5_6_upper: CE98EE
+name: Electronic Resistor 0805 33000 Ohm
+name_no_class: Resistor 0805 33000 Ohm
+name_no_color: 33000Ohm
+name_no_size: 33000 Ohm
+name_no_type: 0805 33000 Ohm
+oomp_key: oomp_electronic_resistor_0805_33000_ohm
+oomp_word: peach tennis ambulance
+oomp_word_emoji: ':peach: :tennis: :ambulance:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':tennis:'
+- ':ambulance:'
+oomp_word_list:
+- peach
+- tennis
+- ambulance
+part_number: ''
+size: 0805
+type: resistor

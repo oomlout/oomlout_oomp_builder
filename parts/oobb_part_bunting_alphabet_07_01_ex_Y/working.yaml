@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_y
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_y
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_y
+id: oobb_part_bunting_alphabet_07_01_ex_y
+id_no_class: part_bunting_alphabet_07_01_ex_y
+id_no_color: 0701exy
+id_no_size: 07_01_ex_y
+id_no_type: bunting_alphabet_07_01_ex_y
+manufacturer: ''
+md5: df1cda3e0719065e5160366274e235ea
+md5_10: df1cda3e07
+md5_10_upper: DF1CDA3E07
+md5_5: df1cd
+md5_5_upper: DF1CD
+md5_6: df1cda
+md5_6_alpha: 8peca
+md5_6_alpha_upper: 8PECA
+md5_6_upper: DF1CDA
+name: Oobb Part Bunting Alphabet 07 01 Ex Y
+name_no_class: Part Bunting Alphabet 07 01 Ex Y
+name_no_color: 0701Exy
+name_no_size: 07 01 Ex Y
+name_no_type: Bunting Alphabet 07 01 Ex Y
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_y
+oomp_word: fountain dancer hotel
+oomp_word_emoji: ':fountain: :dancer: :hotel:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':dancer:'
+- ':hotel:'
+oomp_word_list:
+- fountain
+- dancer
+- hotel
+part_number: ''
+size: bunting_alphabet
+type: part

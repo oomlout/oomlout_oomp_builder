@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_12_606'
+directory: parts/oobb_part_bearing_circle_03_12_606
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606
+id: oobb_part_bearing_circle_03_12_606
+id_no_class: part_bearing_circle_03_12_606
+id_no_color: '0312606'
+id_no_size: '03_12_606'
+id_no_type: bearing_circle_03_12_606
+manufacturer: ''
+md5: cd91c6f4db9136de827fd368ff6005be
+md5_10: cd91c6f4db
+md5_10_upper: CD91C6F4DB
+md5_5: cd91c
+md5_5_upper: CD91C
+md5_6: cd91c6
+md5_6_alpha: 80r7q
+md5_6_alpha_upper: 80R7Q
+md5_6_upper: CD91C6
+name: Oobb Part Bearing Circle 03 12 606
+name_no_class: Part Bearing Circle 03 12 606
+name_no_color: '0312606'
+name_no_size: 03 12 606
+name_no_type: Bearing Circle 03 12 606
+oomp_key: oomp_oobb_part_bearing_circle_03_12_606
+oomp_word: strawberry pushpin lollipop
+oomp_word_emoji: ':strawberry: :pushpin: :lollipop:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':pushpin:'
+- ':lollipop:'
+oomp_word_list:
+- strawberry
+- pushpin
+- lollipop
+part_number: ''
+size: bearing_circle
+type: part

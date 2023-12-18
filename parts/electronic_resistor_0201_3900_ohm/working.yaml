@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3900_ohm
+directory: parts/electronic_resistor_0201_3900_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3900_ohm
+id: electronic_resistor_0201_3900_ohm
+id_no_class: resistor_0201_3900_ohm
+id_no_color: 3900ohm
+id_no_size: 3900_ohm
+id_no_type: 0201_3900_ohm
+manufacturer: ''
+md5: 3d5f84104865192cdf962b8554c42ef3
+md5_10: 3d5f841048
+md5_10_upper: 3D5F841048
+md5_5: 3d5f8
+md5_5_upper: 3D5F8
+md5_6: 3d5f84
+md5_6_alpha: 2e7ic
+md5_6_alpha_upper: 2E7IC
+md5_6_upper: 3D5F84
+name: Electronic Resistor 0201 3900 Ohm
+name_no_class: Resistor 0201 3900 Ohm
+name_no_color: 3900Ohm
+name_no_size: 3900 Ohm
+name_no_type: 0201 3900 Ohm
+oomp_key: oomp_electronic_resistor_0201_3900_ohm
+oomp_word: cow leopard key
+oomp_word_emoji: ':cow: :leopard: :key:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':leopard:'
+- ':key:'
+oomp_word_list:
+- cow
+- leopard
+- key
+part_number: ''
+size: '0201'
+type: resistor

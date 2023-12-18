@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '26_01_09'
+directory: parts/oobb_part_plate_26_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_26_01_09
+id: oobb_part_plate_26_01_09
+id_no_class: part_plate_26_01_09
+id_no_color: '260109'
+id_no_size: '26_01_09'
+id_no_type: plate_26_01_09
+manufacturer: ''
+md5: 1591f3e142dbf185a2c5ca3e6085eeb1
+md5_10: 1591f3e142
+md5_10_upper: 1591F3E142
+md5_5: 1591f
+md5_5_upper: 1591F
+md5_6: 1591f3
+md5_6_alpha: uar7
+md5_6_alpha_upper: UAR7
+md5_6_upper: 1591F3
+name: Oobb Part Plate 26 01 09
+name_no_class: Part Plate 26 01 09
+name_no_color: '260109'
+name_no_size: 26 01 09
+name_no_type: Plate 26 01 09
+oomp_key: oomp_oobb_part_plate_26_01_09
+oomp_word: poop pushpin two
+oomp_word_emoji: ':poop: :pushpin: :two:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':pushpin:'
+- ':two:'
+oomp_word_list:
+- poop
+- pushpin
+- two
+part_number: ''
+size: plate
+type: part

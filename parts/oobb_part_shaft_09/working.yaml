@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09
+directory: parts/oobb_part_shaft_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09
+id: oobb_part_shaft_09
+id_no_class: part_shaft_09
+id_no_color: 09
+id_no_size: 09
+id_no_type: shaft_09
+manufacturer: ''
+md5: d840bce9143ba9531e5d5dd4f16c547f
+md5_10: d840bce914
+md5_10_upper: D840BCE914
+md5_5: d840b
+md5_5_upper: D840B
+md5_6: d840bc
+md5_6_alpha: 8frgc
+md5_6_alpha_upper: 8FRGC
+md5_6_upper: D840BC
+name: Oobb Part Shaft 09
+name_no_class: Part Shaft 09
+name_no_color: 09
+name_no_size: 09
+name_no_type: Shaft 09
+oomp_key: oomp_oobb_part_shaft_09
+oomp_word: hospital racehorse sushi
+oomp_word_emoji: ':hospital: :racehorse: :sushi:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':racehorse:'
+- ':sushi:'
+oomp_word_list:
+- hospital
+- racehorse
+- sushi
+part_number: ''
+size: shaft
+type: part

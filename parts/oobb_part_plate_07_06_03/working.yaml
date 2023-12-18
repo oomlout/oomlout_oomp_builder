@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_06_03'
+directory: parts/oobb_part_plate_07_06_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_06_03
+id: oobb_part_plate_07_06_03
+id_no_class: part_plate_07_06_03
+id_no_color: '070603'
+id_no_size: '07_06_03'
+id_no_type: plate_07_06_03
+manufacturer: ''
+md5: 17b5eb2cc37b7787cb2eb236facd7a6e
+md5_10: 17b5eb2cc3
+md5_10_upper: 17B5EB2CC3
+md5_5: 17b5e
+md5_5_upper: 17B5E
+md5_6: 17b5eb
+md5_6_alpha: xazv
+md5_6_alpha_upper: XAZV
+md5_6_upper: 17B5EB
+name: Oobb Part Plate 07 06 03
+name_no_class: Part Plate 07 06 03
+name_no_color: '070603'
+name_no_size: 07 06 03
+name_no_type: Plate 07 06 03
+oomp_key: oomp_oobb_part_plate_07_06_03
+oomp_word: thumbsdown tea car
+oomp_word_emoji: ':thumbsdown: :tea: :car:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':tea:'
+- ':car:'
+oomp_word_list:
+- thumbsdown
+- tea
+- car
+part_number: ''
+size: plate
+type: part

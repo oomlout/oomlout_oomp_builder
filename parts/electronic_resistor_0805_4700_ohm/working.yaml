@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 4700_ohm
+directory: parts/electronic_resistor_0805_4700_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_4700_ohm
+id: electronic_resistor_0805_4700_ohm
+id_no_class: resistor_0805_4700_ohm
+id_no_color: 4700ohm
+id_no_size: 4700_ohm
+id_no_type: 0805_4700_ohm
+manufacturer: ''
+md5: 5206fd609ee46efab6b3474c10c7f51c
+md5_10: 5206fd609e
+md5_10_upper: 5206FD609E
+md5_5: 5206f
+md5_5_upper: 5206F
+md5_6: 5206fd
+md5_6_alpha: 377y5
+md5_6_alpha_upper: 377Y5
+md5_6_upper: 5206FD
+name: Electronic Resistor 0805 4700 Ohm
+name_no_class: Resistor 0805 4700 Ohm
+name_no_color: 4700Ohm
+name_no_size: 4700 Ohm
+name_no_type: 0805 4700 Ohm
+oomp_key: oomp_electronic_resistor_0805_4700_ohm
+oomp_word: octopus sleeping parking
+oomp_word_emoji: ':octopus: :sleeping: :parking:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':sleeping:'
+- ':parking:'
+oomp_word_list:
+- octopus
+- sleeping
+- parking
+part_number: ''
+size: 0805
+type: resistor

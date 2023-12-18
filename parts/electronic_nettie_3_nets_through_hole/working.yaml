@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: through_hole
+directory: parts/electronic_nettie_3_nets_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole
+id: electronic_nettie_3_nets_through_hole
+id_no_class: nettie_3_nets_through_hole
+id_no_color: throughhole
+id_no_size: through_hole
+id_no_type: 3_nets_through_hole
+manufacturer: ''
+md5: bfa6ff6edd982b6107b4a71433ca5d67
+md5_10: bfa6ff6edd
+md5_10_upper: BFA6FF6EDD
+md5_5: bfa6f
+md5_5_upper: BFA6F
+md5_6: bfa6ff
+md5_6_alpha: 7h7gf
+md5_6_alpha_upper: 7H7GF
+md5_6_upper: BFA6FF
+name: Electronic Nettie 3 Nets Through Hole
+name_no_class: Nettie 3 Nets Through Hole
+name_no_color: Throughhole
+name_no_size: Through Hole
+name_no_type: 3 Nets Through Hole
+oomp_key: oomp_electronic_nettie_3_nets_through_hole
+oomp_word: egg trumpet trident
+oomp_word_emoji: ':egg: :trumpet: :trident:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':trumpet:'
+- ':trident:'
+oomp_word_list:
+- egg
+- trumpet
+- trident
+part_number: ''
+size: 3_nets
+type: nettie

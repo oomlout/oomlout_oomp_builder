@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 21_pin
+directory: parts/electronic_header_2_54_mm_21_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole_long
+id: electronic_header_2_54_mm_21_pin_through_hole_long
+id_no_class: header_2_54_mm_21_pin_through_hole_long
+id_no_color: 21pinthroughholelong
+id_no_size: 21_pin_through_hole_long
+id_no_type: 2_54_mm_21_pin_through_hole_long
+manufacturer: ''
+md5: 89a6998aa3928a162b3880d2e3fd98bf
+md5_10: 89a6998aa3
+md5_10_upper: 89A6998AA3
+md5_5: 89a69
+md5_5_upper: 89A69
+md5_6: 89a699
+md5_6_alpha: 5dcpl
+md5_6_alpha_upper: 5DCPL
+md5_6_upper: 89A699
+name: Electronic Header 2 54 Mm 21 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 21 Pin Through Hole Long
+name_no_color: 21Pinthroughholelong
+name_no_size: 21 Pin Through Hole Long
+name_no_type: 2 54 Mm 21 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_21_pin_through_hole_long
+oomp_word: hammer trumpet bowling
+oomp_word_emoji: ':hammer: :trumpet: :bowling:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':trumpet:'
+- ':bowling:'
+oomp_word_list:
+- hammer
+- trumpet
+- bowling
+part_number: ''
+size: 2_54_mm
+type: header

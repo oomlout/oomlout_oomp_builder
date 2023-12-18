@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 0_ohm
+directory: parts/electronic_resistor_0805_0_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_0_ohm
+id: electronic_resistor_0805_0_ohm
+id_no_class: resistor_0805_0_ohm
+id_no_color: 0ohm
+id_no_size: 0_ohm
+id_no_type: 0805_0_ohm
+manufacturer: ''
+md5: d2570626ac07fac4667a2946a70a904d
+md5_10: d2570626ac
+md5_10_upper: D2570626AC
+md5_5: d2570
+md5_5_upper: D2570
+md5_6: d25706
+md5_6_alpha: 87gg6
+md5_6_alpha_upper: 87GG6
+md5_6_upper: D25706
+name: Electronic Resistor 0805 0 Ohm
+name_no_class: Resistor 0805 0 Ohm
+name_no_color: 0Ohm
+name_no_size: 0 Ohm
+name_no_type: 0805 0 Ohm
+oomp_key: oomp_electronic_resistor_0805_0_ohm
+oomp_word: pineapple rat sleeping
+oomp_word_emoji: ':pineapple: :rat: :sleeping:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':rat:'
+- ':sleeping:'
+oomp_word_list:
+- pineapple
+- rat
+- sleeping
+part_number: ''
+size: 0805
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_1d5_09
+directory: parts/oobb_part_tray_vertical_07_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_1d5_09
+id: oobb_part_tray_vertical_07_1d5_09
+id_no_class: part_tray_vertical_07_1d5_09
+id_no_color: 071d509
+id_no_size: 07_1d5_09
+id_no_type: tray_vertical_07_1d5_09
+manufacturer: ''
+md5: cd2936a6a9d734e64b37dc91dd3c2985
+md5_10: cd2936a6a9
+md5_10_upper: CD2936A6A9
+md5_5: cd293
+md5_5_upper: CD293
+md5_6: cd2936
+md5_6_alpha: 806k6
+md5_6_alpha_upper: 806K6
+md5_6_upper: CD2936
+name: Oobb Part Tray Vertical 07 1D5 09
+name_no_class: Part Tray Vertical 07 1D5 09
+name_no_color: 071D509
+name_no_size: 07 1D5 09
+name_no_type: Tray Vertical 07 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_07_1d5_09
+oomp_word: strawberry sunny rabbit
+oomp_word_emoji: ':strawberry: :sunny: :rabbit:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':sunny:'
+- ':rabbit:'
+oomp_word_list:
+- strawberry
+- sunny
+- rabbit
+part_number: ''
+size: tray_vertical
+type: part

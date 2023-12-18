@@ -1,0 +1,40 @@
+classification: hardware
+color: 603_size
+description_extra: ''
+description_main: 3_mm_id_9_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+id: hardware_bearing_600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_class: bearing_600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_color: 3_mm_id_9_mm_od_5_mm_depth
+id_no_size: 603_size_3_mm_id_9_mm_od_5_mm_depth
+id_no_type: 600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+manufacturer: ''
+md5: 38be03333a118af84267c3624409e88e
+md5_10: 38be03333a
+md5_10_upper: 38BE03333A
+md5_5: 38be0
+md5_5_upper: 38BE0
+md5_6: 38be03
+md5_6_alpha: 27pc3
+md5_6_alpha_upper: 27PC3
+md5_6_upper: 38BE03
+name: Hardware Bearing 600 Series 603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_color: 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_size: 603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+name_no_type: 600 Series 603 Size 3 Mm Id 9 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_603_size_3_mm_id_9_mm_od_5_mm_depth
+oomp_word: frog ramen grin
+oomp_word_emoji: ':frog: :ramen: :grin:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':ramen:'
+- ':grin:'
+oomp_word_list:
+- frog
+- ramen
+- grin
+part_number: ''
+size: 600_series
+type: bearing

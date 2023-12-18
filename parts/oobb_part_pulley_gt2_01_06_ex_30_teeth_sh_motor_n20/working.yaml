@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_30_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+id_no_color: 0106ex30teethshmotorn20
+id_no_size: 01_06_ex_30_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+manufacturer: ''
+md5: 7fde74cdccc0b5c8ccae77344144b36d
+md5_10: 7fde74cdcc
+md5_10_upper: 7FDE74CDCC
+md5_5: 7fde7
+md5_5_upper: 7FDE7
+md5_6: 7fde74
+md5_6_alpha: 4zm2c
+md5_6_alpha_upper: 4ZM2C
+md5_6_upper: 7FDE74
+name: Oobb Part Pulley Gt2 01 06 Ex 30 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 06 Ex 30 Teeth Sh Motor N20
+name_no_color: 0106Ex30Teethshmotorn20
+name_no_size: 01 06 Ex 30 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 06 Ex 30 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_30_teeth_sh_motor_n20
+oomp_word: speaker rainbow fireworks
+oomp_word_emoji: ':speaker: :rainbow: :fireworks:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':rainbow:'
+- ':fireworks:'
+oomp_word_list:
+- speaker
+- rainbow
+- fireworks
+part_number: ''
+size: pulley_gt2
+type: part

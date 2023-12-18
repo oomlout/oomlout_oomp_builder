@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 39000_ohm
+directory: parts/electronic_resistor_0201_39000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39000_ohm
+id: electronic_resistor_0201_39000_ohm
+id_no_class: resistor_0201_39000_ohm
+id_no_color: 39000ohm
+id_no_size: 39000_ohm
+id_no_type: 0201_39000_ohm
+manufacturer: ''
+md5: 37cd74b1b0110870c6c1841648cddc2a
+md5_10: 37cd74b1b0
+md5_10_upper: 37CD74B1B0
+md5_5: 37cd7
+md5_5_upper: 37CD7
+md5_6: 37cd74
+md5_6_alpha: 26dtg
+md5_6_alpha_upper: 26DTG
+md5_6_upper: 37CD74
+name: Electronic Resistor 0201 39000 Ohm
+name_no_class: Resistor 0201 39000 Ohm
+name_no_color: 39000Ohm
+name_no_size: 39000 Ohm
+name_no_type: 0201 39000 Ohm
+oomp_key: oomp_electronic_resistor_0201_39000_ohm
+oomp_word: wolf strawberry fireworks
+oomp_word_emoji: ':wolf: :strawberry: :fireworks:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':strawberry:'
+- ':fireworks:'
+oomp_word_list:
+- wolf
+- strawberry
+- fireworks
+part_number: ''
+size: '0201'
+type: resistor

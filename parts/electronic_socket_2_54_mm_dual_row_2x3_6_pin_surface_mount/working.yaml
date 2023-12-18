@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x3_6_pin
+directory: parts/electronic_socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id: electronic_socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id_no_class: socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
+id_no_color: 2x36pinsurfacemount
+id_no_size: 2x3_6_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x3_6_pin_surface_mount
+manufacturer: ''
+md5: 8015c232284a37b577c3ff1aed1b7143
+md5_10: 8015c23228
+md5_10_upper: 8015C23228
+md5_5: 8015c
+md5_5_upper: 8015C
+md5_6: 8015c2
+md5_6_alpha: 4zwzm
+md5_6_alpha_upper: 4ZWZM
+md5_6_upper: 8015C2
+name: Electronic Socket 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+name_no_class: Socket 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+name_no_color: 2X36Pinsurfacemount
+name_no_size: 2X3 6 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X3 6 Pin Surface Mount
+oomp_key: oomp_electronic_socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
+oomp_word: hourglass poop birthday
+oomp_word_emoji: ':hourglass: :poop: :birthday:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':poop:'
+- ':birthday:'
+oomp_word_list:
+- hourglass
+- poop
+- birthday
+part_number: ''
+size: 2_54_mm_dual_row
+type: socket

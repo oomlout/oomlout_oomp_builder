@@ -1,0 +1,40 @@
+classification: hardware
+color: 6808_size
+description_extra: ''
+description_main: 40_mm_id_52_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+id: hardware_bearing_6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+id_no_class: bearing_6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+id_no_color: 40_mm_id_52_mm_od_7_mm_depth
+id_no_size: 6808_size_40_mm_id_52_mm_od_7_mm_depth
+id_no_type: 6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+manufacturer: ''
+md5: dc84d3cd156896703d97a76416e21609
+md5_10: dc84d3cd15
+md5_10_upper: DC84D3CD15
+md5_5: dc84d
+md5_5_upper: DC84D
+md5_6: dc84d3
+md5_6_alpha: 8lr6b
+md5_6_alpha_upper: 8LR6B
+md5_6_upper: DC84D3
+name: Hardware Bearing 6800 Series 6808 Size 40 Mm Id 52 Mm Od 7 Mm Depth
+name_no_class: Bearing 6800 Series 6808 Size 40 Mm Id 52 Mm Od 7 Mm Depth
+name_no_color: 40 Mm Id 52 Mm Od 7 Mm Depth
+name_no_size: 6808 Size 40 Mm Id 52 Mm Od 7 Mm Depth
+name_no_type: 6800 Series 6808 Size 40 Mm Id 52 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6808_size_40_mm_id_52_mm_od_7_mm_depth
+oomp_word: factory key tomato
+oomp_word_emoji: ':factory: :key: :tomato:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':key:'
+- ':tomato:'
+oomp_word_list:
+- factory
+- key
+- tomato
+part_number: ''
+size: 6800_series
+type: bearing

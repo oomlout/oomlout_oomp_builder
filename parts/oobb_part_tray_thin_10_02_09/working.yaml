@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_02_09'
+directory: parts/oobb_part_tray_thin_10_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_02_09
+id: oobb_part_tray_thin_10_02_09
+id_no_class: part_tray_thin_10_02_09
+id_no_color: '100209'
+id_no_size: '10_02_09'
+id_no_type: tray_thin_10_02_09
+manufacturer: ''
+md5: d5a852a198c1339b17059e9cdf717aaa
+md5_10: d5a852a198
+md5_10_upper: D5A852A198
+md5_5: d5a85
+md5_5_upper: D5A85
+md5_6: d5a852
+md5_6_alpha: 8c47m
+md5_6_alpha_upper: 8C47M
+md5_6_upper: D5A852
+name: Oobb Part Tray Thin 10 02 09
+name_no_class: Part Tray Thin 10 02 09
+name_no_color: '100209'
+name_no_size: 10 02 09
+name_no_type: Tray Thin 10 02 09
+oomp_key: oomp_oobb_part_tray_thin_10_02_09
+oomp_word: house shoe octopus
+oomp_word_emoji: ':house: :shoe: :octopus:'
+oomp_word_emoji_list:
+- ':house:'
+- ':shoe:'
+- ':octopus:'
+oomp_word_list:
+- house
+- shoe
+- octopus
+part_number: ''
+size: tray_thin
+type: part

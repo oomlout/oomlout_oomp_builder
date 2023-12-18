@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 34_pin
+directory: parts/electronic_header_2_54_mm_34_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole
+id: electronic_header_2_54_mm_34_pin_through_hole
+id_no_class: header_2_54_mm_34_pin_through_hole
+id_no_color: 34pinthroughhole
+id_no_size: 34_pin_through_hole
+id_no_type: 2_54_mm_34_pin_through_hole
+manufacturer: ''
+md5: 81a0640109d76bb89321d3c4475fdec0
+md5_10: 81a0640109
+md5_10_upper: 81A0640109
+md5_5: 81a06
+md5_5_upper: 81A06
+md5_6: 81a064
+md5_6_alpha: 522xw
+md5_6_alpha_upper: 522XW
+md5_6_upper: 81A064
+name: Electronic Header 2 54 Mm 34 Pin Through Hole
+name_no_class: Header 2 54 Mm 34 Pin Through Hole
+name_no_color: 34Pinthroughhole
+name_no_size: 34 Pin Through Hole
+name_no_type: 2 54 Mm 34 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_34_pin_through_hole
+oomp_word: watch ring sunflower
+oomp_word_emoji: ':watch: :ring: :sunflower:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':ring:'
+- ':sunflower:'
+oomp_word_list:
+- watch
+- ring
+- sunflower
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_15_ex_tool_marker_sharpie_x2
+directory: parts/oobb_part_tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+id: oobb_part_tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+id_no_class: part_tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+id_no_color: 050515extoolmarkersharpiex2
+id_no_size: 05_05_15_ex_tool_marker_sharpie_x2
+id_no_type: tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+manufacturer: ''
+md5: dd1e08d453e98f97f343780f4f60e538
+md5_10: dd1e08d453
+md5_10_upper: DD1E08D453
+md5_5: dd1e0
+md5_5_upper: DD1E0
+md5_6: dd1e08
+md5_6_alpha: 8mlfs
+md5_6_alpha_upper: 8MLFS
+md5_6_upper: DD1E08
+name: Oobb Part Tool Holder Vertical 05 05 15 Ex Tool Marker Sharpie X2
+name_no_class: Part Tool Holder Vertical 05 05 15 Ex Tool Marker Sharpie X2
+name_no_color: 050515Extoolmarkersharpiex2
+name_no_size: 05 05 15 Ex Tool Marker Sharpie X2
+name_no_type: Tool Holder Vertical 05 05 15 Ex Tool Marker Sharpie X2
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_15_ex_tool_marker_sharpie_x2
+oomp_word: stars angel scream
+oomp_word_emoji: ':stars: :angel: :scream:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':angel:'
+- ':scream:'
+oomp_word_list:
+- stars
+- angel
+- scream
+part_number: ''
+size: tool_holder_vertical
+type: part

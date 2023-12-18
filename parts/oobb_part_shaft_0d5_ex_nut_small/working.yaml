@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5_ex_nut_small
+directory: parts/oobb_part_shaft_0d5_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5_ex_nut_small
+id: oobb_part_shaft_0d5_ex_nut_small
+id_no_class: part_shaft_0d5_ex_nut_small
+id_no_color: 0d5exnutsmall
+id_no_size: 0d5_ex_nut_small
+id_no_type: shaft_0d5_ex_nut_small
+manufacturer: ''
+md5: db4d3237ec954f05dbb982826bdd0ea5
+md5_10: db4d3237ec
+md5_10_upper: DB4D3237EC
+md5_5: db4d3
+md5_5_upper: DB4D3
+md5_6: db4d32
+md5_6_alpha: 8k1ma
+md5_6_alpha_upper: 8K1MA
+md5_6_upper: DB4D32
+name: Oobb Part Shaft 0D5 Ex Nut Small
+name_no_class: Part Shaft 0D5 Ex Nut Small
+name_no_color: 0D5Exnutsmall
+name_no_size: 0D5 Ex Nut Small
+name_no_type: Shaft 0D5 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_0d5_ex_nut_small
+oomp_word: tent bug cat
+oomp_word_emoji: ':tent: :bug: :cat:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':bug:'
+- ':cat:'
+oomp_word_list:
+- tent
+- bug
+- cat
+part_number: ''
+size: shaft
+type: part

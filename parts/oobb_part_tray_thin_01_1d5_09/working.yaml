@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_1d5_09
+directory: parts/oobb_part_tray_thin_01_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_1d5_09
+id: oobb_part_tray_thin_01_1d5_09
+id_no_class: part_tray_thin_01_1d5_09
+id_no_color: 011d509
+id_no_size: 01_1d5_09
+id_no_type: tray_thin_01_1d5_09
+manufacturer: ''
+md5: bd63f26b13229f418f03bece7a49591d
+md5_10: bd63f26b13
+md5_10_upper: BD63F26B13
+md5_5: bd63f
+md5_5_upper: BD63F
+md5_6: bd63f2
+md5_6_alpha: 7e12q
+md5_6_alpha_upper: 7E12Q
+md5_6_upper: BD63F2
+name: Oobb Part Tray Thin 01 1D5 09
+name_no_class: Part Tray Thin 01 1D5 09
+name_no_color: 011D509
+name_no_size: 01 1D5 09
+name_no_type: Tray Thin 01 1D5 09
+oomp_key: oomp_oobb_part_tray_thin_01_1d5_09
+oomp_word: rice rose one
+oomp_word_emoji: ':rice: :rose: :one:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':rose:'
+- ':one:'
+oomp_word_list:
+- rice
+- rose
+- one
+part_number: ''
+size: tray_thin
+type: part

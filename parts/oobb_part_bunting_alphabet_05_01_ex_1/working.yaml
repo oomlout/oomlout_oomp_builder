@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_1
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_1
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_1
+id: oobb_part_bunting_alphabet_05_01_ex_1
+id_no_class: part_bunting_alphabet_05_01_ex_1
+id_no_color: 0501ex1
+id_no_size: 05_01_ex_1
+id_no_type: bunting_alphabet_05_01_ex_1
+manufacturer: ''
+md5: 9a80bde7ea43f7cf1d0b5bd8c9343b75
+md5_10: 9a80bde7ea
+md5_10_upper: 9A80BDE7EA
+md5_5: 9a80b
+md5_5_upper: 9A80B
+md5_6: 9a80bd
+md5_6_alpha: 610vx
+md5_6_alpha_upper: 610VX
+md5_6_upper: 9A80BD
+name: Oobb Part Bunting Alphabet 05 01 Ex 1
+name_no_class: Part Bunting Alphabet 05 01 Ex 1
+name_no_color: 0501Ex1
+name_no_size: 05 01 Ex 1
+name_no_type: Bunting Alphabet 05 01 Ex 1
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_1
+oomp_word: golf hourglass rice
+oomp_word_emoji: ':golf: :hourglass: :rice:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':hourglass:'
+- ':rice:'
+oomp_word_list:
+- golf
+- hourglass
+- rice
+part_number: ''
+size: bunting_alphabet
+type: part

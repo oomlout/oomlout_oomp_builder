@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_16_ex_tool_marker_ikea_mala_x5
+directory: parts/oobb_part_tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+id: oobb_part_tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+id_no_class: part_tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+id_no_color: 080516extoolmarkerikeamalax5
+id_no_size: 08_05_16_ex_tool_marker_ikea_mala_x5
+id_no_type: tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+manufacturer: ''
+md5: 0c6c90a126534548d7fadebd862577c9
+md5_10: 0c6c90a126
+md5_10_upper: 0C6C90A126
+md5_5: 0c6c9
+md5_5_upper: 0C6C9
+md5_6: 0c6c90
+md5_6_alpha: hg9c
+md5_6_alpha_upper: HG9C
+md5_6_upper: 0C6C90
+name: Oobb Part Tool Holder Vertical 08 05 16 Ex Tool Marker Ikea Mala X5
+name_no_class: Part Tool Holder Vertical 08 05 16 Ex Tool Marker Ikea Mala X5
+name_no_color: 080516Extoolmarkerikeamalax5
+name_no_size: 08 05 16 Ex Tool Marker Ikea Mala X5
+name_no_type: Tool Holder Vertical 08 05 16 Ex Tool Marker Ikea Mala X5
+oomp_key: oomp_oobb_part_tool_holder_vertical_08_05_16_ex_tool_marker_ikea_mala_x5
+oomp_word: alien blossom scissors
+oomp_word_emoji: ':alien: :blossom: :scissors:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':blossom:'
+- ':scissors:'
+oomp_word_list:
+- alien
+- blossom
+- scissors
+part_number: ''
+size: tool_holder_vertical
+type: part

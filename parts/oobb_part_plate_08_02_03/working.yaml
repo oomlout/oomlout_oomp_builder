@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_02_03
+directory: parts/oobb_part_plate_08_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_02_03
+id: oobb_part_plate_08_02_03
+id_no_class: part_plate_08_02_03
+id_no_color: 080203
+id_no_size: 08_02_03
+id_no_type: plate_08_02_03
+manufacturer: ''
+md5: 8129578ee4cf018cb04af5dbcbe203fd
+md5_10: 8129578ee4
+md5_10_upper: 8129578EE4
+md5_5: '81295'
+md5_5_upper: '81295'
+md5_6: '812957'
+md5_6_alpha: 51ffb
+md5_6_alpha_upper: 51FFB
+md5_6_upper: '812957'
+name: Oobb Part Plate 08 02 03
+name_no_class: Part Plate 08 02 03
+name_no_color: 080203
+name_no_size: 08 02 03
+name_no_type: Plate 08 02 03
+oomp_key: oomp_oobb_part_plate_08_02_03
+oomp_word: watch sunny rat
+oomp_word_emoji: ':watch: :sunny: :rat:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':sunny:'
+- ':rat:'
+oomp_word_list:
+- watch
+- sunny
+- rat
+part_number: ''
+size: plate
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_12_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_12_ohm
+id: electronic_resistor_quarter_watt_through_hole_12_ohm
+id_no_class: resistor_quarter_watt_through_hole_12_ohm
+id_no_color: 12ohm
+id_no_size: 12_ohm
+id_no_type: quarter_watt_through_hole_12_ohm
+manufacturer: ''
+md5: 1e45ff93511e3f31f38c920973e850ab
+md5_10: 1e45ff9351
+md5_10_upper: 1E45FF9351
+md5_5: 1e45f
+md5_5_upper: 1E45F
+md5_6: 1e45ff
+md5_6_alpha: 16iv3
+md5_6_alpha_upper: 16IV3
+md5_6_upper: 1E45FF
+name: Electronic Resistor Quarter Watt Through Hole 12 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 12 Ohm
+name_no_color: 12Ohm
+name_no_size: 12 Ohm
+name_no_type: Quarter Watt Through Hole 12 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_12_ohm
+oomp_word: angel snake trident
+oomp_word_emoji: ':angel: :snake: :trident:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':snake:'
+- ':trident:'
+oomp_word_list:
+- angel
+- snake
+- trident
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

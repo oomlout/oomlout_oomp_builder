@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+directory: parts/oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id: oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 040414nm12mmtapewidth3mmtapethicknessex3
+id_no_size: 04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+md5: 3eaf991d39dd37506465e62dec84f740
+md5_10: 3eaf991d39
+md5_10_upper: 3EAF991D39
+md5_5: 3eaf9
+md5_5_upper: 3EAF9
+md5_6: 3eaf99
+md5_6_alpha: 2g1w9
+md5_6_alpha_upper: 2G1W9
+md5_6_upper: 3EAF99
+name: Oobb Part Smd Magazine 04 04 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_class: Part Smd Magazine 04 04 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness
+  Ex 3
+name_no_color: 040414Nm12Mmtapewidth3Mmtapethicknessex3
+name_no_size: 04 04 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_type: Smd Magazine 04 04 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: monkey tophat bowling
+oomp_word_emoji: ':monkey: :tophat: :bowling:'
+oomp_word_emoji_list:
+- ':monkey:'
+- ':tophat:'
+- ':bowling:'
+oomp_word_list:
+- monkey
+- tophat
+- bowling
+part_number: ''
+size: smd_magazine
+type: part

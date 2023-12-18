@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+directory: parts/oobb_part_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+id: oobb_part_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_class: part_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_color: 2410d2696exbearingtwentytwentyaluminiumextrusion
+id_no_size: 24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+id_no_type: wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+md5: 377ba0144f00747b92593e983a09b9bb
+md5_10: 377ba0144f
+md5_10_upper: 377BA0144F
+md5_5: 377ba
+md5_5_upper: 377BA
+md5_6: 377ba0
+md5_6_alpha: 25xnk
+md5_6_alpha_upper: 25XNK
+md5_6_upper: 377BA0
+name: Oobb Part Wheel 24 10D2 696 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_class: Part Wheel 24 10D2 696 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_color: 2410D2696Exbearingtwentytwentyaluminiumextrusion
+name_no_size: 24 10D2 696 Ex Bearing Twenty Twenty Aluminium Extrusion
+name_no_type: Wheel 24 10D2 696 Ex Bearing Twenty Twenty Aluminium Extrusion
+oomp_key: oomp_oobb_part_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+oomp_word: wolf computer ring
+oomp_word_emoji: ':wolf: :computer: :ring:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':computer:'
+- ':ring:'
+oomp_word_list:
+- wolf
+- computer
+- ring
+part_number: ''
+size: wheel
+type: part

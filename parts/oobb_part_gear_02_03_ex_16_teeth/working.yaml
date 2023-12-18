@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_ex_16_teeth
+directory: parts/oobb_part_gear_02_03_ex_16_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03_ex_16_teeth
+id: oobb_part_gear_02_03_ex_16_teeth
+id_no_class: part_gear_02_03_ex_16_teeth
+id_no_color: 0203ex16teeth
+id_no_size: 02_03_ex_16_teeth
+id_no_type: gear_02_03_ex_16_teeth
+manufacturer: ''
+md5: 0fc80d2b9938d3a5d3a61873180e1916
+md5_10: 0fc80d2b99
+md5_10_upper: 0FC80D2B99
+md5_5: 0fc80
+md5_5_upper: 0FC80
+md5_6: 0fc80d
+md5_6_alpha: m619
+md5_6_alpha_upper: M619
+md5_6_upper: 0FC80D
+name: Oobb Part Gear 02 03 Ex 16 Teeth
+name_no_class: Part Gear 02 03 Ex 16 Teeth
+name_no_color: 0203Ex16Teeth
+name_no_size: 02 03 Ex 16 Teeth
+name_no_type: Gear 02 03 Ex 16 Teeth
+oomp_key: oomp_oobb_part_gear_02_03_ex_16_teeth
+oomp_word: sparkles apple heart
+oomp_word_emoji: ':sparkles: :apple: :heart:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':apple:'
+- ':heart:'
+oomp_word_list:
+- sparkles
+- apple
+- heart
+part_number: ''
+size: gear
+type: part

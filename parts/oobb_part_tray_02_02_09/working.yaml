@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_09
+directory: parts/oobb_part_tray_02_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_02_09
+id: oobb_part_tray_02_02_09
+id_no_class: part_tray_02_02_09
+id_no_color: 020209
+id_no_size: 02_02_09
+id_no_type: tray_02_02_09
+manufacturer: ''
+md5: 5794d6d4d007525bc9567addcad8655d
+md5_10: 5794d6d4d0
+md5_10_upper: 5794D6D4D0
+md5_5: 5794d
+md5_5_upper: 5794D
+md5_6: 5794d6
+md5_6_alpha: 3f0t2
+md5_6_alpha_upper: 3F0T2
+md5_6_upper: 5794D6
+name: Oobb Part Tray 02 02 09
+name_no_class: Part Tray 02 02 09
+name_no_color: 020209
+name_no_size: 02 02 09
+name_no_type: Tray 02 02 09
+oomp_key: oomp_oobb_part_tray_02_02_09
+oomp_word: rat microscope school
+oomp_word_emoji: ':rat: :microscope: :school:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':microscope:'
+- ':school:'
+oomp_word_list:
+- rat
+- microscope
+- school
+part_number: ''
+size: tray
+type: part

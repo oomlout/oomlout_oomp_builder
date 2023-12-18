@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_16_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+id_no_color: 0106ex16teethshmotorn20
+id_no_size: 01_06_ex_16_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+manufacturer: ''
+md5: bf86778815ec0592697da302ac33e6d4
+md5_10: bf86778815
+md5_10_upper: BF86778815
+md5_5: bf867
+md5_5_upper: BF867
+md5_6: bf8677
+md5_6_alpha: 7h113
+md5_6_alpha_upper: 7H113
+md5_6_upper: BF8677
+name: Oobb Part Pulley Gt2 01 06 Ex 16 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 06 Ex 16 Teeth Sh Motor N20
+name_no_color: 0106Ex16Teethshmotorn20
+name_no_size: 01 06 Ex 16 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 06 Ex 16 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_16_teeth_sh_motor_n20
+oomp_word: egg bath gift
+oomp_word_emoji: ':egg: :bath: :gift:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':bath:'
+- ':gift:'
+oomp_word_list:
+- egg
+- bath
+- gift
+part_number: ''
+size: pulley_gt2
+type: part

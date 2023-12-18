@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 3_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount
+id: electronic_header_2_5_mm_jst_xh_3_pin_surface_mount
+id_no_class: header_2_5_mm_jst_xh_3_pin_surface_mount
+id_no_color: 3pinsurfacemount
+id_no_size: 3_pin_surface_mount
+id_no_type: 2_5_mm_jst_xh_3_pin_surface_mount
+manufacturer: ''
+md5: a043a5ee5d1f94bd5b1c12d133cfd898
+md5_10: a043a5ee5d
+md5_10_upper: A043A5EE5D
+md5_5: a043a
+md5_5_upper: A043A
+md5_6: a043a5
+md5_6_alpha: '69485'
+md5_6_alpha_upper: '69485'
+md5_6_upper: A043A5
+name: Electronic Header 2 5 Mm Jst Xh 3 Pin Surface Mount
+name_no_class: Header 2 5 Mm Jst Xh 3 Pin Surface Mount
+name_no_color: 3Pinsurfacemount
+name_no_size: 3 Pin Surface Mount
+name_no_type: 2 5 Mm Jst Xh 3 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_3_pin_surface_mount
+oomp_word: ring elephant headphones
+oomp_word_emoji: ':ring: :elephant: :headphones:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':elephant:'
+- ':headphones:'
+oomp_word_list:
+- ring
+- elephant
+- headphones
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

@@ -1,0 +1,40 @@
+classification: hardware
+color: MR126_size
+description_extra: ''
+description_main: 6_mm_id_12_mm_od_4_mm_depth
+directory: parts/hardware_bearing_MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+id: hardware_bearing_MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+id_no_class: bearing_MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+id_no_color: 6_mm_id_12_mm_od_4_mm_depth
+id_no_size: MR126_size_6_mm_id_12_mm_od_4_mm_depth
+id_no_type: MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+manufacturer: ''
+md5: 37a5431824794c4901c450cf37b70b8f
+md5_10: 37a5431824
+md5_10_upper: 37A5431824
+md5_5: 37a54
+md5_5_upper: 37A54
+md5_6: 37a543
+md5_6_alpha: 265vn
+md5_6_alpha_upper: 265VN
+md5_6_upper: 37A543
+name: Hardware Bearing Mr Series Mr126 Size 6 Mm Id 12 Mm Od 4 Mm Depth
+name_no_class: Bearing Mr Series Mr126 Size 6 Mm Id 12 Mm Od 4 Mm Depth
+name_no_color: 6 Mm Id 12 Mm Od 4 Mm Depth
+name_no_size: Mr126 Size 6 Mm Id 12 Mm Od 4 Mm Depth
+name_no_type: Mr Series Mr126 Size 6 Mm Id 12 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR126_size_6_mm_id_12_mm_od_4_mm_depth
+oomp_word: wolf headphones elephant
+oomp_word_emoji: ':wolf: :headphones: :elephant:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':headphones:'
+- ':elephant:'
+oomp_word_list:
+- wolf
+- headphones
+- elephant
+part_number: ''
+size: MR_series
+type: bearing

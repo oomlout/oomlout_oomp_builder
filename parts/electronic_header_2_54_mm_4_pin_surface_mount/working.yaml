@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 4_pin
+directory: parts/electronic_header_2_54_mm_4_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_surface_mount
+id: electronic_header_2_54_mm_4_pin_surface_mount
+id_no_class: header_2_54_mm_4_pin_surface_mount
+id_no_color: 4pinsurfacemount
+id_no_size: 4_pin_surface_mount
+id_no_type: 2_54_mm_4_pin_surface_mount
+manufacturer: ''
+md5: 8206019111bfad68f5917b33591cbbef
+md5_10: '8206019111'
+md5_10_upper: '8206019111'
+md5_5: '82060'
+md5_5_upper: '82060'
+md5_6: '820601'
+md5_6_alpha: 52n0h
+md5_6_alpha_upper: 52N0H
+md5_6_upper: '820601'
+name: Electronic Header 2 54 Mm 4 Pin Surface Mount
+name_no_class: Header 2 54 Mm 4 Pin Surface Mount
+name_no_color: 4Pinsurfacemount
+name_no_size: 4 Pin Surface Mount
+name_no_type: 2 54 Mm 4 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_4_pin_surface_mount
+oomp_word: radio sleeping smile
+oomp_word_emoji: ':radio: :sleeping: :smile:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':sleeping:'
+- ':smile:'
+oomp_word_list:
+- radio
+- sleeping
+- smile
+part_number: ''
+size: 2_54_mm
+type: header

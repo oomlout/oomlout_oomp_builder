@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_11_ex_tool_marker_bic_clear_lid_x6
+directory: parts/oobb_part_tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+id: oobb_part_tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+id_no_class: part_tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+id_no_color: 080511extoolmarkerbicclearlidx6
+id_no_size: 08_05_11_ex_tool_marker_bic_clear_lid_x6
+id_no_type: tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+manufacturer: ''
+md5: c294cb819f128dea0f0e8e391de16fb2
+md5_10: c294cb819f
+md5_10_upper: C294CB819F
+md5_5: c294c
+md5_5_upper: C294C
+md5_6: c294cb
+md5_6_alpha: 7lbkb
+md5_6_alpha_upper: 7LBKB
+md5_6_upper: C294CB
+name: Oobb Part Tool Holder Vertical 08 05 11 Ex Tool Marker Bic Clear Lid X6
+name_no_class: Part Tool Holder Vertical 08 05 11 Ex Tool Marker Bic Clear Lid X6
+name_no_color: 080511Extoolmarkerbicclearlidx6
+name_no_size: 08 05 11 Ex Tool Marker Bic Clear Lid X6
+name_no_type: Tool Holder Vertical 08 05 11 Ex Tool Marker Bic Clear Lid X6
+oomp_key: oomp_oobb_part_tool_holder_vertical_08_05_11_ex_tool_marker_bic_clear_lid_x6
+oomp_word: birthday microscope grapes
+oomp_word_emoji: ':birthday: :microscope: :grapes:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':microscope:'
+- ':grapes:'
+oomp_word_list:
+- birthday
+- microscope
+- grapes
+part_number: ''
+size: tool_holder_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 17_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_17_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_17_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_17_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_17_pin_dupont
+id_no_color: 17_pin_dupont
+id_no_size: black_17_pin_dupont
+id_no_type: 2_54_mm_black_17_pin_dupont
+manufacturer: ''
+md5: 0cf9ebb0e97b8bac091a3d535ff3b5a4
+md5_10: 0cf9ebb0e9
+md5_10_upper: 0CF9EBB0E9
+md5_5: 0cf9e
+md5_5_upper: 0CF9E
+md5_6: 0cf9eb
+md5_6_alpha: i86j
+md5_6_alpha_upper: I86J
+md5_6_upper: 0CF9EB
+name: Electronic Crimp Housing 2 54 Mm Black 17 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 17 Pin Dupont
+name_no_color: 17 Pin Dupont
+name_no_size: Black 17 Pin Dupont
+name_no_type: 2 54 Mm Black 17 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_17_pin_dupont
+oomp_word: alien eight car
+oomp_word_emoji: ':alien: :eight: :car:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':eight:'
+- ':car:'
+oomp_word_list:
+- alien
+- eight
+- car
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 11_pin
+directory: parts/electronic_socket_2_54_mm_11_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_11_pin_through_hole_long
+id: electronic_socket_2_54_mm_11_pin_through_hole_long
+id_no_class: socket_2_54_mm_11_pin_through_hole_long
+id_no_color: 11pinthroughholelong
+id_no_size: 11_pin_through_hole_long
+id_no_type: 2_54_mm_11_pin_through_hole_long
+manufacturer: ''
+md5: 22540b624753443b7e02f585ad7d16c6
+md5_10: 22540b6247
+md5_10_upper: 22540B6247
+md5_5: '22540'
+md5_5_upper: '22540'
+md5_6: 22540b
+md5_6_alpha: 1c7wr
+md5_6_alpha_upper: 1C7WR
+md5_6_upper: 22540B
+name: Electronic Socket 2 54 Mm 11 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 11 Pin Through Hole Long
+name_no_color: 11Pinthroughholelong
+name_no_size: 11 Pin Through Hole Long
+name_no_type: 2 54 Mm 11 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_11_pin_through_hole_long
+oomp_word: lips whale sunglasses
+oomp_word_emoji: ':lips: :whale: :sunglasses:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':whale:'
+- ':sunglasses:'
+oomp_word_list:
+- lips
+- whale
+- sunglasses
+part_number: ''
+size: 2_54_mm
+type: socket

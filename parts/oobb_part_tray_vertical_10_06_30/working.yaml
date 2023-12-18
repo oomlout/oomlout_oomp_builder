@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_06_30'
+directory: parts/oobb_part_tray_vertical_10_06_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_06_30
+id: oobb_part_tray_vertical_10_06_30
+id_no_class: part_tray_vertical_10_06_30
+id_no_color: '100630'
+id_no_size: '10_06_30'
+id_no_type: tray_vertical_10_06_30
+manufacturer: ''
+md5: ddad448020602714b0459fe1bf7e503f
+md5_10: ddad448020
+md5_10_upper: DDAD448020
+md5_5: ddad4
+md5_5_upper: DDAD4
+md5_6: ddad44
+md5_6_alpha: 8ndqc
+md5_6_alpha_upper: 8NDQC
+md5_6_upper: DDAD44
+name: Oobb Part Tray Vertical 10 06 30
+name_no_class: Part Tray Vertical 10 06 30
+name_no_color: '100630'
+name_no_size: 10 06 30
+name_no_type: Tray Vertical 10 06 30
+oomp_key: oomp_oobb_part_tray_vertical_10_06_30
+oomp_word: stars dress panda_face
+oomp_word_emoji: ':stars: :dress: :panda_face:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':dress:'
+- ':panda_face:'
+oomp_word_list:
+- stars
+- dress
+- panda_face
+part_number: ''
+size: tray_vertical
+type: part

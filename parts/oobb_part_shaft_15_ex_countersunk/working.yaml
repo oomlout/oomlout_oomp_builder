@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 15_ex_countersunk
+directory: parts/oobb_part_shaft_15_ex_countersunk
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_ex_countersunk
+id: oobb_part_shaft_15_ex_countersunk
+id_no_class: part_shaft_15_ex_countersunk
+id_no_color: 15excountersunk
+id_no_size: 15_ex_countersunk
+id_no_type: shaft_15_ex_countersunk
+manufacturer: ''
+md5: 9277b29317e6e711b546b01c3b6fd367
+md5_10: 9277b29317
+md5_10_upper: 9277B29317
+md5_5: 9277b
+md5_5_upper: 9277B
+md5_6: 9277b2
+md5_6_alpha: 5pqk2
+md5_6_alpha_upper: 5PQK2
+md5_6_upper: 9277B2
+name: Oobb Part Shaft 15 Ex Countersunk
+name_no_class: Part Shaft 15 Ex Countersunk
+name_no_color: 15Excountersunk
+name_no_size: 15 Ex Countersunk
+name_no_type: Shaft 15 Ex Countersunk
+oomp_key: oomp_oobb_part_shaft_15_ex_countersunk
+oomp_word: paperclip gift handbag
+oomp_word_emoji: ':paperclip: :gift: :handbag:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':gift:'
+- ':handbag:'
+oomp_word_list:
+- paperclip
+- gift
+- handbag
+part_number: ''
+size: shaft
+type: part

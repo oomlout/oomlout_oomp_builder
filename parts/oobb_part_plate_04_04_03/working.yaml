@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_04_03'
+directory: parts/oobb_part_plate_04_04_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_04_03
+id: oobb_part_plate_04_04_03
+id_no_class: part_plate_04_04_03
+id_no_color: '040403'
+id_no_size: '04_04_03'
+id_no_type: plate_04_04_03
+manufacturer: ''
+md5: e9fa78969e38824daa954c54e42169a4
+md5_10: e9fa78969e
+md5_10_upper: E9FA78969E
+md5_5: e9fa7
+md5_5_upper: E9FA7
+md5_6: e9fa78
+md5_6_alpha: 94nso
+md5_6_alpha_upper: 94NSO
+md5_6_upper: E9FA78
+name: Oobb Part Plate 04 04 03
+name_no_class: Part Plate 04 04 03
+name_no_color: '040403'
+name_no_size: 04 04 03
+name_no_type: Plate 04 04 03
+oomp_key: oomp_oobb_part_plate_04_04_03
+oomp_word: bike nine bell
+oomp_word_emoji: ':bike: :nine: :bell:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':nine:'
+- ':bell:'
+oomp_word_list:
+- bike
+- nine
+- bell
+part_number: ''
+size: plate
+type: part

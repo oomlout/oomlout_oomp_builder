@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_09
+directory: parts/oobb_part_tray_vertical_09_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_04_09
+id: oobb_part_tray_vertical_09_04_09
+id_no_class: part_tray_vertical_09_04_09
+id_no_color: 090409
+id_no_size: 09_04_09
+id_no_type: tray_vertical_09_04_09
+manufacturer: ''
+md5: 8f0aba20b11b05852d31654e19fb8a70
+md5_10: 8f0aba20b1
+md5_10_upper: 8F0ABA20B1
+md5_5: 8f0ab
+md5_5_upper: 8F0AB
+md5_6: 8f0aba
+md5_6_alpha: 5kxbu
+md5_6_alpha_upper: 5KXBU
+md5_6_upper: 8F0ABA
+name: Oobb Part Tray Vertical 09 04 09
+name_no_class: Part Tray Vertical 09 04 09
+name_no_color: 090409
+name_no_size: 09 04 09
+name_no_type: Tray Vertical 09 04 09
+oomp_key: oomp_oobb_part_tray_vertical_09_04_09
+oomp_word: calendar sleepy spaghetti
+oomp_word_emoji: ':calendar: :sleepy: :spaghetti:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':sleepy:'
+- ':spaghetti:'
+oomp_word_list:
+- calendar
+- sleepy
+- spaghetti
+part_number: ''
+size: tray_vertical
+type: part

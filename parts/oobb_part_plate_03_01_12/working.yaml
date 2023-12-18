@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_12'
+directory: parts/oobb_part_plate_03_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_12
+id: oobb_part_plate_03_01_12
+id_no_class: part_plate_03_01_12
+id_no_color: '030112'
+id_no_size: '03_01_12'
+id_no_type: plate_03_01_12
+manufacturer: ''
+md5: 914607dae15a289ef5109bf246db7025
+md5_10: 914607dae1
+md5_10_upper: 914607DAE1
+md5_5: '91460'
+md5_5_upper: '91460'
+md5_6: '914607'
+md5_6_alpha: 5o26f
+md5_6_alpha_upper: 5O26F
+md5_6_upper: '914607'
+name: Oobb Part Plate 03 01 12
+name_no_class: Part Plate 03 01 12
+name_no_color: '030112'
+name_no_size: 03 01 12
+name_no_type: Plate 03 01 12
+oomp_key: oomp_oobb_part_plate_03_01_12
+oomp_word: pushpin bird cry
+oomp_word_emoji: ':pushpin: :bird: :cry:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':bird:'
+- ':cry:'
+oomp_word_list:
+- pushpin
+- bird
+- cry
+part_number: ''
+size: plate
+type: part

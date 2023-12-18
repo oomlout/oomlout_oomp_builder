@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_100_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_100_ohm
+id: electronic_resistor_quarter_watt_through_hole_100_ohm
+id_no_class: resistor_quarter_watt_through_hole_100_ohm
+id_no_color: 100ohm
+id_no_size: 100_ohm
+id_no_type: quarter_watt_through_hole_100_ohm
+manufacturer: ''
+md5: 8f9579c7ff270452712651ec8396284b
+md5_10: 8f9579c7ff
+md5_10_upper: 8F9579C7FF
+md5_5: 8f957
+md5_5_upper: 8F957
+md5_6: 8f9579
+md5_6_alpha: 5loqh
+md5_6_alpha_upper: 5LOQH
+md5_6_upper: 8F9579
+name: Electronic Resistor Quarter Watt Through Hole 100 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 100 Ohm
+name_no_color: 100Ohm
+name_no_size: 100 Ohm
+name_no_type: Quarter Watt Through Hole 100 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_100_ohm
+oomp_word: calendar telescope balloon
+oomp_word_emoji: ':calendar: :telescope: :balloon:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':telescope:'
+- ':balloon:'
+oomp_word_list:
+- calendar
+- telescope
+- balloon
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

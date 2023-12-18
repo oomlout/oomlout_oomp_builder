@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+directory: parts/oobb_part_tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+id: oobb_part_tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+id_no_class: part_tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+id_no_color: 070520extoolscrewdriverhexwera60mmx4
+id_no_size: 07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+id_no_type: tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+manufacturer: ''
+md5: 35b97a73929dadcbebd8abf20100bbe5
+md5_10: 35b97a7392
+md5_10_upper: 35B97A7392
+md5_5: 35b97
+md5_5_upper: 35B97
+md5_6: 35b97a
+md5_6_alpha: 23gqi
+md5_6_alpha_upper: 23GQI
+md5_6_upper: 35B97A
+name: Oobb Part Tool Holder Vertical 07 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X4
+name_no_class: Part Tool Holder Vertical 07 05 20 Ex Tool Screwdriver Hex Wera 60
+  Mm X4
+name_no_color: 070520Extoolscrewdriverhexwera60Mmx4
+name_no_size: 07 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X4
+name_no_type: Tool Holder Vertical 07 05 20 Ex Tool Screwdriver Hex Wera 60 Mm X4
+oomp_key: oomp_oobb_part_tool_holder_vertical_07_05_20_ex_tool_screwdriver_hex_wera_60_mm_x4
+oomp_word: hamster fries camera
+oomp_word_emoji: ':hamster: :fries: :camera:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':fries:'
+- ':camera:'
+oomp_word_list:
+- hamster
+- fries
+- camera
+part_number: ''
+size: tool_holder_vertical
+type: part

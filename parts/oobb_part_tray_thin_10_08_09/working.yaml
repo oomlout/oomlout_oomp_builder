@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_08_09'
+directory: parts/oobb_part_tray_thin_10_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_08_09
+id: oobb_part_tray_thin_10_08_09
+id_no_class: part_tray_thin_10_08_09
+id_no_color: '100809'
+id_no_size: '10_08_09'
+id_no_type: tray_thin_10_08_09
+manufacturer: ''
+md5: 83df3f53d2910f5e0baa2afadb718944
+md5_10: 83df3f53d2
+md5_10_upper: 83DF3F53D2
+md5_5: 83df3
+md5_5_upper: 83DF3
+md5_6: 83df3f
+md5_6_alpha: 558hr
+md5_6_alpha_upper: 558HR
+md5_6_upper: 83DF3F
+name: Oobb Part Tray Thin 10 08 09
+name_no_class: Part Tray Thin 10 08 09
+name_no_color: '100809'
+name_no_size: 10 08 09
+name_no_type: Tray Thin 10 08 09
+oomp_key: oomp_oobb_part_tray_thin_10_08_09
+oomp_word: lock fountain horse
+oomp_word_emoji: ':lock: :fountain: :horse:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':fountain:'
+- ':horse:'
+oomp_word_list:
+- lock
+- fountain
+- horse
+part_number: ''
+size: tray_thin
+type: part

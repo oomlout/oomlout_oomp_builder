@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_02_12'
+directory: parts/oobb_part_tray_vertical_02_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_02_12
+id: oobb_part_tray_vertical_02_02_12
+id_no_class: part_tray_vertical_02_02_12
+id_no_color: '020212'
+id_no_size: '02_02_12'
+id_no_type: tray_vertical_02_02_12
+manufacturer: ''
+md5: 3539a1b5ce8dfbab27c30c587aad653a
+md5_10: 3539a1b5ce
+md5_10_upper: 3539A1B5CE
+md5_5: 3539a
+md5_5_upper: 3539A
+md5_6: 3539a1
+md5_6_alpha: 22rhd
+md5_6_alpha_upper: 22RHD
+md5_6_upper: 3539A1
+name: Oobb Part Tray Vertical 02 02 12
+name_no_class: Part Tray Vertical 02 02 12
+name_no_color: '020212'
+name_no_size: 02 02 12
+name_no_type: Tray Vertical 02 02 12
+oomp_key: oomp_oobb_part_tray_vertical_02_02_12
+oomp_word: hamster tiger trophy
+oomp_word_emoji: ':hamster: :tiger: :trophy:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':tiger:'
+- ':trophy:'
+oomp_word_list:
+- hamster
+- tiger
+- trophy
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+id_no_color: 0606ex144teethshieldshm6grubscrewm3
+id_no_size: 06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+id_no_type: pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+manufacturer: ''
+md5: 292d4f8ae5a7859bfdb89650bd6b6b12
+md5_10: 292d4f8ae5
+md5_10_upper: 292D4F8AE5
+md5_5: 292d4
+md5_5_upper: 292D4
+md5_6: 292d4f
+md5_6_alpha: 1lu8f
+md5_6_alpha_upper: 1LU8F
+md5_6_upper: 292D4F
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M6 Grubscrew M3
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M6 Grubscrew M3
+name_no_color: 0606Ex144Teethshieldshm6Grubscrewm3
+name_no_size: 06 06 Ex 144 Teeth Shield Sh M6 Grubscrew M3
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M6 Grubscrew M3
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m6_grubscrew_m3
+oomp_word: sunny snowman ant
+oomp_word_emoji: ':sunny: :snowman: :ant:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':snowman:'
+- ':ant:'
+oomp_word_list:
+- sunny
+- snowman
+- ant
+part_number: ''
+size: pulley_gt2
+type: part

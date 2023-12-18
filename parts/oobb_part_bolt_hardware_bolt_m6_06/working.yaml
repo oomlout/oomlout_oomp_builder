@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_06
+directory: parts/oobb_part_bolt_hardware_bolt_m6_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_06
+id: oobb_part_bolt_hardware_bolt_m6_06
+id_no_class: part_bolt_hardware_bolt_m6_06
+id_no_color: hardwarem606
+id_no_size: hardware_m6_06
+id_no_type: bolt_hardware_bolt_m6_06
+manufacturer: ''
+md5: dbd87e4fee97849dd4d0d4968a54c12f
+md5_10: dbd87e4fee
+md5_10_upper: DBD87E4FEE
+md5_5: dbd87
+md5_5_upper: DBD87
+md5_6: dbd87e
+md5_6_alpha: 8kt4u
+md5_6_alpha_upper: 8KT4U
+md5_6_upper: DBD87E
+name: Oobb Part Bolt Hardware Bolt M6 06
+name_no_class: Part Bolt Hardware Bolt M6 06
+name_no_color: Hardwarem606
+name_no_size: Hardware M6 06
+name_no_type: Bolt Hardware Bolt M6 06
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_06
+oomp_word: tent hospital fax
+oomp_word_emoji: ':tent: :hospital: :fax:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':hospital:'
+- ':fax:'
+oomp_word_list:
+- tent
+- hospital
+- fax
+part_number: ''
+size: bolt
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_48_teeth_shield
+directory: parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_48_teeth_shield
+id: oobb_part_pulley_gt2_02_06_ex_48_teeth_shield
+id_no_class: part_pulley_gt2_02_06_ex_48_teeth_shield
+id_no_color: 0206ex48teethshield
+id_no_size: 02_06_ex_48_teeth_shield
+id_no_type: pulley_gt2_02_06_ex_48_teeth_shield
+manufacturer: ''
+md5: 098948c9e74987d8a746a97920a242be
+md5_10: 098948c9e7
+md5_10_upper: 098948C9E7
+md5_5: 09894
+md5_5_upper: 09894
+md5_6: 098948
+md5_6_alpha: de88
+md5_6_alpha_upper: DE88
+md5_6_upper: 098948
+name: Oobb Part Pulley Gt2 02 06 Ex 48 Teeth Shield
+name_no_class: Part Pulley Gt2 02 06 Ex 48 Teeth Shield
+name_no_color: 0206Ex48Teethshield
+name_no_size: 02 06 Ex 48 Teeth Shield
+name_no_type: Pulley Gt2 02 06 Ex 48 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_02_06_ex_48_teeth_shield
+oomp_word: angry hammer hatched_chick
+oomp_word_emoji: ':angry: :hammer: :hatched_chick:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':hammer:'
+- ':hatched_chick:'
+oomp_word_list:
+- angry
+- hammer
+- hatched_chick
+part_number: ''
+size: pulley_gt2
+type: part

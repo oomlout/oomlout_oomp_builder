@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_2d5_18
+directory: parts/oobb_part_tray_03_2d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_2d5_18
+id: oobb_part_tray_03_2d5_18
+id_no_class: part_tray_03_2d5_18
+id_no_color: 032d518
+id_no_size: 03_2d5_18
+id_no_type: tray_03_2d5_18
+manufacturer: ''
+md5: c49f275bec7fc1647f8029d8cabe5999
+md5_10: c49f275bec
+md5_10_upper: C49F275BEC
+md5_5: c49f2
+md5_5_upper: C49F2
+md5_6: c49f27
+md5_6_alpha: 7o6qv
+md5_6_alpha_upper: 7O6QV
+md5_6_upper: C49F27
+name: Oobb Part Tray 03 2D5 18
+name_no_class: Part Tray 03 2D5 18
+name_no_color: 032D518
+name_no_size: 03 2D5 18
+name_no_type: Tray 03 2D5 18
+oomp_key: oomp_oobb_part_tray_03_2d5_18
+oomp_word: cookie diamonds nose
+oomp_word_emoji: ':cookie: :diamonds: :nose:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':diamonds:'
+- ':nose:'
+oomp_word_list:
+- cookie
+- diamonds
+- nose
+part_number: ''
+size: tray
+type: part

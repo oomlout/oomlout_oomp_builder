@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+directory: parts/oobb_part_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+id: oobb_part_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+id_no_class: part_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+id_no_color: 040530extooltdpbgluestickpritmedium
+id_no_size: 04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+id_no_type: tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+manufacturer: ''
+md5: 332623a6c74c28bc95bba1432774a593
+md5_10: 332623a6c7
+md5_10_upper: 332623A6C7
+md5_5: '33262'
+md5_5_upper: '33262'
+md5_6: '332623'
+md5_6_alpha: 1zuhv
+md5_6_alpha_upper: 1ZUHV
+md5_6_upper: '332623'
+name: Oobb Part Tool Holder Vertical 04 05 30 Ex Tool Tdpb Glue Stick Prit Medium
+name_no_class: Part Tool Holder Vertical 04 05 30 Ex Tool Tdpb Glue Stick Prit Medium
+name_no_color: 040530Extooltdpbgluestickpritmedium
+name_no_size: 04 05 30 Ex Tool Tdpb Glue Stick Prit Medium
+name_no_type: Tool Holder Vertical 04 05 30 Ex Tool Tdpb Glue Stick Prit Medium
+oomp_key: oomp_oobb_part_tool_holder_vertical_04_05_30_ex_tool_tdpb_glue_stick_prit_medium
+oomp_word: dog eyes kiss
+oomp_word_emoji: ':dog: :eyes: :kiss:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':eyes:'
+- ':kiss:'
+oomp_word_list:
+- dog
+- eyes
+- kiss
+part_number: ''
+size: tool_holder_vertical
+type: part

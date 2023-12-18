@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+directory: parts/oobb_part_smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+id: oobb_part_smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+id_no_class: part_smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+id_no_color: 0510nm8mmtapewidth8mmx36mmlabel
+id_no_size: 05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+id_no_type: smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+manufacturer: ''
+md5: 9eec7702b12ff1541d07e30508d43beb
+md5_10: 9eec7702b1
+md5_10_upper: 9EEC7702B1
+md5_5: 9eec7
+md5_5_upper: 9EEC7
+md5_6: 9eec77
+md5_6_alpha: 678fr
+md5_6_alpha_upper: 678FR
+md5_6_upper: 9EEC77
+name: Oobb Part Smd Magazine Label Holder 05 10 Nm 8 Mm Tape Width 8 Mm X 36 Mm Label
+name_no_class: Part Smd Magazine Label Holder 05 10 Nm 8 Mm Tape Width 8 Mm X 36 Mm
+  Label
+name_no_color: 0510Nm8Mmtapewidth8Mmx36Mmlabel
+name_no_size: 05 10 Nm 8 Mm Tape Width 8 Mm X 36 Mm Label
+name_no_type: Smd Magazine Label Holder 05 10 Nm 8 Mm Tape Width 8 Mm X 36 Mm Label
+oomp_key: oomp_oobb_part_smd_magazine_label_holder_05_10_nm_8_mm_tape_width_8_mm_x_36_mm_label
+oomp_word: clubs taxi gift
+oomp_word_emoji: ':clubs: :taxi: :gift:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':taxi:'
+- ':gift:'
+oomp_word_list:
+- clubs
+- taxi
+- gift
+part_number: ''
+size: smd_magazine_label_holder
+type: part

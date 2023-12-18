@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+directory: parts/oobb_part_smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+id: oobb_part_smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+id_no_class: part_smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+id_no_color: 0514nm12mmtapewidth12mmx36mmlabel
+id_no_size: 05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+id_no_type: smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+manufacturer: ''
+md5: a674c179041d078ae434d9b6717a469c
+md5_10: a674c17904
+md5_10_upper: A674C17904
+md5_5: a674c
+md5_5_upper: A674C
+md5_6: a674c1
+md5_6_alpha: 6htc1
+md5_6_alpha_upper: 6HTC1
+md5_6_upper: A674C1
+name: Oobb Part Smd Magazine Label Holder 05 14 Nm 12 Mm Tape Width 12 Mm X 36 Mm
+  Label
+name_no_class: Part Smd Magazine Label Holder 05 14 Nm 12 Mm Tape Width 12 Mm X 36
+  Mm Label
+name_no_color: 0514Nm12Mmtapewidth12Mmx36Mmlabel
+name_no_size: 05 14 Nm 12 Mm Tape Width 12 Mm X 36 Mm Label
+name_no_type: Smd Magazine Label Holder 05 14 Nm 12 Mm Tape Width 12 Mm X 36 Mm Label
+oomp_key: oomp_oobb_part_smd_magazine_label_holder_05_14_nm_12_mm_tape_width_12_mm_x_36_mm_label
+oomp_word: trumpet fireworks doughnut
+oomp_word_emoji: ':trumpet: :fireworks: :doughnut:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':fireworks:'
+- ':doughnut:'
+oomp_word_list:
+- trumpet
+- fireworks
+- doughnut
+part_number: ''
+size: smd_magazine_label_holder
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_blue
+id: electronic_led_0805_blue
+id_no_class: led_0805_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 0805_blue
+manufacturer: ''
+md5: 5b158c0d2eb94016b924a7e2a0befe8b
+md5_10: 5b158c0d2e
+md5_10_upper: 5B158C0D2E
+md5_5: 5b158
+md5_5_upper: 5B158
+md5_6: 5b158c
+md5_6_alpha: 3jxxo
+md5_6_alpha_upper: 3JXXO
+md5_6_upper: 5B158C
+name: Electronic Led 0805 Blue
+name_no_class: Led 0805 Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 0805 Blue
+oomp_key: oomp_electronic_led_0805_blue
+oomp_word: rooster poop pill
+oomp_word_emoji: ':rooster: :poop: :pill:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':poop:'
+- ':pill:'
+oomp_word_list:
+- rooster
+- poop
+- pill
+part_number: ''
+size: 0805
+type: led

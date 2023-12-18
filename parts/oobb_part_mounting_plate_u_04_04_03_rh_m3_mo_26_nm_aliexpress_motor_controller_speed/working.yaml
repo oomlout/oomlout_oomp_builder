@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+directory: parts/oobb_part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id: oobb_part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_class: part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_color: 040403rhm3mo26nmaliexpressmotorcontrollerspeed
+id_no_size: 04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_type: mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+manufacturer: ''
+md5: 0b3b9e6a6eacae3a4a1c89a22016874c
+md5_10: 0b3b9e6a6e
+md5_10_upper: 0B3B9E6A6E
+md5_5: 0b3b9
+md5_5_upper: 0B3B9
+md5_6: 0b3b9e
+md5_6_alpha: fs0u
+md5_6_alpha_upper: FS0U
+md5_6_upper: 0B3B9E
+name: Oobb Part Mounting Plate U 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+name_no_class: Part Mounting Plate U 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+name_no_color: 040403Rhm3Mo26Nmaliexpressmotorcontrollerspeed
+name_no_size: 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
+name_no_type: Mounting Plate U 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
+  Speed
+oomp_key: oomp_oobb_part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+oomp_word: sunglasses bear clubs
+oomp_word_emoji: ':sunglasses: :bear: :clubs:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':bear:'
+- ':clubs:'
+oomp_word_list:
+- sunglasses
+- bear
+- clubs
+part_number: ''
+size: mounting_plate_u
+type: part

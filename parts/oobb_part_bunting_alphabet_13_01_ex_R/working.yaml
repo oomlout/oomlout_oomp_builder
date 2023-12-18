@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_r
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_r
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_r
+id: oobb_part_bunting_alphabet_13_01_ex_r
+id_no_class: part_bunting_alphabet_13_01_ex_r
+id_no_color: 1301exr
+id_no_size: 13_01_ex_r
+id_no_type: bunting_alphabet_13_01_ex_r
+manufacturer: ''
+md5: afebb70b5748d1df0d9caffd84b8b504
+md5_10: afebb70b57
+md5_10_upper: AFEBB70B57
+md5_5: afebb
+md5_5_upper: AFEBB
+md5_6: afebb7
+md5_6_alpha: 6v3xz
+md5_6_alpha_upper: 6V3XZ
+md5_6_upper: AFEBB7
+name: Oobb Part Bunting Alphabet 13 01 Ex R
+name_no_class: Part Bunting Alphabet 13 01 Ex R
+name_no_color: 1301Exr
+name_no_size: 13 01 Ex R
+name_no_type: Bunting Alphabet 13 01 Ex R
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_r
+oomp_word: tophat car pizza
+oomp_word_emoji: ':tophat: :car: :pizza:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':car:'
+- ':pizza:'
+oomp_word_list:
+- tophat
+- car
+- pizza
+part_number: ''
+size: bunting_alphabet
+type: part

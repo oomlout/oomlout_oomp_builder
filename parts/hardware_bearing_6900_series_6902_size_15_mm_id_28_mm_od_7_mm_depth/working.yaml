@@ -1,0 +1,40 @@
+classification: hardware
+color: 6902_size
+description_extra: ''
+description_main: 15_mm_id_28_mm_od_7_mm_depth
+directory: parts/hardware_bearing_6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+id: hardware_bearing_6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+id_no_class: bearing_6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+id_no_color: 15_mm_id_28_mm_od_7_mm_depth
+id_no_size: 6902_size_15_mm_id_28_mm_od_7_mm_depth
+id_no_type: 6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+manufacturer: ''
+md5: e7aa087793369c4e83323af238ee1d3c
+md5_10: e7aa087793
+md5_10_upper: E7AA087793
+md5_5: e7aa0
+md5_5_upper: E7AA0
+md5_6: e7aa08
+md5_6_alpha: 91ers
+md5_6_alpha_upper: 91ERS
+md5_6_upper: E7AA08
+name: Hardware Bearing 6900 Series 6902 Size 15 Mm Id 28 Mm Od 7 Mm Depth
+name_no_class: Bearing 6900 Series 6902 Size 15 Mm Id 28 Mm Od 7 Mm Depth
+name_no_color: 15 Mm Id 28 Mm Od 7 Mm Depth
+name_no_size: 6902 Size 15 Mm Id 28 Mm Od 7 Mm Depth
+name_no_type: 6900 Series 6902 Size 15 Mm Id 28 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_6900_series_6902_size_15_mm_id_28_mm_od_7_mm_depth
+oomp_word: helicopter lipstick scream
+oomp_word_emoji: ':helicopter: :lipstick: :scream:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':lipstick:'
+- ':scream:'
+oomp_word_list:
+- helicopter
+- lipstick
+- scream
+part_number: ''
+size: 6900_series
+type: bearing

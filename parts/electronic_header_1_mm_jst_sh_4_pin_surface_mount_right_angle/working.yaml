@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+id: electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+id_no_class: header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+id_no_color: 4pinsurfacemountrightangle
+id_no_size: 4_pin_surface_mount_right_angle
+id_no_type: 1_mm_jst_sh_4_pin_surface_mount_right_angle
+manufacturer: ''
+md5: adfe7739de3f358940b6ffe82829763f
+md5_10: adfe7739de
+md5_10_upper: ADFE7739DE
+md5_5: adfe7
+md5_5_upper: ADFE7
+md5_6: adfe77
+md5_6_alpha: 6seif
+md5_6_alpha_upper: 6SEIF
+md5_6_upper: ADFE77
+name: Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
+name_no_color: 4Pinsurfacemountrightangle
+name_no_size: 4 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+oomp_word: dress recycle gift
+oomp_word_emoji: ':dress: :recycle: :gift:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':recycle:'
+- ':gift:'
+oomp_word_list:
+- dress
+- recycle
+- gift
+part_number: ''
+size: 1_mm_jst_sh
+type: header

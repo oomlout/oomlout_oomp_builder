@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_08_30
+directory: parts/oobb_part_tray_thin_09_08_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_08_30
+id: oobb_part_tray_thin_09_08_30
+id_no_class: part_tray_thin_09_08_30
+id_no_color: 090830
+id_no_size: 09_08_30
+id_no_type: tray_thin_09_08_30
+manufacturer: ''
+md5: 1ed0ed6cab061ae2b84ff651d1a44bd1
+md5_10: 1ed0ed6cab
+md5_10_upper: 1ED0ED6CAB
+md5_5: 1ed0e
+md5_5_upper: 1ED0E
+md5_6: 1ed0ed
+md5_6_alpha: 17ab1
+md5_6_alpha_upper: 17AB1
+md5_6_upper: 1ED0ED
+name: Oobb Part Tray Thin 09 08 30
+name_no_class: Part Tray Thin 09 08 30
+name_no_color: 090830
+name_no_size: 09 08 30
+name_no_type: Tray Thin 09 08 30
+oomp_key: oomp_oobb_part_tray_thin_09_08_30
+oomp_word: angel banana bus
+oomp_word_emoji: ':angel: :banana: :bus:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':banana:'
+- ':bus:'
+oomp_word_list:
+- angel
+- banana
+- bus
+part_number: ''
+size: tray_thin
+type: part

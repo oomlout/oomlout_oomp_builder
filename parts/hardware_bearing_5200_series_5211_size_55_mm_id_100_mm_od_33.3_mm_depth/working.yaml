@@ -1,0 +1,40 @@
+classification: hardware
+color: 5211_size
+description_extra: ''
+description_main: 55_mm_id_100_mm_od_33.3_mm_depth
+directory: parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+id: hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+id_no_class: bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+id_no_color: 55_mm_id_100_mm_od_33.3_mm_depth
+id_no_size: 5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+id_no_type: 5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+manufacturer: ''
+md5: 176d9faa1b8a8b2163acbe92a0b2f236
+md5_10: 176d9faa1b
+md5_10_upper: 176D9FAA1B
+md5_5: 176d9
+md5_5_upper: 176D9
+md5_6: 176d9f
+md5_6_alpha: wwpr
+md5_6_alpha_upper: WWPR
+md5_6_upper: 176D9F
+name: Hardware Bearing 5200 Series 5211 Size 55 Mm Id 100 Mm Od 33.3 Mm Depth
+name_no_class: Bearing 5200 Series 5211 Size 55 Mm Id 100 Mm Od 33.3 Mm Depth
+name_no_color: 55 Mm Id 100 Mm Od 33.3 Mm Depth
+name_no_size: 5211 Size 55 Mm Id 100 Mm Od 33.3 Mm Depth
+name_no_type: 5200 Series 5211 Size 55 Mm Id 100 Mm Od 33.3 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
+oomp_word: thumbsdown shell diamonds
+oomp_word_emoji: ':thumbsdown: :shell: :diamonds:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':shell:'
+- ':diamonds:'
+oomp_word_list:
+- thumbsdown
+- shell
+- diamonds
+part_number: ''
+size: 5200_series
+type: bearing

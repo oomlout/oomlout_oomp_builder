@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '24_01_03'
+directory: parts/oobb_part_plate_24_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_24_01_03
+id: oobb_part_plate_24_01_03
+id_no_class: part_plate_24_01_03
+id_no_color: '240103'
+id_no_size: '24_01_03'
+id_no_type: plate_24_01_03
+manufacturer: ''
+md5: c894a754633fb48a18d88176f87feab1
+md5_10: c894a75463
+md5_10_upper: C894A75463
+md5_5: c894a
+md5_5_upper: C894A
+md5_6: c894a7
+md5_6_alpha: 7tqxz
+md5_6_alpha_upper: 7TQXZ
+md5_6_upper: C894A7
+name: Oobb Part Plate 24 01 03
+name_no_class: Part Plate 24 01 03
+name_no_color: '240103'
+name_no_size: 24 01 03
+name_no_type: Plate 24 01 03
+oomp_key: oomp_oobb_part_plate_24_01_03
+oomp_word: apple microscope guitar
+oomp_word_emoji: ':apple: :microscope: :guitar:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':microscope:'
+- ':guitar:'
+oomp_word_list:
+- apple
+- microscope
+- guitar
+part_number: ''
+size: plate
+type: part

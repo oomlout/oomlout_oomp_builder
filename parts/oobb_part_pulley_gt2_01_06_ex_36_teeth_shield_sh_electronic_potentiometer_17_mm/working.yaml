@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_color: 0106ex36teethshieldshelectronicpotentiometer17mm
+id_no_size: 01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 082c0d24699934a3e22d8570d8bac916
+md5_10: 082c0d2469
+md5_10_upper: 082C0D2469
+md5_5: 082c0
+md5_5_upper: 082C0
+md5_6: 082c0d
+md5_6_alpha: bh8t
+md5_6_alpha_upper: BH8T
+md5_6_upper: 082C0D
+name: Oobb Part Pulley Gt2 01 06 Ex 36 Teeth Shield Sh Electronic Potentiometer 17
+  Mm
+name_no_class: Part Pulley Gt2 01 06 Ex 36 Teeth Shield Sh Electronic Potentiometer
+  17 Mm
+name_no_color: 0106Ex36Teethshieldshelectronicpotentiometer17Mm
+name_no_size: 01 06 Ex 36 Teeth Shield Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 01 06 Ex 36 Teeth Shield Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_36_teeth_shield_sh_electronic_potentiometer_17_mm
+oomp_word: scream snowflake heart
+oomp_word_emoji: ':scream: :snowflake: :heart:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':snowflake:'
+- ':heart:'
+oomp_word_list:
+- scream
+- snowflake
+- heart
+part_number: ''
+size: pulley_gt2
+type: part

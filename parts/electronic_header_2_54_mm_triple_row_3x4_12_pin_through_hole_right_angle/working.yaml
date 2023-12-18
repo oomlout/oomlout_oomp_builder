@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 3x4_12_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+id_no_color: 3x412pinthroughholerightangle
+id_no_size: 3x4_12_pin_through_hole_right_angle
+id_no_type: 2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+manufacturer: ''
+md5: 4de9cbe2ded4129f73837d68faa9a67c
+md5_10: 4de9cbe2de
+md5_10_upper: 4DE9CBE2DE
+md5_5: 4de9c
+md5_5_upper: 4DE9C
+md5_6: 4de9cb
+md5_6_alpha: 31fwr
+md5_6_alpha_upper: 31FWR
+md5_6_upper: 4DE9CB
+name: Electronic Header 2 54 Mm Triple Row 3X4 12 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Triple Row 3X4 12 Pin Through Hole Right Angle
+name_no_color: 3X412Pinthroughholerightangle
+name_no_size: 3X4 12 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Triple Row 3X4 12 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole_right_angle
+oomp_word: bug bike grapes
+oomp_word_emoji: ':bug: :bike: :grapes:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':bike:'
+- ':grapes:'
+oomp_word_list:
+- bug
+- bike
+- grapes
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

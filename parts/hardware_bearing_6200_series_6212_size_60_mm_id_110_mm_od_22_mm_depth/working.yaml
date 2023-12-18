@@ -1,0 +1,40 @@
+classification: hardware
+color: 6212_size
+description_extra: ''
+description_main: 60_mm_id_110_mm_od_22_mm_depth
+directory: parts/hardware_bearing_6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+id: hardware_bearing_6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+id_no_class: bearing_6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+id_no_color: 60_mm_id_110_mm_od_22_mm_depth
+id_no_size: 6212_size_60_mm_id_110_mm_od_22_mm_depth
+id_no_type: 6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+manufacturer: ''
+md5: e880cd95924e5de65e0137aeeaecf5a9
+md5_10: e880cd9592
+md5_10_upper: E880CD9592
+md5_5: e880c
+md5_5_upper: E880C
+md5_6: e880cd
+md5_6_alpha: 92l71
+md5_6_alpha_upper: 92L71
+md5_6_upper: E880CD
+name: Hardware Bearing 6200 Series 6212 Size 60 Mm Id 110 Mm Od 22 Mm Depth
+name_no_class: Bearing 6200 Series 6212 Size 60 Mm Id 110 Mm Od 22 Mm Depth
+name_no_color: 60 Mm Id 110 Mm Od 22 Mm Depth
+name_no_size: 6212 Size 60 Mm Id 110 Mm Od 22 Mm Depth
+name_no_type: 6200 Series 6212 Size 60 Mm Id 110 Mm Od 22 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6212_size_60_mm_id_110_mm_od_22_mm_depth
+oomp_word: tram hourglass strawberry
+oomp_word_emoji: ':tram: :hourglass: :strawberry:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':hourglass:'
+- ':strawberry:'
+oomp_word_list:
+- tram
+- hourglass
+- strawberry
+part_number: ''
+size: 6200_series
+type: bearing

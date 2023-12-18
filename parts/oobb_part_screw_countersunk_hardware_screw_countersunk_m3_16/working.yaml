@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_16
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_16
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_16
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_16
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_16
+id_no_color: hardwarem316
+id_no_size: hardware_m3_16
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_16
+manufacturer: ''
+md5: 10d858fca0f41930dd9e5df010965f3e
+md5_10: 10d858fca0
+md5_10_upper: 10D858FCA0
+md5_5: 10d85
+md5_5_upper: 10D85
+md5_6: 10d858
+md5_6_alpha: nntk
+md5_6_alpha_upper: NNTK
+md5_6_upper: 10D858
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 16
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 16
+name_no_color: Hardwarem316
+name_no_size: Hardware M3 16
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 16
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_16
+oomp_word: star hospital water_buffalo
+oomp_word_emoji: ':star: :hospital: :water_buffalo:'
+oomp_word_emoji_list:
+- ':star:'
+- ':hospital:'
+- ':water_buffalo:'
+oomp_word_list:
+- star
+- hospital
+- water_buffalo
+part_number: ''
+size: screw_countersunk
+type: part

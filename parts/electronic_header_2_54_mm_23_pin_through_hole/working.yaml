@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 23_pin
+directory: parts/electronic_header_2_54_mm_23_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_through_hole
+id: electronic_header_2_54_mm_23_pin_through_hole
+id_no_class: header_2_54_mm_23_pin_through_hole
+id_no_color: 23pinthroughhole
+id_no_size: 23_pin_through_hole
+id_no_type: 2_54_mm_23_pin_through_hole
+manufacturer: ''
+md5: f6836edc1af46e5e4fe198b8fbecfc74
+md5_10: f6836edc1a
+md5_10_upper: F6836EDC1A
+md5_5: f6836
+md5_5_upper: F6836
+md5_6: f6836e
+md5_6_alpha: 9m9ny
+md5_6_alpha_upper: 9M9NY
+md5_6_upper: F6836E
+name: Electronic Header 2 54 Mm 23 Pin Through Hole
+name_no_class: Header 2 54 Mm 23 Pin Through Hole
+name_no_color: 23Pinthroughhole
+name_no_size: 23 Pin Through Hole
+name_no_type: 2 54 Mm 23 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_23_pin_through_hole
+oomp_word: five lock new_moon
+oomp_word_emoji: ':five: :lock: :new_moon:'
+oomp_word_emoji_list:
+- ':five:'
+- ':lock:'
+- ':new_moon:'
+oomp_word_list:
+- five
+- lock
+- new_moon
+part_number: ''
+size: 2_54_mm
+type: header

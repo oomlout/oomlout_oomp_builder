@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/hardware_washer_1_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_1_mm
+id: hardware_washer_1_mm
+id_no_class: washer_1_mm
+id_no_color: 1mm
+id_no_size: 1_mm
+id_no_type: 1_mm
+manufacturer: ''
+md5: ca8b1ef96bd6aeab475f1b72bebb32dd
+md5_10: ca8b1ef96b
+md5_10_upper: CA8B1EF96B
+md5_5: ca8b1
+md5_5_upper: CA8B1
+md5_6: ca8b1e
+md5_6_alpha: 7wi72
+md5_6_alpha_upper: 7WI72
+md5_6_upper: CA8B1E
+name: Hardware Washer 1 Mm
+name_no_class: Washer 1 Mm
+name_no_color: 1Mm
+name_no_size: 1 Mm
+name_no_type: 1 Mm
+oomp_key: oomp_hardware_washer_1_mm
+oomp_word: cherries door angel
+oomp_word_emoji: ':cherries: :door: :angel:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':door:'
+- ':angel:'
+oomp_word_list:
+- cherries
+- door
+- angel
+part_number: ''
+size: 1_mm
+type: washer

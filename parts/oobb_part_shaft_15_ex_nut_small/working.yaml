@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 15_ex_nut_small
+directory: parts/oobb_part_shaft_15_ex_nut_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_ex_nut_small
+id: oobb_part_shaft_15_ex_nut_small
+id_no_class: part_shaft_15_ex_nut_small
+id_no_color: 15exnutsmall
+id_no_size: 15_ex_nut_small
+id_no_type: shaft_15_ex_nut_small
+manufacturer: ''
+md5: 5dcaef90269e6dea30f797b3cd1d3225
+md5_10: 5dcaef9026
+md5_10_upper: 5DCAEF9026
+md5_5: 5dcae
+md5_5_upper: 5DCAE
+md5_6: 5dcaef
+md5_6_alpha: 3nqwf
+md5_6_alpha_upper: 3NQWF
+md5_6_upper: 5DCAEF
+name: Oobb Part Shaft 15 Ex Nut Small
+name_no_class: Part Shaft 15 Ex Nut Small
+name_no_color: 15Exnutsmall
+name_no_size: 15 Ex Nut Small
+name_no_type: Shaft 15 Ex Nut Small
+oomp_key: oomp_oobb_part_shaft_15_ex_nut_small
+oomp_word: blowfish cherries truck
+oomp_word_emoji: ':blowfish: :cherries: :truck:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':cherries:'
+- ':truck:'
+oomp_word_list:
+- blowfish
+- cherries
+- truck
+part_number: ''
+size: shaft
+type: part

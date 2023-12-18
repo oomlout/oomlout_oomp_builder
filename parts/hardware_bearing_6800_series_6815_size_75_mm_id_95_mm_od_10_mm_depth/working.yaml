@@ -1,0 +1,40 @@
+classification: hardware
+color: 6815_size
+description_extra: ''
+description_main: 75_mm_id_95_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+id: hardware_bearing_6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+id_no_class: bearing_6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+id_no_color: 75_mm_id_95_mm_od_10_mm_depth
+id_no_size: 6815_size_75_mm_id_95_mm_od_10_mm_depth
+id_no_type: 6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+manufacturer: ''
+md5: 8728cf19f546f862f02dd04a6a493055
+md5_10: 8728cf19f5
+md5_10_upper: 8728CF19F5
+md5_5: 8728c
+md5_5_upper: 8728C
+md5_6: 8728cf
+md5_6_alpha: 59uq7
+md5_6_alpha_upper: 59UQ7
+md5_6_upper: 8728CF
+name: Hardware Bearing 6800 Series 6815 Size 75 Mm Id 95 Mm Od 10 Mm Depth
+name_no_class: Bearing 6800 Series 6815 Size 75 Mm Id 95 Mm Od 10 Mm Depth
+name_no_color: 75 Mm Id 95 Mm Od 10 Mm Depth
+name_no_size: 6815 Size 75 Mm Id 95 Mm Od 10 Mm Depth
+name_no_type: 6800 Series 6815 Size 75 Mm Id 95 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6815_size_75_mm_id_95_mm_od_10_mm_depth
+oomp_word: toilet tongue melon
+oomp_word_emoji: ':toilet: :tongue: :melon:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':tongue:'
+- ':melon:'
+oomp_word_list:
+- toilet
+- tongue
+- melon
+part_number: ''
+size: 6800_series
+type: bearing

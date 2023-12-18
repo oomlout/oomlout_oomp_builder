@@ -1,0 +1,40 @@
+classification: hardware
+color: 6317_size
+description_extra: ''
+description_main: 85_mm_id_180_mm_od_41_mm_depth
+directory: parts/hardware_bearing_6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+id: hardware_bearing_6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+id_no_class: bearing_6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+id_no_color: 85_mm_id_180_mm_od_41_mm_depth
+id_no_size: 6317_size_85_mm_id_180_mm_od_41_mm_depth
+id_no_type: 6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+manufacturer: ''
+md5: 0585520f0eb3eb051d02dc4b3212041e
+md5_10: 0585520f0e
+md5_10_upper: 0585520F0E
+md5_5: 05855
+md5_5_upper: 05855
+md5_6: 058552
+md5_6_alpha: 7r6a
+md5_6_alpha_upper: 7R6A
+md5_6_upper: 058552
+name: Hardware Bearing 6300 Series 6317 Size 85 Mm Id 180 Mm Od 41 Mm Depth
+name_no_class: Bearing 6300 Series 6317 Size 85 Mm Id 180 Mm Od 41 Mm Depth
+name_no_color: 85 Mm Id 180 Mm Od 41 Mm Depth
+name_no_size: 6317 Size 85 Mm Id 180 Mm Od 41 Mm Depth
+name_no_type: 6300 Series 6317 Size 85 Mm Id 180 Mm Od 41 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6317_size_85_mm_id_180_mm_od_41_mm_depth
+oomp_word: kissing bulb octopus
+oomp_word_emoji: ':kissing: :bulb: :octopus:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':bulb:'
+- ':octopus:'
+oomp_word_list:
+- kissing
+- bulb
+- octopus
+part_number: ''
+size: 6300_series
+type: bearing

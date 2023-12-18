@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_01_09
+directory: parts/oobb_part_plate_01_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_09
+id: oobb_part_plate_01_01_09
+id_no_class: part_plate_01_01_09
+id_no_color: 010109
+id_no_size: 01_01_09
+id_no_type: plate_01_01_09
+manufacturer: ''
+md5: 3353b131fc85fbf9b2d6968164843ae3
+md5_10: 3353b131fc
+md5_10_upper: 3353B131FC
+md5_5: 3353b
+md5_5_upper: 3353B
+md5_6: 3353b1
+md5_6_alpha: 203ht
+md5_6_alpha_upper: 203HT
+md5_6_upper: 3353B1
+name: Oobb Part Plate 01 01 09
+name_no_class: Part Plate 01 01 09
+name_no_color: 010109
+name_no_size: 01 01 09
+name_no_type: Plate 01 01 09
+oomp_key: oomp_oobb_part_plate_01_01_09
+oomp_word: dog fish briefcase
+oomp_word_emoji: ':dog: :fish: :briefcase:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':fish:'
+- ':briefcase:'
+oomp_word_list:
+- dog
+- fish
+- briefcase
+part_number: ''
+size: plate
+type: part

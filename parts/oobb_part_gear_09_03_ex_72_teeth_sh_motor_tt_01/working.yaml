@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_ex_72_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_09_03_ex_72_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_03_ex_72_teeth_sh_motor_tt_01
+id: oobb_part_gear_09_03_ex_72_teeth_sh_motor_tt_01
+id_no_class: part_gear_09_03_ex_72_teeth_sh_motor_tt_01
+id_no_color: 0903ex72teethshmotortt01
+id_no_size: 09_03_ex_72_teeth_sh_motor_tt_01
+id_no_type: gear_09_03_ex_72_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: e800ce3608f80550fc4874526d6a3500
+md5_10: e800ce3608
+md5_10_upper: E800CE3608
+md5_5: e800c
+md5_5_upper: E800C
+md5_6: e800ce
+md5_6_alpha: 91vwu
+md5_6_alpha_upper: 91VWU
+md5_6_upper: E800CE
+name: Oobb Part Gear 09 03 Ex 72 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 09 03 Ex 72 Teeth Sh Motor Tt 01
+name_no_color: 0903Ex72Teethshmotortt01
+name_no_size: 09 03 Ex 72 Teeth Sh Motor Tt 01
+name_no_type: Gear 09 03 Ex 72 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_09_03_ex_72_teeth_sh_motor_tt_01
+oomp_word: tram bowtie peach
+oomp_word_emoji: ':tram: :bowtie: :peach:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':bowtie:'
+- ':peach:'
+oomp_word_list:
+- tram
+- bowtie
+- peach
+part_number: ''
+size: gear
+type: part

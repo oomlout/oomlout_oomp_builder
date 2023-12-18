@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 8_pin
+directory: parts/electronic_header_2_54_mm_8_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_8_pin_surface_mount
+id: electronic_header_2_54_mm_8_pin_surface_mount
+id_no_class: header_2_54_mm_8_pin_surface_mount
+id_no_color: 8pinsurfacemount
+id_no_size: 8_pin_surface_mount
+id_no_type: 2_54_mm_8_pin_surface_mount
+manufacturer: ''
+md5: dd1f9d6120455f845e3b89a70b646f7b
+md5_10: dd1f9d6120
+md5_10_upper: DD1F9D6120
+md5_5: dd1f9
+md5_5_upper: DD1F9
+md5_6: dd1f9d
+md5_6_alpha: 8mlr1
+md5_6_alpha_upper: 8MLR1
+md5_6_upper: DD1F9D
+name: Electronic Header 2 54 Mm 8 Pin Surface Mount
+name_no_class: Header 2 54 Mm 8 Pin Surface Mount
+name_no_color: 8Pinsurfacemount
+name_no_size: 8 Pin Surface Mount
+name_no_type: 2 54 Mm 8 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_8_pin_surface_mount
+oomp_word: stars princess hearts
+oomp_word_emoji: ':stars: :princess: :hearts:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':princess:'
+- ':hearts:'
+oomp_word_list:
+- stars
+- princess
+- hearts
+part_number: ''
+size: 2_54_mm
+type: header

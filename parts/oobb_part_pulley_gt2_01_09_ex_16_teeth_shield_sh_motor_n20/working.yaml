@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_16_teeth_shield_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+id_no_color: 0109ex16teethshieldshmotorn20
+id_no_size: 01_09_ex_16_teeth_shield_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+manufacturer: ''
+md5: 5fc06b28d578f8687737d8b5b833b425
+md5_10: 5fc06b28d5
+md5_10_upper: 5FC06B28D5
+md5_5: 5fc06
+md5_5_upper: 5FC06
+md5_6: 5fc06b
+md5_6_alpha: 3qhyj
+md5_6_alpha_upper: 3QHYJ
+md5_6_upper: 5FC06B
+name: Oobb Part Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor N20
+name_no_color: 0109Ex16Teethshieldshmotorn20
+name_no_size: 01 09 Ex 16 Teeth Shield Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 16 Teeth Shield Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_16_teeth_shield_sh_motor_n20
+oomp_word: leopard bread chestnut
+oomp_word_emoji: ':leopard: :bread: :chestnut:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':bread:'
+- ':chestnut:'
+oomp_word_list:
+- leopard
+- bread
+- chestnut
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_04_18
+directory: parts/oobb_part_tray_1d5_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_04_18
+id: oobb_part_tray_1d5_04_18
+id_no_class: part_tray_1d5_04_18
+id_no_color: 1d50418
+id_no_size: 1d5_04_18
+id_no_type: tray_1d5_04_18
+manufacturer: ''
+md5: 508257e9297862ce387367ac7cfcfc5f
+md5_10: 508257e929
+md5_10_upper: 508257E929
+md5_5: '50825'
+md5_5_upper: '50825'
+md5_6: '508257'
+md5_6_alpha: 3536f
+md5_6_alpha_upper: 3536F
+md5_6_upper: '508257'
+name: Oobb Part Tray 1D5 04 18
+name_no_class: Part Tray 1D5 04 18
+name_no_color: 1D50418
+name_no_size: 1D5 04 18
+name_no_type: Tray 1D5 04 18
+oomp_key: oomp_oobb_part_tray_1d5_04_18
+oomp_word: beetle radio rat
+oomp_word_emoji: ':beetle: :radio: :rat:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':radio:'
+- ':rat:'
+oomp_word_list:
+- beetle
+- radio
+- rat
+part_number: ''
+size: tray
+type: part

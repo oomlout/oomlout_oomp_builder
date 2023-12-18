@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 270_ohm
+directory: parts/electronic_resistor_0805_270_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_270_ohm
+id: electronic_resistor_0805_270_ohm
+id_no_class: resistor_0805_270_ohm
+id_no_color: 270ohm
+id_no_size: 270_ohm
+id_no_type: 0805_270_ohm
+manufacturer: ''
+md5: f5c2b8589a3fd009e07dda1161ecb8c4
+md5_10: f5c2b8589a
+md5_10_upper: F5C2B8589A
+md5_5: f5c2b
+md5_5_upper: F5C2B
+md5_6: f5c2b8
+md5_6_alpha: 9l7lk
+md5_6_alpha_upper: 9L7LK
+md5_6_upper: F5C2B8
+name: Electronic Resistor 0805 270 Ohm
+name_no_class: Resistor 0805 270 Ohm
+name_no_color: 270Ohm
+name_no_size: 270 Ohm
+name_no_type: 0805 270 Ohm
+oomp_key: oomp_electronic_resistor_0805_270_ohm
+oomp_word: four birthday hamburger
+oomp_word_emoji: ':four: :birthday: :hamburger:'
+oomp_word_emoji_list:
+- ':four:'
+- ':birthday:'
+- ':hamburger:'
+oomp_word_list:
+- four
+- birthday
+- hamburger
+part_number: ''
+size: 0805
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_01_15'
+directory: parts/oobb_part_tray_vertical_06_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_01_15
+id: oobb_part_tray_vertical_06_01_15
+id_no_class: part_tray_vertical_06_01_15
+id_no_color: '060115'
+id_no_size: '06_01_15'
+id_no_type: tray_vertical_06_01_15
+manufacturer: ''
+md5: 42db32b269bc41739f8ffb1088d75b1c
+md5_10: 42db32b269
+md5_10_upper: 42DB32B269
+md5_5: 42db3
+md5_5_upper: 42DB3
+md5_6: 42db32
+md5_6_alpha: 2lws2
+md5_6_alpha_upper: 2LWS2
+md5_6_upper: 42DB32
+name: Oobb Part Tray Vertical 06 01 15
+name_no_class: Part Tray Vertical 06 01 15
+name_no_color: '060115'
+name_no_size: 06 01 15
+name_no_type: Tray Vertical 06 01 15
+oomp_key: oomp_oobb_part_tray_vertical_06_01_15
+oomp_word: sheep tent cat
+oomp_word_emoji: ':sheep: :tent: :cat:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':tent:'
+- ':cat:'
+oomp_word_list:
+- sheep
+- tent
+- cat
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_03_ex_8_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_01_03_ex_8_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_ex_8_teeth_sh_motor_tt_01
+id: oobb_part_gear_01_03_ex_8_teeth_sh_motor_tt_01
+id_no_class: part_gear_01_03_ex_8_teeth_sh_motor_tt_01
+id_no_color: 0103ex8teethshmotortt01
+id_no_size: 01_03_ex_8_teeth_sh_motor_tt_01
+id_no_type: gear_01_03_ex_8_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 316bc5e3d5caaad408c45e28a0bc267b
+md5_10: 316bc5e3d5
+md5_10_upper: 316BC5E3D5
+md5_5: 316bc
+md5_5_upper: 316BC
+md5_6: 316bc5
+md5_6_alpha: 1xf45
+md5_6_alpha_upper: 1XF45
+md5_6_upper: 316BC5
+name: Oobb Part Gear 01 03 Ex 8 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 01 03 Ex 8 Teeth Sh Motor Tt 01
+name_no_color: 0103Ex8Teethshmotortt01
+name_no_size: 01 03 Ex 8 Teeth Sh Motor Tt 01
+name_no_type: Gear 01 03 Ex 8 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_01_03_ex_8_teeth_sh_motor_tt_01
+oomp_word: ocean chestnut candy
+oomp_word_emoji: ':ocean: :chestnut: :candy:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':chestnut:'
+- ':candy:'
+oomp_word_list:
+- ocean
+- chestnut
+- candy
+part_number: ''
+size: gear
+type: part

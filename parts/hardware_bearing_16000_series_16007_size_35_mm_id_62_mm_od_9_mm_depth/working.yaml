@@ -1,0 +1,40 @@
+classification: hardware
+color: 16007_size
+description_extra: ''
+description_main: 35_mm_id_62_mm_od_9_mm_depth
+directory: parts/hardware_bearing_16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+id: hardware_bearing_16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+id_no_class: bearing_16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+id_no_color: 35_mm_id_62_mm_od_9_mm_depth
+id_no_size: 16007_size_35_mm_id_62_mm_od_9_mm_depth
+id_no_type: 16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+manufacturer: ''
+md5: b48be35662a612571a0b9d2a79a794d3
+md5_10: b48be35662
+md5_10_upper: B48BE35662
+md5_5: b48be
+md5_5_upper: B48BE
+md5_6: b48be3
+md5_6_alpha: 71lur
+md5_6_alpha_upper: 71LUR
+md5_6_upper: B48BE3
+name: Hardware Bearing 16000 Series 16007 Size 35 Mm Id 62 Mm Od 9 Mm Depth
+name_no_class: Bearing 16000 Series 16007 Size 35 Mm Id 62 Mm Od 9 Mm Depth
+name_no_color: 35 Mm Id 62 Mm Od 9 Mm Depth
+name_no_size: 16007 Size 35 Mm Id 62 Mm Od 9 Mm Depth
+name_no_type: 16000 Series 16007 Size 35 Mm Id 62 Mm Od 9 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16007_size_35_mm_id_62_mm_od_9_mm_depth
+oomp_word: coffee door rowboat
+oomp_word_emoji: ':coffee: :door: :rowboat:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':door:'
+- ':rowboat:'
+oomp_word_list:
+- coffee
+- door
+- rowboat
+part_number: ''
+size: 16000_series
+type: bearing

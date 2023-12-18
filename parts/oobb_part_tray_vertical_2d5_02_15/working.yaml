@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_15
+directory: parts/oobb_part_tray_vertical_2d5_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_02_15
+id: oobb_part_tray_vertical_2d5_02_15
+id_no_class: part_tray_vertical_2d5_02_15
+id_no_color: 2d50215
+id_no_size: 2d5_02_15
+id_no_type: tray_vertical_2d5_02_15
+manufacturer: ''
+md5: 1a6adbff8c8e456f75cecfa60baf4ef7
+md5_10: 1a6adbff8c
+md5_10_upper: 1A6ADBFF8C
+md5_5: 1a6ad
+md5_5_upper: 1A6AD
+md5_6: 1a6adb
+md5_6_alpha: 113vf
+md5_6_alpha_upper: 113VF
+md5_6_upper: 1A6ADB
+name: Oobb Part Tray Vertical 2D5 02 15
+name_no_class: Part Tray Vertical 2D5 02 15
+name_no_color: 2D50215
+name_no_size: 2D5 02 15
+name_no_type: Tray Vertical 2D5 02 15
+oomp_key: oomp_oobb_part_tray_vertical_2d5_02_15
+oomp_word: clap palm_tree tent
+oomp_word_emoji: ':clap: :palm_tree: :tent:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':palm_tree:'
+- ':tent:'
+oomp_word_list:
+- clap
+- palm_tree
+- tent
+part_number: ''
+size: tray_vertical
+type: part

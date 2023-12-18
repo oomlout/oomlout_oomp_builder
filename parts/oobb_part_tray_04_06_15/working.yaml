@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_06_15'
+directory: parts/oobb_part_tray_04_06_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_15
+id: oobb_part_tray_04_06_15
+id_no_class: part_tray_04_06_15
+id_no_color: '040615'
+id_no_size: '04_06_15'
+id_no_type: tray_04_06_15
+manufacturer: ''
+md5: 1694f6a3c85d11913a5397f16e6e3e48
+md5_10: 1694f6a3c8
+md5_10_upper: 1694F6A3C8
+md5_5: 1694f
+md5_5_upper: 1694F
+md5_6: 1694f6
+md5_6_alpha: vpx2
+md5_6_alpha_upper: VPX2
+md5_6_upper: 1694F6
+name: Oobb Part Tray 04 06 15
+name_no_class: Part Tray 04 06 15
+name_no_color: '040615'
+name_no_size: 04 06 15
+name_no_type: Tray 04 06 15
+oomp_key: oomp_oobb_part_tray_04_06_15
+oomp_word: thumbsup microscope five
+oomp_word_emoji: ':thumbsup: :microscope: :five:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':microscope:'
+- ':five:'
+oomp_word_list:
+- thumbsup
+- microscope
+- five
+part_number: ''
+size: tray
+type: part

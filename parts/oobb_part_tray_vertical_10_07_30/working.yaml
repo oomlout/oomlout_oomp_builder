@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_07_30'
+directory: parts/oobb_part_tray_vertical_10_07_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_07_30
+id: oobb_part_tray_vertical_10_07_30
+id_no_class: part_tray_vertical_10_07_30
+id_no_color: '100730'
+id_no_size: '10_07_30'
+id_no_type: tray_vertical_10_07_30
+manufacturer: ''
+md5: 7aee4028341ceb6e0b219969f0b528a2
+md5_10: 7aee402834
+md5_10_upper: 7AEE402834
+md5_5: 7aee4
+md5_5_upper: 7AEE4
+md5_6: 7aee40
+md5_6_alpha: 4socg
+md5_6_alpha_upper: 4SOCG
+md5_6_upper: 7AEE40
+name: Oobb Part Tray Vertical 10 07 30
+name_no_class: Part Tray Vertical 10 07 30
+name_no_color: '100730'
+name_no_size: 10 07 30
+name_no_type: Tray Vertical 10 07 30
+oomp_key: oomp_oobb_part_tray_vertical_10_07_30
+oomp_word: camera ambulance racehorse
+oomp_word_emoji: ':camera: :ambulance: :racehorse:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':ambulance:'
+- ':racehorse:'
+oomp_word_list:
+- camera
+- ambulance
+- racehorse
+part_number: ''
+size: tray_vertical
+type: part

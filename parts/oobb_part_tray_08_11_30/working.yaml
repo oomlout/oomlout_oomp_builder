@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_11_30
+directory: parts/oobb_part_tray_08_11_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_30
+id: oobb_part_tray_08_11_30
+id_no_class: part_tray_08_11_30
+id_no_color: 081130
+id_no_size: 08_11_30
+id_no_type: tray_08_11_30
+manufacturer: ''
+md5: 6829fabaceaaa016f7384c3e848886e0
+md5_10: 6829fabace
+md5_10_upper: 6829FABACE
+md5_5: 6829f
+md5_5_upper: 6829F
+md5_6: 6829fa
+md5_6_alpha: 42bcq
+md5_6_alpha_upper: 42BCQ
+md5_6_upper: 6829FA
+name: Oobb Part Tray 08 11 30
+name_no_class: Part Tray 08 11 30
+name_no_color: 081130
+name_no_size: 08 11 30
+name_no_type: Tray 08 11 30
+oomp_key: oomp_oobb_part_tray_08_11_30
+oomp_word: mushroom sunny nine
+oomp_word_emoji: ':mushroom: :sunny: :nine:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':sunny:'
+- ':nine:'
+oomp_word_list:
+- mushroom
+- sunny
+- nine
+part_number: ''
+size: tray
+type: part

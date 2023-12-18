@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_03'
+directory: parts/oobb_part_circle_11_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_11_03
+id: oobb_part_circle_11_03
+id_no_class: part_circle_11_03
+id_no_color: '1103'
+id_no_size: '11_03'
+id_no_type: circle_11_03
+manufacturer: ''
+md5: b6487479c60763c7f0b45dbc9effec4f
+md5_10: b6487479c6
+md5_10_upper: B6487479C6
+md5_5: b6487
+md5_5_upper: B6487
+md5_6: b64874
+md5_6_alpha: 741o4
+md5_6_alpha_upper: 741O4
+md5_6_upper: B64874
+name: Oobb Part Circle 11 03
+name_no_class: Part Circle 11 03
+name_no_color: '1103'
+name_no_size: 11 03
+name_no_type: Circle 11 03
+oomp_key: oomp_oobb_part_circle_11_03
+oomp_word: beer hatched_chick fireworks
+oomp_word_emoji: ':beer: :hatched_chick: :fireworks:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':hatched_chick:'
+- ':fireworks:'
+oomp_word_list:
+- beer
+- hatched_chick
+- fireworks
+part_number: ''
+size: circle
+type: part

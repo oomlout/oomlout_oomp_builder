@@ -1,0 +1,40 @@
+classification: hardware
+color: 6803_size
+description_extra: ''
+description_main: 17_mm_id_26_mm_od_5_mm_depth
+directory: parts/hardware_bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+id: hardware_bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+id_no_class: bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+id_no_color: 17_mm_id_26_mm_od_5_mm_depth
+id_no_size: 6803_size_17_mm_id_26_mm_od_5_mm_depth
+id_no_type: 6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+manufacturer: ''
+md5: 0a18ef97603fff52465cecafb6ddf7c6
+md5_10: 0a18ef9760
+md5_10_upper: 0A18EF9760
+md5_5: 0a18e
+md5_5_upper: 0A18E
+md5_6: 0a18ef
+md5_6_alpha: e6lr
+md5_6_alpha_upper: E6LR
+md5_6_upper: 0A18EF
+name: Hardware Bearing 6800 Series 6803 Size 17 Mm Id 26 Mm Od 5 Mm Depth
+name_no_class: Bearing 6800 Series 6803 Size 17 Mm Id 26 Mm Od 5 Mm Depth
+name_no_color: 17 Mm Id 26 Mm Od 5 Mm Depth
+name_no_size: 6803 Size 17 Mm Id 26 Mm Od 5 Mm Depth
+name_no_type: 6800 Series 6803 Size 17 Mm Id 26 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
+oomp_word: sleepy hand truck
+oomp_word_emoji: ':sleepy: :hand: :truck:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':hand:'
+- ':truck:'
+oomp_word_list:
+- sleepy
+- hand
+- truck
+part_number: ''
+size: 6800_series
+type: bearing

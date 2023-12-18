@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_02_30'
+directory: parts/oobb_part_tray_thin_03_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_02_30
+id: oobb_part_tray_thin_03_02_30
+id_no_class: part_tray_thin_03_02_30
+id_no_color: '030230'
+id_no_size: '03_02_30'
+id_no_type: tray_thin_03_02_30
+manufacturer: ''
+md5: 7c50aa1937bba5a1951c0c4aad13d192
+md5_10: 7c50aa1937
+md5_10_upper: 7C50AA1937
+md5_5: 7c50a
+md5_5_upper: 7C50A
+md5_6: 7c50aa
+md5_6_alpha: 4umcq
+md5_6_alpha_upper: 4UMCQ
+md5_6_upper: 7C50AA
+name: Oobb Part Tray Thin 03 02 30
+name_no_class: Part Tray Thin 03 02 30
+name_no_color: '030230'
+name_no_size: 03 02 30
+name_no_type: Tray Thin 03 02 30
+oomp_key: oomp_oobb_part_tray_thin_03_02_30
+oomp_word: tv beetle lipstick
+oomp_word_emoji: ':tv: :beetle: :lipstick:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':beetle:'
+- ':lipstick:'
+oomp_word_list:
+- tv
+- beetle
+- lipstick
+part_number: ''
+size: tray_thin
+type: part

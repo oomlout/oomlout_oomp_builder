@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_09_09'
+directory: parts/oobb_part_tray_vertical_11_09_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_09_09
+id: oobb_part_tray_vertical_11_09_09
+id_no_class: part_tray_vertical_11_09_09
+id_no_color: '110909'
+id_no_size: '11_09_09'
+id_no_type: tray_vertical_11_09_09
+manufacturer: ''
+md5: 0be3e31e82b576cef1b88d4a89d1127d
+md5_10: 0be3e31e82
+md5_10_upper: 0BE3E31E82
+md5_5: 0be3e
+md5_5_upper: 0BE3E
+md5_6: 0be3e3
+md5_6_alpha: gp9f
+md5_6_alpha_upper: GP9F
+md5_6_upper: 0BE3E3
+name: Oobb Part Tray Vertical 11 09 09
+name_no_class: Part Tray Vertical 11 09 09
+name_no_color: '110909'
+name_no_size: 11 09 09
+name_no_type: Tray Vertical 11 09 09
+oomp_key: oomp_oobb_part_tray_vertical_11_09_09
+oomp_word: sunglasses rowboat rowboat
+oomp_word_emoji: ':sunglasses: :rowboat: :rowboat:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':rowboat:'
+- ':rowboat:'
+oomp_word_list:
+- sunglasses
+- rowboat
+- rowboat
+part_number: ''
+size: tray_vertical
+type: part

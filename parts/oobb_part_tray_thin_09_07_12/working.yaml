@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_07_12
+directory: parts/oobb_part_tray_thin_09_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_07_12
+id: oobb_part_tray_thin_09_07_12
+id_no_class: part_tray_thin_09_07_12
+id_no_color: 090712
+id_no_size: 09_07_12
+id_no_type: tray_thin_09_07_12
+manufacturer: ''
+md5: 0c082d7c0a31b26b5311341cc89656a7
+md5_10: 0c082d7c0a
+md5_10_upper: 0C082D7C0A
+md5_5: 0c082
+md5_5_upper: 0C082
+md5_6: 0c082d
+md5_6_alpha: gwfh
+md5_6_alpha_upper: GWFH
+md5_6_upper: 0C082D
+name: Oobb Part Tray Thin 09 07 12
+name_no_class: Part Tray Thin 09 07 12
+name_no_color: 090712
+name_no_size: 09 07 12
+name_no_type: Tray Thin 09 07 12
+oomp_key: oomp_oobb_part_tray_thin_09_07_12
+oomp_word: alien scream snowman
+oomp_word_emoji: ':alien: :scream: :snowman:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':scream:'
+- ':snowman:'
+oomp_word_list:
+- alien
+- scream
+- snowman
+part_number: ''
+size: tray_thin
+type: part

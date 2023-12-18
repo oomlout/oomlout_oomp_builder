@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 20_pin
+directory: parts/electronic_header_2_54_mm_20_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_20_pin_through_hole_long
+id: electronic_header_2_54_mm_20_pin_through_hole_long
+id_no_class: header_2_54_mm_20_pin_through_hole_long
+id_no_color: 20pinthroughholelong
+id_no_size: 20_pin_through_hole_long
+id_no_type: 2_54_mm_20_pin_through_hole_long
+manufacturer: ''
+md5: b28e6a7593a220ac9f40e109e7dce1f2
+md5_10: b28e6a7593
+md5_10_upper: B28E6A7593
+md5_5: b28e6
+md5_5_upper: B28E6
+md5_6: b28e6a
+md5_6_alpha: 6yt7u
+md5_6_alpha_upper: 6YT7U
+md5_6_upper: B28E6A
+name: Electronic Header 2 54 Mm 20 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 20 Pin Through Hole Long
+name_no_color: 20Pinthroughholelong
+name_no_size: 20 Pin Through Hole Long
+name_no_type: 2 54 Mm 20 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_20_pin_through_hole_long
+oomp_word: handbag clipboard palm_tree
+oomp_word_emoji: ':handbag: :clipboard: :palm_tree:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':clipboard:'
+- ':palm_tree:'
+oomp_word_list:
+- handbag
+- clipboard
+- palm_tree
+part_number: ''
+size: 2_54_mm
+type: header

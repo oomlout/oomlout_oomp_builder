@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_18'
+directory: parts/oobb_part_tray_vertical_11_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_01_18
+id: oobb_part_tray_vertical_11_01_18
+id_no_class: part_tray_vertical_11_01_18
+id_no_color: '110118'
+id_no_size: '11_01_18'
+id_no_type: tray_vertical_11_01_18
+manufacturer: ''
+md5: fb56e368699bdc7f37b0d87ec5f94219
+md5_10: fb56e36869
+md5_10_upper: FB56E36869
+md5_5: fb56e
+md5_5_upper: FB56E
+md5_6: fb56e3
+md5_6_alpha: 9t1pf
+md5_6_alpha_upper: 9T1PF
+md5_6_upper: FB56E3
+name: Oobb Part Tray Vertical 11 01 18
+name_no_class: Part Tray Vertical 11 01 18
+name_no_color: '110118'
+name_no_size: 11 01 18
+name_no_type: Tray Vertical 11 01 18
+oomp_key: oomp_oobb_part_tray_vertical_11_01_18
+oomp_word: ok ram rowboat
+oomp_word_emoji: ':ok: :ram: :rowboat:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':ram:'
+- ':rowboat:'
+oomp_word_list:
+- ok
+- ram
+- rowboat
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_k
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_k
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_k
+id: oobb_part_bunting_alphabet_05_01_ex_k
+id_no_class: part_bunting_alphabet_05_01_ex_k
+id_no_color: 0501exk
+id_no_size: 05_01_ex_k
+id_no_type: bunting_alphabet_05_01_ex_k
+manufacturer: ''
+md5: 256d23fc425eb414d900dcb8667ef21a
+md5_10: 256d23fc42
+md5_10_upper: 256D23FC42
+md5_5: 256d2
+md5_5_upper: 256D2
+md5_6: 256d23
+md5_6_alpha: 1gkkj
+md5_6_alpha_upper: 1GKKJ
+md5_6_upper: 256D23
+name: Oobb Part Bunting Alphabet 05 01 Ex K
+name_no_class: Part Bunting Alphabet 05 01 Ex K
+name_no_color: 0501Exk
+name_no_size: 05 01 Ex K
+name_no_type: Bunting Alphabet 05 01 Ex K
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_k
+oomp_word: ear shell kiss
+oomp_word_emoji: ':ear: :shell: :kiss:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':shell:'
+- ':kiss:'
+oomp_word_list:
+- ear
+- shell
+- kiss
+part_number: ''
+size: bunting_alphabet
+type: part

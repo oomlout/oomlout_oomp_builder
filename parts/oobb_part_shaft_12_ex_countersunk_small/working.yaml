@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_ex_countersunk_small
+directory: parts/oobb_part_shaft_12_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12_ex_countersunk_small
+id: oobb_part_shaft_12_ex_countersunk_small
+id_no_class: part_shaft_12_ex_countersunk_small
+id_no_color: 12excountersunksmall
+id_no_size: 12_ex_countersunk_small
+id_no_type: shaft_12_ex_countersunk_small
+manufacturer: ''
+md5: 7d9a8ea8d540032dc771c95bf6eab5d8
+md5_10: 7d9a8ea8d5
+md5_10_upper: 7D9A8EA8D5
+md5_5: 7d9a8
+md5_5_upper: 7D9A8
+md5_6: 7d9a8e
+md5_6_alpha: 4wfim
+md5_6_alpha_upper: 4WFIM
+md5_6_upper: 7D9A8E
+name: Oobb Part Shaft 12 Ex Countersunk Small
+name_no_class: Part Shaft 12 Ex Countersunk Small
+name_no_color: 12Excountersunksmall
+name_no_size: 12 Ex Countersunk Small
+name_no_type: Shaft 12 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_12_ex_countersunk_small
+oomp_word: phone golf clipboard
+oomp_word_emoji: ':phone: :golf: :clipboard:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':golf:'
+- ':clipboard:'
+oomp_word_list:
+- phone
+- golf
+- clipboard
+part_number: ''
+size: shaft
+type: part

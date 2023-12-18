@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 8200000_ohm
+directory: parts/electronic_resistor_0402_8200000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_8200000_ohm
+id: electronic_resistor_0402_8200000_ohm
+id_no_class: resistor_0402_8200000_ohm
+id_no_color: 8200000ohm
+id_no_size: 8200000_ohm
+id_no_type: 0402_8200000_ohm
+manufacturer: ''
+md5: bd66fd113a48b5987d297ad1dca5af43
+md5_10: bd66fd113a
+md5_10_upper: BD66FD113A
+md5_5: bd66f
+md5_5_upper: BD66F
+md5_6: bd66fd
+md5_6_alpha: 7e1od
+md5_6_alpha_upper: 7E1OD
+md5_6_upper: BD66FD
+name: Electronic Resistor 0402 8200000 Ohm
+name_no_class: Resistor 0402 8200000 Ohm
+name_no_color: 8200000Ohm
+name_no_size: 8200000 Ohm
+name_no_type: 0402 8200000 Ohm
+oomp_key: oomp_electronic_resistor_0402_8200000_ohm
+oomp_word: rice leaves parking
+oomp_word_emoji: ':rice: :leaves: :parking:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':leaves:'
+- ':parking:'
+oomp_word_list:
+- rice
+- leaves
+- parking
+part_number: ''
+size: '0402'
+type: resistor

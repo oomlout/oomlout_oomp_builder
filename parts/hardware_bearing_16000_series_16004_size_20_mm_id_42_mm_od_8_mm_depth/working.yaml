@@ -1,0 +1,40 @@
+classification: hardware
+color: 16004_size
+description_extra: ''
+description_main: 20_mm_id_42_mm_od_8_mm_depth
+directory: parts/hardware_bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+id: hardware_bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+id_no_class: bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+id_no_color: 20_mm_id_42_mm_od_8_mm_depth
+id_no_size: 16004_size_20_mm_id_42_mm_od_8_mm_depth
+id_no_type: 16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+manufacturer: ''
+md5: 768af72ef2ba0b47a1c66f4cfcf50955
+md5_10: 768af72ef2
+md5_10_upper: 768AF72EF2
+md5_5: 768af
+md5_5_upper: 768AF
+md5_6: 768af7
+md5_6_alpha: 4mign
+md5_6_alpha_upper: 4MIGN
+md5_6_upper: 768AF7
+name: Hardware Bearing 16000 Series 16004 Size 20 Mm Id 42 Mm Od 8 Mm Depth
+name_no_class: Bearing 16000 Series 16004 Size 20 Mm Id 42 Mm Od 8 Mm Depth
+name_no_color: 20 Mm Id 42 Mm Od 8 Mm Depth
+name_no_size: 16004 Size 20 Mm Id 42 Mm Od 8 Mm Depth
+name_no_type: 16000 Series 16004 Size 20 Mm Id 42 Mm Od 8 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
+oomp_word: santa envelope six
+oomp_word_emoji: ':santa: :envelope: :six:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':envelope:'
+- ':six:'
+oomp_word_list:
+- santa
+- envelope
+- six
+part_number: ''
+size: 16000_series
+type: bearing

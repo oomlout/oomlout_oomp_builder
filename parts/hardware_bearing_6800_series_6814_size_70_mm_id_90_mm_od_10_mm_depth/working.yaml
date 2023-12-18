@@ -1,0 +1,40 @@
+classification: hardware
+color: 6814_size
+description_extra: ''
+description_main: 70_mm_id_90_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+id: hardware_bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+id_no_class: bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+id_no_color: 70_mm_id_90_mm_od_10_mm_depth
+id_no_size: 6814_size_70_mm_id_90_mm_od_10_mm_depth
+id_no_type: 6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+manufacturer: ''
+md5: 1424c2d83a5558c10259a5b115ed5fca
+md5_10: 1424c2d83a
+md5_10_upper: 1424C2D83A
+md5_5: 1424c
+md5_5_upper: 1424C
+md5_6: 1424c2
+md5_6_alpha: sama
+md5_6_alpha_upper: SAMA
+md5_6_upper: 1424C2
+name: Hardware Bearing 6800 Series 6814 Size 70 Mm Id 90 Mm Od 10 Mm Depth
+name_no_class: Bearing 6800 Series 6814 Size 70 Mm Id 90 Mm Od 10 Mm Depth
+name_no_color: 70 Mm Id 90 Mm Od 10 Mm Depth
+name_no_size: 6814 Size 70 Mm Id 90 Mm Od 10 Mm Depth
+name_no_type: 6800 Series 6814 Size 70 Mm Id 90 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
+oomp_word: fire droplet birthday
+oomp_word_emoji: ':fire: :droplet: :birthday:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':droplet:'
+- ':birthday:'
+oomp_word_list:
+- fire
+- droplet
+- birthday
+part_number: ''
+size: 6800_series
+type: bearing

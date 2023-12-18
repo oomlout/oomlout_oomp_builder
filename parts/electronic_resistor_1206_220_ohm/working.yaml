@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 220_ohm
+directory: parts/electronic_resistor_1206_220_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_220_ohm
+id: electronic_resistor_1206_220_ohm
+id_no_class: resistor_1206_220_ohm
+id_no_color: 220ohm
+id_no_size: 220_ohm
+id_no_type: 1206_220_ohm
+manufacturer: ''
+md5: 459cf37186b49eff5d13533320e573bc
+md5_10: 459cf37186
+md5_10_upper: 459CF37186
+md5_5: 459cf
+md5_5_upper: 459CF
+md5_6: 459cf3
+md5_6_alpha: 2ps6r
+md5_6_alpha_upper: 2PS6R
+md5_6_upper: 459CF3
+name: Electronic Resistor 1206 220 Ohm
+name_no_class: Resistor 1206 220 Ohm
+name_no_color: 220Ohm
+name_no_size: 220 Ohm
+name_no_type: 1206 220 Ohm
+oomp_key: oomp_electronic_resistor_1206_220_ohm
+oomp_word: snake spades two
+oomp_word_emoji: ':snake: :spades: :two:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':spades:'
+- ':two:'
+oomp_word_list:
+- snake
+- spades
+- two
+part_number: ''
+size: '1206'
+type: resistor

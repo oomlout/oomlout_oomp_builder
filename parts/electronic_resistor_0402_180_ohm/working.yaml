@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 180_ohm
+directory: parts/electronic_resistor_0402_180_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_180_ohm
+id: electronic_resistor_0402_180_ohm
+id_no_class: resistor_0402_180_ohm
+id_no_color: 180ohm
+id_no_size: 180_ohm
+id_no_type: 0402_180_ohm
+manufacturer: ''
+md5: 7cf0fca36f3b2c551b3e35dc6376628a
+md5_10: 7cf0fca36f
+md5_10_upper: 7CF0FCA36F
+md5_5: 7cf0f
+md5_5_upper: 7CF0F
+md5_6: 7cf0fc
+md5_6_alpha: 4vi0s
+md5_6_alpha_upper: 4VI0S
+md5_6_upper: 7CF0FC
+name: Electronic Resistor 0402 180 Ohm
+name_no_class: Resistor 0402 180 Ohm
+name_no_color: 180Ohm
+name_no_size: 180 Ohm
+name_no_type: 0402 180 Ohm
+oomp_key: oomp_electronic_resistor_0402_180_ohm
+oomp_word: tv train up
+oomp_word_emoji: ':tv: :train: :up:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':train:'
+- ':up:'
+oomp_word_list:
+- tv
+- train
+- up
+part_number: ''
+size: '0402'
+type: resistor

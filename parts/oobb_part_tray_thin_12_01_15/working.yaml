@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_15'
+directory: parts/oobb_part_tray_thin_12_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_15
+id: oobb_part_tray_thin_12_01_15
+id_no_class: part_tray_thin_12_01_15
+id_no_color: '120115'
+id_no_size: '12_01_15'
+id_no_type: tray_thin_12_01_15
+manufacturer: ''
+md5: 6934ea95089477119eda0b3812b872ce
+md5_10: 6934ea9508
+md5_10_upper: 6934EA9508
+md5_5: 6934e
+md5_5_upper: 6934E
+md5_6: 6934ea
+md5_6_alpha: 43s2y
+md5_6_alpha_upper: 43S2Y
+md5_6_upper: 6934EA
+name: Oobb Part Tray Thin 12 01 15
+name_no_class: Part Tray Thin 12 01 15
+name_no_color: '120115'
+name_no_size: 12 01 15
+name_no_type: Tray Thin 12 01 15
+oomp_key: oomp_oobb_part_tray_thin_12_01_15
+oomp_word: cactus mouse tractor
+oomp_word_emoji: ':cactus: :mouse: :tractor:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':mouse:'
+- ':tractor:'
+oomp_word_list:
+- cactus
+- mouse
+- tractor
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_15'
+directory: parts/oobb_part_tray_thin_10_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_01_15
+id: oobb_part_tray_thin_10_01_15
+id_no_class: part_tray_thin_10_01_15
+id_no_color: '100115'
+id_no_size: '10_01_15'
+id_no_type: tray_thin_10_01_15
+manufacturer: ''
+md5: 2333fc028ca18638cb31640864b84218
+md5_10: 2333fc028c
+md5_10_upper: 2333FC028C
+md5_5: 2333f
+md5_5_upper: 2333F
+md5_6: 2333fc
+md5_6_alpha: 1dg58
+md5_6_alpha_upper: 1DG58
+md5_6_upper: 2333FC
+name: Oobb Part Tray Thin 10 01 15
+name_no_class: Part Tray Thin 10 01 15
+name_no_color: '100115'
+name_no_size: 10 01 15
+name_no_type: Tray Thin 10 01 15
+oomp_key: oomp_oobb_part_tray_thin_10_01_15
+oomp_word: kiss dog up
+oomp_word_emoji: ':kiss: :dog: :up:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':dog:'
+- ':up:'
+oomp_word_list:
+- kiss
+- dog
+- up
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_06_ex_motor_stepper_nema_17_flat
+directory: parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat
+id: oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat
+id_no_class: part_holder_05_03_06_ex_motor_stepper_nema_17_flat
+id_no_color: 050306exmotorsteppernema17flat
+id_no_size: 05_03_06_ex_motor_stepper_nema_17_flat
+id_no_type: holder_05_03_06_ex_motor_stepper_nema_17_flat
+manufacturer: ''
+md5: ae820559dc31ea705e996e5622c18c02
+md5_10: ae820559dc
+md5_10_upper: AE820559DC
+md5_5: ae820
+md5_5_upper: AE820
+md5_6: ae8205
+md5_6_alpha: 6t4hx
+md5_6_alpha_upper: 6T4HX
+md5_6_upper: AE8205
+name: Oobb Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat
+name_no_class: Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat
+name_no_color: 050306Exmotorsteppernema17Flat
+name_no_size: 05 03 06 Ex Motor Stepper Nema 17 Flat
+name_no_type: Holder 05 03 06 Ex Motor Stepper Nema 17 Flat
+oomp_key: oomp_oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat
+oomp_word: jeans radio kissing
+oomp_word_emoji: ':jeans: :radio: :kissing:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':radio:'
+- ':kissing:'
+oomp_word_list:
+- jeans
+- radio
+- kissing
+part_number: ''
+size: holder
+type: part

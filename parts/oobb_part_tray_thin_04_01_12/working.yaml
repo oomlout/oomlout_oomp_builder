@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_12'
+directory: parts/oobb_part_tray_thin_04_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_01_12
+id: oobb_part_tray_thin_04_01_12
+id_no_class: part_tray_thin_04_01_12
+id_no_color: '040112'
+id_no_size: '04_01_12'
+id_no_type: tray_thin_04_01_12
+manufacturer: ''
+md5: 7cd43b13262ea368d7f9e0426098eb41
+md5_10: 7cd43b1326
+md5_10_upper: 7CD43B1326
+md5_5: 7cd43
+md5_5_upper: 7CD43
+md5_6: 7cd43b
+md5_6_alpha: 4vccb
+md5_6_alpha_upper: 4VCCB
+md5_6_upper: 7CD43B
+name: Oobb Part Tray Thin 04 01 12
+name_no_class: Part Tray Thin 04 01 12
+name_no_color: '040112'
+name_no_size: 04 01 12
+name_no_type: Tray Thin 04 01 12
+oomp_key: oomp_oobb_part_tray_thin_04_01_12
+oomp_word: tv corn bear
+oomp_word_emoji: ':tv: :corn: :bear:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':corn:'
+- ':bear:'
+oomp_word_list:
+- tv
+- corn
+- bear
+part_number: ''
+size: tray_thin
+type: part

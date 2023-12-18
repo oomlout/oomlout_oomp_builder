@@ -1,0 +1,40 @@
+classification: hardware
+color: 6200_size
+description_extra: ''
+description_main: 10_mm_id_30_mm_od_9_mm_depth
+directory: parts/hardware_bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+id: hardware_bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+id_no_class: bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+id_no_color: 10_mm_id_30_mm_od_9_mm_depth
+id_no_size: 6200_size_10_mm_id_30_mm_od_9_mm_depth
+id_no_type: 6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+manufacturer: ''
+md5: 0f3db06b0b9dbf70f15345a1cb750ad7
+md5_10: 0f3db06b0b
+md5_10_upper: 0F3DB06B0B
+md5_5: 0f3db
+md5_5_upper: 0F3DB
+md5_6: 0f3db0
+md5_6_alpha: lepc
+md5_6_alpha_upper: LEPC
+md5_6_upper: 0F3DB0
+name: Hardware Bearing 6200 Series 6200 Size 10 Mm Id 30 Mm Od 9 Mm Depth
+name_no_class: Bearing 6200 Series 6200 Size 10 Mm Id 30 Mm Od 9 Mm Depth
+name_no_color: 10 Mm Id 30 Mm Od 9 Mm Depth
+name_no_size: 6200 Size 10 Mm Id 30 Mm Od 9 Mm Depth
+name_no_type: 6200 Series 6200 Size 10 Mm Id 30 Mm Od 9 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
+oomp_word: sparkles cow crown
+oomp_word_emoji: ':sparkles: :cow: :crown:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':cow:'
+- ':crown:'
+oomp_word_list:
+- sparkles
+- cow
+- crown
+part_number: ''
+size: 6200_series
+type: bearing

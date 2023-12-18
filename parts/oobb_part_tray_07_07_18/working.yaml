@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_07_18
+directory: parts/oobb_part_tray_07_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_07_18
+id: oobb_part_tray_07_07_18
+id_no_class: part_tray_07_07_18
+id_no_color: 070718
+id_no_size: 07_07_18
+id_no_type: tray_07_07_18
+manufacturer: ''
+md5: 0a78aaac5c12f1fea0158f46c7fa31f6
+md5_10: 0a78aaac5c
+md5_10_upper: 0A78AAAC5C
+md5_5: 0a78a
+md5_5_upper: 0A78A
+md5_6: 0a78aa
+md5_6_alpha: epii
+md5_6_alpha_upper: EPII
+md5_6_upper: 0A78AA
+name: Oobb Part Tray 07 07 18
+name_no_class: Part Tray 07 07 18
+name_no_color: 070718
+name_no_size: 07 07 18
+name_no_type: Tray 07 07 18
+oomp_key: oomp_oobb_part_tray_07_07_18
+oomp_word: sleepy bell lipstick
+oomp_word_emoji: ':sleepy: :bell: :lipstick:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':bell:'
+- ':lipstick:'
+oomp_word_list:
+- sleepy
+- bell
+- lipstick
+part_number: ''
+size: tray
+type: part

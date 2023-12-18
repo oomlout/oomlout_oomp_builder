@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_01_ex_r
+directory: parts/oobb_part_bunting_alphabet_05_01_ex_r
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01_ex_r
+id: oobb_part_bunting_alphabet_05_01_ex_r
+id_no_class: part_bunting_alphabet_05_01_ex_r
+id_no_color: 0501exr
+id_no_size: 05_01_ex_r
+id_no_type: bunting_alphabet_05_01_ex_r
+manufacturer: ''
+md5: 344490ac67fc9ee560f9e7daaa0f10ae
+md5_10: 344490ac67
+md5_10_upper: 344490AC67
+md5_5: '34449'
+md5_5_upper: '34449'
+md5_6: '344490'
+md5_6_alpha: 21f2o
+md5_6_alpha_upper: 21F2O
+md5_6_upper: '344490'
+name: Oobb Part Bunting Alphabet 05 01 Ex R
+name_no_class: Part Bunting Alphabet 05 01 Ex R
+name_no_color: 0501Exr
+name_no_size: 05 01 Ex R
+name_no_type: Bunting Alphabet 05 01 Ex R
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01_ex_r
+oomp_word: mouse panda_face scissors
+oomp_word_emoji: ':mouse: :panda_face: :scissors:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':panda_face:'
+- ':scissors:'
+oomp_word_list:
+- mouse
+- panda_face
+- scissors
+part_number: ''
+size: bunting_alphabet
+type: part

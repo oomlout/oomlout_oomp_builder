@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_02_15'
+directory: parts/oobb_part_tray_thin_06_02_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_02_15
+id: oobb_part_tray_thin_06_02_15
+id_no_class: part_tray_thin_06_02_15
+id_no_color: '060215'
+id_no_size: '06_02_15'
+id_no_type: tray_thin_06_02_15
+manufacturer: ''
+md5: 1e7d1c57975019bcedb0114497ed3534
+md5_10: 1e7d1c5797
+md5_10_upper: 1E7D1C5797
+md5_5: 1e7d1
+md5_5_upper: 1E7D1
+md5_6: 1e7d1c
+md5_6_alpha: 16tr0
+md5_6_alpha_upper: 16TR0
+md5_6_upper: 1E7D1C
+name: Oobb Part Tray Thin 06 02 15
+name_no_class: Part Tray Thin 06 02 15
+name_no_color: '060215'
+name_no_size: 06 02 15
+name_no_type: Tray Thin 06 02 15
+oomp_key: oomp_oobb_part_tray_thin_06_02_15
+oomp_word: angel phone dancer
+oomp_word_emoji: ':angel: :phone: :dancer:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':phone:'
+- ':dancer:'
+oomp_word_list:
+- angel
+- phone
+- dancer
+part_number: ''
+size: tray_thin
+type: part

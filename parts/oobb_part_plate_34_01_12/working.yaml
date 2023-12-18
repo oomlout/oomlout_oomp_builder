@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '34_01_12'
+directory: parts/oobb_part_plate_34_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_34_01_12
+id: oobb_part_plate_34_01_12
+id_no_class: part_plate_34_01_12
+id_no_color: '340112'
+id_no_size: '34_01_12'
+id_no_type: plate_34_01_12
+manufacturer: ''
+md5: 6b1abf55d932d8d1d43ac0f63bcd5638
+md5_10: 6b1abf55d9
+md5_10_upper: 6B1ABF55D9
+md5_5: 6b1ab
+md5_5_upper: 6B1AB
+md5_6: 6b1abf
+md5_6_alpha: 46g1r
+md5_6_alpha_upper: 46G1R
+md5_6_upper: 6B1ABF
+name: Oobb Part Plate 34 01 12
+name_no_class: Part Plate 34 01 12
+name_no_color: '340112'
+name_no_size: 34 01 12
+name_no_type: Plate 34 01 12
+oomp_key: oomp_oobb_part_plate_34_01_12
+oomp_word: chestnut clap egg
+oomp_word_emoji: ':chestnut: :clap: :egg:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':clap:'
+- ':egg:'
+oomp_word_list:
+- chestnut
+- clap
+- egg
+part_number: ''
+size: plate
+type: part

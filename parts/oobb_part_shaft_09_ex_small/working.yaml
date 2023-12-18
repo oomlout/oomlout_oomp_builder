@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_ex_small
+directory: parts/oobb_part_shaft_09_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09_ex_small
+id: oobb_part_shaft_09_ex_small
+id_no_class: part_shaft_09_ex_small
+id_no_color: 09exsmall
+id_no_size: 09_ex_small
+id_no_type: shaft_09_ex_small
+manufacturer: ''
+md5: 222ead51ad5ba05523a95c0744d8b96e
+md5_10: 222ead51ad
+md5_10_upper: 222EAD51AD
+md5_5: 222ea
+md5_5_upper: 222EA
+md5_6: 222ead
+md5_6_alpha: 1c0j1
+md5_6_alpha_upper: 1C0J1
+md5_6_upper: 222EAD
+name: Oobb Part Shaft 09 Ex Small
+name_no_class: Part Shaft 09 Ex Small
+name_no_color: 09Exsmall
+name_no_size: 09 Ex Small
+name_no_type: Shaft 09 Ex Small
+oomp_key: oomp_oobb_part_shaft_09_ex_small
+oomp_word: lips zap dress
+oomp_word_emoji: ':lips: :zap: :dress:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':zap:'
+- ':dress:'
+oomp_word_list:
+- lips
+- zap
+- dress
+part_number: ''
+size: shaft
+type: part

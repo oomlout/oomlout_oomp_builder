@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_18
+directory: parts/oobb_part_tray_vertical_08_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_01_18
+id: oobb_part_tray_vertical_08_01_18
+id_no_class: part_tray_vertical_08_01_18
+id_no_color: 080118
+id_no_size: 08_01_18
+id_no_type: tray_vertical_08_01_18
+manufacturer: ''
+md5: 2dc75ce9e1a72193f34b373a95f44d13
+md5_10: 2dc75ce9e1
+md5_10_upper: 2DC75CE9E1
+md5_5: 2dc75
+md5_5_upper: 2DC75
+md5_6: 2dc75c
+md5_6_alpha: 1saxo
+md5_6_alpha_upper: 1SAXO
+md5_6_upper: 2DC75C
+name: Oobb Part Tray Vertical 08 01 18
+name_no_class: Part Tray Vertical 08 01 18
+name_no_color: 080118
+name_no_size: 08 01 18
+name_no_type: Tray Vertical 08 01 18
+oomp_key: oomp_oobb_part_tray_vertical_08_01_18
+oomp_word: snowman honey_pot ox
+oomp_word_emoji: ':snowman: :honey_pot: :ox:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':honey_pot:'
+- ':ox:'
+oomp_word_list:
+- snowman
+- honey_pot
+- ox
+part_number: ''
+size: tray_vertical
+type: part

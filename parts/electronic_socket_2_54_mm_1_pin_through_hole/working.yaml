@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 1_pin
+directory: parts/electronic_socket_2_54_mm_1_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_1_pin_through_hole
+id: electronic_socket_2_54_mm_1_pin_through_hole
+id_no_class: socket_2_54_mm_1_pin_through_hole
+id_no_color: 1pinthroughhole
+id_no_size: 1_pin_through_hole
+id_no_type: 2_54_mm_1_pin_through_hole
+manufacturer: ''
+md5: ff8ea2e040322a4aa97c204d54636cf0
+md5_10: ff8ea2e040
+md5_10_upper: FF8EA2E040
+md5_5: ff8ea
+md5_5_upper: FF8EA
+md5_6: ff8ea2
+md5_6_alpha: 9yyzm
+md5_6_alpha_upper: 9YYZM
+md5_6_upper: FF8EA2
+name: Electronic Socket 2 54 Mm 1 Pin Through Hole
+name_no_class: Socket 2 54 Mm 1 Pin Through Hole
+name_no_color: 1Pinthroughhole
+name_no_size: 1 Pin Through Hole
+name_no_type: 2 54 Mm 1 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_1_pin_through_hole
+oomp_word: trident clipboard violin
+oomp_word_emoji: ':trident: :clipboard: :violin:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':clipboard:'
+- ':violin:'
+oomp_word_list:
+- trident
+- clipboard
+- violin
+part_number: ''
+size: 2_54_mm
+type: socket

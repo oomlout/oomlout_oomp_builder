@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_17_ex_tool_tdpb_drill_cleaner_m3
+directory: parts/oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+id: oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+id_no_class: part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+id_no_color: 030517extooltdpbdrillcleanerm3
+id_no_size: 03_05_17_ex_tool_tdpb_drill_cleaner_m3
+id_no_type: tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+manufacturer: ''
+md5: 58a9dfd11c7c90f50b8083aabd4e9a61
+md5_10: 58a9dfd11c
+md5_10_upper: 58A9DFD11C
+md5_5: 58a9d
+md5_5_upper: 58A9D
+md5_6: 58a9df
+md5_6_alpha: 3gjj3
+md5_6_alpha_upper: 3GJJ3
+md5_6_upper: 58A9DF
+name: Oobb Part Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M3
+name_no_class: Part Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M3
+name_no_color: 030517Extooltdpbdrillcleanerm3
+name_no_size: 03 05 17 Ex Tool Tdpb Drill Cleaner M3
+name_no_type: Tool Holder Vertical 03 05 17 Ex Tool Tdpb Drill Cleaner M3
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_17_ex_tool_tdpb_drill_cleaner_m3
+oomp_word: water_buffalo sandal fountain
+oomp_word_emoji: ':water_buffalo: :sandal: :fountain:'
+oomp_word_emoji_list:
+- ':water_buffalo:'
+- ':sandal:'
+- ':fountain:'
+oomp_word_list:
+- water_buffalo
+- sandal
+- fountain
+part_number: ''
+size: tool_holder_vertical
+type: part

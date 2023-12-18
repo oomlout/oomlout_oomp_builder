@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_12_09
+directory: parts/oobb_part_tray_04_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_09
+id: oobb_part_tray_04_12_09
+id_no_class: part_tray_04_12_09
+id_no_color: 041209
+id_no_size: 04_12_09
+id_no_type: tray_04_12_09
+manufacturer: ''
+md5: 7f670605a9d657c1013e81e89afca238
+md5_10: 7f670605a9
+md5_10_upper: 7F670605A9
+md5_5: 7f670
+md5_5_upper: 7F670
+md5_6: 7f6706
+md5_6_alpha: 4yyh2
+md5_6_alpha_upper: 4YYH2
+md5_6_upper: 7F6706
+name: Oobb Part Tray 04 12 09
+name_no_class: Part Tray 04 12 09
+name_no_color: 041209
+name_no_size: 04 12 09
+name_no_type: Tray 04 12 09
+oomp_key: oomp_oobb_part_tray_04_12_09
+oomp_word: speaker herb sleeping
+oomp_word_emoji: ':speaker: :herb: :sleeping:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':herb:'
+- ':sleeping:'
+oomp_word_list:
+- speaker
+- herb
+- sleeping
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_10_12'
+directory: parts/oobb_part_tray_04_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_12
+id: oobb_part_tray_04_10_12
+id_no_class: part_tray_04_10_12
+id_no_color: '041012'
+id_no_size: '04_10_12'
+id_no_type: tray_04_10_12
+manufacturer: ''
+md5: 0c4707a3935fef3ce12676516e1d290d
+md5_10: 0c4707a393
+md5_10_upper: 0C4707A393
+md5_5: 0c470
+md5_5_upper: 0C470
+md5_6: 0c4707
+md5_6_alpha: h8uf
+md5_6_alpha_upper: H8UF
+md5_6_upper: 0C4707
+name: Oobb Part Tray 04 10 12
+name_no_class: Part Tray 04 10 12
+name_no_color: '041012'
+name_no_size: 04 10 12
+name_no_type: Tray 04 10 12
+oomp_key: oomp_oobb_part_tray_04_10_12
+oomp_word: alien baby_chick cry
+oomp_word_emoji: ':alien: :baby_chick: :cry:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':baby_chick:'
+- ':cry:'
+oomp_word_list:
+- alien
+- baby_chick
+- cry
+part_number: ''
+size: tray
+type: part

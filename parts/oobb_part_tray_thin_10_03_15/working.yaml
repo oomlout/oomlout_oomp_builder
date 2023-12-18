@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_03_15'
+directory: parts/oobb_part_tray_thin_10_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_03_15
+id: oobb_part_tray_thin_10_03_15
+id_no_class: part_tray_thin_10_03_15
+id_no_color: '100315'
+id_no_size: '10_03_15'
+id_no_type: tray_thin_10_03_15
+manufacturer: ''
+md5: e057287d8f2343a99ec54986edde7556
+md5_10: e057287d8f
+md5_10_upper: E057287D8F
+md5_5: e0572
+md5_5_upper: E0572
+md5_6: e05728
+md5_6_alpha: 8r4fc
+md5_6_alpha_upper: 8R4FC
+md5_6_upper: E05728
+name: Oobb Part Tray Thin 10 03 15
+name_no_class: Part Tray Thin 10 03 15
+name_no_color: '100315'
+name_no_size: 10 03 15
+name_no_type: Tray Thin 10 03 15
+oomp_key: oomp_oobb_part_tray_thin_10_03_15
+oomp_word: ship rat tongue
+oomp_word_emoji: ':ship: :rat: :tongue:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':rat:'
+- ':tongue:'
+oomp_word_list:
+- ship
+- rat
+- tongue
+part_number: ''
+size: tray_thin
+type: part

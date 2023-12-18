@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_01_09'
+directory: parts/oobb_part_plate_20_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_09
+id: oobb_part_plate_20_01_09
+id_no_class: part_plate_20_01_09
+id_no_color: '200109'
+id_no_size: '20_01_09'
+id_no_type: plate_20_01_09
+manufacturer: ''
+md5: e85f42eb4e2517a3172b76930b78cae0
+md5_10: e85f42eb4e
+md5_10_upper: E85F42EB4E
+md5_5: e85f4
+md5_5_upper: E85F4
+md5_6: e85f42
+md5_6_alpha: 92eki
+md5_6_alpha_upper: 92EKI
+md5_6_upper: E85F42
+name: Oobb Part Plate 20 01 09
+name_no_class: Part Plate 20 01 09
+name_no_color: '200109'
+name_no_size: 20 01 09
+name_no_type: Plate 20 01 09
+oomp_key: oomp_oobb_part_plate_20_01_09
+oomp_word: tram leopard sheep
+oomp_word_emoji: ':tram: :leopard: :sheep:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':leopard:'
+- ':sheep:'
+oomp_word_list:
+- tram
+- leopard
+- sheep
+part_number: ''
+size: plate
+type: part

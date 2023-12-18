@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_01_21'
+directory: parts/oobb_part_plate_20_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_21
+id: oobb_part_plate_20_01_21
+id_no_class: part_plate_20_01_21
+id_no_color: '200121'
+id_no_size: '20_01_21'
+id_no_type: plate_20_01_21
+manufacturer: ''
+md5: 0721c99c626d679e3f2095a796dfc598
+md5_10: 0721c99c62
+md5_10_upper: 0721C99C62
+md5_5: 0721c
+md5_5_upper: 0721C
+md5_6: 0721c9
+md5_6_alpha: a0nd
+md5_6_alpha_upper: A0ND
+md5_6_upper: 0721C9
+name: Oobb Part Plate 20 01 21
+name_no_class: Part Plate 20 01 21
+name_no_color: '200121'
+name_no_size: 20 01 21
+name_no_type: Plate 20 01 21
+oomp_key: oomp_oobb_part_plate_20_01_21
+oomp_word: cry feet lemon
+oomp_word_emoji: ':cry: :feet: :lemon:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':feet:'
+- ':lemon:'
+oomp_word_list:
+- cry
+- feet
+- lemon
+part_number: ''
+size: plate
+type: part

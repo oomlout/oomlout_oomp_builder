@@ -1,0 +1,40 @@
+classification: packaging
+color: ''
+description_extra: ''
+description_main: heavy_duty
+directory: parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
+id: packaging_takeaway_container_circle_60_ml_heavy_duty_satco
+id_no_class: takeaway_container_circle_60_ml_heavy_duty_satco
+id_no_color: heavydutysatco
+id_no_size: heavy_duty_satco
+id_no_type: 60_ml_heavy_duty_satco
+manufacturer: satco
+md5: 6c0d7b99ab71db88e46f9395f6c6de95
+md5_10: 6c0d7b99ab
+md5_10_upper: 6C0D7B99AB
+md5_5: 6c0d7
+md5_5_upper: 6C0D7
+md5_6: 6c0d7b
+md5_6_alpha: 47rzv
+md5_6_alpha_upper: 47RZV
+md5_6_upper: 6C0D7B
+name: Packaging Takeaway Container Circle 60 Ml Heavy Duty Satco
+name_no_class: Takeaway Container Circle 60 Ml Heavy Duty Satco
+name_no_color: Heavydutysatco
+name_no_size: Heavy Duty Satco
+name_no_type: 60 Ml Heavy Duty Satco
+oomp_key: oomp_packaging_takeaway_container_circle_60_ml_heavy_duty_satco
+oomp_word: blossom heart computer
+oomp_word_emoji: ':blossom: :heart: :computer:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':heart:'
+- ':computer:'
+oomp_word_list:
+- blossom
+- heart
+- computer
+part_number: ''
+size: 60_ml
+type: takeaway_container_circle

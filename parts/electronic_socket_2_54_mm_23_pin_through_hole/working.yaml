@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 23_pin
+directory: parts/electronic_socket_2_54_mm_23_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_23_pin_through_hole
+id: electronic_socket_2_54_mm_23_pin_through_hole
+id_no_class: socket_2_54_mm_23_pin_through_hole
+id_no_color: 23pinthroughhole
+id_no_size: 23_pin_through_hole
+id_no_type: 2_54_mm_23_pin_through_hole
+manufacturer: ''
+md5: fe7c6f2572bce1250f85177d3deb9f26
+md5_10: fe7c6f2572
+md5_10_upper: FE7C6F2572
+md5_5: fe7c6
+md5_5_upper: FE7C6
+md5_6: fe7c6f
+md5_6_alpha: 9xgtr
+md5_6_alpha_upper: 9XGTR
+md5_6_upper: FE7C6F
+name: Electronic Socket 2 54 Mm 23 Pin Through Hole
+name_no_class: Socket 2 54 Mm 23 Pin Through Hole
+name_no_color: 23Pinthroughhole
+name_no_size: 23 Pin Through Hole
+name_no_type: 2 54 Mm 23 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_23_pin_through_hole
+oomp_word: recycle tv moon
+oomp_word_emoji: ':recycle: :tv: :moon:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':tv:'
+- ':moon:'
+oomp_word_list:
+- recycle
+- tv
+- moon
+part_number: ''
+size: 2_54_mm
+type: socket

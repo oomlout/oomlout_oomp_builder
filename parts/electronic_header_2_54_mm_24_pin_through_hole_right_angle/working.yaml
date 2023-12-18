@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 24_pin
+directory: parts/electronic_header_2_54_mm_24_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_24_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_24_pin_through_hole_right_angle
+id_no_color: 24pinthroughholerightangle
+id_no_size: 24_pin_through_hole_right_angle
+id_no_type: 2_54_mm_24_pin_through_hole_right_angle
+manufacturer: ''
+md5: 208a06b7e26e554ef22a9dc1ca0ec4f4
+md5_10: 208a06b7e2
+md5_10_upper: 208A06B7E2
+md5_5: 208a0
+md5_5_upper: 208A0
+md5_6: 208a06
+md5_6_alpha: 19pfq
+md5_6_alpha_upper: 19PFQ
+md5_6_upper: 208A06
+name: Electronic Header 2 54 Mm 24 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 24 Pin Through Hole Right Angle
+name_no_color: 24Pinthroughholerightangle
+name_no_size: 24 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 24 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_24_pin_through_hole_right_angle
+oomp_word: skull envelope sleeping
+oomp_word_emoji: ':skull: :envelope: :sleeping:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':envelope:'
+- ':sleeping:'
+oomp_word_list:
+- skull
+- envelope
+- sleeping
+part_number: ''
+size: 2_54_mm
+type: header

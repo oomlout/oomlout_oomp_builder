@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_10_30
+directory: parts/oobb_part_tray_08_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_10_30
+id: oobb_part_tray_08_10_30
+id_no_class: part_tray_08_10_30
+id_no_color: 081030
+id_no_size: 08_10_30
+id_no_type: tray_08_10_30
+manufacturer: ''
+md5: 03e8af38ee8890d0e8bf6063263e6a83
+md5_10: 03e8af38ee
+md5_10_upper: 03E8AF38EE
+md5_5: 03e8a
+md5_5_upper: 03E8A
+md5_6: 03e8af
+md5_6_alpha: 5hnz
+md5_6_alpha_upper: 5HNZ
+md5_6_upper: 03E8AF
+name: Oobb Part Tray 08 10 30
+name_no_class: Part Tray 08 10 30
+name_no_color: 081030
+name_no_size: 08 10 30
+name_no_type: Tray 08 10 30
+oomp_key: oomp_oobb_part_tray_08_10_30
+oomp_word: grin tram tophat
+oomp_word_emoji: ':grin: :tram: :tophat:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':tram:'
+- ':tophat:'
+oomp_word_list:
+- grin
+- tram
+- tophat
+part_number: ''
+size: tray
+type: part

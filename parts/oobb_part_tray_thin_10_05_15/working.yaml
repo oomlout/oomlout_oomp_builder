@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_05_15'
+directory: parts/oobb_part_tray_thin_10_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_05_15
+id: oobb_part_tray_thin_10_05_15
+id_no_class: part_tray_thin_10_05_15
+id_no_color: '100515'
+id_no_size: '10_05_15'
+id_no_type: tray_thin_10_05_15
+manufacturer: ''
+md5: 1fba49643a3278859d470b3c539a752b
+md5_10: 1fba49643a
+md5_10_upper: 1FBA49643A
+md5_5: 1fba4
+md5_5_upper: 1FBA4
+md5_6: 1fba49
+md5_6_alpha: 18keh
+md5_6_alpha_upper: 18KEH
+md5_6_upper: 1FBA49
+name: Oobb Part Tray Thin 10 05 15
+name_no_class: Part Tray Thin 10 05 15
+name_no_color: '100515'
+name_no_size: 10 05 15
+name_no_type: Tray Thin 10 05 15
+oomp_key: oomp_oobb_part_tray_thin_10_05_15
+oomp_word: princess spaghetti hatching_chick
+oomp_word_emoji: ':princess: :spaghetti: :hatching_chick:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':spaghetti:'
+- ':hatching_chick:'
+oomp_word_list:
+- princess
+- spaghetti
+- hatching_chick
+part_number: ''
+size: tray_thin
+type: part

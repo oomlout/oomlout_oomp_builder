@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_30
+directory: parts/oobb_part_tray_vertical_2d5_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2d5_02_30
+id: oobb_part_tray_vertical_2d5_02_30
+id_no_class: part_tray_vertical_2d5_02_30
+id_no_color: 2d50230
+id_no_size: 2d5_02_30
+id_no_type: tray_vertical_2d5_02_30
+manufacturer: ''
+md5: ae5595c3463dfacf564624f6e4445720
+md5_10: ae5595c346
+md5_10_upper: AE5595C346
+md5_5: ae559
+md5_5_upper: AE559
+md5_6: ae5595
+md5_6_alpha: 6svpx
+md5_6_alpha_upper: 6SVPX
+md5_6_upper: AE5595
+name: Oobb Part Tray Vertical 2D5 02 30
+name_no_class: Part Tray Vertical 2D5 02 30
+name_no_color: 2D50230
+name_no_size: 2D5 02 30
+name_no_type: Tray Vertical 2D5 02 30
+oomp_key: oomp_oobb_part_tray_vertical_2d5_02_30
+oomp_word: jeans dolphin telescope
+oomp_word_emoji: ':jeans: :dolphin: :telescope:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':dolphin:'
+- ':telescope:'
+oomp_word_list:
+- jeans
+- dolphin
+- telescope
+part_number: ''
+size: tray_vertical
+type: part

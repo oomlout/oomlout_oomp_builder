@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 5_pin
+directory: parts/electronic_header_2_54_mm_5_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_through_hole_long
+id: electronic_header_2_54_mm_5_pin_through_hole_long
+id_no_class: header_2_54_mm_5_pin_through_hole_long
+id_no_color: 5pinthroughholelong
+id_no_size: 5_pin_through_hole_long
+id_no_type: 2_54_mm_5_pin_through_hole_long
+manufacturer: ''
+md5: a438c8772929cce2536cbaebd626d2d0
+md5_10: a438c87729
+md5_10_upper: A438C87729
+md5_5: a438c
+md5_5_upper: A438C
+md5_6: a438c8
+md5_6_alpha: 6eoco
+md5_6_alpha_upper: 6EOCO
+md5_6_upper: A438C8
+name: Electronic Header 2 54 Mm 5 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 5 Pin Through Hole Long
+name_no_color: 5Pinthroughholelong
+name_no_size: 5 Pin Through Hole Long
+name_no_type: 2 54 Mm 5 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_5_pin_through_hole_long
+oomp_word: book frog apple
+oomp_word_emoji: ':book: :frog: :apple:'
+oomp_word_emoji_list:
+- ':book:'
+- ':frog:'
+- ':apple:'
+oomp_word_list:
+- book
+- frog
+- apple
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_18'
+directory: parts/oobb_part_tray_thin_10_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_09_18
+id: oobb_part_tray_thin_10_09_18
+id_no_class: part_tray_thin_10_09_18
+id_no_color: '100918'
+id_no_size: '10_09_18'
+id_no_type: tray_thin_10_09_18
+manufacturer: ''
+md5: afc4dfb161108ef9dd2f357faa442074
+md5_10: afc4dfb161
+md5_10_upper: AFC4DFB161
+md5_5: afc4d
+md5_5_upper: AFC4D
+md5_6: afc4df
+md5_6_alpha: 6uw9r
+md5_6_alpha_upper: 6UW9R
+md5_6_upper: AFC4DF
+name: Oobb Part Tray Thin 10 09 18
+name_no_class: Part Tray Thin 10 09 18
+name_no_color: '100918'
+name_no_size: 10 09 18
+name_no_type: Tray Thin 10 09 18
+oomp_key: oomp_oobb_part_tray_thin_10_09_18
+oomp_word: tophat cookie fountain
+oomp_word_emoji: ':tophat: :cookie: :fountain:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':cookie:'
+- ':fountain:'
+oomp_word_list:
+- tophat
+- cookie
+- fountain
+part_number: ''
+size: tray_thin
+type: part

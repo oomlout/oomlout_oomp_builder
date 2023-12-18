@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_d
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_d
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_d
+id: oobb_part_bunting_alphabet_03_01_ex_d
+id_no_class: part_bunting_alphabet_03_01_ex_d
+id_no_color: 0301exd
+id_no_size: 03_01_ex_d
+id_no_type: bunting_alphabet_03_01_ex_d
+manufacturer: ''
+md5: 1431b44ee4601354a677964ba47c3f5c
+md5_10: 1431b44ee4
+md5_10_upper: 1431B44EE4
+md5_5: 1431b
+md5_5_upper: 1431B
+md5_6: 1431b4
+md5_6_alpha: sd6c
+md5_6_alpha_upper: SD6C
+md5_6_upper: 1431B4
+name: Oobb Part Bunting Alphabet 03 01 Ex D
+name_no_class: Part Bunting Alphabet 03 01 Ex D
+name_no_color: 0301Exd
+name_no_size: 03 01 Ex D
+name_no_type: Bunting Alphabet 03 01 Ex D
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_d
+oomp_word: fire ocean coffee
+oomp_word_emoji: ':fire: :ocean: :coffee:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':ocean:'
+- ':coffee:'
+oomp_word_list:
+- fire
+- ocean
+- coffee
+part_number: ''
+size: bunting_alphabet
+type: part

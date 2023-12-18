@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x11_22_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+id_no_color: 2x1122pinsurfacemountrightangle
+id_no_size: 2x11_22_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 269cae0a1dbe148b01c732fde1fb7e52
+md5_10: 269cae0a1d
+md5_10_upper: 269CAE0A1D
+md5_5: 269ca
+md5_5_upper: 269CA
+md5_6: 269cae
+md5_6_alpha: 1i8j2
+md5_6_alpha_upper: 1I8J2
+md5_6_upper: 269CAE
+name: Electronic Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount Right Angle
+name_no_color: 2X1122Pinsurfacemountrightangle
+name_no_size: 2X11 22 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X11 22 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount_right_angle
+oomp_word: eyes spades jeans
+oomp_word_emoji: ':eyes: :spades: :jeans:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':spades:'
+- ':jeans:'
+oomp_word_list:
+- eyes
+- spades
+- jeans
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

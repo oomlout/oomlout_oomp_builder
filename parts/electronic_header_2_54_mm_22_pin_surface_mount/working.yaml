@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 22_pin
+directory: parts/electronic_header_2_54_mm_22_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_22_pin_surface_mount
+id: electronic_header_2_54_mm_22_pin_surface_mount
+id_no_class: header_2_54_mm_22_pin_surface_mount
+id_no_color: 22pinsurfacemount
+id_no_size: 22_pin_surface_mount
+id_no_type: 2_54_mm_22_pin_surface_mount
+manufacturer: ''
+md5: dc8c9bcd0b2dcbaae60abb3f3eadaa27
+md5_10: dc8c9bcd0b
+md5_10_upper: DC8C9BCD0B
+md5_5: dc8c9
+md5_5_upper: DC8C9
+md5_6: dc8c9b
+md5_6_alpha: 8lspn
+md5_6_alpha_upper: 8LSPN
+md5_6_upper: DC8C9B
+name: Electronic Header 2 54 Mm 22 Pin Surface Mount
+name_no_class: Header 2 54 Mm 22 Pin Surface Mount
+name_no_color: 22Pinsurfacemount
+name_no_size: 22 Pin Surface Mount
+name_no_type: 2 54 Mm 22 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_22_pin_surface_mount
+oomp_word: factory pill ski
+oomp_word_emoji: ':factory: :pill: :ski:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':pill:'
+- ':ski:'
+oomp_word_list:
+- factory
+- pill
+- ski
+part_number: ''
+size: 2_54_mm
+type: header

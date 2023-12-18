@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_05_6d5_ex_tool_wrench_m7
+directory: parts/oobb_part_tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+id: oobb_part_tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+id_no_class: part_tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+id_no_color: 03056d5extoolwrenchm7
+id_no_size: 03_05_6d5_ex_tool_wrench_m7
+id_no_type: tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+manufacturer: ''
+md5: e174d728b8a674574a6f489a4e52c517
+md5_10: e174d728b8
+md5_10_upper: E174D728B8
+md5_5: e174d
+md5_5_upper: E174D
+md5_6: e174d7
+md5_6_alpha: 8souv
+md5_6_alpha_upper: 8SOUV
+md5_6_upper: E174D7
+name: Oobb Part Tool Holder Vertical 03 05 6D5 Ex Tool Wrench M7
+name_no_class: Part Tool Holder Vertical 03 05 6D5 Ex Tool Wrench M7
+name_no_color: 03056D5Extoolwrenchm7
+name_no_size: 03 05 6D5 Ex Tool Wrench M7
+name_no_type: Tool Holder Vertical 03 05 6D5 Ex Tool Wrench M7
+oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_6d5_ex_tool_wrench_m7
+oomp_word: boat fireworks office
+oomp_word_emoji: ':boat: :fireworks: :office:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':fireworks:'
+- ':office:'
+oomp_word_list:
+- boat
+- fireworks
+- office
+part_number: ''
+size: tool_holder_vertical
+type: part

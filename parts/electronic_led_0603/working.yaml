@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603
+id: electronic_led_0603
+id_no_class: led_0603
+id_no_color: '0603'
+id_no_size: '0603'
+id_no_type: '0603'
+manufacturer: ''
+md5: 410f696910ba2a47e5f550535c378f01
+md5_10: 410f696910
+md5_10_upper: 410F696910
+md5_5: 410f6
+md5_5_upper: 410F6
+md5_6: 410f69
+md5_6_alpha: 2jdyh
+md5_6_alpha_upper: 2JDYH
+md5_6_upper: 410F69
+name: Electronic Led 0603
+name_no_class: Led 0603
+name_no_color: '0603'
+name_no_size: '0603'
+name_no_type: '0603'
+oomp_key: oomp_electronic_led_0603
+oomp_word: camel sparkles cactus
+oomp_word_emoji: ':camel: :sparkles: :cactus:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':sparkles:'
+- ':cactus:'
+oomp_word_list:
+- camel
+- sparkles
+- cactus
+part_number: ''
+size: '0603'
+type: led

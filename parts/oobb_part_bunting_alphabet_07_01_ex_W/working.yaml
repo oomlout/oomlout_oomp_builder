@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_w
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_w
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_w
+id: oobb_part_bunting_alphabet_07_01_ex_w
+id_no_class: part_bunting_alphabet_07_01_ex_w
+id_no_color: 0701exw
+id_no_size: 07_01_ex_w
+id_no_type: bunting_alphabet_07_01_ex_w
+manufacturer: ''
+md5: 0d4592047d1ae6cb158c451912afd532
+md5_10: 0d4592047d
+md5_10_upper: 0D4592047D
+md5_5: 0d459
+md5_5_upper: 0D459
+md5_6: 0d4592
+md5_6_alpha: in4i
+md5_6_alpha_upper: IN4I
+md5_6_upper: 0D4592
+name: Oobb Part Bunting Alphabet 07 01 Ex W
+name_no_class: Part Bunting Alphabet 07 01 Ex W
+name_no_color: 0701Exw
+name_no_size: 07 01 Ex W
+name_no_type: Bunting Alphabet 07 01 Ex W
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_w
+oomp_word: heart snake paperclip
+oomp_word_emoji: ':heart: :snake: :paperclip:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':snake:'
+- ':paperclip:'
+oomp_word_list:
+- heart
+- snake
+- paperclip
+part_number: ''
+size: bunting_alphabet
+type: part

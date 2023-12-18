@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_1d5_09
+directory: parts/oobb_part_tray_vertical_04_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_1d5_09
+id: oobb_part_tray_vertical_04_1d5_09
+id_no_class: part_tray_vertical_04_1d5_09
+id_no_color: 041d509
+id_no_size: 04_1d5_09
+id_no_type: tray_vertical_04_1d5_09
+manufacturer: ''
+md5: 06185ba9421fe28721fe1d5419ea52ab
+md5_10: 06185ba942
+md5_10_upper: 06185BA942
+md5_5: 06185
+md5_5_upper: 06185
+md5_6: 06185b
+md5_6_alpha: 8k7v
+md5_6_alpha_upper: 8K7V
+md5_6_upper: 06185B
+name: Oobb Part Tray Vertical 04 1D5 09
+name_no_class: Part Tray Vertical 04 1D5 09
+name_no_color: 041D509
+name_no_size: 04 1D5 09
+name_no_type: Tray Vertical 04 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_04_1d5_09
+oomp_word: sleeping hand rooster
+oomp_word_emoji: ':sleeping: :hand: :rooster:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':hand:'
+- ':rooster:'
+oomp_word_list:
+- sleeping
+- hand
+- rooster
+part_number: ''
+size: tray_vertical
+type: part

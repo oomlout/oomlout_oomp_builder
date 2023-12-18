@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_1d5_09
+directory: parts/oobb_part_tray_vertical_09_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_1d5_09
+id: oobb_part_tray_vertical_09_1d5_09
+id_no_class: part_tray_vertical_09_1d5_09
+id_no_color: 091d509
+id_no_size: 09_1d5_09
+id_no_type: tray_vertical_09_1d5_09
+manufacturer: ''
+md5: b9904cac133c2ac3d309859111b8e265
+md5_10: b9904cac13
+md5_10_upper: B9904CAC13
+md5_5: b9904
+md5_5_upper: B9904
+md5_6: b9904c
+md5_6_alpha: 78nkc
+md5_6_alpha_upper: 78NKC
+md5_6_upper: B9904C
+name: Oobb Part Tray Vertical 09 1D5 09
+name_no_class: Part Tray Vertical 09 1D5 09
+name_no_color: 091D509
+name_no_size: 09 1D5 09
+name_no_type: Tray Vertical 09 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_09_1d5_09
+oomp_word: fries scissors turtle
+oomp_word_emoji: ':fries: :scissors: :turtle:'
+oomp_word_emoji_list:
+- ':fries:'
+- ':scissors:'
+- ':turtle:'
+oomp_word_list:
+- fries
+- scissors
+- turtle
+part_number: ''
+size: tray_vertical
+type: part

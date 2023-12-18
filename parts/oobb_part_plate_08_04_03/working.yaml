@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_03
+directory: parts/oobb_part_plate_08_04_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_04_03
+id: oobb_part_plate_08_04_03
+id_no_class: part_plate_08_04_03
+id_no_color: 080403
+id_no_size: 08_04_03
+id_no_type: plate_08_04_03
+manufacturer: ''
+md5: 673a2f8f5062167e3d8daa6b0e0572f7
+md5_10: 673a2f8f50
+md5_10_upper: 673A2F8F50
+md5_5: 673a2
+md5_5_upper: 673A2
+md5_6: 673a2f
+md5_6_alpha: 40zzj
+md5_6_alpha_upper: 40ZZJ
+md5_6_upper: 673A2F
+name: Oobb Part Plate 08 04 03
+name_no_class: Part Plate 08 04 03
+name_no_color: 080403
+name_no_size: 08 04 03
+name_no_type: Plate 08 04 03
+oomp_key: oomp_oobb_part_plate_08_04_03
+oomp_word: herb koala cyclone
+oomp_word_emoji: ':herb: :koala: :cyclone:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':koala:'
+- ':cyclone:'
+oomp_word_list:
+- herb
+- koala
+- cyclone
+part_number: ''
+size: plate
+type: part

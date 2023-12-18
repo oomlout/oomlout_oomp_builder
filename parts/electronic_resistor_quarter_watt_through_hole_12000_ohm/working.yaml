@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 12000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_12000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_12000_ohm
+id: electronic_resistor_quarter_watt_through_hole_12000_ohm
+id_no_class: resistor_quarter_watt_through_hole_12000_ohm
+id_no_color: 12000ohm
+id_no_size: 12000_ohm
+id_no_type: quarter_watt_through_hole_12000_ohm
+manufacturer: ''
+md5: 5c6d739ec8c202ed2d7f1197e55bd068
+md5_10: 5c6d739ec8
+md5_10_upper: 5C6D739EC8
+md5_5: 5c6d7
+md5_5_upper: 5C6D7
+md5_6: 5c6d73
+md5_6_alpha: 3ltv7
+md5_6_alpha_upper: 3LTV7
+md5_6_upper: 5C6D73
+name: Electronic Resistor Quarter Watt Through Hole 12000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 12000 Ohm
+name_no_color: 12000Ohm
+name_no_size: 12000 Ohm
+name_no_type: Quarter Watt Through Hole 12000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_12000_ohm
+oomp_word: ox shell flags
+oomp_word_emoji: ':ox: :shell: :flags:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':shell:'
+- ':flags:'
+oomp_word_list:
+- ox
+- shell
+- flags
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

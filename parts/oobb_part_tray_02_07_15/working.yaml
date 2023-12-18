@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_07_15'
+directory: parts/oobb_part_tray_02_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_07_15
+id: oobb_part_tray_02_07_15
+id_no_class: part_tray_02_07_15
+id_no_color: '020715'
+id_no_size: '02_07_15'
+id_no_type: tray_02_07_15
+manufacturer: ''
+md5: 00fbe5e06be01afd9447b89ff5e4a533
+md5_10: 00fbe5e06b
+md5_10_upper: 00FBE5E06B
+md5_5: 00fbe
+md5_5_upper: 00FBE
+md5_6: 00fbe5
+md5_6_alpha: 1dr9
+md5_6_alpha_upper: 1DR9
+md5_6_upper: 00FBE5
+name: Oobb Part Tray 02 07 15
+name_no_class: Part Tray 02 07 15
+name_no_color: '020715'
+name_no_size: 02 07 15
+name_no_type: Tray 02 07 15
+oomp_key: oomp_oobb_part_tray_02_07_15
+oomp_word: bowtie ok rocket
+oomp_word_emoji: ':bowtie: :ok: :rocket:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':ok:'
+- ':rocket:'
+oomp_word_list:
+- bowtie
+- ok
+- rocket
+part_number: ''
+size: tray
+type: part

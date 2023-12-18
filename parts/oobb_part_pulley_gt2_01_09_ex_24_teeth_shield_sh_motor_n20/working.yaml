@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_24_teeth_shield_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+id: oobb_part_pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+id_no_class: part_pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+id_no_color: 0109ex24teethshieldshmotorn20
+id_no_size: 01_09_ex_24_teeth_shield_sh_motor_n20
+id_no_type: pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+manufacturer: ''
+md5: 0bbc1cee8823147886d545dba19d087e
+md5_10: 0bbc1cee88
+md5_10_upper: 0BBC1CEE88
+md5_5: 0bbc1
+md5_5_upper: 0BBC1
+md5_6: 0bbc1c
+md5_6_alpha: ghek
+md5_6_alpha_upper: GHEK
+md5_6_upper: 0BBC1C
+name: Oobb Part Pulley Gt2 01 09 Ex 24 Teeth Shield Sh Motor N20
+name_no_class: Part Pulley Gt2 01 09 Ex 24 Teeth Shield Sh Motor N20
+name_no_color: 0109Ex24Teethshieldshmotorn20
+name_no_size: 01 09 Ex 24 Teeth Shield Sh Motor N20
+name_no_type: Pulley Gt2 01 09 Ex 24 Teeth Shield Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_24_teeth_shield_sh_motor_n20
+oomp_word: sunglasses sushi dancer
+oomp_word_emoji: ':sunglasses: :sushi: :dancer:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':sushi:'
+- ':dancer:'
+oomp_word_list:
+- sunglasses
+- sushi
+- dancer
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_09
+directory: parts/oobb_part_tray_thin_09_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_04_09
+id: oobb_part_tray_thin_09_04_09
+id_no_class: part_tray_thin_09_04_09
+id_no_color: 090409
+id_no_size: 09_04_09
+id_no_type: tray_thin_09_04_09
+manufacturer: ''
+md5: f4f89dc9aaf442b9ffbaa5006be27635
+md5_10: f4f89dc9aa
+md5_10_upper: F4F89DC9AA
+md5_5: f4f89
+md5_5_upper: F4F89
+md5_6: f4f89d
+md5_6_alpha: 9k3od
+md5_6_alpha_upper: 9K3OD
+md5_6_upper: F4F89D
+name: Oobb Part Tray Thin 09 04 09
+name_no_class: Part Tray Thin 09 04 09
+name_no_color: 090409
+name_no_size: 09 04 09
+name_no_type: Tray Thin 09 04 09
+oomp_key: oomp_oobb_part_tray_thin_09_04_09
+oomp_word: three seven hearts
+oomp_word_emoji: ':three: :seven: :hearts:'
+oomp_word_emoji_list:
+- ':three:'
+- ':seven:'
+- ':hearts:'
+oomp_word_list:
+- three
+- seven
+- hearts
+part_number: ''
+size: tray_thin
+type: part

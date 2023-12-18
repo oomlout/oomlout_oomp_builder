@@ -1,0 +1,40 @@
+classification: hardware
+color: 16011_size
+description_extra: ''
+description_main: 55_mm_id_90_mm_od_11_mm_depth
+directory: parts/hardware_bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+id: hardware_bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+id_no_class: bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+id_no_color: 55_mm_id_90_mm_od_11_mm_depth
+id_no_size: 16011_size_55_mm_id_90_mm_od_11_mm_depth
+id_no_type: 16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+manufacturer: ''
+md5: 2693db6ee40e9189f66dddbbda126149
+md5_10: 2693db6ee4
+md5_10_upper: 2693DB6EE4
+md5_5: 2693d
+md5_5_upper: 2693D
+md5_6: 2693db
+md5_6_alpha: 1i6sb
+md5_6_alpha_upper: 1I6SB
+md5_6_upper: 2693DB
+name: Hardware Bearing 16000 Series 16011 Size 55 Mm Id 90 Mm Od 11 Mm Depth
+name_no_class: Bearing 16000 Series 16011 Size 55 Mm Id 90 Mm Od 11 Mm Depth
+name_no_color: 55 Mm Id 90 Mm Od 11 Mm Depth
+name_no_size: 16011 Size 55 Mm Id 90 Mm Od 11 Mm Depth
+name_no_type: 16000 Series 16011 Size 55 Mm Id 90 Mm Od 11 Mm Depth
+oomp_key: oomp_hardware_bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
+oomp_word: eyes books tent
+oomp_word_emoji: ':eyes: :books: :tent:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':books:'
+- ':tent:'
+oomp_word_list:
+- eyes
+- books
+- tent
+part_number: ''
+size: 16000_series
+type: bearing

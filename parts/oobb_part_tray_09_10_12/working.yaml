@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_10_12
+directory: parts/oobb_part_tray_09_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_12
+id: oobb_part_tray_09_10_12
+id_no_class: part_tray_09_10_12
+id_no_color: 091012
+id_no_size: 09_10_12
+id_no_type: tray_09_10_12
+manufacturer: ''
+md5: 484767661ea17c8987c3d3ff8e8f6d5b
+md5_10: 484767661e
+md5_10_upper: 484767661E
+md5_5: '48476'
+md5_5_upper: '48476'
+md5_6: '484767'
+md5_6_alpha: 2tizr
+md5_6_alpha_upper: 2TIZR
+md5_6_upper: '484767'
+name: Oobb Part Tray 09 10 12
+name_no_class: Part Tray 09 10 12
+name_no_color: 091012
+name_no_size: 09 10 12
+name_no_type: Tray 09 10 12
+oomp_key: oomp_oobb_part_tray_09_10_12
+oomp_word: hatched_chick baby_chick herb
+oomp_word_emoji: ':hatched_chick: :baby_chick: :herb:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':baby_chick:'
+- ':herb:'
+oomp_word_list:
+- hatched_chick
+- baby_chick
+- herb
+part_number: ''
+size: tray
+type: part

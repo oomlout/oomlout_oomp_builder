@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_18
+directory: parts/oobb_part_tray_03_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_06_18
+id: oobb_part_tray_03_06_18
+id_no_class: part_tray_03_06_18
+id_no_color: 030618
+id_no_size: 03_06_18
+id_no_type: tray_03_06_18
+manufacturer: ''
+md5: e9e85e14e3e7b3b8a287d09848c088a8
+md5_10: e9e85e14e3
+md5_10_upper: E9E85E14E3
+md5_5: e9e85
+md5_5_upper: E9E85
+md5_6: e9e85e
+md5_6_alpha: 94k7y
+md5_6_alpha_upper: 94K7Y
+md5_6_upper: E9E85E
+name: Oobb Part Tray 03 06 18
+name_no_class: Part Tray 03 06 18
+name_no_color: 030618
+name_no_size: 03 06 18
+name_no_type: Tray 03 06 18
+oomp_key: oomp_oobb_part_tray_03_06_18
+oomp_word: bike tram crocodile
+oomp_word_emoji: ':bike: :tram: :crocodile:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':tram:'
+- ':crocodile:'
+oomp_word_list:
+- bike
+- tram
+- crocodile
+part_number: ''
+size: tray
+type: part

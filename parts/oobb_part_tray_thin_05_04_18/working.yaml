@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_04_18
+directory: parts/oobb_part_tray_thin_05_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_04_18
+id: oobb_part_tray_thin_05_04_18
+id_no_class: part_tray_thin_05_04_18
+id_no_color: 050418
+id_no_size: 05_04_18
+id_no_type: tray_thin_05_04_18
+manufacturer: ''
+md5: 5426431825b6c51e33a3d7628116bedb
+md5_10: '5426431825'
+md5_10_upper: '5426431825'
+md5_5: '54264'
+md5_5_upper: '54264'
+md5_6: '542643'
+md5_6_alpha: 3a79f
+md5_6_alpha_upper: 3A79F
+md5_6_upper: '542643'
+name: Oobb Part Tray Thin 05 04 18
+name_no_class: Part Tray Thin 05 04 18
+name_no_color: 050418
+name_no_size: 05 04 18
+name_no_type: Tray Thin 05 04 18
+oomp_key: oomp_oobb_part_tray_thin_05_04_18
+oomp_word: whale eyes elephant
+oomp_word_emoji: ':whale: :eyes: :elephant:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':eyes:'
+- ':elephant:'
+oomp_word_list:
+- whale
+- eyes
+- elephant
+part_number: ''
+size: tray_thin
+type: part

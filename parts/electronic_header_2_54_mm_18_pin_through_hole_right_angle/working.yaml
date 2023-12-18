@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 18_pin
+directory: parts/electronic_header_2_54_mm_18_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_18_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_18_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_18_pin_through_hole_right_angle
+id_no_color: 18pinthroughholerightangle
+id_no_size: 18_pin_through_hole_right_angle
+id_no_type: 2_54_mm_18_pin_through_hole_right_angle
+manufacturer: ''
+md5: 11b299022ab8ad66bf7003fab4ddf324
+md5_10: 11b299022a
+md5_10_upper: 11B299022A
+md5_5: 11b29
+md5_5_upper: 11B29
+md5_6: 11b299
+md5_6_alpha: ouxl
+md5_6_alpha_upper: OUXL
+md5_6_upper: 11B299
+name: Electronic Header 2 54 Mm 18 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 18 Pin Through Hole Right Angle
+name_no_color: 18Pinthroughholerightangle
+name_no_size: 18 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 18 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_18_pin_through_hole_right_angle
+oomp_word: dizzy handbag bowling
+oomp_word_emoji: ':dizzy: :handbag: :bowling:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':handbag:'
+- ':bowling:'
+oomp_word_list:
+- dizzy
+- handbag
+- bowling
+part_number: ''
+size: 2_54_mm
+type: header

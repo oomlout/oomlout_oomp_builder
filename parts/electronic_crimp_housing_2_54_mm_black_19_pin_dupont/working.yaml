@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 19_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_19_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_19_pin_dupont
+id_no_color: 19_pin_dupont
+id_no_size: black_19_pin_dupont
+id_no_type: 2_54_mm_black_19_pin_dupont
+manufacturer: ''
+md5: 2e91e00b33ee5bfe2185c66c7ca3fe4f
+md5_10: 2e91e00b33
+md5_10_upper: 2E91E00B33
+md5_5: 2e91e
+md5_5_upper: 2E91E
+md5_6: 2e91e0
+md5_6_alpha: 1texs
+md5_6_alpha_upper: 1TEXS
+md5_6_upper: 2E91E0
+name: Electronic Crimp Housing 2 54 Mm Black 19 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 19 Pin Dupont
+name_no_color: 19 Pin Dupont
+name_no_size: Black 19 Pin Dupont
+name_no_type: 2 54 Mm Black 19 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_19_pin_dupont
+oomp_word: zap pushpin ship
+oomp_word_emoji: ':zap: :pushpin: :ship:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':pushpin:'
+- ':ship:'
+oomp_word_list:
+- zap
+- pushpin
+- ship
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

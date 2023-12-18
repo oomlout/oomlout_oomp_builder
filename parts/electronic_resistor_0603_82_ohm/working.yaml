@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 82_ohm
+directory: parts/electronic_resistor_0603_82_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_82_ohm
+id: electronic_resistor_0603_82_ohm
+id_no_class: resistor_0603_82_ohm
+id_no_color: 82ohm
+id_no_size: 82_ohm
+id_no_type: 0603_82_ohm
+manufacturer: ''
+md5: 825d758ddacd4f1e05a6eb369c752271
+md5_10: 825d758dda
+md5_10_upper: 825D758DDA
+md5_5: 825d7
+md5_5_upper: 825D7
+md5_6: 825d75
+md5_6_alpha: 534ad
+md5_6_alpha_upper: 534AD
+md5_6_upper: 825D75
+name: Electronic Resistor 0603 82 Ohm
+name_no_class: Resistor 0603 82 Ohm
+name_no_color: 82Ohm
+name_no_size: 82 Ohm
+name_no_type: 0603 82 Ohm
+oomp_key: oomp_electronic_resistor_0603_82_ohm
+oomp_word: radio blowfish ghost
+oomp_word_emoji: ':radio: :blowfish: :ghost:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':blowfish:'
+- ':ghost:'
+oomp_word_list:
+- radio
+- blowfish
+- ghost
+part_number: ''
+size: '0603'
+type: resistor

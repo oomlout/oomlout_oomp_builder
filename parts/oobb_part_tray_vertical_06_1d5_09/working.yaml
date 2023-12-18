@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_1d5_09
+directory: parts/oobb_part_tray_vertical_06_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_1d5_09
+id: oobb_part_tray_vertical_06_1d5_09
+id_no_class: part_tray_vertical_06_1d5_09
+id_no_color: 061d509
+id_no_size: 06_1d5_09
+id_no_type: tray_vertical_06_1d5_09
+manufacturer: ''
+md5: 7eef81062ee36f6db833a1b8827f3c03
+md5_10: 7eef81062e
+md5_10_upper: 7EEF81062E
+md5_5: 7eef8
+md5_5_upper: 7EEF8
+md5_6: 7eef81
+md5_6_alpha: 4yav5
+md5_6_alpha_upper: 4YAV5
+md5_6_upper: 7EEF81
+name: Oobb Part Tray Vertical 06 1D5 09
+name_no_class: Part Tray Vertical 06 1D5 09
+name_no_color: 061D509
+name_no_size: 06 1D5 09
+name_no_type: Tray Vertical 06 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_06_1d5_09
+oomp_word: fax truck watch
+oomp_word_emoji: ':fax: :truck: :watch:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':truck:'
+- ':watch:'
+oomp_word_list:
+- fax
+- truck
+- watch
+part_number: ''
+size: tray_vertical
+type: part

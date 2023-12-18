@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 040418nm16mmtapewidth4mmtapethicknessex4
+id_no_size: 04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: b6e1d99113f6593c124cebc7fbb5ed64
+md5_10: b6e1d99113
+md5_10_upper: B6E1D99113
+md5_5: b6e1d
+md5_5_upper: B6E1D
+md5_6: b6e1d9
+md5_6_alpha: 74vyx
+md5_6_alpha_upper: 74VYX
+md5_6_upper: B6E1D9
+name: Oobb Part Smd Magazine 04 04 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 04 04 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 040418Nm16Mmtapewidth4Mmtapethicknessex4
+name_no_size: 04 04 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 04 04 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: beer boat bank
+oomp_word_emoji: ':beer: :boat: :bank:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':boat:'
+- ':bank:'
+oomp_word_list:
+- beer
+- boat
+- bank
+part_number: ''
+size: smd_magazine
+type: part

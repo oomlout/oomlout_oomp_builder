@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 3x7_21_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+id_no_color: 3x721pinthroughholerightangle
+id_no_size: 3x7_21_pin_through_hole_right_angle
+id_no_type: 2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+manufacturer: ''
+md5: 5631ec1a504ab4c83db5809de4aac98d
+md5_10: 5631ec1a50
+md5_10_upper: 5631EC1A50
+md5_5: 5631e
+md5_5_upper: 5631E
+md5_6: 5631ec
+md5_6_alpha: 3d2p8
+md5_6_alpha_upper: 3D2P8
+md5_6_upper: 5631EC
+name: Electronic Header 2 54 Mm Triple Row 3X7 21 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Triple Row 3X7 21 Pin Through Hole Right Angle
+name_no_color: 3X721Pinthroughholerightangle
+name_no_size: 3X7 21 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Triple Row 3X7 21 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole_right_angle
+oomp_word: ram ocean taxi
+oomp_word_emoji: ':ram: :ocean: :taxi:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':ocean:'
+- ':taxi:'
+oomp_word_list:
+- ram
+- ocean
+- taxi
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

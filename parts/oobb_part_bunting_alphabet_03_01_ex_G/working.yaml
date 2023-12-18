@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_g
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_g
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_g
+id: oobb_part_bunting_alphabet_03_01_ex_g
+id_no_class: part_bunting_alphabet_03_01_ex_g
+id_no_color: 0301exg
+id_no_size: 03_01_ex_g
+id_no_type: bunting_alphabet_03_01_ex_g
+manufacturer: ''
+md5: ff85c250c139b98c17c998648d58043b
+md5_10: ff85c250c1
+md5_10_upper: FF85C250C1
+md5_5: ff85c
+md5_5_upper: FF85C
+md5_6: ff85c2
+md5_6_alpha: 9yx8i
+md5_6_alpha_upper: 9YX8I
+md5_6_upper: FF85C2
+name: Oobb Part Bunting Alphabet 03 01 Ex G
+name_no_class: Part Bunting Alphabet 03 01 Ex G
+name_no_color: 0301Exg
+name_no_size: 03 01 Ex G
+name_no_type: Bunting Alphabet 03 01 Ex G
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_g
+oomp_word: trident bulb birthday
+oomp_word_emoji: ':trident: :bulb: :birthday:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':bulb:'
+- ':birthday:'
+oomp_word_list:
+- trident
+- bulb
+- birthday
+part_number: ''
+size: bunting_alphabet
+type: part

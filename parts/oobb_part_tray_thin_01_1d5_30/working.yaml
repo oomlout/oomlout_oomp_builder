@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_1d5_30
+directory: parts/oobb_part_tray_thin_01_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_1d5_30
+id: oobb_part_tray_thin_01_1d5_30
+id_no_class: part_tray_thin_01_1d5_30
+id_no_color: 011d530
+id_no_size: 01_1d5_30
+id_no_type: tray_thin_01_1d5_30
+manufacturer: ''
+md5: 6ea00ed768f24d83a77fc115e16bf723
+md5_10: 6ea00ed768
+md5_10_upper: 6EA00ED768
+md5_5: 6ea00
+md5_5_upper: 6EA00
+md5_6: 6ea00e
+md5_6_alpha: 4be32
+md5_6_alpha_upper: 4BE32
+md5_6_upper: 6EA00E
+name: Oobb Part Tray Thin 01 1D5 30
+name_no_class: Part Tray Thin 01 1D5 30
+name_no_color: 011D530
+name_no_size: 01 1D5 30
+name_no_type: Tray Thin 01 1D5 30
+oomp_key: oomp_oobb_part_tray_thin_01_1d5_30
+oomp_word: new_moon ring cupid
+oomp_word_emoji: ':new_moon: :ring: :cupid:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':ring:'
+- ':cupid:'
+oomp_word_list:
+- new_moon
+- ring
+- cupid
+part_number: ''
+size: tray_thin
+type: part

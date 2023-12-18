@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_06
+directory: parts/oobb_part_circle_1d5_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_1d5_06
+id: oobb_part_circle_1d5_06
+id_no_class: part_circle_1d5_06
+id_no_color: 1d506
+id_no_size: 1d5_06
+id_no_type: circle_1d5_06
+manufacturer: ''
+md5: 9fab11a23bd14a45ed5780355aff7e03
+md5_10: 9fab11a23b
+md5_10_upper: 9FAB11A23B
+md5_5: 9fab1
+md5_5_upper: 9FAB1
+md5_6: 9fab11
+md5_6_alpha: 68a35
+md5_6_alpha_upper: 68A35
+md5_6_upper: 9FAB11
+name: Oobb Part Circle 1D5 06
+name_no_class: Part Circle 1D5 06
+name_no_color: 1D506
+name_no_size: 1D5 06
+name_no_type: Circle 1D5 06
+oomp_key: oomp_oobb_part_circle_1d5_06
+oomp_word: diamonds boot dizzy
+oomp_word_emoji: ':diamonds: :boot: :dizzy:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':boot:'
+- ':dizzy:'
+oomp_word_list:
+- diamonds
+- boot
+- dizzy
+part_number: ''
+size: circle
+type: part

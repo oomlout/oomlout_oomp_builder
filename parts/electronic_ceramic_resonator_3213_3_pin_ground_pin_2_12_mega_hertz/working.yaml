@@ -1,0 +1,40 @@
+classification: electronic
+color: 3_pin_ground_pin_2
+description_extra: ''
+description_main: 12_mega_hertz
+directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+id_no_class: ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+id_no_color: 12_mega_hertz
+id_no_size: 3_pin_ground_pin_2_12_mega_hertz
+id_no_type: 3213_3_pin_ground_pin_2_12_mega_hertz
+manufacturer: ''
+md5: 7a66154160ed05623cf4b7ab5853ac4e
+md5_10: 7a66154160
+md5_10_upper: 7A66154160
+md5_5: 7a661
+md5_5_upper: 7A661
+md5_6: 7a6615
+md5_6_alpha: 4rxg5
+md5_6_alpha_upper: 4RXG5
+md5_6_upper: 7A6615
+name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
+name_no_class: Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
+name_no_color: 12 Mega Hertz
+name_no_size: 3 Pin Ground Pin 2 12 Mega Hertz
+name_no_type: 3213 3 Pin Ground Pin 2 12 Mega Hertz
+oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+oomp_word: camera leaves poop
+oomp_word_emoji: ':camera: :leaves: :poop:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':leaves:'
+- ':poop:'
+oomp_word_list:
+- camera
+- leaves
+- poop
+part_number: ''
+size: '3213'
+type: ceramic_resonator

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_nut_m4
+directory: parts/oobb_part_nut_hardware_nut_m4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m4
+id: oobb_part_nut_hardware_nut_m4
+id_no_class: part_nut_hardware_nut_m4
+id_no_color: hardwarem4
+id_no_size: hardware_m4
+id_no_type: nut_hardware_nut_m4
+manufacturer: ''
+md5: 284d4112237e0d76989073b2ee15f462
+md5_10: 284d411223
+md5_10_upper: 284D411223
+md5_5: 284d4
+md5_5_upper: 284D4
+md5_6: 284d41
+md5_6_alpha: 1klz5
+md5_6_alpha_upper: 1KLZ5
+md5_6_upper: 284D41
+name: Oobb Part Nut Hardware Nut M4
+name_no_class: Part Nut Hardware Nut M4
+name_no_color: Hardwarem4
+name_no_size: Hardware M4
+name_no_type: Nut Hardware Nut M4
+oomp_key: oomp_oobb_part_nut_hardware_nut_m4
+oomp_word: tongue bug camel
+oomp_word_emoji: ':tongue: :bug: :camel:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':bug:'
+- ':camel:'
+oomp_word_list:
+- tongue
+- bug
+- camel
+part_number: ''
+size: nut
+type: part

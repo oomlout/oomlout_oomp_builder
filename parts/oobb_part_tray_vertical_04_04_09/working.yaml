@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_04_09
+directory: parts/oobb_part_tray_vertical_04_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_09
+id: oobb_part_tray_vertical_04_04_09
+id_no_class: part_tray_vertical_04_04_09
+id_no_color: 040409
+id_no_size: 04_04_09
+id_no_type: tray_vertical_04_04_09
+manufacturer: ''
+md5: 1271adaf003e5b1d1bce2f991d7e206f
+md5_10: 1271adaf00
+md5_10_upper: 1271ADAF00
+md5_5: 1271a
+md5_5_upper: 1271A
+md5_6: 1271ad
+md5_6_alpha: pwod
+md5_6_alpha_upper: PWOD
+md5_6_upper: 1271AD
+name: Oobb Part Tray Vertical 04 04 09
+name_no_class: Part Tray Vertical 04 04 09
+name_no_color: 040409
+name_no_size: 04 04 09
+name_no_type: Tray Vertical 04 04 09
+oomp_key: oomp_oobb_part_tray_vertical_04_04_09
+oomp_word: anger bamboo dress
+oomp_word_emoji: ':anger: :bamboo: :dress:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':bamboo:'
+- ':dress:'
+oomp_word_list:
+- anger
+- bamboo
+- dress
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 3x2_6_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole
+id: electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x2_6_pin_through_hole
+id_no_color: 3x26pinthroughhole
+id_no_size: 3x2_6_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x2_6_pin_through_hole
+manufacturer: ''
+md5: 0ecbb9db26713d1122ef60cc3ec3cccf
+md5_10: 0ecbb9db26
+md5_10_upper: 0ECBB9DB26
+md5_5: 0ecbb
+md5_5_upper: 0ECBB
+md5_6: 0ecbb9
+md5_6_alpha: ks6x
+md5_6_alpha_upper: KS6X
+md5_6_upper: 0ECBB9
+name: Electronic Header 2 54 Mm Triple Row 3X2 6 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X2 6 Pin Through Hole
+name_no_color: 3X26Pinthroughhole
+name_no_size: 3X2 6 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X2 6 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole
+oomp_word: cupid grapes fries
+oomp_word_emoji: ':cupid: :grapes: :fries:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':grapes:'
+- ':fries:'
+oomp_word_list:
+- cupid
+- grapes
+- fries
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

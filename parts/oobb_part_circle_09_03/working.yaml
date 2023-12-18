@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03
+directory: parts/oobb_part_circle_09_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_09_03
+id: oobb_part_circle_09_03
+id_no_class: part_circle_09_03
+id_no_color: 0903
+id_no_size: 09_03
+id_no_type: circle_09_03
+manufacturer: ''
+md5: 9c5baebebe8321ad3ac78dbd5eea8095
+md5_10: 9c5baebebe
+md5_10_upper: 9C5BAEBEBE
+md5_5: 9c5ba
+md5_5_upper: 9C5BA
+md5_6: 9c5bae
+md5_6_alpha: 63mpa
+md5_6_alpha_upper: 63MPA
+md5_6_upper: 9C5BAE
+name: Oobb Part Circle 09 03
+name_no_class: Part Circle 09 03
+name_no_color: 0903
+name_no_size: 09 03
+name_no_type: Circle 09 03
+oomp_key: oomp_oobb_part_circle_09_03
+oomp_word: spades rooster jeans
+oomp_word_emoji: ':spades: :rooster: :jeans:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':rooster:'
+- ':jeans:'
+oomp_word_list:
+- spades
+- rooster
+- jeans
+part_number: ''
+size: circle
+type: part

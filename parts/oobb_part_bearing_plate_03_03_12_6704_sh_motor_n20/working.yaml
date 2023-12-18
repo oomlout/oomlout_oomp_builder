@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_12_6704_sh_motor_n20
+directory: parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_n20
+id: oobb_part_bearing_plate_03_03_12_6704_sh_motor_n20
+id_no_class: part_bearing_plate_03_03_12_6704_sh_motor_n20
+id_no_color: 0303126704shmotorn20
+id_no_size: 03_03_12_6704_sh_motor_n20
+id_no_type: bearing_plate_03_03_12_6704_sh_motor_n20
+manufacturer: ''
+md5: a57f8c13a2bb6cc41e8f4122533ae64d
+md5_10: a57f8c13a2
+md5_10_upper: A57F8C13A2
+md5_5: a57f8
+md5_5_upper: A57F8
+md5_6: a57f8c
+md5_6_alpha: 6ggwc
+md5_6_alpha_upper: 6GGWC
+md5_6_upper: A57F8C
+name: Oobb Part Bearing Plate 03 03 12 6704 Sh Motor N20
+name_no_class: Part Bearing Plate 03 03 12 6704 Sh Motor N20
+name_no_color: 0303126704Shmotorn20
+name_no_size: 03 03 12 6704 Sh Motor N20
+name_no_type: Bearing Plate 03 03 12 6704 Sh Motor N20
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6704_sh_motor_n20
+oomp_word: headphones speaker pill
+oomp_word_emoji: ':headphones: :speaker: :pill:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':speaker:'
+- ':pill:'
+oomp_word_list:
+- headphones
+- speaker
+- pill
+part_number: ''
+size: bearing_plate
+type: part

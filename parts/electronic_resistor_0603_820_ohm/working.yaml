@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 820_ohm
+directory: parts/electronic_resistor_0603_820_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_820_ohm
+id: electronic_resistor_0603_820_ohm
+id_no_class: resistor_0603_820_ohm
+id_no_color: 820ohm
+id_no_size: 820_ohm
+id_no_type: 0603_820_ohm
+manufacturer: ''
+md5: 872386c8c2d0cbe6d86ef71cae501d24
+md5_10: 872386c8c2
+md5_10_upper: 872386C8C2
+md5_5: '87238'
+md5_5_upper: '87238'
+md5_6: '872386'
+md5_6_alpha: 59tom
+md5_6_alpha_upper: 59TOM
+md5_6_upper: '872386'
+name: Electronic Resistor 0603 820 Ohm
+name_no_class: Resistor 0603 820 Ohm
+name_no_color: 820Ohm
+name_no_size: 820 Ohm
+name_no_type: 0603 820 Ohm
+oomp_key: oomp_electronic_resistor_0603_820_ohm
+oomp_word: toilet kiss bath
+oomp_word_emoji: ':toilet: :kiss: :bath:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':kiss:'
+- ':bath:'
+oomp_word_list:
+- toilet
+- kiss
+- bath
+part_number: ''
+size: '0603'
+type: resistor

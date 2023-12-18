@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_30'
+directory: parts/oobb_part_tray_thin_12_10_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_10_30
+id: oobb_part_tray_thin_12_10_30
+id_no_class: part_tray_thin_12_10_30
+id_no_color: '121030'
+id_no_size: '12_10_30'
+id_no_type: tray_thin_12_10_30
+manufacturer: ''
+md5: 372a39b78497bce5a1638f5c407647bd
+md5_10: 372a39b784
+md5_10_upper: 372A39B784
+md5_5: 372a3
+md5_5_upper: 372A3
+md5_6: 372a39
+md5_6_alpha: 25hkp
+md5_6_alpha_upper: 25HKP
+md5_6_upper: 372A39
+name: Oobb Part Tray Thin 12 10 30
+name_no_class: Part Tray Thin 12 10 30
+name_no_color: '121030'
+name_no_size: 12 10 30
+name_no_type: Tray Thin 12 10 30
+oomp_key: oomp_oobb_part_tray_thin_12_10_30
+oomp_word: wolf umbrella tiger
+oomp_word_emoji: ':wolf: :umbrella: :tiger:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':umbrella:'
+- ':tiger:'
+oomp_word_list:
+- wolf
+- umbrella
+- tiger
+part_number: ''
+size: tray_thin
+type: part

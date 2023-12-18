@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 5_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+id_no_color: 5pinsurfacemountrightangle
+id_no_size: 5_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 174e5f5e81f2022c368ae49bacb0e615
+md5_10: 174e5f5e81
+md5_10_upper: 174E5F5E81
+md5_5: 174e5
+md5_5_upper: 174E5
+md5_6: 174e5f
+md5_6_alpha: wqjj
+md5_6_alpha_upper: WQJJ
+md5_6_upper: 174E5F
+name: Electronic Header 2 5 Mm Jst Xh 5 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 5 Pin Surface Mount Right Angle
+name_no_color: 5Pinsurfacemountrightangle
+name_no_size: 5 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 5 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_5_pin_surface_mount_right_angle
+oomp_word: thumbsdown honeybee leopard
+oomp_word_emoji: ':thumbsdown: :honeybee: :leopard:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':honeybee:'
+- ':leopard:'
+oomp_word_list:
+- thumbsdown
+- honeybee
+- leopard
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

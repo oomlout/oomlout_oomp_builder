@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_12'
+directory: parts/oobb_part_plate_01_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_12
+id: oobb_part_plate_01_01_12
+id_no_class: part_plate_01_01_12
+id_no_color: '010112'
+id_no_size: '01_01_12'
+id_no_type: plate_01_01_12
+manufacturer: ''
+md5: 920d4e088e814881a2f2f0809163bd6c
+md5_10: 920d4e088e
+md5_10_upper: 920D4E088E
+md5_5: 920d4
+md5_5_upper: 920D4
+md5_6: 920d4e
+md5_6_alpha: 5p5ji
+md5_6_alpha_upper: 5P5JI
+md5_6_upper: 920D4E
+name: Oobb Part Plate 01 01 12
+name_no_class: Part Plate 01 01 12
+name_no_color: '010112'
+name_no_size: 01 01 12
+name_no_type: Plate 01 01 12
+oomp_key: oomp_oobb_part_plate_01_01_12
+oomp_word: paperclip heart honeybee
+oomp_word_emoji: ':paperclip: :heart: :honeybee:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':heart:'
+- ':honeybee:'
+oomp_word_list:
+- paperclip
+- heart
+- honeybee
+part_number: ''
+size: plate
+type: part

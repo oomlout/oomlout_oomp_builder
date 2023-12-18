@@ -1,0 +1,40 @@
+classification: hardware
+color: MR41_size
+description_extra: ''
+description_main: 1.2_mm_id_4_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+id_no_color: 1.2_mm_id_4_mm_od_2.5_mm_depth
+id_no_size: MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: d159c5f4d26b33735ff406d1344ba00f
+md5_10: d159c5f4d2
+md5_10_upper: D159C5F4D2
+md5_5: d159c
+md5_5_upper: D159C
+md5_6: d159c5
+md5_6_alpha: 862f9
+md5_6_alpha_upper: 862F9
+md5_6_upper: D159C5
+name: Hardware Bearing Mr Series Mr41 Size 1.2 Mm Id 4 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr41 Size 1.2 Mm Id 4 Mm Od 2.5 Mm Depth
+name_no_color: 1.2 Mm Id 4 Mm Od 2.5 Mm Depth
+name_no_size: Mr41 Size 1.2 Mm Id 4 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr41 Size 1.2 Mm Id 4 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR41_size_1.2_mm_id_4_mm_od_2.5_mm_depth
+oomp_word: pear dragon candy
+oomp_word_emoji: ':pear: :dragon: :candy:'
+oomp_word_emoji_list:
+- ':pear:'
+- ':dragon:'
+- ':candy:'
+oomp_word_list:
+- pear
+- dragon
+- candy
+part_number: ''
+size: MR_series
+type: bearing

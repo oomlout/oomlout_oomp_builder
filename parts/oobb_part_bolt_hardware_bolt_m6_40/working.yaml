@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_40
+directory: parts/oobb_part_bolt_hardware_bolt_m6_40
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_40
+id: oobb_part_bolt_hardware_bolt_m6_40
+id_no_class: part_bolt_hardware_bolt_m6_40
+id_no_color: hardwarem640
+id_no_size: hardware_m6_40
+id_no_type: bolt_hardware_bolt_m6_40
+manufacturer: ''
+md5: c3553a2268541f1f75001dd7fcf647a6
+md5_10: c3553a2268
+md5_10_upper: C3553A2268
+md5_5: c3553
+md5_5_upper: C3553
+md5_6: c3553a
+md5_6_alpha: 7mdkq
+md5_6_alpha_upper: 7MDKQ
+md5_6_upper: C3553A
+name: Oobb Part Bolt Hardware Bolt M6 40
+name_no_class: Part Bolt Hardware Bolt M6 40
+name_no_color: Hardwarem640
+name_no_size: Hardware M6 40
+name_no_type: Bolt Hardware Bolt M6 40
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_40
+oomp_word: cake dolphin koala
+oomp_word_emoji: ':cake: :dolphin: :koala:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':dolphin:'
+- ':koala:'
+oomp_word_list:
+- cake
+- dolphin
+- koala
+part_number: ''
+size: bolt
+type: part

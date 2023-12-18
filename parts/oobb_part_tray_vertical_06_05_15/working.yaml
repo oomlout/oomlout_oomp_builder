@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_15'
+directory: parts/oobb_part_tray_vertical_06_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_15
+id: oobb_part_tray_vertical_06_05_15
+id_no_class: part_tray_vertical_06_05_15
+id_no_color: '060515'
+id_no_size: '06_05_15'
+id_no_type: tray_vertical_06_05_15
+manufacturer: ''
+md5: 63922b06cf82c0962d68f0cb571a2aaa
+md5_10: 63922b06cf
+md5_10_upper: 63922B06CF
+md5_5: '63922'
+md5_5_upper: '63922'
+md5_6: 63922b
+md5_6_alpha: 3vv3f
+md5_6_alpha_upper: 3VV3F
+md5_6_upper: 63922B
+name: Oobb Part Tray Vertical 06 05 15
+name_no_class: Part Tray Vertical 06 05 15
+name_no_color: '060515'
+name_no_size: 06 05 15
+name_no_type: Tray Vertical 06 05 15
+oomp_key: oomp_oobb_part_tray_vertical_06_05_15
+oomp_word: rose paperclip cloud
+oomp_word_emoji: ':rose: :paperclip: :cloud:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':paperclip:'
+- ':cloud:'
+oomp_word_list:
+- rose
+- paperclip
+- cloud
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600000_ohm
+directory: parts/electronic_resistor_0805_5600000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_5600000_ohm
+id: electronic_resistor_0805_5600000_ohm
+id_no_class: resistor_0805_5600000_ohm
+id_no_color: 5600000ohm
+id_no_size: 5600000_ohm
+id_no_type: 0805_5600000_ohm
+manufacturer: ''
+md5: 231a1784d5e325fbe9f1d719ed12afad
+md5_10: 231a1784d5
+md5_10_upper: 231A1784D5
+md5_5: 231a1
+md5_5_upper: 231A1
+md5_6: 231a17
+md5_6_alpha: 1db13
+md5_6_alpha_upper: 1DB13
+md5_6_upper: 231A17
+name: Electronic Resistor 0805 5600000 Ohm
+name_no_class: Resistor 0805 5600000 Ohm
+name_no_color: 5600000Ohm
+name_no_size: 5600000 Ohm
+name_no_type: 0805 5600000 Ohm
+oomp_key: oomp_electronic_resistor_0805_5600000_ohm
+oomp_word: kiss clap thumbsdown
+oomp_word_emoji: ':kiss: :clap: :thumbsdown:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':clap:'
+- ':thumbsdown:'
+oomp_word_list:
+- kiss
+- clap
+- thumbsdown
+part_number: ''
+size: 0805
+type: resistor

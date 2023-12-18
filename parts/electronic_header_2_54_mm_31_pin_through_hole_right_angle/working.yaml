@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 31_pin
+directory: parts/electronic_header_2_54_mm_31_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_31_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_31_pin_through_hole_right_angle
+id_no_color: 31pinthroughholerightangle
+id_no_size: 31_pin_through_hole_right_angle
+id_no_type: 2_54_mm_31_pin_through_hole_right_angle
+manufacturer: ''
+md5: 3f0937e848d5f059be76f474a392336e
+md5_10: 3f0937e848
+md5_10_upper: 3F0937E848
+md5_5: 3f093
+md5_5_upper: 3F093
+md5_6: 3f0937
+md5_6_alpha: 2gjlj
+md5_6_alpha_upper: 2GJLJ
+md5_6_upper: 3F0937
+name: Electronic Header 2 54 Mm 31 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 31 Pin Through Hole Right Angle
+name_no_color: 31Pinthroughholerightangle
+name_no_size: 31 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 31 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_31_pin_through_hole_right_angle
+oomp_word: horse angry wolf
+oomp_word_emoji: ':horse: :angry: :wolf:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':angry:'
+- ':wolf:'
+oomp_word_list:
+- horse
+- angry
+- wolf
+part_number: ''
+size: 2_54_mm
+type: header

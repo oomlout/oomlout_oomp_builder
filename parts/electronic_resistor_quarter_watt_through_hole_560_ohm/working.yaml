@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_560_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm
+id: electronic_resistor_quarter_watt_through_hole_560_ohm
+id_no_class: resistor_quarter_watt_through_hole_560_ohm
+id_no_color: 560ohm
+id_no_size: 560_ohm
+id_no_type: quarter_watt_through_hole_560_ohm
+manufacturer: ''
+md5: 2ddd1186cd26fd7388b061f06e737f71
+md5_10: 2ddd1186cd
+md5_10_upper: 2DDD1186CD
+md5_5: 2ddd1
+md5_5_upper: 2DDD1
+md5_6: 2ddd11
+md5_6_alpha: 1sf81
+md5_6_alpha_upper: 1SF81
+md5_6_upper: 2DDD11
+name: Electronic Resistor Quarter Watt Through Hole 560 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 560 Ohm
+name_no_color: 560Ohm
+name_no_size: 560 Ohm
+name_no_type: Quarter Watt Through Hole 560 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_560_ohm
+oomp_word: snowman stars dizzy
+oomp_word_emoji: ':snowman: :stars: :dizzy:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':stars:'
+- ':dizzy:'
+oomp_word_list:
+- snowman
+- stars
+- dizzy
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

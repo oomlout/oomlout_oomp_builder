@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_1d5_12
+directory: parts/oobb_part_tray_vertical_02_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_1d5_12
+id: oobb_part_tray_vertical_02_1d5_12
+id_no_class: part_tray_vertical_02_1d5_12
+id_no_color: 021d512
+id_no_size: 02_1d5_12
+id_no_type: tray_vertical_02_1d5_12
+manufacturer: ''
+md5: 2a98d5939e2a57d405931eb5b4a28280
+md5_10: 2a98d5939e
+md5_10_upper: 2A98D5939E
+md5_5: 2a98d
+md5_5_upper: 2A98D
+md5_6: 2a98d5
+md5_6_alpha: 1nu1h
+md5_6_alpha_upper: 1NU1H
+md5_6_upper: 2A98D5
+name: Oobb Part Tray Vertical 02 1D5 12
+name_no_class: Part Tray Vertical 02 1D5 12
+name_no_color: 021D512
+name_no_size: 02 1D5 12
+name_no_type: Tray Vertical 02 1D5 12
+oomp_key: oomp_oobb_part_tray_vertical_02_1d5_12
+oomp_word: umbrella tennis house
+oomp_word_emoji: ':umbrella: :tennis: :house:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':tennis:'
+- ':house:'
+oomp_word_list:
+- umbrella
+- tennis
+- house
+part_number: ''
+size: tray_vertical
+type: part

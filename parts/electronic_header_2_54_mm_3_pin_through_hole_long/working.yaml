@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_through_hole_long
+id: electronic_header_2_54_mm_3_pin_through_hole_long
+id_no_class: header_2_54_mm_3_pin_through_hole_long
+id_no_color: 3pinthroughholelong
+id_no_size: 3_pin_through_hole_long
+id_no_type: 2_54_mm_3_pin_through_hole_long
+manufacturer: ''
+md5: dfd42906e117346d310669ac6ba5b973
+md5_10: dfd42906e1
+md5_10_upper: DFD42906E1
+md5_5: dfd42
+md5_5_upper: DFD42
+md5_6: dfd429
+md5_6_alpha: 8qejt
+md5_6_alpha_upper: 8QEJT
+md5_6_upper: DFD429
+name: Electronic Header 2 54 Mm 3 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 3 Pin Through Hole Long
+name_no_color: 3Pinthroughholelong
+name_no_size: 3 Pin Through Hole Long
+name_no_type: 2 54 Mm 3 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_through_hole_long
+oomp_word: fountain corn sunny
+oomp_word_emoji: ':fountain: :corn: :sunny:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':corn:'
+- ':sunny:'
+oomp_word_list:
+- fountain
+- corn
+- sunny
+part_number: ''
+size: 2_54_mm
+type: header

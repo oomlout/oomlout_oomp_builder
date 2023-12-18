@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_05_12'
+directory: parts/oobb_part_tray_vertical_10_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_05_12
+id: oobb_part_tray_vertical_10_05_12
+id_no_class: part_tray_vertical_10_05_12
+id_no_color: '100512'
+id_no_size: '10_05_12'
+id_no_type: tray_vertical_10_05_12
+manufacturer: ''
+md5: 030c785b7356dc3dc1cf47b7019e04e8
+md5_10: 030c785b73
+md5_10_upper: 030C785B73
+md5_5: 030c7
+md5_5_upper: 030C7
+md5_6: 030c78
+md5_6_alpha: 4a60
+md5_6_alpha_upper: 4A60
+md5_6_upper: 030C78
+name: Oobb Part Tray Vertical 10 05 12
+name_no_class: Part Tray Vertical 10 05 12
+name_no_color: '100512'
+name_no_size: 10 05 12
+name_no_type: Tray Vertical 10 05 12
+oomp_key: oomp_oobb_part_tray_vertical_10_05_12
+oomp_word: grin alien bell
+oomp_word_emoji: ':grin: :alien: :bell:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':alien:'
+- ':bell:'
+oomp_word_list:
+- grin
+- alien
+- bell
+part_number: ''
+size: tray_vertical
+type: part

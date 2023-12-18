@@ -1,0 +1,40 @@
+classification: electronic
+color: 3_pin_ground_pin_2
+description_extra: ''
+description_main: 8_mega_hertz
+directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id_no_class: ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id_no_color: 8_mega_hertz
+id_no_size: 3_pin_ground_pin_2_8_mega_hertz
+id_no_type: 3213_3_pin_ground_pin_2_8_mega_hertz
+manufacturer: ''
+md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
+md5_10: fbf4f6bd8d
+md5_10_upper: FBF4F6BD8D
+md5_5: fbf4f
+md5_5_upper: FBF4F
+md5_6: fbf4f6
+md5_6_alpha: 9twxi
+md5_6_alpha_upper: 9TWXI
+md5_6_upper: FBF4F6
+name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_class: Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_color: 8 Mega Hertz
+name_no_size: 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_type: 3213 3 Pin Ground Pin 2 8 Mega Hertz
+oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+oomp_word: ok three five
+oomp_word_emoji: ':ok: :three: :five:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':three:'
+- ':five:'
+oomp_word_list:
+- ok
+- three
+- five
+part_number: ''
+size: '3213'
+type: ceramic_resonator

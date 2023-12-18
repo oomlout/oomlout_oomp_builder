@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_x
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_x
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_x
+id: oobb_part_bunting_alphabet_07_01_ex_x
+id_no_class: part_bunting_alphabet_07_01_ex_x
+id_no_color: 0701exx
+id_no_size: 07_01_ex_x
+id_no_type: bunting_alphabet_07_01_ex_x
+manufacturer: ''
+md5: 5b4b6b21c74ed8d2d72b2f9a72a847b4
+md5_10: 5b4b6b21c7
+md5_10_upper: 5B4B6B21C7
+md5_5: 5b4b6
+md5_5_upper: 5B4B6
+md5_6: 5b4b6b
+md5_6_alpha: 3k8kr
+md5_6_alpha_upper: 3K8KR
+md5_6_upper: 5B4B6B
+name: Oobb Part Bunting Alphabet 07 01 Ex X
+name_no_class: Part Bunting Alphabet 07 01 Ex X
+name_no_color: 0701Exx
+name_no_size: 07 01 Ex X
+name_no_type: Bunting Alphabet 07 01 Ex X
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_x
+oomp_word: rooster penguin chestnut
+oomp_word_emoji: ':rooster: :penguin: :chestnut:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':penguin:'
+- ':chestnut:'
+oomp_word_list:
+- rooster
+- penguin
+- chestnut
+part_number: ''
+size: bunting_alphabet
+type: part

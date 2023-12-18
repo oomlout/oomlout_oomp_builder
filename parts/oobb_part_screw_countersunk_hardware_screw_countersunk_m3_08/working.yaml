@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_08
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_08
+id_no_color: hardwarem308
+id_no_size: hardware_m3_08
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_08
+manufacturer: ''
+md5: 7307a39fb7e61bcf9eaae045b7fe5e57
+md5_10: 7307a39fb7
+md5_10_upper: 7307A39FB7
+md5_5: 7307a
+md5_5_upper: 7307A
+md5_6: 7307a3
+md5_6_alpha: 4hktf
+md5_6_alpha_upper: 4HKTF
+md5_6_upper: 7307A3
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 08
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 08
+name_no_color: Hardwarem308
+name_no_size: Hardware M3 08
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 08
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08
+oomp_word: flags cry pencil
+oomp_word_emoji: ':flags: :cry: :pencil:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':cry:'
+- ':pencil:'
+oomp_word_list:
+- flags
+- cry
+- pencil
+part_number: ''
+size: screw_countersunk
+type: part

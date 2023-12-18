@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_09
+directory: parts/oobb_part_plate_03_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_09
+id: oobb_part_plate_03_01_09
+id_no_class: part_plate_03_01_09
+id_no_color: 030109
+id_no_size: 03_01_09
+id_no_type: plate_03_01_09
+manufacturer: ''
+md5: 771a039c48fe05d4ebb58c4e0d399789
+md5_10: 771a039c48
+md5_10_upper: 771A039C48
+md5_5: 771a0
+md5_5_upper: 771A0
+md5_6: 771a03
+md5_6_alpha: 4napv
+md5_6_alpha_upper: 4NAPV
+md5_6_upper: 771A03
+name: Oobb Part Plate 03 01 09
+name_no_class: Part Plate 03 01 09
+name_no_color: 030109
+name_no_size: 03 01 09
+name_no_type: Plate 03 01 09
+oomp_key: oomp_oobb_part_plate_03_01_09
+oomp_word: gift clap grin
+oomp_word_emoji: ':gift: :clap: :grin:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':clap:'
+- ':grin:'
+oomp_word_list:
+- gift
+- clap
+- grin
+part_number: ''
+size: plate
+type: part

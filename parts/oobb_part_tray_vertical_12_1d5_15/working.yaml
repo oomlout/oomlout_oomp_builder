@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 12_1d5_15
+directory: parts/oobb_part_tray_vertical_12_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_1d5_15
+id: oobb_part_tray_vertical_12_1d5_15
+id_no_class: part_tray_vertical_12_1d5_15
+id_no_color: 121d515
+id_no_size: 12_1d5_15
+id_no_type: tray_vertical_12_1d5_15
+manufacturer: ''
+md5: 15b0fd71858f02665ef05b003441f035
+md5_10: 15b0fd7185
+md5_10_upper: 15B0FD7185
+md5_5: 15b0f
+md5_5_upper: 15B0F
+md5_6: 15b0fd
+md5_6_alpha: ugvx
+md5_6_alpha_upper: UGVX
+md5_6_upper: 15B0FD
+name: Oobb Part Tray Vertical 12 1D5 15
+name_no_class: Part Tray Vertical 12 1D5 15
+name_no_color: 121D515
+name_no_size: 12 1D5 15
+name_no_type: Tray Vertical 12 1D5 15
+oomp_key: oomp_oobb_part_tray_vertical_12_1d5_15
+oomp_word: poop crown parking
+oomp_word_emoji: ':poop: :crown: :parking:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':crown:'
+- ':parking:'
+oomp_word_list:
+- poop
+- crown
+- parking
+part_number: ''
+size: tray_vertical
+type: part

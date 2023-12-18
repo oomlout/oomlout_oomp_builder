@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_07_09
+directory: parts/oobb_part_tray_03_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_07_09
+id: oobb_part_tray_03_07_09
+id_no_class: part_tray_03_07_09
+id_no_color: 030709
+id_no_size: 03_07_09
+id_no_type: tray_03_07_09
+manufacturer: ''
+md5: 75a5b4feb42515a8b596802043130294
+md5_10: 75a5b4feb4
+md5_10_upper: 75A5B4FEB4
+md5_5: 75a5b
+md5_5_upper: 75A5B
+md5_6: 75a5b4
+md5_6_alpha: 4l96c
+md5_6_alpha_upper: 4L96C
+md5_6_upper: 75A5B4
+name: Oobb Part Tray 03 07 09
+name_no_class: Part Tray 03 07 09
+name_no_color: 030709
+name_no_size: 03 07 09
+name_no_type: Tray 03 07 09
+oomp_key: oomp_oobb_part_tray_03_07_09
+oomp_word: ghost headphones coffee
+oomp_word_emoji: ':ghost: :headphones: :coffee:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':headphones:'
+- ':coffee:'
+oomp_word_list:
+- ghost
+- headphones
+- coffee
+part_number: ''
+size: tray
+type: part

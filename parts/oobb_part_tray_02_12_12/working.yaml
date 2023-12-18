@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_12_12'
+directory: parts/oobb_part_tray_02_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_12_12
+id: oobb_part_tray_02_12_12
+id_no_class: part_tray_02_12_12
+id_no_color: '021212'
+id_no_size: '02_12_12'
+id_no_type: tray_02_12_12
+manufacturer: ''
+md5: 76d16ebf1dc6f753538387952f7e7473
+md5_10: 76d16ebf1d
+md5_10_upper: 76D16EBF1D
+md5_5: 76d16
+md5_5_upper: 76D16
+md5_6: 76d16e
+md5_6_alpha: 4mwdq
+md5_6_alpha_upper: 4MWDQ
+md5_6_upper: 76D16E
+name: Oobb Part Tray 02 12 12
+name_no_class: Part Tray 02 12 12
+name_no_color: '021212'
+name_no_size: 02 12 12
+name_no_type: Tray 02 12 12
+oomp_key: oomp_oobb_part_tray_02_12_12
+oomp_word: santa pear new_moon
+oomp_word_emoji: ':santa: :pear: :new_moon:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':pear:'
+- ':new_moon:'
+oomp_word_list:
+- santa
+- pear
+- new_moon
+part_number: ''
+size: tray
+type: part

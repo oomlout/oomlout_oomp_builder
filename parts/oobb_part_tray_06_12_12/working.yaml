@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_12_12'
+directory: parts/oobb_part_tray_06_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_12_12
+id: oobb_part_tray_06_12_12
+id_no_class: part_tray_06_12_12
+id_no_color: '061212'
+id_no_size: '06_12_12'
+id_no_type: tray_06_12_12
+manufacturer: ''
+md5: 4063d64908a829a5f97560e19894c7aa
+md5_10: 4063d64908
+md5_10_upper: 4063D64908
+md5_5: 4063d
+md5_5_upper: 4063D
+md5_6: 4063d6
+md5_6_alpha: 2ig2e
+md5_6_alpha_upper: 2IG2E
+md5_6_upper: 4063D6
+name: Oobb Part Tray 06 12 12
+name_no_class: Part Tray 06 12 12
+name_no_color: '061212'
+name_no_size: 06 12 12
+name_no_type: Tray 06 12 12
+oomp_key: oomp_oobb_part_tray_06_12_12
+oomp_word: racehorse rose school
+oomp_word_emoji: ':racehorse: :rose: :school:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':rose:'
+- ':school:'
+oomp_word_list:
+- racehorse
+- rose
+- school
+part_number: ''
+size: tray
+type: part

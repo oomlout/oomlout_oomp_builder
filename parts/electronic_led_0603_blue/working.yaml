@@ -1,0 +1,40 @@
+classification: electronic
+color: blue
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0603_blue
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue
+id: electronic_led_0603_blue
+id_no_class: led_0603_blue
+id_no_color: blue
+id_no_size: blue
+id_no_type: 0603_blue
+manufacturer: ''
+md5: 9674f50c150069fafacfa3671b299b20
+md5_10: 9674f50c15
+md5_10_upper: 9674F50C15
+md5_5: 9674f
+md5_5_upper: 9674F
+md5_6: 9674f5
+md5_6_alpha: 5vcad
+md5_6_alpha_upper: 5VCAD
+md5_6_upper: 9674F5
+name: Electronic Led 0603 Blue
+name_no_class: Led 0603 Blue
+name_no_color: Blue
+name_no_size: Blue
+name_no_type: 0603 Blue
+oomp_key: oomp_electronic_led_0603_blue
+oomp_word: basketball fireworks four
+oomp_word_emoji: ':basketball: :fireworks: :four:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':fireworks:'
+- ':four:'
+oomp_word_list:
+- basketball
+- fireworks
+- four
+part_number: ''
+size: '0603'
+type: led

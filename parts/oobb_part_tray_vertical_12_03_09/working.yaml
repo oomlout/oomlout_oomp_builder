@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_09'
+directory: parts/oobb_part_tray_vertical_12_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_03_09
+id: oobb_part_tray_vertical_12_03_09
+id_no_class: part_tray_vertical_12_03_09
+id_no_color: '120309'
+id_no_size: '12_03_09'
+id_no_type: tray_vertical_12_03_09
+manufacturer: ''
+md5: 0d3801ce2367063f8f25cc12694e2dca
+md5_10: 0d3801ce23
+md5_10_upper: 0D3801CE23
+md5_5: 0d380
+md5_5_upper: 0D380
+md5_6: 0d3801
+md5_6_alpha: ikg1
+md5_6_alpha_upper: IKG1
+md5_6_upper: 0D3801
+name: Oobb Part Tray Vertical 12 03 09
+name_no_class: Part Tray Vertical 12 03 09
+name_no_color: '120309'
+name_no_size: 12 03 09
+name_no_type: Tray Vertical 12 03 09
+oomp_key: oomp_oobb_part_tray_vertical_12_03_09
+oomp_word: heart frog smile
+oomp_word_emoji: ':heart: :frog: :smile:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':frog:'
+- ':smile:'
+oomp_word_list:
+- heart
+- frog
+- smile
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_ex_72_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_09_06_ex_72_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_06_ex_72_teeth_sh_motor_tt_01
+id: oobb_part_gear_09_06_ex_72_teeth_sh_motor_tt_01
+id_no_class: part_gear_09_06_ex_72_teeth_sh_motor_tt_01
+id_no_color: 0906ex72teethshmotortt01
+id_no_size: 09_06_ex_72_teeth_sh_motor_tt_01
+id_no_type: gear_09_06_ex_72_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 49f61190f9074a88dedcdf4a4320c6d1
+md5_10: 49f61190f9
+md5_10_upper: 49F61190F9
+md5_5: 49f61
+md5_5_upper: 49F61
+md5_6: 49f611
+md5_6_alpha: 2vw29
+md5_6_alpha_upper: 2VW29
+md5_6_upper: 49F611
+name: Oobb Part Gear 09 06 Ex 72 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 09 06 Ex 72 Teeth Sh Motor Tt 01
+name_no_color: 0906Ex72Teethshmotortt01
+name_no_size: 09 06 Ex 72 Teeth Sh Motor Tt 01
+name_no_type: Gear 09 06 Ex 72 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_09_06_ex_72_teeth_sh_motor_tt_01
+oomp_word: hatching_chick five dizzy
+oomp_word_emoji: ':hatching_chick: :five: :dizzy:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':five:'
+- ':dizzy:'
+oomp_word_list:
+- hatching_chick
+- five
+- dizzy
+part_number: ''
+size: gear
+type: part

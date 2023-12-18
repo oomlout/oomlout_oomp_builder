@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_mounting_hole_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3
+id: electronic_mounting_hole_m3
+id_no_class: mounting_hole_m3
+id_no_color: m3
+id_no_size: m3
+id_no_type: m3
+manufacturer: ''
+md5: 872f01e756948c570b070f1966ea2f26
+md5_10: 872f01e756
+md5_10_upper: 872F01E756
+md5_5: 872f0
+md5_5_upper: 872F0
+md5_6: 872f01
+md5_6_alpha: 59vy9
+md5_6_alpha_upper: 59VY9
+md5_6_upper: 872F01
+name: Electronic Mounting Hole M3
+name_no_class: Mounting Hole M3
+name_no_color: M3
+name_no_size: M3
+name_no_type: M3
+oomp_key: oomp_electronic_mounting_hole_m3
+oomp_word: toilet cyclone smile
+oomp_word_emoji: ':toilet: :cyclone: :smile:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':cyclone:'
+- ':smile:'
+oomp_word_list:
+- toilet
+- cyclone
+- smile
+part_number: ''
+size: m3
+type: mounting_hole

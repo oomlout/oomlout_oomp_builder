@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_1d5_18
+directory: parts/oobb_part_tray_vertical_09_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_1d5_18
+id: oobb_part_tray_vertical_09_1d5_18
+id_no_class: part_tray_vertical_09_1d5_18
+id_no_color: 091d518
+id_no_size: 09_1d5_18
+id_no_type: tray_vertical_09_1d5_18
+manufacturer: ''
+md5: 108181f1dac46ade9a4813586c54007b
+md5_10: 108181f1da
+md5_10_upper: 108181F1DA
+md5_5: '10818'
+md5_5_upper: '10818'
+md5_6: '108181'
+md5_6_alpha: n6o1
+md5_6_alpha_upper: N6O1
+md5_6_upper: '108181'
+name: Oobb Part Tray Vertical 09 1D5 18
+name_no_class: Part Tray Vertical 09 1D5 18
+name_no_color: 091D518
+name_no_size: 09 1D5 18
+name_no_type: Tray Vertical 09 1D5 18
+oomp_key: oomp_oobb_part_tray_vertical_09_1d5_18
+oomp_word: star watch watch
+oomp_word_emoji: ':star: :watch: :watch:'
+oomp_word_emoji_list:
+- ':star:'
+- ':watch:'
+- ':watch:'
+oomp_word_list:
+- star
+- watch
+- watch
+part_number: ''
+size: tray_vertical
+type: part

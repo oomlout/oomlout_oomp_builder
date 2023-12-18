@@ -1,0 +1,40 @@
+classification: hardware
+color: 674_size
+description_extra: ''
+description_main: 4_mm_id_7_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+id: hardware_bearing_600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_class: bearing_600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_color: 4_mm_id_7_mm_od_2.5_mm_depth
+id_no_size: 674_size_4_mm_id_7_mm_od_2.5_mm_depth
+id_no_type: 600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: 3684a483d70e3517bf9b8ac130dd3340
+md5_10: 3684a483d7
+md5_10_upper: 3684A483D7
+md5_5: 3684a
+md5_5_upper: 3684A
+md5_6: 3684a4
+md5_6_alpha: 24kv8
+md5_6_alpha_upper: 24KV8
+md5_6_upper: 3684A4
+name: Hardware Bearing 600 Series 674 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_class: Bearing 600 Series 674 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_color: 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_size: 674 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+name_no_type: 600 Series 674 Size 4 Mm Id 7 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_674_size_4_mm_id_7_mm_od_2.5_mm_depth
+oomp_word: rabbit key book
+oomp_word_emoji: ':rabbit: :key: :book:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':key:'
+- ':book:'
+oomp_word_list:
+- rabbit
+- key
+- book
+part_number: ''
+size: 600_series
+type: bearing

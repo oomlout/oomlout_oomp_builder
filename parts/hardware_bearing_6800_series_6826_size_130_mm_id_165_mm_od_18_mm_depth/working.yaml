@@ -1,0 +1,40 @@
+classification: hardware
+color: 6826_size
+description_extra: ''
+description_main: 130_mm_id_165_mm_od_18_mm_depth
+directory: parts/hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+id: hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+id_no_class: bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+id_no_color: 130_mm_id_165_mm_od_18_mm_depth
+id_no_size: 6826_size_130_mm_id_165_mm_od_18_mm_depth
+id_no_type: 6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+manufacturer: ''
+md5: c3616f1d50b06827a2e253c31f108c82
+md5_10: c3616f1d50
+md5_10_upper: C3616F1D50
+md5_5: c3616
+md5_5_upper: C3616
+md5_6: c3616f
+md5_6_alpha: 7mfzj
+md5_6_alpha_upper: 7MFZJ
+md5_6_upper: C3616F
+name: Hardware Bearing 6800 Series 6826 Size 130 Mm Id 165 Mm Od 18 Mm Depth
+name_no_class: Bearing 6800 Series 6826 Size 130 Mm Id 165 Mm Od 18 Mm Depth
+name_no_color: 130 Mm Id 165 Mm Od 18 Mm Depth
+name_no_size: 6826 Size 130 Mm Id 165 Mm Od 18 Mm Depth
+name_no_type: 6800 Series 6826 Size 130 Mm Id 165 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+oomp_word: cake bouquet moon
+oomp_word_emoji: ':cake: :bouquet: :moon:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':bouquet:'
+- ':moon:'
+oomp_word_list:
+- cake
+- bouquet
+- moon
+part_number: ''
+size: 6800_series
+type: bearing

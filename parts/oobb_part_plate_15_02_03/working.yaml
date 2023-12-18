@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_02_03'
+directory: parts/oobb_part_plate_15_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_02_03
+id: oobb_part_plate_15_02_03
+id_no_class: part_plate_15_02_03
+id_no_color: '150203'
+id_no_size: '15_02_03'
+id_no_type: plate_15_02_03
+manufacturer: ''
+md5: e030a3cf5c2acb3b354ebdc885bbae1d
+md5_10: e030a3cf5c
+md5_10_upper: E030A3CF5C
+md5_5: e030a
+md5_5_upper: E030A
+md5_6: e030a3
+md5_6_alpha: 8qwtf
+md5_6_alpha_upper: 8QWTF
+md5_6_upper: E030A3
+name: Oobb Part Plate 15 02 03
+name_no_class: Part Plate 15 02 03
+name_no_color: '150203'
+name_no_size: 15 02 03
+name_no_type: Plate 15 02 03
+oomp_key: oomp_oobb_part_plate_15_02_03
+oomp_word: ship foggy pencil
+oomp_word_emoji: ':ship: :foggy: :pencil:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':foggy:'
+- ':pencil:'
+oomp_word_list:
+- ship
+- foggy
+- pencil
+part_number: ''
+size: plate
+type: part

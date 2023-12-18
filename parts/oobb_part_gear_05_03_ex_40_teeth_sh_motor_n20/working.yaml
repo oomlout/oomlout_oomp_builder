@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_ex_40_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03_ex_40_teeth_sh_motor_n20
+id: oobb_part_gear_05_03_ex_40_teeth_sh_motor_n20
+id_no_class: part_gear_05_03_ex_40_teeth_sh_motor_n20
+id_no_color: 0503ex40teethshmotorn20
+id_no_size: 05_03_ex_40_teeth_sh_motor_n20
+id_no_type: gear_05_03_ex_40_teeth_sh_motor_n20
+manufacturer: ''
+md5: 2fe5c977bf6ffdc8455944f0c136c319
+md5_10: 2fe5c977bf
+md5_10_upper: 2FE5C977BF
+md5_5: 2fe5c
+md5_5_upper: 2FE5C
+md5_6: 2fe5c9
+md5_6_alpha: 1va2x
+md5_6_alpha_upper: 1VA2X
+md5_6_upper: 2FE5C9
+name: Oobb Part Gear 05 03 Ex 40 Teeth Sh Motor N20
+name_no_class: Part Gear 05 03 Ex 40 Teeth Sh Motor N20
+name_no_color: 0503Ex40Teethshmotorn20
+name_no_size: 05 03 Ex 40 Teeth Sh Motor N20
+name_no_type: Gear 05 03 Ex 40 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_05_03_ex_40_teeth_sh_motor_n20
+oomp_word: cyclone rocket lemon
+oomp_word_emoji: ':cyclone: :rocket: :lemon:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':rocket:'
+- ':lemon:'
+oomp_word_list:
+- cyclone
+- rocket
+- lemon
+part_number: ''
+size: gear
+type: part

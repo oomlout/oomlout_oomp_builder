@@ -1,0 +1,40 @@
+classification: hardware
+color: 5200_size
+description_extra: ''
+description_main: 10_mm_id_30_mm_od_14.2_mm_depth
+directory: parts/hardware_bearing_5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+id: hardware_bearing_5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+id_no_class: bearing_5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+id_no_color: 10_mm_id_30_mm_od_14.2_mm_depth
+id_no_size: 5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+id_no_type: 5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+manufacturer: ''
+md5: cc64c2bd7a59b09ab1a24a25219b08f4
+md5_10: cc64c2bd7a
+md5_10_upper: CC64C2BD7A
+md5_5: cc64c
+md5_5_upper: CC64C
+md5_6: cc64c2
+md5_6_alpha: 7z3r6
+md5_6_alpha_upper: 7Z3R6
+md5_6_upper: CC64C2
+name: Hardware Bearing 5200 Series 5200 Size 10 Mm Id 30 Mm Od 14.2 Mm Depth
+name_no_class: Bearing 5200 Series 5200 Size 10 Mm Id 30 Mm Od 14.2 Mm Depth
+name_no_color: 10 Mm Id 30 Mm Od 14.2 Mm Depth
+name_no_size: 5200 Size 10 Mm Id 30 Mm Od 14.2 Mm Depth
+name_no_type: 5200 Series 5200 Size 10 Mm Id 30 Mm Od 14.2 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5200_size_10_mm_id_30_mm_od_14.2_mm_depth
+oomp_word: watermelon sunflower birthday
+oomp_word_emoji: ':watermelon: :sunflower: :birthday:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':sunflower:'
+- ':birthday:'
+oomp_word_list:
+- watermelon
+- sunflower
+- birthday
+part_number: ''
+size: 5200_series
+type: bearing

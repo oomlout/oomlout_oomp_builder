@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_30
+directory: parts/oobb_part_tray_01_09_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_09_30
+id: oobb_part_tray_01_09_30
+id_no_class: part_tray_01_09_30
+id_no_color: 010930
+id_no_size: 01_09_30
+id_no_type: tray_01_09_30
+manufacturer: ''
+md5: 8a51f1a196bfecf0494eec572c247957
+md5_10: 8a51f1a196
+md5_10_upper: 8A51F1A196
+md5_5: 8a51f
+md5_5_upper: 8A51F
+md5_6: 8a51f1
+md5_6_alpha: 5eak1
+md5_6_alpha_upper: 5EAK1
+md5_6_upper: 8A51F1
+name: Oobb Part Tray 01 09 30
+name_no_class: Part Tray 01 09 30
+name_no_color: 010930
+name_no_size: 01 09 30
+name_no_type: Tray 01 09 30
+oomp_key: oomp_oobb_part_tray_01_09_30
+oomp_word: envelope snail ticket
+oomp_word_emoji: ':envelope: :snail: :ticket:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':snail:'
+- ':ticket:'
+oomp_word_list:
+- envelope
+- snail
+- ticket
+part_number: ''
+size: tray
+type: part

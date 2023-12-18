@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '18_01_03'
+directory: parts/oobb_part_plate_18_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_01_03
+id: oobb_part_plate_18_01_03
+id_no_class: part_plate_18_01_03
+id_no_color: '180103'
+id_no_size: '18_01_03'
+id_no_type: plate_18_01_03
+manufacturer: ''
+md5: 789a85dd2da9fc6f54ee06d80ecb4004
+md5_10: 789a85dd2d
+md5_10_upper: 789A85DD2D
+md5_5: 789a8
+md5_5_upper: 789A8
+md5_6: 789a85
+md5_6_alpha: 4peo5
+md5_6_alpha_upper: 4PEO5
+md5_6_upper: 789A85
+name: Oobb Part Plate 18 01 03
+name_no_class: Part Plate 18 01 03
+name_no_color: '180103'
+name_no_size: 18 01 03
+name_no_type: Plate 18 01 03
+oomp_key: oomp_oobb_part_plate_18_01_03
+oomp_word: bell golf bulb
+oomp_word_emoji: ':bell: :golf: :bulb:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':golf:'
+- ':bulb:'
+oomp_word_list:
+- bell
+- golf
+- bulb
+part_number: ''
+size: plate
+type: part

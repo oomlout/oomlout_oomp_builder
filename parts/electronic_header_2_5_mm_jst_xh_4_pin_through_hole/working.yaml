@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 4_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_4_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_4_pin_through_hole
+id: electronic_header_2_5_mm_jst_xh_4_pin_through_hole
+id_no_class: header_2_5_mm_jst_xh_4_pin_through_hole
+id_no_color: 4pinthroughhole
+id_no_size: 4_pin_through_hole
+id_no_type: 2_5_mm_jst_xh_4_pin_through_hole
+manufacturer: ''
+md5: a60cce5444ab75de3b88512036fe9be8
+md5_10: a60cce5444
+md5_10_upper: A60CCE5444
+md5_5: a60cc
+md5_5_upper: A60CC
+md5_6: a60cce
+md5_6_alpha: 6h8su
+md5_6_alpha_upper: 6H8SU
+md5_6_upper: A60CCE
+name: Electronic Header 2 5 Mm Jst Xh 4 Pin Through Hole
+name_no_class: Header 2 5 Mm Jst Xh 4 Pin Through Hole
+name_no_color: 4Pinthroughhole
+name_no_size: 4 Pin Through Hole
+name_no_type: 2 5 Mm Jst Xh 4 Pin Through Hole
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_4_pin_through_hole
+oomp_word: trumpet alien peach
+oomp_word_emoji: ':trumpet: :alien: :peach:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':alien:'
+- ':peach:'
+oomp_word_list:
+- trumpet
+- alien
+- peach
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

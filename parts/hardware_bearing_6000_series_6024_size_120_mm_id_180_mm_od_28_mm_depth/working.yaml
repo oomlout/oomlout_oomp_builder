@@ -1,0 +1,40 @@
+classification: hardware
+color: 6024_size
+description_extra: ''
+description_main: 120_mm_id_180_mm_od_28_mm_depth
+directory: parts/hardware_bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+id: hardware_bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+id_no_class: bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+id_no_color: 120_mm_id_180_mm_od_28_mm_depth
+id_no_size: 6024_size_120_mm_id_180_mm_od_28_mm_depth
+id_no_type: 6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+manufacturer: ''
+md5: 6e0ec7fb6dc39873f6058b3d8f3f3264
+md5_10: 6e0ec7fb6d
+md5_10_upper: 6E0EC7FB6D
+md5_5: 6e0ec
+md5_5_upper: 6E0EC
+md5_6: 6e0ec7
+md5_6_alpha: 4aldz
+md5_6_alpha_upper: 4ALDZ
+md5_6_upper: 6E0EC7
+name: Hardware Bearing 6000 Series 6024 Size 120 Mm Id 180 Mm Od 28 Mm Depth
+name_no_class: Bearing 6000 Series 6024 Size 120 Mm Id 180 Mm Od 28 Mm Depth
+name_no_color: 120 Mm Id 180 Mm Od 28 Mm Depth
+name_no_size: 6024 Size 120 Mm Id 180 Mm Od 28 Mm Depth
+name_no_type: 6000 Series 6024 Size 120 Mm Id 180 Mm Od 28 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
+oomp_word: new_moon cupid honey_pot
+oomp_word_emoji: ':new_moon: :cupid: :honey_pot:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':cupid:'
+- ':honey_pot:'
+oomp_word_list:
+- new_moon
+- cupid
+- honey_pot
+part_number: ''
+size: 6000_series
+type: bearing

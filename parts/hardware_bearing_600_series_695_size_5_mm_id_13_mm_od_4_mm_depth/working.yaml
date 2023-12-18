@@ -1,0 +1,40 @@
+classification: hardware
+color: 695_size
+description_extra: ''
+description_main: 5_mm_id_13_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+id: hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_class: bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_color: 5_mm_id_13_mm_od_4_mm_depth
+id_no_size: 695_size_5_mm_id_13_mm_od_4_mm_depth
+id_no_type: 600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+manufacturer: ''
+md5: 31fa06ceba99cce4690a69d047f17c79
+md5_10: 31fa06ceba
+md5_10_upper: 31FA06CEBA
+md5_5: 31fa0
+md5_5_upper: 31FA0
+md5_6: 31fa06
+md5_6_alpha: 1y77q
+md5_6_alpha_upper: 1Y77Q
+md5_6_upper: 31FA06
+name: Hardware Bearing 600 Series 695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_color: 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_size: 695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+name_no_type: 600 Series 695 Size 5 Mm Id 13 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
+oomp_word: ocean nine sleeping
+oomp_word_emoji: ':ocean: :nine: :sleeping:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':nine:'
+- ':sleeping:'
+oomp_word_list:
+- ocean
+- nine
+- sleeping
+part_number: ''
+size: 600_series
+type: bearing

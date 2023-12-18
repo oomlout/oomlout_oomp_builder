@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0201_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_green
+id: electronic_led_0201_green
+id_no_class: led_0201_green
+id_no_color: green
+id_no_size: green
+id_no_type: 0201_green
+manufacturer: ''
+md5: 8ac6d3b3539fcf933a0fac5ad6c0ca54
+md5_10: 8ac6d3b353
+md5_10_upper: 8AC6D3B353
+md5_5: 8ac6d
+md5_5_upper: 8AC6D
+md5_6: 8ac6d3
+md5_6_alpha: 5exn7
+md5_6_alpha_upper: 5EXN7
+md5_6_upper: 8AC6D3
+name: Electronic Led 0201 Green
+name_no_class: Led 0201 Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 0201 Green
+oomp_key: oomp_electronic_led_0201_green
+oomp_word: envelope lollipop tomato
+oomp_word_emoji: ':envelope: :lollipop: :tomato:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':lollipop:'
+- ':tomato:'
+oomp_word_list:
+- envelope
+- lollipop
+- tomato
+part_number: ''
+size: '0201'
+type: led

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_ex_small
+directory: parts/oobb_part_shaft_01_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01_ex_small
+id: oobb_part_shaft_01_ex_small
+id_no_class: part_shaft_01_ex_small
+id_no_color: 01exsmall
+id_no_size: 01_ex_small
+id_no_type: shaft_01_ex_small
+manufacturer: ''
+md5: 3bbc0611ddac7478fd73d13567ae6a3c
+md5_10: 3bbc0611dd
+md5_10_upper: 3BBC0611DD
+md5_5: 3bbc0
+md5_5_upper: 3BBC0
+md5_6: 3bbc06
+md5_6_alpha: 2bwna
+md5_6_alpha_upper: 2BWNA
+md5_6_upper: 3BBC06
+name: Oobb Part Shaft 01 Ex Small
+name_no_class: Part Shaft 01 Ex Small
+name_no_color: 01Exsmall
+name_no_size: 01 Ex Small
+name_no_type: Shaft 01 Ex Small
+oomp_key: oomp_oobb_part_shaft_01_ex_small
+oomp_word: bear sushi sleeping
+oomp_word_emoji: ':bear: :sushi: :sleeping:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':sushi:'
+- ':sleeping:'
+oomp_word_list:
+- bear
+- sushi
+- sleeping
+part_number: ''
+size: shaft
+type: part

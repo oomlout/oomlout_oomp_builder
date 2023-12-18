@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_02_12'
+directory: parts/oobb_part_tray_vertical_12_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_02_12
+id: oobb_part_tray_vertical_12_02_12
+id_no_class: part_tray_vertical_12_02_12
+id_no_color: '120212'
+id_no_size: '12_02_12'
+id_no_type: tray_vertical_12_02_12
+manufacturer: ''
+md5: 6d2c32d53fad967ba30b66b2626f83e2
+md5_10: 6d2c32d53f
+md5_10_upper: 6D2C32D53F
+md5_5: 6d2c3
+md5_5_upper: 6D2C3
+md5_6: 6d2c32
+md5_6_alpha: 49cmq
+md5_6_alpha_upper: 49CMQ
+md5_6_upper: 6D2C32
+name: Oobb Part Tray Vertical 12 02 12
+name_no_class: Part Tray Vertical 12 02 12
+name_no_color: '120212'
+name_no_size: 12 02 12
+name_no_type: Tray Vertical 12 02 12
+oomp_key: oomp_oobb_part_tray_vertical_12_02_12
+oomp_word: shell snowflake cat
+oomp_word_emoji: ':shell: :snowflake: :cat:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':snowflake:'
+- ':cat:'
+oomp_word_list:
+- shell
+- snowflake
+- cat
+part_number: ''
+size: tray_vertical
+type: part

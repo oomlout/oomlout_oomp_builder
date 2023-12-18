@@ -1,0 +1,40 @@
+classification: hardware
+color: 623_size
+description_extra: ''
+description_main: 3_mm_id_10_mm_od_4_mm_depth
+directory: parts/hardware_bearing_600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+id: hardware_bearing_600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_class: bearing_600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_color: 3_mm_id_10_mm_od_4_mm_depth
+id_no_size: 623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_type: 600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+manufacturer: ''
+md5: 8b117d5b92523a46780e393375cf00cf
+md5_10: 8b117d5b92
+md5_10_upper: 8B117D5B92
+md5_5: 8b117
+md5_5_upper: 8B117
+md5_6: 8b117d
+md5_6_alpha: 5fce5
+md5_6_alpha_upper: 5FCE5
+md5_6_upper: 8B117D
+name: Hardware Bearing 600 Series 623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_class: Bearing 600 Series 623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_size: 623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_type: 600 Series 623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_623_size_3_mm_id_10_mm_od_4_mm_depth
+oomp_word: door dizzy phone
+oomp_word_emoji: ':door: :dizzy: :phone:'
+oomp_word_emoji_list:
+- ':door:'
+- ':dizzy:'
+- ':phone:'
+oomp_word_list:
+- door
+- dizzy
+- phone
+part_number: ''
+size: 600_series
+type: bearing

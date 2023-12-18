@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_02_30
+directory: parts/oobb_part_tray_thin_08_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_02_30
+id: oobb_part_tray_thin_08_02_30
+id_no_class: part_tray_thin_08_02_30
+id_no_color: 080230
+id_no_size: 08_02_30
+id_no_type: tray_thin_08_02_30
+manufacturer: ''
+md5: bfdae627e3f8cb04d1ec12c4dfdae2e2
+md5_10: bfdae627e3
+md5_10_upper: BFDAE627E3
+md5_5: bfdae
+md5_5_upper: BFDAE
+md5_6: bfdae6
+md5_6_alpha: 7hhpi
+md5_6_alpha_upper: 7HHPI
+md5_6_upper: BFDAE6
+name: Oobb Part Tray Thin 08 02 30
+name_no_class: Part Tray Thin 08 02 30
+name_no_color: 080230
+name_no_size: 08 02 30
+name_no_type: Tray Thin 08 02 30
+oomp_key: oomp_oobb_part_tray_thin_08_02_30
+oomp_word: egg hotel airplane
+oomp_word_emoji: ':egg: :hotel: :airplane:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':hotel:'
+- ':airplane:'
+oomp_word_list:
+- egg
+- hotel
+- airplane
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_03
+directory: parts/oobb_part_plate_08_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_05_03
+id: oobb_part_plate_08_05_03
+id_no_class: part_plate_08_05_03
+id_no_color: 080503
+id_no_size: 08_05_03
+id_no_type: plate_08_05_03
+manufacturer: ''
+md5: bc99faf47bfeb5f8cf739c9b5a280152
+md5_10: bc99faf47b
+md5_10_upper: BC99FAF47B
+md5_5: bc99f
+md5_5_upper: BC99F
+md5_6: bc99fa
+md5_6_alpha: 7cx6i
+md5_6_alpha_upper: 7CX6I
+md5_6_upper: BC99FA
+name: Oobb Part Plate 08 05 03
+name_no_class: Part Plate 08 05 03
+name_no_color: 080503
+name_no_size: 08 05 03
+name_no_type: Plate 08 05 03
+oomp_key: oomp_oobb_part_plate_08_05_03
+oomp_word: sushi bowling nine
+oomp_word_emoji: ':sushi: :bowling: :nine:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':bowling:'
+- ':nine:'
+oomp_word_list:
+- sushi
+- bowling
+- nine
+part_number: ''
+size: plate
+type: part

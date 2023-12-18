@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0402_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_green
+id: electronic_led_0402_green
+id_no_class: led_0402_green
+id_no_color: green
+id_no_size: green
+id_no_type: 0402_green
+manufacturer: ''
+md5: fcfe4f59874d0faff0697e455e42d253
+md5_10: fcfe4f5987
+md5_10_upper: FCFE4F5987
+md5_5: fcfe4
+md5_5_upper: FCFE4
+md5_6: fcfe4f
+md5_6_alpha: 9vdcf
+md5_6_alpha_upper: 9VDCF
+md5_6_upper: FCFE4F
+name: Electronic Led 0402 Green
+name_no_class: Led 0402 Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 0402 Green
+oomp_key: oomp_electronic_led_0402_green
+oomp_word: up recycle ant
+oomp_word_emoji: ':up: :recycle: :ant:'
+oomp_word_emoji_list:
+- ':up:'
+- ':recycle:'
+- ':ant:'
+oomp_word_list:
+- up
+- recycle
+- ant
+part_number: ''
+size: '0402'
+type: led

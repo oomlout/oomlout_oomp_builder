@@ -1,0 +1,40 @@
+classification: hardware
+color: 5206_size
+description_extra: ''
+description_main: 30_mm_id_62_mm_od_23.8_mm_depth
+directory: parts/hardware_bearing_5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+id: hardware_bearing_5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+id_no_class: bearing_5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+id_no_color: 30_mm_id_62_mm_od_23.8_mm_depth
+id_no_size: 5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+id_no_type: 5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+manufacturer: ''
+md5: d429e4ebe093d3f7b1aab3988ecf9d2c
+md5_10: d429e4ebe0
+md5_10_upper: D429E4EBE0
+md5_5: d429e
+md5_5_upper: D429E
+md5_6: d429e4
+md5_6_alpha: 8a0o4
+md5_6_alpha_upper: 8A0O4
+md5_6_upper: D429E4
+name: Hardware Bearing 5200 Series 5206 Size 30 Mm Id 62 Mm Od 23.8 Mm Depth
+name_no_class: Bearing 5200 Series 5206 Size 30 Mm Id 62 Mm Od 23.8 Mm Depth
+name_no_color: 30 Mm Id 62 Mm Od 23.8 Mm Depth
+name_no_size: 5206 Size 30 Mm Id 62 Mm Od 23.8 Mm Depth
+name_no_type: 5200 Series 5206 Size 30 Mm Id 62 Mm Od 23.8 Mm Depth
+oomp_key: oomp_hardware_bearing_5200_series_5206_size_30_mm_id_62_mm_od_23.8_mm_depth
+oomp_word: corn sunny anchor
+oomp_word_emoji: ':corn: :sunny: :anchor:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':sunny:'
+- ':anchor:'
+oomp_word_list:
+- corn
+- sunny
+- anchor
+part_number: ''
+size: 5200_series
+type: bearing

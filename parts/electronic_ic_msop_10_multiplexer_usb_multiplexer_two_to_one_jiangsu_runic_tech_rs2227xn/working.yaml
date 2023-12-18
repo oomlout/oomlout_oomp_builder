@@ -1,0 +1,42 @@
+classification: electronic
+color: multiplexer
+description_extra: two_to_one
+description_main: usb_multiplexer
+directory: parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+id: electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+id_no_class: ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+id_no_color: usb_two_to_one_jiangsu_runtech_rs2227xn
+id_no_size: multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn
+id_no_type: msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn
+manufacturer: jiangsu_runic_tech
+md5: 3a10020ea9997e59872f6e32c7913236
+md5_10: 3a10020ea9
+md5_10_upper: 3A10020EA9
+md5_5: 3a100
+md5_5_upper: 3A100
+md5_6: 3a1002
+md5_6_alpha: 29k3m
+md5_6_alpha_upper: 29K3M
+md5_6_upper: 3A1002
+name: Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech
+  Rs2227Xn
+name_no_class: Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech
+  Rs2227Xn
+name_no_color: Usb Two To One Jiangsu Runtech Rs2227Xn
+name_no_size: Multiplexer Usb Multiplexer Two To One Jiangsu Runtech Rs2227Xn
+name_no_type: Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runtech Rs2227Xn
+oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
+oomp_word: koala star blush
+oomp_word_emoji: ':koala: :star: :blush:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':star:'
+- ':blush:'
+oomp_word_list:
+- koala
+- star
+- blush
+part_number: rs2227xn
+size: msop_10
+type: ic

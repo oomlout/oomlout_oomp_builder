@@ -1,0 +1,40 @@
+classification: hardware
+color: 6801_size
+description_extra: ''
+description_main: 12_mm_id_21_mm_od_5_mm_depth
+directory: parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+id: hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+id_no_class: bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+id_no_color: 12_mm_id_21_mm_od_5_mm_depth
+id_no_size: 6801_size_12_mm_id_21_mm_od_5_mm_depth
+id_no_type: 6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+manufacturer: ''
+md5: dbee59eb93079beedc4f4cac4400c78f
+md5_10: dbee59eb93
+md5_10_upper: DBEE59EB93
+md5_5: dbee5
+md5_5_upper: DBEE5
+md5_6: dbee59
+md5_6_alpha: 8kxg9
+md5_6_alpha_upper: 8KXG9
+md5_6_upper: DBEE59
+name: Hardware Bearing 6800 Series 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth
+name_no_class: Bearing 6800 Series 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth
+name_no_color: 12 Mm Id 21 Mm Od 5 Mm Depth
+name_no_size: 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth
+name_no_type: 6800 Series 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth
+oomp_word: tent ambulance dragon
+oomp_word_emoji: ':tent: :ambulance: :dragon:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':ambulance:'
+- ':dragon:'
+oomp_word_list:
+- tent
+- ambulance
+- dragon
+part_number: ''
+size: 6800_series
+type: bearing

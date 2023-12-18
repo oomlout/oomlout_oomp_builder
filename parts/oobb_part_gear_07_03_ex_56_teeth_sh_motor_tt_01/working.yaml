@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_03_ex_56_teeth_sh_motor_tt_01
+directory: parts/oobb_part_gear_07_03_ex_56_teeth_sh_motor_tt_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03_ex_56_teeth_sh_motor_tt_01
+id: oobb_part_gear_07_03_ex_56_teeth_sh_motor_tt_01
+id_no_class: part_gear_07_03_ex_56_teeth_sh_motor_tt_01
+id_no_color: 0703ex56teethshmotortt01
+id_no_size: 07_03_ex_56_teeth_sh_motor_tt_01
+id_no_type: gear_07_03_ex_56_teeth_sh_motor_tt_01
+manufacturer: ''
+md5: 0a753d723b3badd2756f1ab25ee3ae7e
+md5_10: 0a753d723b
+md5_10_upper: 0A753D723B
+md5_5: 0a753
+md5_5_upper: 0A753
+md5_6: 0a753d
+md5_6_alpha: eou5
+md5_6_alpha_upper: EOU5
+md5_6_upper: 0A753D
+name: Oobb Part Gear 07 03 Ex 56 Teeth Sh Motor Tt 01
+name_no_class: Part Gear 07 03 Ex 56 Teeth Sh Motor Tt 01
+name_no_color: 0703Ex56Teethshmotortt01
+name_no_size: 07 03 Ex 56 Teeth Sh Motor Tt 01
+name_no_type: Gear 07 03 Ex 56 Teeth Sh Motor Tt 01
+oomp_key: oomp_oobb_part_gear_07_03_ex_56_teeth_sh_motor_tt_01
+oomp_word: sleepy ghost cow
+oomp_word_emoji: ':sleepy: :ghost: :cow:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':ghost:'
+- ':cow:'
+oomp_word_list:
+- sleepy
+- ghost
+- cow
+part_number: ''
+size: gear
+type: part

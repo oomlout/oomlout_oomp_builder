@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_18
+directory: parts/oobb_part_tray_thin_03_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_03_18
+id: oobb_part_tray_thin_03_03_18
+id_no_class: part_tray_thin_03_03_18
+id_no_color: 030318
+id_no_size: 03_03_18
+id_no_type: tray_thin_03_03_18
+manufacturer: ''
+md5: 379bef66acb4c38ad992c54961a0ea34
+md5_10: 379bef66ac
+md5_10_upper: 379BEF66AC
+md5_5: 379be
+md5_5_upper: 379BE
+md5_6: 379bef
+md5_6_alpha: 2641b
+md5_6_alpha_upper: 2641B
+md5_6_upper: 379BEF
+name: Oobb Part Tray Thin 03 03 18
+name_no_class: Part Tray Thin 03 03 18
+name_no_color: 030318
+name_no_size: 03 03 18
+name_no_type: Tray Thin 03 03 18
+oomp_key: oomp_oobb_part_tray_thin_03_03_18
+oomp_word: wolf ski truck
+oomp_word_emoji: ':wolf: :ski: :truck:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':ski:'
+- ':truck:'
+oomp_word_list:
+- wolf
+- ski
+- truck
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_11_03'
+directory: parts/oobb_part_plate_15_11_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_11_03
+id: oobb_part_plate_15_11_03
+id_no_class: part_plate_15_11_03
+id_no_color: '151103'
+id_no_size: '15_11_03'
+id_no_type: plate_15_11_03
+manufacturer: ''
+md5: ca6b7470d550248d474f4b54898b6986
+md5_10: ca6b7470d5
+md5_10_upper: CA6B7470D5
+md5_5: ca6b7
+md5_5_upper: CA6B7
+md5_6: ca6b74
+md5_6_alpha: 7wbxw
+md5_6_alpha_upper: 7WBXW
+md5_6_upper: CA6B74
+name: Oobb Part Plate 15 11 03
+name_no_class: Part Plate 15 11 03
+name_no_color: '151103'
+name_no_size: 15 11 03
+name_no_type: Plate 15 11 03
+oomp_key: oomp_oobb_part_plate_15_11_03
+oomp_word: cherries chestnut fireworks
+oomp_word_emoji: ':cherries: :chestnut: :fireworks:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':chestnut:'
+- ':fireworks:'
+oomp_word_list:
+- cherries
+- chestnut
+- fireworks
+part_number: ''
+size: plate
+type: part

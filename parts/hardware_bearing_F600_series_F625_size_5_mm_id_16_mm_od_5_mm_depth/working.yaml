@@ -1,0 +1,40 @@
+classification: hardware
+color: F625_size
+description_extra: ''
+description_main: 5_mm_id_16_mm_od_5_mm_depth
+directory: parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+id: hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_class: bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_color: 5_mm_id_16_mm_od_5_mm_depth
+id_no_size: F625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_type: F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+manufacturer: ''
+md5: f58be8b3e68eda8404ee72cd9f2f2f96
+md5_10: f58be8b3e6
+md5_10_upper: F58BE8B3E6
+md5_5: f58be
+md5_5_upper: F58BE
+md5_6: f58be8
+md5_6_alpha: 9kwrs
+md5_6_alpha_upper: 9KWRS
+md5_6_upper: F58BE8
+name: Hardware Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_class: Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_color: 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_size: F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_type: F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+oomp_word: four door tram
+oomp_word_emoji: ':four: :door: :tram:'
+oomp_word_emoji_list:
+- ':four:'
+- ':door:'
+- ':tram:'
+oomp_word_list:
+- four
+- door
+- tram
+part_number: ''
+size: F600_series
+type: bearing

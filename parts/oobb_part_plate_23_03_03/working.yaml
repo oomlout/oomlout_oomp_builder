@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '23_03_03'
+directory: parts/oobb_part_plate_23_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_23_03_03
+id: oobb_part_plate_23_03_03
+id_no_class: part_plate_23_03_03
+id_no_color: '230303'
+id_no_size: '23_03_03'
+id_no_type: plate_23_03_03
+manufacturer: ''
+md5: db277f2a9eb34c93fbb480a30cde660d
+md5_10: db277f2a9e
+md5_10_upper: DB277F2A9E
+md5_5: db277
+md5_5_upper: DB277
+md5_6: db277f
+md5_6_alpha: 8ju67
+md5_6_alpha_upper: 8JU67
+md5_6_upper: DB277F
+name: Oobb Part Plate 23 03 03
+name_no_class: Part Plate 23 03 03
+name_no_color: '230303'
+name_no_size: 23 03 03
+name_no_type: Plate 23 03 03
+oomp_key: oomp_oobb_part_plate_23_03_03
+oomp_word: tent nose speaker
+oomp_word_emoji: ':tent: :nose: :speaker:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':nose:'
+- ':speaker:'
+oomp_word_list:
+- tent
+- nose
+- speaker
+part_number: ''
+size: plate
+type: part

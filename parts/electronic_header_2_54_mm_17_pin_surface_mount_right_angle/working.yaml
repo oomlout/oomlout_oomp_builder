@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 17_pin
+directory: parts/electronic_header_2_54_mm_17_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_17_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_17_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_17_pin_surface_mount_right_angle
+id_no_color: 17pinsurfacemountrightangle
+id_no_size: 17_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_17_pin_surface_mount_right_angle
+manufacturer: ''
+md5: d6b0eb7368cd61e44b7475d166669c2e
+md5_10: d6b0eb7368
+md5_10_upper: D6B0EB7368
+md5_5: d6b0e
+md5_5_upper: D6B0E
+md5_6: d6b0eb
+md5_6_alpha: 8dkh7
+md5_6_alpha_upper: 8DKH7
+md5_6_upper: D6B0EB
+name: Electronic Header 2 54 Mm 17 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 17 Pin Surface Mount Right Angle
+name_no_color: 17Pinsurfacemountrightangle
+name_no_size: 17 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 17 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_17_pin_surface_mount_right_angle
+oomp_word: school crown car
+oomp_word_emoji: ':school: :crown: :car:'
+oomp_word_emoji_list:
+- ':school:'
+- ':crown:'
+- ':car:'
+oomp_word_list:
+- school
+- crown
+- car
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: hardware
+color: 6704_size
+description_extra: ''
+description_main: 20_mm_id_27_mm_od_4_mm_depth
+directory: parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+id: hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+id_no_class: bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+id_no_color: 20_mm_id_27_mm_od_4_mm_depth
+id_no_size: 6704_size_20_mm_id_27_mm_od_4_mm_depth
+id_no_type: 6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+manufacturer: ''
+md5: 7edd1090264a248f9e6140547bebe5c5
+md5_10: 7edd109026
+md5_10_upper: 7EDD109026
+md5_5: 7edd1
+md5_5_upper: 7EDD1
+md5_6: 7edd10
+md5_6_alpha: 4y780
+md5_6_alpha_upper: 4Y780
+md5_6_upper: 7EDD10
+name: Hardware Bearing 6700 Series 6704 Size 20 Mm Id 27 Mm Od 4 Mm Depth
+name_no_class: Bearing 6700 Series 6704 Size 20 Mm Id 27 Mm Od 4 Mm Depth
+name_no_color: 20 Mm Id 27 Mm Od 4 Mm Depth
+name_no_size: 6704 Size 20 Mm Id 27 Mm Od 4 Mm Depth
+name_no_type: 6700 Series 6704 Size 20 Mm Id 27 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+oomp_word: fax stars star
+oomp_word_emoji: ':fax: :stars: :star:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':stars:'
+- ':star:'
+oomp_word_list:
+- fax
+- stars
+- star
+part_number: ''
+size: 6700_series
+type: bearing

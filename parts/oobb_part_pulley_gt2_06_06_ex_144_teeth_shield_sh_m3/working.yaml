@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+id_no_color: 0606ex144teethshieldshm3
+id_no_size: 06_06_ex_144_teeth_shield_sh_m3
+id_no_type: pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+manufacturer: ''
+md5: b20b29a92c8bd2deb5d19527b73ae6ea
+md5_10: b20b29a92c
+md5_10_upper: B20B29A92C
+md5_5: b20b2
+md5_5_upper: B20B2
+md5_6: b20b29
+md5_6_alpha: 6y3ah
+md5_6_alpha_upper: 6Y3AH
+md5_6_upper: B20B29
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M3
+name_no_color: 0606Ex144Teethshieldshm3
+name_no_size: 06 06 Ex 144 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_m3
+oomp_word: handbag sunglasses sunny
+oomp_word_emoji: ':handbag: :sunglasses: :sunny:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':sunglasses:'
+- ':sunny:'
+oomp_word_list:
+- handbag
+- sunglasses
+- sunny
+part_number: ''
+size: pulley_gt2
+type: part

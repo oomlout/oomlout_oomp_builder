@@ -1,0 +1,40 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_3_mm_green
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green
+id: electronic_led_3_mm_green
+id_no_class: led_3_mm_green
+id_no_color: green
+id_no_size: green
+id_no_type: 3_mm_green
+manufacturer: ''
+md5: 6b2621821d0a1bfef913831a2f11c3b5
+md5_10: 6b2621821d
+md5_10_upper: 6B2621821D
+md5_5: 6b262
+md5_5_upper: 6B262
+md5_6: 6b2621
+md5_6_alpha: 46iap
+md5_6_alpha_upper: 46IAP
+md5_6_upper: 6B2621
+name: Electronic Led 3 Mm Green
+name_no_class: Led 3 Mm Green
+name_no_color: Green
+name_no_size: Green
+name_no_type: 3 Mm Green
+oomp_key: oomp_electronic_led_3_mm_green
+oomp_word: chestnut eyes feet
+oomp_word_emoji: ':chestnut: :eyes: :feet:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':eyes:'
+- ':feet:'
+oomp_word_list:
+- chestnut
+- eyes
+- feet
+part_number: ''
+size: 3_mm
+type: led

@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 11_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_11_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_11_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_11_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_11_pin_dupont
+id_no_color: 11_pin_dupont
+id_no_size: black_11_pin_dupont
+id_no_type: 2_54_mm_black_11_pin_dupont
+manufacturer: ''
+md5: 0067e1fdedfa2c49720082cf8a3c09af
+md5_10: 0067e1fded
+md5_10_upper: 0067E1FDED
+md5_5: 0067e
+md5_5_upper: 0067E
+md5_6: 0067e1
+md5_6_alpha: kip
+md5_6_alpha_upper: KIP
+md5_6_upper: 0067E1
+name: Electronic Crimp Housing 2 54 Mm Black 11 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 11 Pin Dupont
+name_no_color: 11 Pin Dupont
+name_no_size: Black 11 Pin Dupont
+name_no_type: 2 54 Mm Black 11 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_11_pin_dupont
+oomp_word: bowtie herb boat
+oomp_word_emoji: ':bowtie: :herb: :boat:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':herb:'
+- ':boat:'
+oomp_word_list:
+- bowtie
+- herb
+- boat
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

@@ -1,0 +1,40 @@
+classification: hardware
+color: F693_size
+description_extra: ''
+description_main: 3_mm_id_8_mm_od_4_mm_depth
+directory: parts/hardware_bearing_F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+id: hardware_bearing_F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_class: bearing_F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_color: 3_mm_id_8_mm_od_4_mm_depth
+id_no_size: F693_size_3_mm_id_8_mm_od_4_mm_depth
+id_no_type: F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+manufacturer: ''
+md5: 02e29a121a613d7af3c9931f7adc048f
+md5_10: 02e29a121a
+md5_10_upper: 02E29A121A
+md5_5: 02e29
+md5_5_upper: 02E29
+md5_6: 02e29a
+md5_6_alpha: 41wa
+md5_6_alpha_upper: 41WA
+md5_6_upper: 02E29A
+name: Hardware Bearing F600 Series F693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_class: Bearing F600 Series F693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_size: F693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+name_no_type: F600 Series F693 Size 3 Mm Id 8 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F693_size_3_mm_id_8_mm_od_4_mm_depth
+oomp_word: blush sailboat golf
+oomp_word_emoji: ':blush: :sailboat: :golf:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':sailboat:'
+- ':golf:'
+oomp_word_list:
+- blush
+- sailboat
+- golf
+part_number: ''
+size: F600_series
+type: bearing

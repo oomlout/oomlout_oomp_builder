@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 80_mm
-description_main_capital: 80 mm
-description_main_first_letter: '8'
-description_main_first_letter_upper: '8'
-description_main_upper: 80_MM
-description_only_numbers: '80'
-description_only_numbers_short: '80'
-description_or_color: '80'
-description_or_color_upper: '80'
 directory: parts/hardware_set_screw_5_mm_80_mm
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_80_mm
 id: hardware_set_screw_5_mm_80_mm
 id_no_class: set_screw_5_mm_80_mm
 id_no_color: 80mm
 id_no_size: 80_mm
 id_no_type: 5_mm_80_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_set_screw_5_mm_80_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_80_mm/working)<br>[ss580](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_80_mm/working)<br>[Hardware
-  Set Screw 5 Mm 80 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_80_mm/working)<br><br>'
-markdown_short: '[hardware_set_screw_5_mm_80_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_80_mm/working)<br><br>'
 md5: e6072fd614d8249c69a5607f5f7bbb46
 md5_10: e6072fd614
 md5_10_upper: E6072FD614
@@ -55,17 +23,14 @@ name: Hardware Set Screw 5 Mm 80 Mm
 name_no_class: Set Screw 5 Mm 80 Mm
 name_no_color: 80Mm
 name_no_size: 80 Mm
-name_no_size_short: 80 Mm
 name_no_type: 5 Mm 80 Mm
 oomlout_bolt_color: ''
-oomlout_bolt_head_type: ''
-oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_head_type: Bolt
 oomlout_bolt_length: 80 mm
 oomlout_bolt_length_no_unit: '80'
-oomlout_bolt_name: Set Screw M5X80 mm  ()
+oomlout_bolt_name: Set Screw M5X80 mm  (Bolt)
 oomlout_bolt_size: M5
 oomlout_bolt_type: Set Screw
-oomlout_bolt_type_diagram_diagram: type_diagram.svg
 oomlout_short_code: ss5m80
 oomlout_short_code_upper: SS5M80
 oomp_key: oomp_hardware_set_screw_5_mm_80_mm
@@ -80,21 +45,5 @@ oomp_word_list:
 - cry
 - cyclone
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ss580
-short_code_upper: SS580
 size: 5_mm
-size_capital: 5 mm
-size_first_letter: '5'
-size_first_letter_upper: '5'
-size_only_numbers: '5'
-size_only_numbers_no_zeros: '5'
-size_upper: 5_MM
 type: set_screw
-type_capital: Set Screw
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SET_SCREW

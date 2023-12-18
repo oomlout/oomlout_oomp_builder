@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_04_12'
+directory: parts/oobb_part_tray_vertical_06_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_12
+id: oobb_part_tray_vertical_06_04_12
+id_no_class: part_tray_vertical_06_04_12
+id_no_color: '060412'
+id_no_size: '06_04_12'
+id_no_type: tray_vertical_06_04_12
+manufacturer: ''
+md5: 7d77821479305c19f28b53ec04d1406e
+md5_10: 7d77821479
+md5_10_upper: 7D77821479
+md5_5: 7d778
+md5_5_upper: 7D778
+md5_6: 7d7782
+md5_6_alpha: 4w8le
+md5_6_alpha_upper: 4W8LE
+md5_6_upper: 7D7782
+name: Oobb Part Tray Vertical 06 04 12
+name_no_class: Part Tray Vertical 06 04 12
+name_no_color: '060412'
+name_no_size: 06 04 12
+name_no_type: Tray Vertical 06 04 12
+oomp_key: oomp_oobb_part_tray_vertical_06_04_12
+oomp_word: phone gift radio
+oomp_word_emoji: ':phone: :gift: :radio:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':gift:'
+- ':radio:'
+oomp_word_list:
+- phone
+- gift
+- radio
+part_number: ''
+size: tray_vertical
+type: part

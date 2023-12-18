@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_07_18
+directory: parts/oobb_part_tray_03_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_07_18
+id: oobb_part_tray_03_07_18
+id_no_class: part_tray_03_07_18
+id_no_color: 030718
+id_no_size: 03_07_18
+id_no_type: tray_03_07_18
+manufacturer: ''
+md5: 3b383ef2e8b8948ddc23700bff7349f9
+md5_10: 3b383ef2e8
+md5_10_upper: 3B383EF2E8
+md5_5: 3b383
+md5_5_upper: 3B383
+md5_6: 3b383e
+md5_6_alpha: 2b6m6
+md5_6_alpha_upper: 2B6M6
+md5_6_upper: 3B383E
+name: Oobb Part Tray 03 07 18
+name_no_class: Part Tray 03 07 18
+name_no_color: 030718
+name_no_size: 03 07 18
+name_no_type: Tray 03 07 18
+oomp_key: oomp_oobb_part_tray_03_07_18
+oomp_word: bear frog monkey
+oomp_word_emoji: ':bear: :frog: :monkey:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':frog:'
+- ':monkey:'
+oomp_word_list:
+- bear
+- frog
+- monkey
+part_number: ''
+size: tray
+type: part

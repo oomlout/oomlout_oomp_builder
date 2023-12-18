@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 26_pin
+directory: parts/electronic_header_2_54_mm_26_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_short
+id: electronic_header_2_54_mm_26_pin_through_hole_short
+id_no_class: header_2_54_mm_26_pin_through_hole_short
+id_no_color: 26pinthroughholeshort
+id_no_size: 26_pin_through_hole_short
+id_no_type: 2_54_mm_26_pin_through_hole_short
+manufacturer: ''
+md5: dd76283182dec5177c478e27250a98ea
+md5_10: dd76283182
+md5_10_upper: DD76283182
+md5_5: dd762
+md5_5_upper: DD762
+md5_6: dd7628
+md5_6_alpha: 8n2ug
+md5_6_alpha_upper: 8N2UG
+md5_6_upper: DD7628
+name: Electronic Header 2 54 Mm 26 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 26 Pin Through Hole Short
+name_no_color: 26Pinthroughholeshort
+name_no_size: 26 Pin Through Hole Short
+name_no_type: 2 54 Mm 26 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_26_pin_through_hole_short
+oomp_word: stars santa tongue
+oomp_word_emoji: ':stars: :santa: :tongue:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':santa:'
+- ':tongue:'
+oomp_word_list:
+- stars
+- santa
+- tongue
+part_number: ''
+size: 2_54_mm
+type: header

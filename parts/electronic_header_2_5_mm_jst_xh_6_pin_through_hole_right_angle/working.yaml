@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 6_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_6_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_6_pin_through_hole_right_angle
+id_no_color: 6pinthroughholerightangle
+id_no_size: 6_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_6_pin_through_hole_right_angle
+manufacturer: ''
+md5: 16fdb3c142fe35db5666425802c4a7bb
+md5_10: 16fdb3c142
+md5_10_upper: 16FDB3C142
+md5_5: 16fdb
+md5_5_upper: 16FDB
+md5_6: 16fdb3
+md5_6_alpha: walv
+md5_6_alpha_upper: WALV
+md5_6_upper: 16FDB3
+name: Electronic Header 2 5 Mm Jst Xh 6 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 6 Pin Through Hole Right Angle
+name_no_color: 6Pinthroughholerightangle
+name_no_size: 6 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 6 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_6_pin_through_hole_right_angle
+oomp_word: thumbsup parking eyeglasses
+oomp_word_emoji: ':thumbsup: :parking: :eyeglasses:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':parking:'
+- ':eyeglasses:'
+oomp_word_list:
+- thumbsup
+- parking
+- eyeglasses
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

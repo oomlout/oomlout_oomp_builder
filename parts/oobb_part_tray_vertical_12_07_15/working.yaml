@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_07_15'
+directory: parts/oobb_part_tray_vertical_12_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_07_15
+id: oobb_part_tray_vertical_12_07_15
+id_no_class: part_tray_vertical_12_07_15
+id_no_color: '120715'
+id_no_size: '12_07_15'
+id_no_type: tray_vertical_12_07_15
+manufacturer: ''
+md5: 6e5f439b0f0ed1cf3bfba00eb7940d1d
+md5_10: 6e5f439b0f
+md5_10_upper: 6E5F439B0F
+md5_5: 6e5f4
+md5_5_upper: 6E5F4
+md5_6: 6e5f43
+md5_6_alpha: 4b1ab
+md5_6_alpha_upper: 4B1AB
+md5_6_upper: 6E5F43
+name: Oobb Part Tray Vertical 12 07 15
+name_no_class: Part Tray Vertical 12 07 15
+name_no_color: '120715'
+name_no_size: 12 07 15
+name_no_type: Tray Vertical 12 07 15
+oomp_key: oomp_oobb_part_tray_vertical_12_07_15
+oomp_word: new_moon leopard elephant
+oomp_word_emoji: ':new_moon: :leopard: :elephant:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':leopard:'
+- ':elephant:'
+oomp_word_list:
+- new_moon
+- leopard
+- elephant
+part_number: ''
+size: tray_vertical
+type: part

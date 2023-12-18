@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_03_18'
+directory: parts/oobb_part_tray_vertical_11_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_03_18
+id: oobb_part_tray_vertical_11_03_18
+id_no_class: part_tray_vertical_11_03_18
+id_no_color: '110318'
+id_no_size: '11_03_18'
+id_no_type: tray_vertical_11_03_18
+manufacturer: ''
+md5: 0ab8a5eed62ac56607f3e551a25e7ac2
+md5_10: 0ab8a5eed6
+md5_10_upper: 0AB8A5EED6
+md5_5: 0ab8a
+md5_5_upper: 0AB8A
+md5_6: 0ab8a5
+md5_6_alpha: f25h
+md5_6_alpha_upper: F25H
+md5_6_upper: 0AB8A5
+name: Oobb Part Tray Vertical 11 03 18
+name_no_class: Part Tray Vertical 11 03 18
+name_no_color: '110318'
+name_no_size: 11 03 18
+name_no_type: Tray Vertical 11 03 18
+oomp_key: oomp_oobb_part_tray_vertical_11_03_18
+oomp_word: sleepy hamburger headphones
+oomp_word_emoji: ':sleepy: :hamburger: :headphones:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':hamburger:'
+- ':headphones:'
+oomp_word_list:
+- sleepy
+- hamburger
+- headphones
+part_number: ''
+size: tray_vertical
+type: part

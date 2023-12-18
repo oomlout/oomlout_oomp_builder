@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_self_tapping_m2_10
+directory: parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_10
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_10
+id: oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_10
+id_no_class: part_screw_self_tapping_hardware_screw_self_tapping_m2_10
+id_no_color: hardwarem210
+id_no_size: hardware_m2_10
+id_no_type: screw_self_tapping_hardware_screw_self_tapping_m2_10
+manufacturer: ''
+md5: bb49a2615e47a5d903279db453c764f8
+md5_10: bb49a2615e
+md5_10_upper: BB49A2615E
+md5_5: bb49a
+md5_5_upper: BB49A
+md5_6: bb49a2
+md5_6_alpha: 7b2qq
+md5_6_alpha_upper: 7B2QQ
+md5_6_upper: BB49A2
+name: Oobb Part Screw Self Tapping Hardware Screw Self Tapping M2 10
+name_no_class: Part Screw Self Tapping Hardware Screw Self Tapping M2 10
+name_no_color: Hardwarem210
+name_no_size: Hardware M2 10
+name_no_type: Screw Self Tapping Hardware Screw Self Tapping M2 10
+oomp_key: oomp_oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_10
+oomp_word: curry hatching_chick violin
+oomp_word_emoji: ':curry: :hatching_chick: :violin:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':hatching_chick:'
+- ':violin:'
+oomp_word_list:
+- curry
+- hatching_chick
+- violin
+part_number: ''
+size: screw_self_tapping
+type: part

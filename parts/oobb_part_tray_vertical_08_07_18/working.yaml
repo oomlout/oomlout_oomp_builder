@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_07_18
+directory: parts/oobb_part_tray_vertical_08_07_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_07_18
+id: oobb_part_tray_vertical_08_07_18
+id_no_class: part_tray_vertical_08_07_18
+id_no_color: 080718
+id_no_size: 08_07_18
+id_no_type: tray_vertical_08_07_18
+manufacturer: ''
+md5: 21167b03797b772e7164f01e1bf518bc
+md5_10: 21167b0379
+md5_10_upper: 21167B0379
+md5_5: '21167'
+md5_5_upper: '21167'
+md5_6: 21167b
+md5_6_alpha: 1ah6j
+md5_6_alpha_upper: 1AH6J
+md5_6_upper: 21167B
+name: Oobb Part Tray Vertical 08 07 18
+name_no_class: Part Tray Vertical 08 07 18
+name_no_color: 080718
+name_no_size: 08 07 18
+name_no_type: Tray Vertical 08 07 18
+oomp_key: oomp_oobb_part_tray_vertical_08_07_18
+oomp_word: feet thumbsup computer
+oomp_word_emoji: ':feet: :thumbsup: :computer:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':thumbsup:'
+- ':computer:'
+oomp_word_list:
+- feet
+- thumbsup
+- computer
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+directory: parts/oobb_part_mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id: oobb_part_mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_class: part_mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_color: 060603rhm3mo52nmdangerousprototypesbuspirateversion5
+id_no_size: 06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+id_no_type: mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+manufacturer: ''
+md5: 0f22a3675f5dc790abf50e185b9c430e
+md5_10: 0f22a3675f
+md5_10_upper: 0F22A3675F
+md5_5: 0f22a
+md5_5_upper: 0F22A
+md5_6: 0f22a3
+md5_6_alpha: l9cz
+md5_6_alpha_upper: L9CZ
+md5_6_upper: 0F22A3
+name: Oobb Part Mounting Plate 06 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate
+  Version 5
+name_no_class: Part Mounting Plate 06 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus
+  Pirate Version 5
+name_no_color: 060603Rhm3Mo52Nmdangerousprototypesbuspirateversion5
+name_no_size: 06 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate Version 5
+name_no_type: Mounting Plate 06 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate
+  Version 5
+oomp_key: oomp_oobb_part_mounting_plate_06_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+oomp_word: sparkles lips pencil
+oomp_word_emoji: ':sparkles: :lips: :pencil:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':lips:'
+- ':pencil:'
+oomp_word_list:
+- sparkles
+- lips
+- pencil
+part_number: ''
+size: mounting_plate
+type: part

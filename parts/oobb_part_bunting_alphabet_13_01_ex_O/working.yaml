@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_o
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_o
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_o
+id: oobb_part_bunting_alphabet_13_01_ex_o
+id_no_class: part_bunting_alphabet_13_01_ex_o
+id_no_color: 1301exo
+id_no_size: 13_01_ex_o
+id_no_type: bunting_alphabet_13_01_ex_o
+manufacturer: ''
+md5: 97b8bbd63f2fd36ffb91a9e0dc5c1413
+md5_10: 97b8bbd63f
+md5_10_upper: 97B8BBD63F
+md5_5: 97b8b
+md5_5_upper: 97B8B
+md5_6: 97b8bb
+md5_6_alpha: 5x48r
+md5_6_alpha_upper: 5X48R
+md5_6_upper: 97B8BB
+name: Oobb Part Bunting Alphabet 13 01 Ex O
+name_no_class: Part Bunting Alphabet 13 01 Ex O
+name_no_color: 1301Exo
+name_no_size: 13 01 Ex O
+name_no_type: Bunting Alphabet 13 01 Ex O
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_o
+oomp_word: baseball hamburger curry
+oomp_word_emoji: ':baseball: :hamburger: :curry:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':hamburger:'
+- ':curry:'
+oomp_word_list:
+- baseball
+- hamburger
+- curry
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 10_pin
+directory: parts/electronic_header_2_54_mm_10_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_10_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_10_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_10_pin_through_hole_right_angle
+id_no_color: 10pinthroughholerightangle
+id_no_size: 10_pin_through_hole_right_angle
+id_no_type: 2_54_mm_10_pin_through_hole_right_angle
+manufacturer: ''
+md5: 2cb7cc1d82397a7b9cb6d6b0bdd07918
+md5_10: 2cb7cc1d82
+md5_10_upper: 2CB7CC1D82
+md5_5: 2cb7c
+md5_5_upper: 2CB7C
+md5_6: 2cb7cc
+md5_6_alpha: 1qtak
+md5_6_alpha_upper: 1QTAK
+md5_6_upper: 2CB7CC
+name: Electronic Header 2 54 Mm 10 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 10 Pin Through Hole Right Angle
+name_no_color: 10Pinthroughholerightangle
+name_no_size: 10 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 10 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_10_pin_through_hole_right_angle
+oomp_word: snowflake pizza watermelon
+oomp_word_emoji: ':snowflake: :pizza: :watermelon:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':pizza:'
+- ':watermelon:'
+oomp_word_list:
+- snowflake
+- pizza
+- watermelon
+part_number: ''
+size: 2_54_mm
+type: header

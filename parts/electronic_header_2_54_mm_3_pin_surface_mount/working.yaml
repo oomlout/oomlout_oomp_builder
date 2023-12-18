@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_surface_mount
+id: electronic_header_2_54_mm_3_pin_surface_mount
+id_no_class: header_2_54_mm_3_pin_surface_mount
+id_no_color: 3pinsurfacemount
+id_no_size: 3_pin_surface_mount
+id_no_type: 2_54_mm_3_pin_surface_mount
+manufacturer: ''
+md5: 8223094d8e4a1f8e2fdcedb9faf7114f
+md5_10: 8223094d8e
+md5_10_upper: 8223094D8E
+md5_5: '82230'
+md5_5_upper: '82230'
+md5_6: '822309'
+md5_6_alpha: 52sqx
+md5_6_alpha_upper: 52SQX
+md5_6_upper: '822309'
+name: Electronic Header 2 54 Mm 3 Pin Surface Mount
+name_no_class: Header 2 54 Mm 3 Pin Surface Mount
+name_no_color: 3Pinsurfacemount
+name_no_size: 3 Pin Surface Mount
+name_no_type: 2 54 Mm 3 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_surface_mount
+oomp_word: radio kiss angry
+oomp_word_emoji: ':radio: :kiss: :angry:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':kiss:'
+- ':angry:'
+oomp_word_list:
+- radio
+- kiss
+- angry
+part_number: ''
+size: 2_54_mm
+type: header

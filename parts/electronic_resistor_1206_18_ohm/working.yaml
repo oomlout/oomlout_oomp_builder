@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 18_ohm
+directory: parts/electronic_resistor_1206_18_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_18_ohm
+id: electronic_resistor_1206_18_ohm
+id_no_class: resistor_1206_18_ohm
+id_no_color: 18ohm
+id_no_size: 18_ohm
+id_no_type: 1206_18_ohm
+manufacturer: ''
+md5: 697272f32978c4e8f9b73ed5d2e5d2a0
+md5_10: 697272f329
+md5_10_upper: 697272F329
+md5_5: '69727'
+md5_5_upper: '69727'
+md5_6: '697272'
+md5_6_alpha: 4448i
+md5_6_alpha_upper: 4448I
+md5_6_upper: '697272'
+name: Electronic Resistor 1206 18 Ohm
+name_no_class: Resistor 1206 18 Ohm
+name_no_color: 18Ohm
+name_no_size: 18 Ohm
+name_no_type: 1206 18 Ohm
+oomp_key: oomp_electronic_resistor_1206_18_ohm
+oomp_word: cactus dolls dolls
+oomp_word_emoji: ':cactus: :dolls: :dolls:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':dolls:'
+- ':dolls:'
+oomp_word_list:
+- cactus
+- dolls
+- dolls
+part_number: ''
+size: '1206'
+type: resistor

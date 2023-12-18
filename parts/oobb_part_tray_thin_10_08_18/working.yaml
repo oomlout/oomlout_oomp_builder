@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_08_18'
+directory: parts/oobb_part_tray_thin_10_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_08_18
+id: oobb_part_tray_thin_10_08_18
+id_no_class: part_tray_thin_10_08_18
+id_no_color: '100818'
+id_no_size: '10_08_18'
+id_no_type: tray_thin_10_08_18
+manufacturer: ''
+md5: afbedd150c87c0bc5bab826ce2d786c2
+md5_10: afbedd150c
+md5_10_upper: AFBEDD150C
+md5_5: afbed
+md5_5_upper: AFBED
+md5_6: afbedd
+md5_6_alpha: 6uv31
+md5_6_alpha_upper: 6UV31
+md5_6_upper: AFBEDD
+name: Oobb Part Tray Thin 10 08 18
+name_no_class: Part Tray Thin 10 08 18
+name_no_color: '100818'
+name_no_size: 10 08 18
+name_no_type: Tray Thin 10 08 18
+oomp_key: oomp_oobb_part_tray_thin_10_08_18
+oomp_word: tophat ramen stars
+oomp_word_emoji: ':tophat: :ramen: :stars:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':ramen:'
+- ':stars:'
+oomp_word_list:
+- tophat
+- ramen
+- stars
+part_number: ''
+size: tray_thin
+type: part

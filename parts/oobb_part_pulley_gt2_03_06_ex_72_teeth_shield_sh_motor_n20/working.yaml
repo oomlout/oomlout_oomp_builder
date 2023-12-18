@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_06_ex_72_teeth_shield_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+id: oobb_part_pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+id_no_class: part_pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+id_no_color: 0306ex72teethshieldshmotorn20
+id_no_size: 03_06_ex_72_teeth_shield_sh_motor_n20
+id_no_type: pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+manufacturer: ''
+md5: 09a208e2861ec72f0dc0a221b81dc1fc
+md5_10: 09a208e286
+md5_10_upper: 09A208E286
+md5_5: 09a20
+md5_5_upper: 09A20
+md5_6: 09a208
+md5_6_alpha: dj48
+md5_6_alpha_upper: DJ48
+md5_6_upper: 09A208
+name: Oobb Part Pulley Gt2 03 06 Ex 72 Teeth Shield Sh Motor N20
+name_no_class: Part Pulley Gt2 03 06 Ex 72 Teeth Shield Sh Motor N20
+name_no_color: 0306Ex72Teethshieldshmotorn20
+name_no_size: 03 06 Ex 72 Teeth Shield Sh Motor N20
+name_no_type: Pulley Gt2 03 06 Ex 72 Teeth Shield Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_03_06_ex_72_teeth_shield_sh_motor_n20
+oomp_word: angry violin scream
+oomp_word_emoji: ':angry: :violin: :scream:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':violin:'
+- ':scream:'
+oomp_word_list:
+- angry
+- violin
+- scream
+part_number: ''
+size: pulley_gt2
+type: part

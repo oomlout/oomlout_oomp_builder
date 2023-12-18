@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 680_ohm
+directory: parts/electronic_resistor_0805_680_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_680_ohm
+id: electronic_resistor_0805_680_ohm
+id_no_class: resistor_0805_680_ohm
+id_no_color: 680ohm
+id_no_size: 680_ohm
+id_no_type: 0805_680_ohm
+manufacturer: ''
+md5: 1081b5bf38e568b3f8d272e3bfa1a1ed
+md5_10: 1081b5bf38
+md5_10_upper: 1081B5BF38
+md5_5: 1081b
+md5_5_upper: 1081B
+md5_6: 1081b5
+md5_6_alpha: n6ph
+md5_6_alpha_upper: N6PH
+md5_6_upper: 1081B5
+name: Electronic Resistor 0805 680 Ohm
+name_no_class: Resistor 0805 680 Ohm
+name_no_color: 680Ohm
+name_no_size: 680 Ohm
+name_no_type: 0805 680 Ohm
+oomp_key: oomp_electronic_resistor_0805_680_ohm
+oomp_word: star watch tea
+oomp_word_emoji: ':star: :watch: :tea:'
+oomp_word_emoji_list:
+- ':star:'
+- ':watch:'
+- ':tea:'
+oomp_word_list:
+- star
+- watch
+- tea
+part_number: ''
+size: 0805
+type: resistor

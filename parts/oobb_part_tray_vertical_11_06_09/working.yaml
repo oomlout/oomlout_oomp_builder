@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_06_09'
+directory: parts/oobb_part_tray_vertical_11_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_06_09
+id: oobb_part_tray_vertical_11_06_09
+id_no_class: part_tray_vertical_11_06_09
+id_no_color: '110609'
+id_no_size: '11_06_09'
+id_no_type: tray_vertical_11_06_09
+manufacturer: ''
+md5: 1019a65744337ee069a93e56771bf899
+md5_10: 1019a65744
+md5_10_upper: 1019A65744
+md5_5: 1019a
+md5_5_upper: 1019A
+md5_6: 1019a6
+md5_6_alpha: mm5i
+md5_6_alpha_upper: MM5I
+md5_6_upper: 1019A6
+name: Oobb Part Tray Vertical 11 06 09
+name_no_class: Part Tray Vertical 11 06 09
+name_no_color: '110609'
+name_no_size: 11 06 09
+name_no_type: Tray Vertical 11 06 09
+oomp_key: oomp_oobb_part_tray_vertical_11_06_09
+oomp_word: star pray trumpet
+oomp_word_emoji: ':star: :pray: :trumpet:'
+oomp_word_emoji_list:
+- ':star:'
+- ':pray:'
+- ':trumpet:'
+oomp_word_list:
+- star
+- pray
+- trumpet
+part_number: ''
+size: tray_vertical
+type: part

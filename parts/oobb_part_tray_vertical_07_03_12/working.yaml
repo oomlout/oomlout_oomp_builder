@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_03_12'
+directory: parts/oobb_part_tray_vertical_07_03_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_03_12
+id: oobb_part_tray_vertical_07_03_12
+id_no_class: part_tray_vertical_07_03_12
+id_no_color: '070312'
+id_no_size: '07_03_12'
+id_no_type: tray_vertical_07_03_12
+manufacturer: ''
+md5: e92c0eaa6afdfdb4de9e5f3d17e3fd46
+md5_10: e92c0eaa6a
+md5_10_upper: E92C0EAA6A
+md5_5: e92c0
+md5_5_upper: E92C0
+md5_6: e92c0e
+md5_6_alpha: 93j0u
+md5_6_alpha_upper: 93J0U
+md5_6_upper: E92C0E
+name: Oobb Part Tray Vertical 07 03 12
+name_no_class: Part Tray Vertical 07 03 12
+name_no_color: '070312'
+name_no_size: 07 03 12
+name_no_type: Tray Vertical 07 03 12
+oomp_key: oomp_oobb_part_tray_vertical_07_03_12
+oomp_word: bike snowflake cupid
+oomp_word_emoji: ':bike: :snowflake: :cupid:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':snowflake:'
+- ':cupid:'
+oomp_word_list:
+- bike
+- snowflake
+- cupid
+part_number: ''
+size: tray_vertical
+type: part

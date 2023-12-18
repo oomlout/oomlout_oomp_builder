@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_01_03'
+directory: parts/oobb_part_plate_05_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_03
+id: oobb_part_plate_05_01_03
+id_no_class: part_plate_05_01_03
+id_no_color: '050103'
+id_no_size: '05_01_03'
+id_no_type: plate_05_01_03
+manufacturer: ''
+md5: b83bf908690339c3872d03ba0b7b4fa7
+md5_10: b83bf90869
+md5_10_upper: B83BF90869
+md5_5: b83bf
+md5_5_upper: B83BF
+md5_6: b83bf9
+md5_6_alpha: 76sc9
+md5_6_alpha_upper: 76SC9
+md5_6_upper: B83BF9
+name: Oobb Part Plate 05 01 03
+name_no_class: Part Plate 05 01 03
+name_no_color: '050103'
+name_no_size: 05 01 03
+name_no_type: Plate 05 01 03
+oomp_key: oomp_oobb_part_plate_05_01_03
+oomp_word: hamburger bear eight
+oomp_word_emoji: ':hamburger: :bear: :eight:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':bear:'
+- ':eight:'
+oomp_word_list:
+- hamburger
+- bear
+- eight
+part_number: ''
+size: plate
+type: part

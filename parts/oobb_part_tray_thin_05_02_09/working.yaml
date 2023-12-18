@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_02_09
+directory: parts/oobb_part_tray_thin_05_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_02_09
+id: oobb_part_tray_thin_05_02_09
+id_no_class: part_tray_thin_05_02_09
+id_no_color: 050209
+id_no_size: 05_02_09
+id_no_type: tray_thin_05_02_09
+manufacturer: ''
+md5: 23c6ce454809e0d74fbfa9727d7a5939
+md5_10: 23c6ce4548
+md5_10_upper: 23C6CE4548
+md5_5: 23c6c
+md5_5_upper: 23C6C
+md5_6: 23c6ce
+md5_6_alpha: 1e95a
+md5_6_alpha_upper: 1E95A
+md5_6_upper: 23C6CE
+name: Oobb Part Tray Thin 05 02 09
+name_no_class: Part Tray Thin 05 02 09
+name_no_color: 050209
+name_no_size: 05 02 09
+name_no_type: Tray Thin 05 02 09
+oomp_key: oomp_oobb_part_tray_thin_05_02_09
+oomp_word: kiss lollipop peach
+oomp_word_emoji: ':kiss: :lollipop: :peach:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':lollipop:'
+- ':peach:'
+oomp_word_list:
+- kiss
+- lollipop
+- peach
+part_number: ''
+size: tray_thin
+type: part

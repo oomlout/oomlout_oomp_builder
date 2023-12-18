@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 82_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_82_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
+id: electronic_resistor_quarter_watt_through_hole_82_ohm
+id_no_class: resistor_quarter_watt_through_hole_82_ohm
+id_no_color: 82ohm
+id_no_size: 82_ohm
+id_no_type: quarter_watt_through_hole_82_ohm
+manufacturer: ''
+md5: 3450d47bdad2075fb644b08427010a8f
+md5_10: 3450d47bda
+md5_10_upper: 3450D47BDA
+md5_5: 3450d
+md5_5_upper: 3450D
+md5_6: 3450d4
+md5_6_alpha: 21hhw
+md5_6_alpha_upper: 21HHW
+md5_6_upper: 3450D4
+name: Electronic Resistor Quarter Watt Through Hole 82 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 82 Ohm
+name_no_color: 82Ohm
+name_no_size: 82 Ohm
+name_no_type: Quarter Watt Through Hole 82 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_82_ohm
+oomp_word: mouse beetle corn
+oomp_word_emoji: ':mouse: :beetle: :corn:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':beetle:'
+- ':corn:'
+oomp_word_list:
+- mouse
+- beetle
+- corn
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

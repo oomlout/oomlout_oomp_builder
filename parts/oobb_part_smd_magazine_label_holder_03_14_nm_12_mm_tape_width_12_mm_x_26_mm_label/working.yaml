@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+directory: parts/oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+id: oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+id_no_class: part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+id_no_color: 0314nm12mmtapewidth12mmx26mmlabel
+id_no_size: 03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+id_no_type: smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+manufacturer: ''
+md5: d5b31a628e4fbcb5594542eea394e27c
+md5_10: d5b31a628e
+md5_10_upper: D5B31A628E
+md5_5: d5b31
+md5_5_upper: D5B31
+md5_6: d5b31a
+md5_6_alpha: 8c6ca
+md5_6_alpha_upper: 8C6CA
+md5_6_upper: D5B31A
+name: Oobb Part Smd Magazine Label Holder 03 14 Nm 12 Mm Tape Width 12 Mm X 26 Mm
+  Label
+name_no_class: Part Smd Magazine Label Holder 03 14 Nm 12 Mm Tape Width 12 Mm X 26
+  Mm Label
+name_no_color: 0314Nm12Mmtapewidth12Mmx26Mmlabel
+name_no_size: 03 14 Nm 12 Mm Tape Width 12 Mm X 26 Mm Label
+name_no_type: Smd Magazine Label Holder 03 14 Nm 12 Mm Tape Width 12 Mm X 26 Mm Label
+oomp_key: oomp_oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+oomp_word: house eyeglasses clap
+oomp_word_emoji: ':house: :eyeglasses: :clap:'
+oomp_word_emoji_list:
+- ':house:'
+- ':eyeglasses:'
+- ':clap:'
+oomp_word_list:
+- house
+- eyeglasses
+- clap
+part_number: ''
+size: smd_magazine_label_holder
+type: part

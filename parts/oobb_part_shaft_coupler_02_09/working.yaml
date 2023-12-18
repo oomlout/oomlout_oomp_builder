@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09
+directory: parts/oobb_part_shaft_coupler_02_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_coupler_02_09
+id: oobb_part_shaft_coupler_02_09
+id_no_class: part_shaft_coupler_02_09
+id_no_color: 0209
+id_no_size: 02_09
+id_no_type: shaft_coupler_02_09
+manufacturer: ''
+md5: efbf5f288e65d8179e1097b829556046
+md5_10: efbf5f288e
+md5_10_upper: EFBF5F288E
+md5_5: efbf5
+md5_5_upper: EFBF5
+md5_6: efbf5f
+md5_6_alpha: 9crj3
+md5_6_alpha_upper: 9CRJ3
+md5_6_upper: EFBF5F
+name: Oobb Part Shaft Coupler 02 09
+name_no_class: Part Shaft Coupler 02 09
+name_no_color: 0209
+name_no_size: 02 09
+name_no_type: Shaft Coupler 02 09
+oomp_key: oomp_oobb_part_shaft_coupler_02_09
+oomp_word: truck egg leopard
+oomp_word_emoji: ':truck: :egg: :leopard:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':egg:'
+- ':leopard:'
+oomp_word_list:
+- truck
+- egg
+- leopard
+part_number: ''
+size: shaft_coupler
+type: part

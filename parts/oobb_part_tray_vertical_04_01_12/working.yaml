@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_12'
+directory: parts/oobb_part_tray_vertical_04_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_01_12
+id: oobb_part_tray_vertical_04_01_12
+id_no_class: part_tray_vertical_04_01_12
+id_no_color: '040112'
+id_no_size: '04_01_12'
+id_no_type: tray_vertical_04_01_12
+manufacturer: ''
+md5: 1bf8ecbcc3b857caeb0aca51a04ae65f
+md5_10: 1bf8ecbcc3
+md5_10_upper: 1BF8ECBCC3
+md5_5: 1bf8e
+md5_5_upper: 1BF8E
+md5_6: 1bf8ec
+md5_6_alpha: 13ai4
+md5_6_alpha_upper: 13AI4
+md5_6_upper: 1BF8EC
+name: Oobb Part Tray Vertical 04 01 12
+name_no_class: Part Tray Vertical 04 01 12
+name_no_color: '040112'
+name_no_size: 04 01 12
+name_no_type: Tray Vertical 04 01 12
+oomp_key: oomp_oobb_part_tray_vertical_04_01_12
+oomp_word: muscle seven taxi
+oomp_word_emoji: ':muscle: :seven: :taxi:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':seven:'
+- ':taxi:'
+oomp_word_list:
+- muscle
+- seven
+- taxi
+part_number: ''
+size: tray_vertical
+type: part

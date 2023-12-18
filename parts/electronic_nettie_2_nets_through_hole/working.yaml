@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: through_hole
+directory: parts/electronic_nettie_2_nets_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_2_nets_through_hole
+id: electronic_nettie_2_nets_through_hole
+id_no_class: nettie_2_nets_through_hole
+id_no_color: throughhole
+id_no_size: through_hole
+id_no_type: 2_nets_through_hole
+manufacturer: ''
+md5: c86bdf842046e81ba413e322d79ac3dc
+md5_10: c86bdf8420
+md5_10_upper: C86BDF8420
+md5_5: c86bd
+md5_5_upper: C86BD
+md5_6: c86bdf
+md5_6_alpha: 7tivz
+md5_6_alpha_upper: 7TIVZ
+md5_6_upper: C86BDF
+name: Electronic Nettie 2 Nets Through Hole
+name_no_class: Nettie 2 Nets Through Hole
+name_no_color: Throughhole
+name_no_size: Through Hole
+name_no_type: 2 Nets Through Hole
+oomp_key: oomp_electronic_nettie_2_nets_through_hole
+oomp_word: apple chestnut fountain
+oomp_word_emoji: ':apple: :chestnut: :fountain:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':chestnut:'
+- ':fountain:'
+oomp_word_list:
+- apple
+- chestnut
+- fountain
+part_number: ''
+size: 2_nets
+type: nettie

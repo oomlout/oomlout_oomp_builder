@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 270000_ohm
+directory: parts/electronic_resistor_0201_270000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_270000_ohm
+id: electronic_resistor_0201_270000_ohm
+id_no_class: resistor_0201_270000_ohm
+id_no_color: 270000ohm
+id_no_size: 270000_ohm
+id_no_type: 0201_270000_ohm
+manufacturer: ''
+md5: 755b08592826fd8c068b2312180aa91a
+md5_10: 755b085928
+md5_10_upper: 755B085928
+md5_5: 755b0
+md5_5_upper: 755B0
+md5_6: 755b08
+md5_6_alpha: 4kufc
+md5_6_alpha_upper: 4KUFC
+md5_6_upper: 755B08
+name: Electronic Resistor 0201 270000 Ohm
+name_no_class: Resistor 0201 270000 Ohm
+name_no_color: 270000Ohm
+name_no_size: 270000 Ohm
+name_no_type: 0201 270000 Ohm
+oomp_key: oomp_electronic_resistor_0201_270000_ohm
+oomp_word: ghost rooster scream
+oomp_word_emoji: ':ghost: :rooster: :scream:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':rooster:'
+- ':scream:'
+oomp_word_list:
+- ghost
+- rooster
+- scream
+part_number: ''
+size: '0201'
+type: resistor

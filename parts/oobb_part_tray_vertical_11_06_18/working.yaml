@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_06_18'
+directory: parts/oobb_part_tray_vertical_11_06_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_06_18
+id: oobb_part_tray_vertical_11_06_18
+id_no_class: part_tray_vertical_11_06_18
+id_no_color: '110618'
+id_no_size: '11_06_18'
+id_no_type: tray_vertical_11_06_18
+manufacturer: ''
+md5: df0bea32a8d43b03201705e6de674e30
+md5_10: df0bea32a8
+md5_10_upper: DF0BEA32A8
+md5_5: df0be
+md5_5_upper: DF0BE
+md5_6: df0bea
+md5_6_alpha: 8pazu
+md5_6_alpha_upper: 8PAZU
+md5_6_upper: DF0BEA
+name: Oobb Part Tray Vertical 11 06 18
+name_no_class: Part Tray Vertical 11 06 18
+name_no_color: '110618'
+name_no_size: 11 06 18
+name_no_type: Tray Vertical 11 06 18
+oomp_key: oomp_oobb_part_tray_vertical_11_06_18
+oomp_word: fountain sunglasses tractor
+oomp_word_emoji: ':fountain: :sunglasses: :tractor:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':sunglasses:'
+- ':tractor:'
+oomp_word_list:
+- fountain
+- sunglasses
+- tractor
+part_number: ''
+size: tray_vertical
+type: part

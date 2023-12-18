@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 15_pin
+directory: parts/electronic_header_2_54_mm_15_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_long
+id: electronic_header_2_54_mm_15_pin_through_hole_long
+id_no_class: header_2_54_mm_15_pin_through_hole_long
+id_no_color: 15pinthroughholelong
+id_no_size: 15_pin_through_hole_long
+id_no_type: 2_54_mm_15_pin_through_hole_long
+manufacturer: ''
+md5: 4f7e5f072c2875b37b3d344235112d37
+md5_10: 4f7e5f072c
+md5_10_upper: 4F7E5F072C
+md5_5: 4f7e5
+md5_5_upper: 4F7E5
+md5_6: 4f7e5f
+md5_6_alpha: 33ntr
+md5_6_alpha_upper: 33NTR
+md5_6_upper: 4F7E5F
+name: Electronic Header 2 54 Mm 15 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 15 Pin Through Hole Long
+name_no_color: 15Pinthroughholelong
+name_no_size: 15 Pin Through Hole Long
+name_no_type: 2 54 Mm 15 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_15_pin_through_hole_long
+oomp_word: ant fax leopard
+oomp_word_emoji: ':ant: :fax: :leopard:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':fax:'
+- ':leopard:'
+oomp_word_list:
+- ant
+- fax
+- leopard
+part_number: ''
+size: 2_54_mm
+type: header

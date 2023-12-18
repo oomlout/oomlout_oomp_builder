@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_ex_big
+directory: parts/oobb_part_smd_magazine_refiller_03_ex_big
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03_ex_big
+id: oobb_part_smd_magazine_refiller_03_ex_big
+id_no_class: part_smd_magazine_refiller_03_ex_big
+id_no_color: 03exbig
+id_no_size: 03_ex_big
+id_no_type: smd_magazine_refiller_03_ex_big
+manufacturer: ''
+md5: fd8a906347c7c58ff1e9bc79f0007903
+md5_10: fd8a906347
+md5_10_upper: FD8A906347
+md5_5: fd8a9
+md5_5_upper: FD8A9
+md5_6: fd8a90
+md5_6_alpha: 9w51s
+md5_6_alpha_upper: 9W51S
+md5_6_upper: FD8A90
+name: Oobb Part Smd Magazine Refiller 03 Ex Big
+name_no_class: Part Smd Magazine Refiller 03 Ex Big
+name_no_color: 03Exbig
+name_no_size: 03 Ex Big
+name_no_type: Smd Magazine Refiller 03 Ex Big
+oomp_key: oomp_oobb_part_smd_magazine_refiller_03_ex_big
+oomp_word: parking envelope scissors
+oomp_word_emoji: ':parking: :envelope: :scissors:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':envelope:'
+- ':scissors:'
+oomp_word_list:
+- parking
+- envelope
+- scissors
+part_number: ''
+size: smd_magazine_refiller
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 30_pin
+directory: parts/electronic_header_2_54_mm_30_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_30_pin_through_hole_short
+id: electronic_header_2_54_mm_30_pin_through_hole_short
+id_no_class: header_2_54_mm_30_pin_through_hole_short
+id_no_color: 30pinthroughholeshort
+id_no_size: 30_pin_through_hole_short
+id_no_type: 2_54_mm_30_pin_through_hole_short
+manufacturer: ''
+md5: f1d1a084a5c6d11054f05e9b29788e22
+md5_10: f1d1a084a5
+md5_10_upper: F1D1A084A5
+md5_5: f1d1a
+md5_5_upper: F1D1A
+md5_6: f1d1a0
+md5_6_alpha: 9fo9s
+md5_6_alpha_upper: 9FO9S
+md5_6_upper: F1D1A0
+name: Electronic Header 2 54 Mm 30 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 30 Pin Through Hole Short
+name_no_color: 30Pinthroughholeshort
+name_no_size: 30 Pin Through Hole Short
+name_no_type: 2 54 Mm 30 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_30_pin_through_hole_short
+oomp_word: ticket pear ring
+oomp_word_emoji: ':ticket: :pear: :ring:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':pear:'
+- ':ring:'
+oomp_word_list:
+- ticket
+- pear
+- ring
+part_number: ''
+size: 2_54_mm
+type: header

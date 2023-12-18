@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_09
+directory: parts/oobb_part_tray_vertical_08_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_04_09
+id: oobb_part_tray_vertical_08_04_09
+id_no_class: part_tray_vertical_08_04_09
+id_no_color: 080409
+id_no_size: 08_04_09
+id_no_type: tray_vertical_08_04_09
+manufacturer: ''
+md5: 11a2bed410ebb4b9d19d2fb1b8023f12
+md5_10: 11a2bed410
+md5_10_upper: 11A2BED410
+md5_5: 11a2b
+md5_5_upper: 11A2B
+md5_6: 11a2be
+md5_6_alpha: orsu
+md5_6_alpha_upper: ORSU
+md5_6_upper: 11A2BE
+name: Oobb Part Tray Vertical 08 04 09
+name_no_class: Part Tray Vertical 08 04 09
+name_no_color: 080409
+name_no_size: 08 04 09
+name_no_type: Tray Vertical 08 04 09
+oomp_key: oomp_oobb_part_tray_vertical_08_04_09
+oomp_word: dizzy violin ramen
+oomp_word_emoji: ':dizzy: :violin: :ramen:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':violin:'
+- ':ramen:'
+oomp_word_list:
+- dizzy
+- violin
+- ramen
+part_number: ''
+size: tray_vertical
+type: part

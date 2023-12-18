@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_01_21'
+directory: parts/oobb_part_plate_02_01_21
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_01_21
+id: oobb_part_plate_02_01_21
+id_no_class: part_plate_02_01_21
+id_no_color: '020121'
+id_no_size: '02_01_21'
+id_no_type: plate_02_01_21
+manufacturer: ''
+md5: 8b29d6c46008c37b48764808e1de491d
+md5_10: 8b29d6c460
+md5_10_upper: 8B29D6C460
+md5_5: 8b29d
+md5_5_upper: 8B29D
+md5_6: 8b29d6
+md5_6_alpha: 5fh7a
+md5_6_alpha_upper: 5FH7A
+md5_6_upper: 8B29D6
+name: Oobb Part Plate 02 01 21
+name_no_class: Part Plate 02 01 21
+name_no_color: '020121'
+name_no_size: 02 01 21
+name_no_type: Plate 02 01 21
+oomp_key: oomp_oobb_part_plate_02_01_21
+oomp_word: door sunny school
+oomp_word_emoji: ':door: :sunny: :school:'
+oomp_word_emoji_list:
+- ':door:'
+- ':sunny:'
+- ':school:'
+oomp_word_list:
+- door
+- sunny
+- school
+part_number: ''
+size: plate
+type: part

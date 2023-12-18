@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 5_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_5_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_through_hole_right_angle
+id: electronic_header_2_5_mm_jst_xh_5_pin_through_hole_right_angle
+id_no_class: header_2_5_mm_jst_xh_5_pin_through_hole_right_angle
+id_no_color: 5pinthroughholerightangle
+id_no_size: 5_pin_through_hole_right_angle
+id_no_type: 2_5_mm_jst_xh_5_pin_through_hole_right_angle
+manufacturer: ''
+md5: c41f94262b6e783756448b5f0008ee54
+md5_10: c41f94262b
+md5_10_upper: C41F94262B
+md5_5: c41f9
+md5_5_upper: C41F9
+md5_6: c41f94
+md5_6_alpha: 7nhjo
+md5_6_alpha_upper: 7NHJO
+md5_6_upper: C41F94
+name: Electronic Header 2 5 Mm Jst Xh 5 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 5 Pin Through Hole Right Angle
+name_no_color: 5Pinthroughholerightangle
+name_no_size: 5 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 5 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_5_pin_through_hole_right_angle
+oomp_word: cookie princess microscope
+oomp_word_emoji: ':cookie: :princess: :microscope:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':princess:'
+- ':microscope:'
+oomp_word_list:
+- cookie
+- princess
+- microscope
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

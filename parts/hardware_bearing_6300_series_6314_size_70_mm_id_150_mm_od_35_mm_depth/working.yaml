@@ -1,0 +1,40 @@
+classification: hardware
+color: 6314_size
+description_extra: ''
+description_main: 70_mm_id_150_mm_od_35_mm_depth
+directory: parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+id: hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+id_no_class: bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+id_no_color: 70_mm_id_150_mm_od_35_mm_depth
+id_no_size: 6314_size_70_mm_id_150_mm_od_35_mm_depth
+id_no_type: 6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+manufacturer: ''
+md5: 2a508a42cc1c93c3134c889c96c0bd56
+md5_10: 2a508a42cc
+md5_10_upper: 2A508A42CC
+md5_5: 2a508
+md5_5_upper: 2A508
+md5_6: 2a508a
+md5_6_alpha: 1nfre
+md5_6_alpha_upper: 1NFRE
+md5_6_upper: 2A508A
+name: Hardware Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth
+name_no_class: Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth
+name_no_color: 70 Mm Id 150 Mm Od 35 Mm Depth
+name_no_size: 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth
+name_no_type: 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+oomp_word: umbrella beetle envelope
+oomp_word_emoji: ':umbrella: :beetle: :envelope:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':beetle:'
+- ':envelope:'
+oomp_word_list:
+- umbrella
+- beetle
+- envelope
+part_number: ''
+size: 6300_series
+type: bearing

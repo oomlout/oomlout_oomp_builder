@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x2_4_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x2_4_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x2_4_pin_through_hole
+id_no_color: 2x24pinthroughhole
+id_no_size: 2x2_4_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x2_4_pin_through_hole
+manufacturer: ''
+md5: 22214bd681a388367b74364e8d1351a4
+md5_10: 22214bd681
+md5_10_upper: 22214BD681
+md5_5: '22214'
+md5_5_upper: '22214'
+md5_6: 22214b
+md5_6_alpha: 1bxvv
+md5_6_alpha_upper: 1BXVV
+md5_6_upper: 22214B
+name: Electronic Header 2 54 Mm Dual Row 2X2 4 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X2 4 Pin Through Hole
+name_no_color: 2X24Pinthroughhole
+name_no_size: 2X2 4 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X2 4 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x2_4_pin_through_hole
+oomp_word: lips feet penguin
+oomp_word_emoji: ':lips: :feet: :penguin:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':feet:'
+- ':penguin:'
+oomp_word_list:
+- lips
+- feet
+- penguin
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

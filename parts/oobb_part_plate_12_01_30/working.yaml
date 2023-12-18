@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_30'
+directory: parts/oobb_part_plate_12_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_30
+id: oobb_part_plate_12_01_30
+id_no_class: part_plate_12_01_30
+id_no_color: '120130'
+id_no_size: '12_01_30'
+id_no_type: plate_12_01_30
+manufacturer: ''
+md5: 8e8fd1191addafab6d7e1a4e8f46aa11
+md5_10: 8e8fd1191a
+md5_10_upper: 8E8FD1191A
+md5_5: 8e8fd
+md5_5_upper: 8E8FD
+md5_6: 8e8fd1
+md5_6_alpha: 5k91t
+md5_6_alpha_upper: 5K91T
+md5_6_upper: 8E8FD1
+name: Oobb Part Plate 12 01 30
+name_no_class: Part Plate 12 01 30
+name_no_color: '120130'
+name_no_size: 12 01 30
+name_no_type: Plate 12 01 30
+oomp_key: oomp_oobb_part_plate_12_01_30
+oomp_word: clipboard calendar pear
+oomp_word_emoji: ':clipboard: :calendar: :pear:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':calendar:'
+- ':pear:'
+oomp_word_list:
+- clipboard
+- calendar
+- pear
+part_number: ''
+size: plate
+type: part

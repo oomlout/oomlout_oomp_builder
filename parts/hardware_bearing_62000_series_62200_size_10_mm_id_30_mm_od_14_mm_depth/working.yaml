@@ -1,0 +1,40 @@
+classification: hardware
+color: 62200_size
+description_extra: ''
+description_main: 10_mm_id_30_mm_od_14_mm_depth
+directory: parts/hardware_bearing_62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+id: hardware_bearing_62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+id_no_class: bearing_62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+id_no_color: 10_mm_id_30_mm_od_14_mm_depth
+id_no_size: 62200_size_10_mm_id_30_mm_od_14_mm_depth
+id_no_type: 62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+manufacturer: ''
+md5: 494f907cf0844767d36b76997c8c5d87
+md5_10: 494f907cf0
+md5_10_upper: 494F907CF0
+md5_5: 494f9
+md5_5_upper: 494F9
+md5_6: 494f90
+md5_6_alpha: 2uz68
+md5_6_alpha_upper: 2UZ68
+md5_6_upper: 494F90
+name: Hardware Bearing 62000 Series 62200 Size 10 Mm Id 30 Mm Od 14 Mm Depth
+name_no_class: Bearing 62000 Series 62200 Size 10 Mm Id 30 Mm Od 14 Mm Depth
+name_no_color: 10 Mm Id 30 Mm Od 14 Mm Depth
+name_no_size: 62200 Size 10 Mm Id 30 Mm Od 14 Mm Depth
+name_no_type: 62000 Series 62200 Size 10 Mm Id 30 Mm Od 14 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62200_size_10_mm_id_30_mm_od_14_mm_depth
+oomp_word: hatching_chick ant scissors
+oomp_word_emoji: ':hatching_chick: :ant: :scissors:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':ant:'
+- ':scissors:'
+oomp_word_list:
+- hatching_chick
+- ant
+- scissors
+part_number: ''
+size: 62000_series
+type: bearing

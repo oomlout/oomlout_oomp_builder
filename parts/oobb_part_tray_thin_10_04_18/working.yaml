@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_04_18'
+directory: parts/oobb_part_tray_thin_10_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_18
+id: oobb_part_tray_thin_10_04_18
+id_no_class: part_tray_thin_10_04_18
+id_no_color: '100418'
+id_no_size: '10_04_18'
+id_no_type: tray_thin_10_04_18
+manufacturer: ''
+md5: 73e043e93fb7c3dac4b60001f6fc8470
+md5_10: 73e043e93f
+md5_10_upper: 73E043E93F
+md5_5: 73e04
+md5_5_upper: 73E04
+md5_6: 73e043
+md5_6_alpha: 4irlv
+md5_6_alpha_upper: 4IRLV
+md5_6_upper: 73E043
+name: Oobb Part Tray Thin 10 04 18
+name_no_class: Part Tray Thin 10 04 18
+name_no_color: '100418'
+name_no_size: 10 04 18
+name_no_type: Tray Thin 10 04 18
+oomp_key: oomp_oobb_part_tray_thin_10_04_18
+oomp_word: flags ship elephant
+oomp_word_emoji: ':flags: :ship: :elephant:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':ship:'
+- ':elephant:'
+oomp_word_list:
+- flags
+- ship
+- elephant
+part_number: ''
+size: tray_thin
+type: part

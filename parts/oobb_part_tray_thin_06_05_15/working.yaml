@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_15'
+directory: parts/oobb_part_tray_thin_06_05_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_05_15
+id: oobb_part_tray_thin_06_05_15
+id_no_class: part_tray_thin_06_05_15
+id_no_color: '060515'
+id_no_size: '06_05_15'
+id_no_type: tray_thin_06_05_15
+manufacturer: ''
+md5: 53176686d6188a35b829c57c650f7ea8
+md5_10: 53176686d6
+md5_10_upper: 53176686D6
+md5_5: '53176'
+md5_5_upper: '53176'
+md5_6: '531766'
+md5_6_alpha: 38pra
+md5_6_alpha_upper: 38PRA
+md5_6_upper: '531766'
+name: Oobb Part Tray Thin 06 05 15
+name_no_class: Part Tray Thin 06 05 15
+name_no_color: '060515'
+name_no_size: 06 05 15
+name_no_type: Tray Thin 06 05 15
+oomp_key: oomp_oobb_part_tray_thin_06_05_15
+oomp_word: fish thumbsdown leaves
+oomp_word_emoji: ':fish: :thumbsdown: :leaves:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':thumbsdown:'
+- ':leaves:'
+oomp_word_list:
+- fish
+- thumbsdown
+- leaves
+part_number: ''
+size: tray_thin
+type: part

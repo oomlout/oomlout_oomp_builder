@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_15'
+directory: parts/oobb_part_tray_thin_11_11_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_11_15
+id: oobb_part_tray_thin_11_11_15
+id_no_class: part_tray_thin_11_11_15
+id_no_color: '111115'
+id_no_size: '11_11_15'
+id_no_type: tray_thin_11_11_15
+manufacturer: ''
+md5: 4481f36f505e8a90ebe5b99462454de5
+md5_10: 4481f36f50
+md5_10_upper: 4481F36F50
+md5_5: 4481f
+md5_5_upper: 4481F
+md5_6: 4481f3
+md5_6_alpha: 2o8ab
+md5_6_alpha_upper: 2O8AB
+md5_6_upper: 4481F3
+name: Oobb Part Tray Thin 11 11 15
+name_no_class: Part Tray Thin 11 11 15
+name_no_color: '111115'
+name_no_size: 11 11 15
+name_no_type: Tray Thin 11 11 15
+oomp_key: oomp_oobb_part_tray_thin_11_11_15
+oomp_word: panda_face watch two
+oomp_word_emoji: ':panda_face: :watch: :two:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':watch:'
+- ':two:'
+oomp_word_list:
+- panda_face
+- watch
+- two
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: hardware
+color: 683_size
+description_extra: ''
+description_main: 3_mm_id_7_mm_od_3_mm_depth
+directory: parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+id: hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_class: bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_color: 3_mm_id_7_mm_od_3_mm_depth
+id_no_size: 683_size_3_mm_id_7_mm_od_3_mm_depth
+id_no_type: 600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+manufacturer: ''
+md5: 7354cbac7c4dd9c6788d3917fcda7083
+md5_10: 7354cbac7c
+md5_10_upper: 7354CBAC7C
+md5_5: 7354c
+md5_5_upper: 7354C
+md5_6: 7354cb
+md5_6_alpha: 4i023
+md5_6_alpha_upper: 4I023
+md5_6_upper: 7354CB
+name: Hardware Bearing 600 Series 683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_class: Bearing 600 Series 683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_color: 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_size: 683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+name_no_type: 600 Series 683 Size 3 Mm Id 7 Mm Od 3 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
+oomp_word: flags whale grapes
+oomp_word_emoji: ':flags: :whale: :grapes:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':whale:'
+- ':grapes:'
+oomp_word_list:
+- flags
+- whale
+- grapes
+part_number: ''
+size: 600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d75_7d5_606
+directory: parts/oobb_part_wheel_1d75_7d5_606
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_1d75_7d5_606
+id: oobb_part_wheel_1d75_7d5_606
+id_no_class: part_wheel_1d75_7d5_606
+id_no_color: 1d757d5606
+id_no_size: 1d75_7d5_606
+id_no_type: wheel_1d75_7d5_606
+manufacturer: ''
+md5: 0425011fc97033424566750e14c28b8a
+md5_10: 0425011fc9
+md5_10_upper: 0425011FC9
+md5_5: '04250'
+md5_5_upper: '04250'
+md5_6: '042501'
+md5_6_alpha: 5tkx
+md5_6_alpha_upper: 5TKX
+md5_6_upper: '042501'
+name: Oobb Part Wheel 1D75 7D5 606
+name_no_class: Part Wheel 1D75 7D5 606
+name_no_color: 1D757D5606
+name_no_size: 1D75 7D5 606
+name_no_type: Wheel 1D75 7D5 606
+oomp_key: oomp_oobb_part_wheel_1d75_7d5_606
+oomp_word: wink ear smile
+oomp_word_emoji: ':wink: :ear: :smile:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':ear:'
+- ':smile:'
+oomp_word_list:
+- wink
+- ear
+- smile
+part_number: ''
+size: wheel
+type: part

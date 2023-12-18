@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_ohm
+directory: parts/electronic_resistor_0603_100_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_100_ohm
+id: electronic_resistor_0603_100_ohm
+id_no_class: resistor_0603_100_ohm
+id_no_color: 100ohm
+id_no_size: 100_ohm
+id_no_type: 0603_100_ohm
+manufacturer: ''
+md5: 560a9abfe6baee6dda04d14bc7f86ae5
+md5_10: 560a9abfe6
+md5_10_upper: 560A9ABFE6
+md5_5: 560a9
+md5_5_upper: 560A9
+md5_6: 560a9a
+md5_6_alpha: 3cuxm
+md5_6_alpha_upper: 3CUXM
+md5_6_upper: 560A9A
+name: Electronic Resistor 0603 100 Ohm
+name_no_class: Resistor 0603 100 Ohm
+name_no_color: 100Ohm
+name_no_size: 100 Ohm
+name_no_type: 0603 100 Ohm
+oomp_key: oomp_electronic_resistor_0603_100_ohm
+oomp_word: ram sleepy golf
+oomp_word_emoji: ':ram: :sleepy: :golf:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':sleepy:'
+- ':golf:'
+oomp_word_list:
+- ram
+- sleepy
+- golf
+part_number: ''
+size: '0603'
+type: resistor

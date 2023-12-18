@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 10_1d5_15
+directory: parts/oobb_part_tray_thin_10_1d5_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_1d5_15
+id: oobb_part_tray_thin_10_1d5_15
+id_no_class: part_tray_thin_10_1d5_15
+id_no_color: 101d515
+id_no_size: 10_1d5_15
+id_no_type: tray_thin_10_1d5_15
+manufacturer: ''
+md5: e85344f2a0a69c8cc1675bddd9554369
+md5_10: e85344f2a0
+md5_10_upper: E85344F2A0
+md5_5: e8534
+md5_5_upper: E8534
+md5_6: e85344
+md5_6_alpha: 92c78
+md5_6_alpha_upper: 92C78
+md5_6_upper: E85344
+name: Oobb Part Tray Thin 10 1D5 15
+name_no_class: Part Tray Thin 10 1D5 15
+name_no_color: 101D515
+name_no_size: 10 1D5 15
+name_no_type: Tray Thin 10 1D5 15
+oomp_key: oomp_oobb_part_tray_thin_10_1d5_15
+oomp_word: tram fish panda_face
+oomp_word_emoji: ':tram: :fish: :panda_face:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':fish:'
+- ':panda_face:'
+oomp_word_list:
+- tram
+- fish
+- panda_face
+part_number: ''
+size: tray_thin
+type: part

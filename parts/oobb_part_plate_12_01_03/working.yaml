@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_03'
+directory: parts/oobb_part_plate_12_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_03
+id: oobb_part_plate_12_01_03
+id_no_class: part_plate_12_01_03
+id_no_color: '120103'
+id_no_size: '12_01_03'
+id_no_type: plate_12_01_03
+manufacturer: ''
+md5: 387c07fc04b482a9e48d7942fabeb4a8
+md5_10: 387c07fc04
+md5_10_upper: 387C07FC04
+md5_5: 387c0
+md5_5_upper: 387C0
+md5_6: 387c07
+md5_6_alpha: 27cav
+md5_6_alpha_upper: 27CAV
+md5_6_upper: 387C07
+name: Oobb Part Plate 12 01 03
+name_no_class: Part Plate 12 01 03
+name_no_color: '120103'
+name_no_size: 12 01 03
+name_no_type: Plate 12 01 03
+oomp_key: oomp_oobb_part_plate_12_01_03
+oomp_word: frog tv cry
+oomp_word_emoji: ':frog: :tv: :cry:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':tv:'
+- ':cry:'
+oomp_word_list:
+- frog
+- tv
+- cry
+part_number: ''
+size: plate
+type: part

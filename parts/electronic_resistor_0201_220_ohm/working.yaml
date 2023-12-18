@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 220_ohm
+directory: parts/electronic_resistor_0201_220_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220_ohm
+id: electronic_resistor_0201_220_ohm
+id_no_class: resistor_0201_220_ohm
+id_no_color: 220ohm
+id_no_size: 220_ohm
+id_no_type: 0201_220_ohm
+manufacturer: ''
+md5: b238f1f80dd2adc471784e231c1f543c
+md5_10: b238f1f80d
+md5_10_upper: B238F1F80D
+md5_5: b238f
+md5_5_upper: B238F
+md5_6: b238f1
+md5_6_alpha: 6ycc1
+md5_6_alpha_upper: 6YCC1
+md5_6_upper: B238F1
+name: Electronic Resistor 0201 220 Ohm
+name_no_class: Resistor 0201 220 Ohm
+name_no_color: 220Ohm
+name_no_size: 220 Ohm
+name_no_type: 0201 220 Ohm
+oomp_key: oomp_electronic_resistor_0201_220_ohm
+oomp_word: handbag frog ticket
+oomp_word_emoji: ':handbag: :frog: :ticket:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':frog:'
+- ':ticket:'
+oomp_word_list:
+- handbag
+- frog
+- ticket
+part_number: ''
+size: '0201'
+type: resistor

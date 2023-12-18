@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 3_pin
+directory: parts/electronic_header_2_54_mm_3_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_3_pin_through_hole_short
+id: electronic_header_2_54_mm_3_pin_through_hole_short
+id_no_class: header_2_54_mm_3_pin_through_hole_short
+id_no_color: 3pinthroughholeshort
+id_no_size: 3_pin_through_hole_short
+id_no_type: 2_54_mm_3_pin_through_hole_short
+manufacturer: ''
+md5: c508965ef38886fee0068d5870caa2a8
+md5_10: c508965ef3
+md5_10_upper: C508965EF3
+md5_5: c5089
+md5_5_upper: C5089
+md5_6: c50896
+md5_6_alpha: 7orkm
+md5_6_alpha_upper: 7ORKM
+md5_6_upper: C50896
+name: Electronic Header 2 54 Mm 3 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 3 Pin Through Hole Short
+name_no_color: 3Pinthroughholeshort
+name_no_size: 3 Pin Through Hole Short
+name_no_type: 2 54 Mm 3 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_3_pin_through_hole_short
+oomp_word: candy scream basketball
+oomp_word_emoji: ':candy: :scream: :basketball:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':scream:'
+- ':basketball:'
+oomp_word_list:
+- candy
+- scream
+- basketball
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_08_18'
+directory: parts/oobb_part_tray_vertical_12_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_08_18
+id: oobb_part_tray_vertical_12_08_18
+id_no_class: part_tray_vertical_12_08_18
+id_no_color: '120818'
+id_no_size: '12_08_18'
+id_no_type: tray_vertical_12_08_18
+manufacturer: ''
+md5: fac9f22714617676c45714dfcd886cca
+md5_10: fac9f22714
+md5_10_upper: FAC9F22714
+md5_5: fac9f
+md5_5_upper: FAC9F
+md5_6: fac9f2
+md5_6_alpha: 9s9v6
+md5_6_alpha_upper: 9S9V6
+md5_6_upper: FAC9F2
+name: Oobb Part Tray Vertical 12 08 18
+name_no_class: Part Tray Vertical 12 08 18
+name_no_color: '120818'
+name_no_size: 12 08 18
+name_no_type: Tray Vertical 12 08 18
+oomp_key: oomp_oobb_part_tray_vertical_12_08_18
+oomp_word: nine lemon one
+oomp_word_emoji: ':nine: :lemon: :one:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':lemon:'
+- ':one:'
+oomp_word_list:
+- nine
+- lemon
+- one
+part_number: ''
+size: tray_vertical
+type: part

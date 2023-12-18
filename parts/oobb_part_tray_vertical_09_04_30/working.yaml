@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_04_30
+directory: parts/oobb_part_tray_vertical_09_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_04_30
+id: oobb_part_tray_vertical_09_04_30
+id_no_class: part_tray_vertical_09_04_30
+id_no_color: 090430
+id_no_size: 09_04_30
+id_no_type: tray_vertical_09_04_30
+manufacturer: ''
+md5: 25e0640945ece4e3fd8139d1f886af9d
+md5_10: 25e0640945
+md5_10_upper: 25E0640945
+md5_5: 25e06
+md5_5_upper: 25E06
+md5_6: 25e064
+md5_6_alpha: 1h7c4
+md5_6_alpha_upper: 1H7C4
+md5_6_upper: 25E064
+name: Oobb Part Tray Vertical 09 04 30
+name_no_class: Part Tray Vertical 09 04 30
+name_no_color: 090430
+name_no_size: 09 04 30
+name_no_type: Tray Vertical 09 04 30
+oomp_key: oomp_oobb_part_tray_vertical_09_04_30
+oomp_word: ear ship sunflower
+oomp_word_emoji: ':ear: :ship: :sunflower:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':ship:'
+- ':sunflower:'
+oomp_word_list:
+- ear
+- ship
+- sunflower
+part_number: ''
+size: tray_vertical
+type: part

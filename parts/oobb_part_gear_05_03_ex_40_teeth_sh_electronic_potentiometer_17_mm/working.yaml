@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0503ex40teethshelectronicpotentiometer17mm
+id_no_size: 05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 4f1bd3c768a495f779dbe3d9e0af4e55
+md5_10: 4f1bd3c768
+md5_10_upper: 4F1BD3C768
+md5_5: 4f1bd
+md5_5_upper: 4F1BD
+md5_6: 4f1bd3
+md5_6_alpha: 334cz
+md5_6_alpha_upper: 334CZ
+md5_6_upper: 4F1BD3
+name: Oobb Part Gear 05 03 Ex 40 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Gear 05 03 Ex 40 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0503Ex40Teethshelectronicpotentiometer17Mm
+name_no_size: 05 03 Ex 40 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Gear 05 03 Ex 40 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_gear_05_03_ex_40_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: ant muscle tomato
+oomp_word_emoji: ':ant: :muscle: :tomato:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':muscle:'
+- ':tomato:'
+oomp_word_list:
+- ant
+- muscle
+- tomato
+part_number: ''
+size: gear
+type: part

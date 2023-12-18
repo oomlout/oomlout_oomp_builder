@@ -1,0 +1,40 @@
+classification: hardware
+color: F606_size
+description_extra: ''
+description_main: 6_mm_id_17_mm_od_6_mm_depth
+directory: parts/hardware_bearing_F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+id: hardware_bearing_F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_class: bearing_F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_color: 6_mm_id_17_mm_od_6_mm_depth
+id_no_size: F606_size_6_mm_id_17_mm_od_6_mm_depth
+id_no_type: F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+manufacturer: ''
+md5: ff95a561f50b9ff2e0dab8d1ecfa7911
+md5_10: ff95a561f5
+md5_10_upper: FF95A561F5
+md5_5: ff95a
+md5_5_upper: FF95A
+md5_6: ff95a5
+md5_6_alpha: 9z0dh
+md5_6_alpha_upper: 9Z0DH
+md5_6_upper: FF95A5
+name: Hardware Bearing F600 Series F606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_class: Bearing F600 Series F606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_color: 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_size: F606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+name_no_type: F600 Series F606 Size 6 Mm Id 17 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F606_size_6_mm_id_17_mm_od_6_mm_depth
+oomp_word: trident telescope headphones
+oomp_word_emoji: ':trident: :telescope: :headphones:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':telescope:'
+- ':headphones:'
+oomp_word_list:
+- trident
+- telescope
+- headphones
+part_number: ''
+size: F600_series
+type: bearing

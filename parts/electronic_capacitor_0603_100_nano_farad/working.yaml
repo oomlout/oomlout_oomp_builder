@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 100_nano_farad
+directory: parts/electronic_capacitor_0603_100_nano_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_100_nano_farad
+id: electronic_capacitor_0603_100_nano_farad
+id_no_class: capacitor_0603_100_nano_farad
+id_no_color: 100nanofarad
+id_no_size: 100_nano_farad
+id_no_type: 0603_100_nano_farad
+manufacturer: ''
+md5: 8cfd91c8b4af505f5c4d796bc12d1d16
+md5_10: 8cfd91c8b4
+md5_10_upper: 8CFD91C8B4
+md5_5: 8cfd9
+md5_5_upper: 8CFD9
+md5_6: 8cfd91
+md5_6_alpha: 5i1ld
+md5_6_alpha_upper: 5I1LD
+md5_6_upper: 8CFD91
+name: Electronic Capacitor 0603 100 Nano Farad
+name_no_class: Capacitor 0603 100 Nano Farad
+name_no_color: 100Nanofarad
+name_no_size: 100 Nano Farad
+name_no_type: 0603 100 Nano Farad
+oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
+oomp_word: pill parking pushpin
+oomp_word_emoji: ':pill: :parking: :pushpin:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':parking:'
+- ':pushpin:'
+oomp_word_list:
+- pill
+- parking
+- pushpin
+part_number: ''
+size: '0603'
+type: capacitor

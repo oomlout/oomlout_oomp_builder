@@ -1,0 +1,40 @@
+classification: hardware
+color: 6824_size
+description_extra: ''
+description_main: 120_mm_id_150_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+id: hardware_bearing_6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+id_no_class: bearing_6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+id_no_color: 120_mm_id_150_mm_od_16_mm_depth
+id_no_size: 6824_size_120_mm_id_150_mm_od_16_mm_depth
+id_no_type: 6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+manufacturer: ''
+md5: 6d12624b83eaf6fe8d3c983e8edbebfe
+md5_10: 6d12624b83
+md5_10_upper: 6D12624B83
+md5_5: 6d126
+md5_5_upper: 6D126
+md5_6: 6d1262
+md5_6_alpha: 497j6
+md5_6_alpha_upper: 497J6
+md5_6_upper: 6D1262
+name: Hardware Bearing 6800 Series 6824 Size 120 Mm Id 150 Mm Od 16 Mm Depth
+name_no_class: Bearing 6800 Series 6824 Size 120 Mm Id 150 Mm Od 16 Mm Depth
+name_no_color: 120 Mm Id 150 Mm Od 16 Mm Depth
+name_no_size: 6824 Size 120 Mm Id 150 Mm Od 16 Mm Depth
+name_no_type: 6800 Series 6824 Size 120 Mm Id 150 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6824_size_120_mm_id_150_mm_od_16_mm_depth
+oomp_word: shell anger tulip
+oomp_word_emoji: ':shell: :anger: :tulip:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':anger:'
+- ':tulip:'
+oomp_word_list:
+- shell
+- anger
+- tulip
+part_number: ''
+size: 6800_series
+type: bearing

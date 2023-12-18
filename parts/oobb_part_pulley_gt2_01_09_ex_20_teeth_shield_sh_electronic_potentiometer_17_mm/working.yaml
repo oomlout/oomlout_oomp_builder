@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_color: 0109ex20teethshieldshelectronicpotentiometer17mm
+id_no_size: 01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 9ba888c5be54c9e0a754a0a7e17650db
+md5_10: 9ba888c5be
+md5_10_upper: 9BA888C5BE
+md5_5: 9ba88
+md5_5_upper: 9BA88
+md5_6: 9ba888
+md5_6_alpha: 62nbc
+md5_6_alpha_upper: 62NBC
+md5_6_upper: 9BA888
+name: Oobb Part Pulley Gt2 01 09 Ex 20 Teeth Shield Sh Electronic Potentiometer 17
+  Mm
+name_no_class: Part Pulley Gt2 01 09 Ex 20 Teeth Shield Sh Electronic Potentiometer
+  17 Mm
+name_no_color: 0109Ex20Teethshieldshelectronicpotentiometer17Mm
+name_no_size: 01 09 Ex 20 Teeth Shield Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 01 09 Ex 20 Teeth Shield Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_20_teeth_shield_sh_electronic_potentiometer_17_mm
+oomp_word: ski shoe wrench
+oomp_word_emoji: ':ski: :shoe: :wrench:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':shoe:'
+- ':wrench:'
+oomp_word_list:
+- ski
+- shoe
+- wrench
+part_number: ''
+size: pulley_gt2
+type: part

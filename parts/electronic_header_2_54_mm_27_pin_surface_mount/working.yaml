@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 27_pin
+directory: parts/electronic_header_2_54_mm_27_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_surface_mount
+id: electronic_header_2_54_mm_27_pin_surface_mount
+id_no_class: header_2_54_mm_27_pin_surface_mount
+id_no_color: 27pinsurfacemount
+id_no_size: 27_pin_surface_mount
+id_no_type: 2_54_mm_27_pin_surface_mount
+manufacturer: ''
+md5: 7b291192d42b107430df9cfa0e2d24ae
+md5_10: 7b291192d4
+md5_10_upper: 7B291192D4
+md5_5: 7b291
+md5_5_upper: 7B291
+md5_6: 7b2911
+md5_6_alpha: 4szyp
+md5_6_alpha_upper: 4SZYP
+md5_6_upper: 7B2911
+name: Electronic Header 2 54 Mm 27 Pin Surface Mount
+name_no_class: Header 2 54 Mm 27 Pin Surface Mount
+name_no_color: 27Pinsurfacemount
+name_no_size: 27 Pin Surface Mount
+name_no_type: 2 54 Mm 27 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_27_pin_surface_mount
+oomp_word: computer sunny dizzy
+oomp_word_emoji: ':computer: :sunny: :dizzy:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':sunny:'
+- ':dizzy:'
+oomp_word_list:
+- computer
+- sunny
+- dizzy
+part_number: ''
+size: 2_54_mm
+type: header

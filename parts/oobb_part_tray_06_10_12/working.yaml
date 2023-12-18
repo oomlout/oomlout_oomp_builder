@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_10_12'
+directory: parts/oobb_part_tray_06_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_10_12
+id: oobb_part_tray_06_10_12
+id_no_class: part_tray_06_10_12
+id_no_color: '061012'
+id_no_size: '06_10_12'
+id_no_type: tray_06_10_12
+manufacturer: ''
+md5: 8b69a711d5be376f4f0f74f86731a3cc
+md5_10: 8b69a711d5
+md5_10_upper: 8B69A711D5
+md5_5: 8b69a
+md5_5_upper: 8B69A
+md5_6: 8b69a7
+md5_6_alpha: 5ftt3
+md5_6_alpha_upper: 5FTT3
+md5_6_upper: 8B69A7
+name: Oobb Part Tray 06 10 12
+name_no_class: Part Tray 06 10 12
+name_no_color: '061012'
+name_no_size: 06 10 12
+name_no_type: Tray 06 10 12
+oomp_key: oomp_oobb_part_tray_06_10_12
+oomp_word: door cactus guitar
+oomp_word_emoji: ':door: :cactus: :guitar:'
+oomp_word_emoji_list:
+- ':door:'
+- ':cactus:'
+- ':guitar:'
+oomp_word_list:
+- door
+- cactus
+- guitar
+part_number: ''
+size: tray
+type: part

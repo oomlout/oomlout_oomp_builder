@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_07_15'
+directory: parts/oobb_part_tray_06_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_07_15
+id: oobb_part_tray_06_07_15
+id_no_class: part_tray_06_07_15
+id_no_color: '060715'
+id_no_size: '06_07_15'
+id_no_type: tray_06_07_15
+manufacturer: ''
+md5: 4e10a26980efcbbaf539cea428d82724
+md5_10: 4e10a26980
+md5_10_upper: 4E10A26980
+md5_5: 4e10a
+md5_5_upper: 4E10A
+md5_6: 4e10a2
+md5_6_alpha: 31nky
+md5_6_alpha_upper: 31NKY
+md5_6_upper: 4E10A2
+name: Oobb Part Tray 06 07 15
+name_no_class: Part Tray 06 07 15
+name_no_color: '060715'
+name_no_size: 06 07 15
+name_no_type: Tray 06 07 15
+oomp_key: oomp_oobb_part_tray_06_07_15
+oomp_word: honeybee star violin
+oomp_word_emoji: ':honeybee: :star: :violin:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':star:'
+- ':violin:'
+oomp_word_list:
+- honeybee
+- star
+- violin
+part_number: ''
+size: tray
+type: part

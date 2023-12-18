@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_09
+directory: parts/oobb_part_tray_vertical_03_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_03_09
+id: oobb_part_tray_vertical_03_03_09
+id_no_class: part_tray_vertical_03_03_09
+id_no_color: 030309
+id_no_size: 03_03_09
+id_no_type: tray_vertical_03_03_09
+manufacturer: ''
+md5: f85f1d9abca683f6e3b2a7e30fb5143c
+md5_10: f85f1d9abc
+md5_10_upper: F85F1D9ABC
+md5_5: f85f1
+md5_5_upper: F85F1
+md5_6: f85f1d
+md5_6_alpha: 9ovml
+md5_6_alpha_upper: 9OVML
+md5_6_upper: F85F1D
+name: Oobb Part Tray Vertical 03 03 09
+name_no_class: Part Tray Vertical 03 03 09
+name_no_color: 030309
+name_no_size: 03 03 09
+name_no_type: Tray Vertical 03 03 09
+oomp_key: oomp_oobb_part_tray_vertical_03_03_09
+oomp_word: seven leopard baby
+oomp_word_emoji: ':seven: :leopard: :baby:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':leopard:'
+- ':baby:'
+oomp_word_list:
+- seven
+- leopard
+- baby
+part_number: ''
+size: tray_vertical
+type: part

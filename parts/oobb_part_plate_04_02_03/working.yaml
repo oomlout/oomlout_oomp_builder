@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_02_03'
+directory: parts/oobb_part_plate_04_02_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_02_03
+id: oobb_part_plate_04_02_03
+id_no_class: part_plate_04_02_03
+id_no_color: '040203'
+id_no_size: '04_02_03'
+id_no_type: plate_04_02_03
+manufacturer: ''
+md5: 198f1076369b923f777d9554cbe94fa9
+md5_10: 198f107636
+md5_10_upper: 198F107636
+md5_5: 198f1
+md5_5_upper: 198F1
+md5_6: 198f10
+md5_6_alpha: zwgg
+md5_6_alpha_upper: ZWGG
+md5_6_upper: 198F10
+name: Oobb Part Plate 04 02 03
+name_no_class: Part Plate 04 02 03
+name_no_color: '040203'
+name_no_size: 04 02 03
+name_no_type: Plate 04 02 03
+oomp_key: oomp_oobb_part_plate_04_02_03
+oomp_word: pray calendar star
+oomp_word_emoji: ':pray: :calendar: :star:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':calendar:'
+- ':star:'
+oomp_word_list:
+- pray
+- calendar
+- star
+part_number: ''
+size: plate
+type: part

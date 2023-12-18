@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_07_15'
+directory: parts/oobb_part_tray_vertical_10_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_07_15
+id: oobb_part_tray_vertical_10_07_15
+id_no_class: part_tray_vertical_10_07_15
+id_no_color: '100715'
+id_no_size: '10_07_15'
+id_no_type: tray_vertical_10_07_15
+manufacturer: ''
+md5: 8b3571deb136d762e568f24a90700c7e
+md5_10: 8b3571deb1
+md5_10_upper: 8B3571DEB1
+md5_5: 8b357
+md5_5_upper: 8B357
+md5_6: 8b3571
+md5_6_alpha: 5fjht
+md5_6_alpha_upper: 5FJHT
+md5_6_upper: 8B3571
+name: Oobb Part Tray Vertical 10 07 15
+name_no_class: Part Tray Vertical 10 07 15
+name_no_color: '100715'
+name_no_size: 10 07 15
+name_no_type: Tray Vertical 10 07 15
+oomp_key: oomp_oobb_part_tray_vertical_10_07_15
+oomp_word: door hamster bamboo
+oomp_word_emoji: ':door: :hamster: :bamboo:'
+oomp_word_emoji_list:
+- ':door:'
+- ':hamster:'
+- ':bamboo:'
+oomp_word_list:
+- door
+- hamster
+- bamboo
+part_number: ''
+size: tray_vertical
+type: part

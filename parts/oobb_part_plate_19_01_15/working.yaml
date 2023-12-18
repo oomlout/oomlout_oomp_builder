@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_15'
+directory: parts/oobb_part_plate_19_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_15
+id: oobb_part_plate_19_01_15
+id_no_class: part_plate_19_01_15
+id_no_color: '190115'
+id_no_size: '19_01_15'
+id_no_type: plate_19_01_15
+manufacturer: ''
+md5: a9adbcfea76934532018c8298188e687
+md5_10: a9adbcfea7
+md5_10_upper: A9ADBCFEA7
+md5_5: a9adb
+md5_5_upper: A9ADB
+md5_6: a9adbc
+md5_6_alpha: 6mcak
+md5_6_alpha_upper: 6MCAK
+md5_6_upper: A9ADBC
+name: Oobb Part Plate 19 01 15
+name_no_class: Part Plate 19 01 15
+name_no_color: '190115'
+name_no_size: 19 01 15
+name_no_type: Plate 19 01 15
+oomp_key: oomp_oobb_part_plate_19_01_15
+oomp_word: sandal dress sushi
+oomp_word_emoji: ':sandal: :dress: :sushi:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':dress:'
+- ':sushi:'
+oomp_word_list:
+- sandal
+- dress
+- sushi
+part_number: ''
+size: plate
+type: part

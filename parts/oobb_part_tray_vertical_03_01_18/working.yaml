@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_18
+directory: parts/oobb_part_tray_vertical_03_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_18
+id: oobb_part_tray_vertical_03_01_18
+id_no_class: part_tray_vertical_03_01_18
+id_no_color: 030118
+id_no_size: 03_01_18
+id_no_type: tray_vertical_03_01_18
+manufacturer: ''
+md5: e9bc20dd35956318542a5d82fbc91d8e
+md5_10: e9bc20dd35
+md5_10_upper: E9BC20DD35
+md5_5: e9bc2
+md5_5_upper: E9BC2
+md5_6: e9bc20
+md5_6_alpha: 94bhc
+md5_6_alpha_upper: 94BHC
+md5_6_upper: E9BC20
+name: Oobb Part Tray Vertical 03 01 18
+name_no_class: Part Tray Vertical 03 01 18
+name_no_color: 030118
+name_no_size: 03 01 18
+name_no_type: Tray Vertical 03 01 18
+oomp_key: oomp_oobb_part_tray_vertical_03_01_18
+oomp_word: bike sushi skull
+oomp_word_emoji: ':bike: :sushi: :skull:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':sushi:'
+- ':skull:'
+oomp_word_list:
+- bike
+- sushi
+- skull
+part_number: ''
+size: tray_vertical
+type: part

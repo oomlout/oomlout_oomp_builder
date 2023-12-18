@@ -1,0 +1,40 @@
+classification: hardware
+color: 6820_size
+description_extra: ''
+description_main: 100_mm_id_125_mm_od_13_mm_depth
+directory: parts/hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+id: hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+id_no_class: bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+id_no_color: 100_mm_id_125_mm_od_13_mm_depth
+id_no_size: 6820_size_100_mm_id_125_mm_od_13_mm_depth
+id_no_type: 6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+manufacturer: ''
+md5: 7f2159f30d0f9a7825e2473ec223ae55
+md5_10: 7f2159f30d
+md5_10_upper: 7F2159F30D
+md5_5: 7f215
+md5_5_upper: 7F215
+md5_6: 7f2159
+md5_6_alpha: 4ykpl
+md5_6_alpha_upper: 4YKPL
+md5_6_upper: 7F2159
+name: Hardware Bearing 6800 Series 6820 Size 100 Mm Id 125 Mm Od 13 Mm Depth
+name_no_class: Bearing 6800 Series 6820 Size 100 Mm Id 125 Mm Od 13 Mm Depth
+name_no_color: 100 Mm Id 125 Mm Od 13 Mm Depth
+name_no_size: 6820 Size 100 Mm Id 125 Mm Od 13 Mm Depth
+name_no_type: 6800 Series 6820 Size 100 Mm Id 125 Mm Od 13 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+oomp_word: speaker feet dragon
+oomp_word_emoji: ':speaker: :feet: :dragon:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':feet:'
+- ':dragon:'
+oomp_word_list:
+- speaker
+- feet
+- dragon
+part_number: ''
+size: 6800_series
+type: bearing

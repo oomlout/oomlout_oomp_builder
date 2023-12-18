@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_12'
+directory: parts/oobb_part_ziptie_holder_jack_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_ziptie_holder_jack_02_12
+id: oobb_part_ziptie_holder_jack_02_12
+id_no_class: part_ziptie_holder_jack_02_12
+id_no_color: '0212'
+id_no_size: '02_12'
+id_no_type: ziptie_holder_jack_02_12
+manufacturer: ''
+md5: f8c33a52d98371b5baa8f50b3e481a7f
+md5_10: f8c33a52d9
+md5_10_upper: F8C33A52D9
+md5_5: f8c33
+md5_5_upper: F8C33
+md5_6: f8c33a
+md5_6_alpha: 9pfei
+md5_6_alpha_upper: 9PFEI
+md5_6_upper: F8C33A
+name: Oobb Part Ziptie Holder Jack 02 12
+name_no_class: Part Ziptie Holder Jack 02 12
+name_no_color: '0212'
+name_no_size: 02 12
+name_no_type: Ziptie Holder Jack 02 12
+oomp_key: oomp_oobb_part_ziptie_holder_jack_02_12
+oomp_word: seven cake koala
+oomp_word_emoji: ':seven: :cake: :koala:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':cake:'
+- ':koala:'
+oomp_word_list:
+- seven
+- cake
+- koala
+part_number: ''
+size: ziptie_holder_jack
+type: part

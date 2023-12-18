@@ -1,0 +1,40 @@
+classification: hardware
+color: 6017_size
+description_extra: ''
+description_main: 85_mm_id_130_mm_od_22_mm_depth
+directory: parts/hardware_bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+id: hardware_bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+id_no_class: bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+id_no_color: 85_mm_id_130_mm_od_22_mm_depth
+id_no_size: 6017_size_85_mm_id_130_mm_od_22_mm_depth
+id_no_type: 6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+manufacturer: ''
+md5: b1329d84e65affbe4e1f1b1435ba74d2
+md5_10: b1329d84e6
+md5_10_upper: B1329D84E6
+md5_5: b1329
+md5_5_upper: B1329
+md5_6: b1329d
+md5_6_alpha: 6wwil
+md5_6_alpha_upper: 6WWIL
+md5_6_upper: B1329D
+name: Hardware Bearing 6000 Series 6017 Size 85 Mm Id 130 Mm Od 22 Mm Depth
+name_no_class: Bearing 6000 Series 6017 Size 85 Mm Id 130 Mm Od 22 Mm Depth
+name_no_color: 85 Mm Id 130 Mm Od 22 Mm Depth
+name_no_size: 6017 Size 85 Mm Id 130 Mm Od 22 Mm Depth
+name_no_type: 6000 Series 6017 Size 85 Mm Id 130 Mm Od 22 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
+oomp_word: briefcase cat hearts
+oomp_word_emoji: ':briefcase: :cat: :hearts:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':cat:'
+- ':hearts:'
+oomp_word_list:
+- briefcase
+- cat
+- hearts
+part_number: ''
+size: 6000_series
+type: bearing

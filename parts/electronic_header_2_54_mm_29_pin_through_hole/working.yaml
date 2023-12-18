@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 29_pin
+directory: parts/electronic_header_2_54_mm_29_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_29_pin_through_hole
+id: electronic_header_2_54_mm_29_pin_through_hole
+id_no_class: header_2_54_mm_29_pin_through_hole
+id_no_color: 29pinthroughhole
+id_no_size: 29_pin_through_hole
+id_no_type: 2_54_mm_29_pin_through_hole
+manufacturer: ''
+md5: b437c5ad81869c19ba0e4351ec148d00
+md5_10: b437c5ad81
+md5_10_upper: B437C5AD81
+md5_5: b437c
+md5_5_upper: B437C
+md5_6: b437c5
+md5_6_alpha: 7158l
+md5_6_alpha_upper: 7158L
+md5_6_upper: B437C5
+name: Electronic Header 2 54 Mm 29 Pin Through Hole
+name_no_class: Header 2 54 Mm 29 Pin Through Hole
+name_no_color: 29Pinthroughhole
+name_no_size: 29 Pin Through Hole
+name_no_type: 2 54 Mm 29 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_29_pin_through_hole
+oomp_word: coffee wolf candy
+oomp_word_emoji: ':coffee: :wolf: :candy:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':wolf:'
+- ':candy:'
+oomp_word_list:
+- coffee
+- wolf
+- candy
+part_number: ''
+size: 2_54_mm
+type: header

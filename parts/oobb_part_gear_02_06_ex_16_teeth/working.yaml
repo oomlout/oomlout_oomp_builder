@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_06_ex_16_teeth
+directory: parts/oobb_part_gear_02_06_ex_16_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06_ex_16_teeth
+id: oobb_part_gear_02_06_ex_16_teeth
+id_no_class: part_gear_02_06_ex_16_teeth
+id_no_color: 0206ex16teeth
+id_no_size: 02_06_ex_16_teeth
+id_no_type: gear_02_06_ex_16_teeth
+manufacturer: ''
+md5: 7e08befa3b687a03825ac77ae1d82895
+md5_10: 7e08befa3b
+md5_10_upper: 7E08BEFA3B
+md5_5: 7e08b
+md5_5_upper: 7E08B
+md5_6: 7e08be
+md5_6_alpha: 4x1a6
+md5_6_alpha_upper: 4X1A6
+md5_6_upper: 7E08BE
+name: Oobb Part Gear 02 06 Ex 16 Teeth
+name_no_class: Part Gear 02 06 Ex 16 Teeth
+name_no_color: 0206Ex16Teeth
+name_no_size: 02 06 Ex 16 Teeth
+name_no_type: Gear 02 06 Ex 16 Teeth
+oomp_key: oomp_oobb_part_gear_02_06_ex_16_teeth
+oomp_word: fax scream ramen
+oomp_word_emoji: ':fax: :scream: :ramen:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':scream:'
+- ':ramen:'
+oomp_word_list:
+- fax
+- scream
+- ramen
+part_number: ''
+size: gear
+type: part

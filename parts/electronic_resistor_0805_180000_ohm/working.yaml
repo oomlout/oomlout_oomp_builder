@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 180000_ohm
+directory: parts/electronic_resistor_0805_180000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_180000_ohm
+id: electronic_resistor_0805_180000_ohm
+id_no_class: resistor_0805_180000_ohm
+id_no_color: 180000ohm
+id_no_size: 180000_ohm
+id_no_type: 0805_180000_ohm
+manufacturer: ''
+md5: 15c0d53f516af6960c60b6c39ed6e208
+md5_10: 15c0d53f51
+md5_10_upper: 15C0D53F51
+md5_5: 15c0d
+md5_5_upper: 15C0D
+md5_6: 15c0d5
+md5_6_alpha: uk0l
+md5_6_alpha_upper: UK0L
+md5_6_upper: 15C0D5
+name: Electronic Resistor 0805 180000 Ohm
+name_no_class: Resistor 0805 180000 Ohm
+name_no_color: 180000Ohm
+name_no_size: 180000 Ohm
+name_no_type: 0805 180000 Ohm
+oomp_key: oomp_electronic_resistor_0805_180000_ohm
+oomp_word: poop bread house
+oomp_word_emoji: ':poop: :bread: :house:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':bread:'
+- ':house:'
+oomp_word_list:
+- poop
+- bread
+- house
+part_number: ''
+size: 0805
+type: resistor

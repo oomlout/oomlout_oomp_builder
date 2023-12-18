@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_u
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_u
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_u
+id: oobb_part_bunting_alphabet_07_01_ex_u
+id_no_class: part_bunting_alphabet_07_01_ex_u
+id_no_color: 0701exu
+id_no_size: 07_01_ex_u
+id_no_type: bunting_alphabet_07_01_ex_u
+manufacturer: ''
+md5: 18115685e80d2028bedc4b726fa64d4c
+md5_10: 18115685e8
+md5_10_upper: 18115685E8
+md5_5: '18115'
+md5_5_upper: '18115'
+md5_6: '181156'
+md5_6_alpha: xt1y
+md5_6_alpha_upper: XT1Y
+md5_6_upper: '181156'
+name: Oobb Part Bunting Alphabet 07 01 Ex U
+name_no_class: Part Bunting Alphabet 07 01 Ex U
+name_no_color: 0701Exu
+name_no_size: 07 01 Ex U
+name_no_type: Bunting Alphabet 07 01 Ex U
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_u
+oomp_word: hand dizzy ram
+oomp_word_emoji: ':hand: :dizzy: :ram:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':dizzy:'
+- ':ram:'
+oomp_word_list:
+- hand
+- dizzy
+- ram
+part_number: ''
+size: bunting_alphabet
+type: part

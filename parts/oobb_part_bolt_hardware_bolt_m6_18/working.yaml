@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_bolt_m6_18
+directory: parts/oobb_part_bolt_hardware_bolt_m6_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_18
+id: oobb_part_bolt_hardware_bolt_m6_18
+id_no_class: part_bolt_hardware_bolt_m6_18
+id_no_color: hardwarem618
+id_no_size: hardware_m6_18
+id_no_type: bolt_hardware_bolt_m6_18
+manufacturer: ''
+md5: 0f2dac0336b04f1c95ec506cdfb8a304
+md5_10: 0f2dac0336
+md5_10_upper: 0F2DAC0336
+md5_5: 0f2da
+md5_5_upper: 0F2DA
+md5_6: 0f2dac
+md5_6_alpha: lbjg
+md5_6_alpha_upper: LBJG
+md5_6_upper: 0F2DAC
+name: Oobb Part Bolt Hardware Bolt M6 18
+name_no_class: Part Bolt Hardware Bolt M6 18
+name_no_color: Hardwarem618
+name_no_size: Hardware M6 18
+name_no_type: Bolt Hardware Bolt M6 18
+oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_18
+oomp_word: sparkles snowman shirt
+oomp_word_emoji: ':sparkles: :snowman: :shirt:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':snowman:'
+- ':shirt:'
+oomp_word_list:
+- sparkles
+- snowman
+- shirt
+part_number: ''
+size: bolt
+type: part

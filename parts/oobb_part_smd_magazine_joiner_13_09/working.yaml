@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_09'
+directory: parts/oobb_part_smd_magazine_joiner_13_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_13_09
+id: oobb_part_smd_magazine_joiner_13_09
+id_no_class: part_smd_magazine_joiner_13_09
+id_no_color: '1309'
+id_no_size: '13_09'
+id_no_type: smd_magazine_joiner_13_09
+manufacturer: ''
+md5: dee51db72169350c3798cf9b290e5383
+md5_10: dee51db721
+md5_10_upper: DEE51DB721
+md5_5: dee51
+md5_5_upper: DEE51
+md5_6: dee51d
+md5_6_alpha: 8p3bx
+md5_6_alpha_upper: 8P3BX
+md5_6_upper: DEE51D
+name: Oobb Part Smd Magazine Joiner 13 09
+name_no_class: Part Smd Magazine Joiner 13 09
+name_no_color: '1309'
+name_no_size: 13 09
+name_no_type: Smd Magazine Joiner 13 09
+oomp_key: oomp_oobb_part_smd_magazine_joiner_13_09
+oomp_word: rainbow rocket baby
+oomp_word_emoji: ':rainbow: :rocket: :baby:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':rocket:'
+- ':baby:'
+oomp_word_list:
+- rainbow
+- rocket
+- baby
+part_number: ''
+size: smd_magazine_joiner
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x10_20_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x10_20_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x10_20_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x10_20_pin_through_hole
+id_no_color: 2x1020pinthroughhole
+id_no_size: 2x10_20_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x10_20_pin_through_hole
+manufacturer: ''
+md5: 27a82247335e188b3dcba7cb6e9a4b62
+md5_10: 27a8224733
+md5_10_upper: 27A8224733
+md5_5: 27a82
+md5_5_upper: 27A82
+md5_6: 27a822
+md5_6_alpha: 1jpcy
+md5_6_alpha_upper: 1JPCY
+md5_6_upper: 27A822
+name: Electronic Header 2 54 Mm Dual Row 2X10 20 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X10 20 Pin Through Hole
+name_no_color: 2X1020Pinthroughhole
+name_no_size: 2X10 20 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X10 20 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x10_20_pin_through_hole
+oomp_word: nose shoe lips
+oomp_word_emoji: ':nose: :shoe: :lips:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':shoe:'
+- ':lips:'
+oomp_word_list:
+- nose
+- shoe
+- lips
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

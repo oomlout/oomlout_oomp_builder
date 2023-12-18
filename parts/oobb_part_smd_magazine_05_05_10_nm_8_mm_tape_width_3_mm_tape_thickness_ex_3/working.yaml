@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+directory: parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id: oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 050510nm8mmtapewidth3mmtapethicknessex3
+id_no_size: 05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+md5: 85c8a209f2d5171d74c2ba086fe3d8b2
+md5_10: 85c8a209f2
+md5_10_upper: 85C8A209F2
+md5_5: 85c8a
+md5_5_upper: 85C8A
+md5_6: 85c8a2
+md5_6_alpha: 57x5u
+md5_6_alpha_upper: 57X5U
+md5_6_upper: 85C8A2
+name: Oobb Part Smd Magazine 05 05 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_class: Part Smd Magazine 05 05 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex
+  3
+name_no_color: 050510Nm8Mmtapewidth3Mmtapethicknessex3
+name_no_size: 05 05 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_type: Smd Magazine 05 05 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: bulb apple violin
+oomp_word_emoji: ':bulb: :apple: :violin:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':apple:'
+- ':violin:'
+oomp_word_list:
+- bulb
+- apple
+- violin
+part_number: ''
+size: smd_magazine
+type: part

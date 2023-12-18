@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_24_ex_motor_servo_standard_01_bottom
+directory: parts/oobb_part_holder_05_03_24_ex_motor_servo_standard_01_bottom
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24_ex_motor_servo_standard_01_bottom
+id: oobb_part_holder_05_03_24_ex_motor_servo_standard_01_bottom
+id_no_class: part_holder_05_03_24_ex_motor_servo_standard_01_bottom
+id_no_color: 050324exmotorservostandard01bottom
+id_no_size: 05_03_24_ex_motor_servo_standard_01_bottom
+id_no_type: holder_05_03_24_ex_motor_servo_standard_01_bottom
+manufacturer: ''
+md5: b0f8d4ccf86eee5890d62cd8cf231036
+md5_10: b0f8d4ccf8
+md5_10_upper: B0F8D4CCF8
+md5_5: b0f8d
+md5_5_upper: B0F8D
+md5_6: b0f8d4
+md5_6_alpha: 6wl3o
+md5_6_alpha_upper: 6WL3O
+md5_6_upper: B0F8D4
+name: Oobb Part Holder 05 03 24 Ex Motor Servo Standard 01 Bottom
+name_no_class: Part Holder 05 03 24 Ex Motor Servo Standard 01 Bottom
+name_no_color: 050324Exmotorservostandard01Bottom
+name_no_size: 05 03 24 Ex Motor Servo Standard 01 Bottom
+name_no_type: Holder 05 03 24 Ex Motor Servo Standard 01 Bottom
+oomp_key: oomp_oobb_part_holder_05_03_24_ex_motor_servo_standard_01_bottom
+oomp_word: crown seven corn
+oomp_word_emoji: ':crown: :seven: :corn:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':seven:'
+- ':corn:'
+oomp_word_list:
+- crown
+- seven
+- corn
+part_number: ''
+size: holder
+type: part

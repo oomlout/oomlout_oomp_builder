@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_11_09
+directory: parts/oobb_part_tray_07_11_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_09
+id: oobb_part_tray_07_11_09
+id_no_class: part_tray_07_11_09
+id_no_color: 071109
+id_no_size: 07_11_09
+id_no_type: tray_07_11_09
+manufacturer: ''
+md5: 63d531992ec6837df386d1c463cd575e
+md5_10: 63d531992e
+md5_10_upper: 63D531992E
+md5_5: 63d53
+md5_5_upper: 63D53
+md5_6: 63d531
+md5_6_alpha: 3w8c1
+md5_6_alpha_upper: 3W8C1
+md5_6_upper: 63D531
+name: Oobb Part Tray 07 11 09
+name_no_class: Part Tray 07 11 09
+name_no_color: 071109
+name_no_size: 07 11 09
+name_no_type: Tray 07 11 09
+oomp_key: oomp_oobb_part_tray_07_11_09
+oomp_word: rose house ocean
+oomp_word_emoji: ':rose: :house: :ocean:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':house:'
+- ':ocean:'
+oomp_word_list:
+- rose
+- house
+- ocean
+part_number: ''
+size: tray
+type: part

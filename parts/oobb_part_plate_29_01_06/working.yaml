@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '29_01_06'
+directory: parts/oobb_part_plate_29_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_29_01_06
+id: oobb_part_plate_29_01_06
+id_no_class: part_plate_29_01_06
+id_no_color: '290106'
+id_no_size: '29_01_06'
+id_no_type: plate_29_01_06
+manufacturer: ''
+md5: c610f8789e3954505ead595c355aa570
+md5_10: c610f8789e
+md5_10_upper: C610F8789E
+md5_5: c610f
+md5_5_upper: C610F
+md5_6: c610f8
+md5_6_alpha: 7q7so
+md5_6_alpha_upper: 7Q7SO
+md5_6_upper: C610F8
+name: Oobb Part Plate 29 01 06
+name_no_class: Part Plate 29 01 06
+name_no_color: '290106'
+name_no_size: 29 01 06
+name_no_type: Plate 29 01 06
+oomp_key: oomp_oobb_part_plate_29_01_06
+oomp_word: lollipop star seven
+oomp_word_emoji: ':lollipop: :star: :seven:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':star:'
+- ':seven:'
+oomp_word_list:
+- lollipop
+- star
+- seven
+part_number: ''
+size: plate
+type: part

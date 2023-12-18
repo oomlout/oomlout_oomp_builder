@@ -1,0 +1,40 @@
+classification: hardware
+color: 6010_size
+description_extra: ''
+description_main: 50_mm_id_80_mm_od_16_mm_depth
+directory: parts/hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+id: hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+id_no_class: bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+id_no_color: 50_mm_id_80_mm_od_16_mm_depth
+id_no_size: 6010_size_50_mm_id_80_mm_od_16_mm_depth
+id_no_type: 6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+manufacturer: ''
+md5: 14a257f63f00048b978bbdb3abaff657
+md5_10: 14a257f63f
+md5_10_upper: 14A257F63F
+md5_5: 14a25
+md5_5_upper: 14A25
+md5_6: 14a257
+md5_6_alpha: szfb
+md5_6_alpha_upper: SZFB
+md5_6_upper: 14A257
+name: Hardware Bearing 6000 Series 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth
+name_no_class: Bearing 6000 Series 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth
+name_no_color: 50 Mm Id 80 Mm Od 16 Mm Depth
+name_no_size: 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth
+name_no_type: 6000 Series 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+oomp_word: fire violin rat
+oomp_word_emoji: ':fire: :violin: :rat:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':violin:'
+- ':rat:'
+oomp_word_list:
+- fire
+- violin
+- rat
+part_number: ''
+size: 6000_series
+type: bearing

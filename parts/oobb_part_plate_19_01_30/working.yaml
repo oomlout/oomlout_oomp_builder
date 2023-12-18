@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_30'
+directory: parts/oobb_part_plate_19_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_30
+id: oobb_part_plate_19_01_30
+id_no_class: part_plate_19_01_30
+id_no_color: '190130'
+id_no_size: '19_01_30'
+id_no_type: plate_19_01_30
+manufacturer: ''
+md5: d620d87c4d7bbf1f5a6f6f454a1745c8
+md5_10: d620d87c4d
+md5_10_upper: D620D87C4D
+md5_5: d620d
+md5_5_upper: D620D
+md5_6: d620d8
+md5_6_alpha: 8cs0o
+md5_6_alpha_upper: 8CS0O
+md5_6_upper: D620D8
+name: Oobb Part Plate 19 01 30
+name_no_class: Part Plate 19 01 30
+name_no_color: '190130'
+name_no_size: 19 01 30
+name_no_type: Plate 19 01 30
+oomp_key: oomp_oobb_part_plate_19_01_30
+oomp_word: school skull hospital
+oomp_word_emoji: ':school: :skull: :hospital:'
+oomp_word_emoji_list:
+- ':school:'
+- ':skull:'
+- ':hospital:'
+oomp_word_list:
+- school
+- skull
+- hospital
+part_number: ''
+size: plate
+type: part

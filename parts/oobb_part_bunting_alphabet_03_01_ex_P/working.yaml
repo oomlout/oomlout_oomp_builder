@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_p
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_p
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_p
+id: oobb_part_bunting_alphabet_03_01_ex_p
+id_no_class: part_bunting_alphabet_03_01_ex_p
+id_no_color: 0301exp
+id_no_size: 03_01_ex_p
+id_no_type: bunting_alphabet_03_01_ex_p
+manufacturer: ''
+md5: ab3198bce4b7234019d1d0e739977622
+md5_10: ab3198bce4
+md5_10_upper: AB3198BCE4
+md5_5: ab319
+md5_5_upper: AB319
+md5_6: ab3198
+md5_6_alpha: 6ogwo
+md5_6_alpha_upper: 6OGWO
+md5_6_upper: AB3198
+name: Oobb Part Bunting Alphabet 03 01 Ex P
+name_no_class: Part Bunting Alphabet 03 01 Ex P
+name_no_color: 0301Exp
+name_no_size: 03 01 Ex P
+name_no_type: Bunting Alphabet 03 01 Ex P
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_p
+oomp_word: boot ocean tennis
+oomp_word_emoji: ':boot: :ocean: :tennis:'
+oomp_word_emoji_list:
+- ':boot:'
+- ':ocean:'
+- ':tennis:'
+oomp_word_list:
+- boot
+- ocean
+- tennis
+part_number: ''
+size: bunting_alphabet
+type: part

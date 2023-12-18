@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 23_pin
+directory: parts/electronic_header_2_54_mm_23_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_23_pin_through_hole_short
+id: electronic_header_2_54_mm_23_pin_through_hole_short
+id_no_class: header_2_54_mm_23_pin_through_hole_short
+id_no_color: 23pinthroughholeshort
+id_no_size: 23_pin_through_hole_short
+id_no_type: 2_54_mm_23_pin_through_hole_short
+manufacturer: ''
+md5: 6297654ef25d4752635c9e38075290ff
+md5_10: 6297654ef2
+md5_10_upper: 6297654EF2
+md5_5: '62976'
+md5_5_upper: '62976'
+md5_6: '629765'
+md5_6_alpha: 3uhk5
+md5_6_alpha_upper: 3UHK5
+md5_6_upper: '629765'
+name: Electronic Header 2 54 Mm 23 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 23 Pin Through Hole Short
+name_no_color: 23Pinthroughholeshort
+name_no_size: 23 Pin Through Hole Short
+name_no_type: 2 54 Mm 23 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_23_pin_through_hole_short
+oomp_word: tulip baseball maple_leaf
+oomp_word_emoji: ':tulip: :baseball: :maple_leaf:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':baseball:'
+- ':maple_leaf:'
+oomp_word_list:
+- tulip
+- baseball
+- maple_leaf
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_p
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_p
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_p
+id: oobb_part_bunting_alphabet_07_01_ex_p
+id_no_class: part_bunting_alphabet_07_01_ex_p
+id_no_color: 0701exp
+id_no_size: 07_01_ex_p
+id_no_type: bunting_alphabet_07_01_ex_p
+manufacturer: ''
+md5: 122ba9ffa71add8335d4ed69013158c5
+md5_10: 122ba9ffa7
+md5_10_upper: 122BA9FFA7
+md5_5: 122ba
+md5_5_upper: 122BA
+md5_6: 122ba9
+md5_6_alpha: piuh
+md5_6_alpha_upper: PIUH
+md5_6_upper: 122BA9
+name: Oobb Part Bunting Alphabet 07 01 Ex P
+name_no_class: Part Bunting Alphabet 07 01 Ex P
+name_no_color: 0701Exp
+name_no_size: 07 01 Ex P
+name_no_type: Bunting Alphabet 07 01 Ex P
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_p
+oomp_word: anger cloud sandal
+oomp_word_emoji: ':anger: :cloud: :sandal:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':cloud:'
+- ':sandal:'
+oomp_word_list:
+- anger
+- cloud
+- sandal
+part_number: ''
+size: bunting_alphabet
+type: part

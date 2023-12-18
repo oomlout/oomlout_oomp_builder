@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_2d5_12
+directory: parts/oobb_part_tray_04_2d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_12
+id: oobb_part_tray_04_2d5_12
+id_no_class: part_tray_04_2d5_12
+id_no_color: 042d512
+id_no_size: 04_2d5_12
+id_no_type: tray_04_2d5_12
+manufacturer: ''
+md5: 60f5874407af9d689b71137c9d2b1d5b
+md5_10: 60f5874407
+md5_10_upper: 60F5874407
+md5_5: 60f58
+md5_5_upper: 60F58
+md5_6: 60f587
+md5_6_alpha: 3s70n
+md5_6_alpha_upper: 3S70N
+md5_6_upper: 60F587
+name: Oobb Part Tray 04 2D5 12
+name_no_class: Part Tray 04 2D5 12
+name_no_color: 042D512
+name_no_size: 04 2D5 12
+name_no_type: Tray 04 2D5 12
+oomp_key: oomp_oobb_part_tray_04_2d5_12
+oomp_word: poodle four toilet
+oomp_word_emoji: ':poodle: :four: :toilet:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':four:'
+- ':toilet:'
+oomp_word_list:
+- poodle
+- four
+- toilet
+part_number: ''
+size: tray
+type: part

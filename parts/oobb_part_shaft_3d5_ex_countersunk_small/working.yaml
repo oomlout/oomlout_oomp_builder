@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 3d5_ex_countersunk_small
+directory: parts/oobb_part_shaft_3d5_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5_ex_countersunk_small
+id: oobb_part_shaft_3d5_ex_countersunk_small
+id_no_class: part_shaft_3d5_ex_countersunk_small
+id_no_color: 3d5excountersunksmall
+id_no_size: 3d5_ex_countersunk_small
+id_no_type: shaft_3d5_ex_countersunk_small
+manufacturer: ''
+md5: 5cf72a320c062f5710c4fb89eb6eba43
+md5_10: 5cf72a320c
+md5_10_upper: 5CF72A320C
+md5_5: 5cf72
+md5_5_upper: 5CF72
+md5_6: 5cf72a
+md5_6_alpha: 3ml2i
+md5_6_alpha_upper: 3ML2I
+md5_6_upper: 5CF72A
+name: Oobb Part Shaft 3D5 Ex Countersunk Small
+name_no_class: Part Shaft 3D5 Ex Countersunk Small
+name_no_color: 3D5Excountersunksmall
+name_no_size: 3D5 Ex Countersunk Small
+name_no_type: Shaft 3D5 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_3d5_ex_countersunk_small
+oomp_word: ox six umbrella
+oomp_word_emoji: ':ox: :six: :umbrella:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':six:'
+- ':umbrella:'
+oomp_word_list:
+- ox
+- six
+- umbrella
+part_number: ''
+size: shaft
+type: part

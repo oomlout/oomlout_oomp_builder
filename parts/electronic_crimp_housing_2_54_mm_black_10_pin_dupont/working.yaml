@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 10_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_10_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_10_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_10_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_10_pin_dupont
+id_no_color: 10_pin_dupont
+id_no_size: black_10_pin_dupont
+id_no_type: 2_54_mm_black_10_pin_dupont
+manufacturer: ''
+md5: 5b541136451e8a43dc4e8b794f410316
+md5_10: 5b54113645
+md5_10_upper: 5B54113645
+md5_5: 5b541
+md5_5_upper: 5B541
+md5_6: 5b5411
+md5_6_alpha: 3kaa9
+md5_6_alpha_upper: 3KAA9
+md5_6_upper: 5B5411
+name: Electronic Crimp Housing 2 54 Mm Black 10 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 10 Pin Dupont
+name_no_color: 10 Pin Dupont
+name_no_size: Black 10 Pin Dupont
+name_no_type: 2 54 Mm Black 10 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_10_pin_dupont
+oomp_word: rooster whale dizzy
+oomp_word_emoji: ':rooster: :whale: :dizzy:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':whale:'
+- ':dizzy:'
+oomp_word_list:
+- rooster
+- whale
+- dizzy
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

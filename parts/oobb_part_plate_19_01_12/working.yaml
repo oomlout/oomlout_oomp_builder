@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_01_12'
+directory: parts/oobb_part_plate_19_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_12
+id: oobb_part_plate_19_01_12
+id_no_class: part_plate_19_01_12
+id_no_color: '190112'
+id_no_size: '19_01_12'
+id_no_type: plate_19_01_12
+manufacturer: ''
+md5: 7a28bbd3bfdc1e891ea26f050372622e
+md5_10: 7a28bbd3bf
+md5_10_upper: 7A28BBD3BF
+md5_5: 7a28b
+md5_5_upper: 7A28B
+md5_6: 7a28bb
+md5_6_alpha: 4rlbv
+md5_6_alpha_upper: 4RLBV
+md5_6_upper: 7A28BB
+name: Oobb Part Plate 19 01 12
+name_no_class: Part Plate 19 01 12
+name_no_color: '190112'
+name_no_size: 19 01 12
+name_no_type: Plate 19 01 12
+oomp_key: oomp_oobb_part_plate_19_01_12
+oomp_word: camera tongue curry
+oomp_word_emoji: ':camera: :tongue: :curry:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':tongue:'
+- ':curry:'
+oomp_word_list:
+- camera
+- tongue
+- curry
+part_number: ''
+size: plate
+type: part

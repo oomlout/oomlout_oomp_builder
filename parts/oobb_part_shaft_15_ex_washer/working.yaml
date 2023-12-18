@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 15_ex_washer
+directory: parts/oobb_part_shaft_15_ex_washer
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_ex_washer
+id: oobb_part_shaft_15_ex_washer
+id_no_class: part_shaft_15_ex_washer
+id_no_color: 15exwasher
+id_no_size: 15_ex_washer
+id_no_type: shaft_15_ex_washer
+manufacturer: ''
+md5: 1af763e1d4876de8c156d9665db5609c
+md5_10: 1af763e1d4
+md5_10_upper: 1AF763E1D4
+md5_5: 1af76
+md5_5_upper: 1AF76
+md5_6: 1af763
+md5_6_alpha: 11vmr
+md5_6_alpha_upper: 11VMR
+md5_6_upper: 1AF763
+name: Oobb Part Shaft 15 Ex Washer
+name_no_class: Part Shaft 15 Ex Washer
+name_no_color: 15Exwasher
+name_no_size: 15 Ex Washer
+name_no_type: Shaft 15 Ex Washer
+oomp_key: oomp_oobb_part_shaft_15_ex_washer
+oomp_word: clap six rose
+oomp_word_emoji: ':clap: :six: :rose:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':six:'
+- ':rose:'
+oomp_word_list:
+- clap
+- six
+- rose
+part_number: ''
+size: shaft
+type: part

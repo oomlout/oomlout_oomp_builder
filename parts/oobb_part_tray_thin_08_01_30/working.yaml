@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_30
+directory: parts/oobb_part_tray_thin_08_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_01_30
+id: oobb_part_tray_thin_08_01_30
+id_no_class: part_tray_thin_08_01_30
+id_no_color: 080130
+id_no_size: 08_01_30
+id_no_type: tray_thin_08_01_30
+manufacturer: ''
+md5: 8f658941b028624094b7dfb2043ed7c6
+md5_10: 8f658941b0
+md5_10_upper: 8F658941B0
+md5_5: 8f658
+md5_5_upper: 8F658
+md5_6: 8f6589
+md5_6_alpha: 5lf9l
+md5_6_alpha_upper: 5LF9L
+md5_6_upper: 8F6589
+name: Oobb Part Tray Thin 08 01 30
+name_no_class: Part Tray Thin 08 01 30
+name_no_color: 080130
+name_no_size: 08 01 30
+name_no_type: Tray Thin 08 01 30
+oomp_key: oomp_oobb_part_tray_thin_08_01_30
+oomp_word: calendar maple_leaf hammer
+oomp_word_emoji: ':calendar: :maple_leaf: :hammer:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':maple_leaf:'
+- ':hammer:'
+oomp_word_list:
+- calendar
+- maple_leaf
+- hammer
+part_number: ''
+size: tray_thin
+type: part

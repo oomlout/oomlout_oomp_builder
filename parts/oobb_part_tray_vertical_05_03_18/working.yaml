@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_18
+directory: parts/oobb_part_tray_vertical_05_03_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_03_18
+id: oobb_part_tray_vertical_05_03_18
+id_no_class: part_tray_vertical_05_03_18
+id_no_color: 050318
+id_no_size: 05_03_18
+id_no_type: tray_vertical_05_03_18
+manufacturer: ''
+md5: edb98f0290806304a0d0a996390fee4d
+md5_10: edb98f0290
+md5_10_upper: EDB98F0290
+md5_5: edb98
+md5_5_upper: EDB98
+md5_6: edb98f
+md5_6_alpha: 99x8v
+md5_6_alpha_upper: 99X8V
+md5_6_upper: EDB98F
+name: Oobb Part Tray Vertical 05 03 18
+name_no_class: Part Tray Vertical 05 03 18
+name_no_color: 050318
+name_no_size: 05 03 18
+name_no_type: Tray Vertical 05 03 18
+oomp_key: oomp_oobb_part_tray_vertical_05_03_18
+oomp_word: bus fries calendar
+oomp_word_emoji: ':bus: :fries: :calendar:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':fries:'
+- ':calendar:'
+oomp_word_list:
+- bus
+- fries
+- calendar
+part_number: ''
+size: tray_vertical
+type: part

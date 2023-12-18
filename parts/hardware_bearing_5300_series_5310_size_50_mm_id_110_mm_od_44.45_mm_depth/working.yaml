@@ -1,0 +1,40 @@
+classification: hardware
+color: 5310_size
+description_extra: ''
+description_main: 50_mm_id_110_mm_od_44.45_mm_depth
+directory: parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+id: hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+id_no_class: bearing_5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+id_no_color: 50_mm_id_110_mm_od_44.45_mm_depth
+id_no_size: 5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+id_no_type: 5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+manufacturer: ''
+md5: 791db93bdc0b78c2f5362655065625fe
+md5_10: 791db93bdc
+md5_10_upper: 791DB93BDC
+md5_5: 791db
+md5_5_upper: 791DB
+md5_6: 791db9
+md5_6_alpha: 4q4l5
+md5_6_alpha_upper: 4Q4L5
+md5_6_upper: 791DB9
+name: Hardware Bearing 5300 Series 5310 Size 50 Mm Id 110 Mm Od 44.45 Mm Depth
+name_no_class: Bearing 5300 Series 5310 Size 50 Mm Id 110 Mm Od 44.45 Mm Depth
+name_no_color: 50 Mm Id 110 Mm Od 44.45 Mm Depth
+name_no_size: 5310 Size 50 Mm Id 110 Mm Od 44.45 Mm Depth
+name_no_type: 5300 Series 5310 Size 50 Mm Id 110 Mm Od 44.45 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44.45_mm_depth
+oomp_word: balloon baby fries
+oomp_word_emoji: ':balloon: :baby: :fries:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':baby:'
+- ':fries:'
+oomp_word_list:
+- balloon
+- baby
+- fries
+part_number: ''
+size: 5300_series
+type: bearing

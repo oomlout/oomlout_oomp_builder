@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 33_pin
+directory: parts/electronic_header_2_54_mm_33_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_through_hole_short
+id: electronic_header_2_54_mm_33_pin_through_hole_short
+id_no_class: header_2_54_mm_33_pin_through_hole_short
+id_no_color: 33pinthroughholeshort
+id_no_size: 33_pin_through_hole_short
+id_no_type: 2_54_mm_33_pin_through_hole_short
+manufacturer: ''
+md5: 48e707d708c2d59584707470f1247a56
+md5_10: 48e707d708
+md5_10_upper: 48E707D708
+md5_5: 48e70
+md5_5_upper: 48E70
+md5_6: 48e707
+md5_6_alpha: 2ueiv
+md5_6_alpha_upper: 2UEIV
+md5_6_upper: 48E707
+name: Electronic Header 2 54 Mm 33 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 33 Pin Through Hole Short
+name_no_color: 33Pinthroughholeshort
+name_no_size: 33 Pin Through Hole Short
+name_no_type: 2 54 Mm 33 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_through_hole_short
+oomp_word: hatched_chick helicopter cry
+oomp_word_emoji: ':hatched_chick: :helicopter: :cry:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':helicopter:'
+- ':cry:'
+oomp_word_list:
+- hatched_chick
+- helicopter
+- cry
+part_number: ''
+size: 2_54_mm
+type: header

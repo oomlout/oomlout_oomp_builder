@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_11_18
+directory: parts/oobb_part_tray_03_11_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_11_18
+id: oobb_part_tray_03_11_18
+id_no_class: part_tray_03_11_18
+id_no_color: 031118
+id_no_size: 03_11_18
+id_no_type: tray_03_11_18
+manufacturer: ''
+md5: da3b817f7eade6e3e39007f7d36118e2
+md5_10: da3b817f7e
+md5_10_upper: DA3B817F7E
+md5_5: da3b8
+md5_5_upper: DA3B8
+md5_6: da3b81
+md5_6_alpha: 8ijk1
+md5_6_alpha_upper: 8IJK1
+md5_6_upper: DA3B81
+name: Oobb Part Tray 03 11 18
+name_no_class: Part Tray 03 11 18
+name_no_color: 031118
+name_no_size: 03 11 18
+name_no_type: Tray 03 11 18
+oomp_key: oomp_oobb_part_tray_03_11_18
+oomp_word: hotel bear watch
+oomp_word_emoji: ':hotel: :bear: :watch:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':bear:'
+- ':watch:'
+oomp_word_list:
+- hotel
+- bear
+- watch
+part_number: ''
+size: tray
+type: part

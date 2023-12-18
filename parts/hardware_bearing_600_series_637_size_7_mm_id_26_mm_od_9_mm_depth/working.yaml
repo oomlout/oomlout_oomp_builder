@@ -1,0 +1,40 @@
+classification: hardware
+color: 637_size
+description_extra: ''
+description_main: 7_mm_id_26_mm_od_9_mm_depth
+directory: parts/hardware_bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+id: hardware_bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+id_no_class: bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+id_no_color: 7_mm_id_26_mm_od_9_mm_depth
+id_no_size: 637_size_7_mm_id_26_mm_od_9_mm_depth
+id_no_type: 600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+manufacturer: ''
+md5: c48bc97dddc223b04353abc31088b53e
+md5_10: c48bc97ddd
+md5_10_upper: C48BC97DDD
+md5_5: c48bc
+md5_5_upper: C48BC
+md5_6: c48bc9
+md5_6_alpha: 7o2x5
+md5_6_alpha_upper: 7O2X5
+md5_6_upper: C48BC9
+name: Hardware Bearing 600 Series 637 Size 7 Mm Id 26 Mm Od 9 Mm Depth
+name_no_class: Bearing 600 Series 637 Size 7 Mm Id 26 Mm Od 9 Mm Depth
+name_no_color: 7 Mm Id 26 Mm Od 9 Mm Depth
+name_no_size: 637 Size 7 Mm Id 26 Mm Od 9 Mm Depth
+name_no_type: 600 Series 637 Size 7 Mm Id 26 Mm Od 9 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
+oomp_word: cookie door lemon
+oomp_word_emoji: ':cookie: :door: :lemon:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':door:'
+- ':lemon:'
+oomp_word_list:
+- cookie
+- door
+- lemon
+part_number: ''
+size: 600_series
+type: bearing

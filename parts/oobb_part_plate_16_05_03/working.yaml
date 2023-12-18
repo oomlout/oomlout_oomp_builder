@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '16_05_03'
+directory: parts/oobb_part_plate_16_05_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_05_03
+id: oobb_part_plate_16_05_03
+id_no_class: part_plate_16_05_03
+id_no_color: '160503'
+id_no_size: '16_05_03'
+id_no_type: plate_16_05_03
+manufacturer: ''
+md5: 1de98b555cf2592d0ff449ace5a8384b
+md5_10: 1de98b555c
+md5_10_upper: 1DE98B555C
+md5_5: 1de98
+md5_5_upper: 1DE98
+md5_6: 1de98b
+md5_6_alpha: 160ln
+md5_6_alpha_upper: 160LN
+md5_6_upper: 1DE98B
+name: Oobb Part Plate 16 05 03
+name_no_class: Part Plate 16 05 03
+name_no_color: '160503'
+name_no_size: 16 05 03
+name_no_type: Plate 16 05 03
+oomp_key: oomp_oobb_part_plate_16_05_03
+oomp_word: baby bike door
+oomp_word_emoji: ':baby: :bike: :door:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':bike:'
+- ':door:'
+oomp_word_list:
+- baby
+- bike
+- door
+part_number: ''
+size: plate
+type: part

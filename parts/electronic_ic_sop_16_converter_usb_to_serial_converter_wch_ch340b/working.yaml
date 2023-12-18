@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+id_no_class: ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+id_no_color: usb_to_serial_wch_ch340b
+id_no_size: converter_usb_to_serial_converter_wch_ch340b
+id_no_type: sop_16_converter_usb_to_serial_converter_wch_ch340b
+manufacturer: wch
+md5: ea28b63f284b0c72f54f9c49ad14c793
+md5_10: ea28b63f28
+md5_10_upper: EA28B63F28
+md5_5: ea28b
+md5_5_upper: EA28B
+md5_6: ea28b6
+md5_6_alpha: 94wxi
+md5_6_alpha_upper: 94WXI
+md5_6_upper: EA28B6
+name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B
+name_no_class: Ic Sop 16 Converter Usb To Serial Converter Wch Ch340B
+name_no_color: Usb To Serial Wch Ch340B
+name_no_size: Converter Usb To Serial Converter Wch Ch340B
+name_no_type: Sop 16 Converter Usb To Serial Converter Wch Ch340B
+oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+oomp_word: tractor tongue beer
+oomp_word_emoji: ':tractor: :tongue: :beer:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':tongue:'
+- ':beer:'
+oomp_word_list:
+- tractor
+- tongue
+- beer
+part_number: ch340b
+size: sop_16
+type: ic

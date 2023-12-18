@@ -1,0 +1,40 @@
+classification: hardware
+color: 6012_size
+description_extra: ''
+description_main: 60_mm_id_95_mm_od_18_mm_depth
+directory: parts/hardware_bearing_6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+id: hardware_bearing_6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+id_no_class: bearing_6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+id_no_color: 60_mm_id_95_mm_od_18_mm_depth
+id_no_size: 6012_size_60_mm_id_95_mm_od_18_mm_depth
+id_no_type: 6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+manufacturer: ''
+md5: a5c013855962d387744a568aa54098ea
+md5_10: a5c0138559
+md5_10_upper: A5C0138559
+md5_5: a5c01
+md5_5_upper: A5C01
+md5_6: a5c013
+md5_6_alpha: 6gtn7
+md5_6_alpha_upper: 6GTN7
+md5_6_upper: A5C013
+name: Hardware Bearing 6000 Series 6012 Size 60 Mm Id 95 Mm Od 18 Mm Depth
+name_no_class: Bearing 6000 Series 6012 Size 60 Mm Id 95 Mm Od 18 Mm Depth
+name_no_color: 60 Mm Id 95 Mm Od 18 Mm Depth
+name_no_size: 6012 Size 60 Mm Id 95 Mm Od 18 Mm Depth
+name_no_type: 6000 Series 6012 Size 60 Mm Id 95 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6012_size_60_mm_id_95_mm_od_18_mm_depth
+oomp_word: headphones bread question
+oomp_word_emoji: ':headphones: :bread: :question:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':bread:'
+- ':question:'
+oomp_word_list:
+- headphones
+- bread
+- question
+part_number: ''
+size: 6000_series
+type: bearing

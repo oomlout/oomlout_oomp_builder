@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 2700_ohm
+directory: parts/electronic_resistor_0603_2700_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_2700_ohm
+id: electronic_resistor_0603_2700_ohm
+id_no_class: resistor_0603_2700_ohm
+id_no_color: 2700ohm
+id_no_size: 2700_ohm
+id_no_type: 0603_2700_ohm
+manufacturer: ''
+md5: aa96c6374435919a1464d5820cc94c70
+md5_10: aa96c63744
+md5_10_upper: AA96C63744
+md5_5: aa96c
+md5_5_upper: AA96C
+md5_6: aa96c6
+md5_6_alpha: 6nmbq
+md5_6_alpha_upper: 6NMBQ
+md5_6_upper: AA96C6
+name: Electronic Resistor 0603 2700 Ohm
+name_no_class: Resistor 0603 2700 Ohm
+name_no_color: 2700Ohm
+name_no_size: 2700 Ohm
+name_no_type: 0603 2700 Ohm
+oomp_key: oomp_electronic_resistor_0603_2700_ohm
+oomp_word: lipstick basketball lollipop
+oomp_word_emoji: ':lipstick: :basketball: :lollipop:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':basketball:'
+- ':lollipop:'
+oomp_word_list:
+- lipstick
+- basketball
+- lollipop
+part_number: ''
+size: '0603'
+type: resistor

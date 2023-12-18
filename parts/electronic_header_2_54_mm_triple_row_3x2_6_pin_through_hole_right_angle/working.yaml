@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 3x2_6_pin
+directory: parts/electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+id_no_color: 3x26pinthroughholerightangle
+id_no_size: 3x2_6_pin_through_hole_right_angle
+id_no_type: 2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+manufacturer: ''
+md5: 5fb326edcaafca0cfe31d680184ede81
+md5_10: 5fb326edca
+md5_10_upper: 5FB326EDCA
+md5_5: 5fb32
+md5_5_upper: 5FB32
+md5_6: 5fb326
+md5_6_alpha: 3qfc6
+md5_6_alpha_upper: 3QFC6
+md5_6_upper: 5FB326
+name: Electronic Header 2 54 Mm Triple Row 3X2 6 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Triple Row 3X2 6 Pin Through Hole Right Angle
+name_no_color: 3X26Pinthroughholerightangle
+name_no_size: 3X2 6 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Triple Row 3X2 6 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x2_6_pin_through_hole_right_angle
+oomp_word: leopard eyeglasses eyes
+oomp_word_emoji: ':leopard: :eyeglasses: :eyes:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':eyeglasses:'
+- ':eyes:'
+oomp_word_list:
+- leopard
+- eyeglasses
+- eyes
+part_number: ''
+size: 2_54_mm_triple_row
+type: header

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3_pole
+directory: parts/electronic_connector_wago_221_3_pole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole
+id: electronic_connector_wago_221_3_pole
+id_no_class: connector_wago_221_3_pole
+id_no_color: 3pole
+id_no_size: 3_pole
+id_no_type: wago_221_3_pole
+manufacturer: ''
+md5: eda53d06bd5f7b2d6638f73bca221c96
+md5_10: eda53d06bd
+md5_10_upper: EDA53D06BD
+md5_5: eda53
+md5_5_upper: EDA53
+md5_6: eda53d
+md5_6_alpha: 99t8d
+md5_6_alpha_upper: 99T8D
+md5_6_upper: EDA53D
+name: Electronic Connector Wago 221 3 Pole
+name_no_class: Connector Wago 221 3 Pole
+name_no_color: 3Pole
+name_no_size: 3 Pole
+name_no_type: Wago 221 3 Pole
+oomp_key: oomp_electronic_connector_wago_221_3_pole
+oomp_word: bus headphones cow
+oomp_word_emoji: ':bus: :headphones: :cow:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':headphones:'
+- ':cow:'
+oomp_word_list:
+- bus
+- headphones
+- cow
+part_number: ''
+size: wago_221
+type: connector

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_03'
+directory: parts/oobb_part_plate_11_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_01_03
+id: oobb_part_plate_11_01_03
+id_no_class: part_plate_11_01_03
+id_no_color: '110103'
+id_no_size: '11_01_03'
+id_no_type: plate_11_01_03
+manufacturer: ''
+md5: 42422290bcfd7c91f26fa4966f667a8f
+md5_10: 42422290bc
+md5_10_upper: 42422290BC
+md5_5: '42422'
+md5_5_upper: '42422'
+md5_6: '424222'
+md5_6_alpha: 2l2jm
+md5_6_alpha_upper: 2L2JM
+md5_6_upper: '424222'
+name: Oobb Part Plate 11 01 03
+name_no_class: Part Plate 11 01 03
+name_no_color: '110103'
+name_no_size: 11 01 03
+name_no_type: Plate 11 01 03
+oomp_key: oomp_oobb_part_plate_11_01_03
+oomp_word: sheep sheep lips
+oomp_word_emoji: ':sheep: :sheep: :lips:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':sheep:'
+- ':lips:'
+oomp_word_list:
+- sheep
+- sheep
+- lips
+part_number: ''
+size: plate
+type: part

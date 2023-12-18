@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 1_pin
+directory: parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_1_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_1_pin_through_hole_right_angle
+id_no_color: 1pinthroughholerightangle
+id_no_size: 1_pin_through_hole_right_angle
+id_no_type: 2_54_mm_1_pin_through_hole_right_angle
+manufacturer: ''
+md5: 26584f357ec4a78cc03c885ef831ab2b
+md5_10: 26584f357e
+md5_10_upper: 26584F357E
+md5_5: '26584'
+md5_5_upper: '26584'
+md5_6: 26584f
+md5_6_alpha: 1hv0v
+md5_6_alpha_upper: 1HV0V
+md5_6_upper: 26584F
+name: Electronic Header 2 54 Mm 1 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 1 Pin Through Hole Right Angle
+name_no_color: 1Pinthroughholerightangle
+name_no_size: 1 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 1 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole_right_angle
+oomp_word: eyes water_buffalo ant
+oomp_word_emoji: ':eyes: :water_buffalo: :ant:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':water_buffalo:'
+- ':ant:'
+oomp_word_list:
+- eyes
+- water_buffalo
+- ant
+part_number: ''
+size: 2_54_mm
+type: header

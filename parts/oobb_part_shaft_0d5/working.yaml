@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5
+directory: parts/oobb_part_shaft_0d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5
+id: oobb_part_shaft_0d5
+id_no_class: part_shaft_0d5
+id_no_color: 0d5
+id_no_size: 0d5
+id_no_type: shaft_0d5
+manufacturer: ''
+md5: 16a052b7af7d7859bf2c664676488e95
+md5_10: 16a052b7af
+md5_10_upper: 16A052B7AF
+md5_5: 16a05
+md5_5_upper: 16A05
+md5_6: 16a052
+md5_6_alpha: vs5u
+md5_6_alpha_upper: VS5U
+md5_6_upper: 16A052
+name: Oobb Part Shaft 0D5
+name_no_class: Part Shaft 0D5
+name_no_color: 0D5
+name_no_size: 0D5
+name_no_type: Shaft 0D5
+oomp_key: oomp_oobb_part_shaft_0d5
+oomp_word: thumbsup ring octopus
+oomp_word_emoji: ':thumbsup: :ring: :octopus:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':ring:'
+- ':octopus:'
+oomp_word_list:
+- thumbsup
+- ring
+- octopus
+part_number: ''
+size: shaft
+type: part

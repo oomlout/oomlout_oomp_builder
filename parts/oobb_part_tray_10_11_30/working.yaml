@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_11_30'
+directory: parts/oobb_part_tray_10_11_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_11_30
+id: oobb_part_tray_10_11_30
+id_no_class: part_tray_10_11_30
+id_no_color: '101130'
+id_no_size: '10_11_30'
+id_no_type: tray_10_11_30
+manufacturer: ''
+md5: df995992d72a5fbb83ec7474bb8cdbee
+md5_10: df995992d7
+md5_10_upper: DF995992D7
+md5_5: df995
+md5_5_upper: DF995
+md5_6: df9959
+md5_6_alpha: 8q2xl
+md5_6_alpha_upper: 8Q2XL
+md5_6_upper: DF9959
+name: Oobb Part Tray 10 11 30
+name_no_class: Part Tray 10 11 30
+name_no_color: '101130'
+name_no_size: 10 11 30
+name_no_type: Tray 10 11 30
+oomp_key: oomp_oobb_part_tray_10_11_30
+oomp_word: fountain bowling dragon
+oomp_word_emoji: ':fountain: :bowling: :dragon:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':bowling:'
+- ':dragon:'
+oomp_word_list:
+- fountain
+- bowling
+- dragon
+part_number: ''
+size: tray
+type: part

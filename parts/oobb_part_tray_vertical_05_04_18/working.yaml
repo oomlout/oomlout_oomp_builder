@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_04_18
+directory: parts/oobb_part_tray_vertical_05_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_18
+id: oobb_part_tray_vertical_05_04_18
+id_no_class: part_tray_vertical_05_04_18
+id_no_color: 050418
+id_no_size: 05_04_18
+id_no_type: tray_vertical_05_04_18
+manufacturer: ''
+md5: e523b06965aa258a07e93645cf6a4da9
+md5_10: e523b06965
+md5_10_upper: E523B06965
+md5_5: e523b
+md5_5_upper: E523B
+md5_6: e523b0
+md5_6_alpha: 8xv3k
+md5_6_alpha_upper: 8XV3K
+md5_6_upper: E523B0
+name: Oobb Part Tray Vertical 05 04 18
+name_no_class: Part Tray Vertical 05 04 18
+name_no_color: 050418
+name_no_size: 05 04 18
+name_no_type: Tray Vertical 05 04 18
+oomp_key: oomp_oobb_part_tray_vertical_05_04_18
+oomp_word: rocket kiss crown
+oomp_word_emoji: ':rocket: :kiss: :crown:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':kiss:'
+- ':crown:'
+oomp_word_list:
+- rocket
+- kiss
+- crown
+part_number: ''
+size: tray_vertical
+type: part

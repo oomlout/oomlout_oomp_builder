@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_09_18
+directory: parts/oobb_part_tray_07_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_09_18
+id: oobb_part_tray_07_09_18
+id_no_class: part_tray_07_09_18
+id_no_color: 070918
+id_no_size: 07_09_18
+id_no_type: tray_07_09_18
+manufacturer: ''
+md5: 9fefe5c3a58143de11e26a934ed97dab
+md5_10: 9fefe5c3a5
+md5_10_upper: 9FEFE5C3A5
+md5_5: 9fefe
+md5_5_upper: 9FEFE
+md5_6: 9fefe5
+md5_6_alpha: 68nol
+md5_6_alpha_upper: 68NOL
+md5_6_upper: 9FEFE5
+name: Oobb Part Tray 07 09 18
+name_no_class: Part Tray 07 09 18
+name_no_color: 070918
+name_no_size: 07 09 18
+name_no_type: Tray 07 09 18
+oomp_key: oomp_oobb_part_tray_07_09_18
+oomp_word: diamonds truck rocket
+oomp_word_emoji: ':diamonds: :truck: :rocket:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':truck:'
+- ':rocket:'
+oomp_word_list:
+- diamonds
+- truck
+- rocket
+part_number: ''
+size: tray
+type: part

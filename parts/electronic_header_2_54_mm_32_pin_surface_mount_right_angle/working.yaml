@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 32_pin
+directory: parts/electronic_header_2_54_mm_32_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_32_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_32_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_32_pin_surface_mount_right_angle
+id_no_color: 32pinsurfacemountrightangle
+id_no_size: 32_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_32_pin_surface_mount_right_angle
+manufacturer: ''
+md5: fe25a7f8c45c3fe7aa7e97b9c2d3cca9
+md5_10: fe25a7f8c4
+md5_10_upper: FE25A7F8C4
+md5_5: fe25a
+md5_5_upper: FE25A
+md5_6: fe25a7
+md5_6_alpha: 9wzon
+md5_6_alpha_upper: 9WZON
+md5_6_upper: FE25A7
+name: Electronic Header 2 54 Mm 32 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 32 Pin Surface Mount Right Angle
+name_no_color: 32Pinsurfacemountrightangle
+name_no_size: 32 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 32 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_32_pin_surface_mount_right_angle
+oomp_word: recycle ear guitar
+oomp_word_emoji: ':recycle: :ear: :guitar:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':ear:'
+- ':guitar:'
+oomp_word_list:
+- recycle
+- ear
+- guitar
+part_number: ''
+size: 2_54_mm
+type: header

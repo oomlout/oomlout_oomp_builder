@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+directory: parts/oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id: oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_class: part_smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 090910nm8mmtapewidth3mmtapethicknessex3
+id_no_size: 09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_type: smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+manufacturer: ''
+md5: 18efed04bda84d973e90db17ad903755
+md5_10: 18efed04bd
+md5_10_upper: 18EFED04BD
+md5_5: 18efe
+md5_5_upper: 18EFE
+md5_6: 18efed
+md5_6_alpha: z10t
+md5_6_alpha_upper: Z10T
+md5_6_upper: 18EFED
+name: Oobb Part Smd Magazine 09 09 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_class: Part Smd Magazine 09 09 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex
+  3
+name_no_color: 090910Nm8Mmtapewidth3Mmtapethicknessex3
+name_no_size: 09 09 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+name_no_type: Smd Magazine 09 09 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
+oomp_key: oomp_oobb_part_smd_magazine_09_09_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+oomp_word: hand truck bus
+oomp_word_emoji: ':hand: :truck: :bus:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':truck:'
+- ':bus:'
+oomp_word_list:
+- hand
+- truck
+- bus
+part_number: ''
+size: smd_magazine
+type: part

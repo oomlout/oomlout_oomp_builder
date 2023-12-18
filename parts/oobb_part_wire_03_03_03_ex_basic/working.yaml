@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_03_ex_basic
+directory: parts/oobb_part_wire_03_03_03_ex_basic
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03_ex_basic
+id: oobb_part_wire_03_03_03_ex_basic
+id_no_class: part_wire_03_03_03_ex_basic
+id_no_color: 030303exbasic
+id_no_size: 03_03_03_ex_basic
+id_no_type: wire_03_03_03_ex_basic
+manufacturer: ''
+md5: 8d225b061bf3cfd45080d70df7a3c478
+md5_10: 8d225b061b
+md5_10_upper: 8D225B061B
+md5_5: 8d225
+md5_5_upper: 8D225
+md5_6: 8d225b
+md5_6_alpha: 5i8uz
+md5_6_alpha_upper: 5I8UZ
+md5_6_upper: 8D225B
+name: Oobb Part Wire 03 03 03 Ex Basic
+name_no_class: Part Wire 03 03 03 Ex Basic
+name_no_color: 030303Exbasic
+name_no_size: 03 03 03 Ex Basic
+name_no_type: Wire 03 03 03 Ex Basic
+oomp_key: oomp_oobb_part_wire_03_03_03_ex_basic
+oomp_word: scroll lips rooster
+oomp_word_emoji: ':scroll: :lips: :rooster:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':lips:'
+- ':rooster:'
+oomp_word_list:
+- scroll
+- lips
+- rooster
+part_number: ''
+size: wire
+type: part

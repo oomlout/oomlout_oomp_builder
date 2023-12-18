@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '15_01_15'
+directory: parts/oobb_part_plate_15_01_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_15
+id: oobb_part_plate_15_01_15
+id_no_class: part_plate_15_01_15
+id_no_color: '150115'
+id_no_size: '15_01_15'
+id_no_type: plate_15_01_15
+manufacturer: ''
+md5: f2e5ac21dc0f01e7aa89b8bea454c95c
+md5_10: f2e5ac21dc
+md5_10_upper: F2E5AC21DC
+md5_5: f2e5a
+md5_5_upper: F2E5A
+md5_6: f2e5ac
+md5_6_alpha: 9h6ss
+md5_6_alpha_upper: 9H6SS
+md5_6_upper: F2E5AC
+name: Oobb Part Plate 15 01 15
+name_no_class: Part Plate 15 01 15
+name_no_color: '150115'
+name_no_size: 15 01 15
+name_no_type: Plate 15 01 15
+oomp_key: oomp_oobb_part_plate_15_01_15
+oomp_word: one rocket shirt
+oomp_word_emoji: ':one: :rocket: :shirt:'
+oomp_word_emoji_list:
+- ':one:'
+- ':rocket:'
+- ':shirt:'
+oomp_word_list:
+- one
+- rocket
+- shirt
+part_number: ''
+size: plate
+type: part

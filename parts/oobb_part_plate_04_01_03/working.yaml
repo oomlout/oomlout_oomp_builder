@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_01_03'
+directory: parts/oobb_part_plate_04_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_03
+id: oobb_part_plate_04_01_03
+id_no_class: part_plate_04_01_03
+id_no_color: '040103'
+id_no_size: '04_01_03'
+id_no_type: plate_04_01_03
+manufacturer: ''
+md5: 0702f68907b971e4ec7016904c99a67c
+md5_10: 0702f68907
+md5_10_upper: 0702F68907
+md5_5: 0702f
+md5_5_upper: 0702F
+md5_6: 0702f6
+md5_6_alpha: 9uk6
+md5_6_alpha_upper: 9UK6
+md5_6_upper: 0702F6
+name: Oobb Part Plate 04 01 03
+name_no_class: Part Plate 04 01 03
+name_no_color: '040103'
+name_no_size: 04 01 03
+name_no_type: Plate 04 01 03
+oomp_key: oomp_oobb_part_plate_04_01_03
+oomp_word: cry blush five
+oomp_word_emoji: ':cry: :blush: :five:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':blush:'
+- ':five:'
+oomp_word_list:
+- cry
+- blush
+- five
+part_number: ''
+size: plate
+type: part

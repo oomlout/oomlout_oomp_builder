@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0109ex30teethshelectronicpotentiometer17mm
+id_no_size: 01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+id_no_type: pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+md5: 070836e6811ddd7f23dcd58af323e226
+md5_10: 070836e681
+md5_10_upper: 070836E681
+md5_5: 07083
+md5_5_upper: 07083
+md5_6: 070836
+md5_6_alpha: 9vli
+md5_6_alpha_upper: 9VLI
+md5_6_upper: 070836
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0109Ex30Teethshelectronicpotentiometer17Mm
+name_no_size: 01 09 Ex 30 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Sh Electronic Potentiometer 17 Mm
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_electronic_potentiometer_17_mm
+oomp_word: cry scream rabbit
+oomp_word_emoji: ':cry: :scream: :rabbit:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':scream:'
+- ':rabbit:'
+oomp_word_list:
+- cry
+- scream
+- rabbit
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+id_no_class: ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+id_no_color: usb_to_serial_wch_ch340g
+id_no_size: converter_usb_to_serial_converter_wch_ch340g
+id_no_type: sop_16_converter_usb_to_serial_converter_wch_ch340g
+manufacturer: wch
+md5: 0f3b38de4bb8ab11ae1d9cca34a3b7af
+md5_10: 0f3b38de4b
+md5_10_upper: 0F3B38DE4B
+md5_5: 0f3b3
+md5_5_upper: 0F3B3
+md5_6: 0f3b38
+md5_6_alpha: le7s
+md5_6_alpha_upper: LE7S
+md5_6_upper: 0F3B38
+name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G
+name_no_class: Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G
+name_no_color: Usb To Serial Wch Ch340G
+name_no_size: Converter Usb To Serial Converter Wch Ch340G
+name_no_type: Sop 16 Converter Usb To Serial Converter Wch Ch340G
+oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
+oomp_word: sparkles bear frog
+oomp_word_emoji: ':sparkles: :bear: :frog:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':bear:'
+- ':frog:'
+oomp_word_list:
+- sparkles
+- bear
+- frog
+part_number: ch340g
+size: sop_16
+type: ic

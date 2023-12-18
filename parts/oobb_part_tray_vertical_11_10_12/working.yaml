@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_10_12'
+directory: parts/oobb_part_tray_vertical_11_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_10_12
+id: oobb_part_tray_vertical_11_10_12
+id_no_class: part_tray_vertical_11_10_12
+id_no_color: '111012'
+id_no_size: '11_10_12'
+id_no_type: tray_vertical_11_10_12
+manufacturer: ''
+md5: cd5c7b34b4488a321ce3106ff1fda9c2
+md5_10: cd5c7b34b4
+md5_10_upper: CD5C7B34B4
+md5_5: cd5c7
+md5_5_upper: CD5C7
+md5_6: cd5c7b
+md5_6_alpha: 80gor
+md5_6_alpha_upper: 80GOR
+md5_6_upper: CD5C7B
+name: Oobb Part Tray Vertical 11 10 12
+name_no_class: Part Tray Vertical 11 10 12
+name_no_color: '111012'
+name_no_size: 11 10 12
+name_no_type: Tray Vertical 11 10 12
+oomp_key: oomp_oobb_part_tray_vertical_11_10_12
+oomp_word: strawberry ox computer
+oomp_word_emoji: ':strawberry: :ox: :computer:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':ox:'
+- ':computer:'
+oomp_word_list:
+- strawberry
+- ox
+- computer
+part_number: ''
+size: tray_vertical
+type: part

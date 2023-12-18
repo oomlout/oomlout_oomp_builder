@@ -1,0 +1,40 @@
+classification: electronic
+color: basic
+description_extra: through_hole_right_angle
+description_main: triple
+directory: parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+id: electronic_header_oobb_basic_triple_through_hole_right_angle
+id_no_class: header_oobb_basic_triple_through_hole_right_angle
+id_no_color: triple_through_hole_right_angle
+id_no_size: basic_triple_through_hole_right_angle
+id_no_type: oobb_basic_triple_through_hole_right_angle
+manufacturer: ''
+md5: 14acfa8141ee845840164a3f996c1f2f
+md5_10: 14acfa8141
+md5_10_upper: 14ACFA8141
+md5_5: 14acf
+md5_5_upper: 14ACF
+md5_6: 14acfa
+md5_6_alpha: t1iy
+md5_6_alpha_upper: T1IY
+md5_6_upper: 14ACFA
+name: Electronic Header Oobb Basic Triple Through Hole Right Angle
+name_no_class: Header Oobb Basic Triple Through Hole Right Angle
+name_no_color: Triple Through Hole Right Angle
+name_no_size: Basic Triple Through Hole Right Angle
+name_no_type: Oobb Basic Triple Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_basic_triple_through_hole_right_angle
+oomp_word: fire shirt nine
+oomp_word_emoji: ':fire: :shirt: :nine:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':shirt:'
+- ':nine:'
+oomp_word_list:
+- fire
+- shirt
+- nine
+part_number: ''
+size: oobb
+type: header

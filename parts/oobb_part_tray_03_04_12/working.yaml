@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_04_12'
+directory: parts/oobb_part_tray_03_04_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_12
+id: oobb_part_tray_03_04_12
+id_no_class: part_tray_03_04_12
+id_no_color: '030412'
+id_no_size: '03_04_12'
+id_no_type: tray_03_04_12
+manufacturer: ''
+md5: d72cb15350838c86ef2fa71f68771e24
+md5_10: d72cb15350
+md5_10_upper: D72CB15350
+md5_5: d72cb
+md5_5_upper: D72CB
+md5_6: d72cb1
+md5_6_alpha: 8e8xd
+md5_6_alpha_upper: 8E8XD
+md5_6_upper: D72CB1
+name: Oobb Part Tray 03 04 12
+name_no_class: Part Tray 03 04 12
+name_no_color: '030412'
+name_no_size: 03 04 12
+name_no_type: Tray 03 04 12
+oomp_key: oomp_oobb_part_tray_03_04_12
+oomp_word: office snowflake briefcase
+oomp_word_emoji: ':office: :snowflake: :briefcase:'
+oomp_word_emoji_list:
+- ':office:'
+- ':snowflake:'
+- ':briefcase:'
+oomp_word_list:
+- office
+- snowflake
+- briefcase
+part_number: ''
+size: tray
+type: part

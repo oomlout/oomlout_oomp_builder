@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_36_teeth
+directory: parts/oobb_part_pulley_gt2_01_06_ex_36_teeth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06_ex_36_teeth
+id: oobb_part_pulley_gt2_01_06_ex_36_teeth
+id_no_class: part_pulley_gt2_01_06_ex_36_teeth
+id_no_color: 0106ex36teeth
+id_no_size: 01_06_ex_36_teeth
+id_no_type: pulley_gt2_01_06_ex_36_teeth
+manufacturer: ''
+md5: 43b6720afde8ab4cc41cee44b3795b3a
+md5_10: 43b6720afd
+md5_10_upper: 43B6720AFD
+md5_5: 43b67
+md5_5_upper: 43B67
+md5_6: 43b672
+md5_6_alpha: 2n436
+md5_6_alpha_upper: 2N436
+md5_6_upper: 43B672
+name: Oobb Part Pulley Gt2 01 06 Ex 36 Teeth
+name_no_class: Part Pulley Gt2 01 06 Ex 36 Teeth
+name_no_color: 0106Ex36Teeth
+name_no_size: 01 06 Ex 36 Teeth
+name_no_type: Pulley Gt2 01 06 Ex 36 Teeth
+oomp_key: oomp_oobb_part_pulley_gt2_01_06_ex_36_teeth
+oomp_word: elephant beer dolls
+oomp_word_emoji: ':elephant: :beer: :dolls:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':beer:'
+- ':dolls:'
+oomp_word_list:
+- elephant
+- beer
+- dolls
+part_number: ''
+size: pulley_gt2
+type: part

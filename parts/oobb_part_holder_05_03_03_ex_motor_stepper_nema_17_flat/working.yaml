@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_03_ex_motor_stepper_nema_17_flat
+directory: parts/oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+id: oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+id_no_class: part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+id_no_color: 050303exmotorsteppernema17flat
+id_no_size: 05_03_03_ex_motor_stepper_nema_17_flat
+id_no_type: holder_05_03_03_ex_motor_stepper_nema_17_flat
+manufacturer: ''
+md5: 5b19d06291504eae9ab25f608a1b4fc6
+md5_10: 5b19d06291
+md5_10_upper: 5B19D06291
+md5_5: 5b19d
+md5_5_upper: 5B19D
+md5_6: 5b19d0
+md5_6_alpha: 3jys0
+md5_6_alpha_upper: 3JYS0
+md5_6_upper: 5B19D0
+name: Oobb Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_class: Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_color: 050303Exmotorsteppernema17Flat
+name_no_size: 05 03 03 Ex Motor Stepper Nema 17 Flat
+name_no_type: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat
+oomp_key: oomp_oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat
+oomp_word: rooster pray banana
+oomp_word_emoji: ':rooster: :pray: :banana:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':pray:'
+- ':banana:'
+oomp_word_list:
+- rooster
+- pray
+- banana
+part_number: ''
+size: holder
+type: part

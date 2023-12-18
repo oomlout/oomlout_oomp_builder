@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_03_03'
+directory: parts/oobb_part_plate_14_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_03_03
+id: oobb_part_plate_14_03_03
+id_no_class: part_plate_14_03_03
+id_no_color: '140303'
+id_no_size: '14_03_03'
+id_no_type: plate_14_03_03
+manufacturer: ''
+md5: 9eb768cd3bffa8f022a67b67ead8fc7f
+md5_10: 9eb768cd3b
+md5_10_upper: 9EB768CD3B
+md5_5: 9eb76
+md5_5_upper: 9EB76
+md5_6: 9eb768
+md5_6_alpha: 66xyg
+md5_6_alpha_upper: 66XYG
+md5_6_upper: 9EB768
+name: Oobb Part Plate 14 03 03
+name_no_class: Part Plate 14 03 03
+name_no_color: '140303'
+name_no_size: 14 03 03
+name_no_type: Plate 14 03 03
+oomp_key: oomp_oobb_part_plate_14_03_03
+oomp_word: clubs pizza mushroom
+oomp_word_emoji: ':clubs: :pizza: :mushroom:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':pizza:'
+- ':mushroom:'
+oomp_word_list:
+- clubs
+- pizza
+- mushroom
+part_number: ''
+size: plate
+type: part

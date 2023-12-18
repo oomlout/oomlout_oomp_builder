@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_socket_cap_m3_08
+directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_08
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_08
+id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_08
+id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_08
+id_no_color: hardwarem308
+id_no_size: hardware_m3_08
+id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_08
+manufacturer: ''
+md5: 48c8fdae37e3a6d5c6e0e96ce40edde9
+md5_10: 48c8fdae37
+md5_10_upper: 48C8FDAE37
+md5_5: 48c8f
+md5_5_upper: 48C8F
+md5_6: 48c8fd
+md5_6_alpha: 2u8l9
+md5_6_alpha_upper: 2U8L9
+md5_6_upper: 48C8FD
+name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 08
+name_no_class: Part Screw Socket Cap Hardware Screw Socket Cap M3 08
+name_no_color: Hardwarem308
+name_no_size: Hardware M3 08
+name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 08
+oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_08
+oomp_word: hatched_chick apple parking
+oomp_word_emoji: ':hatched_chick: :apple: :parking:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':apple:'
+- ':parking:'
+oomp_word_list:
+- hatched_chick
+- apple
+- parking
+part_number: ''
+size: screw_socket_cap
+type: part

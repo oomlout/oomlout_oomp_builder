@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_06'
+directory: parts/oobb_part_circle_03_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_03_06
+id: oobb_part_circle_03_06
+id_no_class: part_circle_03_06
+id_no_color: '0306'
+id_no_size: '03_06'
+id_no_type: circle_03_06
+manufacturer: ''
+md5: 07c577586ccf975ade00c2450ff4832e
+md5_10: 07c577586c
+md5_10_upper: 07C577586C
+md5_5: 07c57
+md5_5_upper: 07C57
+md5_6: 07c577
+md5_6_alpha: awzb
+md5_6_alpha_upper: AWZB
+md5_6_upper: 07C577
+name: Oobb Part Circle 03 06
+name_no_class: Part Circle 03 06
+name_no_color: '0306'
+name_no_size: 03 06
+name_no_type: Circle 03 06
+oomp_key: oomp_oobb_part_circle_03_06
+oomp_word: cry candy gift
+oomp_word_emoji: ':cry: :candy: :gift:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':candy:'
+- ':gift:'
+oomp_word_list:
+- cry
+- candy
+- gift
+part_number: ''
+size: circle
+type: part

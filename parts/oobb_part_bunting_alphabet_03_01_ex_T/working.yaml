@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_t
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_t
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_t
+id: oobb_part_bunting_alphabet_03_01_ex_t
+id_no_class: part_bunting_alphabet_03_01_ex_t
+id_no_color: 0301ext
+id_no_size: 03_01_ex_t
+id_no_type: bunting_alphabet_03_01_ex_t
+manufacturer: ''
+md5: 0a5e51f463a85976b2f32e52323398ec
+md5_10: 0a5e51f463
+md5_10_upper: 0A5E51F463
+md5_5: 0a5e5
+md5_5_upper: 0A5E5
+md5_6: 0a5e51
+md5_6_alpha: ekb5
+md5_6_alpha_upper: EKB5
+md5_6_upper: 0A5E51
+name: Oobb Part Bunting Alphabet 03 01 Ex T
+name_no_class: Part Bunting Alphabet 03 01 Ex T
+name_no_color: 0301Ext
+name_no_size: 03 01 Ex T
+name_no_type: Bunting Alphabet 03 01 Ex T
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_t
+oomp_word: sleepy crocodile snail
+oomp_word_emoji: ':sleepy: :crocodile: :snail:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':crocodile:'
+- ':snail:'
+oomp_word_list:
+- sleepy
+- crocodile
+- snail
+part_number: ''
+size: bunting_alphabet
+type: part

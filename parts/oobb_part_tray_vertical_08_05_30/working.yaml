@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_05_30
+directory: parts/oobb_part_tray_vertical_08_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_05_30
+id: oobb_part_tray_vertical_08_05_30
+id_no_class: part_tray_vertical_08_05_30
+id_no_color: 080530
+id_no_size: 08_05_30
+id_no_type: tray_vertical_08_05_30
+manufacturer: ''
+md5: 40116f28a144e2d1b81ccdb495ca3a73
+md5_10: 40116f28a1
+md5_10_upper: 40116F28A1
+md5_5: '40116'
+md5_5_upper: '40116'
+md5_6: 40116f
+md5_6_alpha: 2hzsf
+md5_6_alpha_upper: 2HZSF
+md5_6_upper: 40116F
+name: Oobb Part Tray Vertical 08 05 30
+name_no_class: Part Tray Vertical 08 05 30
+name_no_color: 080530
+name_no_size: 08 05 30
+name_no_type: Tray Vertical 08 05 30
+oomp_key: oomp_oobb_part_tray_vertical_08_05_30
+oomp_word: racehorse dizzy moon
+oomp_word_emoji: ':racehorse: :dizzy: :moon:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':dizzy:'
+- ':moon:'
+oomp_word_list:
+- racehorse
+- dizzy
+- moon
+part_number: ''
+size: tray_vertical
+type: part

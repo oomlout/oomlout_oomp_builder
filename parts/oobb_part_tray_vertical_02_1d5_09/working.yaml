@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_1d5_09
+directory: parts/oobb_part_tray_vertical_02_1d5_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_1d5_09
+id: oobb_part_tray_vertical_02_1d5_09
+id_no_class: part_tray_vertical_02_1d5_09
+id_no_color: 021d509
+id_no_size: 02_1d5_09
+id_no_type: tray_vertical_02_1d5_09
+manufacturer: ''
+md5: 1ffabdd26388d0a46e44781ae7421c17
+md5_10: 1ffabdd263
+md5_10_upper: 1FFABDD263
+md5_5: 1ffab
+md5_5_upper: 1FFAB
+md5_6: 1ffabd
+md5_6_alpha: 18x4t
+md5_6_alpha_upper: 18X4T
+md5_6_upper: 1FFABD
+name: Oobb Part Tray Vertical 02 1D5 09
+name_no_class: Part Tray Vertical 02 1D5 09
+name_no_color: 021D509
+name_no_size: 02 1D5 09
+name_no_type: Tray Vertical 02 1D5 09
+oomp_key: oomp_oobb_part_tray_vertical_02_1d5_09
+oomp_word: princess nine rice
+oomp_word_emoji: ':princess: :nine: :rice:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':nine:'
+- ':rice:'
+oomp_word_list:
+- princess
+- nine
+- rice
+part_number: ''
+size: tray_vertical
+type: part

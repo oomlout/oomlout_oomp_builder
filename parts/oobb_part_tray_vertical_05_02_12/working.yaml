@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_02_12'
+directory: parts/oobb_part_tray_vertical_05_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_02_12
+id: oobb_part_tray_vertical_05_02_12
+id_no_class: part_tray_vertical_05_02_12
+id_no_color: '050212'
+id_no_size: '05_02_12'
+id_no_type: tray_vertical_05_02_12
+manufacturer: ''
+md5: 3f7a8afbcd5dcf904763c12a35c203e7
+md5_10: 3f7a8afbcd
+md5_10_upper: 3F7A8AFBCD
+md5_5: 3f7a8
+md5_5_upper: 3F7A8
+md5_6: 3f7a8a
+md5_6_alpha: 2h5ze
+md5_6_alpha_upper: 2H5ZE
+md5_6_upper: 3F7A8A
+name: Oobb Part Tray Vertical 05 02 12
+name_no_class: Part Tray Vertical 05 02 12
+name_no_color: '050212'
+name_no_size: 05 02 12
+name_no_type: Tray Vertical 05 02 12
+oomp_key: oomp_oobb_part_tray_vertical_05_02_12
+oomp_word: horse camera envelope
+oomp_word_emoji: ':horse: :camera: :envelope:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':camera:'
+- ':envelope:'
+oomp_word_list:
+- horse
+- camera
+- envelope
+part_number: ''
+size: tray_vertical
+type: part

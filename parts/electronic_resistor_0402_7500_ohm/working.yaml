@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 7500_ohm
+directory: parts/electronic_resistor_0402_7500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500_ohm
+id: electronic_resistor_0402_7500_ohm
+id_no_class: resistor_0402_7500_ohm
+id_no_color: 7500ohm
+id_no_size: 7500_ohm
+id_no_type: 0402_7500_ohm
+manufacturer: ''
+md5: 903b0456cac1a52778fa002e4ef9a044
+md5_10: 903b0456ca
+md5_10_upper: 903B0456CA
+md5_5: 903b0
+md5_5_upper: 903B0
+md5_6: 903b04
+md5_6_alpha: 5mlfo
+md5_6_alpha_upper: 5MLFO
+md5_6_upper: 903B04
+name: Electronic Resistor 0402 7500 Ohm
+name_no_class: Resistor 0402 7500 Ohm
+name_no_color: 7500Ohm
+name_no_size: 7500 Ohm
+name_no_type: 0402 7500 Ohm
+oomp_key: oomp_electronic_resistor_0402_7500_ohm
+oomp_word: scissors bear wink
+oomp_word_emoji: ':scissors: :bear: :wink:'
+oomp_word_emoji_list:
+- ':scissors:'
+- ':bear:'
+- ':wink:'
+oomp_word_list:
+- scissors
+- bear
+- wink
+part_number: ''
+size: '0402'
+type: resistor

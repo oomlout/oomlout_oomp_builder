@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 27_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+id: electronic_resistor_quarter_watt_through_hole_27_ohm
+id_no_class: resistor_quarter_watt_through_hole_27_ohm
+id_no_color: 27ohm
+id_no_size: 27_ohm
+id_no_type: quarter_watt_through_hole_27_ohm
+manufacturer: ''
+md5: 984967d33cbd0c2558ce25231e929984
+md5_10: 984967d33c
+md5_10_upper: 984967D33C
+md5_5: '98496'
+md5_5_upper: '98496'
+md5_6: '984967'
+md5_6_alpha: 5xwtj
+md5_6_alpha_upper: 5XWTJ
+md5_6_upper: '984967'
+name: Electronic Resistor Quarter Watt Through Hole 27 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 27 Ohm
+name_no_color: 27Ohm
+name_no_size: 27 Ohm
+name_no_type: Quarter Watt Through Hole 27 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_27_ohm
+oomp_word: tennis hatching_chick herb
+oomp_word_emoji: ':tennis: :hatching_chick: :herb:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':hatching_chick:'
+- ':herb:'
+oomp_word_list:
+- tennis
+- hatching_chick
+- herb
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

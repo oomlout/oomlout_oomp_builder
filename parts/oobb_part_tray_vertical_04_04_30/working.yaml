@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_04_30'
+directory: parts/oobb_part_tray_vertical_04_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_30
+id: oobb_part_tray_vertical_04_04_30
+id_no_class: part_tray_vertical_04_04_30
+id_no_color: '040430'
+id_no_size: '04_04_30'
+id_no_type: tray_vertical_04_04_30
+manufacturer: ''
+md5: ddee6293d14ce198587e57864a6e2d3d
+md5_10: ddee6293d1
+md5_10_upper: DDEE6293D1
+md5_5: ddee6
+md5_5_upper: DDEE6
+md5_6: ddee62
+md5_6_alpha: 8nqle
+md5_6_alpha_upper: 8NQLE
+md5_6_upper: DDEE62
+name: Oobb Part Tray Vertical 04 04 30
+name_no_class: Part Tray Vertical 04 04 30
+name_no_color: '040430'
+name_no_size: 04 04 30
+name_no_type: Tray Vertical 04 04 30
+oomp_key: oomp_oobb_part_tray_vertical_04_04_30
+oomp_word: stars ambulance tulip
+oomp_word_emoji: ':stars: :ambulance: :tulip:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':ambulance:'
+- ':tulip:'
+oomp_word_list:
+- stars
+- ambulance
+- tulip
+part_number: ''
+size: tray_vertical
+type: part

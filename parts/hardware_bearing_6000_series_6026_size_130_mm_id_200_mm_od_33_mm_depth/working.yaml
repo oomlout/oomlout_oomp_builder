@@ -1,0 +1,40 @@
+classification: hardware
+color: 6026_size
+description_extra: ''
+description_main: 130_mm_id_200_mm_od_33_mm_depth
+directory: parts/hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+id: hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+id_no_class: bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+id_no_color: 130_mm_id_200_mm_od_33_mm_depth
+id_no_size: 6026_size_130_mm_id_200_mm_od_33_mm_depth
+id_no_type: 6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+manufacturer: ''
+md5: d734c8345dbc3ceecc7ae58c58b17a8c
+md5_10: d734c8345d
+md5_10_upper: D734C8345D
+md5_5: d734c
+md5_5_upper: D734C
+md5_6: d734c8
+md5_6_alpha: 8eaiw
+md5_6_alpha_upper: 8EAIW
+md5_6_upper: D734C8
+name: Hardware Bearing 6000 Series 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth
+name_no_class: Bearing 6000 Series 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth
+name_no_color: 130 Mm Id 200 Mm Od 33 Mm Depth
+name_no_size: 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth
+name_no_type: 6000 Series 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth
+oomp_key: oomp_hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+oomp_word: office mouse apple
+oomp_word_emoji: ':office: :mouse: :apple:'
+oomp_word_emoji_list:
+- ':office:'
+- ':mouse:'
+- ':apple:'
+oomp_word_list:
+- office
+- mouse
+- apple
+part_number: ''
+size: 6000_series
+type: bearing

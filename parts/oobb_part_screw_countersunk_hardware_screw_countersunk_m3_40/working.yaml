@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_screw_countersunk_m3_40
+directory: parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_40
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_40
+id: oobb_part_screw_countersunk_hardware_screw_countersunk_m3_40
+id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_40
+id_no_color: hardwarem340
+id_no_size: hardware_m3_40
+id_no_type: screw_countersunk_hardware_screw_countersunk_m3_40
+manufacturer: ''
+md5: 34074e01d0effb5fb49089ccec64ff89
+md5_10: 34074e01d0
+md5_10_upper: 34074E01D0
+md5_5: '34074'
+md5_5_upper: '34074'
+md5_6: 34074e
+md5_6_alpha: 212z2
+md5_6_alpha_upper: 212Z2
+md5_6_upper: 34074E
+name: Oobb Part Screw Countersunk Hardware Screw Countersunk M3 40
+name_no_class: Part Screw Countersunk Hardware Screw Countersunk M3 40
+name_no_color: Hardwarem340
+name_no_size: Hardware M3 40
+name_no_type: Screw Countersunk Hardware Screw Countersunk M3 40
+oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_40
+oomp_word: mouse cry honeybee
+oomp_word_emoji: ':mouse: :cry: :honeybee:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':cry:'
+- ':honeybee:'
+oomp_word_list:
+- mouse
+- cry
+- honeybee
+part_number: ''
+size: screw_countersunk
+type: part

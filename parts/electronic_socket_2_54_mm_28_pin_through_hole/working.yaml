@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 28_pin
+directory: parts/electronic_socket_2_54_mm_28_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_28_pin_through_hole
+id: electronic_socket_2_54_mm_28_pin_through_hole
+id_no_class: socket_2_54_mm_28_pin_through_hole
+id_no_color: 28pinthroughhole
+id_no_size: 28_pin_through_hole
+id_no_type: 2_54_mm_28_pin_through_hole
+manufacturer: ''
+md5: 04c787240be12a7d4e982accbc629439
+md5_10: 04c787240b
+md5_10_upper: 04C787240B
+md5_5: 04c78
+md5_5_upper: 04C78
+md5_6: 04c787
+md5_6_alpha: 6pon
+md5_6_alpha_upper: 6PON
+md5_6_upper: 04C787
+name: Electronic Socket 2 54 Mm 28 Pin Through Hole
+name_no_class: Socket 2 54 Mm 28 Pin Through Hole
+name_no_color: 28Pinthroughhole
+name_no_size: 28 Pin Through Hole
+name_no_type: 2 54 Mm 28 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_28_pin_through_hole
+oomp_word: wink honey_pot toilet
+oomp_word_emoji: ':wink: :honey_pot: :toilet:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':honey_pot:'
+- ':toilet:'
+oomp_word_list:
+- wink
+- honey_pot
+- toilet
+part_number: ''
+size: 2_54_mm
+type: socket

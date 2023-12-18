@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_11_12'
+directory: parts/oobb_part_tray_06_11_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_11_12
+id: oobb_part_tray_06_11_12
+id_no_class: part_tray_06_11_12
+id_no_color: '061112'
+id_no_size: '06_11_12'
+id_no_type: tray_06_11_12
+manufacturer: ''
+md5: 51815009372432dc13d8fecda5767746
+md5_10: '5181500937'
+md5_10_upper: '5181500937'
+md5_5: '51815'
+md5_5_upper: '51815'
+md5_6: '518150'
+md5_6_alpha: 36hjk
+md5_6_alpha_upper: 36HJK
+md5_6_upper: '518150'
+name: Oobb Part Tray 06 11 12
+name_no_class: Part Tray 06 11 12
+name_no_color: '061112'
+name_no_size: 06 11 12
+name_no_type: Tray 06 11 12
+oomp_key: oomp_oobb_part_tray_06_11_12
+oomp_word: snail watch beetle
+oomp_word_emoji: ':snail: :watch: :beetle:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':watch:'
+- ':beetle:'
+oomp_word_list:
+- snail
+- watch
+- beetle
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_07_09
+directory: parts/oobb_part_tray_02_07_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_07_09
+id: oobb_part_tray_02_07_09
+id_no_class: part_tray_02_07_09
+id_no_color: 020709
+id_no_size: 02_07_09
+id_no_type: tray_02_07_09
+manufacturer: ''
+md5: e118a22e27efeada91a26b3d6f4c6adf
+md5_10: e118a22e27
+md5_10_upper: E118A22E27
+md5_5: e118a
+md5_5_upper: E118A
+md5_6: e118a2
+md5_6_alpha: 8s6n6
+md5_6_alpha_upper: 8S6N6
+md5_6_upper: E118A2
+name: Oobb Part Tray 02 07 09
+name_no_class: Part Tray 02 07 09
+name_no_color: 020709
+name_no_size: 02 07 09
+name_no_type: Tray 02 07 09
+oomp_key: oomp_oobb_part_tray_02_07_09
+oomp_word: boat hand violin
+oomp_word_emoji: ':boat: :hand: :violin:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':hand:'
+- ':violin:'
+oomp_word_list:
+- boat
+- hand
+- violin
+part_number: ''
+size: tray
+type: part

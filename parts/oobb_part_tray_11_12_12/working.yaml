@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_12_12'
+directory: parts/oobb_part_tray_11_12_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_12_12
+id: oobb_part_tray_11_12_12
+id_no_class: part_tray_11_12_12
+id_no_color: '111212'
+id_no_size: '11_12_12'
+id_no_type: tray_11_12_12
+manufacturer: ''
+md5: 12eb16667bada27685f0004bb13eb7a7
+md5_10: 12eb16667b
+md5_10_upper: 12EB16667B
+md5_5: 12eb1
+md5_5_upper: 12EB1
+md5_6: 12eb16
+md5_6_alpha: qknq
+md5_6_alpha_upper: QKNQ
+md5_6_upper: 12EB16
+name: Oobb Part Tray 11 12 12
+name_no_class: Part Tray 11 12 12
+name_no_color: '111212'
+name_no_size: 11 12 12
+name_no_type: Tray 11 12 12
+oomp_key: oomp_oobb_part_tray_11_12_12
+oomp_word: anger car thumbsup
+oomp_word_emoji: ':anger: :car: :thumbsup:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':car:'
+- ':thumbsup:'
+oomp_word_list:
+- anger
+- car
+- thumbsup
+part_number: ''
+size: tray
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 37_pin
+directory: parts/electronic_header_2_54_mm_37_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole
+id: electronic_header_2_54_mm_37_pin_through_hole
+id_no_class: header_2_54_mm_37_pin_through_hole
+id_no_color: 37pinthroughhole
+id_no_size: 37_pin_through_hole
+id_no_type: 2_54_mm_37_pin_through_hole
+manufacturer: ''
+md5: 0f6be3095546cf524ddcf9906f101d2b
+md5_10: 0f6be30955
+md5_10_upper: 0F6BE30955
+md5_5: 0f6be
+md5_5_upper: 0F6BE
+md5_6: 0f6be3
+md5_6_alpha: lntv
+md5_6_alpha_upper: LNTV
+md5_6_upper: 0F6BE3
+name: Electronic Header 2 54 Mm 37 Pin Through Hole
+name_no_class: Header 2 54 Mm 37 Pin Through Hole
+name_no_color: 37Pinthroughhole
+name_no_size: 37 Pin Through Hole
+name_no_type: 2 54 Mm 37 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_37_pin_through_hole
+oomp_word: sparkles chestnut rowboat
+oomp_word_emoji: ':sparkles: :chestnut: :rowboat:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':chestnut:'
+- ':rowboat:'
+oomp_word_list:
+- sparkles
+- chestnut
+- rowboat
+part_number: ''
+size: 2_54_mm
+type: header

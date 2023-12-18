@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_12
+directory: parts/oobb_part_tray_thin_11_1d5_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_12
+id: oobb_part_tray_thin_11_1d5_12
+id_no_class: part_tray_thin_11_1d5_12
+id_no_color: 111d512
+id_no_size: 11_1d5_12
+id_no_type: tray_thin_11_1d5_12
+manufacturer: ''
+md5: 33b3af944f74ed87e69ef40df82a5b30
+md5_10: 33b3af944f
+md5_10_upper: 33B3AF944F
+md5_5: 33b3a
+md5_5_upper: 33B3A
+md5_6: 33b3af
+md5_6_alpha: 20mgf
+md5_6_alpha_upper: 20MGF
+md5_6_upper: 33B3AF
+name: Oobb Part Tray Thin 11 1D5 12
+name_no_class: Part Tray Thin 11 1D5 12
+name_no_color: 111D512
+name_no_size: 11 1D5 12
+name_no_type: Tray Thin 11 1D5 12
+oomp_key: oomp_oobb_part_tray_thin_11_1d5_12
+oomp_word: dog eyeglasses tophat
+oomp_word_emoji: ':dog: :eyeglasses: :tophat:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':eyeglasses:'
+- ':tophat:'
+oomp_word_list:
+- dog
+- eyeglasses
+- tophat
+part_number: ''
+size: tray_thin
+type: part

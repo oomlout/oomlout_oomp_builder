@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 34_pin
+directory: parts/electronic_header_2_54_mm_34_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short
+id: electronic_header_2_54_mm_34_pin_through_hole_short
+id_no_class: header_2_54_mm_34_pin_through_hole_short
+id_no_color: 34pinthroughholeshort
+id_no_size: 34_pin_through_hole_short
+id_no_type: 2_54_mm_34_pin_through_hole_short
+manufacturer: ''
+md5: 5faf999c21fa4d2990b1bb8c0ff9da2e
+md5_10: 5faf999c21
+md5_10_upper: 5FAF999C21
+md5_5: 5faf9
+md5_5_upper: 5FAF9
+md5_6: 5faf99
+md5_6_alpha: 3qemx
+md5_6_alpha_upper: 3QEMX
+md5_6_upper: 5FAF99
+name: Electronic Header 2 54 Mm 34 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 34 Pin Through Hole Short
+name_no_color: 34Pinthroughholeshort
+name_no_size: 34 Pin Through Hole Short
+name_no_type: 2 54 Mm 34 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_34_pin_through_hole_short
+oomp_word: leopard tophat bowling
+oomp_word_emoji: ':leopard: :tophat: :bowling:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':tophat:'
+- ':bowling:'
+oomp_word_list:
+- leopard
+- tophat
+- bowling
+part_number: ''
+size: 2_54_mm
+type: header

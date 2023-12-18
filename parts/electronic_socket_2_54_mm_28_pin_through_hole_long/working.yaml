@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 28_pin
+directory: parts/electronic_socket_2_54_mm_28_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_28_pin_through_hole_long
+id: electronic_socket_2_54_mm_28_pin_through_hole_long
+id_no_class: socket_2_54_mm_28_pin_through_hole_long
+id_no_color: 28pinthroughholelong
+id_no_size: 28_pin_through_hole_long
+id_no_type: 2_54_mm_28_pin_through_hole_long
+manufacturer: ''
+md5: 3fbe2452eb749c3e9bbfba021746a104
+md5_10: 3fbe2452eb
+md5_10_upper: 3FBE2452EB
+md5_5: 3fbe2
+md5_5_upper: 3FBE2
+md5_6: 3fbe24
+md5_6_alpha: 2hjc4
+md5_6_alpha_upper: 2HJC4
+md5_6_upper: 3FBE24
+name: Electronic Socket 2 54 Mm 28 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 28 Pin Through Hole Long
+name_no_color: 28Pinthroughholelong
+name_no_size: 28 Pin Through Hole Long
+name_no_type: 2 54 Mm 28 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_28_pin_through_hole_long
+oomp_word: horse ramen droplet
+oomp_word_emoji: ':horse: :ramen: :droplet:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':ramen:'
+- ':droplet:'
+oomp_word_list:
+- horse
+- ramen
+- droplet
+part_number: ''
+size: 2_54_mm
+type: socket

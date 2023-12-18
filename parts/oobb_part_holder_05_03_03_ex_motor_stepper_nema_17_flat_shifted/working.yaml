@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_03_03_ex_motor_stepper_nema_17_flat_shifted
+directory: parts/oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+id: oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+id_no_class: part_holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+id_no_color: 050303exmotorsteppernema17flatshifted
+id_no_size: 05_03_03_ex_motor_stepper_nema_17_flat_shifted
+id_no_type: holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+manufacturer: ''
+md5: d41ad64886641b5140e5b0ce374455d8
+md5_10: d41ad64886
+md5_10_upper: D41AD64886
+md5_5: d41ad
+md5_5_upper: D41AD
+md5_6: d41ad6
+md5_6_alpha: 89xp2
+md5_6_alpha_upper: 89XP2
+md5_6_upper: D41AD6
+name: Oobb Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_class: Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_color: 050303Exmotorsteppernema17Flatshifted
+name_no_size: 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_type: Holder 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted
+oomp_key: oomp_oobb_part_holder_05_03_03_ex_motor_stepper_nema_17_flat_shifted
+oomp_word: corn clap school
+oomp_word_emoji: ':corn: :clap: :school:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':clap:'
+- ':school:'
+oomp_word_list:
+- corn
+- clap
+- school
+part_number: ''
+size: holder
+type: part

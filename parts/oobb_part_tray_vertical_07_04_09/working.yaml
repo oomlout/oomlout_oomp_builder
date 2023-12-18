@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_04_09
+directory: parts/oobb_part_tray_vertical_07_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_04_09
+id: oobb_part_tray_vertical_07_04_09
+id_no_class: part_tray_vertical_07_04_09
+id_no_color: 070409
+id_no_size: 07_04_09
+id_no_type: tray_vertical_07_04_09
+manufacturer: ''
+md5: 99f7ecd9c735e919b5118352819e316b
+md5_10: 99f7ecd9c7
+md5_10_upper: 99F7ECD9C7
+md5_5: 99f7e
+md5_5_upper: 99F7E
+md5_6: 99f7ec
+md5_6_alpha: 609v0
+md5_6_alpha_upper: 609V0
+md5_6_upper: 99F7EC
+name: Oobb Part Tray Vertical 07 04 09
+name_no_class: Part Tray Vertical 07 04 09
+name_no_color: 070409
+name_no_size: 07 04 09
+name_no_type: Tray Vertical 07 04 09
+oomp_key: oomp_oobb_part_tray_vertical_07_04_09
+oomp_word: bowling six taxi
+oomp_word_emoji: ':bowling: :six: :taxi:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':six:'
+- ':taxi:'
+oomp_word_list:
+- bowling
+- six
+- taxi
+part_number: ''
+size: tray_vertical
+type: part

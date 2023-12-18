@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '03_01_03'
+directory: parts/oobb_part_plate_03_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_03
+id: oobb_part_plate_03_01_03
+id_no_class: part_plate_03_01_03
+id_no_color: '030103'
+id_no_size: '03_01_03'
+id_no_type: plate_03_01_03
+manufacturer: ''
+md5: 2b1a6f31d4dadfd11cff9978414a6d7c
+md5_10: 2b1a6f31d4
+md5_10_upper: 2B1A6F31D4
+md5_5: 2b1a6
+md5_5_upper: 2B1A6
+md5_6: 2b1a6f
+md5_6_alpha: 1ojn3
+md5_6_alpha_upper: 1OJN3
+md5_6_upper: 2B1A6F
+name: Oobb Part Plate 03 01 03
+name_no_class: Part Plate 03 01 03
+name_no_color: '030103'
+name_no_size: 03 01 03
+name_no_type: Plate 03 01 03
+oomp_key: oomp_oobb_part_plate_03_01_03
+oomp_word: cloud clap moon
+oomp_word_emoji: ':cloud: :clap: :moon:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':clap:'
+- ':moon:'
+oomp_word_list:
+- cloud
+- clap
+- moon
+part_number: ''
+size: plate
+type: part

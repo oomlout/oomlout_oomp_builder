@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_04_30'
+directory: parts/oobb_part_tray_thin_07_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_04_30
+id: oobb_part_tray_thin_07_04_30
+id_no_class: part_tray_thin_07_04_30
+id_no_color: '070430'
+id_no_size: '07_04_30'
+id_no_type: tray_thin_07_04_30
+manufacturer: ''
+md5: 2e6e6f843dfd5aa64beba43d78a0d868
+md5_10: 2e6e6f843d
+md5_10_upper: 2E6E6F843D
+md5_5: 2e6e6
+md5_5_upper: 2E6E6
+md5_6: 2e6e6f
+md5_6_alpha: 1t7xr
+md5_6_alpha_upper: 1T7XR
+md5_6_upper: 2E6E6F
+name: Oobb Part Tray Thin 07 04 30
+name_no_class: Part Tray Thin 07 04 30
+name_no_color: '070430'
+name_no_size: 07 04 30
+name_no_type: Tray Thin 07 04 30
+oomp_key: oomp_oobb_part_tray_thin_07_04_30
+oomp_word: zap new_moon moon
+oomp_word_emoji: ':zap: :new_moon: :moon:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':new_moon:'
+- ':moon:'
+oomp_word_list:
+- zap
+- new_moon
+- moon
+part_number: ''
+size: tray_thin
+type: part

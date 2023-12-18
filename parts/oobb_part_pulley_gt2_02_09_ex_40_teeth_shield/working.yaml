@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_40_teeth_shield
+directory: parts/oobb_part_pulley_gt2_02_09_ex_40_teeth_shield
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_40_teeth_shield
+id: oobb_part_pulley_gt2_02_09_ex_40_teeth_shield
+id_no_class: part_pulley_gt2_02_09_ex_40_teeth_shield
+id_no_color: 0209ex40teethshield
+id_no_size: 02_09_ex_40_teeth_shield
+id_no_type: pulley_gt2_02_09_ex_40_teeth_shield
+manufacturer: ''
+md5: 38dff8d31d229a8231f7963e47501f0c
+md5_10: 38dff8d31d
+md5_10_upper: 38DFF8D31D
+md5_5: 38dff
+md5_5_upper: 38DFF
+md5_6: 38dff8
+md5_6_alpha: 27w1k
+md5_6_alpha_upper: 27W1K
+md5_6_upper: 38DFF8
+name: Oobb Part Pulley Gt2 02 09 Ex 40 Teeth Shield
+name_no_class: Part Pulley Gt2 02 09 Ex 40 Teeth Shield
+name_no_color: 0209Ex40Teethshield
+name_no_size: 02 09 Ex 40 Teeth Shield
+name_no_type: Pulley Gt2 02 09 Ex 40 Teeth Shield
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_40_teeth_shield
+oomp_word: frog fountain seven
+oomp_word_emoji: ':frog: :fountain: :seven:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':fountain:'
+- ':seven:'
+oomp_word_list:
+- frog
+- fountain
+- seven
+part_number: ''
+size: pulley_gt2
+type: part

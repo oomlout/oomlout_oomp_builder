@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 5_pin
+directory: parts/electronic_header_2_54_mm_5_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_5_pin_through_hole
+id: electronic_header_2_54_mm_5_pin_through_hole
+id_no_class: header_2_54_mm_5_pin_through_hole
+id_no_color: 5pinthroughhole
+id_no_size: 5_pin_through_hole
+id_no_type: 2_54_mm_5_pin_through_hole
+manufacturer: ''
+md5: df4688df997a0d2016ad1521f5aea705
+md5_10: df4688df99
+md5_10_upper: DF4688DF99
+md5_5: df468
+md5_5_upper: DF468
+md5_6: df4688
+md5_6_alpha: 8pmko
+md5_6_alpha_upper: 8PMKO
+md5_6_upper: DF4688
+name: Electronic Header 2 54 Mm 5 Pin Through Hole
+name_no_class: Header 2 54 Mm 5 Pin Through Hole
+name_no_color: 5Pinthroughhole
+name_no_size: 5 Pin Through Hole
+name_no_type: 2 54 Mm 5 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_5_pin_through_hole
+oomp_word: fountain bird wrench
+oomp_word_emoji: ':fountain: :bird: :wrench:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':bird:'
+- ':wrench:'
+oomp_word_list:
+- fountain
+- bird
+- wrench
+part_number: ''
+size: 2_54_mm
+type: header

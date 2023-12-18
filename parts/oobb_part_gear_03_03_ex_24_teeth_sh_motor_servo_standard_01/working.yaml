@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_ex_24_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+id_no_color: 0303ex24teethshmotorservostandard01
+id_no_size: 03_03_ex_24_teeth_sh_motor_servo_standard_01
+id_no_type: gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 77ed57b73cae37f5b95e755d1d6b0fda
+md5_10: 77ed57b73c
+md5_10_upper: 77ED57B73C
+md5_5: 77ed5
+md5_5_upper: 77ED5
+md5_6: 77ed57
+md5_6_alpha: 4oggn
+md5_6_alpha_upper: 4OGGN
+md5_6_upper: 77ED57
+name: Oobb Part Gear 03 03 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 03 03 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_color: 0303Ex24Teethshmotorservostandard01
+name_no_size: 03 03 Ex 24 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 03 03 Ex 24 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_03_03_ex_24_teeth_sh_motor_servo_standard_01
+oomp_word: gift bus rat
+oomp_word_emoji: ':gift: :bus: :rat:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':bus:'
+- ':rat:'
+oomp_word_list:
+- gift
+- bus
+- rat
+part_number: ''
+size: gear
+type: part

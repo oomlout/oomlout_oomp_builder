@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_01_09
+directory: parts/oobb_part_plate_04_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_09
+id: oobb_part_plate_04_01_09
+id_no_class: part_plate_04_01_09
+id_no_color: 040109
+id_no_size: 04_01_09
+id_no_type: plate_04_01_09
+manufacturer: ''
+md5: b3e68714e52f06e66f1c62513b64dd7a
+md5_10: b3e68714e5
+md5_10_upper: B3E68714E5
+md5_5: b3e68
+md5_5_upper: B3E68
+md5_6: b3e687
+md5_6_alpha: 70p6v
+md5_6_alpha_upper: 70P6V
+md5_6_upper: B3E687
+name: Oobb Part Plate 04 01 09
+name_no_class: Part Plate 04 01 09
+name_no_color: 040109
+name_no_size: 04 01 09
+name_no_type: Plate 04 01 09
+oomp_key: oomp_oobb_part_plate_04_01_09
+oomp_word: eyeglasses airplane toilet
+oomp_word_emoji: ':eyeglasses: :airplane: :toilet:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':airplane:'
+- ':toilet:'
+oomp_word_list:
+- eyeglasses
+- airplane
+- toilet
+part_number: ''
+size: plate
+type: part

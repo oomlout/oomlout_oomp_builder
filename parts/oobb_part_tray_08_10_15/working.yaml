@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_10_15
+directory: parts/oobb_part_tray_08_10_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_10_15
+id: oobb_part_tray_08_10_15
+id_no_class: part_tray_08_10_15
+id_no_color: 081015
+id_no_size: 08_10_15
+id_no_type: tray_08_10_15
+manufacturer: ''
+md5: 2da19a838bdcc08736f91c7645d47ce0
+md5_10: 2da19a838b
+md5_10_upper: 2DA19A838B
+md5_5: 2da19
+md5_5_upper: 2DA19
+md5_6: 2da19a
+md5_6_alpha: 1s3h6
+md5_6_alpha_upper: 1S3H6
+md5_6_upper: 2DA19A
+name: Oobb Part Tray 08 10 15
+name_no_class: Part Tray 08 10 15
+name_no_color: 081015
+name_no_size: 08 10 15
+name_no_type: Tray 08 10 15
+oomp_key: oomp_oobb_part_tray_08_10_15
+oomp_word: snowman trophy golf
+oomp_word_emoji: ':snowman: :trophy: :golf:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':trophy:'
+- ':golf:'
+oomp_word_list:
+- snowman
+- trophy
+- golf
+part_number: ''
+size: tray
+type: part

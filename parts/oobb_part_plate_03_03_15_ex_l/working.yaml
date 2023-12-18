@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_15_ex_l
+directory: parts/oobb_part_plate_03_03_15_ex_l
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_15_ex_l
+id: oobb_part_plate_03_03_15_ex_l
+id_no_class: part_plate_03_03_15_ex_l
+id_no_color: 030315exl
+id_no_size: 03_03_15_ex_l
+id_no_type: plate_03_03_15_ex_l
+manufacturer: ''
+md5: acd5033e7409351d1bec04786f7134b2
+md5_10: acd5033e74
+md5_10_upper: ACD5033E74
+md5_5: acd50
+md5_5_upper: ACD50
+md5_6: acd503
+md5_6_alpha: 6qrr7
+md5_6_alpha_upper: 6QRR7
+md5_6_upper: ACD503
+name: Oobb Part Plate 03 03 15 Ex L
+name_no_class: Part Plate 03 03 15 Ex L
+name_no_color: 030315Exl
+name_no_size: 03 03 15 Ex L
+name_no_type: Plate 03 03 15 Ex L
+oomp_key: oomp_oobb_part_plate_03_03_15_ex_l
+oomp_word: shirt house grin
+oomp_word_emoji: ':shirt: :house: :grin:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':house:'
+- ':grin:'
+oomp_word_list:
+- shirt
+- house
+- grin
+part_number: ''
+size: plate
+type: part

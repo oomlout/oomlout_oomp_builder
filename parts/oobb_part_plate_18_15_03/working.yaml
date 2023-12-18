@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '18_15_03'
+directory: parts/oobb_part_plate_18_15_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_15_03
+id: oobb_part_plate_18_15_03
+id_no_class: part_plate_18_15_03
+id_no_color: '181503'
+id_no_size: '18_15_03'
+id_no_type: plate_18_15_03
+manufacturer: ''
+md5: 6c1deee9cecacf53792ce74a6b5f3304
+md5_10: 6c1deee9ce
+md5_10_upper: 6C1DEEE9CE
+md5_5: 6c1de
+md5_5_upper: 6C1DE
+md5_6: 6c1dee
+md5_6_alpha: 47v8u
+md5_6_alpha_upper: 47V8U
+md5_6_upper: 6C1DEE
+name: Oobb Part Plate 18 15 03
+name_no_class: Part Plate 18 15 03
+name_no_color: '181503'
+name_no_size: 18 15 03
+name_no_type: Plate 18 15 03
+oomp_key: oomp_oobb_part_plate_18_15_03
+oomp_word: blossom baby ambulance
+oomp_word_emoji: ':blossom: :baby: :ambulance:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':baby:'
+- ':ambulance:'
+oomp_word_list:
+- blossom
+- baby
+- ambulance
+part_number: ''
+size: plate
+type: part

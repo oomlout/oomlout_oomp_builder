@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_10_09'
+directory: parts/oobb_part_tray_thin_10_10_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_09
+id: oobb_part_tray_thin_10_10_09
+id_no_class: part_tray_thin_10_10_09
+id_no_color: '101009'
+id_no_size: '10_10_09'
+id_no_type: tray_thin_10_10_09
+manufacturer: ''
+md5: ef2cf74f895b7f8ca69699b07647e40f
+md5_10: ef2cf74f89
+md5_10_upper: EF2CF74F89
+md5_5: ef2cf
+md5_5_upper: EF2CF
+md5_6: ef2cf7
+md5_6_alpha: 9bylz
+md5_6_alpha_upper: 9BYLZ
+md5_6_upper: EF2CF7
+name: Oobb Part Tray Thin 10 10 09
+name_no_class: Part Tray Thin 10 10 09
+name_no_color: '101009'
+name_no_size: 10 10 09
+name_no_type: Tray Thin 10 10 09
+oomp_key: oomp_oobb_part_tray_thin_10_10_09
+oomp_word: truck snowflake six
+oomp_word_emoji: ':truck: :snowflake: :six:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':snowflake:'
+- ':six:'
+oomp_word_list:
+- truck
+- snowflake
+- six
+part_number: ''
+size: tray_thin
+type: part

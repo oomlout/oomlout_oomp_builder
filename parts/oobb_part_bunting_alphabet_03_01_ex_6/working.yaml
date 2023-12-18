@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_6
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_6
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_6
+id: oobb_part_bunting_alphabet_03_01_ex_6
+id_no_class: part_bunting_alphabet_03_01_ex_6
+id_no_color: 0301ex6
+id_no_size: 03_01_ex_6
+id_no_type: bunting_alphabet_03_01_ex_6
+manufacturer: ''
+md5: dadfdd2bf920ba314f0a21f4d743310c
+md5_10: dadfdd2bf9
+md5_10_upper: DADFDD2BF9
+md5_5: dadfd
+md5_5_upper: DADFD
+md5_6: dadfdd
+md5_6_alpha: 8jg0t
+md5_6_alpha_upper: 8JG0T
+md5_6_upper: DADFDD
+name: Oobb Part Bunting Alphabet 03 01 Ex 6
+name_no_class: Part Bunting Alphabet 03 01 Ex 6
+name_no_color: 0301Ex6
+name_no_size: 03 01 Ex 6
+name_no_type: Bunting Alphabet 03 01 Ex 6
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_6
+oomp_word: hotel fountain stars
+oomp_word_emoji: ':hotel: :fountain: :stars:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':fountain:'
+- ':stars:'
+oomp_word_list:
+- hotel
+- fountain
+- stars
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_01_03
+directory: parts/oobb_part_plate_08_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_01_03
+id: oobb_part_plate_08_01_03
+id_no_class: part_plate_08_01_03
+id_no_color: 080103
+id_no_size: 08_01_03
+id_no_type: plate_08_01_03
+manufacturer: ''
+md5: 16f9a51fd0366a2d1fd2de8ee66931af
+md5_10: 16f9a51fd0
+md5_10_upper: 16F9A51FD0
+md5_5: 16f9a
+md5_5_upper: 16F9A
+md5_6: 16f9a5
+md5_6_alpha: w9t1
+md5_6_alpha_upper: W9T1
+md5_6_upper: 16F9A5
+name: Oobb Part Plate 08 01 03
+name_no_class: Part Plate 08 01 03
+name_no_color: 080103
+name_no_size: 08 01 03
+name_no_type: Plate 08 01 03
+oomp_key: oomp_oobb_part_plate_08_01_03
+oomp_word: thumbsup eight headphones
+oomp_word_emoji: ':thumbsup: :eight: :headphones:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':eight:'
+- ':headphones:'
+oomp_word_list:
+- thumbsup
+- eight
+- headphones
+part_number: ''
+size: plate
+type: part

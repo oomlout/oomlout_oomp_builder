@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 14_pin
+directory: parts/electronic_header_2_54_mm_14_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_14_pin_through_hole
+id: electronic_header_2_54_mm_14_pin_through_hole
+id_no_class: header_2_54_mm_14_pin_through_hole
+id_no_color: 14pinthroughhole
+id_no_size: 14_pin_through_hole
+id_no_type: 2_54_mm_14_pin_through_hole
+manufacturer: ''
+md5: 606d53776ebfe20457eb034ccf1fa5b0
+md5_10: 606d53776e
+md5_10_upper: 606D53776E
+md5_5: 606d5
+md5_5_upper: 606D5
+md5_6: 606d53
+md5_6_alpha: 3rg43
+md5_6_alpha_upper: 3RG43
+md5_6_upper: 606D53
+name: Electronic Header 2 54 Mm 14 Pin Through Hole
+name_no_class: Header 2 54 Mm 14 Pin Through Hole
+name_no_color: 14Pinthroughhole
+name_no_size: 14 Pin Through Hole
+name_no_type: 2 54 Mm 14 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_14_pin_through_hole
+oomp_word: poodle shell fish
+oomp_word_emoji: ':poodle: :shell: :fish:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':shell:'
+- ':fish:'
+oomp_word_list:
+- poodle
+- shell
+- fish
+part_number: ''
+size: 2_54_mm
+type: header

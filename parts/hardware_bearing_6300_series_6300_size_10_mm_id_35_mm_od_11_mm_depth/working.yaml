@@ -1,0 +1,40 @@
+classification: hardware
+color: 6300_size
+description_extra: ''
+description_main: 10_mm_id_35_mm_od_11_mm_depth
+directory: parts/hardware_bearing_6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+id: hardware_bearing_6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+id_no_class: bearing_6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+id_no_color: 10_mm_id_35_mm_od_11_mm_depth
+id_no_size: 6300_size_10_mm_id_35_mm_od_11_mm_depth
+id_no_type: 6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+manufacturer: ''
+md5: 1a0821636e7310320753fc331a46a4ac
+md5_10: 1a0821636e
+md5_10_upper: 1A0821636E
+md5_5: 1a082
+md5_5_upper: 1A082
+md5_6: 1a0821
+md5_6_alpha: 10kdd
+md5_6_alpha_upper: 10KDD
+md5_6_upper: 1A0821
+name: Hardware Bearing 6300 Series 6300 Size 10 Mm Id 35 Mm Od 11 Mm Depth
+name_no_class: Bearing 6300 Series 6300 Size 10 Mm Id 35 Mm Od 11 Mm Depth
+name_no_color: 10 Mm Id 35 Mm Od 11 Mm Depth
+name_no_size: 6300 Size 10 Mm Id 35 Mm Od 11 Mm Depth
+name_no_type: 6300 Series 6300 Size 10 Mm Id 35 Mm Od 11 Mm Depth
+oomp_key: oomp_hardware_bearing_6300_series_6300_size_10_mm_id_35_mm_od_11_mm_depth
+oomp_word: clap scream feet
+oomp_word_emoji: ':clap: :scream: :feet:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':scream:'
+- ':feet:'
+oomp_word_list:
+- clap
+- scream
+- feet
+part_number: ''
+size: 6300_series
+type: bearing

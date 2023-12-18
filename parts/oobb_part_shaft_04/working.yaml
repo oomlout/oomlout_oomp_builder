@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04'
+directory: parts/oobb_part_shaft_04
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04
+id: oobb_part_shaft_04
+id_no_class: part_shaft_04
+id_no_color: '04'
+id_no_size: '04'
+id_no_type: shaft_04
+manufacturer: ''
+md5: 3a0233ee99bfcca1f380f7ef91b00327
+md5_10: 3a0233ee99
+md5_10_upper: 3A0233EE99
+md5_5: 3a023
+md5_5_upper: 3A023
+md5_6: 3a0233
+md5_6_alpha: 29hdf
+md5_6_alpha_upper: 29HDF
+md5_6_upper: 3A0233
+name: Oobb Part Shaft 04
+name_no_class: Part Shaft 04
+name_no_color: '04'
+name_no_size: '04'
+name_no_type: Shaft 04
+oomp_key: oomp_oobb_part_shaft_04
+oomp_word: koala blush dog
+oomp_word_emoji: ':koala: :blush: :dog:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':blush:'
+- ':dog:'
+oomp_word_list:
+- koala
+- blush
+- dog
+part_number: ''
+size: shaft
+type: part

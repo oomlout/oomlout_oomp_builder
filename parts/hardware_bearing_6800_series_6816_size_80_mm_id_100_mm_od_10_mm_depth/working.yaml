@@ -1,0 +1,40 @@
+classification: hardware
+color: 6816_size
+description_extra: ''
+description_main: 80_mm_id_100_mm_od_10_mm_depth
+directory: parts/hardware_bearing_6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+id: hardware_bearing_6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+id_no_class: bearing_6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+id_no_color: 80_mm_id_100_mm_od_10_mm_depth
+id_no_size: 6816_size_80_mm_id_100_mm_od_10_mm_depth
+id_no_type: 6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+manufacturer: ''
+md5: 70803ed6993fa0fb9cfd1147cd540866
+md5_10: 70803ed699
+md5_10_upper: 70803ED699
+md5_5: '70803'
+md5_5_upper: '70803'
+md5_6: 70803e
+md5_6_alpha: 4e0xq
+md5_6_alpha_upper: 4E0XQ
+md5_6_upper: 70803E
+name: Hardware Bearing 6800 Series 6816 Size 80 Mm Id 100 Mm Od 10 Mm Depth
+name_no_class: Bearing 6800 Series 6816 Size 80 Mm Id 100 Mm Od 10 Mm Depth
+name_no_color: 80 Mm Id 100 Mm Od 10 Mm Depth
+name_no_size: 6816 Size 80 Mm Id 100 Mm Od 10 Mm Depth
+name_no_type: 6800 Series 6816 Size 80 Mm Id 100 Mm Od 10 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6816_size_80_mm_id_100_mm_od_10_mm_depth
+oomp_word: squirrel hourglass monkey
+oomp_word_emoji: ':squirrel: :hourglass: :monkey:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':hourglass:'
+- ':monkey:'
+oomp_word_list:
+- squirrel
+- hourglass
+- monkey
+part_number: ''
+size: 6800_series
+type: bearing

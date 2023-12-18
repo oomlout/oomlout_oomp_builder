@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56_ohm
+directory: parts/electronic_resistor_1206_56_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_56_ohm
+id: electronic_resistor_1206_56_ohm
+id_no_class: resistor_1206_56_ohm
+id_no_color: 56ohm
+id_no_size: 56_ohm
+id_no_type: 1206_56_ohm
+manufacturer: ''
+md5: a94a30da230875a553befa00615f8b9c
+md5_10: a94a30da23
+md5_10_upper: A94A30DA23
+md5_5: a94a3
+md5_5_upper: A94A3
+md5_6: a94a30
+md5_6_alpha: 6lsmo
+md5_6_alpha_upper: 6LSMO
+md5_6_upper: A94A30
+name: Electronic Resistor 1206 56 Ohm
+name_no_class: Resistor 1206 56 Ohm
+name_no_color: 56Ohm
+name_no_size: 56 Ohm
+name_no_type: 1206 56 Ohm
+oomp_key: oomp_electronic_resistor_1206_56_ohm
+oomp_word: sandal chicken foggy
+oomp_word_emoji: ':sandal: :chicken: :foggy:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':chicken:'
+- ':foggy:'
+oomp_word_list:
+- sandal
+- chicken
+- foggy
+part_number: ''
+size: '1206'
+type: resistor

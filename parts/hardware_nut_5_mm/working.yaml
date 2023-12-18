@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: ''
-description_main_capital: ''
-description_main_first_letter: ''
-description_main_first_letter_upper: ''
-description_main_upper: ''
-description_only_numbers: ''
-description_only_numbers_short: ' '
-description_or_color: ' '
-description_or_color_upper: ' '
 directory: parts/hardware_nut_5_mm
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_5_mm
 id: hardware_nut_5_mm
 id_no_class: nut_5_mm
 id_no_color: 5mm
 id_no_size: 5_mm
 id_no_type: 5_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_nut_5_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_5_mm/working)<br>[nu5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_5_mm/working)<br>[Hardware
-  Nut 5 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_5_mm/working)<br><br>'
-markdown_short: '[hardware_nut_5_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_5_mm/working)<br><br>'
 md5: 732e2ca55c4cf2c56caf613af3204248
 md5_10: 732e2ca55c
 md5_10_upper: 732E2CA55C
@@ -55,7 +23,6 @@ name: Hardware Nut 5 Mm
 name_no_class: Nut 5 Mm
 name_no_color: 5Mm
 name_no_size: 5 Mm
-name_no_size_short: 5 Mm
 name_no_type: 5 Mm
 oomp_key: oomp_hardware_nut_5_mm
 oomp_word: flags zap snowflake
@@ -69,21 +36,5 @@ oomp_word_list:
 - zap
 - snowflake
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: nu5
-short_code_upper: NU5
 size: 5_mm
-size_capital: 5 mm
-size_first_letter: '5'
-size_first_letter_upper: '5'
-size_only_numbers: '5'
-size_only_numbers_no_zeros: '5'
-size_upper: 5_MM
 type: nut
-type_capital: Nut
-type_first_letter: n
-type_first_letter_upper: N
-type_upper: NUT

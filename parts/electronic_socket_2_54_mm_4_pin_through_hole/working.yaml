@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 4_pin
+directory: parts/electronic_socket_2_54_mm_4_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
+id: electronic_socket_2_54_mm_4_pin_through_hole
+id_no_class: socket_2_54_mm_4_pin_through_hole
+id_no_color: 4pinthroughhole
+id_no_size: 4_pin_through_hole
+id_no_type: 2_54_mm_4_pin_through_hole
+manufacturer: ''
+md5: ae06a3ae9ef3d4815be335541909990d
+md5_10: ae06a3ae9e
+md5_10_upper: AE06A3AE9E
+md5_5: ae06a
+md5_5_upper: AE06A
+md5_6: ae06a3
+md5_6_alpha: 6sg4j
+md5_6_alpha_upper: 6SG4J
+md5_6_upper: AE06A3
+name: Electronic Socket 2 54 Mm 4 Pin Through Hole
+name_no_class: Socket 2 54 Mm 4 Pin Through Hole
+name_no_color: 4Pinthroughhole
+name_no_size: 4 Pin Through Hole
+name_no_type: 2 54 Mm 4 Pin Through Hole
+oomp_key: oomp_electronic_socket_2_54_mm_4_pin_through_hole
+oomp_word: jeans sleeping pencil
+oomp_word_emoji: ':jeans: :sleeping: :pencil:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':sleeping:'
+- ':pencil:'
+oomp_word_list:
+- jeans
+- sleeping
+- pencil
+part_number: ''
+size: 2_54_mm
+type: socket

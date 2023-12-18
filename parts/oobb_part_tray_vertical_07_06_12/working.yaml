@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_06_12'
+directory: parts/oobb_part_tray_vertical_07_06_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_06_12
+id: oobb_part_tray_vertical_07_06_12
+id_no_class: part_tray_vertical_07_06_12
+id_no_color: '070612'
+id_no_size: '07_06_12'
+id_no_type: tray_vertical_07_06_12
+manufacturer: ''
+md5: 14a7ff951e225ad44fea15974814ebfe
+md5_10: 14a7ff951e
+md5_10_upper: 14A7FF951E
+md5_5: 14a7f
+md5_5_upper: 14A7F
+md5_6: 14a7ff
+md5_6_alpha: t0jj
+md5_6_alpha_upper: T0JJ
+md5_6_upper: 14A7FF
+name: Oobb Part Tray Vertical 07 06 12
+name_no_class: Part Tray Vertical 07 06 12
+name_no_color: '070612'
+name_no_size: 07 06 12
+name_no_type: Tray Vertical 07 06 12
+oomp_key: oomp_oobb_part_tray_vertical_07_06_12
+oomp_word: fire guitar trident
+oomp_word_emoji: ':fire: :guitar: :trident:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':guitar:'
+- ':trident:'
+oomp_word_list:
+- fire
+- guitar
+- trident
+part_number: ''
+size: tray_vertical
+type: part

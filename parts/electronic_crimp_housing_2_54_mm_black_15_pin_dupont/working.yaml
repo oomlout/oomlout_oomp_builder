@@ -1,0 +1,40 @@
+classification: electronic
+color: black
+description_extra: dupont
+description_main: 15_pin
+directory: parts/electronic_crimp_housing_2_54_mm_black_15_pin_dupont
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_15_pin_dupont
+id: electronic_crimp_housing_2_54_mm_black_15_pin_dupont
+id_no_class: crimp_housing_2_54_mm_black_15_pin_dupont
+id_no_color: 15_pin_dupont
+id_no_size: black_15_pin_dupont
+id_no_type: 2_54_mm_black_15_pin_dupont
+manufacturer: ''
+md5: de082d3d8853ff498174b83c4da7efde
+md5_10: de082d3d88
+md5_10_upper: DE082D3D88
+md5_5: de082
+md5_5_upper: DE082
+md5_6: de082d
+md5_6_alpha: 8nvot
+md5_6_alpha_upper: 8NVOT
+md5_6_upper: DE082D
+name: Electronic Crimp Housing 2 54 Mm Black 15 Pin Dupont
+name_no_class: Crimp Housing 2 54 Mm Black 15 Pin Dupont
+name_no_color: 15 Pin Dupont
+name_no_size: Black 15 Pin Dupont
+name_no_type: 2 54 Mm Black 15 Pin Dupont
+oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_15_pin_dupont
+oomp_word: rainbow scream snowman
+oomp_word_emoji: ':rainbow: :scream: :snowman:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':scream:'
+- ':snowman:'
+oomp_word_list:
+- rainbow
+- scream
+- snowman
+part_number: ''
+size: 2_54_mm
+type: crimp_housing

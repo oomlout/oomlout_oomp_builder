@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_06_ex_8_teeth_sh_motor_servo_standard_01
+directory: parts/oobb_part_gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+id: oobb_part_gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+id_no_color: 0106ex8teethshmotorservostandard01
+id_no_size: 01_06_ex_8_teeth_sh_motor_servo_standard_01
+id_no_type: gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+md5: 9b2a7ac59b084f0191d457d3cd7edf76
+md5_10: 9b2a7ac59b
+md5_10_upper: 9B2A7AC59B
+md5_5: 9b2a7
+md5_5_upper: 9B2A7
+md5_6: 9b2a7a
+md5_6_alpha: 61yey
+md5_6_alpha_upper: 61YEY
+md5_6_upper: 9B2A7A
+name: Oobb Part Gear 01 06 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 01 06 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_color: 0106Ex8Teethshmotorservostandard01
+name_no_size: 01 06 Ex 8 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 01 06 Ex 8 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_01_06_ex_8_teeth_sh_motor_servo_standard_01
+oomp_word: ski umbrella camera
+oomp_word_emoji: ':ski: :umbrella: :camera:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':umbrella:'
+- ':camera:'
+oomp_word_list:
+- ski
+- umbrella
+- camera
+part_number: ''
+size: gear
+type: part

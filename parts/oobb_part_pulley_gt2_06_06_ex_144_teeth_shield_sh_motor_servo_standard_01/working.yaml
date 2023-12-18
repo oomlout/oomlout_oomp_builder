@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+id_no_color: 0606ex144teethshieldshmotorservostandard01
+id_no_size: 06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+manufacturer: ''
+md5: b872b841672ea67b9fc1f6c5189a4d0d
+md5_10: b872b84167
+md5_10_upper: B872B84167
+md5_5: b872b
+md5_5_upper: B872B
+md5_6: b872b8
+md5_6_alpha: 7735k
+md5_6_alpha_upper: 7735K
+md5_6_upper: B872B8
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Shield Sh Motor Servo Standard 01
+name_no_color: 0606Ex144Teethshieldshmotorservostandard01
+name_no_size: 06 06 Ex 144 Teeth Shield Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Shield Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_shield_sh_motor_servo_standard_01
+oomp_word: hamburger dolls hamburger
+oomp_word_emoji: ':hamburger: :dolls: :hamburger:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':dolls:'
+- ':hamburger:'
+oomp_word_list:
+- hamburger
+- dolls
+- hamburger
+part_number: ''
+size: pulley_gt2
+type: part

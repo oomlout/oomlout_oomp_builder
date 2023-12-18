@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_1d5_30
+directory: parts/oobb_part_tray_thin_02_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_1d5_30
+id: oobb_part_tray_thin_02_1d5_30
+id_no_class: part_tray_thin_02_1d5_30
+id_no_color: 021d530
+id_no_size: 02_1d5_30
+id_no_type: tray_thin_02_1d5_30
+manufacturer: ''
+md5: d63ae256c1cb573880e7b86b4676eaf5
+md5_10: d63ae256c1
+md5_10_upper: D63AE256C1
+md5_5: d63ae
+md5_5_upper: D63AE
+md5_6: d63ae2
+md5_6_alpha: 8cx5u
+md5_6_alpha_upper: 8CX5U
+md5_6_upper: D63AE2
+name: Oobb Part Tray Thin 02 1D5 30
+name_no_class: Part Tray Thin 02 1D5 30
+name_no_color: 021D530
+name_no_size: 02 1D5 30
+name_no_type: Tray Thin 02 1D5 30
+oomp_key: oomp_oobb_part_tray_thin_02_1d5_30
+oomp_word: school koala sailboat
+oomp_word_emoji: ':school: :koala: :sailboat:'
+oomp_word_emoji_list:
+- ':school:'
+- ':koala:'
+- ':sailboat:'
+oomp_word_list:
+- school
+- koala
+- sailboat
+part_number: ''
+size: tray_thin
+type: part

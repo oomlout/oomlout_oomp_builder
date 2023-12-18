@@ -1,0 +1,40 @@
+classification: hardware
+color: MR62_size
+description_extra: ''
+description_main: 2_mm_id_6_mm_od_2.5_mm_depth
+directory: parts/hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+id: hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+id_no_class: bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+id_no_color: 2_mm_id_6_mm_od_2.5_mm_depth
+id_no_size: MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+id_no_type: MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+manufacturer: ''
+md5: 63230c13d0097fe246de463131adbb00
+md5_10: 63230c13d0
+md5_10_upper: 63230C13D0
+md5_5: '63230'
+md5_5_upper: '63230'
+md5_6: 63230c
+md5_6_alpha: 3v958
+md5_6_alpha_upper: 3V958
+md5_6_upper: 63230C
+name: Hardware Bearing Mr Series Mr62 Size 2 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_class: Bearing Mr Series Mr62 Size 2 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_color: 2 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_size: Mr62 Size 2 Mm Id 6 Mm Od 2.5 Mm Depth
+name_no_type: Mr Series Mr62 Size 2 Mm Id 6 Mm Od 2.5 Mm Depth
+oomp_key: oomp_hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2.5_mm_depth
+oomp_word: rose kiss alien
+oomp_word_emoji: ':rose: :kiss: :alien:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':kiss:'
+- ':alien:'
+oomp_word_list:
+- rose
+- kiss
+- alien
+part_number: ''
+size: MR_series
+type: bearing

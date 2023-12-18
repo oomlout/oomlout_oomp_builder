@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 56000_ohm
+directory: parts/electronic_resistor_1206_56000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_56000_ohm
+id: electronic_resistor_1206_56000_ohm
+id_no_class: resistor_1206_56000_ohm
+id_no_color: 56000ohm
+id_no_size: 56000_ohm
+id_no_type: 1206_56000_ohm
+manufacturer: ''
+md5: 1f86336d7d2acd279c6db0795372b565
+md5_10: 1f86336d7d
+md5_10_upper: 1F86336D7D
+md5_5: 1f863
+md5_5_upper: 1F863
+md5_6: 1f8633
+md5_6_alpha: 18a43
+md5_6_alpha_upper: 18A43
+md5_6_upper: 1F8633
+name: Electronic Resistor 1206 56000 Ohm
+name_no_class: Resistor 1206 56000 Ohm
+name_no_color: 56000Ohm
+name_no_size: 56000 Ohm
+name_no_type: 1206 56000 Ohm
+oomp_key: oomp_electronic_resistor_1206_56000_ohm
+oomp_word: princess bath dog
+oomp_word_emoji: ':princess: :bath: :dog:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':bath:'
+- ':dog:'
+oomp_word_list:
+- princess
+- bath
+- dog
+part_number: ''
+size: '1206'
+type: resistor

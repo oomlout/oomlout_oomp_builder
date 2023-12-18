@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_w
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_w
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_w
+id: oobb_part_bunting_alphabet_03_01_ex_w
+id_no_class: part_bunting_alphabet_03_01_ex_w
+id_no_color: 0301exw
+id_no_size: 03_01_ex_w
+id_no_type: bunting_alphabet_03_01_ex_w
+manufacturer: ''
+md5: 86abe67ea972b88702dd72e7daed7bf4
+md5_10: 86abe67ea9
+md5_10_upper: 86ABE67EA9
+md5_5: 86abe
+md5_5_upper: 86ABE
+md5_6: 86abe6
+md5_6_alpha: 5961y
+md5_6_alpha_upper: 5961Y
+md5_6_upper: 86ABE6
+name: Oobb Part Bunting Alphabet 03 01 Ex W
+name_no_class: Part Bunting Alphabet 03 01 Ex W
+name_no_color: 0301Exw
+name_no_size: 03 01 Ex W
+name_no_type: Bunting Alphabet 03 01 Ex W
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_w
+oomp_word: bath boot airplane
+oomp_word_emoji: ':bath: :boot: :airplane:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':boot:'
+- ':airplane:'
+oomp_word_list:
+- bath
+- boot
+- airplane
+part_number: ''
+size: bunting_alphabet
+type: part

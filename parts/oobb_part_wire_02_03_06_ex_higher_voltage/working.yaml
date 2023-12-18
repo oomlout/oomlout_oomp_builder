@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_03_06_ex_higher_voltage
+directory: parts/oobb_part_wire_02_03_06_ex_higher_voltage
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_02_03_06_ex_higher_voltage
+id: oobb_part_wire_02_03_06_ex_higher_voltage
+id_no_class: part_wire_02_03_06_ex_higher_voltage
+id_no_color: 020306exhighervoltage
+id_no_size: 02_03_06_ex_higher_voltage
+id_no_type: wire_02_03_06_ex_higher_voltage
+manufacturer: ''
+md5: c49c5e230825763d4dd2a8107fdb300a
+md5_10: c49c5e2308
+md5_10_upper: C49C5E2308
+md5_5: c49c5
+md5_5_upper: C49C5
+md5_6: c49c5e
+md5_6_alpha: 7o672
+md5_6_alpha_upper: 7O672
+md5_6_upper: C49C5E
+name: Oobb Part Wire 02 03 06 Ex Higher Voltage
+name_no_class: Part Wire 02 03 06 Ex Higher Voltage
+name_no_color: 020306Exhighervoltage
+name_no_size: 02 03 06 Ex Higher Voltage
+name_no_type: Wire 02 03 06 Ex Higher Voltage
+oomp_key: oomp_oobb_part_wire_02_03_06_ex_higher_voltage
+oomp_word: cookie spades crocodile
+oomp_word_emoji: ':cookie: :spades: :crocodile:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':spades:'
+- ':crocodile:'
+oomp_word_list:
+- cookie
+- spades
+- crocodile
+part_number: ''
+size: wire
+type: part

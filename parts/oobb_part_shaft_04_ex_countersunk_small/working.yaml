@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_ex_countersunk_small
+directory: parts/oobb_part_shaft_04_ex_countersunk_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04_ex_countersunk_small
+id: oobb_part_shaft_04_ex_countersunk_small
+id_no_class: part_shaft_04_ex_countersunk_small
+id_no_color: 04excountersunksmall
+id_no_size: 04_ex_countersunk_small
+id_no_type: shaft_04_ex_countersunk_small
+manufacturer: ''
+md5: 016ce2717d1d1443b32aa724c070d33d
+md5_10: 016ce2717d
+md5_10_upper: 016CE2717D
+md5_5: 016ce
+md5_5_upper: 016CE
+md5_6: 016ce2
+md5_6_alpha: 202q
+md5_6_alpha_upper: 202Q
+md5_6_upper: 016CE2
+name: Oobb Part Shaft 04 Ex Countersunk Small
+name_no_class: Part Shaft 04 Ex Countersunk Small
+name_no_color: 04Excountersunksmall
+name_no_size: 04 Ex Countersunk Small
+name_no_type: Shaft 04 Ex Countersunk Small
+oomp_key: oomp_oobb_part_shaft_04_ex_countersunk_small
+oomp_word: smile blossom sailboat
+oomp_word_emoji: ':smile: :blossom: :sailboat:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':blossom:'
+- ':sailboat:'
+oomp_word_list:
+- smile
+- blossom
+- sailboat
+part_number: ''
+size: shaft
+type: part

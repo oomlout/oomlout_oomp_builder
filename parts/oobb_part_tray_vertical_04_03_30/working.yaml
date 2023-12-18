@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_03_30'
+directory: parts/oobb_part_tray_vertical_04_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_03_30
+id: oobb_part_tray_vertical_04_03_30
+id_no_class: part_tray_vertical_04_03_30
+id_no_color: '040330'
+id_no_size: '04_03_30'
+id_no_type: tray_vertical_04_03_30
+manufacturer: ''
+md5: 9c0b350b73e261a5bceea5e5a9acb13f
+md5_10: 9c0b350b73
+md5_10_upper: 9C0B350B73
+md5_5: 9c0b3
+md5_5_upper: 9C0B3
+md5_6: 9c0b35
+md5_6_alpha: 636t1
+md5_6_alpha_upper: 636T1
+md5_6_upper: 9C0B35
+name: Oobb Part Tray Vertical 04 03 30
+name_no_class: Part Tray Vertical 04 03 30
+name_no_color: '040330'
+name_no_size: 04 03 30
+name_no_type: Tray Vertical 04 03 30
+oomp_key: oomp_oobb_part_tray_vertical_04_03_30
+oomp_word: spades sunglasses hamster
+oomp_word_emoji: ':spades: :sunglasses: :hamster:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':sunglasses:'
+- ':hamster:'
+oomp_word_list:
+- spades
+- sunglasses
+- hamster
+part_number: ''
+size: tray_vertical
+type: part

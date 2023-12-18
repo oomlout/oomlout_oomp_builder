@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_q
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_q
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_q
+id: oobb_part_bunting_alphabet_07_01_ex_q
+id_no_class: part_bunting_alphabet_07_01_ex_q
+id_no_color: 0701exq
+id_no_size: 07_01_ex_q
+id_no_type: bunting_alphabet_07_01_ex_q
+manufacturer: ''
+md5: b19e01d8ef2542b89d44e9750ad44bc0
+md5_10: b19e01d8ef
+md5_10_upper: B19E01D8EF
+md5_5: b19e0
+md5_5_upper: B19E0
+md5_6: b19e01
+md5_6_alpha: 6xhq9
+md5_6_alpha_upper: 6XHQ9
+md5_6_upper: B19E01
+name: Oobb Part Bunting Alphabet 07 01 Ex Q
+name_no_class: Part Bunting Alphabet 07 01 Ex Q
+name_no_color: 0701Exq
+name_no_size: 07 01 Ex Q
+name_no_type: Bunting Alphabet 07 01 Ex Q
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_q
+oomp_word: briefcase clubs smile
+oomp_word_emoji: ':briefcase: :clubs: :smile:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':clubs:'
+- ':smile:'
+oomp_word_list:
+- briefcase
+- clubs
+- smile
+part_number: ''
+size: bunting_alphabet
+type: part

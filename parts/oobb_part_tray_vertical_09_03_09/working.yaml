@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_03_09
+directory: parts/oobb_part_tray_vertical_09_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_03_09
+id: oobb_part_tray_vertical_09_03_09
+id_no_class: part_tray_vertical_09_03_09
+id_no_color: 090309
+id_no_size: 09_03_09
+id_no_type: tray_vertical_09_03_09
+manufacturer: ''
+md5: 289a642adb80aa1c75290ff63588f74d
+md5_10: 289a642adb
+md5_10_upper: 289A642ADB
+md5_5: 289a6
+md5_5_upper: 289A6
+md5_6: 289a64
+md5_6_alpha: 1l17o
+md5_6_alpha_upper: 1L17O
+md5_6_upper: 289A64
+name: Oobb Part Tray Vertical 09 03 09
+name_no_class: Part Tray Vertical 09 03 09
+name_no_color: 090309
+name_no_size: 09 03 09
+name_no_type: Tray Vertical 09 03 09
+oomp_key: oomp_oobb_part_tray_vertical_09_03_09
+oomp_word: tongue golf sunflower
+oomp_word_emoji: ':tongue: :golf: :sunflower:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':golf:'
+- ':sunflower:'
+oomp_word_list:
+- tongue
+- golf
+- sunflower
+part_number: ''
+size: tray_vertical
+type: part

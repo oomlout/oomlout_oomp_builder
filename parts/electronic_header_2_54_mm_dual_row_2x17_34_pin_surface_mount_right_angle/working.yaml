@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x17_34_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+id_no_color: 2x1734pinsurfacemountrightangle
+id_no_size: 2x17_34_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 09fd0af72614e0878e5d45dc4ed2db3b
+md5_10: 09fd0af726
+md5_10_upper: 09FD0AF726
+md5_5: 09fd0
+md5_5_upper: 09FD0
+md5_6: 09fd0a
+md5_6_alpha: e13e
+md5_6_alpha_upper: E13E
+md5_6_upper: 09FD0A
+name: Electronic Header 2 54 Mm Dual Row 2X17 34 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X17 34 Pin Surface Mount Right Angle
+name_no_color: 2X1734Pinsurfacemountrightangle
+name_no_size: 2X17 34 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X17 34 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x17_34_pin_surface_mount_right_angle
+oomp_word: angry parking sleepy
+oomp_word_emoji: ':angry: :parking: :sleepy:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':parking:'
+- ':sleepy:'
+oomp_word_list:
+- angry
+- parking
+- sleepy
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

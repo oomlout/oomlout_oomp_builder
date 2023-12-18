@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '22_01_03'
+directory: parts/oobb_part_plate_22_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_01_03
+id: oobb_part_plate_22_01_03
+id_no_class: part_plate_22_01_03
+id_no_color: '220103'
+id_no_size: '22_01_03'
+id_no_type: plate_22_01_03
+manufacturer: ''
+md5: 364bdd4946b08a05f4d8a567f2b877e6
+md5_10: 364bdd4946
+md5_10_upper: 364BDD4946
+md5_5: 364bd
+md5_5_upper: 364BD
+md5_6: 364bdd
+md5_6_alpha: 249nh
+md5_6_alpha_upper: 249NH
+md5_6_upper: 364BDD
+name: Oobb Part Plate 22 01 03
+name_no_class: Part Plate 22 01 03
+name_no_color: '220103'
+name_no_size: 22 01 03
+name_no_type: Plate 22 01 03
+oomp_key: oomp_oobb_part_plate_22_01_03
+oomp_word: rabbit penguin stars
+oomp_word_emoji: ':rabbit: :penguin: :stars:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':penguin:'
+- ':stars:'
+oomp_word_list:
+- rabbit
+- penguin
+- stars
+part_number: ''
+size: plate
+type: part

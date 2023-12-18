@@ -1,0 +1,40 @@
+classification: hardware
+color: F607_size
+description_extra: ''
+description_main: 7_mm_id_19_mm_od_6_mm_depth
+directory: parts/hardware_bearing_F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+id: hardware_bearing_F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+id_no_class: bearing_F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+id_no_color: 7_mm_id_19_mm_od_6_mm_depth
+id_no_size: F607_size_7_mm_id_19_mm_od_6_mm_depth
+id_no_type: F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+manufacturer: ''
+md5: c4a986982cb81945626d74be1ad1ee1b
+md5_10: c4a986982c
+md5_10_upper: C4A986982C
+md5_5: c4a98
+md5_5_upper: C4A98
+md5_6: c4a986
+md5_6_alpha: 7o8sm
+md5_6_alpha_upper: 7O8SM
+md5_6_upper: C4A986
+name: Hardware Bearing F600 Series F607 Size 7 Mm Id 19 Mm Od 6 Mm Depth
+name_no_class: Bearing F600 Series F607 Size 7 Mm Id 19 Mm Od 6 Mm Depth
+name_no_color: 7 Mm Id 19 Mm Od 6 Mm Depth
+name_no_size: F607 Size 7 Mm Id 19 Mm Od 6 Mm Depth
+name_no_type: F600 Series F607 Size 7 Mm Id 19 Mm Od 6 Mm Depth
+oomp_key: oomp_hardware_bearing_F600_series_F607_size_7_mm_id_19_mm_od_6_mm_depth
+oomp_word: cookie sandal bath
+oomp_word_emoji: ':cookie: :sandal: :bath:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':sandal:'
+- ':bath:'
+oomp_word_list:
+- cookie
+- sandal
+- bath
+part_number: ''
+size: F600_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_02_30'
+directory: parts/oobb_part_tray_vertical_04_02_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_30
+id: oobb_part_tray_vertical_04_02_30
+id_no_class: part_tray_vertical_04_02_30
+id_no_color: '040230'
+id_no_size: '04_02_30'
+id_no_type: tray_vertical_04_02_30
+manufacturer: ''
+md5: f2dbdd4f806542ca4d4f1d8b7fee874a
+md5_10: f2dbdd4f80
+md5_10_upper: F2DBDD4F80
+md5_5: f2dbd
+md5_5_upper: F2DBD
+md5_6: f2dbdd
+md5_6_alpha: 9h4v1
+md5_6_alpha_upper: 9H4V1
+md5_6_upper: F2DBDD
+name: Oobb Part Tray Vertical 04 02 30
+name_no_class: Part Tray Vertical 04 02 30
+name_no_color: '040230'
+name_no_size: 04 02 30
+name_no_type: Tray Vertical 04 02 30
+oomp_key: oomp_oobb_part_tray_vertical_04_02_30
+oomp_word: one tent stars
+oomp_word_emoji: ':one: :tent: :stars:'
+oomp_word_emoji_list:
+- ':one:'
+- ':tent:'
+- ':stars:'
+oomp_word_list:
+- one
+- tent
+- stars
+part_number: ''
+size: tray_vertical
+type: part

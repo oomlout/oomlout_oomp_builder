@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_10_12'
+directory: parts/oobb_part_tray_thin_11_10_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_10_12
+id: oobb_part_tray_thin_11_10_12
+id_no_class: part_tray_thin_11_10_12
+id_no_color: '111012'
+id_no_size: '11_10_12'
+id_no_type: tray_thin_11_10_12
+manufacturer: ''
+md5: 3ca5d69a3cd669c59df3438120bb7056
+md5_10: 3ca5d69a3c
+md5_10_upper: 3CA5D69A3C
+md5_5: 3ca5d
+md5_5_upper: 3CA5D
+md5_6: 3ca5d6
+md5_6_alpha: 2d6ty
+md5_6_alpha_upper: 2D6TY
+md5_6_upper: 3CA5D6
+name: Oobb Part Tray Thin 11 10 12
+name_no_class: Part Tray Thin 11 10 12
+name_no_color: '111012'
+name_no_size: 11 10 12
+name_no_type: Tray Thin 11 10 12
+oomp_key: oomp_oobb_part_tray_thin_11_10_12
+oomp_word: pig headphones school
+oomp_word_emoji: ':pig: :headphones: :school:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':headphones:'
+- ':school:'
+oomp_word_list:
+- pig
+- headphones
+- school
+part_number: ''
+size: tray_thin
+type: part

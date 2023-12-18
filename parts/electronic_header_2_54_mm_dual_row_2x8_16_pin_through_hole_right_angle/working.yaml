@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 2x8_16_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+id_no_color: 2x816pinthroughholerightangle
+id_no_size: 2x8_16_pin_through_hole_right_angle
+id_no_type: 2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+manufacturer: ''
+md5: bf61bb1f223165b79754528dcaccf782
+md5_10: bf61bb1f22
+md5_10_upper: BF61BB1F22
+md5_5: bf61b
+md5_5_upper: BF61B
+md5_6: bf61bb
+md5_6_alpha: 7gtrv
+md5_6_alpha_upper: 7GTRV
+md5_6_upper: BF61BB
+name: Electronic Header 2 54 Mm Dual Row 2X8 16 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X8 16 Pin Through Hole Right Angle
+name_no_color: 2X816Pinthroughholerightangle
+name_no_size: 2X8 16 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm Dual Row 2X8 16 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole_right_angle
+oomp_word: egg bouquet curry
+oomp_word_emoji: ':egg: :bouquet: :curry:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':bouquet:'
+- ':curry:'
+oomp_word_list:
+- egg
+- bouquet
+- curry
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

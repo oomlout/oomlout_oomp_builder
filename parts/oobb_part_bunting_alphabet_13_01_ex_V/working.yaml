@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_v
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_v
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_v
+id: oobb_part_bunting_alphabet_13_01_ex_v
+id_no_class: part_bunting_alphabet_13_01_ex_v
+id_no_color: 1301exv
+id_no_size: 13_01_ex_v
+id_no_type: bunting_alphabet_13_01_ex_v
+manufacturer: ''
+md5: 72ee08b3177ee8b579308f5e53a18c43
+md5_10: 72ee08b317
+md5_10_upper: 72EE08B317
+md5_5: 72ee0
+md5_5_upper: 72EE0
+md5_6: 72ee08
+md5_6_alpha: 4hfrc
+md5_6_alpha_upper: 4HFRC
+md5_6_upper: 72EE08
+name: Oobb Part Bunting Alphabet 13 01 Ex V
+name_no_class: Part Bunting Alphabet 13 01 Ex V
+name_no_color: 1301Exv
+name_no_size: 13 01 Ex V
+name_no_type: Bunting Alphabet 13 01 Ex V
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_v
+oomp_word: dolls ambulance scream
+oomp_word_emoji: ':dolls: :ambulance: :scream:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':ambulance:'
+- ':scream:'
+oomp_word_list:
+- dolls
+- ambulance
+- scream
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x12_24_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x12_24_pin_through_hole
+id_no_color: 2x1224pinthroughhole
+id_no_size: 2x12_24_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x12_24_pin_through_hole
+manufacturer: ''
+md5: b4240198772fc19390949ff4897ad999
+md5_10: b424019877
+md5_10_upper: B424019877
+md5_5: b4240
+md5_5_upper: B4240
+md5_6: b42401
+md5_6_alpha: 711c1
+md5_6_alpha_upper: 711C1
+md5_6_upper: B42401
+name: Electronic Header 2 54 Mm Dual Row 2X12 24 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X12 24 Pin Through Hole
+name_no_color: 2X1224Pinthroughhole
+name_no_size: 2X12 24 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X12 24 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
+oomp_word: coffee droplet smile
+oomp_word_emoji: ':coffee: :droplet: :smile:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':droplet:'
+- ':smile:'
+oomp_word_list:
+- coffee
+- droplet
+- smile
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

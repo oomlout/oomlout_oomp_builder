@@ -1,0 +1,40 @@
+classification: hardware
+color: 6215_size
+description_extra: ''
+description_main: 75_mm_id_130_mm_od_25_mm_depth
+directory: parts/hardware_bearing_6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+id: hardware_bearing_6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+id_no_class: bearing_6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+id_no_color: 75_mm_id_130_mm_od_25_mm_depth
+id_no_size: 6215_size_75_mm_id_130_mm_od_25_mm_depth
+id_no_type: 6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+manufacturer: ''
+md5: 8c390ea6e0ecaa090d307d56ec47b929
+md5_10: 8c390ea6e0
+md5_10_upper: 8C390EA6E0
+md5_5: 8c390
+md5_5_upper: 8C390
+md5_6: 8c390e
+md5_6_alpha: 5gyry
+md5_6_alpha_upper: 5GYRY
+md5_6_upper: 8C390E
+name: Hardware Bearing 6200 Series 6215 Size 75 Mm Id 130 Mm Od 25 Mm Depth
+name_no_class: Bearing 6200 Series 6215 Size 75 Mm Id 130 Mm Od 25 Mm Depth
+name_no_color: 75 Mm Id 130 Mm Od 25 Mm Depth
+name_no_size: 6215 Size 75 Mm Id 130 Mm Od 25 Mm Depth
+name_no_type: 6200 Series 6215 Size 75 Mm Id 130 Mm Od 25 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6215_size_75_mm_id_130_mm_od_25_mm_depth
+oomp_word: pill tiger cupid
+oomp_word_emoji: ':pill: :tiger: :cupid:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':tiger:'
+- ':cupid:'
+oomp_word_list:
+- pill
+- tiger
+- cupid
+part_number: ''
+size: 6200_series
+type: bearing

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 120_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_120_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_120_ohm
+id: electronic_resistor_quarter_watt_through_hole_120_ohm
+id_no_class: resistor_quarter_watt_through_hole_120_ohm
+id_no_color: 120ohm
+id_no_size: 120_ohm
+id_no_type: quarter_watt_through_hole_120_ohm
+manufacturer: ''
+md5: aafdc8042bb6c655f663360ce5305057
+md5_10: aafdc8042b
+md5_10_upper: AAFDC8042B
+md5_5: aafdc
+md5_5_upper: AAFDC
+md5_6: aafdc8
+md5_6_alpha: 6o6o8
+md5_6_alpha_upper: 6O6O8
+md5_6_upper: AAFDC8
+name: Electronic Resistor Quarter Watt Through Hole 120 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 120 Ohm
+name_no_color: 120Ohm
+name_no_size: 120 Ohm
+name_no_type: Quarter Watt Through Hole 120 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_120_ohm
+oomp_word: lipstick parking apple
+oomp_word_emoji: ':lipstick: :parking: :apple:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':parking:'
+- ':apple:'
+oomp_word_list:
+- lipstick
+- parking
+- apple
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

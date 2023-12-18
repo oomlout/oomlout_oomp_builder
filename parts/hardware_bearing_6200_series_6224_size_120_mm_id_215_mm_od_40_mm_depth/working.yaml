@@ -1,0 +1,40 @@
+classification: hardware
+color: 6224_size
+description_extra: ''
+description_main: 120_mm_id_215_mm_od_40_mm_depth
+directory: parts/hardware_bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+id: hardware_bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+id_no_class: bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+id_no_color: 120_mm_id_215_mm_od_40_mm_depth
+id_no_size: 6224_size_120_mm_id_215_mm_od_40_mm_depth
+id_no_type: 6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+manufacturer: ''
+md5: f3c99fab9287dc6e3974ab0a7b1b4c03
+md5_10: f3c99fab92
+md5_10_upper: F3C99FAB92
+md5_5: f3c99
+md5_5_upper: F3C99
+md5_6: f3c99f
+md5_6_alpha: 9iftr
+md5_6_alpha_upper: 9IFTR
+md5_6_upper: F3C99F
+name: Hardware Bearing 6200 Series 6224 Size 120 Mm Id 215 Mm Od 40 Mm Depth
+name_no_class: Bearing 6200 Series 6224 Size 120 Mm Id 215 Mm Od 40 Mm Depth
+name_no_color: 120 Mm Id 215 Mm Od 40 Mm Depth
+name_no_size: 6224 Size 120 Mm Id 215 Mm Od 40 Mm Depth
+name_no_type: 6200 Series 6224 Size 120 Mm Id 215 Mm Od 40 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
+oomp_word: two lemon diamonds
+oomp_word_emoji: ':two: :lemon: :diamonds:'
+oomp_word_emoji_list:
+- ':two:'
+- ':lemon:'
+- ':diamonds:'
+oomp_word_list:
+- two
+- lemon
+- diamonds
+part_number: ''
+size: 6200_series
+type: bearing

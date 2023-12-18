@@ -1,0 +1,40 @@
+classification: hardware
+color: 5313_size
+description_extra: ''
+description_main: 65_mm_id_140_mm_od_58.73_mm_depth
+directory: parts/hardware_bearing_5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+id: hardware_bearing_5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+id_no_class: bearing_5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+id_no_color: 65_mm_id_140_mm_od_58.73_mm_depth
+id_no_size: 5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+id_no_type: 5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+manufacturer: ''
+md5: d250d91f4d7a46978bf09520c7c7926c
+md5_10: d250d91f4d
+md5_10_upper: D250D91F4D
+md5_5: d250d
+md5_5_upper: D250D
+md5_6: d250d9
+md5_6_alpha: 87f89
+md5_6_alpha_upper: 87F89
+md5_6_upper: D250D9
+name: Hardware Bearing 5300 Series 5313 Size 65 Mm Id 140 Mm Od 58.73 Mm Depth
+name_no_class: Bearing 5300 Series 5313 Size 65 Mm Id 140 Mm Od 58.73 Mm Depth
+name_no_color: 65 Mm Id 140 Mm Od 58.73 Mm Depth
+name_no_size: 5313 Size 65 Mm Id 140 Mm Od 58.73 Mm Depth
+name_no_type: 5300 Series 5313 Size 65 Mm Id 140 Mm Od 58.73 Mm Depth
+oomp_key: oomp_hardware_bearing_5300_series_5313_size_65_mm_id_140_mm_od_58.73_mm_depth
+oomp_word: pineapple beetle bank
+oomp_word_emoji: ':pineapple: :beetle: :bank:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':beetle:'
+- ':bank:'
+oomp_word_list:
+- pineapple
+- beetle
+- bank
+part_number: ''
+size: 5300_series
+type: bearing

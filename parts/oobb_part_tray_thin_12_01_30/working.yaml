@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_01_30'
+directory: parts/oobb_part_tray_thin_12_01_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_30
+id: oobb_part_tray_thin_12_01_30
+id_no_class: part_tray_thin_12_01_30
+id_no_color: '120130'
+id_no_size: '12_01_30'
+id_no_type: tray_thin_12_01_30
+manufacturer: ''
+md5: e0a59f042e339763f5f15143ec387d1d
+md5_10: e0a59f042e
+md5_10_upper: E0A59F042E
+md5_5: e0a59
+md5_5_upper: E0A59
+md5_6: e0a59f
+md5_6_alpha: 8rjxb
+md5_6_alpha_upper: 8RJXB
+md5_6_upper: E0A59F
+name: Oobb Part Tray Thin 12 01 30
+name_no_class: Part Tray Thin 12 01 30
+name_no_color: '120130'
+name_no_size: 12 01 30
+name_no_type: Tray Thin 12 01 30
+oomp_key: oomp_oobb_part_tray_thin_12_01_30
+oomp_word: ship headphones diamonds
+oomp_word_emoji: ':ship: :headphones: :diamonds:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':headphones:'
+- ':diamonds:'
+oomp_word_list:
+- ship
+- headphones
+- diamonds
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_10_18
+directory: parts/oobb_part_tray_06_10_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_10_18
+id: oobb_part_tray_06_10_18
+id_no_class: part_tray_06_10_18
+id_no_color: 061018
+id_no_size: 06_10_18
+id_no_type: tray_06_10_18
+manufacturer: ''
+md5: 5c4bc35963333be0d8c77fcaaed03d1e
+md5_10: 5c4bc35963
+md5_10_upper: 5C4BC35963
+md5_5: 5c4bc
+md5_5_upper: 5C4BC
+md5_6: 5c4bc3
+md5_6_alpha: 3ln7n
+md5_6_alpha_upper: 3LN7N
+md5_6_upper: 5C4BC3
+name: Oobb Part Tray 06 10 18
+name_no_class: Part Tray 06 10 18
+name_no_color: 061018
+name_no_size: 06 10 18
+name_no_type: Tray 06 10 18
+oomp_key: oomp_oobb_part_tray_06_10_18
+oomp_word: ox penguin cake
+oomp_word_emoji: ':ox: :penguin: :cake:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':penguin:'
+- ':cake:'
+oomp_word_list:
+- ox
+- penguin
+- cake
+part_number: ''
+size: tray
+type: part

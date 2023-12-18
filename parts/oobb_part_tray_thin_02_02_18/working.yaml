@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_02_18
+directory: parts/oobb_part_tray_thin_02_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_02_18
+id: oobb_part_tray_thin_02_02_18
+id_no_class: part_tray_thin_02_02_18
+id_no_color: 020218
+id_no_size: 02_02_18
+id_no_type: tray_thin_02_02_18
+manufacturer: ''
+md5: 1bd5b3266f0d1ab81afce07d1522b5e3
+md5_10: 1bd5b3266f
+md5_10_upper: 1BD5B3266F
+md5_5: 1bd5b
+md5_5_upper: 1BD5B
+md5_6: 1bd5b3
+md5_6_alpha: 133jn
+md5_6_alpha_upper: 133JN
+md5_6_upper: 1BD5B3
+name: Oobb Part Tray Thin 02 02 18
+name_no_class: Part Tray Thin 02 02 18
+name_no_color: 020218
+name_no_size: 02 02 18
+name_no_type: Tray Thin 02 02 18
+oomp_key: oomp_oobb_part_tray_thin_02_02_18
+oomp_word: muscle house eyeglasses
+oomp_word_emoji: ':muscle: :house: :eyeglasses:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':house:'
+- ':eyeglasses:'
+oomp_word_list:
+- muscle
+- house
+- eyeglasses
+part_number: ''
+size: tray_thin
+type: part

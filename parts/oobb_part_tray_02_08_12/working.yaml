@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_08_12
+directory: parts/oobb_part_tray_02_08_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_08_12
+id: oobb_part_tray_02_08_12
+id_no_class: part_tray_02_08_12
+id_no_color: 020812
+id_no_size: 02_08_12
+id_no_type: tray_02_08_12
+manufacturer: ''
+md5: 14b8c4bd3f7fd99c1baf00ba4ffd6d3a
+md5_10: 14b8c4bd3f
+md5_10_upper: 14B8C4BD3F
+md5_5: 14b8c
+md5_5_upper: 14B8C
+md5_6: 14b8c4
+md5_6_alpha: t3us
+md5_6_alpha_upper: T3US
+md5_6_upper: 14B8C4
+name: Oobb Part Tray 02 08 12
+name_no_class: Part Tray 02 08 12
+name_no_color: 020812
+name_no_size: 02 08 12
+name_no_type: Tray 02 08 12
+oomp_key: oomp_oobb_part_tray_02_08_12
+oomp_word: fire hamburger cookie
+oomp_word_emoji: ':fire: :hamburger: :cookie:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':hamburger:'
+- ':cookie:'
+oomp_word_list:
+- fire
+- hamburger
+- cookie
+part_number: ''
+size: tray
+type: part

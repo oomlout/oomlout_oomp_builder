@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_03_09'
+directory: parts/oobb_part_tray_thin_12_03_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_03_09
+id: oobb_part_tray_thin_12_03_09
+id_no_class: part_tray_thin_12_03_09
+id_no_color: '120309'
+id_no_size: '12_03_09'
+id_no_type: tray_thin_12_03_09
+manufacturer: ''
+md5: 486ed0f0c54e82127d5358f385fa323d
+md5_10: 486ed0f0c5
+md5_10_upper: 486ED0F0C5
+md5_5: 486ed
+md5_5_upper: 486ED
+md5_6: 486ed0
+md5_6_alpha: 2tqs0
+md5_6_alpha_upper: 2TQS0
+md5_6_upper: 486ED0
+name: Oobb Part Tray Thin 12 03 09
+name_no_class: Part Tray Thin 12 03 09
+name_no_color: '120309'
+name_no_size: 12 03 09
+name_no_type: Tray Thin 12 03 09
+oomp_key: oomp_oobb_part_tray_thin_12_03_09
+oomp_word: hatched_chick new_moon banana
+oomp_word_emoji: ':hatched_chick: :new_moon: :banana:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':new_moon:'
+- ':banana:'
+oomp_word_list:
+- hatched_chick
+- new_moon
+- banana
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_short
+description_main: 31_pin
+directory: parts/electronic_header_2_54_mm_31_pin_through_hole_short
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_31_pin_through_hole_short
+id: electronic_header_2_54_mm_31_pin_through_hole_short
+id_no_class: header_2_54_mm_31_pin_through_hole_short
+id_no_color: 31pinthroughholeshort
+id_no_size: 31_pin_through_hole_short
+id_no_type: 2_54_mm_31_pin_through_hole_short
+manufacturer: ''
+md5: 564c1e7db6e1d312f4d1548bf1ef4388
+md5_10: 564c1e7db6
+md5_10_upper: 564C1E7DB6
+md5_5: 564c1
+md5_5_upper: 564C1
+md5_6: 564c1e
+md5_6_alpha: 3d7vi
+md5_6_alpha_upper: 3D7VI
+md5_6_upper: 564C1E
+name: Electronic Header 2 54 Mm 31 Pin Through Hole Short
+name_no_class: Header 2 54 Mm 31 Pin Through Hole Short
+name_no_color: 31Pinthroughholeshort
+name_no_size: 31 Pin Through Hole Short
+name_no_type: 2 54 Mm 31 Pin Through Hole Short
+oomp_key: oomp_electronic_header_2_54_mm_31_pin_through_hole_short
+oomp_word: ram turtle angel
+oomp_word_emoji: ':ram: :turtle: :angel:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':turtle:'
+- ':angel:'
+oomp_word_list:
+- ram
+- turtle
+- angel
+part_number: ''
+size: 2_54_mm
+type: header

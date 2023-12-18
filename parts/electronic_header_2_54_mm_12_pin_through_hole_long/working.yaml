@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 12_pin
+directory: parts/electronic_header_2_54_mm_12_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole_long
+id: electronic_header_2_54_mm_12_pin_through_hole_long
+id_no_class: header_2_54_mm_12_pin_through_hole_long
+id_no_color: 12pinthroughholelong
+id_no_size: 12_pin_through_hole_long
+id_no_type: 2_54_mm_12_pin_through_hole_long
+manufacturer: ''
+md5: f83f410138fe06f8bb2a89105bbf8a22
+md5_10: f83f410138
+md5_10_upper: F83F410138
+md5_5: f83f4
+md5_5_upper: F83F4
+md5_6: f83f41
+md5_6_alpha: 9opc1
+md5_6_alpha_upper: 9OPC1
+md5_6_upper: F83F41
+name: Electronic Header 2 54 Mm 12 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 12 Pin Through Hole Long
+name_no_color: 12Pinthroughholelong
+name_no_size: 12 Pin Through Hole Long
+name_no_type: 2 54 Mm 12 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole_long
+oomp_word: seven horse camel
+oomp_word_emoji: ':seven: :horse: :camel:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':horse:'
+- ':camel:'
+oomp_word_list:
+- seven
+- horse
+- camel
+part_number: ''
+size: 2_54_mm
+type: header

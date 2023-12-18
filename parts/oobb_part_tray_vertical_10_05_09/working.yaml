@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_05_09'
+directory: parts/oobb_part_tray_vertical_10_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_05_09
+id: oobb_part_tray_vertical_10_05_09
+id_no_class: part_tray_vertical_10_05_09
+id_no_color: '100509'
+id_no_size: '10_05_09'
+id_no_type: tray_vertical_10_05_09
+manufacturer: ''
+md5: 32547b3b3d413ca058dbe68ff9964982
+md5_10: 32547b3b3d
+md5_10_upper: 32547B3B3D
+md5_5: '32547'
+md5_5_upper: '32547'
+md5_6: 32547b
+md5_6_alpha: 1yp2z
+md5_6_alpha_upper: 1YP2Z
+md5_6_upper: 32547B
+name: Oobb Part Tray Vertical 10 05 09
+name_no_class: Part Tray Vertical 10 05 09
+name_no_color: '100509'
+name_no_size: 10 05 09
+name_no_type: Tray Vertical 10 05 09
+oomp_key: oomp_oobb_part_tray_vertical_10_05_09
+oomp_word: cat whale computer
+oomp_word_emoji: ':cat: :whale: :computer:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':whale:'
+- ':computer:'
+oomp_word_list:
+- cat
+- whale
+- computer
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 13_01_ex_a
+directory: parts/oobb_part_bunting_alphabet_13_01_ex_a
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_a
+id: oobb_part_bunting_alphabet_13_01_ex_a
+id_no_class: part_bunting_alphabet_13_01_ex_a
+id_no_color: 1301exa
+id_no_size: 13_01_ex_a
+id_no_type: bunting_alphabet_13_01_ex_a
+manufacturer: ''
+md5: 8b4d25c56c6d5ff0ef0887ea06d79265
+md5_10: 8b4d25c56c
+md5_10_upper: 8B4D25C56C
+md5_5: 8b4d2
+md5_5_upper: 8B4D2
+md5_6: 8b4d25
+md5_6_alpha: 5fo6d
+md5_6_alpha_upper: 5FO6D
+md5_6_upper: 8B4D25
+name: Oobb Part Bunting Alphabet 13 01 Ex A
+name_no_class: Part Bunting Alphabet 13 01 Ex A
+name_no_color: 1301Exa
+name_no_size: 13 01 Ex A
+name_no_type: Bunting Alphabet 13 01 Ex A
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01_ex_a
+oomp_word: door bug ear
+oomp_word_emoji: ':door: :bug: :ear:'
+oomp_word_emoji_list:
+- ':door:'
+- ':bug:'
+- ':ear:'
+oomp_word_list:
+- door
+- bug
+- ear
+part_number: ''
+size: bunting_alphabet
+type: part

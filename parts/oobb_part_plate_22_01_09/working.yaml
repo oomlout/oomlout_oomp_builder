@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '22_01_09'
+directory: parts/oobb_part_plate_22_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_01_09
+id: oobb_part_plate_22_01_09
+id_no_class: part_plate_22_01_09
+id_no_color: '220109'
+id_no_size: '22_01_09'
+id_no_type: plate_22_01_09
+manufacturer: ''
+md5: 10f036c04ffe3bdf26cf3b331876f2c0
+md5_10: 10f036c04f
+md5_10_upper: 10F036C04F
+md5_5: 10f03
+md5_5_upper: 10F03
+md5_6: 10f036
+md5_6_alpha: nsja
+md5_6_alpha_upper: NSJA
+md5_6_upper: 10F036
+name: Oobb Part Plate 22 01 09
+name_no_class: Part Plate 22 01 09
+name_no_color: '220109'
+name_no_size: 22 01 09
+name_no_type: Plate 22 01 09
+oomp_key: oomp_oobb_part_plate_22_01_09
+oomp_word: star train rabbit
+oomp_word_emoji: ':star: :train: :rabbit:'
+oomp_word_emoji_list:
+- ':star:'
+- ':train:'
+- ':rabbit:'
+oomp_word_list:
+- star
+- train
+- rabbit
+part_number: ''
+size: plate
+type: part

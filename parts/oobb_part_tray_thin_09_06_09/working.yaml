@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_09
+directory: parts/oobb_part_tray_thin_09_06_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_06_09
+id: oobb_part_tray_thin_09_06_09
+id_no_class: part_tray_thin_09_06_09
+id_no_color: 090609
+id_no_size: 09_06_09
+id_no_type: tray_thin_09_06_09
+manufacturer: ''
+md5: 8bac93d5e97550f7e43444f6020d6dc4
+md5_10: 8bac93d5e9
+md5_10_upper: 8BAC93D5E9
+md5_5: 8bac9
+md5_5_upper: 8BAC9
+md5_6: 8bac93
+md5_6_alpha: 5g70z
+md5_6_alpha_upper: 5G70Z
+md5_6_upper: 8BAC93
+name: Oobb Part Tray Thin 09 06 09
+name_no_class: Part Tray Thin 09 06 09
+name_no_color: 090609
+name_no_size: 09 06 09
+name_no_type: Tray Thin 09 06 09
+oomp_key: oomp_oobb_part_tray_thin_09_06_09
+oomp_word: door shirt books
+oomp_word_emoji: ':door: :shirt: :books:'
+oomp_word_emoji_list:
+- ':door:'
+- ':shirt:'
+- ':books:'
+oomp_word_list:
+- door
+- shirt
+- books
+part_number: ''
+size: tray_thin
+type: part

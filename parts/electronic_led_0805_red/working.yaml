@@ -1,0 +1,40 @@
+classification: electronic
+color: red
+description_extra: ''
+description_main: ''
+directory: parts/electronic_led_0805_red
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red
+id: electronic_led_0805_red
+id_no_class: led_0805_red
+id_no_color: red
+id_no_size: red
+id_no_type: 0805_red
+manufacturer: ''
+md5: fb973f60131a78a8c7072cbdb940a30b
+md5_10: fb973f6013
+md5_10_upper: FB973F6013
+md5_5: fb973
+md5_5_upper: FB973
+md5_6: fb973f
+md5_6_alpha: 9tef3
+md5_6_alpha_upper: 9TEF3
+md5_6_upper: FB973F
+name: Electronic Led 0805 Red
+name_no_class: Led 0805 Red
+name_no_color: Red
+name_no_size: Red
+name_no_type: 0805 Red
+oomp_key: oomp_electronic_led_0805_red
+oomp_word: ok baseball horse
+oomp_word_emoji: ':ok: :baseball: :horse:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':baseball:'
+- ':horse:'
+oomp_word_list:
+- ok
+- baseball
+- horse
+part_number: ''
+size: 0805
+type: led

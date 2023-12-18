@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '04_07_15'
+directory: parts/oobb_part_tray_04_07_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_07_15
+id: oobb_part_tray_04_07_15
+id_no_class: part_tray_04_07_15
+id_no_color: '040715'
+id_no_size: '04_07_15'
+id_no_type: tray_04_07_15
+manufacturer: ''
+md5: 2dde942a53ce8d2247c792f6cd0f6a23
+md5_10: 2dde942a53
+md5_10_upper: 2DDE942A53
+md5_5: 2dde9
+md5_5_upper: 2DDE9
+md5_6: 2dde94
+md5_6_alpha: 1sfis
+md5_6_alpha_upper: 1SFIS
+md5_6_upper: 2DDE94
+name: Oobb Part Tray 04 07 15
+name_no_class: Part Tray 04 07 15
+name_no_color: '040715'
+name_no_size: 04 07 15
+name_no_type: Tray 04 07 15
+oomp_key: oomp_oobb_part_tray_04_07_15
+oomp_word: snowman rainbow microscope
+oomp_word_emoji: ':snowman: :rainbow: :microscope:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':rainbow:'
+- ':microscope:'
+oomp_word_list:
+- snowman
+- rainbow
+- microscope
+part_number: ''
+size: tray
+type: part

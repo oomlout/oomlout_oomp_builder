@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1500_ohm
+directory: parts/electronic_resistor_0805_1500_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1500_ohm
+id: electronic_resistor_0805_1500_ohm
+id_no_class: resistor_0805_1500_ohm
+id_no_color: 1500ohm
+id_no_size: 1500_ohm
+id_no_type: 0805_1500_ohm
+manufacturer: ''
+md5: 7966161bbcfc330e7ad8348260404a99
+md5_10: 7966161bbc
+md5_10_upper: 7966161BBC
+md5_5: '79661'
+md5_5_upper: '79661'
+md5_6: '796616'
+md5_6_alpha: 4qivq
+md5_6_alpha_upper: 4QIVQ
+md5_6_upper: '796616'
+name: Electronic Resistor 0805 1500 Ohm
+name_no_class: Resistor 0805 1500 Ohm
+name_no_color: 1500Ohm
+name_no_size: 1500 Ohm
+name_no_type: 0805 1500 Ohm
+oomp_key: oomp_electronic_resistor_0805_1500_ohm
+oomp_word: balloon leaves thumbsup
+oomp_word_emoji: ':balloon: :leaves: :thumbsup:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':leaves:'
+- ':thumbsup:'
+oomp_word_list:
+- balloon
+- leaves
+- thumbsup
+part_number: ''
+size: 0805
+type: resistor

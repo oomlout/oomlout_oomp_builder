@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '24_01_09'
+directory: parts/oobb_part_plate_24_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_24_01_09
+id: oobb_part_plate_24_01_09
+id_no_class: part_plate_24_01_09
+id_no_color: '240109'
+id_no_size: '24_01_09'
+id_no_type: plate_24_01_09
+manufacturer: ''
+md5: 5eb01ba6342e8592da94be3e79af347c
+md5_10: 5eb01ba634
+md5_10_upper: 5EB01BA634
+md5_5: 5eb01
+md5_5_upper: 5EB01
+md5_6: 5eb01b
+md5_6_alpha: 3p063
+md5_6_alpha_upper: 3P063
+md5_6_upper: 5EB01B
+name: Oobb Part Plate 24 01 09
+name_no_class: Part Plate 24 01 09
+name_no_color: '240109'
+name_no_size: 24 01 09
+name_no_type: Plate 24 01 09
+oomp_key: oomp_oobb_part_plate_24_01_09
+oomp_word: crocodile crown muscle
+oomp_word_emoji: ':crocodile: :crown: :muscle:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':crown:'
+- ':muscle:'
+oomp_word_list:
+- crocodile
+- crown
+- muscle
+part_number: ''
+size: plate
+type: part

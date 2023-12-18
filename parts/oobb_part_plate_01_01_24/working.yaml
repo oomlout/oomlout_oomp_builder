@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '01_01_24'
+directory: parts/oobb_part_plate_01_01_24
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_24
+id: oobb_part_plate_01_01_24
+id_no_class: part_plate_01_01_24
+id_no_color: '010124'
+id_no_size: '01_01_24'
+id_no_type: plate_01_01_24
+manufacturer: ''
+md5: 67c3d28ba420d0071f8de35f4e6cc64b
+md5_10: 67c3d28ba4
+md5_10_upper: 67C3D28BA4
+md5_5: 67c3d
+md5_5_upper: 67C3D
+md5_6: 67c3d2
+md5_6_alpha: 41r6a
+md5_6_alpha_upper: 41R6A
+md5_6_upper: 67C3D2
+name: Oobb Part Plate 01 01 24
+name_no_class: Part Plate 01 01 24
+name_no_color: '010124'
+name_no_size: 01 01 24
+name_no_type: Plate 01 01 24
+oomp_key: oomp_oobb_part_plate_01_01_24
+oomp_word: herb cake pineapple
+oomp_word_emoji: ':herb: :cake: :pineapple:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':cake:'
+- ':pineapple:'
+oomp_word_list:
+- herb
+- cake
+- pineapple
+part_number: ''
+size: plate
+type: part

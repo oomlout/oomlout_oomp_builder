@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_08_15
+directory: parts/oobb_part_tray_06_08_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_08_15
+id: oobb_part_tray_06_08_15
+id_no_class: part_tray_06_08_15
+id_no_color: 060815
+id_no_size: 06_08_15
+id_no_type: tray_06_08_15
+manufacturer: ''
+md5: eb77281194d4d92657eb5be9fd472c53
+md5_10: eb77281194
+md5_10_upper: EB77281194
+md5_5: eb772
+md5_5_upper: EB772
+md5_6: eb7728
+md5_6_alpha: 96qzs
+md5_6_alpha_upper: 96QZS
+md5_6_upper: EB7728
+name: Oobb Part Tray 06 08 15
+name_no_class: Part Tray 06 08 15
+name_no_color: 060815
+name_no_size: 06 08 15
+name_no_type: Tray 06 08 15
+oomp_key: oomp_oobb_part_tray_06_08_15
+oomp_word: car gift tongue
+oomp_word_emoji: ':car: :gift: :tongue:'
+oomp_word_emoji_list:
+- ':car:'
+- ':gift:'
+- ':tongue:'
+oomp_word_list:
+- car
+- gift
+- tongue
+part_number: ''
+size: tray
+type: part

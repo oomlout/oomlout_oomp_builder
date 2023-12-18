@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '19_19_03'
+directory: parts/oobb_part_plate_19_19_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_19_03
+id: oobb_part_plate_19_19_03
+id_no_class: part_plate_19_19_03
+id_no_color: '191903'
+id_no_size: '19_19_03'
+id_no_type: plate_19_19_03
+manufacturer: ''
+md5: fbf6aa324d6ccaaa691a96f5a8b14dc5
+md5_10: fbf6aa324d
+md5_10_upper: FBF6AA324D
+md5_5: fbf6a
+md5_5_upper: FBF6A
+md5_6: fbf6aa
+md5_6_alpha: 9tx9m
+md5_6_alpha_upper: 9TX9M
+md5_6_upper: FBF6AA
+name: Oobb Part Plate 19 19 03
+name_no_class: Part Plate 19 19 03
+name_no_color: '191903'
+name_no_size: 19 19 03
+name_no_type: Plate 19 19 03
+oomp_key: oomp_oobb_part_plate_19_19_03
+oomp_word: ok five lipstick
+oomp_word_emoji: ':ok: :five: :lipstick:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':five:'
+- ':lipstick:'
+oomp_word_list:
+- ok
+- five
+- lipstick
+part_number: ''
+size: plate
+type: part

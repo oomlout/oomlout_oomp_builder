@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 82_ohm
+directory: parts/electronic_resistor_0402_82_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm
+id: electronic_resistor_0402_82_ohm
+id_no_class: resistor_0402_82_ohm
+id_no_color: 82ohm
+id_no_size: 82_ohm
+id_no_type: 0402_82_ohm
+manufacturer: ''
+md5: 9a8de94ae6d80203f82236e690c34386
+md5_10: 9a8de94ae6
+md5_10_upper: 9A8DE94AE6
+md5_5: 9a8de
+md5_5_upper: 9A8DE
+md5_6: 9a8de9
+md5_6_alpha: 613hl
+md5_6_alpha_upper: 613HL
+md5_6_upper: 9A8DE9
+name: Electronic Resistor 0402 82 Ohm
+name_no_class: Resistor 0402 82 Ohm
+name_no_color: 82Ohm
+name_no_size: 82 Ohm
+name_no_type: 0402 82 Ohm
+oomp_key: oomp_electronic_resistor_0402_82_ohm
+oomp_word: golf scroll bike
+oomp_word_emoji: ':golf: :scroll: :bike:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':scroll:'
+- ':bike:'
+oomp_word_list:
+- golf
+- scroll
+- bike
+part_number: ''
+size: '0402'
+type: resistor

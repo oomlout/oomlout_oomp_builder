@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 18_pin
+directory: parts/electronic_socket_2_54_mm_18_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_18_pin_through_hole_long
+id: electronic_socket_2_54_mm_18_pin_through_hole_long
+id_no_class: socket_2_54_mm_18_pin_through_hole_long
+id_no_color: 18pinthroughholelong
+id_no_size: 18_pin_through_hole_long
+id_no_type: 2_54_mm_18_pin_through_hole_long
+manufacturer: ''
+md5: 139ed6bad864988a41042a5695480c1b
+md5_10: 139ed6bad8
+md5_10_upper: 139ED6BAD8
+md5_5: 139ed
+md5_5_upper: 139ED
+md5_6: 139ed6
+md5_6_alpha: rk5y
+md5_6_alpha_upper: RK5Y
+md5_6_upper: 139ED6
+name: Electronic Socket 2 54 Mm 18 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 18 Pin Through Hole Long
+name_no_color: 18Pinthroughholelong
+name_no_size: 18 Pin Through Hole Long
+name_no_type: 2 54 Mm 18 Pin Through Hole Long
+oomp_key: oomp_electronic_socket_2_54_mm_18_pin_through_hole_long
+oomp_word: question clubs school
+oomp_word_emoji: ':question: :clubs: :school:'
+oomp_word_emoji_list:
+- ':question:'
+- ':clubs:'
+- ':school:'
+oomp_word_list:
+- question
+- clubs
+- school
+part_number: ''
+size: 2_54_mm
+type: socket

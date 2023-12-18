@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 0d5_ex_small
+directory: parts/oobb_part_shaft_0d5_ex_small
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5_ex_small
+id: oobb_part_shaft_0d5_ex_small
+id_no_class: part_shaft_0d5_ex_small
+id_no_color: 0d5exsmall
+id_no_size: 0d5_ex_small
+id_no_type: shaft_0d5_ex_small
+manufacturer: ''
+md5: 0f06d3f731499fc45da314e6a59bbefe
+md5_10: 0f06d3f731
+md5_10_upper: 0F06D3F731
+md5_5: 0f06d
+md5_5_upper: 0F06D
+md5_6: 0f06d3
+md5_6_alpha: l3v7
+md5_6_alpha_upper: L3V7
+md5_6_upper: 0F06D3
+name: Oobb Part Shaft 0D5 Ex Small
+name_no_class: Part Shaft 0D5 Ex Small
+name_no_color: 0D5Exsmall
+name_no_size: 0D5 Ex Small
+name_no_type: Shaft 0D5 Ex Small
+oomp_key: oomp_oobb_part_shaft_0d5_ex_small
+oomp_word: sparkles sleeping tomato
+oomp_word_emoji: ':sparkles: :sleeping: :tomato:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':sleeping:'
+- ':tomato:'
+oomp_word_list:
+- sparkles
+- sleeping
+- tomato
+part_number: ''
+size: shaft
+type: part

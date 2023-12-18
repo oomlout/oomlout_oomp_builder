@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_right_angle
+description_main: 12_pin
+directory: parts/electronic_header_2_54_mm_12_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole_right_angle
+id: electronic_header_2_54_mm_12_pin_through_hole_right_angle
+id_no_class: header_2_54_mm_12_pin_through_hole_right_angle
+id_no_color: 12pinthroughholerightangle
+id_no_size: 12_pin_through_hole_right_angle
+id_no_type: 2_54_mm_12_pin_through_hole_right_angle
+manufacturer: ''
+md5: 7af69c748d77b484113a1a662acd9c7d
+md5_10: 7af69c748d
+md5_10_upper: 7AF69C748D
+md5_5: 7af69
+md5_5_upper: 7AF69
+md5_6: 7af69c
+md5_6_alpha: 4spzw
+md5_6_alpha_upper: 4SPZW
+md5_6_upper: 7AF69C
+name: Electronic Header 2 54 Mm 12 Pin Through Hole Right Angle
+name_no_class: Header 2 54 Mm 12 Pin Through Hole Right Angle
+name_no_color: 12Pinthroughholerightangle
+name_no_size: 12 Pin Through Hole Right Angle
+name_no_type: 2 54 Mm 12 Pin Through Hole Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole_right_angle
+oomp_word: camera five spades
+oomp_word_emoji: ':camera: :five: :spades:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':five:'
+- ':spades:'
+oomp_word_list:
+- camera
+- five
+- spades
+part_number: ''
+size: 2_54_mm
+type: header

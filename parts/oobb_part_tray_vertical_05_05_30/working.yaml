@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '05_05_30'
+directory: parts/oobb_part_tray_vertical_05_05_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_05_30
+id: oobb_part_tray_vertical_05_05_30
+id_no_class: part_tray_vertical_05_05_30
+id_no_color: '050530'
+id_no_size: '05_05_30'
+id_no_type: tray_vertical_05_05_30
+manufacturer: ''
+md5: 6bc65893dc7c580b4219c681b3056dcf
+md5_10: 6bc65893dc
+md5_10_upper: 6BC65893DC
+md5_5: 6bc65
+md5_5_upper: 6BC65
+md5_6: 6bc658
+md5_6_alpha: 47dy0
+md5_6_alpha_upper: 47DY0
+md5_6_upper: 6BC658
+name: Oobb Part Tray Vertical 05 05 30
+name_no_class: Part Tray Vertical 05 05 30
+name_no_color: '050530'
+name_no_size: 05 05 30
+name_no_type: Tray Vertical 05 05 30
+oomp_key: oomp_oobb_part_tray_vertical_05_05_30
+oomp_word: chestnut lollipop water_buffalo
+oomp_word_emoji: ':chestnut: :lollipop: :water_buffalo:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':lollipop:'
+- ':water_buffalo:'
+oomp_word_list:
+- chestnut
+- lollipop
+- water_buffalo
+part_number: ''
+size: tray_vertical
+type: part

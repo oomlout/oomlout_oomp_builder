@@ -1,0 +1,40 @@
+classification: hardware
+color: 6821_size
+description_extra: ''
+description_main: 105_mm_id_130_mm_od_13_mm_depth
+directory: parts/hardware_bearing_6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+id: hardware_bearing_6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+id_no_class: bearing_6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+id_no_color: 105_mm_id_130_mm_od_13_mm_depth
+id_no_size: 6821_size_105_mm_id_130_mm_od_13_mm_depth
+id_no_type: 6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+manufacturer: ''
+md5: 8eb2aafbbdffe4bf0b77d0d931ff0689
+md5_10: 8eb2aafbbd
+md5_10_upper: 8EB2AAFBBD
+md5_5: 8eb2a
+md5_5_upper: 8EB2A
+md5_6: 8eb2aa
+md5_6_alpha: 5kfxm
+md5_6_alpha_upper: 5KFXM
+md5_6_upper: 8EB2AA
+name: Hardware Bearing 6800 Series 6821 Size 105 Mm Id 130 Mm Od 13 Mm Depth
+name_no_class: Bearing 6800 Series 6821 Size 105 Mm Id 130 Mm Od 13 Mm Depth
+name_no_color: 105 Mm Id 130 Mm Od 13 Mm Depth
+name_no_size: 6821 Size 105 Mm Id 130 Mm Od 13 Mm Depth
+name_no_type: 6800 Series 6821 Size 105 Mm Id 130 Mm Od 13 Mm Depth
+oomp_key: oomp_hardware_bearing_6800_series_6821_size_105_mm_id_130_mm_od_13_mm_depth
+oomp_word: clipboard handbag lipstick
+oomp_word_emoji: ':clipboard: :handbag: :lipstick:'
+oomp_word_emoji_list:
+- ':clipboard:'
+- ':handbag:'
+- ':lipstick:'
+oomp_word_list:
+- clipboard
+- handbag
+- lipstick
+part_number: ''
+size: 6800_series
+type: bearing

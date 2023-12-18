@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '14_01_09'
+directory: parts/oobb_part_plate_14_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_09
+id: oobb_part_plate_14_01_09
+id_no_class: part_plate_14_01_09
+id_no_color: '140109'
+id_no_size: '14_01_09'
+id_no_type: plate_14_01_09
+manufacturer: ''
+md5: 650dc55e3d9281e88d95e76a4fc4ac80
+md5_10: 650dc55e3d
+md5_10_upper: 650DC55E3D
+md5_5: 650dc
+md5_5_upper: 650DC
+md5_6: 650dc5
+md5_6_alpha: 3xy2t
+md5_6_alpha_upper: 3XY2T
+md5_6_upper: 650DC5
+name: Oobb Part Plate 14 01 09
+name_no_class: Part Plate 14 01 09
+name_no_color: '140109'
+name_no_size: 14 01 09
+name_no_type: Plate 14 01 09
+oomp_key: oomp_oobb_part_plate_14_01_09
+oomp_word: maple_leaf heart candy
+oomp_word_emoji: ':maple_leaf: :heart: :candy:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':heart:'
+- ':candy:'
+oomp_word_list:
+- maple_leaf
+- heart
+- candy
+part_number: ''
+size: plate
+type: part

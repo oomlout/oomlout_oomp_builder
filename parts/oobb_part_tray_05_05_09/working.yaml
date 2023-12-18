@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_09
+directory: parts/oobb_part_tray_05_05_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_05_09
+id: oobb_part_tray_05_05_09
+id_no_class: part_tray_05_05_09
+id_no_color: 050509
+id_no_size: 05_05_09
+id_no_type: tray_05_05_09
+manufacturer: ''
+md5: 9478e12e0733d87e92d6a62225624138
+md5_10: 9478e12e07
+md5_10_upper: 9478E12E07
+md5_5: 9478e
+md5_5_upper: 9478E
+md5_6: 9478e1
+md5_6_alpha: 5sjxd
+md5_6_alpha_upper: 5SJXD
+md5_6_upper: 9478E1
+name: Oobb Part Tray 05 05 09
+name_no_class: Part Tray 05 05 09
+name_no_color: 050509
+name_no_size: 05 05 09
+name_no_type: Tray 05 05 09
+oomp_key: oomp_oobb_part_tray_05_05_09
+oomp_word: microscope bell boat
+oomp_word_emoji: ':microscope: :bell: :boat:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':bell:'
+- ':boat:'
+oomp_word_list:
+- microscope
+- bell
+- boat
+part_number: ''
+size: tray
+type: part

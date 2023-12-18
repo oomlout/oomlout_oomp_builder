@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '13_01_06'
+directory: parts/oobb_part_plate_13_01_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_06
+id: oobb_part_plate_13_01_06
+id_no_class: part_plate_13_01_06
+id_no_color: '130106'
+id_no_size: '13_01_06'
+id_no_type: plate_13_01_06
+manufacturer: ''
+md5: 63a13252232ff81fdc928bd0cc77c35d
+md5_10: 63a1325223
+md5_10_upper: 63A1325223
+md5_5: 63a13
+md5_5_upper: 63A13
+md5_6: 63a132
+md5_6_alpha: 3vy2a
+md5_6_alpha_upper: 3VY2A
+md5_6_upper: 63A132
+name: Oobb Part Plate 13 01 06
+name_no_class: Part Plate 13 01 06
+name_no_color: '130106'
+name_no_size: 13 01 06
+name_no_type: Plate 13 01 06
+oomp_key: oomp_oobb_part_plate_13_01_06
+oomp_word: rose trophy cat
+oomp_word_emoji: ':rose: :trophy: :cat:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':trophy:'
+- ':cat:'
+oomp_word_list:
+- rose
+- trophy
+- cat
+part_number: ''
+size: plate
+type: part

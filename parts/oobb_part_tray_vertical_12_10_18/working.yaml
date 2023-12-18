@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_10_18'
+directory: parts/oobb_part_tray_vertical_12_10_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_10_18
+id: oobb_part_tray_vertical_12_10_18
+id_no_class: part_tray_vertical_12_10_18
+id_no_color: '121018'
+id_no_size: '12_10_18'
+id_no_type: tray_vertical_12_10_18
+manufacturer: ''
+md5: b359ae82e6744fdc7a9f242d38db077f
+md5_10: b359ae82e6
+md5_10_upper: B359AE82E6
+md5_5: b359a
+md5_5_upper: B359A
+md5_6: b359ae
+md5_6_alpha: 6zxda
+md5_6_alpha_upper: 6ZXDA
+md5_6_upper: B359AE
+name: Oobb Part Tray Vertical 12 10 18
+name_no_class: Part Tray Vertical 12 10 18
+name_no_color: '121018'
+name_no_size: 12 10 18
+name_no_type: Tray Vertical 12 10 18
+oomp_key: oomp_oobb_part_tray_vertical_12_10_18
+oomp_word: eyeglasses dragon jeans
+oomp_word_emoji: ':eyeglasses: :dragon: :jeans:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':dragon:'
+- ':jeans:'
+oomp_word_list:
+- eyeglasses
+- dragon
+- jeans
+part_number: ''
+size: tray_vertical
+type: part

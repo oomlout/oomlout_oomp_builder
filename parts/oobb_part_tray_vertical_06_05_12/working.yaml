@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_05_12'
+directory: parts/oobb_part_tray_vertical_06_05_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_12
+id: oobb_part_tray_vertical_06_05_12
+id_no_class: part_tray_vertical_06_05_12
+id_no_color: '060512'
+id_no_size: '06_05_12'
+id_no_type: tray_vertical_06_05_12
+manufacturer: ''
+md5: 1af5f4ac664d21e7d4bf2c371be7d5dd
+md5_10: 1af5f4ac66
+md5_10_upper: 1AF5F4AC66
+md5_5: 1af5f
+md5_5_upper: 1AF5F
+md5_6: 1af5f4
+md5_6_alpha: 11vck
+md5_6_alpha_upper: 11VCK
+md5_6_upper: 1AF5F4
+name: Oobb Part Tray Vertical 06 05 12
+name_no_class: Part Tray Vertical 06 05 12
+name_no_color: '060512'
+name_no_size: 06 05 12
+name_no_type: Tray Vertical 06 05 12
+oomp_key: oomp_oobb_part_tray_vertical_06_05_12
+oomp_word: clap four three
+oomp_word_emoji: ':clap: :four: :three:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':four:'
+- ':three:'
+oomp_word_list:
+- clap
+- four
+- three
+part_number: ''
+size: tray_vertical
+type: part

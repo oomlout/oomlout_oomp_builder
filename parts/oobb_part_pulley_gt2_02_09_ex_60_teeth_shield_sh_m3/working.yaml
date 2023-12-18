@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_09_ex_60_teeth_shield_sh_m3
+directory: parts/oobb_part_pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+id: oobb_part_pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+id_no_class: part_pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+id_no_color: 0209ex60teethshieldshm3
+id_no_size: 02_09_ex_60_teeth_shield_sh_m3
+id_no_type: pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+manufacturer: ''
+md5: 4ad2e4ec4b8130b05649f2389c1910c5
+md5_10: 4ad2e4ec4b
+md5_10_upper: 4AD2E4EC4B
+md5_5: 4ad2e
+md5_5_upper: 4AD2E
+md5_6: 4ad2e4
+md5_6_alpha: 2x3ok
+md5_6_alpha_upper: 2X3OK
+md5_6_upper: 4AD2E4
+name: Oobb Part Pulley Gt2 02 09 Ex 60 Teeth Shield Sh M3
+name_no_class: Part Pulley Gt2 02 09 Ex 60 Teeth Shield Sh M3
+name_no_color: 0209Ex60Teethshieldshm3
+name_no_size: 02 09 Ex 60 Teeth Shield Sh M3
+name_no_type: Pulley Gt2 02 09 Ex 60 Teeth Shield Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_02_09_ex_60_teeth_shield_sh_m3
+oomp_word: chicken pineapple anchor
+oomp_word_emoji: ':chicken: :pineapple: :anchor:'
+oomp_word_emoji_list:
+- ':chicken:'
+- ':pineapple:'
+- ':anchor:'
+oomp_word_list:
+- chicken
+- pineapple
+- anchor
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 24_pin
+directory: parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_24_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_24_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_24_pin_surface_mount_right_angle
+id_no_color: 24pinsurfacemountrightangle
+id_no_size: 24_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_24_pin_surface_mount_right_angle
+manufacturer: ''
+md5: cc1e0235ad166fa43059a17e8545fa14
+md5_10: cc1e0235ad
+md5_10_upper: CC1E0235AD
+md5_5: cc1e0
+md5_5_upper: CC1E0
+md5_6: cc1e02
+md5_6_alpha: 7yps2
+md5_6_alpha_upper: 7YPS2
+md5_6_upper: CC1E02
+name: Electronic Header 2 54 Mm 24 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 24 Pin Surface Mount Right Angle
+name_no_color: 24Pinsurfacemountrightangle
+name_no_size: 24 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 24 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_24_pin_surface_mount_right_angle
+oomp_word: watermelon angel blush
+oomp_word_emoji: ':watermelon: :angel: :blush:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':angel:'
+- ':blush:'
+oomp_word_list:
+- watermelon
+- angel
+- blush
+part_number: ''
+size: 2_54_mm
+type: header

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_03_03'
+directory: parts/oobb_part_plate_20_03_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_03_03
+id: oobb_part_plate_20_03_03
+id_no_class: part_plate_20_03_03
+id_no_color: '200303'
+id_no_size: '20_03_03'
+id_no_type: plate_20_03_03
+manufacturer: ''
+md5: b4bba3c4637522619aec9d676d016e4a
+md5_10: b4bba3c463
+md5_10_upper: B4BBA3C463
+md5_5: b4bba
+md5_5_upper: B4BBA
+md5_6: b4bba3
+md5_6_alpha: 71vab
+md5_6_alpha_upper: 71VAB
+md5_6_upper: B4BBA3
+name: Oobb Part Plate 20 03 03
+name_no_class: Part Plate 20 03 03
+name_no_color: '200303'
+name_no_size: 20 03 03
+name_no_type: Plate 20 03 03
+oomp_key: oomp_oobb_part_plate_20_03_03
+oomp_word: coffee curry pencil
+oomp_word_emoji: ':coffee: :curry: :pencil:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':curry:'
+- ':pencil:'
+oomp_word_list:
+- coffee
+- curry
+- pencil
+part_number: ''
+size: plate
+type: part

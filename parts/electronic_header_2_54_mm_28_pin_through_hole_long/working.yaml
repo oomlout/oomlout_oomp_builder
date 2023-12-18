@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 28_pin
+directory: parts/electronic_header_2_54_mm_28_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_28_pin_through_hole_long
+id: electronic_header_2_54_mm_28_pin_through_hole_long
+id_no_class: header_2_54_mm_28_pin_through_hole_long
+id_no_color: 28pinthroughholelong
+id_no_size: 28_pin_through_hole_long
+id_no_type: 2_54_mm_28_pin_through_hole_long
+manufacturer: ''
+md5: 0b5d21537e45f4fcde5430cda1df0940
+md5_10: 0b5d21537e
+md5_10_upper: 0B5D21537E
+md5_5: 0b5d2
+md5_5_upper: 0B5D2
+md5_6: 0b5d21
+md5_6_alpha: fyn5
+md5_6_alpha_upper: FYN5
+md5_6_upper: 0B5D21
+name: Electronic Header 2 54 Mm 28 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 28 Pin Through Hole Long
+name_no_color: 28Pinthroughholelong
+name_no_size: 28 Pin Through Hole Long
+name_no_type: 2 54 Mm 28 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_28_pin_through_hole_long
+oomp_word: sunglasses blowfish feet
+oomp_word_emoji: ':sunglasses: :blowfish: :feet:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':blowfish:'
+- ':feet:'
+oomp_word_list:
+- sunglasses
+- blowfish
+- feet
+part_number: ''
+size: 2_54_mm
+type: header

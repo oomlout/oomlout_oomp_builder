@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_06_ex_144_teeth_sh_motor_n20
+directory: parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+id: oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+id_no_color: 0606ex144teethshmotorn20
+id_no_size: 06_06_ex_144_teeth_sh_motor_n20
+id_no_type: pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+manufacturer: ''
+md5: c0c3f6ed011831045a7aa73fd7855047
+md5_10: c0c3f6ed01
+md5_10_upper: C0C3F6ED01
+md5_5: c0c3f
+md5_5_upper: C0C3F
+md5_6: c0c3f6
+md5_6_alpha: 7irqu
+md5_6_alpha_upper: 7IRQU
+md5_6_upper: C0C3F6
+name: Oobb Part Pulley Gt2 06 06 Ex 144 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 06 06 Ex 144 Teeth Sh Motor N20
+name_no_color: 0606Ex144Teethshmotorn20
+name_no_size: 06 06 Ex 144 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 06 06 Ex 144 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_06_06_ex_144_teeth_sh_motor_n20
+oomp_word: bread cake five
+oomp_word_emoji: ':bread: :cake: :five:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':cake:'
+- ':five:'
+oomp_word_list:
+- bread
+- cake
+- five
+part_number: ''
+size: pulley_gt2
+type: part

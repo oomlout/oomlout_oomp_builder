@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 2x12_24_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+id_no_color: 2x1224pinsurfacemountrightangle
+id_no_size: 2x12_24_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+manufacturer: ''
+md5: b4f92219f815bf8a2c0e7f74ff689718
+md5_10: b4f92219f8
+md5_10_upper: B4F92219F8
+md5_5: b4f92
+md5_5_upper: B4F92
+md5_6: b4f922
+md5_6_alpha: 727fm
+md5_6_alpha_upper: 727FM
+md5_6_upper: B4F922
+name: Electronic Header 2 54 Mm Dual Row 2X12 24 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm Dual Row 2X12 24 Pin Surface Mount Right Angle
+name_no_color: 2X1224Pinsurfacemountrightangle
+name_no_size: 2X12 24 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm Dual Row 2X12 24 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+oomp_word: coffee eight lips
+oomp_word_emoji: ':coffee: :eight: :lips:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':eight:'
+- ':lips:'
+oomp_word_list:
+- coffee
+- eight
+- lips
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

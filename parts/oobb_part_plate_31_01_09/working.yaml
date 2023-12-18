@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '31_01_09'
+directory: parts/oobb_part_plate_31_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_31_01_09
+id: oobb_part_plate_31_01_09
+id_no_class: part_plate_31_01_09
+id_no_color: '310109'
+id_no_size: '31_01_09'
+id_no_type: plate_31_01_09
+manufacturer: ''
+md5: a46ce2c819ae31973f0a643e4d5cb2fd
+md5_10: a46ce2c819
+md5_10_upper: A46CE2C819
+md5_5: a46ce
+md5_5_upper: A46CE
+md5_6: a46ce2
+md5_6_alpha: 6eyn6
+md5_6_alpha_upper: 6EYN6
+md5_6_upper: A46CE2
+name: Oobb Part Plate 31 01 09
+name_no_class: Part Plate 31 01 09
+name_no_color: '310109'
+name_no_size: 31 01 09
+name_no_type: Plate 31 01 09
+oomp_key: oomp_oobb_part_plate_31_01_09
+oomp_word: book blossom sailboat
+oomp_word_emoji: ':book: :blossom: :sailboat:'
+oomp_word_emoji_list:
+- ':book:'
+- ':blossom:'
+- ':sailboat:'
+oomp_word_list:
+- book
+- blossom
+- sailboat
+part_number: ''
+size: plate
+type: part

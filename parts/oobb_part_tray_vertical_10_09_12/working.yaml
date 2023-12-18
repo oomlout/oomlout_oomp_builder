@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_09_12'
+directory: parts/oobb_part_tray_vertical_10_09_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_09_12
+id: oobb_part_tray_vertical_10_09_12
+id_no_class: part_tray_vertical_10_09_12
+id_no_color: '100912'
+id_no_size: '10_09_12'
+id_no_type: tray_vertical_10_09_12
+manufacturer: ''
+md5: 10790a8237a5feb91387dea41d91a285
+md5_10: 10790a8237
+md5_10_upper: 10790A8237
+md5_5: '10790'
+md5_5_upper: '10790'
+md5_6: 10790a
+md5_6_alpha: n4zu
+md5_6_alpha_upper: N4ZU
+md5_6_upper: 10790A
+name: Oobb Part Tray Vertical 10 09 12
+name_no_class: Part Tray Vertical 10 09 12
+name_no_color: '100912'
+name_no_size: 10 09 12
+name_no_type: Tray Vertical 10 09 12
+oomp_key: oomp_oobb_part_tray_vertical_10_09_12
+oomp_word: star balloon sleepy
+oomp_word_emoji: ':star: :balloon: :sleepy:'
+oomp_word_emoji_list:
+- ':star:'
+- ':balloon:'
+- ':sleepy:'
+oomp_word_list:
+- star
+- balloon
+- sleepy
+part_number: ''
+size: tray_vertical
+type: part

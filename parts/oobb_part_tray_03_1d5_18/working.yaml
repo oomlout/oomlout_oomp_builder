@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_1d5_18
+directory: parts/oobb_part_tray_03_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_1d5_18
+id: oobb_part_tray_03_1d5_18
+id_no_class: part_tray_03_1d5_18
+id_no_color: 031d518
+id_no_size: 03_1d5_18
+id_no_type: tray_03_1d5_18
+manufacturer: ''
+md5: d78a4b0dfd07708c005b9f594a8e6ecb
+md5_10: d78a4b0dfd
+md5_10_upper: D78A4B0DFD
+md5_5: d78a4
+md5_5_upper: D78A4
+md5_6: d78a4b
+md5_6_alpha: 8erez
+md5_6_alpha_upper: 8EREZ
+md5_6_upper: D78A4B
+name: Oobb Part Tray 03 1D5 18
+name_no_class: Part Tray 03 1D5 18
+name_no_color: 031D518
+name_no_size: 03 1D5 18
+name_no_type: Tray 03 1D5 18
+oomp_key: oomp_oobb_part_tray_03_1d5_18
+oomp_word: office envelope penguin
+oomp_word_emoji: ':office: :envelope: :penguin:'
+oomp_word_emoji_list:
+- ':office:'
+- ':envelope:'
+- ':penguin:'
+oomp_word_list:
+- office
+- envelope
+- penguin
+part_number: ''
+size: tray
+type: part

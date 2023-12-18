@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 270000_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_270000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270000_ohm
+id: electronic_resistor_quarter_watt_through_hole_270000_ohm
+id_no_class: resistor_quarter_watt_through_hole_270000_ohm
+id_no_color: 270000ohm
+id_no_size: 270000_ohm
+id_no_type: quarter_watt_through_hole_270000_ohm
+manufacturer: ''
+md5: 46c0d3e7c7ee873b3392144939912e9b
+md5_10: 46c0d3e7c7
+md5_10_upper: 46C0D3E7C7
+md5_5: 46c0d
+md5_5_upper: 46C0D
+md5_6: 46c0d3
+md5_6_alpha: 2rdub
+md5_6_alpha_upper: 2RDUB
+md5_6_upper: 46C0D3
+name: Electronic Resistor Quarter Watt Through Hole 270000 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 270000 Ohm
+name_no_color: 270000Ohm
+name_no_size: 270000 Ohm
+name_no_type: Quarter Watt Through Hole 270000 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_270000_ohm
+oomp_word: bird bread tomato
+oomp_word_emoji: ':bird: :bread: :tomato:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':bread:'
+- ':tomato:'
+oomp_word_list:
+- bird
+- bread
+- tomato
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

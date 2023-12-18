@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 150_ohm
+directory: parts/electronic_resistor_1206_150_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_150_ohm
+id: electronic_resistor_1206_150_ohm
+id_no_class: resistor_1206_150_ohm
+id_no_color: 150ohm
+id_no_size: 150_ohm
+id_no_type: 1206_150_ohm
+manufacturer: ''
+md5: a0b855d42dbefe9c0782ad778c37dc59
+md5_10: a0b855d42d
+md5_10_upper: A0B855D42D
+md5_5: a0b85
+md5_5_upper: A0B85
+md5_6: a0b855
+md5_6_alpha: 69r9x
+md5_6_alpha_upper: 69R9X
+md5_6_upper: A0B855
+name: Electronic Resistor 1206 150 Ohm
+name_no_class: Resistor 1206 150 Ohm
+name_no_color: 150Ohm
+name_no_size: 150 Ohm
+name_no_type: 1206 150 Ohm
+oomp_key: oomp_electronic_resistor_1206_150_ohm
+oomp_word: ring hamburger dolphin
+oomp_word_emoji: ':ring: :hamburger: :dolphin:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':hamburger:'
+- ':dolphin:'
+oomp_word_list:
+- ring
+- hamburger
+- dolphin
+part_number: ''
+size: '1206'
+type: resistor

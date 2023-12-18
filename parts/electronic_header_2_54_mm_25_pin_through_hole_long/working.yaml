@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole_long
+description_main: 25_pin
+directory: parts/electronic_header_2_54_mm_25_pin_through_hole_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long
+id: electronic_header_2_54_mm_25_pin_through_hole_long
+id_no_class: header_2_54_mm_25_pin_through_hole_long
+id_no_color: 25pinthroughholelong
+id_no_size: 25_pin_through_hole_long
+id_no_type: 2_54_mm_25_pin_through_hole_long
+manufacturer: ''
+md5: b64876bb479a20aa9469d209ba0c2f91
+md5_10: b64876bb47
+md5_10_upper: B64876BB47
+md5_5: b6487
+md5_5_upper: B6487
+md5_6: b64876
+md5_6_alpha: 741o6
+md5_6_alpha_upper: 741O6
+md5_6_upper: B64876
+name: Electronic Header 2 54 Mm 25 Pin Through Hole Long
+name_no_class: Header 2 54 Mm 25 Pin Through Hole Long
+name_no_color: 25Pinthroughholelong
+name_no_size: 25 Pin Through Hole Long
+name_no_type: 2 54 Mm 25 Pin Through Hole Long
+oomp_key: oomp_electronic_header_2_54_mm_25_pin_through_hole_long
+oomp_word: beer hatched_chick santa
+oomp_word_emoji: ':beer: :hatched_chick: :santa:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':hatched_chick:'
+- ':santa:'
+oomp_word_list:
+- beer
+- hatched_chick
+- santa
+part_number: ''
+size: 2_54_mm
+type: header

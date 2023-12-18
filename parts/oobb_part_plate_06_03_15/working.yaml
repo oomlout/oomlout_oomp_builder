@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_03_15'
+directory: parts/oobb_part_plate_06_03_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_03_15
+id: oobb_part_plate_06_03_15
+id_no_class: part_plate_06_03_15
+id_no_color: '060315'
+id_no_size: '06_03_15'
+id_no_type: plate_06_03_15
+manufacturer: ''
+md5: ad61b936f9c410290b814e6abf541b14
+md5_10: ad61b936f9
+md5_10_upper: AD61B936F9
+md5_5: ad61b
+md5_5_upper: AD61B
+md5_6: ad61b9
+md5_6_alpha: 6rjjt
+md5_6_alpha_upper: 6RJJT
+md5_6_upper: AD61B9
+name: Oobb Part Plate 06 03 15
+name_no_class: Part Plate 06 03 15
+name_no_color: '060315'
+name_no_size: 06 03 15
+name_no_type: Plate 06 03 15
+oomp_key: oomp_oobb_part_plate_06_03_15
+oomp_word: dress bouquet fries
+oomp_word_emoji: ':dress: :bouquet: :fries:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':bouquet:'
+- ':fries:'
+oomp_word_list:
+- dress
+- bouquet
+- fries
+part_number: ''
+size: plate
+type: part

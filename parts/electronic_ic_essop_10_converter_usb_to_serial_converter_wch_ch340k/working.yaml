@@ -1,0 +1,40 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+id_no_class: ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+id_no_color: usb_to_serial_wch_ch340k
+id_no_size: converter_usb_to_serial_converter_wch_ch340k
+id_no_type: essop_10_converter_usb_to_serial_converter_wch_ch340k
+manufacturer: wch
+md5: c2a455d7f4d3be956b8a5b8101644d3d
+md5_10: c2a455d7f4
+md5_10_upper: C2A455D7F4
+md5_5: c2a45
+md5_5_upper: C2A45
+md5_6: c2a455
+md5_6_alpha: 7lemt
+md5_6_alpha_upper: 7LEMT
+md5_6_upper: C2A455
+name: Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K
+name_no_class: Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K
+name_no_color: Usb To Serial Wch Ch340K
+name_no_size: Converter Usb To Serial Converter Wch Ch340K
+name_no_type: Essop 10 Converter Usb To Serial Converter Wch Ch340K
+oomp_key: oomp_electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+oomp_word: birthday book dolphin
+oomp_word_emoji: ':birthday: :book: :dolphin:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':book:'
+- ':dolphin:'
+oomp_word_list:
+- birthday
+- book
+- dolphin
+part_number: ch340k
+size: essop_10
+type: ic

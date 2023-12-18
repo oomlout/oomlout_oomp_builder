@@ -1,0 +1,40 @@
+classification: hardware
+color: 6702_size
+description_extra: ''
+description_main: 15_mm_id_21_mm_od_4_mm_depth
+directory: parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+id: hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+id_no_class: bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+id_no_color: 15_mm_id_21_mm_od_4_mm_depth
+id_no_size: 6702_size_15_mm_id_21_mm_od_4_mm_depth
+id_no_type: 6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+manufacturer: ''
+md5: 28eef1c8dba70c432aafe4584fae71fc
+md5_10: 28eef1c8db
+md5_10_upper: 28EEF1C8DB
+md5_5: 28eef
+md5_5_upper: 28EEF
+md5_6: 28eef1
+md5_6_alpha: 1lhwx
+md5_6_alpha_upper: 1LHWX
+md5_6_upper: 28EEF1
+name: Hardware Bearing 6700 Series 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth
+name_no_class: Bearing 6700 Series 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth
+name_no_color: 15 Mm Id 21 Mm Od 4 Mm Depth
+name_no_size: 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth
+name_no_type: 6700 Series 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth
+oomp_key: oomp_hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+oomp_word: tongue ambulance ticket
+oomp_word_emoji: ':tongue: :ambulance: :ticket:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':ambulance:'
+- ':ticket:'
+oomp_word_list:
+- tongue
+- ambulance
+- ticket
+part_number: ''
+size: 6700_series
+type: bearing

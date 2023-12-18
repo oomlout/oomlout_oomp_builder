@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_02_18'
+directory: parts/oobb_part_tray_vertical_11_02_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_02_18
+id: oobb_part_tray_vertical_11_02_18
+id_no_class: part_tray_vertical_11_02_18
+id_no_color: '110218'
+id_no_size: '11_02_18'
+id_no_type: tray_vertical_11_02_18
+manufacturer: ''
+md5: 8d5beb107d1eb96c6d59a291ce46584b
+md5_10: 8d5beb107d
+md5_10_upper: 8D5BEB107D
+md5_5: 8d5be
+md5_5_upper: 8D5BE
+md5_6: 8d5beb
+md5_6_alpha: 5ik8b
+md5_6_alpha_upper: 5IK8B
+md5_6_upper: 8D5BEB
+name: Oobb Part Tray Vertical 11 02 18
+name_no_class: Part Tray Vertical 11 02 18
+name_no_color: '110218'
+name_no_size: 11 02 18
+name_no_type: Tray Vertical 11 02 18
+oomp_key: oomp_oobb_part_tray_vertical_11_02_18
+oomp_word: scroll rooster car
+oomp_word_emoji: ':scroll: :rooster: :car:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':rooster:'
+- ':car:'
+oomp_word_list:
+- scroll
+- rooster
+- car
+part_number: ''
+size: tray_vertical
+type: part

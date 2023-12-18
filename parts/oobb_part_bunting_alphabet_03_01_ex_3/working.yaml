@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_3
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_3
+id: oobb_part_bunting_alphabet_03_01_ex_3
+id_no_class: part_bunting_alphabet_03_01_ex_3
+id_no_color: 0301ex3
+id_no_size: 03_01_ex_3
+id_no_type: bunting_alphabet_03_01_ex_3
+manufacturer: ''
+md5: 4bb5fefc7aa499597dcd731684e7538a
+md5_10: 4bb5fefc7a
+md5_10_upper: 4BB5FEFC7A
+md5_5: 4bb5f
+md5_5_upper: 4BB5F
+md5_6: 4bb5fe
+md5_6_alpha: 2ycji
+md5_6_alpha_upper: 2YCJI
+md5_6_upper: 4BB5FE
+name: Oobb Part Bunting Alphabet 03 01 Ex 3
+name_no_class: Part Bunting Alphabet 03 01 Ex 3
+name_no_color: 0301Ex3
+name_no_size: 03 01 Ex 3
+name_no_type: Bunting Alphabet 03 01 Ex 3
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_3
+oomp_word: penguin tea recycle
+oomp_word_emoji: ':penguin: :tea: :recycle:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':tea:'
+- ':recycle:'
+oomp_word_list:
+- penguin
+- tea
+- recycle
+part_number: ''
+size: bunting_alphabet
+type: part

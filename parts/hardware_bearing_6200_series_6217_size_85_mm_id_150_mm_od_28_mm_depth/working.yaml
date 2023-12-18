@@ -1,0 +1,40 @@
+classification: hardware
+color: 6217_size
+description_extra: ''
+description_main: 85_mm_id_150_mm_od_28_mm_depth
+directory: parts/hardware_bearing_6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+id: hardware_bearing_6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+id_no_class: bearing_6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+id_no_color: 85_mm_id_150_mm_od_28_mm_depth
+id_no_size: 6217_size_85_mm_id_150_mm_od_28_mm_depth
+id_no_type: 6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+manufacturer: ''
+md5: df4aea7e88f239f347bcc44f20aba1ab
+md5_10: df4aea7e88
+md5_10_upper: DF4AEA7E88
+md5_5: df4ae
+md5_5_upper: DF4AE
+md5_6: df4aea
+md5_6_alpha: 8pnfu
+md5_6_alpha_upper: 8PNFU
+md5_6_upper: DF4AEA
+name: Hardware Bearing 6200 Series 6217 Size 85 Mm Id 150 Mm Od 28 Mm Depth
+name_no_class: Bearing 6200 Series 6217 Size 85 Mm Id 150 Mm Od 28 Mm Depth
+name_no_color: 85 Mm Id 150 Mm Od 28 Mm Depth
+name_no_size: 6217 Size 85 Mm Id 150 Mm Od 28 Mm Depth
+name_no_type: 6200 Series 6217 Size 85 Mm Id 150 Mm Od 28 Mm Depth
+oomp_key: oomp_hardware_bearing_6200_series_6217_size_85_mm_id_150_mm_od_28_mm_depth
+oomp_word: fountain chicken tractor
+oomp_word_emoji: ':fountain: :chicken: :tractor:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':chicken:'
+- ':tractor:'
+oomp_word_list:
+- fountain
+- chicken
+- tractor
+part_number: ''
+size: 6200_series
+type: bearing

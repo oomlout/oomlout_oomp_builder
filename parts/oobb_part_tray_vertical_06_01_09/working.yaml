@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 06_01_09
+directory: parts/oobb_part_tray_vertical_06_01_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_01_09
+id: oobb_part_tray_vertical_06_01_09
+id_no_class: part_tray_vertical_06_01_09
+id_no_color: 060109
+id_no_size: 06_01_09
+id_no_type: tray_vertical_06_01_09
+manufacturer: ''
+md5: 98552b58fb07bcfb719ac0a66a6c8b05
+md5_10: 98552b58fb
+md5_10_upper: 98552B58FB
+md5_5: '98552'
+md5_5_upper: '98552'
+md5_6: 98552b
+md5_6_alpha: 5xz57
+md5_6_alpha_upper: 5XZ57
+md5_6_upper: 98552B
+name: Oobb Part Tray Vertical 06 01 09
+name_no_class: Part Tray Vertical 06 01 09
+name_no_color: 060109
+name_no_size: 06 01 09
+name_no_type: Tray Vertical 06 01 09
+oomp_key: oomp_oobb_part_tray_vertical_06_01_09
+oomp_word: tennis dolphin cloud
+oomp_word_emoji: ':tennis: :dolphin: :cloud:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':dolphin:'
+- ':cloud:'
+oomp_word_list:
+- tennis
+- dolphin
+- cloud
+part_number: ''
+size: tray_vertical
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '20_01_03'
+directory: parts/oobb_part_plate_20_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_03
+id: oobb_part_plate_20_01_03
+id_no_class: part_plate_20_01_03
+id_no_color: '200103'
+id_no_size: '20_01_03'
+id_no_type: plate_20_01_03
+manufacturer: ''
+md5: dc3bff7fc2c7949a88954ec5cab1d288
+md5_10: dc3bff7fc2
+md5_10_upper: DC3BFF7FC2
+md5_5: dc3bf
+md5_5_upper: DC3BF
+md5_6: dc3bff
+md5_6_alpha: 8lcsf
+md5_6_alpha_upper: 8LCSF
+md5_6_upper: DC3BFF
+name: Oobb Part Plate 20 01 03
+name_no_class: Part Plate 20 01 03
+name_no_color: '200103'
+name_no_size: 20 01 03
+name_no_type: Plate 20 01 03
+oomp_key: oomp_oobb_part_plate_20_01_03
+oomp_word: factory bear trident
+oomp_word_emoji: ':factory: :bear: :trident:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':bear:'
+- ':trident:'
+oomp_word_list:
+- factory
+- bear
+- trident
+part_number: ''
+size: plate
+type: part

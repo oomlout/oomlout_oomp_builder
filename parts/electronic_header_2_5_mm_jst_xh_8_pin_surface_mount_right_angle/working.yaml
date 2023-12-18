@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 8_pin
+directory: parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+id: electronic_header_2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+id_no_class: header_2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+id_no_color: 8pinsurfacemountrightangle
+id_no_size: 8_pin_surface_mount_right_angle
+id_no_type: 2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+manufacturer: ''
+md5: 6ff7e35deefc121e595f37c30c98202c
+md5_10: 6ff7e35dee
+md5_10_upper: 6FF7E35DEE
+md5_5: 6ff7e
+md5_5_upper: 6FF7E
+md5_6: 6ff7e3
+md5_6_alpha: 4da03
+md5_6_alpha_upper: 4DA03
+md5_6_upper: 6FF7E3
+name: Electronic Header 2 5 Mm Jst Xh 8 Pin Surface Mount Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 8 Pin Surface Mount Right Angle
+name_no_color: 8Pinsurfacemountrightangle
+name_no_size: 8 Pin Surface Mount Right Angle
+name_no_type: 2 5 Mm Jst Xh 8 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_5_mm_jst_xh_8_pin_surface_mount_right_angle
+oomp_word: moon six rowboat
+oomp_word_emoji: ':moon: :six: :rowboat:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':six:'
+- ':rowboat:'
+oomp_word_list:
+- moon
+- six
+- rowboat
+part_number: ''
+size: 2_5_mm_jst_xh
+type: header

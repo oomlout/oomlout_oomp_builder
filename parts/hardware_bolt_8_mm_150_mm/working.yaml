@@ -1,47 +1,15 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 150_mm
-description_main_capital: 150 mm
-description_main_first_letter: '1'
-description_main_first_letter_upper: '1'
-description_main_upper: 150_MM
-description_only_numbers: '150'
-description_only_numbers_short: '150'
-description_or_color: '150'
-description_or_color_upper: '150'
 directory: parts/hardware_bolt_8_mm_150_mm
-distributors: []
-filter: ''
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_150_mm
 id: hardware_bolt_8_mm_150_mm
 id_no_class: bolt_8_mm_150_mm
 id_no_color: 150mm
 id_no_size: 150_mm
 id_no_type: 8_mm_150_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_bolt_8_mm_150_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_150_mm/working)<br>[b8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_150_mm/working)<br>[Hardware
-  Bolt 8 Mm 150 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_150_mm/working)<br><br>'
-markdown_short: '[hardware_bolt_8_mm_150_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_8_mm_150_mm/working)<br><br>'
 md5: da3be03ef52f8b1eb392bf804ec97dab
 md5_10: da3be03ef5
 md5_10_upper: DA3BE03EF5
@@ -55,17 +23,14 @@ name: Hardware Bolt 8 Mm 150 Mm
 name_no_class: Bolt 8 Mm 150 Mm
 name_no_color: 150Mm
 name_no_size: 150 Mm
-name_no_size_short: 150 Mm
 name_no_type: 8 Mm 150 Mm
 oomlout_bolt_color: ''
-oomlout_bolt_head_type: ''
-oomlout_bolt_head_type_diagram: head_type_diagram.svg
+oomlout_bolt_head_type: Bolt
 oomlout_bolt_length: 150 mm
 oomlout_bolt_length_no_unit: '150'
-oomlout_bolt_name: Bolt M8X150 mm  ()
+oomlout_bolt_name: Bolt M8X150 mm  (Bolt)
 oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
-oomlout_bolt_type_diagram_diagram: type_diagram.svg
 oomlout_short_code: b8m150
 oomlout_short_code_upper: B8M150
 oomp_key: oomp_hardware_bolt_8_mm_150_mm
@@ -80,21 +45,5 @@ oomp_word_list:
 - bear
 - ship
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: b8
-short_code_upper: B8
 size: 8_mm
-size_capital: 8 mm
-size_first_letter: '8'
-size_first_letter_upper: '8'
-size_only_numbers: '8'
-size_only_numbers_no_zeros: '8'
-size_upper: 8_MM
 type: bolt
-type_capital: Bolt
-type_first_letter: b
-type_first_letter_upper: B
-type_upper: BOLT

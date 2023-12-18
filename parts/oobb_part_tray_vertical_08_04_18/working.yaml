@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_04_18
+directory: parts/oobb_part_tray_vertical_08_04_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_04_18
+id: oobb_part_tray_vertical_08_04_18
+id_no_class: part_tray_vertical_08_04_18
+id_no_color: 080418
+id_no_size: 08_04_18
+id_no_type: tray_vertical_08_04_18
+manufacturer: ''
+md5: f239a7a46b2293f1baf1767740761f01
+md5_10: f239a7a46b
+md5_10_upper: F239A7A46B
+md5_5: f239a
+md5_5_upper: F239A
+md5_6: f239a7
+md5_6_alpha: 9g8tj
+md5_6_alpha_upper: 9G8TJ
+md5_6_upper: F239A7
+name: Oobb Part Tray Vertical 08 04 18
+name_no_class: Part Tray Vertical 08 04 18
+name_no_color: 080418
+name_no_size: 08 04 18
+name_no_type: Tray Vertical 08 04 18
+oomp_key: oomp_oobb_part_tray_vertical_08_04_18
+oomp_word: one tiger guitar
+oomp_word_emoji: ':one: :tiger: :guitar:'
+oomp_word_emoji_list:
+- ':one:'
+- ':tiger:'
+- ':guitar:'
+oomp_word_list:
+- one
+- tiger
+- guitar
+part_number: ''
+size: tray_vertical
+type: part

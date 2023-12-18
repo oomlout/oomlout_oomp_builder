@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 2x18_36_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole
+id: electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole
+id_no_class: header_2_54_mm_dual_row_2x18_36_pin_through_hole
+id_no_color: 2x1836pinthroughhole
+id_no_size: 2x18_36_pin_through_hole
+id_no_type: 2_54_mm_dual_row_2x18_36_pin_through_hole
+manufacturer: ''
+md5: e76ecae5e09658adfc0368ec1acdde7a
+md5_10: e76ecae5e0
+md5_10_upper: E76ECAE5E0
+md5_5: e76ec
+md5_5_upper: E76EC
+md5_6: e76eca
+md5_6_alpha: 9132i
+md5_6_alpha_upper: 9132I
+md5_6_upper: E76ECA
+name: Electronic Header 2 54 Mm Dual Row 2X18 36 Pin Through Hole
+name_no_class: Header 2 54 Mm Dual Row 2X18 36 Pin Through Hole
+name_no_color: 2X1836Pinthroughhole
+name_no_size: 2X18 36 Pin Through Hole
+name_no_type: 2 54 Mm Dual Row 2X18 36 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole
+oomp_word: helicopter new_moon cherries
+oomp_word_emoji: ':helicopter: :new_moon: :cherries:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':new_moon:'
+- ':cherries:'
+oomp_word_list:
+- helicopter
+- new_moon
+- cherries
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

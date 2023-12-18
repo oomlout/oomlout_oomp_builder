@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_02_03_ex_spacer_long
+directory: parts/oobb_part_wire_03_02_03_ex_spacer_long
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_03_ex_spacer_long
+id: oobb_part_wire_03_02_03_ex_spacer_long
+id_no_class: part_wire_03_02_03_ex_spacer_long
+id_no_color: 030203exspacerlong
+id_no_size: 03_02_03_ex_spacer_long
+id_no_type: wire_03_02_03_ex_spacer_long
+manufacturer: ''
+md5: 1a35ab4bb4a4e8d34af2be43b26803ec
+md5_10: 1a35ab4bb4
+md5_10_upper: 1A35AB4BB4
+md5_5: 1a35a
+md5_5_upper: 1A35A
+md5_6: 1a35ab
+md5_6_alpha: 10td7
+md5_6_alpha_upper: 10TD7
+md5_6_upper: 1A35AB
+name: Oobb Part Wire 03 02 03 Ex Spacer Long
+name_no_class: Part Wire 03 02 03 Ex Spacer Long
+name_no_color: 030203Exspacerlong
+name_no_size: 03 02 03 Ex Spacer Long
+name_no_type: Wire 03 02 03 Ex Spacer Long
+oomp_key: oomp_oobb_part_wire_03_02_03_ex_spacer_long
+oomp_word: clap hamster boot
+oomp_word_emoji: ':clap: :hamster: :boot:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':hamster:'
+- ':boot:'
+oomp_word_list:
+- clap
+- hamster
+- boot
+part_number: ''
+size: wire
+type: part

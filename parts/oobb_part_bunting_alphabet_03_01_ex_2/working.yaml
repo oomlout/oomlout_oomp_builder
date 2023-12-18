@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_2
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_2
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_2
+id: oobb_part_bunting_alphabet_03_01_ex_2
+id_no_class: part_bunting_alphabet_03_01_ex_2
+id_no_color: 0301ex2
+id_no_size: 03_01_ex_2
+id_no_type: bunting_alphabet_03_01_ex_2
+manufacturer: ''
+md5: 83aecefe518e48331f57cfcb4864dd7d
+md5_10: 83aecefe51
+md5_10_upper: 83AECEFE51
+md5_5: 83aec
+md5_5_upper: 83AEC
+md5_6: 83aece
+md5_6_alpha: 54yxa
+md5_6_alpha_upper: 54YXA
+md5_6_upper: 83AECE
+name: Oobb Part Bunting Alphabet 03 01 Ex 2
+name_no_class: Part Bunting Alphabet 03 01 Ex 2
+name_no_color: 0301Ex2
+name_no_size: 03 01 Ex 2
+name_no_type: Bunting Alphabet 03 01 Ex 2
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_2
+oomp_word: lock jeans peach
+oomp_word_emoji: ':lock: :jeans: :peach:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':jeans:'
+- ':peach:'
+oomp_word_list:
+- lock
+- jeans
+- peach
+part_number: ''
+size: bunting_alphabet
+type: part

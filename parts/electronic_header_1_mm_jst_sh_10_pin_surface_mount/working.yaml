@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 10_pin
+directory: parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_10_pin_surface_mount
+id: electronic_header_1_mm_jst_sh_10_pin_surface_mount
+id_no_class: header_1_mm_jst_sh_10_pin_surface_mount
+id_no_color: 10pinsurfacemount
+id_no_size: 10_pin_surface_mount
+id_no_type: 1_mm_jst_sh_10_pin_surface_mount
+manufacturer: ''
+md5: c55a433e60de35223d8099ac380205d3
+md5_10: c55a433e60
+md5_10_upper: C55A433E60
+md5_5: c55a4
+md5_5_upper: C55A4
+md5_6: c55a43
+md5_6_alpha: 7p7pf
+md5_6_alpha_upper: 7P7PF
+md5_6_upper: C55A43
+name: Electronic Header 1 Mm Jst Sh 10 Pin Surface Mount
+name_no_class: Header 1 Mm Jst Sh 10 Pin Surface Mount
+name_no_color: 10Pinsurfacemount
+name_no_size: 10 Pin Surface Mount
+name_no_type: 1 Mm Jst Sh 10 Pin Surface Mount
+oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount
+oomp_word: candy goat elephant
+oomp_word_emoji: ':candy: :goat: :elephant:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':goat:'
+- ':elephant:'
+oomp_word_list:
+- candy
+- goat
+- elephant
+part_number: ''
+size: 1_mm_jst_sh
+type: header

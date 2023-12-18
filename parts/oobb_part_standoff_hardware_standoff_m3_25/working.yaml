@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_25
+directory: parts/oobb_part_standoff_hardware_standoff_m3_25
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25
+id: oobb_part_standoff_hardware_standoff_m3_25
+id_no_class: part_standoff_hardware_standoff_m3_25
+id_no_color: hardwarem325
+id_no_size: hardware_m3_25
+id_no_type: standoff_hardware_standoff_m3_25
+manufacturer: ''
+md5: 9c7436dd675807d08d0e0a6c9aaee38f
+md5_10: 9c7436dd67
+md5_10_upper: 9C7436DD67
+md5_5: 9c743
+md5_5_upper: 9C743
+md5_6: 9c7436
+md5_6_alpha: 63rjq
+md5_6_alpha_upper: 63RJQ
+md5_6_upper: 9C7436
+name: Oobb Part Standoff Hardware Standoff M3 25
+name_no_class: Part Standoff Hardware Standoff M3 25
+name_no_color: Hardwarem325
+name_no_size: Hardware M3 25
+name_no_type: Standoff Hardware Standoff M3 25
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_25
+oomp_word: spades fireworks rabbit
+oomp_word_emoji: ':spades: :fireworks: :rabbit:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':fireworks:'
+- ':rabbit:'
+oomp_word_list:
+- spades
+- fireworks
+- rabbit
+part_number: ''
+size: standoff
+type: part

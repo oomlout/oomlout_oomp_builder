@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 33_pin
+directory: parts/electronic_header_2_54_mm_33_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_33_pin_surface_mount
+id: electronic_header_2_54_mm_33_pin_surface_mount
+id_no_class: header_2_54_mm_33_pin_surface_mount
+id_no_color: 33pinsurfacemount
+id_no_size: 33_pin_surface_mount
+id_no_type: 2_54_mm_33_pin_surface_mount
+manufacturer: ''
+md5: b3411fd0ad6dea86c1fddc241746a19e
+md5_10: b3411fd0ad
+md5_10_upper: B3411FD0AD
+md5_5: b3411
+md5_5_upper: B3411
+md5_6: b3411f
+md5_6_alpha: 6zsin
+md5_6_alpha_upper: 6ZSIN
+md5_6_upper: B3411F
+name: Electronic Header 2 54 Mm 33 Pin Surface Mount
+name_no_class: Header 2 54 Mm 33 Pin Surface Mount
+name_no_color: 33Pinsurfacemount
+name_no_size: 33 Pin Surface Mount
+name_no_type: 2 54 Mm 33 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_33_pin_surface_mount
+oomp_word: eyeglasses camel princess
+oomp_word_emoji: ':eyeglasses: :camel: :princess:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':camel:'
+- ':princess:'
+oomp_word_list:
+- eyeglasses
+- camel
+- princess
+part_number: ''
+size: 2_54_mm
+type: header

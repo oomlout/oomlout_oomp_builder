@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_1d5_18
+directory: parts/oobb_part_tray_thin_08_1d5_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_1d5_18
+id: oobb_part_tray_thin_08_1d5_18
+id_no_class: part_tray_thin_08_1d5_18
+id_no_color: 081d518
+id_no_size: 08_1d5_18
+id_no_type: tray_thin_08_1d5_18
+manufacturer: ''
+md5: 452119201f8ab2165fe9a0ae9788be6f
+md5_10: 452119201f
+md5_10_upper: 452119201F
+md5_5: '45211'
+md5_5_upper: '45211'
+md5_6: '452119'
+md5_6_alpha: 2p3q1
+md5_6_alpha_upper: 2P3Q1
+md5_6_upper: '452119'
+name: Oobb Part Tray Thin 08 1D5 18
+name_no_class: Part Tray Thin 08 1D5 18
+name_no_color: 081D518
+name_no_size: 08 1D5 18
+name_no_type: Tray Thin 08 1D5 18
+oomp_key: oomp_oobb_part_tray_thin_08_1d5_18
+oomp_word: snake feet pray
+oomp_word_emoji: ':snake: :feet: :pray:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':feet:'
+- ':pray:'
+oomp_word_list:
+- snake
+- feet
+- pray
+part_number: ''
+size: tray_thin
+type: part

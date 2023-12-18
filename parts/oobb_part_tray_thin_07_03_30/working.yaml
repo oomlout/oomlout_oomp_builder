@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '07_03_30'
+directory: parts/oobb_part_tray_thin_07_03_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_03_30
+id: oobb_part_tray_thin_07_03_30
+id_no_class: part_tray_thin_07_03_30
+id_no_color: '070330'
+id_no_size: '07_03_30'
+id_no_type: tray_thin_07_03_30
+manufacturer: ''
+md5: 2c27dc056204c61c045c90d4c323bc54
+md5_10: 2c27dc0562
+md5_10_upper: 2C27DC0562
+md5_5: 2c27d
+md5_5_upper: 2C27D
+md5_6: 2c27dc
+md5_6_alpha: 1q0v0
+md5_6_alpha_upper: 1Q0V0
+md5_6_upper: 2C27DC
+name: Oobb Part Tray Thin 07 03 30
+name_no_class: Part Tray Thin 07 03 30
+name_no_color: '070330'
+name_no_size: 07 03 30
+name_no_type: Tray Thin 07 03 30
+oomp_key: oomp_oobb_part_tray_thin_07_03_30
+oomp_word: snowflake nose factory
+oomp_word_emoji: ':snowflake: :nose: :factory:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':nose:'
+- ':factory:'
+oomp_word_list:
+- snowflake
+- nose
+- factory
+part_number: ''
+size: tray_thin
+type: part

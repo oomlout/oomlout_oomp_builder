@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+directory: parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+id: oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_color: 0109ex20teethshmotorgearmotorttmotor01
+id_no_size: 01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+md5: e21621c74c8836843e12fa44ea6f3402
+md5_10: e21621c74c
+md5_10_upper: E21621C74C
+md5_5: e2162
+md5_5_upper: E2162
+md5_6: e21621
+md5_6_alpha: 8tkpt
+md5_6_alpha_upper: 8TKPT
+md5_6_upper: E21621
+name: Oobb Part Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_color: 0109Ex20Teethshmotorgearmotorttmotor01
+name_no_size: 01 09 Ex 20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 09 Ex 20 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: sailboat thumbsup feet
+oomp_word_emoji: ':sailboat: :thumbsup: :feet:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':thumbsup:'
+- ':feet:'
+oomp_word_list:
+- sailboat
+- thumbsup
+- feet
+part_number: ''
+size: pulley_gt2
+type: part

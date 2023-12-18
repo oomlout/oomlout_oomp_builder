@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_01_ex_i
+directory: parts/oobb_part_bunting_alphabet_07_01_ex_i
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01_ex_i
+id: oobb_part_bunting_alphabet_07_01_ex_i
+id_no_class: part_bunting_alphabet_07_01_ex_i
+id_no_color: 0701exi
+id_no_size: 07_01_ex_i
+id_no_type: bunting_alphabet_07_01_ex_i
+manufacturer: ''
+md5: b07e0f1215dbcbc33938038d2774cbc5
+md5_10: b07e0f1215
+md5_10_upper: B07E0F1215
+md5_5: b07e0
+md5_5_upper: B07E0
+md5_6: b07e0f
+md5_6_alpha: 6vwun
+md5_6_alpha_upper: 6VWUN
+md5_6_upper: B07E0F
+name: Oobb Part Bunting Alphabet 07 01 Ex I
+name_no_class: Part Bunting Alphabet 07 01 Ex I
+name_no_color: 0701Exi
+name_no_size: 07 01 Ex I
+name_no_type: Bunting Alphabet 07 01 Ex I
+oomp_key: oomp_oobb_part_bunting_alphabet_07_01_ex_i
+oomp_word: crown fax sparkles
+oomp_word_emoji: ':crown: :fax: :sparkles:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':fax:'
+- ':sparkles:'
+oomp_word_list:
+- crown
+- fax
+- sparkles
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 02_01_14_ex_ninety_degree
+directory: parts/oobb_part_plate_02_01_14_ex_ninety_degree
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_01_14_ex_ninety_degree
+id: oobb_part_plate_02_01_14_ex_ninety_degree
+id_no_class: part_plate_02_01_14_ex_ninety_degree
+id_no_color: 020114exninetydegree
+id_no_size: 02_01_14_ex_ninety_degree
+id_no_type: plate_02_01_14_ex_ninety_degree
+manufacturer: ''
+md5: 23c01ac4c145979d49b93d0b64ec88cf
+md5_10: 23c01ac4c1
+md5_10_upper: 23C01AC4C1
+md5_5: 23c01
+md5_5_upper: 23C01
+md5_6: 23c01a
+md5_6_alpha: 1e7tm
+md5_6_alpha_upper: 1E7TM
+md5_6_upper: 23C01A
+name: Oobb Part Plate 02 01 14 Ex Ninety Degree
+name_no_class: Part Plate 02 01 14 Ex Ninety Degree
+name_no_color: 020114Exninetydegree
+name_no_size: 02 01 14 Ex Ninety Degree
+name_no_type: Plate 02 01 14 Ex Ninety Degree
+oomp_key: oomp_oobb_part_plate_02_01_14_ex_ninety_degree
+oomp_word: kiss bread clap
+oomp_word_emoji: ':kiss: :bread: :clap:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':bread:'
+- ':clap:'
+oomp_word_list:
+- kiss
+- bread
+- clap
+part_number: ''
+size: plate
+type: part

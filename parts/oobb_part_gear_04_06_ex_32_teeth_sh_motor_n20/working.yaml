@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 04_06_ex_32_teeth_sh_motor_n20
+directory: parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_n20
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_n20
+id: oobb_part_gear_04_06_ex_32_teeth_sh_motor_n20
+id_no_class: part_gear_04_06_ex_32_teeth_sh_motor_n20
+id_no_color: 0406ex32teethshmotorn20
+id_no_size: 04_06_ex_32_teeth_sh_motor_n20
+id_no_type: gear_04_06_ex_32_teeth_sh_motor_n20
+manufacturer: ''
+md5: 2dde874345ae4561eea24d7f1e5f1f67
+md5_10: 2dde874345
+md5_10_upper: 2DDE874345
+md5_5: 2dde8
+md5_5_upper: 2DDE8
+md5_6: 2dde87
+md5_6_alpha: 1sfif
+md5_6_alpha_upper: 1SFIF
+md5_6_upper: 2DDE87
+name: Oobb Part Gear 04 06 Ex 32 Teeth Sh Motor N20
+name_no_class: Part Gear 04 06 Ex 32 Teeth Sh Motor N20
+name_no_color: 0406Ex32Teethshmotorn20
+name_no_size: 04 06 Ex 32 Teeth Sh Motor N20
+name_no_type: Gear 04 06 Ex 32 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_gear_04_06_ex_32_teeth_sh_motor_n20
+oomp_word: snowman rainbow toilet
+oomp_word_emoji: ':snowman: :rainbow: :toilet:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':rainbow:'
+- ':toilet:'
+oomp_word_list:
+- snowman
+- rainbow
+- toilet
+part_number: ''
+size: gear
+type: part

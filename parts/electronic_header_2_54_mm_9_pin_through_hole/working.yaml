@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: through_hole
+description_main: 9_pin
+directory: parts/electronic_header_2_54_mm_9_pin_through_hole
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_9_pin_through_hole
+id: electronic_header_2_54_mm_9_pin_through_hole
+id_no_class: header_2_54_mm_9_pin_through_hole
+id_no_color: 9pinthroughhole
+id_no_size: 9_pin_through_hole
+id_no_type: 2_54_mm_9_pin_through_hole
+manufacturer: ''
+md5: d75d00756296d84961d38ee0ffa59247
+md5_10: d75d007562
+md5_10_upper: D75D007562
+md5_5: d75d0
+md5_5_upper: D75D0
+md5_6: d75d00
+md5_6_alpha: 8eigw
+md5_6_alpha_upper: 8EIGW
+md5_6_upper: D75D00
+name: Electronic Header 2 54 Mm 9 Pin Through Hole
+name_no_class: Header 2 54 Mm 9 Pin Through Hole
+name_no_color: 9Pinthroughhole
+name_no_size: 9 Pin Through Hole
+name_no_type: 2 54 Mm 9 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_9_pin_through_hole
+oomp_word: office blowfish bowtie
+oomp_word_emoji: ':office: :blowfish: :bowtie:'
+oomp_word_emoji_list:
+- ':office:'
+- ':blowfish:'
+- ':bowtie:'
+oomp_word_list:
+- office
+- blowfish
+- bowtie
+part_number: ''
+size: 2_54_mm
+type: header

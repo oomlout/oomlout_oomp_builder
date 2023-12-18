@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_30'
+directory: parts/oobb_part_tray_thin_12_04_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_04_30
+id: oobb_part_tray_thin_12_04_30
+id_no_class: part_tray_thin_12_04_30
+id_no_color: '120430'
+id_no_size: '12_04_30'
+id_no_type: tray_thin_12_04_30
+manufacturer: ''
+md5: 841210a2e1ce84414bf8b59fee9b2c75
+md5_10: 841210a2e1
+md5_10_upper: 841210A2E1
+md5_5: '84121'
+md5_5_upper: '84121'
+md5_6: '841210'
+md5_6_alpha: 55ij4
+md5_6_alpha_upper: 55IJ4
+md5_6_upper: '841210'
+name: Oobb Part Tray Thin 12 04 30
+name_no_class: Part Tray Thin 12 04 30
+name_no_color: '120430'
+name_no_size: 12 04 30
+name_no_type: Tray Thin 12 04 30
+oomp_key: oomp_oobb_part_tray_thin_12_04_30
+oomp_word: key anger star
+oomp_word_emoji: ':key: :anger: :star:'
+oomp_word_emoji_list:
+- ':key:'
+- ':anger:'
+- ':star:'
+oomp_word_list:
+- key
+- anger
+- star
+part_number: ''
+size: tray_thin
+type: part

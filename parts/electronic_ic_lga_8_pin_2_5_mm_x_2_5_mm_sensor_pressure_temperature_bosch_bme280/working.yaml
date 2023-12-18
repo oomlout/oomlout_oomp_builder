@@ -1,0 +1,40 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: pressure_temperature
+directory: parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+id: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+id_no_class: ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+id_no_color: pressure_temperature_bosch_bme280
+id_no_size: sensor_pressure_temperature_bosch_bme280
+id_no_type: lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+manufacturer: bosch
+md5: 3c6ed67a4183fc399c7d42cffc5f1f81
+md5_10: 3c6ed67a41
+md5_10_upper: 3C6ED67A41
+md5_5: 3c6ed
+md5_5_upper: 3C6ED
+md5_6: 3c6ed6
+md5_6_alpha: 2cvyu
+md5_6_alpha_upper: 2CVYU
+md5_6_upper: 3C6ED6
+name: Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280
+name_no_class: Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280
+name_no_color: Pressure Temperature Bosch Bme280
+name_no_size: Sensor Pressure Temperature Bosch Bme280
+name_no_type: Lga 8 Pin 2 5 Mm X 2 5 Mm Sensor Pressure Temperature Bosch Bme280
+oomp_key: oomp_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
+oomp_word: pig new_moon school
+oomp_word_emoji: ':pig: :new_moon: :school:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':new_moon:'
+- ':school:'
+oomp_word_list:
+- pig
+- new_moon
+- school
+part_number: bme280
+size: lga_8_pin_2_5_mm_x_2_5_mm
+type: ic

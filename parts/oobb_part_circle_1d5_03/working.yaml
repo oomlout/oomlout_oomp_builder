@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_03
+directory: parts/oobb_part_circle_1d5_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_1d5_03
+id: oobb_part_circle_1d5_03
+id_no_class: part_circle_1d5_03
+id_no_color: 1d503
+id_no_size: 1d5_03
+id_no_type: circle_1d5_03
+manufacturer: ''
+md5: 171ff2c9e65ff0344857efeaff8748bb
+md5_10: 171ff2c9e6
+md5_10_upper: 171FF2C9E6
+md5_5: 171ff
+md5_5_upper: 171FF
+md5_6: 171ff2
+md5_6_alpha: whde
+md5_6_alpha_upper: WHDE
+md5_6_upper: 171FF2
+name: Oobb Part Circle 1D5 03
+name_no_class: Part Circle 1D5 03
+name_no_color: 1D503
+name_no_size: 1D5 03
+name_no_type: Circle 1D5 03
+oomp_key: oomp_oobb_part_circle_1d5_03
+oomp_word: thumbsdown princess one
+oomp_word_emoji: ':thumbsdown: :princess: :one:'
+oomp_word_emoji_list:
+- ':thumbsdown:'
+- ':princess:'
+- ':one:'
+oomp_word_list:
+- thumbsdown
+- princess
+- one
+part_number: ''
+size: circle
+type: part

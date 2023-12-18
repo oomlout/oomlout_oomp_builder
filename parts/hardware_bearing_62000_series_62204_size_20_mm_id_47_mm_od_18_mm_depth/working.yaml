@@ -1,0 +1,40 @@
+classification: hardware
+color: 62204_size
+description_extra: ''
+description_main: 20_mm_id_47_mm_od_18_mm_depth
+directory: parts/hardware_bearing_62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+id: hardware_bearing_62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+id_no_class: bearing_62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+id_no_color: 20_mm_id_47_mm_od_18_mm_depth
+id_no_size: 62204_size_20_mm_id_47_mm_od_18_mm_depth
+id_no_type: 62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+manufacturer: ''
+md5: 5fcba5c7a8384f8ffa5cc563fd7a3e29
+md5_10: 5fcba5c7a8
+md5_10_upper: 5FCBA5C7A8
+md5_5: 5fcba
+md5_5_upper: 5FCBA
+md5_6: 5fcba5
+md5_6_alpha: 3qk6d
+md5_6_alpha_upper: 3QK6D
+md5_6_upper: 5FCBA5
+name: Hardware Bearing 62000 Series 62204 Size 20 Mm Id 47 Mm Od 18 Mm Depth
+name_no_class: Bearing 62000 Series 62204 Size 20 Mm Id 47 Mm Od 18 Mm Depth
+name_no_color: 20 Mm Id 47 Mm Od 18 Mm Depth
+name_no_size: 62204 Size 20 Mm Id 47 Mm Od 18 Mm Depth
+name_no_type: 62000 Series 62204 Size 20 Mm Id 47 Mm Od 18 Mm Depth
+oomp_key: oomp_hardware_bearing_62000_series_62204_size_20_mm_id_47_mm_od_18_mm_depth
+oomp_word: leopard grapes headphones
+oomp_word_emoji: ':leopard: :grapes: :headphones:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':grapes:'
+- ':headphones:'
+oomp_word_list:
+- leopard
+- grapes
+- headphones
+part_number: ''
+size: 62000_series
+type: bearing

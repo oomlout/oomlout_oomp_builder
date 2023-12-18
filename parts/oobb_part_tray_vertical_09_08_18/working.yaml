@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_08_18
+directory: parts/oobb_part_tray_vertical_09_08_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_08_18
+id: oobb_part_tray_vertical_09_08_18
+id_no_class: part_tray_vertical_09_08_18
+id_no_color: 090818
+id_no_size: 09_08_18
+id_no_type: tray_vertical_09_08_18
+manufacturer: ''
+md5: 96c7dce92375f439bce27d524d31f763
+md5_10: 96c7dce923
+md5_10_upper: 96C7DCE923
+md5_5: 96c7d
+md5_5_upper: 96C7D
+md5_6: 96c7dc
+md5_6_alpha: 5vsnw
+md5_6_alpha_upper: 5VSNW
+md5_6_upper: 96C7DC
+name: Oobb Part Tray Vertical 09 08 18
+name_no_class: Part Tray Vertical 09 08 18
+name_no_color: 090818
+name_no_size: 09 08 18
+name_no_type: Tray Vertical 09 08 18
+oomp_key: oomp_oobb_part_tray_vertical_09_08_18
+oomp_word: basketball honey_pot factory
+oomp_word_emoji: ':basketball: :honey_pot: :factory:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':honey_pot:'
+- ':factory:'
+oomp_word_list:
+- basketball
+- honey_pot
+- factory
+part_number: ''
+size: tray_vertical
+type: part

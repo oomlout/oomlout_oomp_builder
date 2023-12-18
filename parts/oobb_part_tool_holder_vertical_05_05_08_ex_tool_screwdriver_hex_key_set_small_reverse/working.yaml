@@ -1,0 +1,43 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+directory: parts/oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+id: oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+id_no_class: part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+id_no_color: 050508extoolscrewdriverhexkeysetsmallreverse
+id_no_size: 05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+id_no_type: tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+manufacturer: ''
+md5: bd53f261c0a550914ca6a1afe9173fad
+md5_10: bd53f261c0
+md5_10_upper: BD53F261C0
+md5_5: bd53f
+md5_5_upper: BD53F
+md5_6: bd53f2
+md5_6_alpha: 7dxwy
+md5_6_alpha_upper: 7DXWY
+md5_6_upper: BD53F2
+name: Oobb Part Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+  Reverse
+name_no_class: Part Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set
+  Small Reverse
+name_no_color: 050508Extoolscrewdriverhexkeysetsmallreverse
+name_no_size: 05 05 08 Ex Tool Screwdriver Hex Key Set Small Reverse
+name_no_type: Tool Holder Vertical 05 05 08 Ex Tool Screwdriver Hex Key Set Small
+  Reverse
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_08_ex_tool_screwdriver_hex_key_set_small_reverse
+oomp_word: rice fish one
+oomp_word_emoji: ':rice: :fish: :one:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':fish:'
+- ':one:'
+oomp_word_list:
+- rice
+- fish
+- one
+part_number: ''
+size: tool_holder_vertical
+type: part

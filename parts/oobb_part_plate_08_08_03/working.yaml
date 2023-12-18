@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 08_08_03
+directory: parts/oobb_part_plate_08_08_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_08_03
+id: oobb_part_plate_08_08_03
+id_no_class: part_plate_08_08_03
+id_no_color: 080803
+id_no_size: 08_08_03
+id_no_type: plate_08_08_03
+manufacturer: ''
+md5: 8a556990beee02f66177baa0ba0e3c62
+md5_10: 8a556990be
+md5_10_upper: 8A556990BE
+md5_5: 8a556
+md5_5_upper: 8A556
+md5_6: 8a5569
+md5_6_alpha: 5eb8p
+md5_6_alpha_upper: 5EB8P
+md5_6_upper: 8A5569
+name: Oobb Part Plate 08 08 03
+name_no_class: Part Plate 08 08 03
+name_no_color: 080803
+name_no_size: 08 08 03
+name_no_type: Plate 08 08 03
+oomp_key: oomp_oobb_part_plate_08_08_03
+oomp_word: envelope dolphin cactus
+oomp_word_emoji: ':envelope: :dolphin: :cactus:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':dolphin:'
+- ':cactus:'
+oomp_word_list:
+- envelope
+- dolphin
+- cactus
+part_number: ''
+size: plate
+type: part

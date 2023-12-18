@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount
+description_main: 2x11_22_pin
+directory: parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount
+id: electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount
+id_no_class: header_2_54_mm_dual_row_2x11_22_pin_surface_mount
+id_no_color: 2x1122pinsurfacemount
+id_no_size: 2x11_22_pin_surface_mount
+id_no_type: 2_54_mm_dual_row_2x11_22_pin_surface_mount
+manufacturer: ''
+md5: e3919493629b2a187483ad793d60c6a9
+md5_10: e391949362
+md5_10_upper: E391949362
+md5_5: e3919
+md5_5_upper: E3919
+md5_6: e39194
+md5_6_alpha: 8vno4
+md5_6_alpha_upper: 8VNO4
+md5_6_upper: E39194
+name: Electronic Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount
+name_no_class: Header 2 54 Mm Dual Row 2X11 22 Pin Surface Mount
+name_no_color: 2X1122Pinsurfacemount
+name_no_size: 2X11 22 Pin Surface Mount
+name_no_type: 2 54 Mm Dual Row 2X11 22 Pin Surface Mount
+oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x11_22_pin_surface_mount
+oomp_word: rowboat pushpin microscope
+oomp_word_emoji: ':rowboat: :pushpin: :microscope:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':pushpin:'
+- ':microscope:'
+oomp_word_list:
+- rowboat
+- pushpin
+- microscope
+part_number: ''
+size: 2_54_mm_dual_row
+type: header

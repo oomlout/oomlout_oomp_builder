@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 3300000_ohm
+directory: parts/electronic_resistor_0201_3300000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_3300000_ohm
+id: electronic_resistor_0201_3300000_ohm
+id_no_class: resistor_0201_3300000_ohm
+id_no_color: 3300000ohm
+id_no_size: 3300000_ohm
+id_no_type: 0201_3300000_ohm
+manufacturer: ''
+md5: 16b8f851baf2a21299ea2fbff90e2068
+md5_10: 16b8f851ba
+md5_10_upper: 16B8F851BA
+md5_5: 16b8f
+md5_5_upper: 16B8F
+md5_6: 16b8f8
+md5_6_alpha: vx14
+md5_6_alpha_upper: VX14
+md5_6_upper: 16B8F8
+name: Electronic Resistor 0201 3300000 Ohm
+name_no_class: Resistor 0201 3300000 Ohm
+name_no_color: 3300000Ohm
+name_no_size: 3300000 Ohm
+name_no_type: 0201 3300000 Ohm
+oomp_key: oomp_electronic_resistor_0201_3300000_ohm
+oomp_word: thumbsup hamburger seven
+oomp_word_emoji: ':thumbsup: :hamburger: :seven:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':hamburger:'
+- ':seven:'
+oomp_word_list:
+- thumbsup
+- hamburger
+- seven
+part_number: ''
+size: '0201'
+type: resistor

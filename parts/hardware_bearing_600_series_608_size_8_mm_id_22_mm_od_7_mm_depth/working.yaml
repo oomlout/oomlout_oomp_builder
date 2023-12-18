@@ -1,0 +1,40 @@
+classification: hardware
+color: 608_size
+description_extra: ''
+description_main: 8_mm_id_22_mm_od_7_mm_depth
+directory: parts/hardware_bearing_600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+id: hardware_bearing_600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+id_no_class: bearing_600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+id_no_color: 8_mm_id_22_mm_od_7_mm_depth
+id_no_size: 608_size_8_mm_id_22_mm_od_7_mm_depth
+id_no_type: 600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+manufacturer: ''
+md5: 242829ad58331ef00619ca18af30cab3
+md5_10: 242829ad58
+md5_10_upper: 242829AD58
+md5_5: '24282'
+md5_5_upper: '24282'
+md5_6: '242829'
+md5_6_alpha: 1esdl
+md5_6_alpha_upper: 1ESDL
+md5_6_upper: '242829'
+name: Hardware Bearing 600 Series 608 Size 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_class: Bearing 600 Series 608 Size 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_color: 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_size: 608 Size 8 Mm Id 22 Mm Od 7 Mm Depth
+name_no_type: 600 Series 608 Size 8 Mm Id 22 Mm Od 7 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_608_size_8_mm_id_22_mm_od_7_mm_depth
+oomp_word: droplet tongue sunny
+oomp_word_emoji: ':droplet: :tongue: :sunny:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':tongue:'
+- ':sunny:'
+oomp_word_list:
+- droplet
+- tongue
+- sunny
+part_number: ''
+size: 600_series
+type: bearing

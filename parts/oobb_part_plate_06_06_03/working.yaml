@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '06_06_03'
+directory: parts/oobb_part_plate_06_06_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_06_06_03
+id: oobb_part_plate_06_06_03
+id_no_class: part_plate_06_06_03
+id_no_color: '060603'
+id_no_size: '06_06_03'
+id_no_type: plate_06_06_03
+manufacturer: ''
+md5: f2ab055ca0800a7e9820696a6e091471
+md5_10: f2ab055ca0
+md5_10_upper: F2AB055CA0
+md5_5: f2ab0
+md5_5_upper: F2AB0
+md5_6: f2ab05
+md5_6_alpha: 9gv7p
+md5_6_alpha_upper: 9GV7P
+md5_6_upper: F2AB05
+name: Oobb Part Plate 06 06 03
+name_no_class: Part Plate 06 06 03
+name_no_color: '060603'
+name_no_size: 06 06 03
+name_no_type: Plate 06 06 03
+oomp_key: oomp_oobb_part_plate_06_06_03
+oomp_word: one boot kissing
+oomp_word_emoji: ':one: :boot: :kissing:'
+oomp_word_emoji_list:
+- ':one:'
+- ':boot:'
+- ':kissing:'
+oomp_word_list:
+- one
+- boot
+- kissing
+part_number: ''
+size: plate
+type: part

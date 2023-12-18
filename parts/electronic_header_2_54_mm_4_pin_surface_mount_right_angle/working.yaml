@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: surface_mount_right_angle
+description_main: 4_pin
+directory: parts/electronic_header_2_54_mm_4_pin_surface_mount_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_4_pin_surface_mount_right_angle
+id: electronic_header_2_54_mm_4_pin_surface_mount_right_angle
+id_no_class: header_2_54_mm_4_pin_surface_mount_right_angle
+id_no_color: 4pinsurfacemountrightangle
+id_no_size: 4_pin_surface_mount_right_angle
+id_no_type: 2_54_mm_4_pin_surface_mount_right_angle
+manufacturer: ''
+md5: f13295d51b9b49404075f99162273c17
+md5_10: f13295d51b
+md5_10_upper: F13295D51B
+md5_5: f1329
+md5_5_upper: F1329
+md5_6: f13295
+md5_6_alpha: 9esut
+md5_6_alpha_upper: 9ESUT
+md5_6_upper: F13295
+name: Electronic Header 2 54 Mm 4 Pin Surface Mount Right Angle
+name_no_class: Header 2 54 Mm 4 Pin Surface Mount Right Angle
+name_no_color: 4Pinsurfacemountrightangle
+name_no_size: 4 Pin Surface Mount Right Angle
+name_no_type: 2 54 Mm 4 Pin Surface Mount Right Angle
+oomp_key: oomp_electronic_header_2_54_mm_4_pin_surface_mount_right_angle
+oomp_word: ticket cat telescope
+oomp_word_emoji: ':ticket: :cat: :telescope:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':cat:'
+- ':telescope:'
+oomp_word_list:
+- ticket
+- cat
+- telescope
+part_number: ''
+size: 2_54_mm
+type: header

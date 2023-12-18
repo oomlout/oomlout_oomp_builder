@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_09_18
+directory: parts/oobb_part_tray_vertical_09_09_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_09_09_18
+id: oobb_part_tray_vertical_09_09_18
+id_no_class: part_tray_vertical_09_09_18
+id_no_color: 090918
+id_no_size: 09_09_18
+id_no_type: tray_vertical_09_09_18
+manufacturer: ''
+md5: 53c6b6d62f7ee10f52c83f5f089c8a4a
+md5_10: 53c6b6d62f
+md5_10_upper: 53C6B6D62F
+md5_5: 53c6b
+md5_5_upper: 53C6B
+md5_6: 53c6b6
+md5_6_alpha: 39ody
+md5_6_alpha_upper: 39ODY
+md5_6_upper: 53C6B6
+name: Oobb Part Tray Vertical 09 09 18
+name_no_class: Part Tray Vertical 09 09 18
+name_no_color: 090918
+name_no_size: 09 09 18
+name_no_type: Tray Vertical 09 09 18
+oomp_key: oomp_oobb_part_tray_vertical_09_09_18
+oomp_word: fish lollipop beer
+oomp_word_emoji: ':fish: :lollipop: :beer:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':lollipop:'
+- ':beer:'
+oomp_word_list:
+- fish
+- lollipop
+- beer
+part_number: ''
+size: tray_vertical
+type: part

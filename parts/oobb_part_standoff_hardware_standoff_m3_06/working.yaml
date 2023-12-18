@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_standoff_m3_06
+directory: parts/oobb_part_standoff_hardware_standoff_m3_06
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_06
+id: oobb_part_standoff_hardware_standoff_m3_06
+id_no_class: part_standoff_hardware_standoff_m3_06
+id_no_color: hardwarem306
+id_no_size: hardware_m3_06
+id_no_type: standoff_hardware_standoff_m3_06
+manufacturer: ''
+md5: 47ba6d786162bffef2c8093a70aaafa2
+md5_10: 47ba6d7861
+md5_10_upper: 47BA6D7861
+md5_5: 47ba6
+md5_5_upper: 47BA6
+md5_6: 47ba6d
+md5_6_alpha: 2sr59
+md5_6_alpha_upper: 2SR59
+md5_6_upper: 47BA6D
+name: Oobb Part Standoff Hardware Standoff M3 06
+name_no_class: Part Standoff Hardware Standoff M3 06
+name_no_color: Hardwarem306
+name_no_size: Hardware M3 06
+name_no_type: Standoff Hardware Standoff M3 06
+oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_06
+oomp_word: baby_chick spaghetti shell
+oomp_word_emoji: ':baby_chick: :spaghetti: :shell:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':spaghetti:'
+- ':shell:'
+oomp_word_list:
+- baby_chick
+- spaghetti
+- shell
+part_number: ''
+size: standoff
+type: part

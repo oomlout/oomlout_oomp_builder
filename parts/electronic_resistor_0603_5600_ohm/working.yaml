@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600_ohm
+directory: parts/electronic_resistor_0603_5600_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600_ohm
+id: electronic_resistor_0603_5600_ohm
+id_no_class: resistor_0603_5600_ohm
+id_no_color: 5600ohm
+id_no_size: 5600_ohm
+id_no_type: 0603_5600_ohm
+manufacturer: ''
+md5: 18de6fe05df36c4c720f1bdff76c0fc7
+md5_10: 18de6fe05d
+md5_10_upper: 18DE6FE05D
+md5_5: 18de6
+md5_5_upper: 18DE6
+md5_6: 18de6f
+md5_6_alpha: yxkf
+md5_6_alpha_upper: YXKF
+md5_6_upper: 18DE6F
+name: Electronic Resistor 0603 5600 Ohm
+name_no_class: Resistor 0603 5600 Ohm
+name_no_color: 5600Ohm
+name_no_size: 5600 Ohm
+name_no_type: 0603 5600 Ohm
+oomp_key: oomp_electronic_resistor_0603_5600_ohm
+oomp_word: hand rainbow moon
+oomp_word_emoji: ':hand: :rainbow: :moon:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':rainbow:'
+- ':moon:'
+oomp_word_list:
+- hand
+- rainbow
+- moon
+part_number: ''
+size: '0603'
+type: resistor

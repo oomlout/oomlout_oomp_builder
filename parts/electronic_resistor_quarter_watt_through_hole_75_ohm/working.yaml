@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 75_ohm
+directory: parts/electronic_resistor_quarter_watt_through_hole_75_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_75_ohm
+id: electronic_resistor_quarter_watt_through_hole_75_ohm
+id_no_class: resistor_quarter_watt_through_hole_75_ohm
+id_no_color: 75ohm
+id_no_size: 75_ohm
+id_no_type: quarter_watt_through_hole_75_ohm
+manufacturer: ''
+md5: aa7269c3e7327d5760236b97129be83f
+md5_10: aa7269c3e7
+md5_10_upper: AA7269C3E7
+md5_5: aa726
+md5_5_upper: AA726
+md5_6: aa7269
+md5_6_alpha: 6nf55
+md5_6_alpha_upper: 6NF55
+md5_6_upper: AA7269
+name: Electronic Resistor Quarter Watt Through Hole 75 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 75 Ohm
+name_no_color: 75Ohm
+name_no_size: 75 Ohm
+name_no_type: Quarter Watt Through Hole 75 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_75_ohm
+oomp_word: lipstick dolls cactus
+oomp_word_emoji: ':lipstick: :dolls: :cactus:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':dolls:'
+- ':cactus:'
+oomp_word_list:
+- lipstick
+- dolls
+- cactus
+part_number: ''
+size: quarter_watt_through_hole
+type: resistor

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_09_ex_30_teeth_sh_m3
+directory: parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_m3
+id: oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_m3
+id_no_class: part_pulley_gt2_01_09_ex_30_teeth_sh_m3
+id_no_color: 0109ex30teethshm3
+id_no_size: 01_09_ex_30_teeth_sh_m3
+id_no_type: pulley_gt2_01_09_ex_30_teeth_sh_m3
+manufacturer: ''
+md5: 37c56cbc040102cd3e8398343afc2336
+md5_10: 37c56cbc04
+md5_10_upper: 37C56CBC04
+md5_5: 37c56
+md5_5_upper: 37C56
+md5_6: 37c56c
+md5_6_alpha: 26c8c
+md5_6_alpha_upper: 26C8C
+md5_6_upper: 37C56C
+name: Oobb Part Pulley Gt2 01 09 Ex 30 Teeth Sh M3
+name_no_class: Part Pulley Gt2 01 09 Ex 30 Teeth Sh M3
+name_no_color: 0109Ex30Teethshm3
+name_no_size: 01 09 Ex 30 Teeth Sh M3
+name_no_type: Pulley Gt2 01 09 Ex 30 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_01_09_ex_30_teeth_sh_m3
+oomp_word: wolf candy blossom
+oomp_word_emoji: ':wolf: :candy: :blossom:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':candy:'
+- ':blossom:'
+oomp_word_list:
+- wolf
+- candy
+- blossom
+part_number: ''
+size: pulley_gt2
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_08_09
+directory: parts/oobb_part_tray_thin_09_08_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_08_09
+id: oobb_part_tray_thin_09_08_09
+id_no_class: part_tray_thin_09_08_09
+id_no_color: 090809
+id_no_size: 09_08_09
+id_no_type: tray_thin_09_08_09
+manufacturer: ''
+md5: 906f9e8a5d579937e6df0c0281d74d4c
+md5_10: 906f9e8a5d
+md5_10_upper: 906F9E8A5D
+md5_5: 906f9
+md5_5_upper: 906F9
+md5_6: 906f9e
+md5_6_alpha: 5mvtq
+md5_6_alpha_upper: 5MVTQ
+md5_6_upper: 906F9E
+name: Oobb Part Tray Thin 09 08 09
+name_no_class: Part Tray Thin 09 08 09
+name_no_color: 090809
+name_no_size: 09 08 09
+name_no_type: Tray Thin 09 08 09
+oomp_key: oomp_oobb_part_tray_thin_09_08_09
+oomp_word: scissors moon clubs
+oomp_word_emoji: ':scissors: :moon: :clubs:'
+oomp_word_emoji_list:
+- ':scissors:'
+- ':moon:'
+- ':clubs:'
+oomp_word_list:
+- scissors
+- moon
+- clubs
+part_number: ''
+size: tray_thin
+type: part

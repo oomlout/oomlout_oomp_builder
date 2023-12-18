@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 2d5_02_12
+directory: parts/oobb_part_tray_thin_2d5_02_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_02_12
+id: oobb_part_tray_thin_2d5_02_12
+id_no_class: part_tray_thin_2d5_02_12
+id_no_color: 2d50212
+id_no_size: 2d5_02_12
+id_no_type: tray_thin_2d5_02_12
+manufacturer: ''
+md5: b2f8c20d9fdc20c08af1e76ed0bcd0d7
+md5_10: b2f8c20d9f
+md5_10_upper: B2F8C20D9F
+md5_5: b2f8c
+md5_5_upper: B2F8C
+md5_6: b2f8c2
+md5_6_alpha: 6ze82
+md5_6_alpha_upper: 6ZE82
+md5_6_upper: B2F8C2
+name: Oobb Part Tray Thin 2D5 02 12
+name_no_class: Part Tray Thin 2D5 02 12
+name_no_color: 2D50212
+name_no_size: 2D5 02 12
+name_no_type: Tray Thin 2D5 02 12
+oomp_key: oomp_oobb_part_tray_thin_2d5_02_12
+oomp_word: handbag seven birthday
+oomp_word_emoji: ':handbag: :seven: :birthday:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':seven:'
+- ':birthday:'
+oomp_word_list:
+- handbag
+- seven
+- birthday
+part_number: ''
+size: tray_thin
+type: part

@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '12_04_09'
+directory: parts/oobb_part_tray_vertical_12_04_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_04_09
+id: oobb_part_tray_vertical_12_04_09
+id_no_class: part_tray_vertical_12_04_09
+id_no_color: '120409'
+id_no_size: '12_04_09'
+id_no_type: tray_vertical_12_04_09
+manufacturer: ''
+md5: 6e77bbcfb865914f701d1b0a64c9ecf2
+md5_10: 6e77bbcfb8
+md5_10_upper: 6E77BBCFB8
+md5_5: 6e77b
+md5_5_upper: 6E77B
+md5_6: 6e77bb
+md5_6_alpha: 4b64b
+md5_6_alpha_upper: 4B64B
+md5_6_upper: 6E77BB
+name: Oobb Part Tray Vertical 12 04 09
+name_no_class: Part Tray Vertical 12 04 09
+name_no_color: '120409'
+name_no_size: 12 04 09
+name_no_type: Tray Vertical 12 04 09
+oomp_key: oomp_oobb_part_tray_vertical_12_04_09
+oomp_word: new_moon gift curry
+oomp_word_emoji: ':new_moon: :gift: :curry:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':gift:'
+- ':curry:'
+oomp_word_list:
+- new_moon
+- gift
+- curry
+part_number: ''
+size: tray_vertical
+type: part

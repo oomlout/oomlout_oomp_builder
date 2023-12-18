@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_05_18'
+directory: parts/oobb_part_tray_vertical_11_05_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_05_18
+id: oobb_part_tray_vertical_11_05_18
+id_no_class: part_tray_vertical_11_05_18
+id_no_color: '110518'
+id_no_size: '11_05_18'
+id_no_type: tray_vertical_11_05_18
+manufacturer: ''
+md5: cbd258e9a731dbe753f36303779209dd
+md5_10: cbd258e9a7
+md5_10_upper: CBD258E9A7
+md5_5: cbd25
+md5_5_upper: CBD25
+md5_6: cbd258
+md5_6_alpha: 7yau0
+md5_6_alpha_upper: 7YAU0
+md5_6_upper: CBD258
+name: Oobb Part Tray Vertical 11 05 18
+name_no_class: Part Tray Vertical 11 05 18
+name_no_color: '110518'
+name_no_size: 11 05 18
+name_no_type: Tray Vertical 11 05 18
+oomp_key: oomp_oobb_part_tray_vertical_11_05_18
+oomp_word: grapes pineapple water_buffalo
+oomp_word_emoji: ':grapes: :pineapple: :water_buffalo:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':pineapple:'
+- ':water_buffalo:'
+oomp_word_list:
+- grapes
+- pineapple
+- water_buffalo
+part_number: ''
+size: tray_vertical
+type: part

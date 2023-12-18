@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: ''
+directory: parts/electronic_prototyping_breadboard_400_point
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_400_point
+id: electronic_prototyping_breadboard_400_point
+id_no_class: prototyping_breadboard_400_point
+id_no_color: 400point
+id_no_size: 400_point
+id_no_type: 400_point
+manufacturer: ''
+md5: 1ca26a7e99d503bd9dfb7c5add23faa1
+md5_10: 1ca26a7e99
+md5_10_upper: 1CA26A7E99
+md5_5: 1ca26
+md5_5_upper: 1CA26
+md5_6: 1ca26a
+md5_6_alpha: 147ze
+md5_6_alpha_upper: 147ZE
+md5_6_upper: 1CA26A
+name: Electronic Prototyping Breadboard 400 Point
+name_no_class: Prototyping Breadboard 400 Point
+name_no_color: 400Point
+name_no_size: 400 Point
+name_no_type: 400 Point
+oomp_key: oomp_electronic_prototyping_breadboard_400_point
+oomp_word: dancer violin palm_tree
+oomp_word_emoji: ':dancer: :violin: :palm_tree:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':violin:'
+- ':palm_tree:'
+oomp_word_list:
+- dancer
+- violin
+- palm_tree
+part_number: ''
+size: 400_point
+type: prototyping_breadboard

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 5600000_ohm
+directory: parts/electronic_resistor_0603_5600000_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_5600000_ohm
+id: electronic_resistor_0603_5600000_ohm
+id_no_class: resistor_0603_5600000_ohm
+id_no_color: 5600000ohm
+id_no_size: 5600000_ohm
+id_no_type: 0603_5600000_ohm
+manufacturer: ''
+md5: dfb4183226dfdf1b490c52a38f6230d3
+md5_10: dfb4183226
+md5_10_upper: DFB4183226
+md5_5: dfb41
+md5_5_upper: DFB41
+md5_6: dfb418
+md5_6_alpha: 8q87s
+md5_6_alpha_upper: 8Q87S
+md5_6_upper: DFB418
+name: Electronic Resistor 0603 5600000 Ohm
+name_no_class: Resistor 0603 5600000 Ohm
+name_no_color: 5600000Ohm
+name_no_size: 5600000 Ohm
+name_no_type: 0603 5600000 Ohm
+oomp_key: oomp_electronic_resistor_0603_5600000_ohm
+oomp_word: fountain coffee hand
+oomp_word_emoji: ':fountain: :coffee: :hand:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':coffee:'
+- ':hand:'
+oomp_word_list:
+- fountain
+- coffee
+- hand
+part_number: ''
+size: '0603'
+type: resistor

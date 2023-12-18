@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_12_18
+directory: parts/oobb_part_tray_03_12_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_12_18
+id: oobb_part_tray_03_12_18
+id_no_class: part_tray_03_12_18
+id_no_color: 031218
+id_no_size: 03_12_18
+id_no_type: tray_03_12_18
+manufacturer: ''
+md5: 4712091e75ad7bd70f60cc0ee7bf2263
+md5_10: 4712091e75
+md5_10_upper: 4712091E75
+md5_5: '47120'
+md5_5_upper: '47120'
+md5_6: '471209'
+md5_6_alpha: 2rtvt
+md5_6_alpha_upper: 2RTVT
+md5_6_upper: '471209'
+name: Oobb Part Tray 03 12 18
+name_no_class: Part Tray 03 12 18
+name_no_color: 031218
+name_no_size: 03 12 18
+name_no_type: Tray 03 12 18
+oomp_key: oomp_oobb_part_tray_03_12_18
+oomp_word: baby_chick anger angry
+oomp_word_emoji: ':baby_chick: :anger: :angry:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':anger:'
+- ':angry:'
+oomp_word_list:
+- baby_chick
+- anger
+- angry
+part_number: ''
+size: tray
+type: part

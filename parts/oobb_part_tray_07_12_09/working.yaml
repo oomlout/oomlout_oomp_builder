@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 07_12_09
+directory: parts/oobb_part_tray_07_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_09
+id: oobb_part_tray_07_12_09
+id_no_class: part_tray_07_12_09
+id_no_color: 071209
+id_no_size: 07_12_09
+id_no_type: tray_07_12_09
+manufacturer: ''
+md5: e5cf0552eb6b50c53a30cff5858d69ba
+md5_10: e5cf0552eb
+md5_10_upper: E5CF0552EB
+md5_5: e5cf0
+md5_5_upper: E5CF0
+md5_6: e5cf05
+md5_6_alpha: 8ysxx
+md5_6_alpha_upper: 8YSXX
+md5_6_upper: E5CF05
+name: Oobb Part Tray 07 12 09
+name_no_class: Part Tray 07 12 09
+name_no_color: 071209
+name_no_size: 07 12 09
+name_no_type: Tray 07 12 09
+oomp_key: oomp_oobb_part_tray_07_12_09
+oomp_word: rocket melon kissing
+oomp_word_emoji: ':rocket: :melon: :kissing:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':melon:'
+- ':kissing:'
+oomp_word_list:
+- rocket
+- melon
+- kissing
+part_number: ''
+size: tray
+type: part

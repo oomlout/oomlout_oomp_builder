@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 09_06_03
+directory: parts/oobb_part_plate_09_06_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_06_03
+id: oobb_part_plate_09_06_03
+id_no_class: part_plate_09_06_03
+id_no_color: 090603
+id_no_size: 09_06_03
+id_no_type: plate_09_06_03
+manufacturer: ''
+md5: 5cca0d35ed747bd257a92177942b4442
+md5_10: 5cca0d35ed
+md5_10_upper: 5CCA0D35ED
+md5_5: 5cca0
+md5_5_upper: 5CCA0
+md5_6: 5cca0d
+md5_6_alpha: 3mc5p
+md5_6_alpha_upper: 3MC5P
+md5_6_upper: 5CCA0D
+name: Oobb Part Plate 09 06 03
+name_no_class: Part Plate 09 06 03
+name_no_color: 090603
+name_no_size: 09 06 03
+name_no_type: Plate 09 06 03
+oomp_key: oomp_oobb_part_plate_09_06_03
+oomp_word: ox cherries heart
+oomp_word_emoji: ':ox: :cherries: :heart:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':cherries:'
+- ':heart:'
+oomp_word_list:
+- ox
+- cherries
+- heart
+part_number: ''
+size: plate
+type: part

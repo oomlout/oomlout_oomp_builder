@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '02_07_12'
+directory: parts/oobb_part_tray_02_07_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_07_12
+id: oobb_part_tray_02_07_12
+id_no_class: part_tray_02_07_12
+id_no_color: '020712'
+id_no_size: '02_07_12'
+id_no_type: tray_02_07_12
+manufacturer: ''
+md5: 6ad97f9dcbeaeeaca61464e9b3a4b7d0
+md5_10: 6ad97f9dcb
+md5_10_upper: 6AD97F9DCB
+md5_5: 6ad97
+md5_5_upper: 6AD97
+md5_6: 6ad97f
+md5_6_alpha: 4635r
+md5_6_alpha_upper: 4635R
+md5_6_upper: 6AD97F
+name: Oobb Part Tray 02 07 12
+name_no_class: Part Tray 02 07 12
+name_no_color: '020712'
+name_no_size: 02 07 12
+name_no_type: Tray 02 07 12
+oomp_key: oomp_oobb_part_tray_02_07_12
+oomp_word: palm_tree bank speaker
+oomp_word_emoji: ':palm_tree: :bank: :speaker:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':bank:'
+- ':speaker:'
+oomp_word_list:
+- palm_tree
+- bank
+- speaker
+part_number: ''
+size: tray
+type: part

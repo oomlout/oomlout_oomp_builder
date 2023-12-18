@@ -1,0 +1,40 @@
+classification: hardware
+color: ''
+description_extra: ''
+description_main: penny
+directory: parts/hardware_washer_1_5_mm_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_1_5_mm_penny
+id: hardware_washer_1_5_mm_penny
+id_no_class: washer_1_5_mm_penny
+id_no_color: penny
+id_no_size: penny
+id_no_type: 1_5_mm_penny
+manufacturer: ''
+md5: d7c00482c5970f30c5c03219cb96b7e5
+md5_10: d7c00482c5
+md5_10_upper: D7C00482C5
+md5_5: d7c00
+md5_5_upper: D7C00
+md5_6: d7c004
+md5_6_alpha: 8f210
+md5_6_alpha_upper: 8F210
+md5_6_upper: D7C004
+name: Hardware Washer 1 5 Mm Penny
+name_no_class: Washer 1 5 Mm Penny
+name_no_color: Penny
+name_no_size: Penny
+name_no_type: 1 5 Mm Penny
+oomp_key: oomp_hardware_washer_1_5_mm_penny
+oomp_word: office bread wink
+oomp_word_emoji: ':office: :bread: :wink:'
+oomp_word_emoji_list:
+- ':office:'
+- ':bread:'
+- ':wink:'
+oomp_word_list:
+- office
+- bread
+- wink
+part_number: ''
+size: 1_5_mm
+type: washer

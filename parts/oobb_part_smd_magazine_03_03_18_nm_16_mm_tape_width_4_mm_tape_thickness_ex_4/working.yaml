@@ -1,0 +1,41 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+directory: parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id: oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_class: part_smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_color: 030318nm16mmtapewidth4mmtapethicknessex4
+id_no_size: 03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+id_no_type: smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+manufacturer: ''
+md5: 79fb971f3366f033a7a486225b0d6d04
+md5_10: 79fb971f33
+md5_10_upper: 79FB971F33
+md5_5: 79fb9
+md5_5_upper: 79FB9
+md5_6: 79fb97
+md5_6_alpha: 4rcev
+md5_6_alpha_upper: 4RCEV
+md5_6_upper: 79FB97
+name: Oobb Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_class: Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness
+  Ex 4
+name_no_color: 030318Nm16Mmtapewidth4Mmtapethicknessex4
+name_no_size: 03 03 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+name_no_type: Smd Magazine 03 03 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness Ex 4
+oomp_key: oomp_oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_4_mm_tape_thickness_ex_4
+oomp_word: balloon ok baseball
+oomp_word_emoji: ':balloon: :ok: :baseball:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':ok:'
+- ':baseball:'
+oomp_word_list:
+- balloon
+- ok
+- baseball
+part_number: ''
+size: smd_magazine
+type: part

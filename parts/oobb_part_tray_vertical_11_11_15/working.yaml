@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_11_15'
+directory: parts/oobb_part_tray_vertical_11_11_15
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_11_11_15
+id: oobb_part_tray_vertical_11_11_15
+id_no_class: part_tray_vertical_11_11_15
+id_no_color: '111115'
+id_no_size: '11_11_15'
+id_no_type: tray_vertical_11_11_15
+manufacturer: ''
+md5: 7066e70e85bd8d99f0fc63af139e670c
+md5_10: 7066e70e85
+md5_10_upper: 7066E70E85
+md5_5: 7066e
+md5_5_upper: 7066E
+md5_6: 7066e7
+md5_6_alpha: 4dvxj
+md5_6_alpha_upper: 4DVXJ
+md5_6_upper: 7066E7
+name: Oobb Part Tray Vertical 11 11 15
+name_no_class: Part Tray Vertical 11 11 15
+name_no_color: '111115'
+name_no_size: 11 11 15
+name_no_type: Tray Vertical 11 11 15
+oomp_key: oomp_oobb_part_tray_vertical_11_11_15
+oomp_word: squirrel leaves helicopter
+oomp_word_emoji: ':squirrel: :leaves: :helicopter:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':leaves:'
+- ':helicopter:'
+oomp_word_list:
+- squirrel
+- leaves
+- helicopter
+part_number: ''
+size: tray_vertical
+type: part

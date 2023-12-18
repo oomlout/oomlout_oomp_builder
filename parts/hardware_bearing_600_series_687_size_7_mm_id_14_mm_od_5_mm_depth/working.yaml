@@ -1,0 +1,40 @@
+classification: hardware
+color: 687_size
+description_extra: ''
+description_main: 7_mm_id_14_mm_od_5_mm_depth
+directory: parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+id: hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+id_no_class: bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+id_no_color: 7_mm_id_14_mm_od_5_mm_depth
+id_no_size: 687_size_7_mm_id_14_mm_od_5_mm_depth
+id_no_type: 600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+manufacturer: ''
+md5: 0e6a9a7c3485906271420103a6750e47
+md5_10: 0e6a9a7c34
+md5_10_upper: 0E6A9A7C34
+md5_5: 0e6a9
+md5_5_upper: 0E6A9
+md5_6: 0e6a9a
+md5_6_alpha: k90a
+md5_6_alpha_upper: K90A
+md5_6_upper: 0E6A9A
+name: Hardware Bearing 600 Series 687 Size 7 Mm Id 14 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 687 Size 7 Mm Id 14 Mm Od 5 Mm Depth
+name_no_color: 7 Mm Id 14 Mm Od 5 Mm Depth
+name_no_size: 687 Size 7 Mm Id 14 Mm Od 5 Mm Depth
+name_no_type: 600 Series 687 Size 7 Mm Id 14 Mm Od 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth
+oomp_word: cupid palm_tree golf
+oomp_word_emoji: ':cupid: :palm_tree: :golf:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':palm_tree:'
+- ':golf:'
+oomp_word_list:
+- cupid
+- palm_tree
+- golf
+part_number: ''
+size: 600_series
+type: bearing

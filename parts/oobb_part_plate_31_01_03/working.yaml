@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '31_01_03'
+directory: parts/oobb_part_plate_31_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_31_01_03
+id: oobb_part_plate_31_01_03
+id_no_class: part_plate_31_01_03
+id_no_color: '310103'
+id_no_size: '31_01_03'
+id_no_type: plate_31_01_03
+manufacturer: ''
+md5: 94870acc505a7bb042b2474f4141943f
+md5_10: 94870acc50
+md5_10_upper: 94870ACC50
+md5_5: '94870'
+md5_5_upper: '94870'
+md5_6: 94870a
+md5_6_alpha: 5smq2
+md5_6_alpha_upper: 5SMQ2
+md5_6_upper: 94870A
+name: Oobb Part Plate 31 01 03
+name_no_class: Part Plate 31 01 03
+name_no_color: '310103'
+name_no_size: 31 01 03
+name_no_type: Plate 31 01 03
+oomp_key: oomp_oobb_part_plate_31_01_03
+oomp_word: microscope toilet sleepy
+oomp_word_emoji: ':microscope: :toilet: :sleepy:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':toilet:'
+- ':sleepy:'
+oomp_word_list:
+- microscope
+- toilet
+- sleepy
+part_number: ''
+size: plate
+type: part

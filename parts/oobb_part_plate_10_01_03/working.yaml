@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_01_03'
+directory: parts/oobb_part_plate_10_01_03
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_03
+id: oobb_part_plate_10_01_03
+id_no_class: part_plate_10_01_03
+id_no_color: '100103'
+id_no_size: '10_01_03'
+id_no_type: plate_10_01_03
+manufacturer: ''
+md5: 8af8034b0904141033264d20854109af
+md5_10: 8af8034b09
+md5_10_upper: 8AF8034B09
+md5_5: 8af80
+md5_5_upper: 8AF80
+md5_6: 8af803
+md5_6_alpha: 5f7cz
+md5_6_alpha_upper: 5F7CZ
+md5_6_upper: 8AF803
+name: Oobb Part Plate 10 01 03
+name_no_class: Part Plate 10 01 03
+name_no_color: '100103'
+name_no_size: 10 01 03
+name_no_type: Plate 10 01 03
+oomp_key: oomp_oobb_part_plate_10_01_03
+oomp_word: envelope seven grin
+oomp_word_emoji: ':envelope: :seven: :grin:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':seven:'
+- ':grin:'
+oomp_word_list:
+- envelope
+- seven
+- grin
+part_number: ''
+size: plate
+type: part

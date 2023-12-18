@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 03_01_ex_x
+directory: parts/oobb_part_bunting_alphabet_03_01_ex_x
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01_ex_x
+id: oobb_part_bunting_alphabet_03_01_ex_x
+id_no_class: part_bunting_alphabet_03_01_ex_x
+id_no_color: 0301exx
+id_no_size: 03_01_ex_x
+id_no_type: bunting_alphabet_03_01_ex_x
+manufacturer: ''
+md5: 464a729e276cbf8564fb98ec81d16190
+md5_10: 464a729e27
+md5_10_upper: 464A729E27
+md5_5: 464a7
+md5_5_upper: 464A7
+md5_6: 464a72
+md5_6_alpha: 2qqgi
+md5_6_alpha_upper: 2QQGI
+md5_6_upper: 464A72
+name: Oobb Part Bunting Alphabet 03 01 Ex X
+name_no_class: Part Bunting Alphabet 03 01 Ex X
+name_no_color: 0301Exx
+name_no_size: 03 01 Ex X
+name_no_type: Bunting Alphabet 03 01 Ex X
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01_ex_x
+oomp_word: bird chicken dolls
+oomp_word_emoji: ':bird: :chicken: :dolls:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':chicken:'
+- ':dolls:'
+oomp_word_list:
+- bird
+- chicken
+- dolls
+part_number: ''
+size: bunting_alphabet
+type: part

@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 560_ohm
+directory: parts/electronic_resistor_0805_560_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_560_ohm
+id: electronic_resistor_0805_560_ohm
+id_no_class: resistor_0805_560_ohm
+id_no_color: 560ohm
+id_no_size: 560_ohm
+id_no_type: 0805_560_ohm
+manufacturer: ''
+md5: 2c77597a937c3b42455c416f00938ca6
+md5_10: 2c77597a93
+md5_10_upper: 2C77597A93
+md5_5: 2c775
+md5_5_upper: 2C775
+md5_6: 2c7759
+md5_6_alpha: 1qgk9
+md5_6_alpha_upper: 1QGK9
+md5_6_upper: 2C7759
+name: Electronic Resistor 0805 560 Ohm
+name_no_class: Resistor 0805 560 Ohm
+name_no_color: 560Ohm
+name_no_size: 560 Ohm
+name_no_type: 0805 560 Ohm
+oomp_key: oomp_electronic_resistor_0805_560_ohm
+oomp_word: snowflake gift dragon
+oomp_word_emoji: ':snowflake: :gift: :dragon:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':gift:'
+- ':dragon:'
+oomp_word_list:
+- snowflake
+- gift
+- dragon
+part_number: ''
+size: 0805
+type: resistor

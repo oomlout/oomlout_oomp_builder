@@ -1,0 +1,40 @@
+classification: electronic
+color: ''
+description_extra: ''
+description_main: 1_micro_farad
+directory: parts/electronic_capacitor_0402_1_micro_farad
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad
+id: electronic_capacitor_0402_1_micro_farad
+id_no_class: capacitor_0402_1_micro_farad
+id_no_color: 1microfarad
+id_no_size: 1_micro_farad
+id_no_type: 0402_1_micro_farad
+manufacturer: ''
+md5: 161ca70ef0437b6bc72debadd501c34f
+md5_10: 161ca70ef0
+md5_10_upper: 161CA70EF0
+md5_5: 161ca
+md5_5_upper: 161CA
+md5_6: 161ca7
+md5_6_alpha: v25j
+md5_6_alpha_upper: V25J
+md5_6_upper: 161CA7
+name: Electronic Capacitor 0402 1 Micro Farad
+name_no_class: Capacitor 0402 1 Micro Farad
+name_no_color: 1Microfarad
+name_no_size: 1 Micro Farad
+name_no_type: 0402 1 Micro Farad
+oomp_key: oomp_electronic_capacitor_0402_1_micro_farad
+oomp_word: thumbsup dancer guitar
+oomp_word_emoji: ':thumbsup: :dancer: :guitar:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':dancer:'
+- ':guitar:'
+oomp_word_list:
+- thumbsup
+- dancer
+- guitar
+part_number: ''
+size: '0402'
+type: capacitor

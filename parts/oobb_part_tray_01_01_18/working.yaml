@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 01_01_18
+directory: parts/oobb_part_tray_01_01_18
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_01_18
+id: oobb_part_tray_01_01_18
+id_no_class: part_tray_01_01_18
+id_no_color: 010118
+id_no_size: 01_01_18
+id_no_type: tray_01_01_18
+manufacturer: ''
+md5: 071500ca82e5666db9bb394b21413805
+md5_10: 071500ca82
+md5_10_upper: 071500CA82
+md5_5: '07150'
+md5_5_upper: '07150'
+md5_6: '071500'
+md5_6_alpha: 9y4g
+md5_6_alpha_upper: 9Y4G
+md5_6_upper: '071500'
+name: Oobb Part Tray 01 01 18
+name_no_class: Part Tray 01 01 18
+name_no_color: 010118
+name_no_size: 01 01 18
+name_no_type: Tray 01 01 18
+oomp_key: oomp_oobb_part_tray_01_01_18
+oomp_word: cry poop bowtie
+oomp_word_emoji: ':cry: :poop: :bowtie:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':poop:'
+- ':bowtie:'
+oomp_word_list:
+- cry
+- poop
+- bowtie
+part_number: ''
+size: tray
+type: part

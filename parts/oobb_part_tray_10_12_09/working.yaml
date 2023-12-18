@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '10_12_09'
+directory: parts/oobb_part_tray_10_12_09
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_12_09
+id: oobb_part_tray_10_12_09
+id_no_class: part_tray_10_12_09
+id_no_color: '101209'
+id_no_size: '10_12_09'
+id_no_type: tray_10_12_09
+manufacturer: ''
+md5: b646f127bbe177a62d8e3ab16d993b91
+md5_10: b646f127bb
+md5_10_upper: B646F127BB
+md5_5: b646f
+md5_5_upper: B646F
+md5_6: b646f1
+md5_6_alpha: 741dd
+md5_6_alpha_upper: 741DD
+md5_6_upper: B646F1
+name: Oobb Part Tray 10 12 09
+name_no_class: Part Tray 10 12 09
+name_no_color: '101209'
+name_no_size: 10 12 09
+name_no_type: Tray 10 12 09
+oomp_key: oomp_oobb_part_tray_10_12_09
+oomp_word: beer bird ticket
+oomp_word_emoji: ':beer: :bird: :ticket:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':bird:'
+- ':ticket:'
+oomp_word_list:
+- beer
+- bird
+- ticket
+part_number: ''
+size: tray
+type: part

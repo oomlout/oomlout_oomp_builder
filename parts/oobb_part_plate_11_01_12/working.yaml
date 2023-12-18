@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: '11_01_12'
+directory: parts/oobb_part_plate_11_01_12
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_01_12
+id: oobb_part_plate_11_01_12
+id_no_class: part_plate_11_01_12
+id_no_color: '110112'
+id_no_size: '11_01_12'
+id_no_type: plate_11_01_12
+manufacturer: ''
+md5: 68f7391c5c50f885ec73356171c561a6
+md5_10: 68f7391c5c
+md5_10_upper: 68F7391C5C
+md5_5: 68f73
+md5_5_upper: 68F73
+md5_6: 68f739
+md5_6_alpha: 43fw9
+md5_6_alpha_upper: 43FW9
+md5_6_upper: 68F739
+name: Oobb Part Plate 11 01 12
+name_no_class: Part Plate 11 01 12
+name_no_color: '110112'
+name_no_size: 11 01 12
+name_no_type: Plate 11 01 12
+oomp_key: oomp_oobb_part_plate_11_01_12
+oomp_word: mushroom six tiger
+oomp_word_emoji: ':mushroom: :six: :tiger:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':six:'
+- ':tiger:'
+oomp_word_list:
+- mushroom
+- six
+- tiger
+part_number: ''
+size: plate
+type: part

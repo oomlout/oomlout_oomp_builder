@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1d5_06_ex_12d0_teeth_sh_m3
+directory: parts/oobb_part_gear_1d5_06_ex_12d0_teeth_sh_m3
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06_ex_12d0_teeth_sh_m3
+id: oobb_part_gear_1d5_06_ex_12d0_teeth_sh_m3
+id_no_class: part_gear_1d5_06_ex_12d0_teeth_sh_m3
+id_no_color: 1d506ex12d0teethshm3
+id_no_size: 1d5_06_ex_12d0_teeth_sh_m3
+id_no_type: gear_1d5_06_ex_12d0_teeth_sh_m3
+manufacturer: ''
+md5: dccf172ba743797f1e38b3f5eae892a8
+md5_10: dccf172ba7
+md5_10_upper: DCCF172BA7
+md5_5: dccf1
+md5_5_upper: DCCF1
+md5_6: dccf17
+md5_6_alpha: 8m5uf
+md5_6_alpha_upper: 8M5UF
+md5_6_upper: DCCF17
+name: Oobb Part Gear 1D5 06 Ex 12D0 Teeth Sh M3
+name_no_class: Part Gear 1D5 06 Ex 12D0 Teeth Sh M3
+name_no_color: 1D506Ex12D0Teethshm3
+name_no_size: 1D5 06 Ex 12D0 Teeth Sh M3
+name_no_type: Gear 1D5 06 Ex 12D0 Teeth Sh M3
+oomp_key: oomp_oobb_part_gear_1d5_06_ex_12d0_teeth_sh_m3
+oomp_word: factory melon thumbsdown
+oomp_word_emoji: ':factory: :melon: :thumbsdown:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':melon:'
+- ':thumbsdown:'
+oomp_word_list:
+- factory
+- melon
+- thumbsdown
+part_number: ''
+size: gear
+type: part

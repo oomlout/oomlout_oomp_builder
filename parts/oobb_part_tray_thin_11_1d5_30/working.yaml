@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 11_1d5_30
+directory: parts/oobb_part_tray_thin_11_1d5_30
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_30
+id: oobb_part_tray_thin_11_1d5_30
+id_no_class: part_tray_thin_11_1d5_30
+id_no_color: 111d530
+id_no_size: 11_1d5_30
+id_no_type: tray_thin_11_1d5_30
+manufacturer: ''
+md5: c3b5045b4ebb0025ab39c42bbfd702c2
+md5_10: c3b5045b4e
+md5_10_upper: C3B5045B4E
+md5_5: c3b50
+md5_5_upper: C3B50
+md5_6: c3b504
+md5_6_alpha: 7mwhw
+md5_6_alpha_upper: 7MWHW
+md5_6_upper: C3B504
+name: Oobb Part Tray Thin 11 1D5 30
+name_no_class: Part Tray Thin 11 1D5 30
+name_no_color: 111D530
+name_no_size: 11 1D5 30
+name_no_type: Tray Thin 11 1D5 30
+oomp_key: oomp_oobb_part_tray_thin_11_1d5_30
+oomp_word: cake tea wink
+oomp_word_emoji: ':cake: :tea: :wink:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':tea:'
+- ':wink:'
+oomp_word_list:
+- cake
+- tea
+- wink
+part_number: ''
+size: tray_thin
+type: part

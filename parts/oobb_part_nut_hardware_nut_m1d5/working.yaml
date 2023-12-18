@@ -1,0 +1,40 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: hardware_nut_m1d5
+directory: parts/oobb_part_nut_hardware_nut_m1d5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m1d5
+id: oobb_part_nut_hardware_nut_m1d5
+id_no_class: part_nut_hardware_nut_m1d5
+id_no_color: hardwarem1d5
+id_no_size: hardware_m1d5
+id_no_type: nut_hardware_nut_m1d5
+manufacturer: ''
+md5: 6e720d7d2d042e2f9694c3e9b97d3420
+md5_10: 6e720d7d2d
+md5_10_upper: 6E720D7D2D
+md5_5: 6e720
+md5_5_upper: 6E720
+md5_6: 6e720d
+md5_6_alpha: 4b4zx
+md5_6_alpha_upper: 4B4ZX
+md5_6_upper: 6E720D
+name: Oobb Part Nut Hardware Nut M1D5
+name_no_class: Part Nut Hardware Nut M1D5
+name_no_color: Hardwarem1D5
+name_no_size: Hardware M1D5
+name_no_type: Nut Hardware Nut M1D5
+oomp_key: oomp_oobb_part_nut_hardware_nut_m1d5
+oomp_word: new_moon dolls heart
+oomp_word_emoji: ':new_moon: :dolls: :heart:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':dolls:'
+- ':heart:'
+oomp_word_list:
+- new_moon
+- dolls
+- heart
+part_number: ''
+size: nut
+type: part
