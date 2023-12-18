@@ -1,0 +1,27 @@
+# Hardware Bolt 8 Mm 100 Mm  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: hardware_bolt_8_mm_100_mm
+  * classification: hardware
+  * type: bolt
+  * size: 8_mm
+  * color: 
+  * description_main: 100_mm
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: shell scissors birthday
+* oomp_word_emoji :shell: :scissors: :birthday:
+* md5_6_alpha: 49whu
+* md5_6: 6d90c2

@@ -1,0 +1,135 @@
+{
+    "classification": "electronic",
+    "type": "socket",
+    "size": "usb_mini",
+    "color": "",
+    "description_main": "surface_mount_only",
+    "description_extra": "",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "short_name": "",
+    "pins": {
+        "pin_1": {
+            "name": "vbus",
+            "number": "1",
+            "type": "power"
+        },
+        "pin_2": {
+            "name": "usb_negative",
+            "number": "2",
+            "type": "signal"
+        },
+        "pin_3": {
+            "name": "usb_positive",
+            "number": "3",
+            "type": "signal"
+        },
+        "pin_4": {
+            "name": "id",
+            "number": "4",
+            "type": "signal"
+        },
+        "pin_5": {
+            "name": "gnd",
+            "number": "5",
+            "type": "power"
+        },
+        "pin_6": {
+            "name": "shield",
+            "number": "6",
+            "type": "signal"
+        }
+    },
+    "classification_upper": "ELECTRONIC",
+    "classification_capital": "Electronic",
+    "classification_first_letter": "e",
+    "classification_first_letter_upper": "E",
+    "type_upper": "SOCKET",
+    "type_capital": "Socket",
+    "type_first_letter": "s",
+    "type_first_letter_upper": "S",
+    "size_upper": "USB_MINI",
+    "size_capital": "Usb Mini",
+    "size_first_letter": "u",
+    "size_first_letter_upper": "U",
+    "color_upper": "",
+    "color_capital": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
+    "description_main_upper": "SURFACE_MOUNT_ONLY",
+    "description_main_capital": "Surface Mount Only",
+    "description_main_first_letter": "s",
+    "description_main_first_letter_upper": "S",
+    "description_extra_upper": "",
+    "description_extra_capital": "",
+    "description_extra_first_letter": "",
+    "description_extra_first_letter_upper": "",
+    "manufacturer_upper": "",
+    "manufacturer_capital": "",
+    "manufacturer_first_letter": "",
+    "manufacturer_first_letter_upper": "",
+    "part_number_upper": "",
+    "part_number_capital": "",
+    "part_number_first_letter": "",
+    "part_number_first_letter_upper": "",
+    "id": "electronic_socket_usb_mini_surface_mount_only",
+    "id_no_class": "socket_usb_mini_surface_mount_only",
+    "id_no_type": "usb_mini_surface_mount_only",
+    "id_no_size": "surface_mount_only",
+    "oomp_key": "oomp_electronic_socket_usb_mini_surface_mount_only",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working",
+    "directory": "parts/electronic_socket_usb_mini_surface_mount_only",
+    "name": "Electronic Socket Usb Mini Surface Mount Only",
+    "name_no_class": "Socket Usb Mini Surface Mount Only",
+    "name_no_type": "Usb Mini Surface Mount Only",
+    "name_no_size": "Surface Mount Only",
+    "short_code": "scumnsmo",
+    "short_code_upper": "SCUMNSMO",
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C91144",
+            "link": "https://lcsc.com/product-detail/C91144.html",
+            "id": "distributor_lcsc"
+        }
+    ],
+    "manufacturers": [
+        {
+            "name": "Korean Hroparts Elec",
+            "part_number": "U-M-M5SS-W-2",
+            "link": "",
+            "id": "manufacturer_korean_hroparts_elec"
+        }
+    ],
+    "md5": "34c5c0be3324508572b94f980c1c9606",
+    "md5_5": "34c5c",
+    "md5_5_upper": "34C5C",
+    "md5_6": "34c5c0",
+    "md5_6_upper": "34C5C0",
+    "md5_6_alpha": "224lc",
+    "md5_6_alpha_upper": "224LC",
+    "md5_10": "34c5c0be33",
+    "md5_10_upper": "34C5C0BE33",
+    "oomp_word": "mouse candy bread",
+    "oomp_word_list": [
+        "mouse",
+        "candy",
+        "bread"
+    ],
+    "oomp_word_emoji": ":mouse: :candy: :bread:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":candy:",
+        ":bread:"
+    ],
+    "size_only_numbers": "",
+    "size_only_numbers_no_zeros": "",
+    "description_only_numbers": "",
+    "description_only_numbers_short": " ",
+    "name_no_size_short": "Surface Mount Only",
+    "description_or_color": " ",
+    "description_or_color_upper": " ",
+    "markdown_full": "[electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[scumnsmo](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[Electronic Socket Usb Mini Surface Mount Only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]() [(L)  ](https://www.lcsc.com/search?q=U-M-M5SS-W-2)[(D)  ](https://www.digikey.com/en/products?keywords=U-M-M5SS-W-2)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=U-M-M5SS-W-2)[(N)  ](https://www.newark.com/search?st=U-M-M5SS-W-2)[(SZ)  ](https://so.szlcsc.com/global.html?k=U-M-M5SS-W-2)<br>",
+    "markdown_short": "[electronic_socket_usb_mini_surface_mount_only](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only/working)<br>[LCSC - C91144<br>](https://lcsc.com/product-detail/C91144.html)<br>[Korean Hroparts Elec - U-M-M5SS-W-2]()"
+}
