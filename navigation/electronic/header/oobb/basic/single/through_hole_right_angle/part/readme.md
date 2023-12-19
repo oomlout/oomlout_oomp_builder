@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hob1thra
 * oomp_word: tennis lips fish
 * oomp_word_emoji :tennis: :lips: :fish:
 * md5_6_alpha: 5xp3n

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi122psmra
 * oomp_word: hamburger tea six
 * oomp_word_emoji :hamburger: :tea: :six:
 * md5_6_alpha: 77gfr

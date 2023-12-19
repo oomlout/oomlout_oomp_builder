@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 62201_size
 color_capital: 62201 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '62'
+color_length_3: '622'
+color_length_4: '6220'
+color_length_5: '62201'
+color_length_6: '62201_'
 color_upper: 62201_SIZE
+color_upper_length_1: '6'
+color_upper_length_2: '62'
+color_upper_length_3: '622'
+color_upper_length_4: '6220'
+color_upper_length_5: '62201'
+color_upper_length_6: '62201_'
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 12_mm_id_32_mm_od_14_mm_depth
 description_main_capital: 12 mm Id 32 mm Od 14 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_m
+description_main_length_5: 12_mm
+description_main_length_6: 12_mm_
 description_main_upper: 12_MM_ID_32_MM_OD_14_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_M
+description_main_upper_length_5: 12_MM
+description_main_upper_length_6: 12_MM_
 description_only_numbers: '123214'
 description_only_numbers_short: 123k
 description_or_color: 6123k
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
 id: hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
 id_no_class: bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
+id_no_color: 12_mm_id_32_mm_od_14_mm_depth
 id_no_size: 62201_size_12_mm_id_32_mm_od_14_mm_depth
 id_no_type: 62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working)<br>[Hardware
-    Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working)<br><br>'
+  Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62201_size_12_mm_id_32_mm_od_14_mm_depth/working)<br><br>'
 md5: b64ac4972af2d0953bd9729c59f2e9e3
 md5_10: b64ac4972a
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 7424K
 md5_6_upper: B64AC4
 name: Hardware Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
 name_no_class: Bearing 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
+name_no_color: 12 Mm Id 32 Mm Od 14 Mm Depth
 name_no_size: 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
 name_no_size_short: 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
 name_no_type: 62000 Series 62201 Size 12 Mm Id 32 Mm Od 14 Mm Depth
@@ -76,11 +114,35 @@ size: 62000_series
 size_capital: 62000 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
+size_length_1: '6'
+size_length_2: '62'
+size_length_3: '620'
+size_length_4: '6200'
+size_length_5: '62000'
+size_length_6: '62000_'
 size_only_numbers: '62000'
 size_only_numbers_no_zeros: '62'
 size_upper: 62000_SERIES
+size_upper_length_1: '6'
+size_upper_length_2: '62'
+size_upper_length_3: '620'
+size_upper_length_4: '6200'
+size_upper_length_5: '62000'
+size_upper_length_6: '62000_'
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

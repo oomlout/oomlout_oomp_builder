@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci117pth
 * oomp_word: apple kissing basketball
 * oomp_word_emoji :apple: :kissing: :basketball:
 * md5_6_alpha: 7syom

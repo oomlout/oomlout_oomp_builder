@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o123
 * oomp_word: three fireworks cow
 * oomp_word_emoji :three: :fireworks: :cow:
 * md5_6_alpha: 9jdj1

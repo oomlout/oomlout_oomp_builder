@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci117pthl
 * oomp_word: fire elephant koala
 * oomp_word_emoji :fire: :elephant: :koala:
 * md5_6_alpha: sgmy

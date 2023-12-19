@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: xcr3213mhz8
 * oomp_word: ok three five
 * oomp_word_emoji :ok: :three: :five:
 * md5_6_alpha: 9twxi

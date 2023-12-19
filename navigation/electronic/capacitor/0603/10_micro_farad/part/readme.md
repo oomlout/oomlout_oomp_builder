@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: c6uf10
 * oomp_word: smile trumpet books
 * oomp_word_emoji :smile: :trumpet: :books:
 * md5_6_alpha: 2bgz

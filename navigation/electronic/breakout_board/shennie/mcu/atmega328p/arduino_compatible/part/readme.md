@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+A popular arduino compatible atmega328 board from aliexpress
 
 ### id
 * oomp_id: electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: bbshmcu328ac
 * oomp_word: headphones tophat princess
 * oomp_word_emoji :headphones: :tophat: :princess:
 * md5_6_alpha: 6gqan

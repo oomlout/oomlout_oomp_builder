@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sws2880s
 * oomp_word: turtle hand eyeglasses
 * oomp_word_emoji :turtle: :hand: :eyeglasses:
 * md5_6_alpha: 2yw1f

@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: F623_size
 color_capital: F623 Size
 color_first_letter: F
 color_first_letter_upper: F
+color_length_1: F
+color_length_2: F6
+color_length_3: F62
+color_length_4: F623
+color_length_5: F623_
+color_length_6: F623_s
 color_upper: F623_SIZE
+color_upper_length_1: F
+color_upper_length_2: F6
+color_upper_length_3: F62
+color_upper_length_4: F623
+color_upper_length_5: F623_
+color_upper_length_6: F623_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 3_mm_id_10_mm_od_4_mm_depth
 description_main_capital: 3 mm Id 10 mm Od 4 mm Depth
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_m
+description_main_length_4: 3_mm
+description_main_length_5: 3_mm_
+description_main_length_6: 3_mm_i
 description_main_upper: 3_MM_ID_10_MM_OD_4_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_M
+description_main_upper_length_4: 3_MM
+description_main_upper_length_5: 3_MM_
+description_main_upper_length_6: 3_MM_I
 description_only_numbers: '3104'
 description_only_numbers_short: 3k1
 description_or_color: F3k1
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_de
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
 id: hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
 id_no_class: bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
+id_no_color: 3_mm_id_10_mm_od_4_mm_depth
 id_no_size: F623_size_3_mm_id_10_mm_od_4_mm_depth
 id_no_type: F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working)<br>[Hardware
-    Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working)<br><br>'
+  Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F623_size_3_mm_id_10_mm_od_4_mm_depth/working)<br><br>'
 md5: 3e14aec0ae02382a7043672cd347df8d
 md5_10: 3e14aec0ae
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 2F7AM
 md5_6_upper: 3E14AE
 name: Hardware Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
 name_no_class: Bearing F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
+name_no_color: 3 Mm Id 10 Mm Od 4 Mm Depth
 name_no_size: F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
 name_no_size_short: F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
 name_no_type: F600 Series F623 Size 3 Mm Id 10 Mm Od 4 Mm Depth
@@ -76,11 +114,35 @@ size: F600_series
 size_capital: F600 Series
 size_first_letter: F
 size_first_letter_upper: F
+size_length_1: F
+size_length_2: F6
+size_length_3: F60
+size_length_4: F600
+size_length_5: F600_
+size_length_6: F600_s
 size_only_numbers: '600'
 size_only_numbers_no_zeros: '6'
 size_upper: F600_SERIES
+size_upper_length_1: F
+size_upper_length_2: F6
+size_upper_length_3: F60
+size_upper_length_4: F600
+size_upper_length_5: F600_
+size_upper_length_6: F600_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

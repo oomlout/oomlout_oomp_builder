@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh2psmra
 * oomp_word: cow four bear
 * oomp_word_emoji :cow: :four: :bear:
 * md5_6_alpha: 2f12z

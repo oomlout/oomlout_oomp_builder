@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci12pthl
 * oomp_word: peach kiss star
 * oomp_word_emoji :peach: :kiss: :star:
 * md5_6_alpha: 81jww

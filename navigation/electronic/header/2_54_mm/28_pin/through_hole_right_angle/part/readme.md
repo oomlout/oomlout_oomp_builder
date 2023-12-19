@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi128pthra
 * oomp_word: grapes fish rabbit
 * oomp_word_emoji :grapes: :fish: :rabbit:
 * md5_6_alpha: 7xlpy

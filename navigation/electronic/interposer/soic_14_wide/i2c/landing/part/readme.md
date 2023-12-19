@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+An interposer between an i2c chip and a soic_14_wide package. This is the landing side (for an interposer to land on)
 
 ### id
 * oomp_id: electronic_interposer_soic_14_wide_i2c_landing
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: insoic14wi2cland
 * oomp_word: pig five crocodile
 * oomp_word_emoji :pig: :five: :crocodile:
 * md5_6_alpha: 2dmqm

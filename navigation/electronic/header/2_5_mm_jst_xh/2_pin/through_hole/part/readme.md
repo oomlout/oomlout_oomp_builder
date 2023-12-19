@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh2pth
 * oomp_word: trophy poop thumbsup
 * oomp_word_emoji :trophy: :poop: :thumbsup:
 * md5_6_alpha: 6a9li

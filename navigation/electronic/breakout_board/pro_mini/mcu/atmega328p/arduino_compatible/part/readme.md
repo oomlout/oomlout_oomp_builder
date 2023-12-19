@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+A mini usb port free arduino compatible breakout
 
 ### id
 * oomp_id: electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: bbpmmcu328ac
 * oomp_word: sheep dress blush
 * oomp_word_emoji :sheep: :dress: :blush:
 * md5_6_alpha: 2lnnm

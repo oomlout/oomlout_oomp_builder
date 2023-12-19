@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi16pth
 * oomp_word: kiss ship sparkles
 * oomp_word_emoji :kiss: :ship: :sparkles:
 * md5_6_alpha: 1ee4v

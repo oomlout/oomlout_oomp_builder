@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o753
 * oomp_word: school rat snowflake
 * oomp_word_emoji :school: :rat: :snowflake:
 * md5_6_alpha: 8d2r0

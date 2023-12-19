@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340t
 
 ### other_codes
-* short_code: 
+* short_code: ich340t
 * oomp_word: ship dolls kiss
 * oomp_word_emoji :ship: :dolls: :kiss:
 * md5_6_alpha: 8r9r7

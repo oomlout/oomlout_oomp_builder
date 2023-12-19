@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci112pth
 * oomp_word: train three trident
 * oomp_word_emoji :train: :three: :trident:
 * md5_6_alpha: 9egov

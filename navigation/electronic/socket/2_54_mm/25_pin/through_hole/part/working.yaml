@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -12,21 +24,46 @@ description_extra: through_hole
 description_extra_capital: Through Hole
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: th
+description_extra_length_3: thr
+description_extra_length_4: thro
+description_extra_length_5: throu
+description_extra_length_6: throug
 description_extra_upper: THROUGH_HOLE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TH
+description_extra_upper_length_3: THR
+description_extra_upper_length_4: THRO
+description_extra_upper_length_5: THROU
+description_extra_upper_length_6: THROUG
 description_main: 25_pin
 description_main_capital: 25 Pin
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '25'
+description_main_length_3: '25_'
+description_main_length_4: 25_p
+description_main_length_5: 25_pi
+description_main_length_6: 25_pin
 description_main_upper: 25_PIN
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '25'
+description_main_upper_length_3: '25_'
+description_main_upper_length_4: 25_P
+description_main_upper_length_5: 25_PI
+description_main_upper_length_6: 25_PIN
 description_only_numbers: '25'
 description_only_numbers_short: '25'
 description_or_color: '25'
 description_or_color_upper: '25'
 directory: parts/electronic_socket_2_54_mm_25_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole
 id: electronic_socket_2_54_mm_25_pin_through_hole
 id_no_class: socket_2_54_mm_25_pin_through_hole
+id_no_color: 25pinthroughhole
 id_no_size: 25_pin_through_hole
 id_no_type: 2_54_mm_25_pin_through_hole
 kicad_reference: CONN
@@ -37,7 +74,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_socket_2_54_mm_25_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working)<br>[sci125pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working)<br>[Electronic
-    Socket 2 54 Mm 25 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working)<br><br>'
+  Socket 2 54 Mm 25 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working)<br><br>'
 markdown_short: '[electronic_socket_2_54_mm_25_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_25_pin_through_hole/working)<br><br>'
 md5: 59e9fa8efdc6e581e3b5480cc3cc3299
 md5_10: 59e9fa8efd
@@ -50,6 +87,7 @@ md5_6_alpha_upper: 3IARE
 md5_6_upper: 59E9FA
 name: Electronic Socket 2 54 Mm 25 Pin Through Hole
 name_no_class: Socket 2 54 Mm 25 Pin Through Hole
+name_no_color: 25Pinthroughhole
 name_no_size: 25 Pin Through Hole
 name_no_size_short: 25 Pin Through Hole
 name_no_type: 2 54 Mm 25 Pin Through Hole
@@ -75,11 +113,35 @@ size: 2_54_mm
 size_capital: 2.54 mm
 size_first_letter: '2'
 size_first_letter_upper: '2'
+size_length_1: '2'
+size_length_2: '2_'
+size_length_3: '2_5'
+size_length_4: '2_54'
+size_length_5: '2_54_'
+size_length_6: 2_54_m
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
+size_upper_length_1: '2'
+size_upper_length_2: '2_'
+size_upper_length_3: '2_5'
+size_upper_length_4: '2_54'
+size_upper_length_5: '2_54_'
+size_upper_length_6: 2_54_M
 type: socket
 type_capital: Socket
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: so
+type_length_3: soc
+type_length_4: sock
+type_length_5: socke
+type_length_6: socket
 type_upper: SOCKET
+type_upper_length_1: S
+type_upper_length_2: SO
+type_upper_length_3: SOC
+type_upper_length_4: SOCK
+type_upper_length_5: SOCKE
+type_upper_length_6: SOCKET

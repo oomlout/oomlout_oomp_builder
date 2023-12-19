@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi129psmra
 * oomp_word: cyclone ok pig
 * oomp_word_emoji :cyclone: :ok: :pig:
 * md5_6_alpha: 1vebg

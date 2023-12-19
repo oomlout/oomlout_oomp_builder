@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x17psm
 * oomp_word: princess beetle pushpin
 * oomp_word_emoji :princess: :beetle: :pushpin:
 * md5_6_alpha: 17zip

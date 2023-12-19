@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh8pthra
 * oomp_word: zap feet baby_chick
 * oomp_word_emoji :zap: :feet: :baby_chick:
 * md5_6_alpha: 1ssp3

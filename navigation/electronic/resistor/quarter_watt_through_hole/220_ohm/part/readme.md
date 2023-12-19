@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro221
 * oomp_word: hourglass star taxi
 * oomp_word_emoji :hourglass: :star: :taxi:
 * md5_6_alpha: 4zw18

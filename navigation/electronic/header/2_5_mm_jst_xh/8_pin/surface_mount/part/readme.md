@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh8psm
 * oomp_word: moon nine two
 * oomp_word_emoji :moon: :nine: :two:
 * md5_6_alpha: 4dalv

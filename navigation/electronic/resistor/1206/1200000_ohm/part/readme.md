@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o125
 * oomp_word: pray boot dolphin
 * oomp_word_emoji :pray: :boot: :dolphin:
 * md5_6_alpha: 1021h

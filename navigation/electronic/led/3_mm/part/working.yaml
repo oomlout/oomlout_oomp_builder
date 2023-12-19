@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -26,9 +38,10 @@ directory: parts/electronic_led_3_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm
 id: electronic_led_3_mm
 id_no_class: led_3_mm
+id_no_color: 3mm
 id_no_size: 3_mm
 id_no_type: 3_mm
 kicad_reference: L
@@ -39,7 +52,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br>[l3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br>[Electronic
-    Led 3 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br><br>'
+  Led 3 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br><br>'
 markdown_short: '[electronic_led_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm/working)<br><br>'
 md5: 1c2ecd94ecf44c4e06ef99b0051681bf
 md5_10: 1c2ecd94ec
@@ -52,6 +65,7 @@ md5_6_alpha_upper: 13L59
 md5_6_upper: 1C2ECD
 name: Electronic Led 3 Mm
 name_no_class: Led 3 Mm
+name_no_color: 3Mm
 name_no_size: 3 Mm
 name_no_size_short: 3 Mm
 name_no_type: 3 Mm
@@ -78,16 +92,40 @@ size: 3_mm
 size_capital: 3 mm
 size_first_letter: '3'
 size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: 3_m
+size_length_4: 3_mm
+size_length_5: 3_mm
+size_length_6: 3_mm
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: 3_MM
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: 3_M
+size_upper_length_4: 3_MM
+size_upper_length_5: 3_MM
+size_upper_length_6: 3_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
 type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
 type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

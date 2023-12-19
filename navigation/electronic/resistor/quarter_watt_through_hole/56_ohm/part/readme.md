@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro560
 * oomp_word: rooster cactus kiss
 * oomp_word_emoji :rooster: :cactus: :kiss:
 * md5_6_alpha: 3keg3

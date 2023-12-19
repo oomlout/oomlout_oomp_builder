@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o0
 * oomp_word: grapes hourglass recycle
 * oomp_word_emoji :grapes: :hourglass: :recycle:
 * md5_6_alpha: 7xuri

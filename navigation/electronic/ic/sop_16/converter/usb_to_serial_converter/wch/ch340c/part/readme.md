@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340c
 
 ### other_codes
-* short_code: 
+* short_code: isp16ch340c
 * oomp_word: door tiger turtle
 * oomp_word_emoji :door: :tiger: :turtle:
 * md5_6_alpha: 5fk98

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_pu
 
 ### other_codes
-* short_code: 
+* short_code: id28mcuat328
 * oomp_word: rooster cloud blowfish
 * oomp_word_emoji :rooster: :cloud: :blowfish:
 * md5_6_alpha: 3k28t

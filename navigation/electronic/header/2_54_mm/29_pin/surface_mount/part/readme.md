@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi129psm
 * oomp_word: sparkles bear fish
 * oomp_word_emoji :sparkles: :bear: :fish:
 * md5_6_alpha: le8j

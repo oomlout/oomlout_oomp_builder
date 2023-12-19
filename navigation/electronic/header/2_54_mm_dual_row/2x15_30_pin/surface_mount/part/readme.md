@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x15psm
 * oomp_word: paperclip key bouquet
 * oomp_word_emoji :paperclip: :key: :bouquet:
 * md5_6_alpha: 5pt29

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh10psmra
 * oomp_word: headphones bank hand
 * oomp_word_emoji :headphones: :bank: :hand:
 * md5_6_alpha: 6gyl4

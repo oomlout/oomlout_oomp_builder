@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o682
 * oomp_word: banana dog hamburger
 * oomp_word_emoji :banana: :dog: :hamburger:
 * md5_6_alpha: 84gc8

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi138psm
 * oomp_word: bike recycle anger
 * oomp_word_emoji :bike: :recycle: :anger:
 * md5_6_alpha: 94oia

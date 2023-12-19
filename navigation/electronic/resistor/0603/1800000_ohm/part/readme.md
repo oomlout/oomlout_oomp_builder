@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o185
 * oomp_word: thumbsdown feet birthday
 * oomp_word_emoji :thumbsdown: :feet: :birthday:
 * md5_6_alpha: whqa

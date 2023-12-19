@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi110pths
 * oomp_word: bear fountain umbrella
 * oomp_word_emoji :bear: :fountain: :umbrella:
 * md5_6_alpha: 2c3l6

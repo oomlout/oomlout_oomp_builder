@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x14psm
 * oomp_word: blowfish trophy sleeping
 * oomp_word_emoji :blowfish: :trophy: :sleeping:
 * md5_6_alpha: 3nime

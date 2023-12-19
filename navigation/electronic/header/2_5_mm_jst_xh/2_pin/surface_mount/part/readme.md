@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh2psm
 * oomp_word: lips new_moon frog
 * oomp_word_emoji :lips: :new_moon: :frog:
 * md5_6_alpha: 1cd2w

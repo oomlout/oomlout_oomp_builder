@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi11pthl
 * oomp_word: skull chicken eyeglasses
 * oomp_word_emoji :skull: :chicken: :eyeglasses:
 * md5_6_alpha: 19cxf

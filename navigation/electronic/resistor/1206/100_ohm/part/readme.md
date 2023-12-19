@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o101
 * oomp_word: grin hourglass blowfish
 * oomp_word_emoji :grin: :hourglass: :blowfish:
 * md5_6_alpha: 4x25

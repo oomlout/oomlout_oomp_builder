@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro103
 * oomp_word: sunny lock mushroom
 * oomp_word_emoji :sunny: :lock: :mushroom:
 * md5_6_alpha: 1mb8o

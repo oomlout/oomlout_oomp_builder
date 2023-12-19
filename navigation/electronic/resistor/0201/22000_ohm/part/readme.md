@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro223
 * oomp_word: pray boat beer
 * oomp_word_emoji :pray: :boat: :beer:
 * md5_6_alpha: 10cs6

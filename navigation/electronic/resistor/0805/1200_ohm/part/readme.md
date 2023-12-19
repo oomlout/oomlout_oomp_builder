@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o122
 * oomp_word: lipstick cyclone door
 * oomp_word_emoji :lipstick: :cyclone: :door:
 * md5_6_alpha: 6n1xn

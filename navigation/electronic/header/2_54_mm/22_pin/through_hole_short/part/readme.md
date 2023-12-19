@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi122pths
 * oomp_word: tomato peach watermelon
 * oomp_word_emoji :tomato: :peach: :watermelon:
 * md5_6_alpha: 89ioc

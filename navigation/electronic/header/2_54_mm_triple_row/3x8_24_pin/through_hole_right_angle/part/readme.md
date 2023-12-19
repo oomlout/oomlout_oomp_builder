@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hthra
 * oomp_word: bus tv leaves
 * oomp_word_emoji :bus: :tv: :leaves:
 * md5_6_alpha: 99l5y

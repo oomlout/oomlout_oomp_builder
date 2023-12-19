@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ws2812b_b_w
 
 ### other_codes
-* short_code: 
+* short_code: l50502812ws2812bbw
 * oomp_word: train bank ramen
 * oomp_word_emoji :train: :bank: :ramen:
 * md5_6_alpha: 9ebb2

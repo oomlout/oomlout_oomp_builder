@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh3psmra
 * oomp_word: seven maple_leaf sparkles
 * oomp_word_emoji :seven: :maple_leaf: :sparkles:
 * md5_6_alpha: 9owsv

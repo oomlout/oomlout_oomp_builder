@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi19pthl
 * oomp_word: rooster snowflake radio
 * oomp_word_emoji :rooster: :snowflake: :radio:
 * md5_6_alpha: 3k2gy

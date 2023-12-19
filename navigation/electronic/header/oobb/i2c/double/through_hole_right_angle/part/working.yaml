@@ -2,22 +2,70 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: i2c
 color_capital: I2C
 color_first_letter: i
 color_first_letter_upper: I
+color_length_1: i
+color_length_2: i2
+color_length_3: i2c
+color_length_4: i2c
+color_length_5: i2c
+color_length_6: i2c
 color_upper: I2C
+color_upper_length_1: I
+color_upper_length_2: I2
+color_upper_length_3: I2C
+color_upper_length_4: I2C
+color_upper_length_5: I2C
+color_upper_length_6: I2C
 description_extra: through_hole_right_angle
 description_extra_capital: Through Hole Right Angle
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: th
+description_extra_length_3: thr
+description_extra_length_4: thro
+description_extra_length_5: throu
+description_extra_length_6: throug
 description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TH
+description_extra_upper_length_3: THR
+description_extra_upper_length_4: THRO
+description_extra_upper_length_5: THROU
+description_extra_upper_length_6: THROUG
 description_main: double
 description_main_capital: Double
 description_main_first_letter: d
 description_main_first_letter_upper: D
+description_main_length_1: d
+description_main_length_2: do
+description_main_length_3: dou
+description_main_length_4: doub
+description_main_length_5: doubl
+description_main_length_6: double
 description_main_upper: DOUBLE
+description_main_upper_length_1: D
+description_main_upper_length_2: DO
+description_main_upper_length_3: DOU
+description_main_upper_length_4: DOUB
+description_main_upper_length_5: DOUBL
+description_main_upper_length_6: DOUBLE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'I '
@@ -25,19 +73,20 @@ description_or_color_upper: 'I '
 directory: parts/electronic_header_oobb_i2c_double_through_hole_right_angle
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
-    note: source footprint oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
-    oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
+  note: source footprint oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
+  oomp_key: oomp_oomlout_oomlout_oomp_footprint_templates_oobb_connector_i2c_double
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hob2thra_electronic_header_oobb_i2c_double_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle
 id: electronic_header_oobb_i2c_double_through_hole_right_angle
 id_no_class: header_oobb_i2c_double_through_hole_right_angle
+id_no_color: double_through_hole_right_angle
 id_no_size: i2c_double_through_hole_right_angle
 id_no_type: oobb_i2c_double_through_hole_right_angle
 manufacturer: ''
@@ -47,7 +96,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_oobb_i2c_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br>[hob2thra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br>[Electronic
-    Header Oobb I2C Double Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br><br>'
+  Header Oobb I2C Double Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br><br>'
 markdown_short: '[electronic_header_oobb_i2c_double_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_double_through_hole_right_angle/working)<br><br>'
 md5: 2c17791779757cb913c7d472d5ff163b
 md5_10: 2c17791779
@@ -60,6 +109,7 @@ md5_6_alpha_upper: 1PXMH
 md5_6_upper: 2C1779
 name: Electronic Header Oobb I2C Double Through Hole Right Angle
 name_no_class: Header Oobb I2C Double Through Hole Right Angle
+name_no_color: Double Through Hole Right Angle
 name_no_size: I2C Double Through Hole Right Angle
 name_no_size_short: I2C Double Through Hole Right Angle
 name_no_type: Oobb I2C Double Through Hole Right Angle
@@ -86,16 +136,40 @@ size: oobb
 size_capital: Oobb
 size_first_letter: o
 size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oob
+size_length_4: oobb
+size_length_5: oobb
+size_length_6: oobb
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: OOBB
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOB
+size_upper_length_4: OOBB
+size_upper_length_5: OOBB
+size_upper_length_6: OOBB
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
-    oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
+- directory: oomlout_oomp_symbol_bot/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
+  oomp_key: oomp_oomlout_oomlout_oomp_part_templates_oobb_connector_i2c_double
 type: header
 type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: he
+type_length_3: hea
+type_length_4: head
+type_length_5: heade
+type_length_6: header
 type_upper: HEADER
+type_upper_length_1: H
+type_upper_length_2: HE
+type_upper_length_3: HEA
+type_upper_length_4: HEAD
+type_upper_length_5: HEADE
+type_upper_length_6: HEADER

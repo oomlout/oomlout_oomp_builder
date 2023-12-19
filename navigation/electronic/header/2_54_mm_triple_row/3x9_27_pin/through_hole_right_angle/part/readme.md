@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hthra
 * oomp_word: herb two ok
 * oomp_word_emoji :herb: :two: :ok:
 * md5_6_alpha: 420or

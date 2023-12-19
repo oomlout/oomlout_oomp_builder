@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh3psm
 * oomp_word: ant hatched_chick ramen
 * oomp_word_emoji :ant: :hatched_chick: :ramen:
 * md5_6_alpha: 33d8e

@@ -1,0 +1,111 @@
+classification: hardware
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+description_extra: pozidrive_head
+description_extra_length_1: p
+description_extra_length_2: po
+description_extra_length_3: poz
+description_extra_length_4: pozi
+description_extra_length_5: pozid
+description_extra_length_6: pozidr
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PO
+description_extra_upper_length_3: POZ
+description_extra_upper_length_4: POZI
+description_extra_upper_length_5: POZID
+description_extra_upper_length_6: POZIDR
+description_main: 30_mm
+description_main_length_1: '3'
+description_main_length_2: '30'
+description_main_length_3: '30_'
+description_main_length_4: 30_m
+description_main_length_5: 30_mm
+description_main_length_6: 30_mm
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '30'
+description_main_upper_length_3: '30_'
+description_main_upper_length_4: 30_M
+description_main_upper_length_5: 30_MM
+description_main_upper_length_6: 30_MM
+directory: parts/hardware_screw_countersunk_4_mm_30_mm_pozidrive_head
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_4_mm_30_mm_pozidrive_head
+id: hardware_screw_countersunk_4_mm_30_mm_pozidrive_head
+id_no_class: screw_countersunk_4_mm_30_mm_pozidrive_head
+id_no_color: 30mmpozidrivehead
+id_no_size: 30_mm_pozidrive_head
+id_no_type: 4_mm_30_mm_pozidrive_head
+manufacturer: ''
+md5: 55d9fbaabaebab5edc664132f375dd13
+md5_10: 55d9fbaaba
+md5_10_upper: 55D9FBAABA
+md5_5: 55d9f
+md5_5_upper: 55D9F
+md5_6: 55d9fb
+md5_6_alpha: 3clbv
+md5_6_alpha_upper: 3CLBV
+md5_6_upper: 55D9FB
+name: Hardware Screw Countersunk 4 Mm 30 Mm Pozidrive Head
+name_no_class: Screw Countersunk 4 Mm 30 Mm Pozidrive Head
+name_no_color: 30Mmpozidrivehead
+name_no_size: 30 Mm Pozidrive Head
+name_no_type: 4 Mm 30 Mm Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 30 mm
+oomlout_bolt_length_no_unit: '30'
+oomlout_bolt_name: Countersunk M4X30 mm  (Pozidrive)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: cs4m30pz
+oomlout_short_code_upper: CS4M30PZ
+oomp_key: oomp_hardware_screw_countersunk_4_mm_30_mm_pozidrive_head
+oomp_word: dolphin bank ok
+oomp_word_emoji: ':dolphin: :bank: :ok:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':bank:'
+- ':ok:'
+oomp_word_list:
+- dolphin
+- bank
+- ok
+part_number: ''
+size: 4_mm
+size_length_1: '4'
+size_length_2: '4_'
+size_length_3: 4_m
+size_length_4: 4_mm
+size_length_5: 4_mm
+size_length_6: 4_mm
+size_upper_length_1: '4'
+size_upper_length_2: '4_'
+size_upper_length_3: 4_M
+size_upper_length_4: 4_MM
+size_upper_length_5: 4_MM
+size_upper_length_6: 4_MM
+type: screw_countersunk
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x4pth
 * oomp_word: car cupid bank
 * oomp_word_emoji :car: :cupid: :bank:
 * md5_6_alpha: 966e1

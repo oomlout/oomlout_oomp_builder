@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi140pths
 * oomp_word: pencil airplane racehorse
 * oomp_word_emoji :pencil: :airplane: :racehorse:
 * md5_6_alpha: 6e81s

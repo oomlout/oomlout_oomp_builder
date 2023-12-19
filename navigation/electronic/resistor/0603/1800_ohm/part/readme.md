@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o182
 * oomp_word: droplet hospital candy
 * oomp_word_emoji :droplet: :hospital: :candy:
 * md5_6_alpha: 1fr9h

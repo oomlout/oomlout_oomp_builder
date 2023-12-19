@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi131pths
 * oomp_word: ram turtle angel
 * oomp_word_emoji :ram: :turtle: :angel:
 * md5_6_alpha: 3d7vi

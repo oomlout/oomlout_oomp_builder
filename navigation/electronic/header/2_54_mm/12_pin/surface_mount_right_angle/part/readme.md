@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi112psmra
 * oomp_word: lollipop fax ship
 * oomp_word_emoji :lollipop: :fax: :ship:
 * md5_6_alpha: 7qti8

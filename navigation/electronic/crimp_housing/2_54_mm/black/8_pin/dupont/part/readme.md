@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b8pd
 * oomp_word: tophat tram banana
 * oomp_word_emoji :tophat: :tram: :banana:
 * md5_6_alpha: 6v3dc

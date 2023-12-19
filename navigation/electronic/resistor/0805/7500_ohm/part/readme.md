@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o752
 * oomp_word: fire smile ship
 * oomp_word_emoji :fire: :smile: :ship:
 * md5_6_alpha: s3q8

@@ -1,46 +1,39 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 20_mm
-description_main_capital: 20 mm
-description_main_first_letter: '2'
-description_main_first_letter_upper: '2'
-description_main_upper: 20_MM
-description_only_numbers: '20'
-description_only_numbers_short: '20'
-description_or_color: '20'
-description_or_color_upper: '20'
+description_main_length_1: '2'
+description_main_length_2: '20'
+description_main_length_3: '20_'
+description_main_length_4: 20_m
+description_main_length_5: 20_mm
+description_main_length_6: 20_mm
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '20'
+description_main_upper_length_3: '20_'
+description_main_upper_length_4: 20_M
+description_main_upper_length_5: 20_MM
+description_main_upper_length_6: 20_MM
 directory: parts/hardware_set_screw_3_mm_20_mm
-distributors: []
-filter: ''
-from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm
 id: hardware_set_screw_3_mm_20_mm
 id_no_class: set_screw_3_mm_20_mm
+id_no_color: 20mm
 id_no_size: 20_mm
 id_no_type: 3_mm_20_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_set_screw_3_mm_20_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm/working)<br>[ss320](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm/working)<br>[Hardware
-    Set Screw 3 Mm 20 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm/working)<br><br>'
-markdown_short: '[hardware_set_screw_3_mm_20_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_20_mm/working)<br><br>'
 md5: 0a9325a6d23703044a3af0bdda85e51b
 md5_10: 0a9325a6d2
 md5_10_upper: 0A9325A6D2
@@ -52,9 +45,20 @@ md5_6_alpha_upper: EUQT
 md5_6_upper: 0A9325
 name: Hardware Set Screw 3 Mm 20 Mm
 name_no_class: Set Screw 3 Mm 20 Mm
+name_no_color: 20Mm
 name_no_size: 20 Mm
-name_no_size_short: 20 Mm
 name_no_type: 3 Mm 20 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_name: Set Screw M3X20 mm  (Bolt)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: ss3m20
+oomlout_short_code_upper: SS3M20
 oomp_key: oomp_hardware_set_screw_3_mm_20_mm
 oomp_word: sleepy books ear
 oomp_word_emoji: ':sleepy: :books: :ear:'
@@ -67,21 +71,29 @@ oomp_word_list:
 - books
 - ear
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ss320
-short_code_upper: SS320
 size: 3_mm
-size_capital: 3 mm
-size_first_letter: '3'
-size_first_letter_upper: '3'
-size_only_numbers: '3'
-size_only_numbers_no_zeros: '3'
-size_upper: 3_MM
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: 3_m
+size_length_4: 3_mm
+size_length_5: 3_mm
+size_length_6: 3_mm
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: 3_M
+size_upper_length_4: 3_MM
+size_upper_length_5: 3_MM
+size_upper_length_6: 3_MM
 type: set_screw
-type_capital: Set Screw
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SET_SCREW
+type_length_1: s
+type_length_2: se
+type_length_3: set
+type_length_4: set_
+type_length_5: set_s
+type_length_6: set_sc
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SET
+type_upper_length_4: SET_
+type_upper_length_5: SET_S
+type_upper_length_6: SET_SC

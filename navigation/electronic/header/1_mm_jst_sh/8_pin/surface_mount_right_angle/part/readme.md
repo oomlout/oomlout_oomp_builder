@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh8psmra
 * oomp_word: crocodile hotel egg
 * oomp_word_emoji :crocodile: :hotel: :egg:
 * md5_6_alpha: 3p8lb

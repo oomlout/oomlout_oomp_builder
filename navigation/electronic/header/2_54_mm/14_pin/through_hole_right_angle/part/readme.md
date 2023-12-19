@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi114pthra
 * oomp_word: rat ox scroll
 * oomp_word_emoji :rat: :ox: :scroll:
 * md5_6_alpha: 3epot

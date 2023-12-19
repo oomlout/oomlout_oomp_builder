@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro563
 * oomp_word: palm_tree watermelon sheep
 * oomp_word_emoji :palm_tree: :watermelon: :sheep:
 * md5_6_alpha: 460jm

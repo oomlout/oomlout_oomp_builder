@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,7 +29,19 @@ description_main: 39000_ohm
 description_main_capital: 39000 Ohm
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '39'
+description_main_length_3: '390'
+description_main_length_4: '3900'
+description_main_length_5: '39000'
+description_main_length_6: '39000_'
 description_main_upper: 39000_OHM
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '39'
+description_main_upper_length_3: '390'
+description_main_upper_length_4: '3900'
+description_main_upper_length_5: '39000'
+description_main_upper_length_6: '39000_'
 description_only_numbers: '39000'
 description_only_numbers_short: 39k
 description_or_color: 39k
@@ -26,9 +50,10 @@ directory: parts/electronic_resistor_0402_39000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm
 id: electronic_resistor_0402_39000_ohm
 id_no_class: resistor_0402_39000_ohm
+id_no_color: 39000ohm
 id_no_size: 39000_ohm
 id_no_type: 0402_39000_ohm
 kicad_reference: R
@@ -38,37 +63,37 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
-            and they are the same price
-        reason_short: not in jlc basic parts
-    part_number: 0402WGJ0393TCE
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: in the jlc basic parts catalogue
-        reason_short: jlc basic part
-    part_number: 0402WGF3902TCE
--   id: manufacturer_yageo
-    link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL
-    name: Yageo
-    note:
-        reason: yageo is a commonly cross referenced part number
-        reason_short: available everywhere
-    part_number: RC0402JR-0739KL
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: 0402WGJ0393TCE
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: in the jlc basic parts catalogue
+    reason_short: jlc basic part
+  part_number: 0402WGF3902TCE
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL
+  name: Yageo
+  note:
+    reason: yageo is a commonly cross referenced part number
+    reason_short: available everywhere
+  part_number: RC0402JR-0739KL
 markdown_full: '[electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[r4o393](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br>[Electronic
-    Resistor 0402 39000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br><br>[Uniroyal
-    - 0402WGJ0393TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0393TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0393TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0393TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0393TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0393TCE)<br>[Uniroyal
-    - 0402WGF3902TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF3902TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF3902TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF3902TCE)[(N)  ](https://www.newark.com/search?st=0402WGF3902TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF3902TCE)<br>[Yageo
-    - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL)
-    [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0739KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0739KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0739KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0739KL)<br>'
+  Resistor 0402 39000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br><br>[Uniroyal
+  - 0402WGJ0393TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0393TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0393TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0393TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0393TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0393TCE)<br>[Uniroyal
+  - 0402WGF3902TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF3902TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF3902TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF3902TCE)[(N)  ](https://www.newark.com/search?st=0402WGF3902TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF3902TCE)<br>[Yageo
+  - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL)
+  [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0739KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0739KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0739KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0739KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0739KL)<br>'
 markdown_short: '[electronic_resistor_0402_39000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_39000_ohm/working)<br><br>[Uniroyal
-    - 0402WGJ0393TCE- not in jlc basic parts]()[Uniroyal - 0402WGF3902TCE- jlc basic
-    part]()[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL)'
+  - 0402WGJ0393TCE- not in jlc basic parts]()[Uniroyal - 0402WGF3902TCE- jlc basic
+  part]()[Yageo - RC0402JR-0739KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0739KL)'
 md5: 98195244940a4b8b644df1e5a8848ec0
 md5_10: '9819524494'
 md5_10_upper: '9819524494'
@@ -80,6 +105,7 @@ md5_6_alpha_upper: 5XNBM
 md5_6_upper: '981952'
 name: Electronic Resistor 0402 39000 Ohm
 name_no_class: Resistor 0402 39000 Ohm
+name_no_color: 39000Ohm
 name_no_size: 39000 Ohm
 name_no_size_short: 39k Ohm
 name_no_type: 0402 39000 Ohm
@@ -106,19 +132,43 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

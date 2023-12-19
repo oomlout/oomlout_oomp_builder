@@ -1,46 +1,39 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
 description_main: 35_mm
-description_main_capital: 35 mm
-description_main_first_letter: '3'
-description_main_first_letter_upper: '3'
-description_main_upper: 35_MM
-description_only_numbers: '35'
-description_only_numbers_short: '35'
-description_or_color: '35'
-description_or_color_upper: '35'
+description_main_length_1: '3'
+description_main_length_2: '35'
+description_main_length_3: '35_'
+description_main_length_4: 35_m
+description_main_length_5: 35_mm
+description_main_length_6: 35_mm
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '35'
+description_main_upper_length_3: '35_'
+description_main_upper_length_4: 35_M
+description_main_upper_length_5: 35_MM
+description_main_upper_length_6: 35_MM
 directory: parts/hardware_set_screw_5_mm_35_mm
-distributors: []
-filter: ''
-from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm
 id: hardware_set_screw_5_mm_35_mm
 id_no_class: set_screw_5_mm_35_mm
+id_no_color: 35mm
 id_no_size: 35_mm
 id_no_type: 5_mm_35_mm
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_set_screw_5_mm_35_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm/working)<br>[ss535](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm/working)<br>[Hardware
-    Set Screw 5 Mm 35 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm/working)<br><br>'
-markdown_short: '[hardware_set_screw_5_mm_35_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_5_mm_35_mm/working)<br><br>'
 md5: bd55b2c624977e01ef1c8af4d4114076
 md5_10: bd55b2c624
 md5_10_upper: BD55B2C624
@@ -52,9 +45,20 @@ md5_6_alpha_upper: 7DY9E
 md5_6_upper: BD55B2
 name: Hardware Set Screw 5 Mm 35 Mm
 name_no_class: Set Screw 5 Mm 35 Mm
+name_no_color: 35Mm
 name_no_size: 35 Mm
-name_no_size_short: 35 Mm
 name_no_type: 5 Mm 35 Mm
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 35 mm
+oomlout_bolt_length_no_unit: '35'
+oomlout_bolt_name: Set Screw M5X35 mm  (Bolt)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: ss5m35
+oomlout_short_code_upper: SS5M35
 oomp_key: oomp_hardware_set_screw_5_mm_35_mm
 oomp_word: rice dolphin handbag
 oomp_word_emoji: ':rice: :dolphin: :handbag:'
@@ -67,21 +71,29 @@ oomp_word_list:
 - dolphin
 - handbag
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ss535
-short_code_upper: SS535
 size: 5_mm
-size_capital: 5 mm
-size_first_letter: '5'
-size_first_letter_upper: '5'
-size_only_numbers: '5'
-size_only_numbers_no_zeros: '5'
-size_upper: 5_MM
+size_length_1: '5'
+size_length_2: '5_'
+size_length_3: 5_m
+size_length_4: 5_mm
+size_length_5: 5_mm
+size_length_6: 5_mm
+size_upper_length_1: '5'
+size_upper_length_2: '5_'
+size_upper_length_3: 5_M
+size_upper_length_4: 5_MM
+size_upper_length_5: 5_MM
+size_upper_length_6: 5_MM
 type: set_screw
-type_capital: Set Screw
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SET_SCREW
+type_length_1: s
+type_length_2: se
+type_length_3: set
+type_length_4: set_
+type_length_5: set_s
+type_length_6: set_sc
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SET
+type_upper_length_4: SET_
+type_upper_length_5: SET_S
+type_upper_length_6: SET_SC

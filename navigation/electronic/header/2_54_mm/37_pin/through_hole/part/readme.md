@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi137pth
 * oomp_word: sparkles chestnut rowboat
 * oomp_word_emoji :sparkles: :chestnut: :rowboat:
 * md5_6_alpha: lntv

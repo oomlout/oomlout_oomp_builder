@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340n
 
 ### other_codes
-* short_code: 
+* short_code: isp8
 * oomp_word: dress microscope foggy
 * oomp_word_emoji :dress: :microscope: :foggy:
 * md5_6_alpha: 6rtio

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci127pth
 * oomp_word: palm_tree ski question
 * oomp_word_emoji :palm_tree: :ski: :question:
 * md5_6_alpha: 45qtv

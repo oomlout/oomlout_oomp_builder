@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi115pthl
 * oomp_word: ant fax leopard
 * oomp_word_emoji :ant: :fax: :leopard:
 * md5_6_alpha: 33ntr

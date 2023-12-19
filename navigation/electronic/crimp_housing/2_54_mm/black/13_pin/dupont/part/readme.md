@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b13pd
 * oomp_word: sunny bamboo curry
 * oomp_word_emoji :sunny: :bamboo: :curry:
 * md5_6_alpha: 1m7qz

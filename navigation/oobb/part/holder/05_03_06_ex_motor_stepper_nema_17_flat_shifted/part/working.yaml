@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 05_03_06_ex_motor_stepper_nema_17_flat_shifted
 description_main_capital: 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '05'
+description_main_length_3: '05_'
+description_main_length_4: '05_0'
+description_main_length_5: '05_03'
+description_main_length_6: '05_03_'
 description_main_upper: 05_03_06_EX_MOTOR_STEPPER_NEMA_17_FLAT_SHIFTED
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '05'
+description_main_upper_length_3: '05_'
+description_main_upper_length_4: '05_0'
+description_main_upper_length_5: '05_03'
+description_main_upper_length_6: '05_03_'
 description_only_numbers: '05030617'
 description_only_numbers_short: 5M
 description_or_color: 5M
 description_or_color_upper: 5M
 directory: parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
 id: oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
 id_no_class: part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
+id_no_color: 050306exmotorsteppernema17flatshifted
 id_no_size: 05_03_06_ex_motor_stepper_nema_17_flat_shifted
 id_no_type: holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working)<br>[Oobb
-    Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working)<br><br>'
+  Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working)<br><br>'
 markdown_short: '[oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06_ex_motor_stepper_nema_17_flat_shifted/working)<br><br>'
 md5: d5b4a0f3c21832f984a5e5dd138ee347
 md5_10: d5b4a0f3c2
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 8C6N4
 md5_6_upper: D5B4A0
 name: Oobb Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
 name_no_class: Part Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
+name_no_color: 050306Exmotorsteppernema17Flatshifted
 name_no_size: 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
 name_no_size_short: 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
 name_no_type: Holder 05 03 06 Ex Motor Stepper Nema 17 Flat Shifted
@@ -75,11 +101,35 @@ size: holder
 size_capital: Holder
 size_first_letter: h
 size_first_letter_upper: H
+size_length_1: h
+size_length_2: ho
+size_length_3: hol
+size_length_4: hold
+size_length_5: holde
+size_length_6: holder
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HOLDER
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOL
+size_upper_length_4: HOLD
+size_upper_length_5: HOLDE
+size_upper_length_6: HOLDER
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

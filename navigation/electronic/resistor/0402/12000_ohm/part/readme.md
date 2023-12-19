@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o123
 * oomp_word: frog poop dizzy
 * oomp_word_emoji :frog: :poop: :dizzy:
 * md5_6_alpha: 26ryp

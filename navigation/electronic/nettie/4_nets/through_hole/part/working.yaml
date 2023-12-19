@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,7 +29,19 @@ description_main: through_hole
 description_main_capital: Through Hole
 description_main_first_letter: t
 description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: th
+description_main_length_3: thr
+description_main_length_4: thro
+description_main_length_5: throu
+description_main_length_6: throug
 description_main_upper: THROUGH_HOLE
+description_main_upper_length_1: T
+description_main_upper_length_2: TH
+description_main_upper_length_3: THR
+description_main_upper_length_4: THRO
+description_main_upper_length_5: THROU
+description_main_upper_length_6: THROUG
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -26,20 +50,21 @@ directory: parts/electronic_nettie_4_nets_through_hole
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm
-    note: source footprint kicad_nettie_nettie_4_tht_pad0_3mm
-    oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm
+  note: source footprint kicad_nettie_nettie_4_tht_pad0_3mm
+  oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole
 id: electronic_nettie_4_nets_through_hole
 id_no_class: nettie_4_nets_through_hole
+id_no_color: throughhole
 id_no_size: through_hole
 id_no_type: 4_nets_through_hole
 kicad_reference: ''
@@ -50,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br>[Electronic
-    Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>'
+  Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>'
 markdown_short: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_through_hole/working)<br><br>'
 md5: ac52abec84c9c9c28eb15db0ca925cd9
 md5_10: ac52abec84
@@ -63,6 +88,7 @@ md5_6_alpha_upper: 6Q20B
 md5_6_upper: AC52AB
 name: Electronic Nettie 4 Nets Through Hole
 name_no_class: Nettie 4 Nets Through Hole
+name_no_color: Throughhole
 name_no_size: Through Hole
 name_no_size_short: Through Hole
 name_no_type: 4 Nets Through Hole
@@ -88,16 +114,40 @@ size: 4_nets
 size_capital: 4 Nets
 size_first_letter: '4'
 size_first_letter_upper: '4'
+size_length_1: '4'
+size_length_2: '4_'
+size_length_3: 4_n
+size_length_4: 4_ne
+size_length_5: 4_net
+size_length_6: 4_nets
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: 4_NETS
+size_upper_length_1: '4'
+size_upper_length_2: '4_'
+size_upper_length_3: 4_N
+size_upper_length_4: 4_NE
+size_upper_length_5: 4_NET
+size_upper_length_6: 4_NETS
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
-    oomp_key: oomp_kicad_device_nettie_4
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
+  oomp_key: oomp_kicad_device_nettie_4
 type: nettie
 type_capital: Nettie
 type_first_letter: n
 type_first_letter_upper: N
+type_length_1: n
+type_length_2: ne
+type_length_3: net
+type_length_4: nett
+type_length_5: netti
+type_length_6: nettie
 type_upper: NETTIE
+type_upper_length_1: N
+type_upper_length_2: NE
+type_upper_length_3: NET
+type_upper_length_4: NETT
+type_upper_length_5: NETTI
+type_upper_length_6: NETTIE

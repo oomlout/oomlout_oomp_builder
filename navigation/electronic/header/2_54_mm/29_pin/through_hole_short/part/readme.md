@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi129pths
 * oomp_word: bread apple lollipop
 * oomp_word_emoji :bread: :apple: :lollipop:
 * md5_6_alpha: 7isp2

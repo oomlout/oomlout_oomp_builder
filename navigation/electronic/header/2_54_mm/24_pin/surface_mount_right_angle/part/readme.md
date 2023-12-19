@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi124psmra
 * oomp_word: watermelon angel blush
 * oomp_word_emoji :watermelon: :angel: :blush:
 * md5_6_alpha: 7yps2

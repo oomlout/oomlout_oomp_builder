@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: jumper
 description_main_capital: Jumper
 description_main_first_letter: j
 description_main_first_letter_upper: J
+description_main_length_1: j
+description_main_length_2: ju
+description_main_length_3: jum
+description_main_length_4: jump
+description_main_length_5: jumpe
+description_main_length_6: jumper
 description_main_upper: JUMPER
+description_main_upper_length_1: J
+description_main_upper_length_2: JU
+description_main_upper_length_3: JUM
+description_main_upper_length_4: JUMP
+description_main_upper_length_5: JUMPE
+description_main_upper_length_6: JUMPER
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/electronic_header_2_54_mm_jumper
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper
 id: electronic_header_2_54_mm_jumper
 id_no_class: header_2_54_mm_jumper
+id_no_color: jumper
 id_no_size: jumper
 id_no_type: 2_54_mm_jumper
 kicad_reference: CONN
@@ -37,7 +62,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[Electronic
-    Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
+  Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>'
 md5: 92227bc2f8b61bf65d6b0a3dfb2c607c
 md5_10: 92227bc2f8
@@ -50,6 +75,7 @@ md5_6_alpha_upper: 5P9Q3
 md5_6_upper: 92227B
 name: Electronic Header 2 54 Mm Jumper
 name_no_class: Header 2 54 Mm Jumper
+name_no_color: Jumper
 name_no_size: Jumper
 name_no_size_short: Jumper
 name_no_type: 2 54 Mm Jumper
@@ -75,11 +101,35 @@ size: 2_54_mm
 size_capital: 2.54 mm
 size_first_letter: '2'
 size_first_letter_upper: '2'
+size_length_1: '2'
+size_length_2: '2_'
+size_length_3: '2_5'
+size_length_4: '2_54'
+size_length_5: '2_54_'
+size_length_6: 2_54_m
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
+size_upper_length_1: '2'
+size_upper_length_2: '2_'
+size_upper_length_3: '2_5'
+size_upper_length_4: '2_54'
+size_upper_length_5: '2_54_'
+size_upper_length_6: 2_54_M
 type: header
 type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: he
+type_length_3: hea
+type_length_4: head
+type_length_5: heade
+type_length_6: header
 type_upper: HEADER
+type_upper_length_1: H
+type_upper_length_2: HE
+type_upper_length_3: HEA
+type_upper_length_4: HEAD
+type_upper_length_5: HEADE
+type_upper_length_6: HEADER

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi136psmra
 * oomp_word: rose seven hatched_chick
 * oomp_word_emoji :rose: :seven: :hatched_chick:
 * md5_6_alpha: 3wf9k

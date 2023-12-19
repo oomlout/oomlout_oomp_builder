@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro684
 * oomp_word: camera phone thumbsdown
 * oomp_word_emoji :camera: :phone: :thumbsdown:
 * md5_6_alpha: 4s1zr

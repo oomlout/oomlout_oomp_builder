@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci17pth
 * oomp_word: bamboo frog candy
 * oomp_word_emoji :bamboo: :frog: :candy:
 * md5_6_alpha: 4f1dx

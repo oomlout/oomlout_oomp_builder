@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x17psmra
 * oomp_word: angry parking sleepy
 * oomp_word_emoji :angry: :parking: :sleepy:
 * md5_6_alpha: e13e

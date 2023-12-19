@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi113pthra
 * oomp_word: rowboat snowman rocket
 * oomp_word_emoji :rowboat: :snowman: :rocket:
 * md5_6_alpha: 8v3z9

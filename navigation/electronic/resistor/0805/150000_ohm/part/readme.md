@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o154
 * oomp_word: moon envelope dancer
 * oomp_word_emoji :moon: :envelope: :dancer:
 * md5_6_alpha: 4cobg

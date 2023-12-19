@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o750
 * oomp_word: office ski fire
 * oomp_word_emoji :office: :ski: :fire:
 * md5_6_alpha: 8euqc

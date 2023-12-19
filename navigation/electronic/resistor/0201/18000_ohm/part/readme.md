@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro183
 * oomp_word: elephant ox lemon
 * oomp_word_emoji :elephant: :ox: :lemon:
 * md5_6_alpha: 2mmdl

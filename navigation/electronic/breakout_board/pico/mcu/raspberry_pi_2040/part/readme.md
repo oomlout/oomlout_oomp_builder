@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+The official Raspberry Pi breakout for the 2040
 
 ### id
 * oomp_id: electronic_breakout_board_pico_mcu_raspberry_pi_2040
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: bbpcmcurp2040
 * oomp_word: tram snake diamonds
 * oomp_word_emoji :tram: :snake: :diamonds:
 * md5_6_alpha: 929i7

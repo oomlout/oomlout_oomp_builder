@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o270
 * oomp_word: grin bus pencil
 * oomp_word_emoji :grin: :bus: :pencil:
 * md5_6_alpha: 5in7

@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 description_main_capital: 07 07.10 Nm 8 mm Tape Width 3 mm Tape Thickness Ex 3
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '07'
+description_main_length_3: '07_'
+description_main_length_4: '07_0'
+description_main_length_5: '07_07'
+description_main_length_6: '07_07_'
 description_main_upper: 07_07_10_NM_8_MM_TAPE_WIDTH_3_MM_TAPE_THICKNESS_EX_3
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '07'
+description_main_upper_length_3: '07_'
+description_main_upper_length_4: '07_0'
+description_main_upper_length_5: '07_07'
+description_main_upper_length_6: '07_07_'
 description_only_numbers: 070710833
 description_only_numbers_short: 7M
 description_or_color: 7M
 description_or_color_upper: 7M
 directory: parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 id: oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 id_no_class: part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
+id_no_color: 070710nm8mmtapewidth3mmtapethicknessex3
 id_no_size: 07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 id_no_type: smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br>[Oobb
-    Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br><br>'
+  Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br><br>'
 markdown_short: '[oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_3_mm_tape_thickness_ex_3/working)<br><br>'
 md5: 445e015918c3f26bba6c2d4cfd1a9427
 md5_10: 445e015918
@@ -49,7 +74,8 @@ md5_6_alpha_upper: 2O16P
 md5_6_upper: 445E01
 name: Oobb Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
 name_no_class: Part Smd Magazine 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex
-    3
+  3
+name_no_color: 070710Nm8Mmtapewidth3Mmtapethicknessex3
 name_no_size: 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
 name_no_size_short: 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
 name_no_type: Smd Magazine 07 07 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness Ex 3
@@ -76,11 +102,35 @@ size: smd_magazine
 size_capital: Smd Magazine
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SMD_MAGAZINE
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi131psm
 * oomp_word: bear ramen santa
 * oomp_word_emoji :bear: :ramen: :santa:
 * md5_6_alpha: 2bx4m

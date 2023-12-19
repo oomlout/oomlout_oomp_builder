@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 5204_size
 color_capital: 5204 Size
 color_first_letter: '5'
 color_first_letter_upper: '5'
+color_length_1: '5'
+color_length_2: '52'
+color_length_3: '520'
+color_length_4: '5204'
+color_length_5: '5204_'
+color_length_6: 5204_s
 color_upper: 5204_SIZE
+color_upper_length_1: '5'
+color_upper_length_2: '52'
+color_upper_length_3: '520'
+color_upper_length_4: '5204'
+color_upper_length_5: '5204_'
+color_upper_length_6: 5204_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 20_mm_id_47_mm_od_20.6_mm_depth
 description_main_capital: 20 mm Id 47 mm Od 20.6 mm Depth
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '20'
+description_main_length_3: '20_'
+description_main_length_4: 20_m
+description_main_length_5: 20_mm
+description_main_length_6: 20_mm_
 description_main_upper: 20_MM_ID_47_MM_OD_20.6_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '20'
+description_main_upper_length_3: '20_'
+description_main_upper_length_4: 20_M
+description_main_upper_length_5: 20_MM
+description_main_upper_length_6: 20_MM_
 description_only_numbers: '2047206'
 description_only_numbers_short: 2M
 description_or_color: 52M
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
 id: hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
 id_no_class: bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
+id_no_color: 20_mm_id_47_mm_od_20.6_mm_depth
 id_no_size: 5204_size_20_mm_id_47_mm_od_20.6_mm_depth
 id_no_type: 5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working)<br>[Hardware
-    Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working)<br><br>'
+  Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5204_size_20_mm_id_47_mm_od_20.6_mm_depth/working)<br><br>'
 md5: aec12fab109ae54f351c46e29a481626
 md5_10: aec12fab10
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 6TGZ3
 md5_6_upper: AEC12F
 name: Hardware Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
 name_no_class: Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
+name_no_color: 20 Mm Id 47 Mm Od 20.6 Mm Depth
 name_no_size: 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
 name_no_size_short: 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
 name_no_type: 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth
@@ -76,11 +114,35 @@ size: 5200_series
 size_capital: 5200 Series
 size_first_letter: '5'
 size_first_letter_upper: '5'
+size_length_1: '5'
+size_length_2: '52'
+size_length_3: '520'
+size_length_4: '5200'
+size_length_5: '5200_'
+size_length_6: 5200_s
 size_only_numbers: '5200'
 size_only_numbers_no_zeros: '52'
 size_upper: 5200_SERIES
+size_upper_length_1: '5'
+size_upper_length_2: '52'
+size_upper_length_3: '520'
+size_upper_length_4: '5200'
+size_upper_length_5: '5200_'
+size_upper_length_6: 5200_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

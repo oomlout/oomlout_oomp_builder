@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi120psm
 * oomp_word: dolls pear golf
 * oomp_word_emoji :dolls: :pear: :golf:
 * md5_6_alpha: 4ha56

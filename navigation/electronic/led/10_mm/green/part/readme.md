@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l10g
 * oomp_word: leopard maple_leaf ear
 * oomp_word_emoji :leopard: :maple_leaf: :ear:
 * md5_6_alpha: 3pzxh

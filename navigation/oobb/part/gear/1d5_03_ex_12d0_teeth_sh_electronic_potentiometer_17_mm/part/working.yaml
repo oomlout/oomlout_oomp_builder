@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 description_main_capital: 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 mm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: 1d
+description_main_length_3: 1d5
+description_main_length_4: 1d5_
+description_main_length_5: 1d5_0
+description_main_length_6: 1d5_03
 description_main_upper: 1D5_03_EX_12D0_TEETH_SH_ELECTRONIC_POTENTIOMETER_17_MM
+description_main_upper_length_1: '1'
+description_main_upper_length_2: 1D
+description_main_upper_length_3: 1D5
+description_main_upper_length_4: 1D5_
+description_main_upper_length_5: 1D5_0
+description_main_upper_length_6: 1D5_03
 description_only_numbers: '150312017'
 description_only_numbers_short: 1M5
 description_or_color: 1M5
 description_or_color_upper: 1M5
 directory: parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 id: oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 id_no_class: part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 1d503ex12d0teethshelectronicpotentiometer17mm
 id_no_size: 1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br>[Oobb
-    Part Gear 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
+  Part Gear 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
 markdown_short: '[oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03_ex_12d0_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
 md5: eca6c928c2de936d3c3fa42ee33aad97
 md5_10: eca6c928c2
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 98EYX
 md5_6_upper: ECA6C9
 name: Oobb Part Gear 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_class: Part Gear 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 1D503Ex12D0Teethshelectronicpotentiometer17Mm
 name_no_size: 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_size_short: 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Gear 1D5 03 Ex 12D0 Teeth Sh Electronic Potentiometer 17 Mm
@@ -75,11 +101,35 @@ size: gear
 size_capital: Gear
 size_first_letter: g
 size_first_letter_upper: G
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

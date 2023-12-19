@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12pthl
 * oomp_word: grin dress turtle
 * oomp_word_emoji :grin: :dress: :turtle:
 * md5_6_alpha: 55xo

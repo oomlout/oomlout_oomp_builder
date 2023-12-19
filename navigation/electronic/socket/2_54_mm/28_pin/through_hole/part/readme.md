@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci128pth
 * oomp_word: wink honey_pot toilet
 * oomp_word_emoji :wink: :honey_pot: :toilet:
 * md5_6_alpha: 6pon

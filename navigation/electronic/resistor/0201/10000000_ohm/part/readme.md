@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro106
 * oomp_word: car rose bouquet
 * oomp_word_emoji :car: :rose: :bouquet:
 * md5_6_alpha: 96n35

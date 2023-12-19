@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro224
 * oomp_word: bouquet three pineapple
 * oomp_word_emoji :bouquet: :three: :pineapple:
 * md5_6_alpha: 3tlg2

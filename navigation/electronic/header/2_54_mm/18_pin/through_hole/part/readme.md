@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi118pth
 * oomp_word: dragon feet airplane
 * oomp_word_emoji :dragon: :feet: :airplane:
 * md5_6_alpha: 3h78m

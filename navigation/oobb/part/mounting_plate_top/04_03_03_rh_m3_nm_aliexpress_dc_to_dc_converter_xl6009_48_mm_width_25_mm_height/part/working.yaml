@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -15,19 +27,32 @@ description_extra_first_letter_upper: ''
 description_extra_upper: ''
 description_main: 04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 description_main_capital: 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009.48
-    mm Width 25 mm Height
+  mm Width 25 mm Height
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '04'
+description_main_length_3: '04_'
+description_main_length_4: '04_0'
+description_main_length_5: '04_03'
+description_main_length_6: '04_03_'
 description_main_upper: 04_03_03_RH_M3_NM_ALIEXPRESS_DC_TO_DC_CONVERTER_XL6009_48_MM_WIDTH_25_MM_HEIGHT
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '04'
+description_main_upper_length_3: '04_'
+description_main_upper_length_4: '04_0'
+description_main_upper_length_5: '04_03'
+description_main_upper_length_6: '04_03_'
 description_only_numbers: 040303360094825
 description_only_numbers_short: 4M
 description_or_color: 4M
 description_or_color_upper: 4M
 directory: parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 id: oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 id_no_class: part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
+id_no_color: 040303rhm3nmaliexpressdctodcconverterxl600948mmwidth25mmheight
 id_no_size: 04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 id_no_type: mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 manufacturer: ''
@@ -37,8 +62,8 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working)<br>[Oobb
-    Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009
-    48 Mm Width 25 Mm Height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working)<br><br>'
+  Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48
+  Mm Width 25 Mm Height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working)<br><br>'
 markdown_short: '[oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height/working)<br><br>'
 md5: 9f010127445a5843f98b11a1adbf724b
 md5_10: 9f01012744
@@ -50,15 +75,16 @@ md5_6_alpha: 67cht
 md5_6_alpha_upper: 67CHT
 md5_6_upper: 9F0101
 name: Oobb Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter
-    Xl6009 48 Mm Width 25 Mm Height
+  Xl6009 48 Mm Width 25 Mm Height
 name_no_class: Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter
-    Xl6009 48 Mm Width 25 Mm Height
+  Xl6009 48 Mm Width 25 Mm Height
+name_no_color: 040303Rhm3Nmaliexpressdctodcconverterxl600948Mmwidth25Mmheight
 name_no_size: 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25
-    Mm Height
+  Mm Height
 name_no_size_short: 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width
-    25 Mm Height
+  25 Mm Height
 name_no_type: Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009
-    48 Mm Width 25 Mm Height
+  48 Mm Width 25 Mm Height
 oomp_key: oomp_oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
 oomp_word: diamonds smile smile
 oomp_word_emoji: ':diamonds: :smile: :smile:'
@@ -82,11 +108,35 @@ size: mounting_plate_top
 size_capital: Mounting Plate Top
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: mo
+size_length_3: mou
+size_length_4: moun
+size_length_5: mount
+size_length_6: mounti
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MOUNTING_PLATE_TOP
+size_upper_length_1: M
+size_upper_length_2: MO
+size_upper_length_3: MOU
+size_upper_length_4: MOUN
+size_upper_length_5: MOUNT
+size_upper_length_6: MOUNTI
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

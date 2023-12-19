@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro472
 * oomp_word: alien bread telescope
 * oomp_word_emoji :alien: :bread: :telescope:
 * md5_6_alpha: hwut

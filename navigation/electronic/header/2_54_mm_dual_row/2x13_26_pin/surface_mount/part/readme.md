@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x13psm
 * oomp_word: ocean whale feet
 * oomp_word_emoji :ocean: :whale: :feet:
 * md5_6_alpha: 1xag1

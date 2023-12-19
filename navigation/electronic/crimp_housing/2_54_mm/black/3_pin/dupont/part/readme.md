@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b3pd
 * oomp_word: school sheep computer
 * oomp_word_emoji :school: :sheep: :computer:
 * md5_6_alpha: 8cynv

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b4pd
 * oomp_word: clap hospital nose
 * oomp_word_emoji :clap: :hospital: :nose:
 * md5_6_alpha: 11pgn

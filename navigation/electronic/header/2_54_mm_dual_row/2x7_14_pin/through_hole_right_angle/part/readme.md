@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x7pthra
 * oomp_word: office hammer baby_chick
 * oomp_word_emoji :office: :hammer: :baby_chick:
 * md5_6_alpha: 8er7r

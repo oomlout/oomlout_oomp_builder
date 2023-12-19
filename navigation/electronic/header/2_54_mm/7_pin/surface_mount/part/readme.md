@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi17psm
 * oomp_word: key egg spades
 * oomp_word_emoji :key: :egg: :spades:
 * md5_6_alpha: 56gt8

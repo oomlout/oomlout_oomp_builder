@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 6706_size
 color_capital: 6706 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '67'
+color_length_3: '670'
+color_length_4: '6706'
+color_length_5: '6706_'
+color_length_6: 6706_s
 color_upper: 6706_SIZE
+color_upper_length_1: '6'
+color_upper_length_2: '67'
+color_upper_length_3: '670'
+color_upper_length_4: '6706'
+color_upper_length_5: '6706_'
+color_upper_length_6: 6706_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 30_mm_id_37_mm_od_4_mm_depth
 description_main_capital: 30 mm Id 37 mm Od 4 mm Depth
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '30'
+description_main_length_3: '30_'
+description_main_length_4: 30_m
+description_main_length_5: 30_mm
+description_main_length_6: 30_mm_
 description_main_upper: 30_MM_ID_37_MM_OD_4_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '30'
+description_main_upper_length_3: '30_'
+description_main_upper_length_4: 30_M
+description_main_upper_length_5: 30_MM
+description_main_upper_length_6: 30_MM_
 description_only_numbers: '30374'
 description_only_numbers_short: 30k
 description_or_color: 630k
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_d
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
 id: hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
 id_no_class: bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
+id_no_color: 30_mm_id_37_mm_od_4_mm_depth
 id_no_size: 6706_size_30_mm_id_37_mm_od_4_mm_depth
 id_no_type: 6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working)<br>[Hardware
-    Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working)<br><br>'
+  Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6706_size_30_mm_id_37_mm_od_4_mm_depth/working)<br><br>'
 md5: d442f00e58471c74ace9ba0b9bf0eb83
 md5_10: d442f00e58
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 8A5M8
 md5_6_upper: D442F0
 name: Hardware Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
 name_no_class: Bearing 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
+name_no_color: 30 Mm Id 37 Mm Od 4 Mm Depth
 name_no_size: 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
 name_no_size_short: 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
 name_no_type: 6700 Series 6706 Size 30 Mm Id 37 Mm Od 4 Mm Depth
@@ -76,11 +114,35 @@ size: 6700_series
 size_capital: 6700 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
+size_length_1: '6'
+size_length_2: '67'
+size_length_3: '670'
+size_length_4: '6700'
+size_length_5: '6700_'
+size_length_6: 6700_s
 size_only_numbers: '6700'
 size_only_numbers_no_zeros: '67'
 size_upper: 6700_SERIES
+size_upper_length_1: '6'
+size_upper_length_2: '67'
+size_upper_length_3: '670'
+size_upper_length_4: '6700'
+size_upper_length_5: '6700_'
+size_upper_length_6: 6700_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

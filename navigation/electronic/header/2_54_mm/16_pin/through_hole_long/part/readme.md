@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi116pthl
 * oomp_word: tomato rainbow snowman
 * oomp_word_emoji :tomato: :rainbow: :snowman:
 * md5_6_alpha: 89lpp

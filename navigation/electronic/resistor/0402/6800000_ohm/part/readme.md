@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o685
 * oomp_word: fax scissors racehorse
 * oomp_word_emoji :fax: :scissors: :racehorse:
 * md5_6_alpha: 4xs1s

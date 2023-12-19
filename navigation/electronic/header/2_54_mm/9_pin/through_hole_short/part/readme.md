@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi19pths
 * oomp_word: baby tiger new_moon
 * oomp_word_emoji :baby: :tiger: :new_moon:
 * md5_6_alpha: 151ta

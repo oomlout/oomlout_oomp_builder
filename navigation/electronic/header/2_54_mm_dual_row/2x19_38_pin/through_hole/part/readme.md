@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x19pth
 * oomp_word: cherries seven nose
 * oomp_word_emoji :cherries: :seven: :nose:
 * md5_6_alpha: 7x3qf

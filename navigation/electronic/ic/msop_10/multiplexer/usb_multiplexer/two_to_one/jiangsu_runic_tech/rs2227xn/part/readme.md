@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: rs2227xn
 
 ### other_codes
-* short_code: 
+* short_code: imsp10mpump21rs2227
 * oomp_word: koala star blush
 * oomp_word_emoji :koala: :star: :blush:
 * md5_6_alpha: 29k3m

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o684
 * oomp_word: star wolf coffee
 * oomp_word_emoji :star: :wolf: :coffee:
 * md5_6_alpha: ms38

@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 description_main_capital: 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '04'
+description_main_length_3: '04_'
+description_main_length_4: '04_0'
+description_main_length_5: '04_04'
+description_main_length_6: '04_04_'
 description_main_upper: 04_04_03_RH_M3_MO_26_NM_ALIEXPRESS_MOTOR_CONTROLLER_SPEED
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '04'
+description_main_upper_length_3: '04_'
+description_main_upper_length_4: '04_0'
+description_main_upper_length_5: '04_04'
+description_main_upper_length_6: '04_04_'
 description_only_numbers: '040403326'
 description_only_numbers_short: 4M
 description_or_color: 4M
 description_or_color_upper: 4M
 directory: parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 id: oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 id_no_class: part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
+id_no_color: 040403rhm3mo26nmaliexpressmotorcontrollerspeed
 id_no_size: 04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 id_no_type: mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br>[Oobb
-    Part Mounting Plate Side 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br><br>'
+  Part Mounting Plate Side 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br><br>'
 markdown_short: '[oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed/working)<br><br>'
 md5: cd9411854efe53e3d10402ae3b244336
 md5_10: cd9411854e
@@ -48,13 +73,14 @@ md5_6_alpha: 80ro1
 md5_6_alpha_upper: 80RO1
 md5_6_upper: CD9411
 name: Oobb Part Mounting Plate Side 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
-    Speed
+  Speed
 name_no_class: Part Mounting Plate Side 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
-    Speed
+  Speed
+name_no_color: 040403Rhm3Mo26Nmaliexpressmotorcontrollerspeed
 name_no_size: 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
 name_no_size_short: 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
 name_no_type: Mounting Plate Side 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller
-    Speed
+  Speed
 oomp_key: oomp_oobb_part_mounting_plate_side_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
 oomp_word: strawberry microscope dizzy
 oomp_word_emoji: ':strawberry: :microscope: :dizzy:'
@@ -78,11 +104,35 @@ size: mounting_plate_side
 size_capital: Mounting Plate Side
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: mo
+size_length_3: mou
+size_length_4: moun
+size_length_5: mount
+size_length_6: mounti
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MOUNTING_PLATE_SIDE
+size_upper_length_1: M
+size_upper_length_2: MO
+size_upper_length_3: MOU
+size_upper_length_4: MOUN
+size_upper_length_5: MOUNT
+size_upper_length_6: MOUNTI
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

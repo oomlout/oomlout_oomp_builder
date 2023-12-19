@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o122
 * oomp_word: camel frog mushroom
 * oomp_word_emoji :camel: :frog: :mushroom:
 * md5_6_alpha: 2jm20

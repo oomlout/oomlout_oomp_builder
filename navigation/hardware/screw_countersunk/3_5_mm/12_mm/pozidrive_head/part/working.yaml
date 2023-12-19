@@ -1,0 +1,111 @@
+classification: hardware
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+description_extra: pozidrive_head
+description_extra_length_1: p
+description_extra_length_2: po
+description_extra_length_3: poz
+description_extra_length_4: pozi
+description_extra_length_5: pozid
+description_extra_length_6: pozidr
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PO
+description_extra_upper_length_3: POZ
+description_extra_upper_length_4: POZI
+description_extra_upper_length_5: POZID
+description_extra_upper_length_6: POZIDR
+description_main: 12_mm
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_m
+description_main_length_5: 12_mm
+description_main_length_6: 12_mm
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_M
+description_main_upper_length_5: 12_MM
+description_main_upper_length_6: 12_MM
+directory: parts/hardware_screw_countersunk_3_5_mm_12_mm_pozidrive_head
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_3_5_mm_12_mm_pozidrive_head
+id: hardware_screw_countersunk_3_5_mm_12_mm_pozidrive_head
+id_no_class: screw_countersunk_3_5_mm_12_mm_pozidrive_head
+id_no_color: 12mmpozidrivehead
+id_no_size: 12_mm_pozidrive_head
+id_no_type: 3_5_mm_12_mm_pozidrive_head
+manufacturer: ''
+md5: 5f1f1aa73996dbf871f32264942e2f53
+md5_10: 5f1f1aa739
+md5_10_upper: 5F1F1AA739
+md5_5: 5f1f1
+md5_5_upper: 5F1F1
+md5_6: 5f1f1a
+md5_6_alpha: 3pm3e
+md5_6_alpha_upper: 3PM3E
+md5_6_upper: 5F1F1A
+name: Hardware Screw Countersunk 3 5 Mm 12 Mm Pozidrive Head
+name_no_class: Screw Countersunk 3 5 Mm 12 Mm Pozidrive Head
+name_no_color: 12Mmpozidrivehead
+name_no_size: 12 Mm Pozidrive Head
+name_no_type: 3 5 Mm 12 Mm Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 12 mm
+oomlout_bolt_length_no_unit: '12'
+oomlout_bolt_name: Countersunk M3_5X12 mm  (Pozidrive)
+oomlout_bolt_size: M3_5
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: cs3_5m12pz
+oomlout_short_code_upper: CS3_5M12PZ
+oomp_key: oomp_hardware_screw_countersunk_3_5_mm_12_mm_pozidrive_head
+oomp_word: leopard princess clap
+oomp_word_emoji: ':leopard: :princess: :clap:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':princess:'
+- ':clap:'
+oomp_word_list:
+- leopard
+- princess
+- clap
+part_number: ''
+size: 3_5_mm
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: '3_5'
+size_length_4: '3_5_'
+size_length_5: 3_5_m
+size_length_6: 3_5_mm
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: '3_5'
+size_upper_length_4: '3_5_'
+size_upper_length_5: 3_5_M
+size_upper_length_6: 3_5_MM
+type: screw_countersunk
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

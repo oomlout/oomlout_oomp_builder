@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o392
 * oomp_word: blowfish recycle rainbow
 * oomp_word_emoji :blowfish: :recycle: :rainbow:
 * md5_6_alpha: 3o15q

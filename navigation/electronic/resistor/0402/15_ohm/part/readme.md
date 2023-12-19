@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o150
 * oomp_word: snake hatching_chick corn
 * oomp_word_emoji :snake: :hatching_chick: :corn:
 * md5_6_alpha: 2pbro

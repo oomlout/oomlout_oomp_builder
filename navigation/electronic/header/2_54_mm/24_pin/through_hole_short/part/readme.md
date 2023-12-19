@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi124pths
 * oomp_word: lock pig gift
 * oomp_word_emoji :lock: :pig: :gift:
 * md5_6_alpha: 54cc7

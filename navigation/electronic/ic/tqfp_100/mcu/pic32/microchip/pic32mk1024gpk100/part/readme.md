@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: pic32mk1024gpk100
 
 ### other_codes
-* short_code: 
+* short_code: imcup32mk1024
 * oomp_word: star pill scroll
 * oomp_word_emoji :star: :pill: :scroll:
 * md5_6_alpha: n8ul

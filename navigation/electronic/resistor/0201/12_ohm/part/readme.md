@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro120
 * oomp_word: cyclone tea bowtie
 * oomp_word_emoji :cyclone: :tea: :bowtie:
 * md5_6_alpha: 1v0g0

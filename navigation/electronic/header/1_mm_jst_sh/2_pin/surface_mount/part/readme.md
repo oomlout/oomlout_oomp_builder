@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh2psm
 * oomp_word: nose hamster tiger
 * oomp_word_emoji :nose: :hamster: :tiger:
 * md5_6_alpha: 1j2nt

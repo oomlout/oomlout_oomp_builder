@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh4psm
 * oomp_word: tulip key hammer
 * oomp_word_emoji :tulip: :key: :hammer:
 * md5_6_alpha: 3udu1

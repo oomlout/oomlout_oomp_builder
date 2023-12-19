@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o182
 * oomp_word: mushroom flags coffee
 * oomp_word_emoji :mushroom: :flags: :coffee:
 * md5_6_alpha: 42px0

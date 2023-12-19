@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 description_main_capital: 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: 09
+description_main_length_3: 09_
+description_main_length_4: 09_0
+description_main_length_5: 09_09
+description_main_length_6: 09_09_
 description_main_upper: 09_09_03_RH_M3_NM_NETGEAR_5_PORT_GIGABIT_SWITCH_GS105V5
+description_main_upper_length_1: '0'
+description_main_upper_length_2: 09
+description_main_upper_length_3: 09_
+description_main_upper_length_4: 09_0
+description_main_upper_length_5: 09_09
+description_main_upper_length_6: 09_09_
 description_only_numbers: 090903351055
 description_only_numbers_short: 9M
 description_or_color: 9M
 description_or_color_upper: 9M
 directory: parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 id: oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 id_no_class: part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
+id_no_color: 090903rhm3nmnetgear5portgigabitswitchgs105v5
 id_no_size: 09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 id_no_type: mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working)<br>[Oobb
-    Part Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working)<br><br>'
+  Part Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working)<br><br>'
 markdown_short: '[oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5/working)<br><br>'
 md5: 5b5b78b6b070bb854b15497f2d9fcbc5
 md5_10: 5b5b78b6b0
@@ -49,7 +74,8 @@ md5_6_alpha_upper: 3KBQW
 md5_6_upper: 5B5B78
 name: Oobb Part Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
 name_no_class: Part Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch
-    Gs105V5
+  Gs105V5
+name_no_color: 090903Rhm3Nmnetgear5Portgigabitswitchgs105V5
 name_no_size: 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
 name_no_size_short: 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
 name_no_type: Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
@@ -76,11 +102,35 @@ size: mounting_plate
 size_capital: Mounting Plate
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: mo
+size_length_3: mou
+size_length_4: moun
+size_length_5: mount
+size_length_6: mounti
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MOUNTING_PLATE
+size_upper_length_1: M
+size_upper_length_2: MO
+size_upper_length_3: MOU
+size_upper_length_4: MOUN
+size_upper_length_5: MOUNT
+size_upper_length_6: MOUNTI
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

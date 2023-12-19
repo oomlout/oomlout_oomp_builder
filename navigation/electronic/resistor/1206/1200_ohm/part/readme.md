@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o122
 * oomp_word: corn strawberry camera
 * oomp_word_emoji :corn: :strawberry: :camera:
 * md5_6_alpha: 8awze

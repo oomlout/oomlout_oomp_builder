@@ -2,46 +2,95 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: linear
 color_capital: Linear
 color_first_letter: l
 color_first_letter_upper: L
+color_length_1: l
+color_length_2: li
+color_length_3: lin
+color_length_4: line
+color_length_5: linea
+color_length_6: linear
 color_upper: LINEAR
+color_upper_length_1: L
+color_upper_length_2: LI
+color_upper_length_3: LIN
+color_upper_length_4: LINE
+color_upper_length_5: LINEA
+color_upper_length_6: LINEAR
 description_extra: 5_volt
 description_extra_capital: 5 Volt
 description_extra_first_letter: '5'
 description_extra_first_letter_upper: '5'
+description_extra_length_1: '5'
+description_extra_length_2: '5_'
+description_extra_length_3: 5_v
+description_extra_length_4: 5_vo
+description_extra_length_5: 5_vol
+description_extra_length_6: 5_volt
 description_extra_upper: 5_VOLT
+description_extra_upper_length_1: '5'
+description_extra_upper_length_2: '5_'
+description_extra_upper_length_3: 5_V
+description_extra_upper_length_4: 5_VO
+description_extra_upper_length_5: 5_VOL
+description_extra_upper_length_6: 5_VOLT
 description_main: '1117'
 description_main_capital: '1117'
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '11'
+description_main_length_3: '111'
+description_main_length_4: '1117'
+description_main_length_5: '1117'
+description_main_length_6: '1117'
 description_main_upper: '1117'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '11'
+description_main_upper_length_3: '111'
+description_main_upper_length_4: '1117'
+description_main_upper_length_5: '1117'
+description_main_upper_length_6: '1117'
 description_only_numbers: '1117'
 description_only_numbers_short: 1k1
 description_or_color: L1k1
 description_or_color_upper: L1K1
 directory: parts/electronic_pmic_sot_223_linear_1117_5_volt
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C347223.html
-    name: LCSC
-    part_number: C347223
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C347223.html
+  name: LCSC
+  part_number: C347223
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
-    note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
-    oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+  note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
+  oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117v5_electronic_pmic_sot_223_linear_1117_5_volt
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt
 id: electronic_pmic_sot_223_linear_1117_5_volt
 id_no_class: pmic_sot_223_linear_1117_5_volt
+id_no_color: 1117_5_volt
 id_no_size: linear_1117_5_volt
 id_no_type: sot_223_linear_1117_5_volt
 manufacturer: ''
@@ -50,17 +99,17 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_umw_youtai_semiconductor_co_ltd
-    link: ''
-    name: UMW(Youtai Semiconductor Co., Ltd.)
-    part_number: AMS1117-5.0
+- id: manufacturer_umw_youtai_semiconductor_co_ltd
+  link: ''
+  name: UMW(Youtai Semiconductor Co., Ltd.)
+  part_number: AMS1117-5.0
 markdown_full: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[pms2231117v5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[Electronic
-    Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC
-    - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor
-    Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br>'
+  Pmic Sot 223 Linear 1117 5 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC
+  - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor
+  Co., Ltd.) - AMS1117-5.0]() [(L)  ](https://www.lcsc.com/search?q=AMS1117-5.0)[(D)  ](https://www.digikey.com/en/products?keywords=AMS1117-5.0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=AMS1117-5.0)[(N)  ](https://www.newark.com/search?st=AMS1117-5.0)[(SZ)  ](https://so.szlcsc.com/global.html?k=AMS1117-5.0)<br>'
 markdown_short: '[electronic_pmic_sot_223_linear_1117_5_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_5_volt/working)<br>[LCSC
-    - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor
-    Co., Ltd.) - AMS1117-5.0]()'
+  - C347223<br>](https://lcsc.com/product-detail/C347223.html)<br>[UMW(Youtai Semiconductor
+  Co., Ltd.) - AMS1117-5.0]()'
 md5: f26ce0b91db98ace92559b334d2cc5a6
 md5_10: f26ce0b91d
 md5_10_upper: F26CE0B91D
@@ -72,6 +121,7 @@ md5_6_alpha_upper: 9GIXS
 md5_6_upper: F26CE0
 name: Electronic Pmic Sot 223 Linear 1117 5 Volt
 name_no_class: Pmic Sot 223 Linear 1117 5 Volt
+name_no_color: 1117 5 Volt
 name_no_size: Linear 1117 5 Volt
 name_no_size_short: Linear 1k1 5 Volt
 name_no_type: Sot 223 Linear 1117 5 Volt
@@ -99,19 +149,43 @@ size: sot_223
 size_capital: Sot 223
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: sot
+size_length_4: sot_
+size_length_5: sot_2
+size_length_6: sot_22
 size_only_numbers: '223'
 size_only_numbers_no_zeros: '223'
 size_upper: SOT_223
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOT
+size_upper_length_4: SOT_
+size_upper_length_5: SOT_2
+size_upper_length_6: SOT_22
 smd_tape_depth: 2_mm
 smd_tape_pitch: 8_mm
 smd_tape_width: 12_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
-    oomp_key: oomp_kicad_regulator_linear_ap1117_50
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_50//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_50
+  oomp_key: oomp_kicad_regulator_linear_ap1117_50
 type: pmic
 type_capital: Pmic
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pm
+type_length_3: pmi
+type_length_4: pmic
+type_length_5: pmic
+type_length_6: pmic
 type_upper: PMIC
+type_upper_length_1: P
+type_upper_length_2: PM
+type_upper_length_3: PMI
+type_upper_length_4: PMIC
+type_upper_length_5: PMIC
+type_upper_length_6: PMIC

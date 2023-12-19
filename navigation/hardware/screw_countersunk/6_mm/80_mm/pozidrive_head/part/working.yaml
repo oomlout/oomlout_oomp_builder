@@ -1,0 +1,111 @@
+classification: hardware
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+description_extra: pozidrive_head
+description_extra_length_1: p
+description_extra_length_2: po
+description_extra_length_3: poz
+description_extra_length_4: pozi
+description_extra_length_5: pozid
+description_extra_length_6: pozidr
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PO
+description_extra_upper_length_3: POZ
+description_extra_upper_length_4: POZI
+description_extra_upper_length_5: POZID
+description_extra_upper_length_6: POZIDR
+description_main: 80_mm
+description_main_length_1: '8'
+description_main_length_2: '80'
+description_main_length_3: '80_'
+description_main_length_4: 80_m
+description_main_length_5: 80_mm
+description_main_length_6: 80_mm
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '80'
+description_main_upper_length_3: '80_'
+description_main_upper_length_4: 80_M
+description_main_upper_length_5: 80_MM
+description_main_upper_length_6: 80_MM
+directory: parts/hardware_screw_countersunk_6_mm_80_mm_pozidrive_head
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_6_mm_80_mm_pozidrive_head
+id: hardware_screw_countersunk_6_mm_80_mm_pozidrive_head
+id_no_class: screw_countersunk_6_mm_80_mm_pozidrive_head
+id_no_color: 80mmpozidrivehead
+id_no_size: 80_mm_pozidrive_head
+id_no_type: 6_mm_80_mm_pozidrive_head
+manufacturer: ''
+md5: 10b39eb9fd3f6253b08e91df5e170e55
+md5_10: 10b39eb9fd
+md5_10_upper: 10B39EB9FD
+md5_5: 10b39
+md5_5_upper: 10B39
+md5_6: 10b39e
+md5_6_alpha: ngke
+md5_6_alpha_upper: NGKE
+md5_6_upper: 10B39E
+name: Hardware Screw Countersunk 6 Mm 80 Mm Pozidrive Head
+name_no_class: Screw Countersunk 6 Mm 80 Mm Pozidrive Head
+name_no_color: 80Mmpozidrivehead
+name_no_size: 80 Mm Pozidrive Head
+name_no_type: 6 Mm 80 Mm Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 80 mm
+oomlout_bolt_length_no_unit: '80'
+oomlout_bolt_name: Countersunk M6X80 mm  (Pozidrive)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: cs6m80pz
+oomlout_short_code_upper: CS6M80PZ
+oomp_key: oomp_hardware_screw_countersunk_6_mm_80_mm_pozidrive_head
+oomp_word: star eyeglasses clubs
+oomp_word_emoji: ':star: :eyeglasses: :clubs:'
+oomp_word_emoji_list:
+- ':star:'
+- ':eyeglasses:'
+- ':clubs:'
+oomp_word_list:
+- star
+- eyeglasses
+- clubs
+part_number: ''
+size: 6_mm
+size_length_1: '6'
+size_length_2: '6_'
+size_length_3: 6_m
+size_length_4: 6_mm
+size_length_5: 6_mm
+size_length_6: 6_mm
+size_upper_length_1: '6'
+size_upper_length_2: '6_'
+size_upper_length_3: 6_M
+size_upper_length_4: 6_MM
+size_upper_length_5: 6_MM
+size_upper_length_6: 6_MM
+type: screw_countersunk
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

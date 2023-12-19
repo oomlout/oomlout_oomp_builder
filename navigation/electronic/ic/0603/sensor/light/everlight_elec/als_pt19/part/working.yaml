@@ -2,12 +2,36 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: sensor
 color_capital: Sensor
 color_first_letter: s
 color_first_letter_upper: S
+color_length_1: s
+color_length_2: se
+color_length_3: sen
+color_length_4: sens
+color_length_5: senso
+color_length_6: sensor
 color_upper: SENSOR
+color_upper_length_1: S
+color_upper_length_2: SE
+color_upper_length_3: SEN
+color_upper_length_4: SENS
+color_upper_length_5: SENSO
+color_upper_length_6: SENSOR
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,40 +41,65 @@ description_main: light
 description_main_capital: Light
 description_main_first_letter: l
 description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: li
+description_main_length_3: lig
+description_main_length_4: ligh
+description_main_length_5: light
+description_main_length_6: light
 description_main_upper: LIGHT
+description_main_upper_length_1: L
+description_main_upper_length_2: LI
+description_main_upper_length_3: LIG
+description_main_upper_length_4: LIGH
+description_main_upper_length_5: LIGHT
+description_main_upper_length_6: LIGHT
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C146233.html
-    name: LCSC
-    part_number: C146233
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C146233.html
+  name: LCSC
+  part_number: C146233
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 id_no_class: ic_0603_sensor_light_everlight_elec_als_pt19
+id_no_color: light_everlight_elec_als_pt19
 id_no_size: sensor_light_everlight_elec_als_pt19
 id_no_type: 0603_sensor_light_everlight_elec_als_pt19
 manufacturer: everlight_elec
 manufacturer_capital: Everlight Elec
 manufacturer_first_letter: e
 manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ev
+manufacturer_length_3: eve
+manufacturer_length_4: ever
+manufacturer_length_5: everl
+manufacturer_length_6: everli
 manufacturer_upper: EVERLIGHT_ELEC
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EV
+manufacturer_upper_length_3: EVE
+manufacturer_upper_length_4: EVER
+manufacturer_upper_length_5: EVERL
+manufacturer_upper_length_6: EVERLI
 manufacturers:
--   id: manufacturer_everlight_elec
-    link: https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html
-    name: Everlight Elec
-    part_number: ALS-PT19-315C/L177/TR8
+- id: manufacturer_everlight_elec
+  link: https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html
+  name: Everlight Elec
+  part_number: ALS-PT19-315C/L177/TR8
 markdown_full: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[i6snl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[Electronic
-    Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
-    - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec
-    - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)
-    [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br>'
+  Ic 0603 Sensor Light Everlight Elec Als Pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
+  - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec
+  - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)
+  [(L)  ](https://www.lcsc.com/search?q=ALS-PT19-315C/L177/TR8)[(D)  ](https://www.digikey.com/en/products?keywords=ALS-PT19-315C/L177/TR8)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ALS-PT19-315C/L177/TR8)[(N)  ](https://www.newark.com/search?st=ALS-PT19-315C/L177/TR8)[(SZ)  ](https://so.szlcsc.com/global.html?k=ALS-PT19-315C/L177/TR8)<br>'
 markdown_short: '[electronic_ic_0603_sensor_light_everlight_elec_als_pt19](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19/working)<br>[LCSC
-    - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec
-    - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)'
+  - C146233<br>](https://lcsc.com/product-detail/C146233.html)<br>[Everlight Elec
+  - ALS-PT19-315C/L177/TR8](https://everlighteurope.com/ambient-light-sensors/7/ALSPT19315CL177TR8.html)'
 md5: a899fa60e8493d80f5a175ad3370e8c5
 md5_10: a899fa60e8
 md5_10_upper: A899FA60E8
@@ -62,6 +111,7 @@ md5_6_alpha_upper: 6KTTM
 md5_6_upper: A899FA
 name: Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19
 name_no_class: Ic 0603 Sensor Light Everlight Elec Als Pt19
+name_no_color: Light Everlight Elec Als Pt19
 name_no_size: Sensor Light Everlight Elec Als Pt19
 name_no_size_short: Sensor Light Everlight Elec Als Pt19
 name_no_type: 0603 Sensor Light Everlight Elec Als Pt19
@@ -81,16 +131,28 @@ part_number: als_pt19
 part_number_capital: Als Pt19
 part_number_first_letter: a
 part_number_first_letter_upper: A
+part_number_length_1: a
+part_number_length_2: al
+part_number_length_3: als
+part_number_length_4: als_
+part_number_length_5: als_p
+part_number_length_6: als_pt
 part_number_upper: ALS_PT19
+part_number_upper_length_1: A
+part_number_upper_length_2: AL
+part_number_upper_length_3: ALS
+part_number_upper_length_4: ALS_
+part_number_upper_length_5: ALS_P
+part_number_upper_length_6: ALS_PT
 pins:
-    pin_1:
-        name: collector
-        number: '1'
-        type: signal
-    pin_2:
-        name: emitter
-        number: '2'
-        type: signal
+  pin_1:
+    name: collector
+    number: '1'
+    type: signal
+  pin_2:
+    name: emitter
+    number: '2'
+    type: signal
 short_code: i6snl
 short_code_upper: I6SNL
 short_name: everlight elec als_pt19_315c_l177_tr8
@@ -98,9 +160,21 @@ size: '0603'
 size_capital: '0603'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '06'
+size_length_3: '060'
+size_length_4: '0603'
+size_length_5: '0603'
+size_length_6: '0603'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
 size_upper: '0603'
+size_upper_length_1: '0'
+size_upper_length_2: '06'
+size_upper_length_3: '060'
+size_upper_length_4: '0603'
+size_upper_length_5: '0603'
+size_upper_length_6: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -108,4 +182,16 @@ type: ic
 type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
 type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

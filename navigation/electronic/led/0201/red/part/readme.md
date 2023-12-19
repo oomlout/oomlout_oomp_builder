@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: lr
 * oomp_word: sleepy leopard eyeglasses
 * oomp_word_emoji :sleepy: :leopard: :eyeglasses:
 * md5_6_alpha: ekkz

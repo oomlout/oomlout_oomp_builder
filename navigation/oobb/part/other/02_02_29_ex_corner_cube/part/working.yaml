@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 02_02_29_ex_corner_cube
 description_main_capital: 02 02.29 Ex Corner Cube
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '02'
+description_main_length_3: '02_'
+description_main_length_4: '02_0'
+description_main_length_5: '02_02'
+description_main_length_6: '02_02_'
 description_main_upper: 02_02_29_EX_CORNER_CUBE
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '02'
+description_main_upper_length_3: '02_'
+description_main_upper_length_4: '02_0'
+description_main_upper_length_5: '02_02'
+description_main_upper_length_6: '02_02_'
 description_only_numbers: 020229
 description_only_numbers_short: 20k
 description_or_color: 20k
 description_or_color_upper: 20K
 directory: parts/oobb_part_other_02_02_29_ex_corner_cube
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube
 id: oobb_part_other_02_02_29_ex_corner_cube
 id_no_class: part_other_02_02_29_ex_corner_cube
+id_no_color: 020229excornercube
 id_no_size: 02_02_29_ex_corner_cube
 id_no_type: other_02_02_29_ex_corner_cube
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_other_02_02_29_ex_corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working)<br>[Oobb
-    Part Other 02 02 29 Ex Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working)<br><br>'
+  Part Other 02 02 29 Ex Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working)<br><br>'
 markdown_short: '[oobb_part_other_02_02_29_ex_corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29_ex_corner_cube/working)<br><br>'
 md5: ea0b1d8e2d364f3f65dea1e5419b5696
 md5_10: ea0b1d8e2d
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 94R31
 md5_6_upper: EA0B1D
 name: Oobb Part Other 02 02 29 Ex Corner Cube
 name_no_class: Part Other 02 02 29 Ex Corner Cube
+name_no_color: 020229Excornercube
 name_no_size: 02 02 29 Ex Corner Cube
 name_no_size_short: 02 02 29 Ex Corner Cube
 name_no_type: Other 02 02 29 Ex Corner Cube
@@ -75,11 +101,35 @@ size: other
 size_capital: Other
 size_first_letter: o
 size_first_letter_upper: O
+size_length_1: o
+size_length_2: ot
+size_length_3: oth
+size_length_4: othe
+size_length_5: other
+size_length_6: other
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: OTHER
+size_upper_length_1: O
+size_upper_length_2: OT
+size_upper_length_3: OTH
+size_upper_length_4: OTHE
+size_upper_length_5: OTHER
+size_upper_length_6: OTHER
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

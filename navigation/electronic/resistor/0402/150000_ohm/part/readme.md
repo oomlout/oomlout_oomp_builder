@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o154
 * oomp_word: ant bowling pig
 * oomp_word_emoji :ant: :bowling: :pig:
 * md5_6_alpha: 33t4s

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro223
 * oomp_word: kissing basketball snowman
 * oomp_word_emoji :kissing: :basketball: :snowman:
 * md5_6_alpha: 7ui5

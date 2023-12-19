@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi117psmra
 * oomp_word: school crown car
 * oomp_word_emoji :school: :crown: :car:
 * md5_6_alpha: 8dkh7

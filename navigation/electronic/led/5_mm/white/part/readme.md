@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l5w
 * oomp_word: computer sparkles shoe
 * oomp_word_emoji :computer: :sparkles: :shoe:
 * md5_6_alpha: 4suy0

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: aip1640
 
 ### other_codes
-* short_code: 
+* short_code: isoic28waip1640
 * oomp_word: sparkles wink penguin
 * oomp_word_emoji :sparkles: :wink: :penguin:
 * md5_6_alpha: l3d7

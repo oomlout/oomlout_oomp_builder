@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hthra
 * oomp_word: house two turtle
 * oomp_word_emoji :house: :two: :turtle:
 * md5_6_alpha: 8cj0s

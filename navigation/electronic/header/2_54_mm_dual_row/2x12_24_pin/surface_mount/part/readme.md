@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x12psm
 * oomp_word: balloon factory turtle
 * oomp_word_emoji :balloon: :factory: :turtle:
 * md5_6_alpha: 4r68c

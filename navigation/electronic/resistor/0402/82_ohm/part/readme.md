@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o820
 * oomp_word: golf scroll bike
 * oomp_word_emoji :golf: :scroll: :bike:
 * md5_6_alpha: 613hl

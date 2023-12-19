@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12pths
 * oomp_word: ticket rose ear
 * oomp_word_emoji :ticket: :rose: :ear:
 * md5_6_alpha: 9f2g5

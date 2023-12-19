@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 5300_size
 color_capital: 5300 Size
 color_first_letter: '5'
 color_first_letter_upper: '5'
+color_length_1: '5'
+color_length_2: '53'
+color_length_3: '530'
+color_length_4: '5300'
+color_length_5: '5300_'
+color_length_6: 5300_s
 color_upper: 5300_SIZE
+color_upper_length_1: '5'
+color_upper_length_2: '53'
+color_upper_length_3: '530'
+color_upper_length_4: '5300'
+color_upper_length_5: '5300_'
+color_upper_length_6: 5300_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 10_mm_id_35_mm_od_19.05_mm_depth
 description_main_capital: 10 mm Id 35 mm Od 19.05 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_m
+description_main_length_5: 10_mm
+description_main_length_6: 10_mm_
 description_main_upper: 10_MM_ID_35_MM_OD_19.05_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_M
+description_main_upper_length_5: 10_MM
+description_main_upper_length_6: 10_MM_
 description_only_numbers: '10351905'
 description_only_numbers_short: 1M
 description_or_color: 51M
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth
 id: hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth
 id_no_class: bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth
+id_no_color: 10_mm_id_35_mm_od_19.05_mm_depth
 id_no_size: 5300_size_10_mm_id_35_mm_od_19.05_mm_depth
 id_no_type: 5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working)<br>[Hardware
-    Bearing 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working)<br><br>'
+  Bearing 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5300_size_10_mm_id_35_mm_od_19.05_mm_depth/working)<br><br>'
 md5: cdf9f21a53211bcdabd70c9c8c5a0c9b
 md5_10: cdf9f21a53
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 81BSI
 md5_6_upper: CDF9F2
 name: Hardware Bearing 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth
 name_no_class: Bearing 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth
+name_no_color: 10 Mm Id 35 Mm Od 19.05 Mm Depth
 name_no_size: 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth
 name_no_size_short: 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth
 name_no_type: 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth
@@ -76,11 +114,35 @@ size: 5300_series
 size_capital: 5300 Series
 size_first_letter: '5'
 size_first_letter_upper: '5'
+size_length_1: '5'
+size_length_2: '53'
+size_length_3: '530'
+size_length_4: '5300'
+size_length_5: '5300_'
+size_length_6: 5300_s
 size_only_numbers: '5300'
 size_only_numbers_no_zeros: '53'
 size_upper: 5300_SERIES
+size_upper_length_1: '5'
+size_upper_length_2: '53'
+size_upper_length_3: '530'
+size_upper_length_4: '5300'
+size_upper_length_5: '5300_'
+size_upper_length_6: 5300_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

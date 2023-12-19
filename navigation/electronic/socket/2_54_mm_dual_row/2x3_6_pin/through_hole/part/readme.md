@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci12x3pth
 * oomp_word: dancer wink ghost
 * oomp_word_emoji :dancer: :wink: :ghost:
 * md5_6_alpha: 13cs5

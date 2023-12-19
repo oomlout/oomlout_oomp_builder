@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_mn
 
 ### other_codes
-* short_code: 
+* short_code: iq28mcuat328
 * oomp_word: honeybee pig car
 * oomp_word_emoji :honeybee: :pig: :car:
 * md5_6_alpha: 31wbv

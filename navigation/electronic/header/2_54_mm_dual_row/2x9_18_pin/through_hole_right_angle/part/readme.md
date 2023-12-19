@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x9pthra
 * oomp_word: baseball dolls microscope
 * oomp_word_emoji :baseball: :dolls: :microscope:
 * md5_6_alpha: 5wqdw

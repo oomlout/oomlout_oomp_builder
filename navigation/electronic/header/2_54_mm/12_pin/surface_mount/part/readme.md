@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi112psm
 * oomp_word: ok coffee bell
 * oomp_word_emoji :ok: :coffee: :bell:
 * md5_6_alpha: 9tk6w

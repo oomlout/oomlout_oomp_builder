@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi18pth
 * oomp_word: snake cyclone cake
 * oomp_word_emoji :snake: :cyclone: :cake:
 * md5_6_alpha: 2p6mb

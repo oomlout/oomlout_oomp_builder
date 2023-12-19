@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi118pths
 * oomp_word: office wrench door
 * oomp_word_emoji :office: :wrench: :door:
 * md5_6_alpha: 8er2j

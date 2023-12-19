@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi118psmra
 * oomp_word: anger beetle bouquet
 * oomp_word_emoji :anger: :beetle: :bouquet:
 * md5_6_alpha: pq3l

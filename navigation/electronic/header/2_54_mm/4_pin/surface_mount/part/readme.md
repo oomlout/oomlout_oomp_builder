@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi14psm
 * oomp_word: radio sleeping smile
 * oomp_word_emoji :radio: :sleeping: :smile:
 * md5_6_alpha: 52n0h

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro181
 * oomp_word: koala fountain snowman
 * oomp_word_emoji :koala: :fountain: :snowman:
 * md5_6_alpha: 2ap0t

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi126pthl
 * oomp_word: snail lips ear
 * oomp_word_emoji :snail: :lips: :ear:
 * md5_6_alpha: 35yqt

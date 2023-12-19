@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l10w
 * oomp_word: whale office pig
 * oomp_word_emoji :whale: :office: :pig:
 * md5_6_alpha: 3b67w

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro392
 * oomp_word: cow leopard key
 * oomp_word_emoji :cow: :leopard: :key:
 * md5_6_alpha: 2e7ic

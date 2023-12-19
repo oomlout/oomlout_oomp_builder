@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci18pth
 * oomp_word: thumbsdown car radio
 * oomp_word_emoji :thumbsdown: :car: :radio:
 * md5_6_alpha: xlky

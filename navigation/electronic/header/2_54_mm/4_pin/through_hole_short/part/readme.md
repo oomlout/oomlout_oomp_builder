@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi14pths
 * oomp_word: five scream lemon
 * oomp_word_emoji :five: :scream: :lemon:
 * md5_6_alpha: 9llft

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: lg
 * oomp_word: envelope lollipop tomato
 * oomp_word_emoji :envelope: :lollipop: :tomato:
 * md5_6_alpha: 5exn7

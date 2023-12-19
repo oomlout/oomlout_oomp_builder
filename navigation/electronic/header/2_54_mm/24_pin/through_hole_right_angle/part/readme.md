@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi124pthra
 * oomp_word: skull envelope sleeping
 * oomp_word_emoji :skull: :envelope: :sleeping:
 * md5_6_alpha: 19pfq

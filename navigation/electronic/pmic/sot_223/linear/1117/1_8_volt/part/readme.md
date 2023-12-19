@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: pms2231117
 * oomp_word: clap sailboat taxi
 * oomp_word_emoji :clap: :sailboat: :taxi:
 * md5_6_alpha: 11rl8

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x6pth
 * oomp_word: ticket cake grin
 * oomp_word_emoji :ticket: :cake: :grin:
 * md5_6_alpha: 9fldv

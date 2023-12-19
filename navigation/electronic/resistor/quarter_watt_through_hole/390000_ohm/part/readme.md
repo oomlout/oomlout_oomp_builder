@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro394
 * oomp_word: panda_face ski rose
 * oomp_word_emoji :panda_face: :ski: :rose:
 * md5_6_alpha: 2odb7

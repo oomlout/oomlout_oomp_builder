@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: c8d65tuf220v10
 * oomp_word: elephant cloud eyes
 * oomp_word_emoji :elephant: :cloud: :eyes:
 * md5_6_alpha: 2mckm

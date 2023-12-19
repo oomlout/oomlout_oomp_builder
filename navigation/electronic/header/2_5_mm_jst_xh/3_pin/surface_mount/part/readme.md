@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh3psm
 * oomp_word: ring elephant headphones
 * oomp_word_emoji :ring: :elephant: :headphones:
 * md5_6_alpha: 69485

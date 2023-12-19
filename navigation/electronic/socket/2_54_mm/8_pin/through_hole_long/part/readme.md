@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci18pthl
 * oomp_word: sparkles pizza ox
 * oomp_word_emoji :sparkles: :pizza: :ox:
 * md5_6_alpha: m2qk

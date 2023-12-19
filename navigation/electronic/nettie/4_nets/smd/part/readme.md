@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: nt4
 * oomp_word: strawberry dolls cry
 * oomp_word_emoji :strawberry: :dolls: :cry:
 * md5_6_alpha: 80kxz

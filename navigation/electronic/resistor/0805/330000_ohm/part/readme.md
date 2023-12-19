@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o334
 * oomp_word: sparkles peach briefcase
 * oomp_word_emoji :sparkles: :peach: :briefcase:
 * md5_6_alpha: m7ch

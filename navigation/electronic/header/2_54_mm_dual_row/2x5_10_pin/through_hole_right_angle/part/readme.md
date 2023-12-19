@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x5pthra
 * oomp_word: penguin shell cherries
 * oomp_word_emoji :penguin: :shell: :cherries:
 * md5_6_alpha: 2xya2

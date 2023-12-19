@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh3pthra
 * oomp_word: ant blowfish spaghetti
 * oomp_word_emoji :ant: :blowfish: :spaghetti:
 * md5_6_alpha: 33hdm

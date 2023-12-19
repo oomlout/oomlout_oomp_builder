@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x8pthra
 * oomp_word: egg bouquet curry
 * oomp_word_emoji :egg: :bouquet: :curry:
 * md5_6_alpha: 7gtrv

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o561
 * oomp_word: hand santa bulb
 * oomp_word_emoji :hand: :santa: :bulb:
 * md5_6_alpha: yd1h

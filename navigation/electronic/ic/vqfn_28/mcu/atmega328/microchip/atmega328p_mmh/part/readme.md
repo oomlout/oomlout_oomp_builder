@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_mmh
 
 ### other_codes
-* short_code: 
+* short_code: ivq28mcuat328
 * oomp_word: ox angel tiger
 * oomp_word_emoji :ox: :angel: :tiger:
 * md5_6_alpha: 3le7t

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340b
 
 ### other_codes
-* short_code: 
+* short_code: isp16ch340b
 * oomp_word: tractor tongue beer
 * oomp_word_emoji :tractor: :tongue: :beer:
 * md5_6_alpha: 94wxi

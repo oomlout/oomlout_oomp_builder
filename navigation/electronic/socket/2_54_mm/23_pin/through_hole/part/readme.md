@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci123pth
 * oomp_word: recycle tv moon
 * oomp_word_emoji :recycle: :tv: :moon:
 * md5_6_alpha: 9xgtr

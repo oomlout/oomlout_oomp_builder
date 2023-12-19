@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi111psmra
 * oomp_word: fries blossom rowboat
 * oomp_word_emoji :fries: :blossom: :rowboat:
 * md5_6_alpha: 78gkj

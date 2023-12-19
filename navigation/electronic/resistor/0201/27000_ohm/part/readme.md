@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro273
 * oomp_word: baby bank dolls
 * oomp_word_emoji :baby: :bank: :dolls:
 * md5_6_alpha: 15xf6

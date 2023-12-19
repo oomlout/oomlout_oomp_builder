@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro823
 * oomp_word: dancer radio anger
 * oomp_word_emoji :dancer: :radio: :anger:
 * md5_6_alpha: 141le

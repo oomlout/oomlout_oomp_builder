@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi131pth
 * oomp_word: pig ramen bread
 * oomp_word_emoji :pig: :ramen: :bread:
 * md5_6_alpha: 2dbr4

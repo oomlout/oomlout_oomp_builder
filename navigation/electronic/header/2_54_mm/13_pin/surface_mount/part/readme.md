@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi113psm
 * oomp_word: tram camera doughnut
 * oomp_word_emoji :tram: :camera: :doughnut:
 * md5_6_alpha: 92k01

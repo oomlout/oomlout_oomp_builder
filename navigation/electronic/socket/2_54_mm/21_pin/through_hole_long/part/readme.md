@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci121pthl
 * oomp_word: hatched_chick cry shirt
 * oomp_word_emoji :hatched_chick: :cry: :shirt:
 * md5_6_alpha: 2t6ek

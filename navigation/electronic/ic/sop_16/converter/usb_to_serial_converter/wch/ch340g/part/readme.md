@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340g
 
 ### other_codes
-* short_code: 
+* short_code: isp16ch340g
 * oomp_word: sparkles bear frog
 * oomp_word_emoji :sparkles: :bear: :frog:
 * md5_6_alpha: le7s

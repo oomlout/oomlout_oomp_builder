@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi17pthra
 * oomp_word: bear dolphin pizza
 * oomp_word_emoji :bear: :dolphin: :pizza:
 * md5_6_alpha: 2bcfr

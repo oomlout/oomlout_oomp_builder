@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi134psmra
 * oomp_word: bell radio hamburger
 * oomp_word_emoji :bell: :radio: :hamburger:
 * md5_6_alpha: 4p9yw

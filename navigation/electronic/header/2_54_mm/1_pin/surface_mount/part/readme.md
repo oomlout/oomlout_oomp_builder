@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi11psm
 * oomp_word: truck one penguin
 * oomp_word_emoji :truck: :one: :penguin:
 * md5_6_alpha: 9d1l7

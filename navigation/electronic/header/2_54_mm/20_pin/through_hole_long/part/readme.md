@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi120pthl
 * oomp_word: handbag clipboard palm_tree
 * oomp_word_emoji :handbag: :clipboard: :palm_tree:
 * md5_6_alpha: 6yt7u

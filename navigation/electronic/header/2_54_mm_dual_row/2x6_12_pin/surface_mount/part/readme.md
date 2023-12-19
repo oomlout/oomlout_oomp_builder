@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x6psm
 * oomp_word: frog pear anger
 * oomp_word_emoji :frog: :pear: :anger:
 * md5_6_alpha: 27t3m

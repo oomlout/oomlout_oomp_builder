@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x40psmra
 * oomp_word: muscle cookie rowboat
 * oomp_word_emoji :muscle: :cookie: :rowboat:
 * md5_6_alpha: 13083

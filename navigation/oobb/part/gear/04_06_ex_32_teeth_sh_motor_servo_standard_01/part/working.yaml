@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 04_06_ex_32_teeth_sh_motor_servo_standard_01
 description_main_capital: 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '04'
+description_main_length_3: '04_'
+description_main_length_4: '04_0'
+description_main_length_5: '04_06'
+description_main_length_6: '04_06_'
 description_main_upper: 04_06_EX_32_TEETH_SH_MOTOR_SERVO_STANDARD_01
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '04'
+description_main_upper_length_3: '04_'
+description_main_upper_length_4: '04_0'
+description_main_upper_length_5: '04_06'
+description_main_upper_length_6: '04_06_'
 description_only_numbers: '04063201'
 description_only_numbers_short: 4M
 description_or_color: 4M
 description_or_color_upper: 4M
 directory: parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01
 id: oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01
 id_no_class: part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01
+id_no_color: 0406ex32teethshmotorservostandard01
 id_no_size: 04_06_ex_32_teeth_sh_motor_servo_standard_01
 id_no_type: gear_04_06_ex_32_teeth_sh_motor_servo_standard_01
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working)<br>[Oobb
-    Part Gear 04 06 Ex 32 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working)<br><br>'
+  Part Gear 04 06 Ex 32 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working)<br><br>'
 markdown_short: '[oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06_ex_32_teeth_sh_motor_servo_standard_01/working)<br><br>'
 md5: 79a2a94f5c926f9ec042abc95a1c89b8
 md5_10: 79a2a94f5c
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 4QUUH
 md5_6_upper: 79A2A9
 name: Oobb Part Gear 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
 name_no_class: Part Gear 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
+name_no_color: 0406Ex32Teethshmotorservostandard01
 name_no_size: 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
 name_no_type: Gear 04 06 Ex 32 Teeth Sh Motor Servo Standard 01
@@ -75,11 +101,35 @@ size: gear
 size_capital: Gear
 size_first_letter: g
 size_first_letter_upper: G
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

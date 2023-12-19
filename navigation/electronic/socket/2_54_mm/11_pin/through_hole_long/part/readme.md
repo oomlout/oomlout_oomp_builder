@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci111pthl
 * oomp_word: lips whale sunglasses
 * oomp_word_emoji :lips: :whale: :sunglasses:
 * md5_6_alpha: 1c7wr

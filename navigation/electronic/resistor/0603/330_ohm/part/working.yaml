@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,7 +29,19 @@ description_main: 330_ohm
 description_main_capital: 330 Ohm
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '33'
+description_main_length_3: '330'
+description_main_length_4: '330_'
+description_main_length_5: 330_o
+description_main_length_6: 330_oh
 description_main_upper: 330_OHM
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '33'
+description_main_upper_length_3: '330'
+description_main_upper_length_4: '330_'
+description_main_upper_length_5: 330_O
+description_main_upper_length_6: 330_OH
 description_only_numbers: '330'
 description_only_numbers_short: '330'
 description_or_color: '330'
@@ -26,20 +50,21 @@ directory: parts/electronic_resistor_0603_330_ohm
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-    note: source footprint kicad_resistor_smd_r_0603_1608metric
-    oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+  note: source footprint kicad_resistor_smd_r_0603_1608metric
+  oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o331_electronic_resistor_0603_330_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm
 id: electronic_resistor_0603_330_ohm
 id_no_class: resistor_0603_330_ohm
+id_no_color: 330ohm
 id_no_size: 330_ohm
 id_no_type: 0603_330_ohm
 kicad_reference: R
@@ -49,37 +74,37 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
-            and they are the same price
-        reason_short: not in jlc basic parts
-    part_number: 0603WAJ0331T5E
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: in the jlc basic parts catalogue
-        reason_short: jlc basic part
-    part_number: 0603WAF3300T5E
--   id: manufacturer_yageo
-    link: https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL
-    name: Yageo
-    note:
-        reason: yageo is a commonly cross referenced part number
-        reason_short: available everywhere
-    part_number: RC0603JR-07330RL
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: 0603WAJ0331T5E
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: in the jlc basic parts catalogue
+    reason_short: jlc basic part
+  part_number: 0603WAF3300T5E
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL
+  name: Yageo
+  note:
+    reason: yageo is a commonly cross referenced part number
+    reason_short: available everywhere
+  part_number: RC0603JR-07330RL
 markdown_full: '[electronic_resistor_0603_330_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working)<br>[r6o331](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working)<br>[Electronic
-    Resistor 0603 330 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working)<br><br>[Uniroyal
-    - 0603WAJ0331T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0331T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0331T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0331T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0331T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0331T5E)<br>[Uniroyal
-    - 0603WAF3300T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF3300T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF3300T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF3300T5E)[(N)  ](https://www.newark.com/search?st=0603WAF3300T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF3300T5E)<br>[Yageo
-    - RC0603JR-07330RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL)
-    [(L)  ](https://www.lcsc.com/search?q=RC0603JR-07330RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-07330RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07330RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-07330RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-07330RL)<br>'
+  Resistor 0603 330 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working)<br><br>[Uniroyal
+  - 0603WAJ0331T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0331T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0331T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0331T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0331T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0331T5E)<br>[Uniroyal
+  - 0603WAF3300T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF3300T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF3300T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF3300T5E)[(N)  ](https://www.newark.com/search?st=0603WAF3300T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF3300T5E)<br>[Yageo
+  - RC0603JR-07330RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL)
+  [(L)  ](https://www.lcsc.com/search?q=RC0603JR-07330RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-07330RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-07330RL)[(N)  ](https://www.newark.com/search?st=RC0603JR-07330RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-07330RL)<br>'
 markdown_short: '[electronic_resistor_0603_330_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_330_ohm/working)<br><br>[Uniroyal
-    - 0603WAJ0331T5E- not in jlc basic parts]()[Uniroyal - 0603WAF3300T5E- jlc basic
-    part]()[Yageo - RC0603JR-07330RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL)'
+  - 0603WAJ0331T5E- not in jlc basic parts]()[Uniroyal - 0603WAF3300T5E- jlc basic
+  part]()[Yageo - RC0603JR-07330RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-07330RL)'
 md5: 5ca593d15951b92a6ad1b19b156e6052
 md5_10: 5ca593d159
 md5_10_upper: 5CA593D159
@@ -91,6 +116,7 @@ md5_6_alpha_upper: 3M4YB
 md5_6_upper: 5CA593
 name: Electronic Resistor 0603 330 Ohm
 name_no_class: Resistor 0603 330 Ohm
+name_no_color: 330Ohm
 name_no_size: 330 Ohm
 name_no_size_short: 330 Ohm
 name_no_type: 0603 330 Ohm
@@ -117,19 +143,43 @@ size: '0603'
 size_capital: '0603'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '06'
+size_length_3: '060'
+size_length_4: '0603'
+size_length_5: '0603'
+size_length_6: '0603'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
 size_upper: '0603'
+size_upper_length_1: '0'
+size_upper_length_2: '06'
+size_upper_length_3: '060'
+size_upper_length_4: '0603'
+size_upper_length_5: '0603'
+size_upper_length_6: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

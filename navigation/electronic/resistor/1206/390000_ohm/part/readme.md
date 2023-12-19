@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o394
 * oomp_word: cookie shoe train
 * oomp_word_emoji :cookie: :shoe: :train:
 * md5_6_alpha: 7o8og

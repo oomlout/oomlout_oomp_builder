@@ -1,0 +1,111 @@
+classification: hardware
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+description_extra: pozidrive_head
+description_extra_length_1: p
+description_extra_length_2: po
+description_extra_length_3: poz
+description_extra_length_4: pozi
+description_extra_length_5: pozid
+description_extra_length_6: pozidr
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PO
+description_extra_upper_length_3: POZ
+description_extra_upper_length_4: POZI
+description_extra_upper_length_5: POZID
+description_extra_upper_length_6: POZIDR
+description_main: 60_mm
+description_main_length_1: '6'
+description_main_length_2: '60'
+description_main_length_3: '60_'
+description_main_length_4: 60_m
+description_main_length_5: 60_mm
+description_main_length_6: 60_mm
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '60'
+description_main_upper_length_3: '60_'
+description_main_upper_length_4: 60_M
+description_main_upper_length_5: 60_MM
+description_main_upper_length_6: 60_MM
+directory: parts/hardware_screw_countersunk_6_mm_60_mm_pozidrive_head
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_6_mm_60_mm_pozidrive_head
+id: hardware_screw_countersunk_6_mm_60_mm_pozidrive_head
+id_no_class: screw_countersunk_6_mm_60_mm_pozidrive_head
+id_no_color: 60mmpozidrivehead
+id_no_size: 60_mm_pozidrive_head
+id_no_type: 6_mm_60_mm_pozidrive_head
+manufacturer: ''
+md5: 673b18eb22f22a1e90039bd15e3f56cc
+md5_10: 673b18eb22
+md5_10_upper: 673B18EB22
+md5_5: 673b1
+md5_5_upper: 673B1
+md5_6: 673b18
+md5_6_alpha: '41060'
+md5_6_alpha_upper: '41060'
+md5_6_upper: 673B18
+name: Hardware Screw Countersunk 6 Mm 60 Mm Pozidrive Head
+name_no_class: Screw Countersunk 6 Mm 60 Mm Pozidrive Head
+name_no_color: 60Mmpozidrivehead
+name_no_size: 60 Mm Pozidrive Head
+name_no_type: 6 Mm 60 Mm Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 60 mm
+oomlout_bolt_length_no_unit: '60'
+oomlout_bolt_name: Countersunk M6X60 mm  (Pozidrive)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: cs6m60pz
+oomlout_short_code_upper: CS6M60PZ
+oomp_key: oomp_hardware_screw_countersunk_6_mm_60_mm_pozidrive_head
+oomp_word: herb bear hand
+oomp_word_emoji: ':herb: :bear: :hand:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':bear:'
+- ':hand:'
+oomp_word_list:
+- herb
+- bear
+- hand
+part_number: ''
+size: 6_mm
+size_length_1: '6'
+size_length_2: '6_'
+size_length_3: 6_m
+size_length_4: 6_mm
+size_length_5: 6_mm
+size_length_6: 6_mm
+size_upper_length_1: '6'
+size_upper_length_2: '6_'
+size_upper_length_3: 6_M
+size_upper_length_4: 6_MM
+size_upper_length_5: 6_MM
+size_upper_length_6: 6_MM
+type: screw_countersunk
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

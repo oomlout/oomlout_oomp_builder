@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci115pth
 * oomp_word: rowboat banana cry
 * oomp_word_emoji :rowboat: :banana: :cry:
 * md5_6_alpha: 8w007

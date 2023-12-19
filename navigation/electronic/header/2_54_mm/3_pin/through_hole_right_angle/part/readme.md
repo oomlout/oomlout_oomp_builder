@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi13pthra
 * oomp_word: lips hatched_chick basketball
 * oomp_word_emoji :lips: :hatched_chick: :basketball:
 * md5_6_alpha: 1c5na

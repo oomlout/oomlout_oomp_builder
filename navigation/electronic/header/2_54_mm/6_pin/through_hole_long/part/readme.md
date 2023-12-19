@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi16pthl
 * oomp_word: truck ok frog
 * oomp_word_emoji :truck: :ok: :frog:
 * md5_6_alpha: 9d3co

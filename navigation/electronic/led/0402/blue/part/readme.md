@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l4l
 * oomp_word: lips coffee whale
 * oomp_word_emoji :lips: :coffee: :whale:
 * md5_6_alpha: 1cqxg

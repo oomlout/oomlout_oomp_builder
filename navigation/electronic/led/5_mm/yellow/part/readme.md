@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l5y
 * oomp_word: santa pushpin apple
 * oomp_word_emoji :santa: :pushpin: :apple:
 * md5_6_alpha: 4mjt4

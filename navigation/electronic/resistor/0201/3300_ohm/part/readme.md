@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro332
 * oomp_word: phone radio pray
 * oomp_word_emoji :phone: :radio: :pray:
 * md5_6_alpha: 4waop

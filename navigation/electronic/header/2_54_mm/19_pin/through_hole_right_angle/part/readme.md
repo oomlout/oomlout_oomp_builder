@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi119pthra
 * oomp_word: feet cake snail
 * oomp_word_emoji :feet: :cake: :snail:
 * md5_6_alpha: 1bfbl

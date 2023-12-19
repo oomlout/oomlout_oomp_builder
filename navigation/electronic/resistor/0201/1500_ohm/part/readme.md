@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro152
 * oomp_word: scream phone racehorse
 * oomp_word_emoji :scream: :phone: :racehorse:
 * md5_6_alpha: bxa8

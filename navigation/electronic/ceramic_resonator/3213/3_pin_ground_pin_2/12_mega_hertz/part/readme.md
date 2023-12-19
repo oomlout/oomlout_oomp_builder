@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: xcr3213mhz12
 * oomp_word: camera leaves poop
 * oomp_word_emoji :camera: :leaves: :poop:
 * md5_6_alpha: 4rxg5

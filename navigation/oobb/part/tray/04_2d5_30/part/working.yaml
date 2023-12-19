@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 04_2d5_30
 description_main_capital: 04.2D5.30
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '04'
+description_main_length_3: '04_'
+description_main_length_4: '04_2'
+description_main_length_5: 04_2d
+description_main_length_6: 04_2d5
 description_main_upper: 04_2D5_30
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '04'
+description_main_upper_length_3: '04_'
+description_main_upper_length_4: '04_2'
+description_main_upper_length_5: 04_2D
+description_main_upper_length_6: 04_2D5
 description_only_numbers: '042530'
 description_only_numbers_short: 43k
 description_or_color: 43k
 description_or_color_upper: 43K
 directory: parts/oobb_part_tray_04_2d5_30
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30
 id: oobb_part_tray_04_2d5_30
 id_no_class: part_tray_04_2d5_30
+id_no_color: 042d530
 id_no_size: 04_2d5_30
 id_no_type: tray_04_2d5_30
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_tray_04_2d5_30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working)<br>[Oobb
-    Part Tray 04 2D5 30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working)<br><br>'
+  Part Tray 04 2D5 30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working)<br><br>'
 markdown_short: '[oobb_part_tray_04_2d5_30](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_30/working)<br><br>'
 md5: 4157baa8ca499117fd21ddad235b13be
 md5_10: 4157baa8ca
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 2JS8Q
 md5_6_upper: 4157BA
 name: Oobb Part Tray 04 2D5 30
 name_no_class: Part Tray 04 2D5 30
+name_no_color: 042D530
 name_no_size: 04 2D5 30
 name_no_size_short: 04 2D5 30
 name_no_type: Tray 04 2D5 30
@@ -75,11 +101,35 @@ size: tray
 size_capital: Tray
 size_first_letter: t
 size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

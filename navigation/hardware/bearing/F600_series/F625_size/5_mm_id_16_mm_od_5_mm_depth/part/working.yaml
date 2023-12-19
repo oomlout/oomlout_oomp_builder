@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: F625_size
 color_capital: F625 Size
 color_first_letter: F
 color_first_letter_upper: F
+color_length_1: F
+color_length_2: F6
+color_length_3: F62
+color_length_4: F625
+color_length_5: F625_
+color_length_6: F625_s
 color_upper: F625_SIZE
+color_upper_length_1: F
+color_upper_length_2: F6
+color_upper_length_3: F62
+color_upper_length_4: F625
+color_upper_length_5: F625_
+color_upper_length_6: F625_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 5_mm_id_16_mm_od_5_mm_depth
 description_main_capital: 5 mm Id 16 mm Od 5 mm Depth
 description_main_first_letter: '5'
 description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_m
+description_main_length_4: 5_mm
+description_main_length_5: 5_mm_
+description_main_length_6: 5_mm_i
 description_main_upper: 5_MM_ID_16_MM_OD_5_MM_DEPTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_M
+description_main_upper_length_4: 5_MM
+description_main_upper_length_5: 5_MM_
+description_main_upper_length_6: 5_MM_I
 description_only_numbers: '5165'
 description_only_numbers_short: 5k1
 description_or_color: F5k1
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_de
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
 id: hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
 id_no_class: bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
+id_no_color: 5_mm_id_16_mm_od_5_mm_depth
 id_no_size: F625_size_5_mm_id_16_mm_od_5_mm_depth
 id_no_type: F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working)<br>[Hardware
-    Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working)<br><br>'
+  Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F625_size_5_mm_id_16_mm_od_5_mm_depth/working)<br><br>'
 md5: f58be8b3e68eda8404ee72cd9f2f2f96
 md5_10: f58be8b3e6
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 9KWRS
 md5_6_upper: F58BE8
 name: Hardware Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
 name_no_class: Bearing F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
+name_no_color: 5 Mm Id 16 Mm Od 5 Mm Depth
 name_no_size: F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
 name_no_size_short: F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
 name_no_type: F600 Series F625 Size 5 Mm Id 16 Mm Od 5 Mm Depth
@@ -76,11 +114,35 @@ size: F600_series
 size_capital: F600 Series
 size_first_letter: F
 size_first_letter_upper: F
+size_length_1: F
+size_length_2: F6
+size_length_3: F60
+size_length_4: F600
+size_length_5: F600_
+size_length_6: F600_s
 size_only_numbers: '600'
 size_only_numbers_no_zeros: '6'
 size_upper: F600_SERIES
+size_upper_length_1: F
+size_upper_length_2: F6
+size_upper_length_3: F60
+size_upper_length_4: F600
+size_upper_length_5: F600_
+size_upper_length_6: F600_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

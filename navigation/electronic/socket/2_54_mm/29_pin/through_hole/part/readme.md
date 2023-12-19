@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci129pth
 * oomp_word: tent zap camera
 * oomp_word_emoji :tent: :zap: :camera:
 * md5_6_alpha: 8jvju

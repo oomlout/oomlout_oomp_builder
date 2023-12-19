@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 04_02_09
 description_main_capital: 04 02 09
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '04'
+description_main_length_3: '04_'
+description_main_length_4: '04_0'
+description_main_length_5: '04_02'
+description_main_length_6: '04_02_'
 description_main_upper: 04_02_09
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '04'
+description_main_upper_length_3: '04_'
+description_main_upper_length_4: '04_0'
+description_main_upper_length_5: '04_02'
+description_main_upper_length_6: '04_02_'
 description_only_numbers: 040209
 description_only_numbers_short: 40k
 description_or_color: 40k
 description_or_color_upper: 40K
 directory: parts/oobb_part_tray_vertical_04_02_09
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09
 id: oobb_part_tray_vertical_04_02_09
 id_no_class: part_tray_vertical_04_02_09
+id_no_color: 040209
 id_no_size: 04_02_09
 id_no_type: tray_vertical_04_02_09
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_tray_vertical_04_02_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working)<br>[Oobb
-    Part Tray Vertical 04 02 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working)<br><br>'
+  Part Tray Vertical 04 02 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working)<br><br>'
 markdown_short: '[oobb_part_tray_vertical_04_02_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_02_09/working)<br><br>'
 md5: 1b55b995b23e3ce7103fe38e1c68eace
 md5_10: 1b55b995b2
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 12E9L
 md5_6_upper: 1B55B9
 name: Oobb Part Tray Vertical 04 02 09
 name_no_class: Part Tray Vertical 04 02 09
+name_no_color: 040209
 name_no_size: 04 02 09
 name_no_size_short: 04 02 09
 name_no_type: Tray Vertical 04 02 09
@@ -75,11 +101,35 @@ size: tray_vertical
 size_capital: Tray Vertical
 size_first_letter: t
 size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_v
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TRAY_VERTICAL
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_V
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 07_09
 description_main_capital: 07 09
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '07'
+description_main_length_3: '07_'
+description_main_length_4: '07_0'
+description_main_length_5: 07_09
+description_main_length_6: 07_09
 description_main_upper: 07_09
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '07'
+description_main_upper_length_3: '07_'
+description_main_upper_length_4: '07_0'
+description_main_upper_length_5: 07_09
+description_main_upper_length_6: 07_09
 description_only_numbers: 0709
 description_only_numbers_short: '709'
 description_or_color: '709'
 description_or_color_upper: '709'
 directory: parts/oobb_part_smd_magazine_joiner_07_09
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09
 id: oobb_part_smd_magazine_joiner_07_09
 id_no_class: part_smd_magazine_joiner_07_09
+id_no_color: 0709
 id_no_size: 07_09
 id_no_type: smd_magazine_joiner_07_09
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_smd_magazine_joiner_07_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working)<br>[Oobb
-    Part Smd Magazine Joiner 07 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working)<br><br>'
+  Part Smd Magazine Joiner 07 09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working)<br><br>'
 markdown_short: '[oobb_part_smd_magazine_joiner_07_09](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_07_09/working)<br><br>'
 md5: b82f7e57ab02d1de5521b53d3d9df3c3
 md5_10: b82f7e57ab
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 76PVI
 md5_6_upper: B82F7E
 name: Oobb Part Smd Magazine Joiner 07 09
 name_no_class: Part Smd Magazine Joiner 07 09
+name_no_color: 0709
 name_no_size: 07 09
 name_no_size_short: 07 09
 name_no_type: Smd Magazine Joiner 07 09
@@ -75,11 +101,35 @@ size: smd_magazine_joiner
 size_capital: Smd Magazine Joiner
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SMD_MAGAZINE_JOINER
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

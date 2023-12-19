@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o183
 * oomp_word: nine ear pineapple
 * oomp_word_emoji :nine: :ear: :pineapple:
 * md5_6_alpha: 9rdg2

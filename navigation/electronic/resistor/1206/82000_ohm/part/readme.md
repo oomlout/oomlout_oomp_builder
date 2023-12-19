@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o823
 * oomp_word: sunflower phone umbrella
 * oomp_word_emoji :sunflower: :phone: :umbrella:
 * md5_6_alpha: 3x5ii

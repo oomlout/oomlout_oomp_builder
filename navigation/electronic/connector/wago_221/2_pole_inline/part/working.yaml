@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,7 +29,19 @@ description_main: 2_pole_inline
 description_main_capital: 2 Pole Inline
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_p
+description_main_length_4: 2_po
+description_main_length_5: 2_pol
+description_main_length_6: 2_pole
 description_main_upper: 2_POLE_INLINE
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_P
+description_main_upper_length_4: 2_PO
+description_main_upper_length_5: 2_POL
+description_main_upper_length_6: 2_POLE
 description_only_numbers: '2'
 description_only_numbers_short: '2'
 description_or_color: '2'
@@ -26,9 +50,10 @@ directory: parts/electronic_connector_wago_221_2_pole_inline
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline
 id: electronic_connector_wago_221_2_pole_inline
 id_no_class: connector_wago_221_2_pole_inline
+id_no_color: 2poleinline
 id_no_size: 2_pole_inline
 id_no_type: wago_221_2_pole_inline
 kicad_reference: L
@@ -39,7 +64,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[conw2212poi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[Electronic
-    Connector Wago 221 2 Pole Inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br>'
+  Connector Wago 221 2 Pole Inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br>'
 markdown_short: '[electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br>'
 md5: e9d1a42f1d6baa84b5066a745445c443
 md5_10: e9d1a42f1d
@@ -52,6 +77,7 @@ md5_6_alpha_upper: 94FQC
 md5_6_upper: E9D1A4
 name: Electronic Connector Wago 221 2 Pole Inline
 name_no_class: Connector Wago 221 2 Pole Inline
+name_no_color: 2Poleinline
 name_no_size: 2 Pole Inline
 name_no_size_short: 2 Pole Inline
 name_no_type: Wago 221 2 Pole Inline
@@ -77,11 +103,35 @@ size: wago_221
 size_capital: Wago 221
 size_first_letter: w
 size_first_letter_upper: W
+size_length_1: w
+size_length_2: wa
+size_length_3: wag
+size_length_4: wago
+size_length_5: wago_
+size_length_6: wago_2
 size_only_numbers: '221'
 size_only_numbers_no_zeros: '221'
 size_upper: WAGO_221
+size_upper_length_1: W
+size_upper_length_2: WA
+size_upper_length_3: WAG
+size_upper_length_4: WAGO
+size_upper_length_5: WAGO_
+size_upper_length_6: WAGO_2
 type: connector
 type_capital: Connector
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: co
+type_length_3: con
+type_length_4: conn
+type_length_5: conne
+type_length_6: connec
 type_upper: CONNECTOR
+type_upper_length_1: C
+type_upper_length_2: CO
+type_upper_length_3: CON
+type_upper_length_4: CONN
+type_upper_length_5: CONNE
+type_upper_length_6: CONNEC

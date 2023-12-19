@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro565
 * oomp_word: factory dancer mouse
 * oomp_word_emoji :factory: :dancer: :mouse:
 * md5_6_alpha: 8l6ic

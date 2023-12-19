@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o753
 * oomp_word: trophy helicopter taxi
 * oomp_word_emoji :trophy: :helicopter: :taxi:
 * md5_6_alpha: 6bf8s

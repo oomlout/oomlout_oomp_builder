@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o683
 * oomp_word: santa maple_leaf mushroom
 * oomp_word_emoji :santa: :maple_leaf: :mushroom:
 * md5_6_alpha: 4mb1k

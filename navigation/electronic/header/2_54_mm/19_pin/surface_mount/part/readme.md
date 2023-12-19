@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi119psm
 * oomp_word: blowfish water_buffalo tent
 * oomp_word_emoji :blowfish: :water_buffalo: :tent:
 * md5_6_alpha: 3n4d7

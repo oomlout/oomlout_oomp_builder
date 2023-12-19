@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh5pth
 * oomp_word: beer cake shell
 * oomp_word_emoji :beer: :cake: :shell:
 * md5_6_alpha: 74pyl

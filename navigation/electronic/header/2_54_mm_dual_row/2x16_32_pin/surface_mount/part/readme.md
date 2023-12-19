@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x16psm
 * oomp_word: airplane airplane skull
 * oomp_word_emoji :airplane: :airplane: :skull:
 * md5_6_alpha: 90c2o

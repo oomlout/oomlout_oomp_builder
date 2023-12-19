@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x18pth
 * oomp_word: helicopter new_moon cherries
 * oomp_word_emoji :helicopter: :new_moon: :cherries:
 * md5_6_alpha: 9132i

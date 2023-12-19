@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: bme280
 
 ### other_codes
-* short_code: 
+* short_code: isnpt280
 * oomp_word: pig new_moon school
 * oomp_word_emoji :pig: :new_moon: :school:
 * md5_6_alpha: 2cvyu

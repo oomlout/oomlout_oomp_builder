@@ -1,46 +1,63 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
-classification_upper: HARDWARE
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: black
-color_capital: Black
-color_first_letter: b
-color_first_letter_upper: B
-color_upper: BLACK
+color_length_1: b
+color_length_2: bl
+color_length_3: bla
+color_length_4: blac
+color_length_5: black
+color_length_6: black
+color_upper_length_1: B
+color_upper_length_2: BL
+color_upper_length_3: BLA
+color_upper_length_4: BLAC
+color_upper_length_5: BLACK
+color_upper_length_6: BLACK
 description_extra: hex_head
-description_extra_capital: Hex Head
-description_extra_first_letter: h
-description_extra_first_letter_upper: H
-description_extra_upper: HEX_HEAD
+description_extra_length_1: h
+description_extra_length_2: he
+description_extra_length_3: hex
+description_extra_length_4: hex_
+description_extra_length_5: hex_h
+description_extra_length_6: hex_he
+description_extra_upper_length_1: H
+description_extra_upper_length_2: HE
+description_extra_upper_length_3: HEX
+description_extra_upper_length_4: HEX_
+description_extra_upper_length_5: HEX_H
+description_extra_upper_length_6: HEX_HE
 description_main: 65_mm
-description_main_capital: 65 mm
-description_main_first_letter: '6'
-description_main_first_letter_upper: '6'
-description_main_upper: 65_MM
-description_only_numbers: '65'
-description_only_numbers_short: '65'
-description_or_color: B65
-description_or_color_upper: B65
+description_main_length_1: '6'
+description_main_length_2: '65'
+description_main_length_3: '65_'
+description_main_length_4: 65_m
+description_main_length_5: 65_mm
+description_main_length_6: 65_mm
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '65'
+description_main_upper_length_3: '65_'
+description_main_upper_length_4: 65_M
+description_main_upper_length_5: 65_MM
+description_main_upper_length_6: 65_MM
 directory: parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head
-distributors: []
-filter: ''
-from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head
 id: hardware_screw_socket_cap_4_mm_black_65_mm_hex_head
 id_no_class: screw_socket_cap_4_mm_black_65_mm_hex_head
+id_no_color: 65_mm_hex_head
 id_no_size: black_65_mm_hex_head
 id_no_type: 4_mm_black_65_mm_hex_head
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_screw_socket_cap_4_mm_black_65_mm_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head/working)<br>[ssc4b65](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head/working)<br>[Hardware
-    Screw Socket Cap 4 Mm Black 65 Mm Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head/working)<br><br>'
-markdown_short: '[hardware_screw_socket_cap_4_mm_black_65_mm_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_4_mm_black_65_mm_hex_head/working)<br><br>'
 md5: 9bc32c202adfc6d8c15fd9747f609371
 md5_10: 9bc32c202a
 md5_10_upper: 9BC32C202A
@@ -52,9 +69,20 @@ md5_6_alpha_upper: 62SKS
 md5_6_upper: 9BC32C
 name: Hardware Screw Socket Cap 4 Mm Black 65 Mm Hex Head
 name_no_class: Screw Socket Cap 4 Mm Black 65 Mm Hex Head
+name_no_color: 65 Mm Hex Head
 name_no_size: Black 65 Mm Hex Head
-name_no_size_short: Black 65 Mm Hex Head
 name_no_type: 4 Mm Black 65 Mm Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 65 mm
+oomlout_bolt_length_no_unit: '65'
+oomlout_bolt_name: Socket Cap M4X65 mm Black (Hex)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_short_code: sc4b65h
+oomlout_short_code_upper: SC4B65H
 oomp_key: oomp_hardware_screw_socket_cap_4_mm_black_65_mm_hex_head
 oomp_word: ski cake snowflake
 oomp_word_emoji: ':ski: :cake: :snowflake:'
@@ -67,21 +95,29 @@ oomp_word_list:
 - cake
 - snowflake
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ssc4b65
-short_code_upper: SSC4B65
 size: 4_mm
-size_capital: 4 mm
-size_first_letter: '4'
-size_first_letter_upper: '4'
-size_only_numbers: '4'
-size_only_numbers_no_zeros: '4'
-size_upper: 4_MM
+size_length_1: '4'
+size_length_2: '4_'
+size_length_3: 4_m
+size_length_4: 4_mm
+size_length_5: 4_mm
+size_length_6: 4_mm
+size_upper_length_1: '4'
+size_upper_length_2: '4_'
+size_upper_length_3: 4_M
+size_upper_length_4: 4_MM
+size_upper_length_5: 4_MM
+size_upper_length_6: 4_MM
 type: screw_socket_cap
-type_capital: Screw Socket Cap
-type_first_letter: s
-type_first_letter_upper: S
-type_upper: SCREW_SOCKET_CAP
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

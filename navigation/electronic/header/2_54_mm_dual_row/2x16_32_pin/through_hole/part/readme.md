@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x16pth
 * oomp_word: dog penguin bug
 * oomp_word_emoji :dog: :penguin: :bug:
 * md5_6_alpha: 201u5

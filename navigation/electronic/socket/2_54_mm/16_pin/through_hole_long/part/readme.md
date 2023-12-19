@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci116pthl
 * oomp_word: rocket palm_tree blossom
 * oomp_word_emoji :rocket: :palm_tree: :blossom:
 * md5_6_alpha: 8y92k

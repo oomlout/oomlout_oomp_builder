@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o184
 * oomp_word: poop bread house
 * oomp_word_emoji :poop: :bread: :house:
 * md5_6_alpha: uk0l

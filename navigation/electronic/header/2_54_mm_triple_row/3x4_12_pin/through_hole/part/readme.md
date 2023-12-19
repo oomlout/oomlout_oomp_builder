@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hth
 * oomp_word: pencil ok octopus
 * oomp_word_emoji :pencil: :ok: :octopus:
 * md5_6_alpha: 6ec7m

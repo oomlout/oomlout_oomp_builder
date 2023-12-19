@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: stk8321
 
 ### other_codes
-* short_code: 
+* short_code: isnastk8321
 * oomp_word: fish headphones sleeping
 * oomp_word_emoji :fish: :headphones: :sleeping:
 * md5_6_alpha: 39hqe

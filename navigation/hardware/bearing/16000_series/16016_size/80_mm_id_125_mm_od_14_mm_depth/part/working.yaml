@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 16016_size
 color_capital: 16016 Size
 color_first_letter: '1'
 color_first_letter_upper: '1'
+color_length_1: '1'
+color_length_2: '16'
+color_length_3: '160'
+color_length_4: '1601'
+color_length_5: '16016'
+color_length_6: '16016_'
 color_upper: 16016_SIZE
+color_upper_length_1: '1'
+color_upper_length_2: '16'
+color_upper_length_3: '160'
+color_upper_length_4: '1601'
+color_upper_length_5: '16016'
+color_upper_length_6: '16016_'
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 80_mm_id_125_mm_od_14_mm_depth
 description_main_capital: 80 mm Id 125 mm Od 14 mm Depth
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '80'
+description_main_length_3: '80_'
+description_main_length_4: 80_m
+description_main_length_5: 80_mm
+description_main_length_6: 80_mm_
 description_main_upper: 80_MM_ID_125_MM_OD_14_MM_DEPTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '80'
+description_main_upper_length_3: '80_'
+description_main_upper_length_4: 80_M
+description_main_upper_length_5: 80_MM
+description_main_upper_length_6: 80_MM_
 description_only_numbers: '8012514'
 description_only_numbers_short: 8M
 description_or_color: 18M
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
 id: hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
 id_no_class: bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
+id_no_color: 80_mm_id_125_mm_od_14_mm_depth
 id_no_size: 16016_size_80_mm_id_125_mm_od_14_mm_depth
 id_no_type: 16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working)<br>[Hardware
-    Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working)<br><br>'
+  Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16016_size_80_mm_id_125_mm_od_14_mm_depth/working)<br><br>'
 md5: 9640bb714359776d798b9fc602f91b16
 md5_10: 9640bb7143
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 5V1YZ
 md5_6_upper: 9640BB
 name: Hardware Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
 name_no_class: Bearing 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
+name_no_color: 80 Mm Id 125 Mm Od 14 Mm Depth
 name_no_size: 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
 name_no_size_short: 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
 name_no_type: 16000 Series 16016 Size 80 Mm Id 125 Mm Od 14 Mm Depth
@@ -76,11 +114,35 @@ size: 16000_series
 size_capital: 16000 Series
 size_first_letter: '1'
 size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '16'
+size_length_3: '160'
+size_length_4: '1600'
+size_length_5: '16000'
+size_length_6: '16000_'
 size_only_numbers: '16000'
 size_only_numbers_no_zeros: '16'
 size_upper: 16000_SERIES
+size_upper_length_1: '1'
+size_upper_length_2: '16'
+size_upper_length_3: '160'
+size_upper_length_4: '1600'
+size_upper_length_5: '16000'
+size_upper_length_6: '16000_'
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

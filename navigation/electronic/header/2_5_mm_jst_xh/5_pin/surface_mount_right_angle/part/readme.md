@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh5psmra
 * oomp_word: thumbsdown honeybee leopard
 * oomp_word_emoji :thumbsdown: :honeybee: :leopard:
 * md5_6_alpha: wqjj

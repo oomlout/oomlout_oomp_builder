@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x18psmra
 * oomp_word: stars chicken sushi
 * oomp_word_emoji :stars: :chicken: :sushi:
 * md5_6_alpha: 8mu9o

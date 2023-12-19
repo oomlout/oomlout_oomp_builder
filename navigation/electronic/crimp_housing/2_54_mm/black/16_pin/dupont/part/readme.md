@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b16pd
 * oomp_word: wink six tulip
 * oomp_word_emoji :wink: :six: :tulip:
 * md5_6_alpha: 6z4y

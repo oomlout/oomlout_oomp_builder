@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi127psm
 * oomp_word: computer sunny dizzy
 * oomp_word_emoji :computer: :sunny: :dizzy:
 * md5_6_alpha: 4szyp

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340x
 
 ### other_codes
-* short_code: 
+* short_code: imsp10ch340x
 * oomp_word: sparkles feet grin
 * oomp_word_emoji :sparkles: :feet: :grin:
 * md5_6_alpha: l91f

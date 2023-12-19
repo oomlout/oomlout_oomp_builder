@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: c63d54tuf220v10
 * oomp_word: cherries smile lips
 * oomp_word_emoji :cherries: :smile: :lips:
 * md5_6_alpha: 7vqxu

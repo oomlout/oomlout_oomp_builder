@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x10pthra
 * oomp_word: blowfish lipstick toilet
 * oomp_word_emoji :blowfish: :lipstick: :toilet:
 * md5_6_alpha: 3nkhz

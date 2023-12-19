@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o121
 * oomp_word: radio water_buffalo tongue
 * oomp_word_emoji :radio: :water_buffalo: :tongue:
 * md5_6_alpha: 5338o

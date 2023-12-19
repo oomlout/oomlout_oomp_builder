@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjsh5psm
 * oomp_word: apple skull helicopter
 * oomp_word_emoji :apple: :skull: :helicopter:
 * md5_6_alpha: 7t42v

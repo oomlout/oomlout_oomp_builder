@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hob3thra
 * oomp_word: fire shirt nine
 * oomp_word_emoji :fire: :shirt: :nine:
 * md5_6_alpha: t1iy

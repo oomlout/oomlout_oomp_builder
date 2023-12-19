@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hjxh5psm
 * oomp_word: hatched_chick koala headphones
 * oomp_word_emoji :hatched_chick: :koala: :headphones:
 * md5_6_alpha: 2tgh1

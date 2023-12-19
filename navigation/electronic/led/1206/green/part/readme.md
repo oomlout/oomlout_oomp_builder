@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: l12g
 * oomp_word: nose taxi ok
 * oomp_word_emoji :nose: :taxi: :ok:
 * md5_6_alpha: 1k2yj

@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: 01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 description_main_capital: 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 mm
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '01'
+description_main_length_3: '01_'
+description_main_length_4: '01_0'
+description_main_length_5: 01_09
+description_main_length_6: 01_09_
 description_main_upper: 01_09_EX_20_TEETH_SH_ELECTRONIC_POTENTIOMETER_17_MM
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '01'
+description_main_upper_length_3: '01_'
+description_main_upper_length_4: '01_0'
+description_main_upper_length_5: 01_09
+description_main_upper_length_6: 01_09_
 description_only_numbers: 01092017
 description_only_numbers_short: 1M
 description_or_color: 1M
 description_or_color_upper: 1M
 directory: parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 id: oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 id_no_class: part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
+id_no_color: 0109ex20teethshelectronicpotentiometer17mm
 id_no_size: 01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working)<br>[Oobb
-    Part Pulley Gt2 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
+  Part Pulley Gt2 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
 markdown_short: '[oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09_ex_20_teeth_sh_electronic_potentiometer_17_mm/working)<br><br>'
 md5: bcdb784229361e5c35f955c3967ba3c3
 md5_10: bcdb784229
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 7DA48
 md5_6_upper: BCDB78
 name: Oobb Part Pulley Gt2 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_class: Part Pulley Gt2 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm
+name_no_color: 0109Ex20Teethshelectronicpotentiometer17Mm
 name_no_size: 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_size_short: 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Pulley Gt2 01 09 Ex 20 Teeth Sh Electronic Potentiometer 17 Mm
@@ -75,11 +101,35 @@ size: pulley_gt2
 size_capital: Pulley Gt2
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
 size_only_numbers: '2'
 size_only_numbers_no_zeros: '2'
 size_upper: PULLEY_GT2
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

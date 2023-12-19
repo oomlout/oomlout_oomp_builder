@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r6o331
 * oomp_word: ox headphones books
 * oomp_word_emoji :ox: :headphones: :books:
 * md5_6_alpha: 3m4yb

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci19pth
 * oomp_word: mouse clap anger
 * oomp_word_emoji :mouse: :clap: :anger:
 * md5_6_alpha: 216oi

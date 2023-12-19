@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi130pth
 * oomp_word: melon shoe bulb
 * oomp_word_emoji :melon: :shoe: :bulb:
 * md5_6_alpha: 83oud

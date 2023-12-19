@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: conw2215po
 * oomp_word: watch ocean wink
 * oomp_word_emoji :watch: :ocean: :wink:
 * md5_6_alpha: 51gxw

@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 6802_size
 color_capital: 6802 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '68'
+color_length_3: '680'
+color_length_4: '6802'
+color_length_5: '6802_'
+color_length_6: 6802_s
 color_upper: 6802_SIZE
+color_upper_length_1: '6'
+color_upper_length_2: '68'
+color_upper_length_3: '680'
+color_upper_length_4: '6802'
+color_upper_length_5: '6802_'
+color_upper_length_6: 6802_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 15_mm_id_24_mm_od_5_mm_depth
 description_main_capital: 15 mm Id 24 mm Od 5 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_m
+description_main_length_5: 15_mm
+description_main_length_6: 15_mm_
 description_main_upper: 15_MM_ID_24_MM_OD_5_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_M
+description_main_upper_length_5: 15_MM
+description_main_upper_length_6: 15_MM_
 description_only_numbers: '15245'
 description_only_numbers_short: 15k
 description_or_color: 615k
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_d
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
 id: hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
 id_no_class: bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
+id_no_color: 15_mm_id_24_mm_od_5_mm_depth
 id_no_size: 6802_size_15_mm_id_24_mm_od_5_mm_depth
 id_no_type: 6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br>[Hardware
-    Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br><br>'
+  Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth/working)<br><br>'
 md5: 101845349dc9772d9429dbad74251805
 md5_10: 101845349d
@@ -51,6 +88,7 @@ md5_6_alpha_upper: MLVP
 md5_6_upper: '101845'
 name: Hardware Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
 name_no_class: Bearing 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
+name_no_color: 15 Mm Id 24 Mm Od 5 Mm Depth
 name_no_size: 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
 name_no_size_short: 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
 name_no_type: 6800 Series 6802 Size 15 Mm Id 24 Mm Od 5 Mm Depth
@@ -76,11 +114,35 @@ size: 6800_series
 size_capital: 6800 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
+size_length_1: '6'
+size_length_2: '68'
+size_length_3: '680'
+size_length_4: '6800'
+size_length_5: '6800_'
+size_length_6: 6800_s
 size_only_numbers: '6800'
 size_only_numbers_no_zeros: '68'
 size_upper: 6800_SERIES
+size_upper_length_1: '6'
+size_upper_length_2: '68'
+size_upper_length_3: '680'
+size_upper_length_4: '6800'
+size_upper_length_5: '6800_'
+size_upper_length_6: 6800_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

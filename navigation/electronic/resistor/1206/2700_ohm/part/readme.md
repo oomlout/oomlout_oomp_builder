@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r12o272
 * oomp_word: bulb moon sheep
 * oomp_word_emoji :bulb: :moon: :sheep:
 * md5_6_alpha: 57fia

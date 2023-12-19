@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: chi1b10pd
 * oomp_word: rooster whale dizzy
 * oomp_word_emoji :rooster: :whale: :dizzy:
 * md5_6_alpha: 3kaa9

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro104
 * oomp_word: tongue camel santa
 * oomp_word_emoji :tongue: :camel: :santa:
 * md5_6_alpha: 1kjna

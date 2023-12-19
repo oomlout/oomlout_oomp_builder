@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o562
 * oomp_word: princess clap cry
 * oomp_word_emoji :princess: :clap: :cry:
 * md5_6_alpha: 17oqv

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: sci112pthl
 * oomp_word: whale blossom anchor
 * oomp_word_emoji :whale: :blossom: :anchor:
 * md5_6_alpha: 3al7o

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340k
 
 ### other_codes
-* short_code: 
+* short_code: i
 * oomp_word: birthday book dolphin
 * oomp_word_emoji :birthday: :book: :dolphin:
 * md5_6_alpha: 7lemt

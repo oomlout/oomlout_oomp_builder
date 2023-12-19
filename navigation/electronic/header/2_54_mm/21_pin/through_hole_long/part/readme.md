@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi121pthl
 * oomp_word: hammer trumpet bowling
 * oomp_word_emoji :hammer: :trumpet: :bowling:
 * md5_6_alpha: 5dcpl

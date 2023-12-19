@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: c4nf10
 * oomp_word: palm_tree hamburger nose
 * oomp_word_emoji :palm_tree: :hamburger: :nose:
 * md5_6_alpha: 45wkn

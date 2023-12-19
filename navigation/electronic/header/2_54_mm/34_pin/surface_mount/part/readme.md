@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi134psm
 * oomp_word: leaves cyclone eyeglasses
 * oomp_word_emoji :leaves: :cyclone: :eyeglasses:
 * md5_6_alpha: 3zjcj

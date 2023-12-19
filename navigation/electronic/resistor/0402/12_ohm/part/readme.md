@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r4o120
 * oomp_word: gift fries pushpin
 * oomp_word_emoji :gift: :fries: :pushpin:
 * md5_6_alpha: 4o68h

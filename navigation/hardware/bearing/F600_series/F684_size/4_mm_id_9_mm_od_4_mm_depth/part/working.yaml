@@ -2,12 +2,36 @@ classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: F684_size
 color_capital: F684 Size
 color_first_letter: F
 color_first_letter_upper: F
+color_length_1: F
+color_length_2: F6
+color_length_3: F68
+color_length_4: F684
+color_length_5: F684_
+color_length_6: F684_s
 color_upper: F684_SIZE
+color_upper_length_1: F
+color_upper_length_2: F6
+color_upper_length_3: F68
+color_upper_length_4: F684
+color_upper_length_5: F684_
+color_upper_length_6: F684_S
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -17,7 +41,19 @@ description_main: 4_mm_id_9_mm_od_4_mm_depth
 description_main_capital: 4 mm Id 9 mm Od 4 mm Depth
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
+description_main_length_1: '4'
+description_main_length_2: '4_'
+description_main_length_3: 4_m
+description_main_length_4: 4_mm
+description_main_length_5: 4_mm_
+description_main_length_6: 4_mm_i
 description_main_upper: 4_MM_ID_9_MM_OD_4_MM_DEPTH
+description_main_upper_length_1: '4'
+description_main_upper_length_2: '4_'
+description_main_upper_length_3: 4_M
+description_main_upper_length_4: 4_MM
+description_main_upper_length_5: 4_MM_
+description_main_upper_length_6: 4_MM_I
 description_only_numbers: '494'
 description_only_numbers_short: '494'
 description_or_color: F494
@@ -26,9 +62,10 @@ directory: parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_dep
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth
 id: hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth
 id_no_class: bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth
+id_no_color: 4_mm_id_9_mm_od_4_mm_depth
 id_no_size: F684_size_4_mm_id_9_mm_od_4_mm_depth
 id_no_type: F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth
 manufacturer: ''
@@ -38,7 +75,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working)<br>[Hardware
-    Bearing F600 Series F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working)<br><br>'
+  Bearing F600 Series F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working)<br><br>'
 markdown_short: '[hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F684_size_4_mm_id_9_mm_od_4_mm_depth/working)<br><br>'
 md5: 82624bb5b5c403421b9ce8a783904d5a
 md5_10: 82624bb5b5
@@ -51,6 +88,7 @@ md5_6_alpha_upper: 5358R
 md5_6_upper: 82624B
 name: Hardware Bearing F600 Series F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
 name_no_class: Bearing F600 Series F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
+name_no_color: 4 Mm Id 9 Mm Od 4 Mm Depth
 name_no_size: F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
 name_no_size_short: F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
 name_no_type: F600 Series F684 Size 4 Mm Id 9 Mm Od 4 Mm Depth
@@ -76,11 +114,35 @@ size: F600_series
 size_capital: F600 Series
 size_first_letter: F
 size_first_letter_upper: F
+size_length_1: F
+size_length_2: F6
+size_length_3: F60
+size_length_4: F600
+size_length_5: F600_
+size_length_6: F600_s
 size_only_numbers: '600'
 size_only_numbers_no_zeros: '6'
 size_upper: F600_SERIES
+size_upper_length_1: F
+size_upper_length_2: F6
+size_upper_length_3: F60
+size_upper_length_4: F600
+size_upper_length_5: F600_
+size_upper_length_6: F600_S
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

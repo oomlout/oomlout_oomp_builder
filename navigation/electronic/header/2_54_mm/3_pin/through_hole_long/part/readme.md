@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi13pthl
 * oomp_word: fountain corn sunny
 * oomp_word_emoji :fountain: :corn: :sunny:
 * md5_6_alpha: 8qejt

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi18pthl
 * oomp_word: calendar house rabbit
 * oomp_word_emoji :calendar: :house: :rabbit:
 * md5_6_alpha: 5m1bq

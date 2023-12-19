@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi11pths
 * oomp_word: pizza nose hamster
 * oomp_word_emoji :pizza: :nose: :hamster:
 * md5_6_alpha: 759o5

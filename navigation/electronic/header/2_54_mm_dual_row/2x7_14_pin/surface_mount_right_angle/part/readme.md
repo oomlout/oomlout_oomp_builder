@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi12x7psmra
 * oomp_word: cloud octopus mushroom
 * oomp_word_emoji :cloud: :octopus: :mushroom:
 * md5_6_alpha: 1oup4

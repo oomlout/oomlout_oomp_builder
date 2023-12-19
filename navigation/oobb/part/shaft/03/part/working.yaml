@@ -2,7 +2,19 @@ classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
 classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,16 +29,29 @@ description_main: '03'
 description_main_capital: '03'
 description_main_first_letter: '0'
 description_main_first_letter_upper: '0'
+description_main_length_1: '0'
+description_main_length_2: '03'
+description_main_length_3: '03'
+description_main_length_4: '03'
+description_main_length_5: '03'
+description_main_length_6: '03'
 description_main_upper: '03'
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '03'
+description_main_upper_length_3: '03'
+description_main_upper_length_4: '03'
+description_main_upper_length_5: '03'
+description_main_upper_length_6: '03'
 description_only_numbers: '03'
 description_only_numbers_short: '3'
 description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/oobb_part_shaft_03
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03
 id: oobb_part_shaft_03
 id_no_class: part_shaft_03
+id_no_color: '03'
 id_no_size: '03'
 id_no_type: shaft_03
 manufacturer: ''
@@ -36,7 +61,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_shaft_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working)<br>[Oobb
-    Part Shaft 03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working)<br><br>'
+  Part Shaft 03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working)<br><br>'
 markdown_short: '[oobb_part_shaft_03](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03/working)<br><br>'
 md5: e61dd6dba4a8c9b139ff00e2740505f6
 md5_10: e61dd6dba4
@@ -49,6 +74,7 @@ md5_6_alpha_upper: 8Z8IE
 md5_6_upper: E61DD6
 name: Oobb Part Shaft 03
 name_no_class: Part Shaft 03
+name_no_color: '03'
 name_no_size: '03'
 name_no_size_short: '3'
 name_no_type: Shaft 03
@@ -75,11 +101,35 @@ size: shaft
 size_capital: Shaft
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
 type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

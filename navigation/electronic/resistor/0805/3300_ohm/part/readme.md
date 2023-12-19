@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: r8o332
 * oomp_word: crocodile tv snail
 * oomp_word_emoji :crocodile: :tv: :snail:
 * md5_6_alpha: 3opxt

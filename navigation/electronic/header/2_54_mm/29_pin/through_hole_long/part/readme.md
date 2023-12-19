@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: hi129pthl
 * oomp_word: bank dragon cake
 * oomp_word_emoji :bank: :dragon: :cake:
 * md5_6_alpha: 8hayr

@@ -2,7 +2,19 @@ classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
@@ -17,7 +29,19 @@ description_main: 680_ohm
 description_main_capital: 680 Ohm
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
+description_main_length_1: '6'
+description_main_length_2: '68'
+description_main_length_3: '680'
+description_main_length_4: '680_'
+description_main_length_5: 680_o
+description_main_length_6: 680_oh
 description_main_upper: 680_OHM
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '68'
+description_main_upper_length_3: '680'
+description_main_upper_length_4: '680_'
+description_main_upper_length_5: 680_O
+description_main_upper_length_6: 680_OH
 description_only_numbers: '680'
 description_only_numbers_short: '680'
 description_or_color: '680'
@@ -26,9 +50,10 @@ directory: parts/electronic_resistor_0402_680_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm
 id: electronic_resistor_0402_680_ohm
 id_no_class: resistor_0402_680_ohm
+id_no_color: 680ohm
 id_no_size: 680_ohm
 id_no_type: 0402_680_ohm
 kicad_reference: R
@@ -38,37 +63,37 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
-            and they are the same price
-        reason_short: not in jlc basic parts
-    part_number: 0402WGJ0681TCE
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: in the jlc basic parts catalogue
-        reason_short: jlc basic part
-    part_number: 0402WGF6800TCE
--   id: manufacturer_yageo
-    link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL
-    name: Yageo
-    note:
-        reason: yageo is a commonly cross referenced part number
-        reason_short: available everywhere
-    part_number: RC0402JR-07680RL
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: 0402WGJ0681TCE
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: in the jlc basic parts catalogue
+    reason_short: jlc basic part
+  part_number: 0402WGF6800TCE
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL
+  name: Yageo
+  note:
+    reason: yageo is a commonly cross referenced part number
+    reason_short: available everywhere
+  part_number: RC0402JR-07680RL
 markdown_full: '[electronic_resistor_0402_680_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working)<br>[r4o681](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working)<br>[Electronic
-    Resistor 0402 680 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working)<br><br>[Uniroyal
-    - 0402WGJ0681TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0681TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0681TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0681TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0681TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0681TCE)<br>[Uniroyal
-    - 0402WGF6800TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF6800TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF6800TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF6800TCE)[(N)  ](https://www.newark.com/search?st=0402WGF6800TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF6800TCE)<br>[Yageo
-    - RC0402JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL)
-    [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07680RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07680RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07680RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07680RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07680RL)<br>'
+  Resistor 0402 680 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working)<br><br>[Uniroyal
+  - 0402WGJ0681TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0681TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0681TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0681TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0681TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0681TCE)<br>[Uniroyal
+  - 0402WGF6800TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF6800TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF6800TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF6800TCE)[(N)  ](https://www.newark.com/search?st=0402WGF6800TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF6800TCE)<br>[Yageo
+  - RC0402JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL)
+  [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07680RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07680RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07680RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07680RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07680RL)<br>'
 markdown_short: '[electronic_resistor_0402_680_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm/working)<br><br>[Uniroyal
-    - 0402WGJ0681TCE- not in jlc basic parts]()[Uniroyal - 0402WGF6800TCE- jlc basic
-    part]()[Yageo - RC0402JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL)'
+  - 0402WGJ0681TCE- not in jlc basic parts]()[Uniroyal - 0402WGF6800TCE- jlc basic
+  part]()[Yageo - RC0402JR-07680RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07680RL)'
 md5: 7bcc213feb320a61f529a8467b045787
 md5_10: 7bcc213feb
 md5_10_upper: 7BCC213FEB
@@ -80,6 +105,7 @@ md5_6_alpha_upper: 4TW69
 md5_6_upper: 7BCC21
 name: Electronic Resistor 0402 680 Ohm
 name_no_class: Resistor 0402 680 Ohm
+name_no_color: 680Ohm
 name_no_size: 680 Ohm
 name_no_size_short: 680 Ohm
 name_no_type: 0402 680 Ohm
@@ -106,19 +132,43 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

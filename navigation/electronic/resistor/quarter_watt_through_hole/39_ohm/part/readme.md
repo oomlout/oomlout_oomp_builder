@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: ro390
 * oomp_word: ring computer microscope
 * oomp_word_emoji :ring: :computer: :microscope:
 * md5_6_alpha: 69f9w
