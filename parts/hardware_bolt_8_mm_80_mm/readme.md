@@ -1,4 +1,4 @@
-# Hardware Bolt 8 Mm 80 Mm  
+# Hardware Bolt 8 mm 80 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

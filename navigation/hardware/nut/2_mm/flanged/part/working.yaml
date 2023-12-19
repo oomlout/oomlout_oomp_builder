@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: flanged
 description_main_length_1: f
 description_main_length_2: fl
@@ -20,6 +35,19 @@ description_main_length_3: fla
 description_main_length_4: flan
 description_main_length_5: flang
 description_main_length_6: flange
+description_main_name: Flanged
+description_main_no_space_length_1: f
+description_main_no_space_length_2: fl
+description_main_no_space_length_3: fla
+description_main_no_space_length_4: flan
+description_main_no_space_length_5: flang
+description_main_no_space_length_6: flange
+description_main_no_space_upper_length_1: F
+description_main_no_space_upper_length_2: FL
+description_main_no_space_upper_length_3: FLA
+description_main_no_space_upper_length_4: FLAN
+description_main_no_space_upper_length_5: FLANG
+description_main_no_space_upper_length_6: FLANGE
 description_main_upper_length_1: F
 description_main_upper_length_2: FL
 description_main_upper_length_3: FLA
@@ -34,6 +62,7 @@ id_no_color: flanged
 id_no_size: flanged
 id_no_type: 2_mm_flanged
 manufacturer: ''
+manufacturer_name: ''
 md5: 842d4fd8c4b34afcfc8d2c4d14acf7b0
 md5_10: 842d4fd8c4
 md5_10_upper: 842D4FD8C4
@@ -43,11 +72,11 @@ md5_6: 842d4f
 md5_6_alpha: 55nwv
 md5_6_alpha_upper: 55NWV
 md5_6_upper: 842D4F
-name: Hardware Nut 2 Mm Flanged
-name_no_class: Nut 2 Mm Flanged
+name: Hardware Nut 2 mm Flanged
+name_no_class: Nut 2 mm Flanged
 name_no_color: Flanged
 name_no_size: Flanged
-name_no_type: 2 Mm Flanged
+name_no_type: 2 mm Flanged
 oomp_key: oomp_hardware_nut_2_mm_flanged
 oomp_word: key snowman ant
 oomp_word_emoji: ':key: :snowman: :ant:'
@@ -60,6 +89,7 @@ oomp_word_list:
 - snowman
 - ant
 part_number: ''
+part_number_name: ''
 size: 2_mm
 size_length_1: '2'
 size_length_2: '2_'
@@ -67,6 +97,19 @@ size_length_3: 2_m
 size_length_4: 2_mm
 size_length_5: 2_mm
 size_length_6: 2_mm
+size_name: 2 mm
+size_no_space_length_1: '2'
+size_no_space_length_2: 2m
+size_no_space_length_3: 2mm
+size_no_space_length_4: 2mm
+size_no_space_length_5: 2mm
+size_no_space_length_6: 2mm
+size_no_space_upper_length_1: '2'
+size_no_space_upper_length_2: 2M
+size_no_space_upper_length_3: 2MM
+size_no_space_upper_length_4: 2MM
+size_no_space_upper_length_5: 2MM
+size_no_space_upper_length_6: 2MM
 size_upper_length_1: '2'
 size_upper_length_2: '2_'
 size_upper_length_3: 2_M
@@ -80,6 +123,19 @@ type_length_3: nut
 type_length_4: nut
 type_length_5: nut
 type_length_6: nut
+type_name: Nut
+type_no_space_length_1: n
+type_no_space_length_2: nu
+type_no_space_length_3: nut
+type_no_space_length_4: nut
+type_no_space_length_5: nut
+type_no_space_length_6: nut
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NU
+type_no_space_upper_length_3: NUT
+type_no_space_upper_length_4: NUT
+type_no_space_upper_length_5: NUT
+type_no_space_upper_length_6: NUT
 type_upper_length_1: N
 type_upper_length_2: NU
 type_upper_length_3: NUT

@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -18,6 +31,19 @@ color_length_3: bla
 color_length_4: blac
 color_length_5: black
 color_length_6: black
+color_name: Black
+color_no_space_length_1: b
+color_no_space_length_2: bl
+color_no_space_length_3: bla
+color_no_space_length_4: blac
+color_no_space_length_5: black
+color_no_space_length_6: black
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BL
+color_no_space_upper_length_3: BLA
+color_no_space_upper_length_4: BLAC
+color_no_space_upper_length_5: BLACK
+color_no_space_upper_length_6: BLACK
 color_upper_length_1: B
 color_upper_length_2: BL
 color_upper_length_3: BLA
@@ -31,6 +57,19 @@ description_extra_length_3: hex
 description_extra_length_4: hex_
 description_extra_length_5: hex_h
 description_extra_length_6: hex_he
+description_extra_name: Hex Head
+description_extra_no_space_length_1: h
+description_extra_no_space_length_2: he
+description_extra_no_space_length_3: hex
+description_extra_no_space_length_4: hexh
+description_extra_no_space_length_5: hexhe
+description_extra_no_space_length_6: hexhea
+description_extra_no_space_upper_length_1: H
+description_extra_no_space_upper_length_2: HE
+description_extra_no_space_upper_length_3: HEX
+description_extra_no_space_upper_length_4: HEXH
+description_extra_no_space_upper_length_5: HEXHE
+description_extra_no_space_upper_length_6: HEXHEA
 description_extra_upper_length_1: H
 description_extra_upper_length_2: HE
 description_extra_upper_length_3: HEX
@@ -44,6 +83,19 @@ description_main_length_3: '12_'
 description_main_length_4: 12_m
 description_main_length_5: 12_mm
 description_main_length_6: 12_mm
+description_main_name: 12 mm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12m
+description_main_no_space_length_4: 12mm
+description_main_no_space_length_5: 12mm
+description_main_no_space_length_6: 12mm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12M
+description_main_no_space_upper_length_4: 12MM
+description_main_no_space_upper_length_5: 12MM
+description_main_no_space_upper_length_6: 12MM
 description_main_upper_length_1: '1'
 description_main_upper_length_2: '12'
 description_main_upper_length_3: '12_'
@@ -58,6 +110,7 @@ id_no_color: 12_mm_hex_head
 id_no_size: black_12_mm_hex_head
 id_no_type: 3_mm_black_12_mm_hex_head
 manufacturer: ''
+manufacturer_name: ''
 md5: 56133b79dd9f13b56a8cac402b92df44
 md5_10: 56133b79dd
 md5_10_upper: 56133B79DD
@@ -67,11 +120,11 @@ md5_6: 56133b
 md5_6_alpha: 3cwmz
 md5_6_alpha_upper: 3CWMZ
 md5_6_upper: 56133B
-name: Hardware Screw Socket Cap 3 Mm Black 12 Mm Hex Head
-name_no_class: Screw Socket Cap 3 Mm Black 12 Mm Hex Head
-name_no_color: 12 Mm Hex Head
-name_no_size: Black 12 Mm Hex Head
-name_no_type: 3 Mm Black 12 Mm Hex Head
+name: Hardware Screw Socket Cap 3 mm Black 12 mm Hex Head
+name_no_class: Screw Socket Cap 3 mm Black 12 mm Hex Head
+name_no_color: 12 mm Hex Head
+name_no_size: Black 12 mm Hex Head
+name_no_type: 3 mm Black 12 mm Hex Head
 oomlout_bolt_color: Black
 oomlout_bolt_head_type: Hex
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -95,6 +148,7 @@ oomp_word_list:
 - question
 - bear
 part_number: ''
+part_number_name: ''
 size: 3_mm
 size_length_1: '3'
 size_length_2: '3_'
@@ -102,6 +156,19 @@ size_length_3: 3_m
 size_length_4: 3_mm
 size_length_5: 3_mm
 size_length_6: 3_mm
+size_name: 3 mm
+size_no_space_length_1: '3'
+size_no_space_length_2: 3m
+size_no_space_length_3: 3mm
+size_no_space_length_4: 3mm
+size_no_space_length_5: 3mm
+size_no_space_length_6: 3mm
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: 3M
+size_no_space_upper_length_3: 3MM
+size_no_space_upper_length_4: 3MM
+size_no_space_upper_length_5: 3MM
+size_no_space_upper_length_6: 3MM
 size_upper_length_1: '3'
 size_upper_length_2: '3_'
 size_upper_length_3: 3_M
@@ -115,6 +182,19 @@ type_length_3: scr
 type_length_4: scre
 type_length_5: screw
 type_length_6: screw_
+type_name: Screw Socket Cap
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screws
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWS
 type_upper_length_1: S
 type_upper_length_2: SC
 type_upper_length_3: SCR

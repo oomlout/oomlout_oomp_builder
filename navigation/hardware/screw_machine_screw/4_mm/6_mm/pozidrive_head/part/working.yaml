@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,6 +25,7 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: pozidrive_head
 description_extra_length_1: p
 description_extra_length_2: po
@@ -19,6 +33,19 @@ description_extra_length_3: poz
 description_extra_length_4: pozi
 description_extra_length_5: pozid
 description_extra_length_6: pozidr
+description_extra_name: Pozidrive Head
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: po
+description_extra_no_space_length_3: poz
+description_extra_no_space_length_4: pozi
+description_extra_no_space_length_5: pozid
+description_extra_no_space_length_6: pozidr
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PO
+description_extra_no_space_upper_length_3: POZ
+description_extra_no_space_upper_length_4: POZI
+description_extra_no_space_upper_length_5: POZID
+description_extra_no_space_upper_length_6: POZIDR
 description_extra_upper_length_1: P
 description_extra_upper_length_2: PO
 description_extra_upper_length_3: POZ
@@ -32,6 +59,19 @@ description_main_length_3: 6_m
 description_main_length_4: 6_mm
 description_main_length_5: 6_mm
 description_main_length_6: 6_mm
+description_main_name: 6 mm
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6m
+description_main_no_space_length_3: 6mm
+description_main_no_space_length_4: 6mm
+description_main_no_space_length_5: 6mm
+description_main_no_space_length_6: 6mm
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6M
+description_main_no_space_upper_length_3: 6MM
+description_main_no_space_upper_length_4: 6MM
+description_main_no_space_upper_length_5: 6MM
+description_main_no_space_upper_length_6: 6MM
 description_main_upper_length_1: '6'
 description_main_upper_length_2: '6_'
 description_main_upper_length_3: 6_M
@@ -46,6 +86,7 @@ id_no_color: 6mmpozidrivehead
 id_no_size: 6_mm_pozidrive_head
 id_no_type: 4_mm_6_mm_pozidrive_head
 manufacturer: ''
+manufacturer_name: ''
 md5: 988b46c1951d36440f27c9dc2af0645d
 md5_10: 988b46c195
 md5_10_upper: 988B46C195
@@ -55,11 +96,11 @@ md5_6: 988b46
 md5_6_alpha: 5y9ty
 md5_6_alpha_upper: 5Y9TY
 md5_6_upper: 988B46
-name: Hardware Screw Machine Screw 4 Mm 6 Mm Pozidrive Head
-name_no_class: Screw Machine Screw 4 Mm 6 Mm Pozidrive Head
-name_no_color: 6Mmpozidrivehead
-name_no_size: 6 Mm Pozidrive Head
-name_no_type: 4 Mm 6 Mm Pozidrive Head
+name: Hardware Screw Machine Screw 4 mm 6 mm Pozidrive Head
+name_no_class: Screw Machine Screw 4 mm 6 mm Pozidrive Head
+name_no_color: 6mmpozidrivehead
+name_no_size: 6 mm Pozidrive Head
+name_no_type: 4 mm 6 mm Pozidrive Head
 oomlout_short_code: ms4m6pz
 oomlout_short_code_upper: MS4M6PZ
 oomp_key: oomp_hardware_screw_machine_screw_4_mm_6_mm_pozidrive_head
@@ -74,6 +115,7 @@ oomp_word_list:
 - door
 - bird
 part_number: ''
+part_number_name: ''
 size: 4_mm
 size_length_1: '4'
 size_length_2: '4_'
@@ -81,6 +123,19 @@ size_length_3: 4_m
 size_length_4: 4_mm
 size_length_5: 4_mm
 size_length_6: 4_mm
+size_name: 4 mm
+size_no_space_length_1: '4'
+size_no_space_length_2: 4m
+size_no_space_length_3: 4mm
+size_no_space_length_4: 4mm
+size_no_space_length_5: 4mm
+size_no_space_length_6: 4mm
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: 4M
+size_no_space_upper_length_3: 4MM
+size_no_space_upper_length_4: 4MM
+size_no_space_upper_length_5: 4MM
+size_no_space_upper_length_6: 4MM
 size_upper_length_1: '4'
 size_upper_length_2: '4_'
 size_upper_length_3: 4_M
@@ -94,6 +149,19 @@ type_length_3: scr
 type_length_4: scre
 type_length_5: screw
 type_length_6: screw_
+type_name: Screw Machine Screw
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screwm
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWM
 type_upper_length_1: S
 type_upper_length_2: SC
 type_upper_length_3: SCR

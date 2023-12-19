@@ -1,0 +1,9 @@
+classification: electronic
+color: mcu
+description_extra: ''
+description_main: atmega328
+id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+manufacturer: microchip
+part_number: atmega328p_mu
+size: mlf_32
+type: ic

@@ -1,0 +1,9 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: accelerometer
+id: electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+manufacturer: sensortek
+part_number: stk8321
+size: lga_12_pin_2_mm_x_2_mm
+type: ic

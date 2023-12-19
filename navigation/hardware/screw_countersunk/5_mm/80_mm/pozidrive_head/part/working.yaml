@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,6 +25,7 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: pozidrive_head
 description_extra_length_1: p
 description_extra_length_2: po
@@ -19,6 +33,19 @@ description_extra_length_3: poz
 description_extra_length_4: pozi
 description_extra_length_5: pozid
 description_extra_length_6: pozidr
+description_extra_name: Pozidrive Head
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: po
+description_extra_no_space_length_3: poz
+description_extra_no_space_length_4: pozi
+description_extra_no_space_length_5: pozid
+description_extra_no_space_length_6: pozidr
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PO
+description_extra_no_space_upper_length_3: POZ
+description_extra_no_space_upper_length_4: POZI
+description_extra_no_space_upper_length_5: POZID
+description_extra_no_space_upper_length_6: POZIDR
 description_extra_upper_length_1: P
 description_extra_upper_length_2: PO
 description_extra_upper_length_3: POZ
@@ -32,6 +59,19 @@ description_main_length_3: '80_'
 description_main_length_4: 80_m
 description_main_length_5: 80_mm
 description_main_length_6: 80_mm
+description_main_name: 80 mm
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: '80'
+description_main_no_space_length_3: 80m
+description_main_no_space_length_4: 80mm
+description_main_no_space_length_5: 80mm
+description_main_no_space_length_6: 80mm
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: '80'
+description_main_no_space_upper_length_3: 80M
+description_main_no_space_upper_length_4: 80MM
+description_main_no_space_upper_length_5: 80MM
+description_main_no_space_upper_length_6: 80MM
 description_main_upper_length_1: '8'
 description_main_upper_length_2: '80'
 description_main_upper_length_3: '80_'
@@ -46,6 +86,7 @@ id_no_color: 80mmpozidrivehead
 id_no_size: 80_mm_pozidrive_head
 id_no_type: 5_mm_80_mm_pozidrive_head
 manufacturer: ''
+manufacturer_name: ''
 md5: 7e1fd3bcc625fbd0d81266a489379d7e
 md5_10: 7e1fd3bcc6
 md5_10_upper: 7E1FD3BCC6
@@ -55,11 +96,11 @@ md5_6: 7e1fd3
 md5_6_alpha: 4x5ub
 md5_6_alpha_upper: 4X5UB
 md5_6_upper: 7E1FD3
-name: Hardware Screw Countersunk 5 Mm 80 Mm Pozidrive Head
-name_no_class: Screw Countersunk 5 Mm 80 Mm Pozidrive Head
-name_no_color: 80Mmpozidrivehead
-name_no_size: 80 Mm Pozidrive Head
-name_no_type: 5 Mm 80 Mm Pozidrive Head
+name: Hardware Screw Countersunk 5 mm 80 mm Pozidrive Head
+name_no_class: Screw Countersunk 5 mm 80 mm Pozidrive Head
+name_no_color: 80mmpozidrivehead
+name_no_size: 80 mm Pozidrive Head
+name_no_type: 5 mm 80 mm Pozidrive Head
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Pozidrive
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -83,6 +124,7 @@ oomp_word_list:
 - princess
 - tomato
 part_number: ''
+part_number_name: ''
 size: 5_mm
 size_length_1: '5'
 size_length_2: '5_'
@@ -90,6 +132,19 @@ size_length_3: 5_m
 size_length_4: 5_mm
 size_length_5: 5_mm
 size_length_6: 5_mm
+size_name: 5 mm
+size_no_space_length_1: '5'
+size_no_space_length_2: 5m
+size_no_space_length_3: 5mm
+size_no_space_length_4: 5mm
+size_no_space_length_5: 5mm
+size_no_space_length_6: 5mm
+size_no_space_upper_length_1: '5'
+size_no_space_upper_length_2: 5M
+size_no_space_upper_length_3: 5MM
+size_no_space_upper_length_4: 5MM
+size_no_space_upper_length_5: 5MM
+size_no_space_upper_length_6: 5MM
 size_upper_length_1: '5'
 size_upper_length_2: '5_'
 size_upper_length_3: 5_M
@@ -103,6 +158,19 @@ type_length_3: scr
 type_length_4: scre
 type_length_5: screw
 type_length_6: screw_
+type_name: Screw Countersunk
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screwc
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWC
 type_upper_length_1: S
 type_upper_length_2: SC
 type_upper_length_3: SCR

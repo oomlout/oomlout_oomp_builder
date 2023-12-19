@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: 10_mm
 description_main_length_1: '1'
 description_main_length_2: '10'
@@ -20,6 +35,19 @@ description_main_length_3: '10_'
 description_main_length_4: 10_m
 description_main_length_5: 10_mm
 description_main_length_6: 10_mm
+description_main_name: 10 mm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10m
+description_main_no_space_length_4: 10mm
+description_main_no_space_length_5: 10mm
+description_main_no_space_length_6: 10mm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10M
+description_main_no_space_upper_length_4: 10MM
+description_main_no_space_upper_length_5: 10MM
+description_main_no_space_upper_length_6: 10MM
 description_main_upper_length_1: '1'
 description_main_upper_length_2: '10'
 description_main_upper_length_3: '10_'
@@ -34,6 +62,7 @@ id_no_color: 10mm
 id_no_size: 10_mm
 id_no_type: 5_mm_10_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: c877f23161811bc4aa91d07c83ae9a3a
 md5_10: c877f23161
 md5_10_upper: C877F23161
@@ -43,11 +72,11 @@ md5_6: c877f2
 md5_6_alpha: 7tl9u
 md5_6_alpha_upper: 7TL9U
 md5_6_upper: C877F2
-name: Hardware Set Screw 5 Mm 10 Mm
-name_no_class: Set Screw 5 Mm 10 Mm
-name_no_color: 10Mm
-name_no_size: 10 Mm
-name_no_type: 5 Mm 10 Mm
+name: Hardware Set Screw 5 mm 10 mm
+name_no_class: Set Screw 5 mm 10 mm
+name_no_color: 10mm
+name_no_size: 10 mm
+name_no_type: 5 mm 10 mm
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Bolt
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -71,6 +100,7 @@ oomp_word_list:
 - gift
 - one
 part_number: ''
+part_number_name: ''
 size: 5_mm
 size_length_1: '5'
 size_length_2: '5_'
@@ -78,6 +108,19 @@ size_length_3: 5_m
 size_length_4: 5_mm
 size_length_5: 5_mm
 size_length_6: 5_mm
+size_name: 5 mm
+size_no_space_length_1: '5'
+size_no_space_length_2: 5m
+size_no_space_length_3: 5mm
+size_no_space_length_4: 5mm
+size_no_space_length_5: 5mm
+size_no_space_length_6: 5mm
+size_no_space_upper_length_1: '5'
+size_no_space_upper_length_2: 5M
+size_no_space_upper_length_3: 5MM
+size_no_space_upper_length_4: 5MM
+size_no_space_upper_length_5: 5MM
+size_no_space_upper_length_6: 5MM
 size_upper_length_1: '5'
 size_upper_length_2: '5_'
 size_upper_length_3: 5_M
@@ -91,6 +134,19 @@ type_length_3: set
 type_length_4: set_
 type_length_5: set_s
 type_length_6: set_sc
+type_name: Set Screw
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: set
+type_no_space_length_4: sets
+type_no_space_length_5: setsc
+type_no_space_length_6: setscr
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SET
+type_no_space_upper_length_4: SETS
+type_no_space_upper_length_5: SETSC
+type_no_space_upper_length_6: SETSCR
 type_upper_length_1: S
 type_upper_length_2: SE
 type_upper_length_3: SET

@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: 40_mm
 description_main_length_1: '4'
 description_main_length_2: '40'
@@ -20,6 +35,19 @@ description_main_length_3: '40_'
 description_main_length_4: 40_m
 description_main_length_5: 40_mm
 description_main_length_6: 40_mm
+description_main_name: 40 mm
+description_main_no_space_length_1: '4'
+description_main_no_space_length_2: '40'
+description_main_no_space_length_3: 40m
+description_main_no_space_length_4: 40mm
+description_main_no_space_length_5: 40mm
+description_main_no_space_length_6: 40mm
+description_main_no_space_upper_length_1: '4'
+description_main_no_space_upper_length_2: '40'
+description_main_no_space_upper_length_3: 40M
+description_main_no_space_upper_length_4: 40MM
+description_main_no_space_upper_length_5: 40MM
+description_main_no_space_upper_length_6: 40MM
 description_main_upper_length_1: '4'
 description_main_upper_length_2: '40'
 description_main_upper_length_3: '40_'
@@ -34,6 +62,7 @@ id_no_color: 40mm
 id_no_size: 40_mm
 id_no_type: 4_mm_40_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: 5815bbe94a8156ac5b9343546997575e
 md5_10: 5815bbe94a
 md5_10_upper: 5815BBE94A
@@ -43,11 +72,11 @@ md5_6: 5815bb
 md5_6_alpha: 3fq9n
 md5_6_alpha_upper: 3FQ9N
 md5_6_upper: 5815BB
-name: Hardware Bolt 4 Mm 40 Mm
-name_no_class: Bolt 4 Mm 40 Mm
-name_no_color: 40Mm
-name_no_size: 40 Mm
-name_no_type: 4 Mm 40 Mm
+name: Hardware Bolt 4 mm 40 mm
+name_no_class: Bolt 4 mm 40 mm
+name_no_color: 40mm
+name_no_size: 40 mm
+name_no_type: 4 mm 40 mm
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Bolt
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -71,6 +100,7 @@ oomp_word_list:
 - poop
 - curry
 part_number: ''
+part_number_name: ''
 size: 4_mm
 size_length_1: '4'
 size_length_2: '4_'
@@ -78,6 +108,19 @@ size_length_3: 4_m
 size_length_4: 4_mm
 size_length_5: 4_mm
 size_length_6: 4_mm
+size_name: 4 mm
+size_no_space_length_1: '4'
+size_no_space_length_2: 4m
+size_no_space_length_3: 4mm
+size_no_space_length_4: 4mm
+size_no_space_length_5: 4mm
+size_no_space_length_6: 4mm
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: 4M
+size_no_space_upper_length_3: 4MM
+size_no_space_upper_length_4: 4MM
+size_no_space_upper_length_5: 4MM
+size_no_space_upper_length_6: 4MM
 size_upper_length_1: '4'
 size_upper_length_2: '4_'
 size_upper_length_3: 4_M
@@ -91,6 +134,19 @@ type_length_3: bol
 type_length_4: bolt
 type_length_5: bolt
 type_length_6: bolt
+type_name: Bolt
+type_no_space_length_1: b
+type_no_space_length_2: bo
+type_no_space_length_3: bol
+type_no_space_length_4: bolt
+type_no_space_length_5: bolt
+type_no_space_length_6: bolt
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BO
+type_no_space_upper_length_3: BOL
+type_no_space_upper_length_4: BOLT
+type_no_space_upper_length_5: BOLT
+type_no_space_upper_length_6: BOLT
 type_upper_length_1: B
 type_upper_length_2: BO
 type_upper_length_3: BOL

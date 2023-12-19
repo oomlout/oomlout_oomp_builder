@@ -1,4 +1,4 @@
-# Hardware Washer 2 5 Mm Penny  
+# Hardware Washer 2 5 mm Penny  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

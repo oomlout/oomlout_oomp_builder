@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,8 +25,11 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: ''
+description_main_name: ''
 directory: parts/hardware_washer_8_mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_8_mm
 id: hardware_washer_8_mm
@@ -22,6 +38,7 @@ id_no_color: 8mm
 id_no_size: 8_mm
 id_no_type: 8_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: dde77523957e26b37b8bc9a2af8510b4
 md5_10: dde7752395
 md5_10_upper: DDE7752395
@@ -31,11 +48,11 @@ md5_6: dde775
 md5_6_alpha: 8np85
 md5_6_alpha_upper: 8NP85
 md5_6_upper: DDE775
-name: Hardware Washer 8 Mm
-name_no_class: Washer 8 Mm
-name_no_color: 8Mm
-name_no_size: 8 Mm
-name_no_type: 8 Mm
+name: Hardware Washer 8 mm
+name_no_class: Washer 8 mm
+name_no_color: 8mm
+name_no_size: 8 mm
+name_no_type: 8 mm
 oomp_key: oomp_hardware_washer_8_mm
 oomp_word: stars helicopter ghost
 oomp_word_emoji: ':stars: :helicopter: :ghost:'
@@ -48,6 +65,7 @@ oomp_word_list:
 - helicopter
 - ghost
 part_number: ''
+part_number_name: ''
 size: 8_mm
 size_length_1: '8'
 size_length_2: '8_'
@@ -55,6 +73,19 @@ size_length_3: 8_m
 size_length_4: 8_mm
 size_length_5: 8_mm
 size_length_6: 8_mm
+size_name: 8 mm
+size_no_space_length_1: '8'
+size_no_space_length_2: 8m
+size_no_space_length_3: 8mm
+size_no_space_length_4: 8mm
+size_no_space_length_5: 8mm
+size_no_space_length_6: 8mm
+size_no_space_upper_length_1: '8'
+size_no_space_upper_length_2: 8M
+size_no_space_upper_length_3: 8MM
+size_no_space_upper_length_4: 8MM
+size_no_space_upper_length_5: 8MM
+size_no_space_upper_length_6: 8MM
 size_upper_length_1: '8'
 size_upper_length_2: '8_'
 size_upper_length_3: 8_M
@@ -68,6 +99,19 @@ type_length_3: was
 type_length_4: wash
 type_length_5: washe
 type_length_6: washer
+type_name: Washer
+type_no_space_length_1: w
+type_no_space_length_2: wa
+type_no_space_length_3: was
+type_no_space_length_4: wash
+type_no_space_length_5: washe
+type_no_space_length_6: washer
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WA
+type_no_space_upper_length_3: WAS
+type_no_space_upper_length_4: WASH
+type_no_space_upper_length_5: WASHE
+type_no_space_upper_length_6: WASHER
 type_upper_length_1: W
 type_upper_length_2: WA
 type_upper_length_3: WAS

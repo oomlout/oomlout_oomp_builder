@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,8 +25,11 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: ''
+description_main_name: ''
 directory: parts/hardware_nut_1_mm
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_1_mm
 id: hardware_nut_1_mm
@@ -22,6 +38,7 @@ id_no_color: 1mm
 id_no_size: 1_mm
 id_no_type: 1_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: 04af2cffd596da832c5a0cfa139fcaf5
 md5_10: 04af2cffd5
 md5_10_upper: 04AF2CFFD5
@@ -31,11 +48,11 @@ md5_6: 04af2c
 md5_6_alpha: 6kvg
 md5_6_alpha_upper: 6KVG
 md5_6_upper: 04AF2C
-name: Hardware Nut 1 Mm
-name_no_class: Nut 1 Mm
-name_no_color: 1Mm
-name_no_size: 1 Mm
-name_no_type: 1 Mm
+name: Hardware Nut 1 mm
+name_no_class: Nut 1 mm
+name_no_color: 1mm
+name_no_size: 1 mm
+name_no_type: 1 mm
 oomp_key: oomp_hardware_nut_1_mm
 oomp_word: wink tophat snowflake
 oomp_word_emoji: ':wink: :tophat: :snowflake:'
@@ -48,6 +65,7 @@ oomp_word_list:
 - tophat
 - snowflake
 part_number: ''
+part_number_name: ''
 size: 1_mm
 size_length_1: '1'
 size_length_2: '1_'
@@ -55,6 +73,19 @@ size_length_3: 1_m
 size_length_4: 1_mm
 size_length_5: 1_mm
 size_length_6: 1_mm
+size_name: 1 mm
+size_no_space_length_1: '1'
+size_no_space_length_2: 1m
+size_no_space_length_3: 1mm
+size_no_space_length_4: 1mm
+size_no_space_length_5: 1mm
+size_no_space_length_6: 1mm
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: 1M
+size_no_space_upper_length_3: 1MM
+size_no_space_upper_length_4: 1MM
+size_no_space_upper_length_5: 1MM
+size_no_space_upper_length_6: 1MM
 size_upper_length_1: '1'
 size_upper_length_2: '1_'
 size_upper_length_3: 1_M
@@ -68,6 +99,19 @@ type_length_3: nut
 type_length_4: nut
 type_length_5: nut
 type_length_6: nut
+type_name: Nut
+type_no_space_length_1: n
+type_no_space_length_2: nu
+type_no_space_length_3: nut
+type_no_space_length_4: nut
+type_no_space_length_5: nut
+type_no_space_length_6: nut
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NU
+type_no_space_upper_length_3: NUT
+type_no_space_upper_length_4: NUT
+type_no_space_upper_length_5: NUT
+type_no_space_upper_length_6: NUT
 type_upper_length_1: N
 type_upper_length_2: NU
 type_upper_length_3: NUT

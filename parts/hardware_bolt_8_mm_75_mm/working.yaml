@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: 75_mm
 description_main_length_1: '7'
 description_main_length_2: '75'
@@ -20,6 +35,19 @@ description_main_length_3: '75_'
 description_main_length_4: 75_m
 description_main_length_5: 75_mm
 description_main_length_6: 75_mm
+description_main_name: 75 mm
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: '75'
+description_main_no_space_length_3: 75m
+description_main_no_space_length_4: 75mm
+description_main_no_space_length_5: 75mm
+description_main_no_space_length_6: 75mm
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: '75'
+description_main_no_space_upper_length_3: 75M
+description_main_no_space_upper_length_4: 75MM
+description_main_no_space_upper_length_5: 75MM
+description_main_no_space_upper_length_6: 75MM
 description_main_upper_length_1: '7'
 description_main_upper_length_2: '75'
 description_main_upper_length_3: '75_'
@@ -34,6 +62,7 @@ id_no_color: 75mm
 id_no_size: 75_mm
 id_no_type: 8_mm_75_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: f32160d50f6b1a9239a4dc5d65359969
 md5_10: f32160d50f
 md5_10_upper: F32160D50F
@@ -43,11 +72,11 @@ md5_6: f32160
 md5_6_alpha: 9hilc
 md5_6_alpha_upper: 9HILC
 md5_6_upper: F32160
-name: Hardware Bolt 8 Mm 75 Mm
-name_no_class: Bolt 8 Mm 75 Mm
-name_no_color: 75Mm
-name_no_size: 75 Mm
-name_no_type: 8 Mm 75 Mm
+name: Hardware Bolt 8 mm 75 mm
+name_no_class: Bolt 8 mm 75 mm
+name_no_color: 75mm
+name_no_size: 75 mm
+name_no_type: 8 mm 75 mm
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Bolt
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -71,6 +100,7 @@ oomp_word_list:
 - feet
 - poodle
 part_number: ''
+part_number_name: ''
 size: 8_mm
 size_length_1: '8'
 size_length_2: '8_'
@@ -78,6 +108,19 @@ size_length_3: 8_m
 size_length_4: 8_mm
 size_length_5: 8_mm
 size_length_6: 8_mm
+size_name: 8 mm
+size_no_space_length_1: '8'
+size_no_space_length_2: 8m
+size_no_space_length_3: 8mm
+size_no_space_length_4: 8mm
+size_no_space_length_5: 8mm
+size_no_space_length_6: 8mm
+size_no_space_upper_length_1: '8'
+size_no_space_upper_length_2: 8M
+size_no_space_upper_length_3: 8MM
+size_no_space_upper_length_4: 8MM
+size_no_space_upper_length_5: 8MM
+size_no_space_upper_length_6: 8MM
 size_upper_length_1: '8'
 size_upper_length_2: '8_'
 size_upper_length_3: 8_M
@@ -91,6 +134,19 @@ type_length_3: bol
 type_length_4: bolt
 type_length_5: bolt
 type_length_6: bolt
+type_name: Bolt
+type_no_space_length_1: b
+type_no_space_length_2: bo
+type_no_space_length_3: bol
+type_no_space_length_4: bolt
+type_no_space_length_5: bolt
+type_no_space_length_6: bolt
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BO
+type_no_space_upper_length_3: BOL
+type_no_space_upper_length_4: BOLT
+type_no_space_upper_length_5: BOLT
+type_no_space_upper_length_6: BOLT
 type_upper_length_1: B
 type_upper_length_2: BO
 type_upper_length_3: BOL

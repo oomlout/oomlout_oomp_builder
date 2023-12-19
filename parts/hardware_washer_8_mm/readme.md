@@ -1,4 +1,4 @@
-# Hardware Washer 8 Mm  
+# Hardware Washer 8 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

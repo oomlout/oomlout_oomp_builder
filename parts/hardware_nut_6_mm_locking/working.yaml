@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: locking
 description_main_length_1: l
 description_main_length_2: lo
@@ -20,6 +35,19 @@ description_main_length_3: loc
 description_main_length_4: lock
 description_main_length_5: locki
 description_main_length_6: lockin
+description_main_name: Locking
+description_main_no_space_length_1: l
+description_main_no_space_length_2: lo
+description_main_no_space_length_3: loc
+description_main_no_space_length_4: lock
+description_main_no_space_length_5: locki
+description_main_no_space_length_6: lockin
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LO
+description_main_no_space_upper_length_3: LOC
+description_main_no_space_upper_length_4: LOCK
+description_main_no_space_upper_length_5: LOCKI
+description_main_no_space_upper_length_6: LOCKIN
 description_main_upper_length_1: L
 description_main_upper_length_2: LO
 description_main_upper_length_3: LOC
@@ -34,6 +62,7 @@ id_no_color: locking
 id_no_size: locking
 id_no_type: 6_mm_locking
 manufacturer: ''
+manufacturer_name: ''
 md5: 0d2e2f10f6b683554d009c37113a575b
 md5_10: 0d2e2f10f6
 md5_10_upper: 0D2E2F10F6
@@ -43,11 +72,11 @@ md5_6: 0d2e2f
 md5_6_alpha: iii7
 md5_6_alpha_upper: III7
 md5_6_upper: 0D2E2F
-name: Hardware Nut 6 Mm Locking
-name_no_class: Nut 6 Mm Locking
+name: Hardware Nut 6 mm Locking
+name_no_class: Nut 6 mm Locking
 name_no_color: Locking
 name_no_size: Locking
-name_no_type: 6 Mm Locking
+name_no_type: 6 mm Locking
 oomp_key: oomp_hardware_nut_6_mm_locking
 oomp_word: heart zap cyclone
 oomp_word_emoji: ':heart: :zap: :cyclone:'
@@ -60,6 +89,7 @@ oomp_word_list:
 - zap
 - cyclone
 part_number: ''
+part_number_name: ''
 size: 6_mm
 size_length_1: '6'
 size_length_2: '6_'
@@ -67,6 +97,19 @@ size_length_3: 6_m
 size_length_4: 6_mm
 size_length_5: 6_mm
 size_length_6: 6_mm
+size_name: 6 mm
+size_no_space_length_1: '6'
+size_no_space_length_2: 6m
+size_no_space_length_3: 6mm
+size_no_space_length_4: 6mm
+size_no_space_length_5: 6mm
+size_no_space_length_6: 6mm
+size_no_space_upper_length_1: '6'
+size_no_space_upper_length_2: 6M
+size_no_space_upper_length_3: 6MM
+size_no_space_upper_length_4: 6MM
+size_no_space_upper_length_5: 6MM
+size_no_space_upper_length_6: 6MM
 size_upper_length_1: '6'
 size_upper_length_2: '6_'
 size_upper_length_3: 6_M
@@ -80,6 +123,19 @@ type_length_3: nut
 type_length_4: nut
 type_length_5: nut
 type_length_6: nut
+type_name: Nut
+type_no_space_length_1: n
+type_no_space_length_2: nu
+type_no_space_length_3: nut
+type_no_space_length_4: nut
+type_no_space_length_5: nut
+type_no_space_length_6: nut
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NU
+type_no_space_upper_length_3: NUT
+type_no_space_upper_length_4: NUT
+type_no_space_upper_length_5: NUT
+type_no_space_upper_length_6: NUT
 type_upper_length_1: N
 type_upper_length_2: NU
 type_upper_length_3: NUT

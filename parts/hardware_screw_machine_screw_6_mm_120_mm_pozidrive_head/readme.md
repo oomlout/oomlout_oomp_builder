@@ -1,4 +1,4 @@
-# Hardware Screw Machine Screw 6 Mm 120 Mm Pozidrive Head  
+# Hardware Screw Machine Screw 6 mm 120 mm Pozidrive Head  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
