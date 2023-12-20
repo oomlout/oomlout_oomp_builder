@@ -134,8 +134,8 @@ oomlout_bolt_name: Socket Cap M2_5X10 mm Black (Hex)
 oomlout_bolt_size: M2_5
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: sc2_5b10h
-oomlout_short_code_upper: SC2_5B10H
+oomlout_short_code: sc2d5b10h
+oomlout_short_code_upper: SC2D5B10H
 oomp_key: oomp_hardware_screw_socket_cap_2_5_mm_black_10_mm_hex_head
 oomp_word: lemon pushpin rat
 oomp_word_emoji: ':lemon: :pushpin: :rat:'

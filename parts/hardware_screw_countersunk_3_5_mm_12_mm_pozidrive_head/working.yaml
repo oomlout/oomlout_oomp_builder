@@ -110,8 +110,8 @@ oomlout_bolt_name: Countersunk M3_5X12 mm  (Pozidrive)
 oomlout_bolt_size: M3_5
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: cs3_5m12pz
-oomlout_short_code_upper: CS3_5M12PZ
+oomlout_short_code: cs3d5m12pz
+oomlout_short_code_upper: CS3D5M12PZ
 oomp_key: oomp_hardware_screw_countersunk_3_5_mm_12_mm_pozidrive_head
 oomp_word: leopard princess clap
 oomp_word_emoji: ':leopard: :princess: :clap:'
