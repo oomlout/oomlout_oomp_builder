@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: b90
 oomlout_bolt_md5_6_first_3_upper: B90
 oomlout_bolt_md5_6_last_3: d62
 oomlout_bolt_md5_6_last_3_upper: D62
-oomlout_bolt_name: Bolt X30 mm  (Bolt)
+oomlout_bolt_name: Bolt M6X30 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b6m30

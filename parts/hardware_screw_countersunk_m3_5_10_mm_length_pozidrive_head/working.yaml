@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: c8f
 oomlout_bolt_md5_6_first_3_upper: C8F
 oomlout_bolt_md5_6_last_3: '401'
 oomlout_bolt_md5_6_last_3_upper: '401'
-oomlout_bolt_name: Countersunk X10 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M3_5X10 mm  (Pozidrive)
+oomlout_bolt_size: M3_5
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs3d5m10pz

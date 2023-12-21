@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: e3e
 oomlout_bolt_md5_6_first_3_upper: E3E
 oomlout_bolt_md5_6_last_3: '424'
 oomlout_bolt_md5_6_last_3_upper: '424'
-oomlout_bolt_name: Set Screw X12 mm  (Bolt)
+oomlout_bolt_name: Set Screw M5X12 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss5m12

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f59
 oomlout_bolt_md5_6_first_3_upper: F59
 oomlout_bolt_md5_6_last_3: 8cb
 oomlout_bolt_md5_6_last_3_upper: 8CB
-oomlout_bolt_name: Bolt X90 mm  (Bolt)
+oomlout_bolt_name: Bolt M8X90 mm  (Bolt)
+oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b8m90

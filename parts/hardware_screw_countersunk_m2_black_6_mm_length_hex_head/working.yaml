@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: aeb
 oomlout_bolt_md5_6_first_3_upper: AEB
 oomlout_bolt_md5_6_last_3: '190'
 oomlout_bolt_md5_6_last_3_upper: '190'
-oomlout_bolt_name: Countersunk X6 mm Black (Hex)
+oomlout_bolt_name: Countersunk M2X6 mm Black (Hex)
+oomlout_bolt_size: M2
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs2b6h

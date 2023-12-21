@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: '545'
 oomlout_bolt_md5_6_first_3_upper: '545'
 oomlout_bolt_md5_6_last_3: 45e
 oomlout_bolt_md5_6_last_3_upper: 45E
-oomlout_bolt_name: Bolt X35 mm  (Bolt)
+oomlout_bolt_name: Bolt M6X35 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b6m35

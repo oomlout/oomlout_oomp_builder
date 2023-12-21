@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: acc
 oomlout_bolt_md5_6_first_3_upper: ACC
 oomlout_bolt_md5_6_last_3: a23
 oomlout_bolt_md5_6_last_3_upper: A23
-oomlout_bolt_name: Socket Cap X20 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M6X20 mm Black (Hex)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc6b20h

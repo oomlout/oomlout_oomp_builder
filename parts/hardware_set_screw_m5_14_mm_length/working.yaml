@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: '743'
 oomlout_bolt_md5_6_first_3_upper: '743'
 oomlout_bolt_md5_6_last_3: d9e
 oomlout_bolt_md5_6_last_3_upper: D9E
-oomlout_bolt_name: Set Screw X14 mm  (Bolt)
+oomlout_bolt_name: Set Screw M5X14 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss5m14

@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 05e
 oomlout_bolt_md5_6_first_3_upper: 05E
 oomlout_bolt_md5_6_last_3: e90
 oomlout_bolt_md5_6_last_3_upper: E90
-oomlout_bolt_name: Countersunk X14 mm Black (Hex)
+oomlout_bolt_name: Countersunk M2X14 mm Black (Hex)
+oomlout_bolt_size: M2
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs2b14h

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: fc9
 oomlout_bolt_md5_6_first_3_upper: FC9
 oomlout_bolt_md5_6_last_3: bae
 oomlout_bolt_md5_6_last_3_upper: BAE
-oomlout_bolt_name: Bolt X50 mm  (Bolt)
+oomlout_bolt_name: Bolt M8X50 mm  (Bolt)
+oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b8m50

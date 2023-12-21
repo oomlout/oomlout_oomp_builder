@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: '102'
 oomlout_bolt_md5_6_first_3_upper: '102'
 oomlout_bolt_md5_6_last_3: d19
 oomlout_bolt_md5_6_last_3_upper: D19
-oomlout_bolt_name: Countersunk X20 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M3X20 mm  (Pozidrive)
+oomlout_bolt_size: M3
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs3m20pz

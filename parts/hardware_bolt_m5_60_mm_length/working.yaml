@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: '698'
 oomlout_bolt_md5_6_first_3_upper: '698'
 oomlout_bolt_md5_6_last_3: '138'
 oomlout_bolt_md5_6_last_3_upper: '138'
-oomlout_bolt_name: Bolt X60 mm  (Bolt)
+oomlout_bolt_name: Bolt M5X60 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b5m60

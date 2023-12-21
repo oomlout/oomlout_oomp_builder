@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 04d
 oomlout_bolt_md5_6_first_3_upper: 04D
 oomlout_bolt_md5_6_last_3: 3cf
 oomlout_bolt_md5_6_last_3_upper: 3CF
-oomlout_bolt_name: Countersunk X20 mm Black (Hex)
+oomlout_bolt_name: Countersunk M4X20 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs4b20h

@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 89f
 oomlout_bolt_md5_6_first_3_upper: 89F
 oomlout_bolt_md5_6_last_3: '231'
 oomlout_bolt_md5_6_last_3_upper: '231'
-oomlout_bolt_name: Countersunk X12 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M4X12 mm  (Pozidrive)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs4m12pz

@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '692'
 oomlout_bolt_md5_6_first_3_upper: '692'
 oomlout_bolt_md5_6_last_3: 3fb
 oomlout_bolt_md5_6_last_3_upper: 3FB
-oomlout_bolt_name: Socket Cap X10 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M4X10 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc4b10h

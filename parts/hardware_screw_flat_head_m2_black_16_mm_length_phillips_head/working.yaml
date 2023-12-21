@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 78a
 oomlout_bolt_md5_6_first_3_upper: 78A
 oomlout_bolt_md5_6_last_3: 081
 oomlout_bolt_md5_6_last_3_upper: 081
-oomlout_bolt_name: Flat Head X16 mm Black (Phillips)
+oomlout_bolt_name: Flat Head M2X16 mm Black (Phillips)
+oomlout_bolt_size: M2
 oomlout_bolt_type: Flat Head
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: fh2b16p

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: cdf
 oomlout_bolt_md5_6_first_3_upper: CDF
 oomlout_bolt_md5_6_last_3: fe8
 oomlout_bolt_md5_6_last_3_upper: FE8
-oomlout_bolt_name: Bolt X70 mm  (Bolt)
+oomlout_bolt_name: Bolt M8X70 mm  (Bolt)
+oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b8m70

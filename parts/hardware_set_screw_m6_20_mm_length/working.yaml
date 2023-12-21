@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: c9e
 oomlout_bolt_md5_6_first_3_upper: C9E
 oomlout_bolt_md5_6_last_3: a71
 oomlout_bolt_md5_6_last_3_upper: A71
-oomlout_bolt_name: Set Screw X20 mm  (Bolt)
+oomlout_bolt_name: Set Screw M6X20 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss6m20

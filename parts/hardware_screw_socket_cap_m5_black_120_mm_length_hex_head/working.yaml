@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: e8b
 oomlout_bolt_md5_6_first_3_upper: E8B
 oomlout_bolt_md5_6_last_3: 8cd
 oomlout_bolt_md5_6_last_3_upper: 8CD
-oomlout_bolt_name: Socket Cap X120 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M5X120 mm Black (Hex)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc5b120h

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f26
 oomlout_bolt_md5_6_first_3_upper: F26
 oomlout_bolt_md5_6_last_3: '426'
 oomlout_bolt_md5_6_last_3_upper: '426'
-oomlout_bolt_name: Bolt X120 mm  (Bolt)
+oomlout_bolt_name: Bolt M6X120 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b6m120

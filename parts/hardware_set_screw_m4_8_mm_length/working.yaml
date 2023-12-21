@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f3a
 oomlout_bolt_md5_6_first_3_upper: F3A
 oomlout_bolt_md5_6_last_3: '502'
 oomlout_bolt_md5_6_last_3_upper: '502'
-oomlout_bolt_name: Set Screw X8 mm  (Bolt)
+oomlout_bolt_name: Set Screw M4X8 mm  (Bolt)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss4m8

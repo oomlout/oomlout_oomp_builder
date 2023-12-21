@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '367'
 oomlout_bolt_md5_6_first_3_upper: '367'
 oomlout_bolt_md5_6_last_3: '537'
 oomlout_bolt_md5_6_last_3_upper: '537'
-oomlout_bolt_name: Countersunk X30 mm Black (Hex)
+oomlout_bolt_name: Countersunk M3X30 mm Black (Hex)
+oomlout_bolt_size: M3
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs3b30h

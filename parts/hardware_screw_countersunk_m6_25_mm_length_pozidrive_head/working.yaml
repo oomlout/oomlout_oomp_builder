@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 19b
 oomlout_bolt_md5_6_first_3_upper: 19B
 oomlout_bolt_md5_6_last_3: 25a
 oomlout_bolt_md5_6_last_3_upper: 25A
-oomlout_bolt_name: Countersunk X25 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M6X25 mm  (Pozidrive)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs6m25pz

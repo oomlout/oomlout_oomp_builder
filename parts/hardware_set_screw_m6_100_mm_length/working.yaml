@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f1d
 oomlout_bolt_md5_6_first_3_upper: F1D
 oomlout_bolt_md5_6_last_3: 7d0
 oomlout_bolt_md5_6_last_3_upper: 7D0
-oomlout_bolt_name: Set Screw X100 mm  (Bolt)
+oomlout_bolt_name: Set Screw M6X100 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss6m100

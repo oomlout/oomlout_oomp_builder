@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: e21
 oomlout_bolt_md5_6_first_3_upper: E21
 oomlout_bolt_md5_6_last_3: 8f0
 oomlout_bolt_md5_6_last_3_upper: 8F0
-oomlout_bolt_name: Bolt X40 mm  (Bolt)
+oomlout_bolt_name: Bolt M6X40 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b6m40

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: ed8
 oomlout_bolt_md5_6_first_3_upper: ED8
 oomlout_bolt_md5_6_last_3: a3b
 oomlout_bolt_md5_6_last_3_upper: A3B
-oomlout_bolt_name: Bolt X45 mm  (Bolt)
+oomlout_bolt_name: Bolt M6X45 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b6m45

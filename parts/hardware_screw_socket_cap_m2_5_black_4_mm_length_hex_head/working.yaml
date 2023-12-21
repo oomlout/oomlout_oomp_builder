@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 90b
 oomlout_bolt_md5_6_first_3_upper: 90B
 oomlout_bolt_md5_6_last_3: 96a
 oomlout_bolt_md5_6_last_3_upper: 96A
-oomlout_bolt_name: Socket Cap X4 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M2_5X4 mm Black (Hex)
+oomlout_bolt_size: M2_5
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc2d5b4h

@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: ccf
 oomlout_bolt_md5_6_first_3_upper: CCF
 oomlout_bolt_md5_6_last_3: 090
 oomlout_bolt_md5_6_last_3_upper: 090
-oomlout_bolt_name: Countersunk X16 mm Black (Hex)
+oomlout_bolt_name: Countersunk M4X16 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs4b16h

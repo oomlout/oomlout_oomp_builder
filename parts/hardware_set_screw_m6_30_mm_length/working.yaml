@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: '863'
 oomlout_bolt_md5_6_first_3_upper: '863'
 oomlout_bolt_md5_6_last_3: 8cf
 oomlout_bolt_md5_6_last_3_upper: 8CF
-oomlout_bolt_name: Set Screw X30 mm  (Bolt)
+oomlout_bolt_name: Set Screw M6X30 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss6m30

@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 9c5
 oomlout_bolt_md5_6_first_3_upper: 9C5
 oomlout_bolt_md5_6_last_3: db7
 oomlout_bolt_md5_6_last_3_upper: DB7
-oomlout_bolt_name: Socket Cap X65 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M6X65 mm Black (Hex)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc6b65h

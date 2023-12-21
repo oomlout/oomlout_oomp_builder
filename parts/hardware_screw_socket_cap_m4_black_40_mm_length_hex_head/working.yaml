@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '411'
 oomlout_bolt_md5_6_first_3_upper: '411'
 oomlout_bolt_md5_6_last_3: '112'
 oomlout_bolt_md5_6_last_3_upper: '112'
-oomlout_bolt_name: Socket Cap X40 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M4X40 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc4b40h

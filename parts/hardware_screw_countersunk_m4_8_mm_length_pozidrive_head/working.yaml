@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 49e
 oomlout_bolt_md5_6_first_3_upper: 49E
 oomlout_bolt_md5_6_last_3: ecd
 oomlout_bolt_md5_6_last_3_upper: ECD
-oomlout_bolt_name: Countersunk X8 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M4X8 mm  (Pozidrive)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs4m8pz

@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: 1b8
 oomlout_bolt_md5_6_first_3_upper: 1B8
 oomlout_bolt_md5_6_last_3: 3d4
 oomlout_bolt_md5_6_last_3_upper: 3D4
-oomlout_bolt_name: Bolt X35 mm  (Bolt)
+oomlout_bolt_name: Bolt M8X35 mm  (Bolt)
+oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b8m35

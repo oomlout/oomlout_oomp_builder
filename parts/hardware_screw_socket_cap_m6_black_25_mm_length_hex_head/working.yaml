@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 7a7
 oomlout_bolt_md5_6_first_3_upper: 7A7
 oomlout_bolt_md5_6_last_3: a39
 oomlout_bolt_md5_6_last_3_upper: A39
-oomlout_bolt_name: Socket Cap X25 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M6X25 mm Black (Hex)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc6b25h

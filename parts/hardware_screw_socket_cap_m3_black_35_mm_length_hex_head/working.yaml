@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 24a
 oomlout_bolt_md5_6_first_3_upper: 24A
 oomlout_bolt_md5_6_last_3: 61a
 oomlout_bolt_md5_6_last_3_upper: 61A
-oomlout_bolt_name: Socket Cap X35 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M3X35 mm Black (Hex)
+oomlout_bolt_size: M3
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc3b35h

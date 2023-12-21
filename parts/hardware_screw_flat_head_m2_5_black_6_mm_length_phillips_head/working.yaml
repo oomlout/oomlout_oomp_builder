@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 9ca
 oomlout_bolt_md5_6_first_3_upper: 9CA
 oomlout_bolt_md5_6_last_3: b3a
 oomlout_bolt_md5_6_last_3_upper: B3A
-oomlout_bolt_name: Flat Head X6 mm Black (Phillips)
+oomlout_bolt_name: Flat Head M2_5X6 mm Black (Phillips)
+oomlout_bolt_size: M2_5
 oomlout_bolt_type: Flat Head
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: fh2d5b6p

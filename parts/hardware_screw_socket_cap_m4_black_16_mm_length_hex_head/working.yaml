@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '764'
 oomlout_bolt_md5_6_first_3_upper: '764'
 oomlout_bolt_md5_6_last_3: f5a
 oomlout_bolt_md5_6_last_3_upper: F5A
-oomlout_bolt_name: Socket Cap X16 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M4X16 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc4b16h

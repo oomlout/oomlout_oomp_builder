@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f53
 oomlout_bolt_md5_6_first_3_upper: F53
 oomlout_bolt_md5_6_last_3: '001'
 oomlout_bolt_md5_6_last_3_upper: '001'
-oomlout_bolt_name: Bolt X65 mm  (Bolt)
+oomlout_bolt_name: Bolt M5X65 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b5m65

@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 7b1
 oomlout_bolt_md5_6_first_3_upper: 7B1
 oomlout_bolt_md5_6_last_3: c54
 oomlout_bolt_md5_6_last_3_upper: C54
-oomlout_bolt_name: Countersunk X100 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M6X100 mm  (Pozidrive)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs6m100pz

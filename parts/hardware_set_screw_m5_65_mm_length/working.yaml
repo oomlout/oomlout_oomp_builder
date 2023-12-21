@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: 6de
 oomlout_bolt_md5_6_first_3_upper: 6DE
 oomlout_bolt_md5_6_last_3: c75
 oomlout_bolt_md5_6_last_3_upper: C75
-oomlout_bolt_name: Set Screw X65 mm  (Bolt)
+oomlout_bolt_name: Set Screw M5X65 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss5m65

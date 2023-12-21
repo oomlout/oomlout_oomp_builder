@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: b32
 oomlout_bolt_md5_6_first_3_upper: B32
 oomlout_bolt_md5_6_last_3: 05f
 oomlout_bolt_md5_6_last_3_upper: 05F
-oomlout_bolt_name: Set Screw X70 mm  (Bolt)
+oomlout_bolt_name: Set Screw M5X70 mm  (Bolt)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss5m70

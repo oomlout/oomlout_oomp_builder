@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '036'
 oomlout_bolt_md5_6_first_3_upper: '036'
 oomlout_bolt_md5_6_last_3: 7f7
 oomlout_bolt_md5_6_last_3_upper: 7F7
-oomlout_bolt_name: Socket Cap X6 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M2X6 mm Black (Hex)
+oomlout_bolt_size: M2
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc2b6h

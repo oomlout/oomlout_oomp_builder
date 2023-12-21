@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 60c
 oomlout_bolt_md5_6_first_3_upper: 60C
 oomlout_bolt_md5_6_last_3: 3af
 oomlout_bolt_md5_6_last_3_upper: 3AF
-oomlout_bolt_name: Socket Cap X10 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M3X10 mm Black (Hex)
+oomlout_bolt_size: M3
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc3b10h

@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 49e
 oomlout_bolt_md5_6_first_3_upper: 49E
 oomlout_bolt_md5_6_last_3: f8c
 oomlout_bolt_md5_6_last_3_upper: F8C
-oomlout_bolt_name: Countersunk X50 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M5X50 mm  (Pozidrive)
+oomlout_bolt_size: M5
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs5m50pz

@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: b18
 oomlout_bolt_md5_6_first_3_upper: B18
 oomlout_bolt_md5_6_last_3: '660'
 oomlout_bolt_md5_6_last_3_upper: '660'
-oomlout_bolt_name: Countersunk X10 mm Black (Hex)
+oomlout_bolt_name: Countersunk M2X10 mm Black (Hex)
+oomlout_bolt_size: M2
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs2b10h

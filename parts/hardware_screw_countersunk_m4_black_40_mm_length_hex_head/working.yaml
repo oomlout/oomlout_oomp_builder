@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: '733'
 oomlout_bolt_md5_6_first_3_upper: '733'
 oomlout_bolt_md5_6_last_3: 72a
 oomlout_bolt_md5_6_last_3_upper: 72A
-oomlout_bolt_name: Countersunk X40 mm Black (Hex)
+oomlout_bolt_name: Countersunk M4X40 mm Black (Hex)
+oomlout_bolt_size: M4
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs4b40h

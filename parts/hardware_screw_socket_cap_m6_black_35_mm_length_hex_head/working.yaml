@@ -138,7 +138,8 @@ oomlout_bolt_md5_6_first_3: 04f
 oomlout_bolt_md5_6_first_3_upper: 04F
 oomlout_bolt_md5_6_last_3: a41
 oomlout_bolt_md5_6_last_3_upper: A41
-oomlout_bolt_name: Socket Cap X35 mm Black (Hex)
+oomlout_bolt_name: Socket Cap M6X35 mm Black (Hex)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Socket Cap
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: sc6b35h

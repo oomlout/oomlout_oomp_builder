@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: '337'
 oomlout_bolt_md5_6_first_3_upper: '337'
 oomlout_bolt_md5_6_last_3: '334'
 oomlout_bolt_md5_6_last_3_upper: '334'
-oomlout_bolt_name: Bolt X30 mm  (Bolt)
+oomlout_bolt_name: Bolt M8X30 mm  (Bolt)
+oomlout_bolt_size: M8
 oomlout_bolt_type: Bolt
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: b8m30

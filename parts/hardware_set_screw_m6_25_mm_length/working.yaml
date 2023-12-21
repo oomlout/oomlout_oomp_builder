@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: f03
 oomlout_bolt_md5_6_first_3_upper: F03
 oomlout_bolt_md5_6_last_3: c4a
 oomlout_bolt_md5_6_last_3_upper: C4A
-oomlout_bolt_name: Set Screw X25 mm  (Bolt)
+oomlout_bolt_name: Set Screw M6X25 mm  (Bolt)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss6m25

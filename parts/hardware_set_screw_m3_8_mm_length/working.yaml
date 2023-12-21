@@ -90,7 +90,8 @@ oomlout_bolt_md5_6_first_3: a2f
 oomlout_bolt_md5_6_first_3_upper: A2F
 oomlout_bolt_md5_6_last_3: 2c0
 oomlout_bolt_md5_6_last_3_upper: 2C0
-oomlout_bolt_name: Set Screw X8 mm  (Bolt)
+oomlout_bolt_name: Set Screw M3X8 mm  (Bolt)
+oomlout_bolt_size: M3
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss3m8

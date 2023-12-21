@@ -114,7 +114,8 @@ oomlout_bolt_md5_6_first_3: 9b0
 oomlout_bolt_md5_6_first_3_upper: 9B0
 oomlout_bolt_md5_6_last_3: 50c
 oomlout_bolt_md5_6_last_3_upper: 50C
-oomlout_bolt_name: Countersunk X30 mm  (Pozidrive)
+oomlout_bolt_name: Countersunk M6X30 mm  (Pozidrive)
+oomlout_bolt_size: M6
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: cs6m30pz
