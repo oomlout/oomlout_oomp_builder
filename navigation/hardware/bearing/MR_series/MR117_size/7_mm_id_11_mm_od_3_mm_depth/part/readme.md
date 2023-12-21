@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth  
+# Hardware Bearing Mr Series Mr117 Size 7 mm Id 11 mm Od 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

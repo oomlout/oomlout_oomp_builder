@@ -1,4 +1,4 @@
-# Electronic Led 10 Mm Red  
+# Electronic LED 10 mm Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l10r
+* short_code: 
 * oomp_word: two ambulance mouse
 * oomp_word_emoji :two: :ambulance: :mouse:
 * md5_6_alpha: 9in1w

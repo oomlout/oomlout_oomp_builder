@@ -59,7 +59,7 @@ description_main_length_3: '100'
 description_main_length_4: '100_'
 description_main_length_5: 100_m
 description_main_length_6: 100_mm
-description_main_name: 100 mm Id 180 mm Od 34 mm Depth
+description_main_name: 100 mm ID 180 mm OD 34 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '100'
@@ -96,11 +96,11 @@ md5_6: d8abdb
 md5_6_alpha: 8gcm3
 md5_6_alpha_upper: 8GCM3
 md5_6_upper: D8ABDB
-name: Hardware Bearing 6200 Series 6220 Size 100 mm Id 180 mm Od 34 mm Depth
-name_no_class: Bearing 6200 Series 6220 Size 100 mm Id 180 mm Od 34 mm Depth
-name_no_color: 100 mm Id 180 mm Od 34 mm Depth
-name_no_size: 6220 Size 100 mm Id 180 mm Od 34 mm Depth
-name_no_type: 6200 Series 6220 Size 100 mm Id 180 mm Od 34 mm Depth
+name: Hardware Bearing 6200 Series 6220 Size 100 mm ID 180 mm OD 34 mm Depth
+name_no_class: Bearing 6200 Series 6220 Size 100 mm ID 180 mm OD 34 mm Depth
+name_no_color: 100 mm ID 180 mm OD 34 mm Depth
+name_no_size: 6220 Size 100 mm ID 180 mm OD 34 mm Depth
+name_no_type: 6200 Series 6220 Size 100 mm ID 180 mm OD 34 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6220_size_100_mm_id_180_mm_od_34_mm_depth
 oomp_word: hospital boot tent
 oomp_word_emoji: ':hospital: :boot: :tent:'

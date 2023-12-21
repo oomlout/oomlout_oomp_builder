@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 12 Pin Through Hole  
+# Electronic Socket 2 54 mm 12 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci112pth
+* short_code: 
 * oomp_word: train three trident
 * oomp_word_emoji :train: :three: :trident:
 * md5_6_alpha: 9egov

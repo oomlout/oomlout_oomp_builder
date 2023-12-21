@@ -1,4 +1,4 @@
-# Electronic Led 1206 Blue  
+# Electronic LED 1206 Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l12l
+* short_code: 
 * oomp_word: coffee balloon shoe
 * oomp_word_emoji :coffee: :balloon: :shoe:
 * md5_6_alpha: 71i94

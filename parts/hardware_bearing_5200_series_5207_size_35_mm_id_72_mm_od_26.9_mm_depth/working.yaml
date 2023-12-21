@@ -59,7 +59,7 @@ description_main_length_3: '35_'
 description_main_length_4: 35_m
 description_main_length_5: 35_mm
 description_main_length_6: 35_mm_
-description_main_name: 35 mm Id 72 mm Od 26.9 mm Depth
+description_main_name: 35 mm ID 72 mm OD 26.9 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: '35'
 description_main_no_space_length_3: 35m
@@ -96,11 +96,11 @@ md5_6: 4dcaaa
 md5_6_alpha: 319re
 md5_6_alpha_upper: 319RE
 md5_6_upper: 4DCAAA
-name: Hardware Bearing 5200 Series 5207 Size 35 mm Id 72 mm Od 26.9 mm Depth
-name_no_class: Bearing 5200 Series 5207 Size 35 mm Id 72 mm Od 26.9 mm Depth
-name_no_color: 35 mm Id 72 mm Od 26.9 mm Depth
-name_no_size: 5207 Size 35 mm Id 72 mm Od 26.9 mm Depth
-name_no_type: 5200 Series 5207 Size 35 mm Id 72 mm Od 26.9 mm Depth
+name: Hardware Bearing 5200 Series 5207 Size 35 mm ID 72 mm OD 26.9 mm Depth
+name_no_class: Bearing 5200 Series 5207 Size 35 mm ID 72 mm OD 26.9 mm Depth
+name_no_color: 35 mm ID 72 mm OD 26.9 mm Depth
+name_no_size: 5207 Size 35 mm ID 72 mm OD 26.9 mm Depth
+name_no_type: 5200 Series 5207 Size 35 mm ID 72 mm OD 26.9 mm Depth
 oomp_key: oomp_hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26.9_mm_depth
 oomp_word: bug cherries lipstick
 oomp_word_emoji: ':bug: :cherries: :lipstick:'

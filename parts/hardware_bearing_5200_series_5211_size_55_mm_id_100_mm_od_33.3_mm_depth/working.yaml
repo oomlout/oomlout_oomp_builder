@@ -59,7 +59,7 @@ description_main_length_3: '55_'
 description_main_length_4: 55_m
 description_main_length_5: 55_mm
 description_main_length_6: 55_mm_
-description_main_name: 55 mm Id 100 mm Od 33.3 mm Depth
+description_main_name: 55 mm ID 100 mm OD 33.3 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '55'
 description_main_no_space_length_3: 55m
@@ -96,11 +96,11 @@ md5_6: 176d9f
 md5_6_alpha: wwpr
 md5_6_alpha_upper: WWPR
 md5_6_upper: 176D9F
-name: Hardware Bearing 5200 Series 5211 Size 55 mm Id 100 mm Od 33.3 mm Depth
-name_no_class: Bearing 5200 Series 5211 Size 55 mm Id 100 mm Od 33.3 mm Depth
-name_no_color: 55 mm Id 100 mm Od 33.3 mm Depth
-name_no_size: 5211 Size 55 mm Id 100 mm Od 33.3 mm Depth
-name_no_type: 5200 Series 5211 Size 55 mm Id 100 mm Od 33.3 mm Depth
+name: Hardware Bearing 5200 Series 5211 Size 55 mm ID 100 mm OD 33.3 mm Depth
+name_no_class: Bearing 5200 Series 5211 Size 55 mm ID 100 mm OD 33.3 mm Depth
+name_no_color: 55 mm ID 100 mm OD 33.3 mm Depth
+name_no_size: 5211 Size 55 mm ID 100 mm OD 33.3 mm Depth
+name_no_type: 5200 Series 5211 Size 55 mm ID 100 mm OD 33.3 mm Depth
 oomp_key: oomp_hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33.3_mm_depth
 oomp_word: thumbsdown shell diamonds
 oomp_word_emoji: ':thumbsdown: :shell: :diamonds:'

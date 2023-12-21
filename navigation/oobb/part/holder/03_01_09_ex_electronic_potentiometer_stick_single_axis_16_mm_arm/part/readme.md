@@ -1,4 +1,4 @@
-# Oobb Part Holder 03 01 09 Ex Electronic Potentiometer Stick Single Axis 16 Mm Arm  
+# Oobb Part Holder 03 01 09 Ex Electronic Potentiometer Stick Single Axis 16 mm Arm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -59,7 +59,7 @@ description_main_length_3: '120'
 description_main_length_4: '120_'
 description_main_length_5: 120_m
 description_main_length_6: 120_mm
-description_main_name: 120 mm Id 180 mm Od 28 mm Depth
+description_main_name: 120 mm ID 180 mm OD 28 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '12'
 description_main_no_space_length_3: '120'
@@ -96,11 +96,11 @@ md5_6: 6e0ec7
 md5_6_alpha: 4aldz
 md5_6_alpha_upper: 4ALDZ
 md5_6_upper: 6E0EC7
-name: Hardware Bearing 6000 Series 6024 Size 120 mm Id 180 mm Od 28 mm Depth
-name_no_class: Bearing 6000 Series 6024 Size 120 mm Id 180 mm Od 28 mm Depth
-name_no_color: 120 mm Id 180 mm Od 28 mm Depth
-name_no_size: 6024 Size 120 mm Id 180 mm Od 28 mm Depth
-name_no_type: 6000 Series 6024 Size 120 mm Id 180 mm Od 28 mm Depth
+name: Hardware Bearing 6000 Series 6024 Size 120 mm ID 180 mm OD 28 mm Depth
+name_no_class: Bearing 6000 Series 6024 Size 120 mm ID 180 mm OD 28 mm Depth
+name_no_color: 120 mm ID 180 mm OD 28 mm Depth
+name_no_size: 6024 Size 120 mm ID 180 mm OD 28 mm Depth
+name_no_type: 6000 Series 6024 Size 120 mm ID 180 mm OD 28 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6024_size_120_mm_id_180_mm_od_28_mm_depth
 oomp_word: new_moon cupid honey_pot
 oomp_word_emoji: ':new_moon: :cupid: :honey_pot:'

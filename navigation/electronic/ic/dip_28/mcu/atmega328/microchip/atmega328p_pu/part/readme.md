@@ -1,4 +1,4 @@
-# Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu  
+# Electronic IC Dip 28 MCU Atmega328 Microchip Atmega328P Pu  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_pu
 
 ### other_codes
-* short_code: id28mcuat328
+* short_code: 
 * oomp_word: rooster cloud blowfish
 * oomp_word_emoji :rooster: :cloud: :blowfish:
 * md5_6_alpha: 3k28t

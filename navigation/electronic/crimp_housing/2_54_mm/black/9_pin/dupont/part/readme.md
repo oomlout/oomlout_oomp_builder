@@ -1,4 +1,4 @@
-# Electronic Crimp Housing 2 54 Mm Black 9 Pin Dupont  
+# Electronic Crimp Housing 2 54 mm Black 9 Pin Dupont  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: chi1b9pd
+* short_code: 
 * oomp_word: bowling three three
 * oomp_word_emoji :bowling: :three: :three:
 * md5_6_alpha: 6099w

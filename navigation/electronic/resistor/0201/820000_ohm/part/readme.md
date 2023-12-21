@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro824
+* short_code: 
 * oomp_word: cupid grapes mouse
 * oomp_word_emoji :cupid: :grapes: :mouse:
 * md5_6_alpha: ks38

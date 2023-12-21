@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro153
+* short_code: 
 * oomp_word: thumbsdown crown ram
 * oomp_word_emoji :thumbsdown: :crown: :ram:
 * md5_6_alpha: x9w6

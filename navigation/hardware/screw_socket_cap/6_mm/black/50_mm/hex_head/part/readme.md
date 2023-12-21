@@ -1,4 +1,4 @@
-# Hardware Screw Socket Cap 6 Mm Black 50 Mm Hex Head  
+# Hardware Screw Socket Cap 6 mm Black 50 mm Hex Head  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

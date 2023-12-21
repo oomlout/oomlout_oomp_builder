@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: pms22311172d5v
+* short_code: 
 * oomp_word: fish bus office
 * oomp_word_emoji :fish: :bus: :office:
 * md5_6_alpha: 39w47

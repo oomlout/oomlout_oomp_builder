@@ -1,4 +1,4 @@
-# Electronic Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W  
+# Electronic LED 5050 RGB Ws2812B Worldsemi Ws2812B B W  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ws2812b_b_w
 
 ### other_codes
-* short_code: l50502812ws2812bbw
+* short_code: 
 * oomp_word: train bank ramen
 * oomp_word_emoji :train: :bank: :ramen:
 * md5_6_alpha: 9ebb2

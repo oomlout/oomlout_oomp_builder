@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6903 Size 17 mm Id 30 mm Od 7 mm Depth  
+# Hardware Bearing 6900 Series 6903 Size 17 mm ID 30 mm OD 7 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

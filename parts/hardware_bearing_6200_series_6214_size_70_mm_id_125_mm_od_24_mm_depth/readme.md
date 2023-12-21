@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6214 Size 70 mm Id 125 mm Od 24 mm Depth  
+# Hardware Bearing 6200 Series 6214 Size 70 mm ID 125 mm OD 24 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

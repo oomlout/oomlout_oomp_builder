@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro751
+* short_code: 
 * oomp_word: tophat bowling question
 * oomp_word_emoji :tophat: :bowling: :question:
 * md5_6_alpha: 6unmb

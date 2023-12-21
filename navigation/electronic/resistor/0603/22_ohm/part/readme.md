@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o220
+* short_code: 
 * oomp_word: bread leopard nine
 * oomp_word_emoji :bread: :leopard: :nine:
 * md5_6_alpha: 7i7zu

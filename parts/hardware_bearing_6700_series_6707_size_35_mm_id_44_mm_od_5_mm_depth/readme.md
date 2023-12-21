@@ -1,4 +1,4 @@
-# Hardware Bearing 6700 Series 6707 Size 35 mm Id 44 mm Od 5 mm Depth  
+# Hardware Bearing 6700 Series 6707 Size 35 mm ID 44 mm OD 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

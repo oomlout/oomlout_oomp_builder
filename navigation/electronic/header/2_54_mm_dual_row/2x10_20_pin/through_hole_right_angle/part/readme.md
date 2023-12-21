@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X10 20 Pin Through Hole Right Angle  
+# Electronic Header 2 54 mm Dual Row 2X10 20 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi12x10pthra
+* short_code: 
 * oomp_word: blowfish lipstick toilet
 * oomp_word_emoji :blowfish: :lipstick: :toilet:
 * md5_6_alpha: 3nkhz

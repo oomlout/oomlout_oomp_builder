@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro473
+* short_code: 
 * oomp_word: trumpet boot angry
 * oomp_word_emoji :trumpet: :boot: :angry:
 * md5_6_alpha: 6i421

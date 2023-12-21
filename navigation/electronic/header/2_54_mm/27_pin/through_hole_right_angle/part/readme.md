@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 27 Pin Through Hole Right Angle  
+# Electronic Header 2 54 mm 27 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi127pthra
+* short_code: 
 * oomp_word: bird book snail
 * oomp_word_emoji :bird: :book: :snail:
 * md5_6_alpha: 2r87l

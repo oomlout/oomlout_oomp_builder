@@ -1,4 +1,4 @@
-# Hardware Bearing 62000 Series 62201 Size 12 mm Id 32 mm Od 14 mm Depth  
+# Hardware Bearing 62000 Series 62201 Size 12 mm ID 32 mm OD 14 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

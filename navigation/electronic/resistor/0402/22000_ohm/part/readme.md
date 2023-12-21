@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o223
+* short_code: 
 * oomp_word: fireworks trident watch
 * oomp_word_emoji :fireworks: :trident: :watch:
 * md5_6_alpha: 4kcch

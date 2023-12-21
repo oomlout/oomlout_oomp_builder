@@ -59,7 +59,7 @@ description_main_length_3: '40_'
 description_main_length_4: 40_m
 description_main_length_5: 40_mm
 description_main_length_6: 40_mm_
-description_main_name: 40 mm Id 80 mm Od 23 mm Depth
+description_main_name: 40 mm ID 80 mm OD 23 mm Depth
 description_main_no_space_length_1: '4'
 description_main_no_space_length_2: '40'
 description_main_no_space_length_3: 40m
@@ -96,11 +96,11 @@ md5_6: 8af5e0
 md5_6_alpha: 5f6xs
 md5_6_alpha_upper: 5F6XS
 md5_6_upper: 8AF5E0
-name: Hardware Bearing 62000 Series 62208 Size 40 mm Id 80 mm Od 23 mm Depth
-name_no_class: Bearing 62000 Series 62208 Size 40 mm Id 80 mm Od 23 mm Depth
-name_no_color: 40 mm Id 80 mm Od 23 mm Depth
-name_no_size: 62208 Size 40 mm Id 80 mm Od 23 mm Depth
-name_no_type: 62000 Series 62208 Size 40 mm Id 80 mm Od 23 mm Depth
+name: Hardware Bearing 62000 Series 62208 Size 40 mm ID 80 mm OD 23 mm Depth
+name_no_class: Bearing 62000 Series 62208 Size 40 mm ID 80 mm OD 23 mm Depth
+name_no_color: 40 mm ID 80 mm OD 23 mm Depth
+name_no_size: 62208 Size 40 mm ID 80 mm OD 23 mm Depth
+name_no_type: 62000 Series 62208 Size 40 mm ID 80 mm OD 23 mm Depth
 oomp_key: oomp_hardware_bearing_62000_series_62208_size_40_mm_id_80_mm_od_23_mm_depth
 oomp_word: envelope four ship
 oomp_word_emoji: ':envelope: :four: :ship:'

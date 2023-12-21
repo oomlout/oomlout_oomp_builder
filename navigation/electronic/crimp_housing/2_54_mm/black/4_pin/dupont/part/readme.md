@@ -1,4 +1,4 @@
-# Electronic Crimp Housing 2 54 Mm Black 4 Pin Dupont  
+# Electronic Crimp Housing 2 54 mm Black 4 Pin Dupont  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: chi1b4pd
+* short_code: 
 * oomp_word: clap hospital nose
 * oomp_word_emoji :clap: :hospital: :nose:
 * md5_6_alpha: 11pgn

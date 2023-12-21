@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o821
+* short_code: 
 * oomp_word: star ramen tongue
 * oomp_word_emoji :star: :ramen: :tongue:
 * md5_6_alpha: ninc

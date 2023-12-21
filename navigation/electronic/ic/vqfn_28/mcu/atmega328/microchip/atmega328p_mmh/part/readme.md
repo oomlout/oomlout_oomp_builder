@@ -1,4 +1,4 @@
-# Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh  
+# Electronic IC Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_mmh
 
 ### other_codes
-* short_code: ivq28mcuat328
+* short_code: 
 * oomp_word: ox angel tiger
 * oomp_word_emoji :ox: :angel: :tiger:
 * md5_6_alpha: 3le7t

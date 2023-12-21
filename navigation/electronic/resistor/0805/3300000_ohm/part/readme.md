@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o335
+* short_code: 
 * oomp_word: ocean parking cyclone
 * oomp_word_emoji :ocean: :parking: :cyclone:
 * md5_6_alpha: 1y7u7

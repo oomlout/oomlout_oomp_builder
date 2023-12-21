@@ -59,7 +59,7 @@ description_main_length_3: 9_m
 description_main_length_4: 9_mm
 description_main_length_5: 9_mm_
 description_main_length_6: 9_mm_i
-description_main_name: 9 mm Id 17 mm Od 5 mm Depth
+description_main_name: 9 mm ID 17 mm OD 5 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: 9m
 description_main_no_space_length_3: 9mm
@@ -96,11 +96,11 @@ md5_6: 8224e2
 md5_6_alpha: 52t42
 md5_6_alpha_upper: 52T42
 md5_6_upper: 8224E2
-name: Hardware Bearing 600 Series 689 Size 9 mm Id 17 mm Od 5 mm Depth
-name_no_class: Bearing 600 Series 689 Size 9 mm Id 17 mm Od 5 mm Depth
-name_no_color: 9 mm Id 17 mm Od 5 mm Depth
-name_no_size: 689 Size 9 mm Id 17 mm Od 5 mm Depth
-name_no_type: 600 Series 689 Size 9 mm Id 17 mm Od 5 mm Depth
+name: Hardware Bearing 600 Series 689 Size 9 mm ID 17 mm OD 5 mm Depth
+name_no_class: Bearing 600 Series 689 Size 9 mm ID 17 mm OD 5 mm Depth
+name_no_color: 9 mm ID 17 mm OD 5 mm Depth
+name_no_size: 689 Size 9 mm ID 17 mm OD 5 mm Depth
+name_no_type: 600 Series 689 Size 9 mm ID 17 mm OD 5 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_689_size_9_mm_id_17_mm_od_5_mm_depth
 oomp_word: radio droplet sailboat
 oomp_word_emoji: ':radio: :droplet: :sailboat:'

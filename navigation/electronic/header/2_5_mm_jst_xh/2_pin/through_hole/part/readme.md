@@ -1,4 +1,4 @@
-# Electronic Header 2 5 Mm Jst Xh 2 Pin Through Hole  
+# Electronic Header 2 5 mm Jst Xh 2 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hjxh2pth
+* short_code: 
 * oomp_word: trophy poop thumbsup
 * oomp_word_emoji :trophy: :poop: :thumbsup:
 * md5_6_alpha: 6a9li

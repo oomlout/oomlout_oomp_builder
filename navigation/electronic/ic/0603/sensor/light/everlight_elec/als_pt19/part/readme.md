@@ -1,4 +1,4 @@
-# Electronic Ic 0603 Sensor Light Everlight Elec Als Pt19  
+# Electronic IC 0603 Sensor Light Everlight Elec Als Pt19  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: als_pt19
 
 ### other_codes
-* short_code: i6snl
+* short_code: 
 * oomp_word: shoe bowling nine
 * oomp_word_emoji :shoe: :bowling: :nine:
 * md5_6_alpha: 6kttm

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o222
+* short_code: 
 * oomp_word: ocean droplet grin
 * oomp_word_emoji :ocean: :droplet: :grin:
 * md5_6_alpha: 1x0xv

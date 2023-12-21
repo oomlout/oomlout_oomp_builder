@@ -59,7 +59,7 @@ description_main_length_3: '130'
 description_main_length_4: '130_'
 description_main_length_5: 130_m
 description_main_length_6: 130_mm
-description_main_name: 130 mm Id 180 mm Od 24 mm Depth
+description_main_name: 130 mm ID 180 mm OD 24 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '13'
 description_main_no_space_length_3: '130'
@@ -96,11 +96,11 @@ md5_6: 6b9ace
 md5_6_alpha: 475ce
 md5_6_alpha_upper: 475CE
 md5_6_upper: 6B9ACE
-name: Hardware Bearing 6900 Series 6926 Size 130 mm Id 180 mm Od 24 mm Depth
-name_no_class: Bearing 6900 Series 6926 Size 130 mm Id 180 mm Od 24 mm Depth
-name_no_color: 130 mm Id 180 mm Od 24 mm Depth
-name_no_size: 6926 Size 130 mm Id 180 mm Od 24 mm Depth
-name_no_type: 6900 Series 6926 Size 130 mm Id 180 mm Od 24 mm Depth
+name: Hardware Bearing 6900 Series 6926 Size 130 mm ID 180 mm OD 24 mm Depth
+name_no_class: Bearing 6900 Series 6926 Size 130 mm ID 180 mm OD 24 mm Depth
+name_no_color: 130 mm ID 180 mm OD 24 mm Depth
+name_no_size: 6926 Size 130 mm ID 180 mm OD 24 mm Depth
+name_no_type: 6900 Series 6926 Size 130 mm ID 180 mm OD 24 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
 oomp_word: chestnut golf peach
 oomp_word_emoji: ':chestnut: :golf: :peach:'

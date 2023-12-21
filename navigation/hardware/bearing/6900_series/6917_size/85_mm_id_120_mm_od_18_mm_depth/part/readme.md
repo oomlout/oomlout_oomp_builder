@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6917 Size 85 Mm Id 120 Mm Od 18 Mm Depth  
+# Hardware Bearing 6900 Series 6917 Size 85 mm Id 120 mm Od 18 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

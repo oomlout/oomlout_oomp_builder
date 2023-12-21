@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5313 Size 65 Mm Id 140 Mm Od 58.73 Mm Depth  
+# Hardware Bearing 5300 Series 5313 Size 65 mm Id 140 mm Od 58.73 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

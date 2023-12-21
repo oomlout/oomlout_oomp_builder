@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth  
+# Hardware Bearing 600 Series 624 Size 4 mm Id 13 mm Od 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

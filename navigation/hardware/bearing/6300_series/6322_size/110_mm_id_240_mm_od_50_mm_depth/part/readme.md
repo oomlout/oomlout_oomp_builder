@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6322 Size 110 Mm Id 240 Mm Od 50 Mm Depth  
+# Hardware Bearing 6300 Series 6322 Size 110 mm Id 240 mm Od 50 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

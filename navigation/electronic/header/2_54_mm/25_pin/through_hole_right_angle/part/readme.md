@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 25 Pin Through Hole Right Angle  
+# Electronic Header 2 54 mm 25 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi125pthra
+* short_code: 
 * oomp_word: hamburger monkey horse
 * oomp_word_emoji :hamburger: :monkey: :horse:
 * md5_6_alpha: 76ssf

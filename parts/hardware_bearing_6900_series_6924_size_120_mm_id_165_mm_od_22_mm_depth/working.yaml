@@ -59,7 +59,7 @@ description_main_length_3: '120'
 description_main_length_4: '120_'
 description_main_length_5: 120_m
 description_main_length_6: 120_mm
-description_main_name: 120 mm Id 165 mm Od 22 mm Depth
+description_main_name: 120 mm ID 165 mm OD 22 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '12'
 description_main_no_space_length_3: '120'
@@ -96,11 +96,11 @@ md5_6: a883c1
 md5_6_alpha: 6kpfl
 md5_6_alpha_upper: 6KPFL
 md5_6_upper: A883C1
-name: Hardware Bearing 6900 Series 6924 Size 120 mm Id 165 mm Od 22 mm Depth
-name_no_class: Bearing 6900 Series 6924 Size 120 mm Id 165 mm Od 22 mm Depth
-name_no_color: 120 mm Id 165 mm Od 22 mm Depth
-name_no_size: 6924 Size 120 mm Id 165 mm Od 22 mm Depth
-name_no_type: 6900 Series 6924 Size 120 mm Id 165 mm Od 22 mm Depth
+name: Hardware Bearing 6900 Series 6924 Size 120 mm ID 165 mm OD 22 mm Depth
+name_no_class: Bearing 6900 Series 6924 Size 120 mm ID 165 mm OD 22 mm Depth
+name_no_color: 120 mm ID 165 mm OD 22 mm Depth
+name_no_size: 6924 Size 120 mm ID 165 mm OD 22 mm Depth
+name_no_type: 6900 Series 6924 Size 120 mm ID 165 mm OD 22 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6924_size_120_mm_id_165_mm_od_22_mm_depth
 oomp_word: shoe lock doughnut
 oomp_word_emoji: ':shoe: :lock: :doughnut:'

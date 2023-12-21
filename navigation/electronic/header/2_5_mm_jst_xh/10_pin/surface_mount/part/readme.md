@@ -1,4 +1,4 @@
-# Electronic Header 2 5 Mm Jst Xh 10 Pin Surface Mount  
+# Electronic Header 2 5 mm Jst Xh 10 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hjxh10psm
+* short_code: 
 * oomp_word: blowfish racehorse bouquet
 * oomp_word_emoji :blowfish: :racehorse: :bouquet:
 * md5_6_alpha: 3mzj5

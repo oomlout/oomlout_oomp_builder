@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm Dual Row 2X3 6 Pin Surface Mount  
+# Electronic Socket 2 54 mm Dual Row 2X3 6 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci12x3psm
+* short_code: 
 * oomp_word: hourglass poop birthday
 * oomp_word_emoji :hourglass: :poop: :birthday:
 * md5_6_alpha: 4zwzm

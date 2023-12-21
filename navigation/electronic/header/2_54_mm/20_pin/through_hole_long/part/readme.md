@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 20 Pin Through Hole Long  
+# Electronic Header 2 54 mm 20 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi120pthl
+* short_code: 
 * oomp_word: handbag clipboard palm_tree
 * oomp_word_emoji :handbag: :clipboard: :palm_tree:
 * md5_6_alpha: 6yt7u

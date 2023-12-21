@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 5 Pin Through Hole  
+# Electronic Header 2 54 mm 5 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi15pth
+* short_code: 
 * oomp_word: fountain bird wrench
 * oomp_word_emoji :fountain: :bird: :wrench:
 * md5_6_alpha: 8pmko

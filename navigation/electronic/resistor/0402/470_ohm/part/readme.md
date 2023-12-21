@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o471
+* short_code: 
 * oomp_word: mouse water_buffalo peach
 * oomp_word_emoji :mouse: :water_buffalo: :peach:
 * md5_6_alpha: 21j2m

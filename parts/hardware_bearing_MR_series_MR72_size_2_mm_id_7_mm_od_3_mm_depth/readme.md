@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr72 Size 2 mm Id 7 mm Od 3 mm Depth  
+# Hardware Bearing Mr Series Mr72 Size 2 mm ID 7 mm OD 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

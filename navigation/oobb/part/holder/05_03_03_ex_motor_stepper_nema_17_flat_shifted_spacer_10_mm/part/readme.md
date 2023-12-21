@@ -1,4 +1,4 @@
-# Oobb Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm  
+# Oobb Part Holder 05 03 03 Ex Motor Stepper Nema 17 Flat Shifted Spacer 10 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

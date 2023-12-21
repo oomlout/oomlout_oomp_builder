@@ -1,4 +1,4 @@
-# Hardware Nut 6 Mm Locking  
+# Hardware Nut 6 mm Locking  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

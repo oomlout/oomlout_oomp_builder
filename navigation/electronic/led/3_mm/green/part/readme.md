@@ -1,4 +1,4 @@
-# Electronic Led 3 Mm Green  
+# Electronic LED 3 mm Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l3g
+* short_code: 
 * oomp_word: chestnut eyes feet
 * oomp_word_emoji :chestnut: :eyes: :feet:
 * md5_6_alpha: 46iap

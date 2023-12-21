@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 678 Size 8 mm Id 12 mm Od 3.5 mm Depth  
+# Hardware Bearing 600 Series 678 Size 8 mm ID 12 mm OD 3.5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

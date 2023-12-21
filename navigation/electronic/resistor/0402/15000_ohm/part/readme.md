@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o153
+* short_code: 
 * oomp_word: eyeglasses toilet dizzy
 * oomp_word_emoji :eyeglasses: :toilet: :dizzy:
 * md5_6_alpha: 706c1

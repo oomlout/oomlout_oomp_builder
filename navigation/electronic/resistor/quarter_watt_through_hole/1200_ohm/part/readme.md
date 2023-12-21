@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro122
+* short_code: 
 * oomp_word: apple shell bear
 * oomp_word_emoji :apple: :shell: :bear:
 * md5_6_alpha: 7tj5n

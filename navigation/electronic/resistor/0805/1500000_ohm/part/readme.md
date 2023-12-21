@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o155
+* short_code: 
 * oomp_word: ox blowfish scream
 * oomp_word_emoji :ox: :blowfish: :scream:
 * md5_6_alpha: 3lqmg

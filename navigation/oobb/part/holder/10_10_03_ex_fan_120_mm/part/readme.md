@@ -1,4 +1,4 @@
-# Oobb Part Holder 10 10 03 Ex Fan 120 Mm  
+# Oobb Part Holder 10 10 03 Ex Fan 120 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

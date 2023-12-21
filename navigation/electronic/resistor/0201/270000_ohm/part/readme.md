@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro274
+* short_code: 
 * oomp_word: ghost rooster scream
 * oomp_word_emoji :ghost: :rooster: :scream:
 * md5_6_alpha: 4kufc

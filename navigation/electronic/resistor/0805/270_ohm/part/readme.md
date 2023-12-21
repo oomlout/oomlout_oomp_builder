@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o271
+* short_code: 
 * oomp_word: four birthday hamburger
 * oomp_word_emoji :four: :birthday: :hamburger:
 * md5_6_alpha: 9l7lk

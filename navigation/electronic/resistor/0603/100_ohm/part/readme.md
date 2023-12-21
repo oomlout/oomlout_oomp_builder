@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o101
+* short_code: 
 * oomp_word: ram sleepy golf
 * oomp_word_emoji :ram: :sleepy: :golf:
 * md5_6_alpha: 3cuxm

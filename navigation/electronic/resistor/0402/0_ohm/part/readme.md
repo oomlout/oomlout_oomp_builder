@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o0
+* short_code: 
 * oomp_word: five muscle basketball
 * oomp_word_emoji :five: :muscle: :basketball:
 * md5_6_alpha: 9lp5i

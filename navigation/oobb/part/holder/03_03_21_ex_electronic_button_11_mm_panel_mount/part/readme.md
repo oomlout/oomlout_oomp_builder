@@ -1,4 +1,4 @@
-# Oobb Part Holder 03 03 21 Ex Electronic Button 11 Mm Panel Mount  
+# Oobb Part Holder 03 03 21 Ex Electronic Button 11 mm Panel Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

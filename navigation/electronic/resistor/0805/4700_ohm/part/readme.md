@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o472
+* short_code: 
 * oomp_word: octopus sleeping parking
 * oomp_word_emoji :octopus: :sleeping: :parking:
 * md5_6_alpha: 377y5

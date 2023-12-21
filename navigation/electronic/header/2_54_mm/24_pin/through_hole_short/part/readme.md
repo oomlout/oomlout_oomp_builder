@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 24 Pin Through Hole Short  
+# Electronic Header 2 54 mm 24 Pin Through Hole Short  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi124pths
+* short_code: 
 * oomp_word: lock pig gift
 * oomp_word_emoji :lock: :pig: :gift:
 * md5_6_alpha: 54cc7

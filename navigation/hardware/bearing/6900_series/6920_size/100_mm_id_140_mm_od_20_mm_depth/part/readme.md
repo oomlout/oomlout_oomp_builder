@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6920 Size 100 Mm Id 140 Mm Od 20 Mm Depth  
+# Hardware Bearing 6900 Series 6920 Size 100 mm Id 140 mm Od 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

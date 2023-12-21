@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-A common breakout format for a stepper motor driver
+
 
 ### id
 * oomp_id: electronic_breakout_board_step_stick_motor_driver_stepper_motor
@@ -20,7 +20,7 @@ A common breakout format for a stepper motor driver
   * part_number: 
 
 ### other_codes
-* short_code: bbssmdsm
+* short_code: 
 * oomp_word: blossom microscope hotel
 * oomp_word_emoji :blossom: :microscope: :hotel:
 * md5_6_alpha: 48iqi

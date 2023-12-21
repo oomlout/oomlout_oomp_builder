@@ -1,4 +1,4 @@
-# Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340G  
+# Electronic IC Sop 16 Converter USB To Serial Converter Wch Ch340G  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340g
 
 ### other_codes
-* short_code: isp16ch340g
+* short_code: 
 * oomp_word: sparkles bear frog
 * oomp_word_emoji :sparkles: :bear: :frog:
 * md5_6_alpha: le7s

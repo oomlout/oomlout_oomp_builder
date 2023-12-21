@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F683 Size 3 Mm Id 7 Mm Od 3 Mm Depth  
+# Hardware Bearing F600 Series F683 Size 3 mm Id 7 mm Od 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

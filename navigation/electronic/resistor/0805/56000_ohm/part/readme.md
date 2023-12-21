@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o563
+* short_code: 
 * oomp_word: two scroll fish
 * oomp_word_emoji :two: :scroll: :fish:
 * md5_6_alpha: 9i3wz

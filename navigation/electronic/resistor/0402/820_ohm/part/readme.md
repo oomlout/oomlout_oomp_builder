@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o821
+* short_code: 
 * oomp_word: zap factory pill
 * oomp_word_emoji :zap: :factory: :pill:
 * md5_6_alpha: 1ttos

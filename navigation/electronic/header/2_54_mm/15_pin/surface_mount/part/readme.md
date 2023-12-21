@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 15 Pin Surface Mount  
+# Electronic Header 2 54 mm 15 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi115psm
+* short_code: 
 * oomp_word: sunny golf rowboat
 * oomp_word_emoji :sunny: :golf: :rowboat:
 * md5_6_alpha: 1mfvn

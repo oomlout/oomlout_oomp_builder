@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o102
+* short_code: 
 * oomp_word: moon tractor bread
 * oomp_word_emoji :moon: :tractor: :bread:
 * md5_6_alpha: 4d7eo

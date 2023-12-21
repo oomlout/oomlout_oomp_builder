@@ -59,7 +59,7 @@ description_main_length_3: '70_'
 description_main_length_4: 70_m
 description_main_length_5: 70_mm
 description_main_length_6: 70_mm_
-description_main_name: 70 mm Id 150 mm Od 63.5 mm Depth
+description_main_name: 70 mm ID 150 mm OD 63.5 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '70'
 description_main_no_space_length_3: 70m
@@ -96,11 +96,11 @@ md5_6: '366388'
 md5_6_alpha: 24ebs
 md5_6_alpha_upper: 24EBS
 md5_6_upper: '366388'
-name: Hardware Bearing 5300 Series 5314 Size 70 mm Id 150 mm Od 63.5 mm Depth
-name_no_class: Bearing 5300 Series 5314 Size 70 mm Id 150 mm Od 63.5 mm Depth
-name_no_color: 70 mm Id 150 mm Od 63.5 mm Depth
-name_no_size: 5314 Size 70 mm Id 150 mm Od 63.5 mm Depth
-name_no_type: 5300 Series 5314 Size 70 mm Id 150 mm Od 63.5 mm Depth
+name: Hardware Bearing 5300 Series 5314 Size 70 mm ID 150 mm OD 63.5 mm Depth
+name_no_class: Bearing 5300 Series 5314 Size 70 mm ID 150 mm OD 63.5 mm Depth
+name_no_color: 70 mm ID 150 mm OD 63.5 mm Depth
+name_no_size: 5314 Size 70 mm ID 150 mm OD 63.5 mm Depth
+name_no_type: 5300 Series 5314 Size 70 mm ID 150 mm OD 63.5 mm Depth
 oomp_key: oomp_hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63.5_mm_depth
 oomp_word: rabbit rose wrench
 oomp_word_emoji: ':rabbit: :rose: :wrench:'

@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6018 Size 90 mm Id 140 mm Od 24 mm Depth  
+# Hardware Bearing 6000 Series 6018 Size 90 mm ID 140 mm OD 24 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

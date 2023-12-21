@@ -1,4 +1,4 @@
-# Electronic Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N  
+# Electronic IC Sop 8 Converter USB To Serial Converter Wch Ch340N  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340n
 
 ### other_codes
-* short_code: isp8
+* short_code: 
 * oomp_word: dress microscope foggy
 * oomp_word_emoji :dress: :microscope: :foggy:
 * md5_6_alpha: 6rtio

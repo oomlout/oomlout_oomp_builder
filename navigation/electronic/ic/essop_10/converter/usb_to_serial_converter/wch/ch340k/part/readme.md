@@ -1,4 +1,4 @@
-# Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K  
+# Electronic IC Essop 10 Converter USB To Serial Converter Wch Ch340K  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340k
 
 ### other_codes
-* short_code: i
+* short_code: 
 * oomp_word: birthday book dolphin
 * oomp_word_emoji :birthday: :book: :dolphin:
 * md5_6_alpha: 7lemt

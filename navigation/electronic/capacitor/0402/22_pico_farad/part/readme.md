@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: c4pf22
+* short_code: 
 * oomp_word: hourglass scream eyes
 * oomp_word_emoji :hourglass: :scream: :eyes:
 * md5_6_alpha: 4zuau

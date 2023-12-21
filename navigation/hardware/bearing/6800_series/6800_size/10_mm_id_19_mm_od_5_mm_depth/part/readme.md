@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6800 Size 10 Mm Id 19 Mm Od 5 Mm Depth  
+# Hardware Bearing 6800 Series 6800 Size 10 mm Id 19 mm Od 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

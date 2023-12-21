@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro275
+* short_code: 
 * oomp_word: fax bank scream
 * oomp_word_emoji :fax: :bank: :scream:
 * md5_6_alpha: 4y6fc

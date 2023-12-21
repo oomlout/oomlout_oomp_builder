@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro470
+* short_code: 
 * oomp_word: basketball violin bike
 * oomp_word_emoji :basketball: :violin: :bike:
 * md5_6_alpha: 5vld5

@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 8 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 mm 8 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi18psmra
+* short_code: 
 * oomp_word: turtle ant egg
 * oomp_word_emoji :turtle: :ant: :egg:
 * md5_6_alpha: 2z6wv

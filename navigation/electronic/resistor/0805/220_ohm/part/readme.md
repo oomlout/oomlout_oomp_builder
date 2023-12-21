@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o221
+* short_code: 
 * oomp_word: rooster thumbsup umbrella
 * oomp_word_emoji :rooster: :thumbsup: :umbrella:
 * md5_6_alpha: 3jy22

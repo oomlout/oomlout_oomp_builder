@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6222 Size 110 Mm Id 200 Mm Od 38 Mm Depth  
+# Hardware Bearing 6200 Series 6222 Size 110 mm Id 200 mm Od 38 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -1,4 +1,4 @@
-# Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321  
+# Electronic IC Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: stk8321
 
 ### other_codes
-* short_code: isnastk8321
+* short_code: 
 * oomp_word: fish headphones sleeping
 * oomp_word_emoji :fish: :headphones: :sleeping:
 * md5_6_alpha: 39hqe

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o222
+* short_code: 
 * oomp_word: rainbow anchor rooster
 * oomp_word_emoji :rainbow: :anchor: :rooster:
 * md5_6_alpha: 8p36j

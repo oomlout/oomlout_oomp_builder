@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o101
+* short_code: 
 * oomp_word: snake lollipop chestnut
 * oomp_word_emoji :snake: :lollipop: :chestnut:
 * md5_6_alpha: 2q0dn

@@ -1,4 +1,4 @@
-# Electronic Header 1 Mm Jst Sh 3 Pin Surface Mount Right Angle  
+# Electronic Header 1 mm Jst Sh 3 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hjsh3psmra
+* short_code: 
 * oomp_word: seven maple_leaf sparkles
 * oomp_word_emoji :seven: :maple_leaf: :sparkles:
 * md5_6_alpha: 9owsv

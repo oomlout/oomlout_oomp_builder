@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F698 Size 8 mm Id 19 mm Od 6 mm Depth  
+# Hardware Bearing F600 Series F698 Size 8 mm ID 19 mm OD 6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

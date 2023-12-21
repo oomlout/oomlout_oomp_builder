@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o821
+* short_code: 
 * oomp_word: gift ticket princess
 * oomp_word_emoji :gift: :ticket: :princess:
 * md5_6_alpha: 4oh7j

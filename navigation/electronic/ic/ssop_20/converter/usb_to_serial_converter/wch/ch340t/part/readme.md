@@ -1,4 +1,4 @@
-# Electronic Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T  
+# Electronic IC Ssop 20 Converter USB To Serial Converter Wch Ch340T  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340t
 
 ### other_codes
-* short_code: ich340t
+* short_code: 
 * oomp_word: ship dolls kiss
 * oomp_word_emoji :ship: :dolls: :kiss:
 * md5_6_alpha: 8r9r7

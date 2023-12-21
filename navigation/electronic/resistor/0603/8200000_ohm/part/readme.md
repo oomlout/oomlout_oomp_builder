@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o825
+* short_code: 
 * oomp_word: bell cookie five
 * oomp_word_emoji :bell: :cookie: :five:
 * md5_6_alpha: 4pn1y

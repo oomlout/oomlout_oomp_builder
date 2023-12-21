@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5303 Size 17 mm Id 47 mm Od 22.22 mm Depth  
+# Hardware Bearing 5300 Series 5303 Size 17 mm ID 47 mm OD 22.22 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

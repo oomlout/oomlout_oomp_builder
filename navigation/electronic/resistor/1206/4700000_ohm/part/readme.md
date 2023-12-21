@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o475
+* short_code: 
 * oomp_word: hospital eight turtle
 * oomp_word_emoji :hospital: :eight: :turtle:
 * md5_6_alpha: 8grws

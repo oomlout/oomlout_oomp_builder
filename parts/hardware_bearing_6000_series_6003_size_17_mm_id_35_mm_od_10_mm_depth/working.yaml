@@ -59,7 +59,7 @@ description_main_length_3: '17_'
 description_main_length_4: 17_m
 description_main_length_5: 17_mm
 description_main_length_6: 17_mm_
-description_main_name: 17 mm Id 35 mm Od 10 mm Depth
+description_main_name: 17 mm ID 35 mm OD 10 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '17'
 description_main_no_space_length_3: 17m
@@ -96,11 +96,11 @@ md5_6: b1aaa9
 md5_6_alpha: 6xk89
 md5_6_alpha_upper: 6XK89
 md5_6_upper: B1AAA9
-name: Hardware Bearing 6000 Series 6003 Size 17 mm Id 35 mm Od 10 mm Depth
-name_no_class: Bearing 6000 Series 6003 Size 17 mm Id 35 mm Od 10 mm Depth
-name_no_color: 17 mm Id 35 mm Od 10 mm Depth
-name_no_size: 6003 Size 17 mm Id 35 mm Od 10 mm Depth
-name_no_type: 6000 Series 6003 Size 17 mm Id 35 mm Od 10 mm Depth
+name: Hardware Bearing 6000 Series 6003 Size 17 mm ID 35 mm OD 10 mm Depth
+name_no_class: Bearing 6000 Series 6003 Size 17 mm ID 35 mm OD 10 mm Depth
+name_no_color: 17 mm ID 35 mm OD 10 mm Depth
+name_no_size: 6003 Size 17 mm ID 35 mm OD 10 mm Depth
+name_no_type: 6000 Series 6003 Size 17 mm ID 35 mm OD 10 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6003_size_17_mm_id_35_mm_od_10_mm_depth
 oomp_word: briefcase lipstick sandal
 oomp_word_emoji: ':briefcase: :lipstick: :sandal:'

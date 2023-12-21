@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: nt2th
+* short_code: 
 * oomp_word: apple chestnut fountain
 * oomp_word_emoji :apple: :chestnut: :fountain:
 * md5_6_alpha: 7tivz

@@ -1,4 +1,4 @@
-# Electronic Led 0805 Red  
+# Electronic LED 0805 Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l8r
+* short_code: 
 * oomp_word: ok baseball horse
 * oomp_word_emoji :ok: :baseball: :horse:
 * md5_6_alpha: 9tef3

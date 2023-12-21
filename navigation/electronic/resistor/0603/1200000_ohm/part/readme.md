@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o125
+* short_code: 
 * oomp_word: watermelon grapes boat
 * oomp_word_emoji :watermelon: :grapes: :boat:
 * md5_6_alpha: 7zo4h

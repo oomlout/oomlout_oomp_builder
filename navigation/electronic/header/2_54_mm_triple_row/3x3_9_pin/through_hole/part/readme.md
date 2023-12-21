@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Triple Row 3X3 9 Pin Through Hole  
+# Electronic Header 2 54 mm Triple Row 3X3 9 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hth
+* short_code: 
 * oomp_word: scroll dolls fax
 * oomp_word_emoji :scroll: :dolls: :fax:
 * md5_6_alpha: 5ioou

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o150
+* short_code: 
 * oomp_word: octopus pizza paperclip
 * oomp_word_emoji :octopus: :pizza: :paperclip:
 * md5_6_alpha: 386tu

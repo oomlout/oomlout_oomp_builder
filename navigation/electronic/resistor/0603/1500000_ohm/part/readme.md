@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o155
+* short_code: 
 * oomp_word: eyeglasses bouquet blossom
 * oomp_word_emoji :eyeglasses: :bouquet: :blossom:
 * md5_6_alpha: 6zywc

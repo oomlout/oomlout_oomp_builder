@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5300 Size 10 Mm Id 35 Mm Od 19.05 Mm Depth  
+# Hardware Bearing 5300 Series 5300 Size 10 mm Id 35 mm Od 19.05 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

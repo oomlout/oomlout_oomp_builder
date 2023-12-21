@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o104
+* short_code: 
 * oomp_word: maple_leaf airplane bath
 * oomp_word_emoji :maple_leaf: :airplane: :bath:
 * md5_6_alpha: 3z4w6

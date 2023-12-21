@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro105
+* short_code: 
 * oomp_word: rice smile sunflower
 * oomp_word_emoji :rice: :smile: :sunflower:
 * md5_6_alpha: 7dhlw

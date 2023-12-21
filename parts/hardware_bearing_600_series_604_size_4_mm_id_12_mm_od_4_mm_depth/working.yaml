@@ -59,7 +59,7 @@ description_main_length_3: 4_m
 description_main_length_4: 4_mm
 description_main_length_5: 4_mm_
 description_main_length_6: 4_mm_i
-description_main_name: 4 mm Id 12 mm Od 4 mm Depth
+description_main_name: 4 mm ID 12 mm OD 4 mm Depth
 description_main_no_space_length_1: '4'
 description_main_no_space_length_2: 4m
 description_main_no_space_length_3: 4mm
@@ -96,11 +96,11 @@ md5_6: 9520e9
 md5_6_alpha: 5th49
 md5_6_alpha_upper: 5TH49
 md5_6_upper: 9520E9
-name: Hardware Bearing 600 Series 604 Size 4 mm Id 12 mm Od 4 mm Depth
-name_no_class: Bearing 600 Series 604 Size 4 mm Id 12 mm Od 4 mm Depth
-name_no_color: 4 mm Id 12 mm Od 4 mm Depth
-name_no_size: 604 Size 4 mm Id 12 mm Od 4 mm Depth
-name_no_type: 600 Series 604 Size 4 mm Id 12 mm Od 4 mm Depth
+name: Hardware Bearing 600 Series 604 Size 4 mm ID 12 mm OD 4 mm Depth
+name_no_class: Bearing 600 Series 604 Size 4 mm ID 12 mm OD 4 mm Depth
+name_no_color: 4 mm ID 12 mm OD 4 mm Depth
+name_no_size: 604 Size 4 mm ID 12 mm OD 4 mm Depth
+name_no_type: 600 Series 604 Size 4 mm ID 12 mm OD 4 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_604_size_4_mm_id_12_mm_od_4_mm_depth
 oomp_word: telescope skull bike
 oomp_word_emoji: ':telescope: :skull: :bike:'

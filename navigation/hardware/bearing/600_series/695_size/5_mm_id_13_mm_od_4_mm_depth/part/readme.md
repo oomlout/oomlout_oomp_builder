@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 695 Size 5 Mm Id 13 Mm Od 4 Mm Depth  
+# Hardware Bearing 600 Series 695 Size 5 mm Id 13 mm Od 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

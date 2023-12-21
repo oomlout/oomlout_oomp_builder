@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o475
+* short_code: 
 * oomp_word: smile koala ok
 * oomp_word_emoji :smile: :koala: :ok:
 * md5_6_alpha: 1q7v

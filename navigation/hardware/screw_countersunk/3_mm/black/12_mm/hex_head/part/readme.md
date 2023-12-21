@@ -1,4 +1,4 @@
-# Hardware Screw Countersunk 3 Mm Black 12 Mm Hex Head  
+# Hardware Screw Countersunk 3 mm Black 12 mm Hex Head  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

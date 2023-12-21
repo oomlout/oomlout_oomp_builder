@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 11 Pin Through Hole Long  
+# Electronic Socket 2 54 mm 11 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci111pthl
+* short_code: 
 * oomp_word: lips whale sunglasses
 * oomp_word_emoji :lips: :whale: :sunglasses:
 * md5_6_alpha: 1c7wr

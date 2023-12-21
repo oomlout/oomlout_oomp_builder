@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o124
+* short_code: 
 * oomp_word: jeans wink maple_leaf
 * oomp_word_emoji :jeans: :wink: :maple_leaf:
 * md5_6_alpha: 6sfol

@@ -59,7 +59,7 @@ description_main_length_3: '1_2'
 description_main_length_4: '1_2_'
 description_main_length_5: 1_2_m
 description_main_length_6: 1_2_mm
-description_main_name: 1 2 mm Id 4 mm Od 2.5 mm Depth
+description_main_name: 1 2 mm ID 4 mm OD 2.5 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '12'
 description_main_no_space_length_3: 12m
@@ -96,11 +96,11 @@ md5_6: 5d9588
 md5_6_alpha: 3ngco
 md5_6_alpha_upper: 3NGCO
 md5_6_upper: 5D9588
-name: Hardware Bearing Mr Series Mr41 Size 1 2 mm Id 4 mm Od 2.5 mm Depth
-name_no_class: Bearing Mr Series Mr41 Size 1 2 mm Id 4 mm Od 2.5 mm Depth
-name_no_color: 1 2 mm Id 4 mm Od 2.5 mm Depth
-name_no_size: Mr41 Size 1 2 mm Id 4 mm Od 2.5 mm Depth
-name_no_type: Mr Series Mr41 Size 1 2 mm Id 4 mm Od 2.5 mm Depth
+name: Hardware Bearing Mr Series Mr41 Size 1 2 mm ID 4 mm OD 2.5 mm Depth
+name_no_class: Bearing Mr Series Mr41 Size 1 2 mm ID 4 mm OD 2.5 mm Depth
+name_no_color: 1 2 mm ID 4 mm OD 2.5 mm Depth
+name_no_size: Mr41 Size 1 2 mm ID 4 mm OD 2.5 mm Depth
+name_no_type: Mr Series Mr41 Size 1 2 mm ID 4 mm OD 2.5 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR41_size_1_2_mm_id_4_mm_od_2.5_mm_depth
 oomp_word: blowfish telescope wrench
 oomp_word_emoji: ':blowfish: :telescope: :wrench:'

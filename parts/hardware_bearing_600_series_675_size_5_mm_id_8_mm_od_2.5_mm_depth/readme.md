@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 675 Size 5 mm Id 8 mm Od 2.5 mm Depth  
+# Hardware Bearing 600 Series 675 Size 5 mm ID 8 mm OD 2.5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

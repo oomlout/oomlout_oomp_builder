@@ -1,4 +1,4 @@
-# Hardware Nut 3 Mm Flanged  
+# Hardware Nut 3 mm Flanged  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o104
+* short_code: 
 * oomp_word: rice dolphin bread
 * oomp_word_emoji :rice: :dolphin: :bread:
 * md5_6_alpha: 7dy9s

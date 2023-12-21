@@ -1,4 +1,4 @@
-# Electronic Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn  
+# Electronic IC Qfn 28 MCU Atmega328 Microchip Atmega328P Mn  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_mn
 
 ### other_codes
-* short_code: iq28mcuat328
+* short_code: 
 * oomp_word: honeybee pig car
 * oomp_word_emoji :honeybee: :pig: :car:
 * md5_6_alpha: 31wbv

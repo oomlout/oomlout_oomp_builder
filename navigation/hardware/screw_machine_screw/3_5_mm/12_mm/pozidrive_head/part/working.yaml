@@ -101,8 +101,8 @@ name_no_class: Screw Machine Screw 3 5 mm 12 mm Pozidrive Head
 name_no_color: 12mmpozidrivehead
 name_no_size: 12 mm Pozidrive Head
 name_no_type: 3 5 mm 12 mm Pozidrive Head
-oomlout_short_code: ms3_5m12pz
-oomlout_short_code_upper: MS3_5M12PZ
+oomlout_short_code: ms3d5m12pz
+oomlout_short_code_upper: MS3D5M12PZ
 oomp_key: oomp_hardware_screw_machine_screw_3_5_mm_12_mm_pozidrive_head
 oomp_word: alien kissing penguin
 oomp_word_emoji: ':alien: :kissing: :penguin:'

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o123
+* short_code: 
 * oomp_word: snowman frog fish
 * oomp_word_emoji :snowman: :frog: :fish:
 * md5_6_alpha: 1rioj

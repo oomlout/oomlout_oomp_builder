@@ -59,7 +59,7 @@ description_main_length_3: 8_m
 description_main_length_4: 8_mm
 description_main_length_5: 8_mm_
 description_main_length_6: 8_mm_i
-description_main_name: 8 mm Id 24 mm Od 8 mm Depth
+description_main_name: 8 mm ID 24 mm OD 8 mm Depth
 description_main_no_space_length_1: '8'
 description_main_no_space_length_2: 8m
 description_main_no_space_length_3: 8mm
@@ -96,11 +96,11 @@ md5_6: 5492bc
 md5_6_alpha: 3asos
 md5_6_alpha_upper: 3ASOS
 md5_6_upper: 5492BC
-name: Hardware Bearing 600 Series 628 Size 8 mm Id 24 mm Od 8 mm Depth
-name_no_class: Bearing 600 Series 628 Size 8 mm Id 24 mm Od 8 mm Depth
-name_no_color: 8 mm Id 24 mm Od 8 mm Depth
-name_no_size: 628 Size 8 mm Id 24 mm Od 8 mm Depth
-name_no_type: 600 Series 628 Size 8 mm Id 24 mm Od 8 mm Depth
+name: Hardware Bearing 600 Series 628 Size 8 mm ID 24 mm OD 8 mm Depth
+name_no_class: Bearing 600 Series 628 Size 8 mm ID 24 mm OD 8 mm Depth
+name_no_color: 8 mm ID 24 mm OD 8 mm Depth
+name_no_size: 628 Size 8 mm ID 24 mm OD 8 mm Depth
+name_no_type: 600 Series 628 Size 8 mm ID 24 mm OD 8 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_628_size_8_mm_id_24_mm_od_8_mm_depth
 oomp_word: whale paperclip sushi
 oomp_word_emoji: ':whale: :paperclip: :sushi:'

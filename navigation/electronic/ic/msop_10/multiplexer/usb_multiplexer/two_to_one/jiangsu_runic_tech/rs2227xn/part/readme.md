@@ -1,4 +1,4 @@
-# Electronic Ic Msop 10 Multiplexer Usb Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn  
+# Electronic IC Msop 10 Multiplexer USB Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: rs2227xn
 
 ### other_codes
-* short_code: imsp10mpump21rs2227
+* short_code: 
 * oomp_word: koala star blush
 * oomp_word_emoji :koala: :star: :blush:
 * md5_6_alpha: 29k3m

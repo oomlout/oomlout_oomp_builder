@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o101
+* short_code: 
 * oomp_word: snail poop car
 * oomp_word_emoji :snail: :poop: :car:
 * md5_6_alpha: 35wbv

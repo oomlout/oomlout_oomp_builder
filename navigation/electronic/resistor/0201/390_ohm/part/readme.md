@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro391
+* short_code: 
 * oomp_word: three feet pineapple
 * oomp_word_emoji :three: :feet: :pineapple:
 * md5_6_alpha: 9ix8y

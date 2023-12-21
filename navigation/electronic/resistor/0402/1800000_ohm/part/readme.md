@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o185
+* short_code: 
 * oomp_word: house dolls dog
 * oomp_word_emoji :house: :dolls: :dog:
 * md5_6_alpha: 8btir

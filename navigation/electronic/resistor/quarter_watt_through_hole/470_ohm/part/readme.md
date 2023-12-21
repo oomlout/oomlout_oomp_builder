@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro471
+* short_code: 
 * oomp_word: penguin shirt peach
 * oomp_word_emoji :penguin: :shirt: :peach:
 * md5_6_alpha: 2yaq6

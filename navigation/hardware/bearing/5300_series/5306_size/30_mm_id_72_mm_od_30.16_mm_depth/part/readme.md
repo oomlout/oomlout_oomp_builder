@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5306 Size 30 Mm Id 72 Mm Od 30.16 Mm Depth  
+# Hardware Bearing 5300 Series 5306 Size 30 mm Id 72 mm Od 30.16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

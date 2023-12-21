@@ -1,4 +1,4 @@
-# Electronic Led 0402 Yellow  
+# Electronic LED 0402 Yellow  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l4y
+* short_code: 
 * oomp_word: dizzy ox spades
 * oomp_word_emoji :dizzy: :ox: :spades:
 * md5_6_alpha: ody4

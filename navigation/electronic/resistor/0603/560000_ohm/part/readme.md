@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o564
+* short_code: 
 * oomp_word: computer scissors hatched_chick
 * oomp_word_emoji :computer: :scissors: :hatched_chick:
 * md5_6_alpha: 4tkco

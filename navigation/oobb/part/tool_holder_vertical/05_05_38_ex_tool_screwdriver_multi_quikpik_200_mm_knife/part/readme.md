@@ -1,4 +1,4 @@
-# Oobb Part Tool Holder Vertical 05 05 38 Ex Tool Screwdriver Multi Quikpik 200 Mm Knife  
+# Oobb Part Tool Holder Vertical 05 05 38 Ex Tool Screwdriver Multi Quikpik 200 mm Knife  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

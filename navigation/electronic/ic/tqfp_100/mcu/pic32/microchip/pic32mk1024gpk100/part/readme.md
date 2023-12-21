@@ -1,4 +1,4 @@
-# Electronic Ic Tqfp 100 Mcu Pic32 Microchip Pic32Mk1024Gpk100  
+# Electronic IC Tqfp 100 MCU Pic32 Microchip Pic32Mk1024Gpk100  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: pic32mk1024gpk100
 
 ### other_codes
-* short_code: imcup32mk1024
+* short_code: 
 * oomp_word: star pill scroll
 * oomp_word_emoji :star: :pill: :scroll:
 * md5_6_alpha: n8ul

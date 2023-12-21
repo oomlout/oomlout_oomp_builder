@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side A  
+# Electronic Socket 2 54 mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side A  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: raspberry_pi_pico_side_a
 
 ### other_codes
-* short_code: sci120pth
+* short_code: 
 * oomp_word: ocean five eight
 * oomp_word_emoji :ocean: :five: :eight:
 * md5_6_alpha: 1y6m1

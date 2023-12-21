@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6218 Size 90 mm Id 160 mm Od 30 mm Depth  
+# Hardware Bearing 6200 Series 6218 Size 90 mm ID 160 mm OD 30 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

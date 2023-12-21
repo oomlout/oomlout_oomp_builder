@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o330
+* short_code: 
 * oomp_word: sleepy lock heart
 * oomp_word_emoji :sleepy: :lock: :heart:
 * md5_6_alpha: erkd

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o181
+* short_code: 
 * oomp_word: tv train up
 * oomp_word_emoji :tv: :train: :up:
 * md5_6_alpha: 4vi0s

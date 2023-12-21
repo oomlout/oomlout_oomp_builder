@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 38 Pin Through Hole Right Angle  
+# Electronic Header 2 54 mm 38 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi138pthra
+* short_code: 
 * oomp_word: shell alien angel
 * oomp_word_emoji :shell: :alien: :angel:
 * md5_6_alpha: 496am

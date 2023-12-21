@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 13 Pin Through Hole Long  
+# Electronic Header 2 54 mm 13 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi113pthl
+* short_code: 
 * oomp_word: train balloon helicopter
 * oomp_word_emoji :train: :balloon: :helicopter:
 * md5_6_alpha: 9dsdj

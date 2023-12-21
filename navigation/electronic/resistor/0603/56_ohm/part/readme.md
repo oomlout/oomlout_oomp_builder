@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o560
+* short_code: 
 * oomp_word: question new_moon lemon
 * oomp_word_emoji :question: :new_moon: :lemon:
 * md5_6_alpha: rao9

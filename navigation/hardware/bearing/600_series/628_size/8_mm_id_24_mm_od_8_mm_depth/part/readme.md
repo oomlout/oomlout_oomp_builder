@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 628 Size 8 Mm Id 24 Mm Od 8 Mm Depth  
+# Hardware Bearing 600 Series 628 Size 8 mm Id 24 mm Od 8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

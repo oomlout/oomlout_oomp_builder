@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5213 Size 65 Mm Id 120 Mm Od 38.1 Mm Depth  
+# Hardware Bearing 5200 Series 5213 Size 65 mm Id 120 mm Od 38.1 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

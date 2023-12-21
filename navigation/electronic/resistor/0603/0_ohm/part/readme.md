@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o0
+* short_code: 
 * oomp_word: panda_face speaker ok
 * oomp_word_emoji :panda_face: :speaker: :ok:
 * md5_6_alpha: 2o7wb

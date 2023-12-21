@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o274
+* short_code: 
 * oomp_word: handbag ocean ant
 * oomp_word_emoji :handbag: :ocean: :ant:
 * md5_6_alpha: 6yatr

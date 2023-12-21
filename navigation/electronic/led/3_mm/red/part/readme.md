@@ -1,4 +1,4 @@
-# Electronic Led 3 Mm Red  
+# Electronic LED 3 mm Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l3r
+* short_code: 
 * oomp_word: tennis alien hourglass
 * oomp_word_emoji :tennis: :alien: :hourglass:
 * md5_6_alpha: 5xksg

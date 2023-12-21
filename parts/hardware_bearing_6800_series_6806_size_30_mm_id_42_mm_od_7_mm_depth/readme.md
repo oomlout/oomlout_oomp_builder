@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6806 Size 30 mm Id 42 mm Od 7 mm Depth  
+# Hardware Bearing 6800 Series 6806 Size 30 mm ID 42 mm OD 7 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

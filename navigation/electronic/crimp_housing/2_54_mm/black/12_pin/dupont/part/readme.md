@@ -1,4 +1,4 @@
-# Electronic Crimp Housing 2 54 Mm Black 12 Pin Dupont  
+# Electronic Crimp Housing 2 54 mm Black 12 Pin Dupont  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: chi1b12pd
+* short_code: 
 * oomp_word: doughnut recycle toilet
 * oomp_word_emoji :doughnut: :recycle: :toilet:
 * md5_6_alpha: 7khvr

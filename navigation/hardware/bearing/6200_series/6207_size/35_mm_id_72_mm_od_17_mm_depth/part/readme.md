@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6207 Size 35 Mm Id 72 Mm Od 17 Mm Depth  
+# Hardware Bearing 6200 Series 6207 Size 35 mm Id 72 mm Od 17 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

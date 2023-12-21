@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6901 Size 12 Mm Id 24 Mm Od 6 Mm Depth  
+# Hardware Bearing 6900 Series 6901 Size 12 mm Id 24 mm Od 6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

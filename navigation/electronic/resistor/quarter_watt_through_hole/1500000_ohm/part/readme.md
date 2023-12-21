@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro155
+* short_code: 
 * oomp_word: briefcase bath door
 * oomp_word_emoji :briefcase: :bath: :door:
 * md5_6_alpha: 6xd3f

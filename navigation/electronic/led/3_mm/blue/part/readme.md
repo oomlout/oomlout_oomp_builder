@@ -1,4 +1,4 @@
-# Electronic Led 3 Mm Blue  
+# Electronic LED 3 mm Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l3l
+* short_code: 
 * oomp_word: dolls ghost wink
 * oomp_word_emoji :dolls: :ghost: :wink:
 * md5_6_alpha: 4grus

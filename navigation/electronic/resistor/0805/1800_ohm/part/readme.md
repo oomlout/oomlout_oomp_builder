@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o182
+* short_code: 
 * oomp_word: squirrel tractor fountain
 * oomp_word_emoji :squirrel: :tractor: :fountain:
 * md5_6_alpha: 4elzz

@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth  
+# Hardware Bearing 600 Series 698 Size 8 mm Id 19 mm Od 6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

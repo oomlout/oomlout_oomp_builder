@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro106
+* short_code: 
 * oomp_word: baseball snowman five
 * oomp_word_emoji :baseball: :snowman: :five:
 * md5_6_alpha: 5wcty

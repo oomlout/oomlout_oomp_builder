@@ -1,4 +1,4 @@
-# Electronic Led 0402 Blue  
+# Electronic LED 0402 Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l4l
+* short_code: 
 * oomp_word: lips coffee whale
 * oomp_word_emoji :lips: :coffee: :whale:
 * md5_6_alpha: 1cqxg

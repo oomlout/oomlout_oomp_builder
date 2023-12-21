@@ -59,7 +59,7 @@ description_main_length_3: '15_'
 description_main_length_4: 15_m
 description_main_length_5: 15_mm
 description_main_length_6: 15_mm_
-description_main_name: 15 mm Id 35 mm Od 11 mm Depth
+description_main_name: 15 mm ID 35 mm OD 11 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '15'
 description_main_no_space_length_3: 15m
@@ -96,11 +96,11 @@ md5_6: fc6bef
 md5_6_alpha: 9ukfj
 md5_6_alpha_upper: 9UKFJ
 md5_6_upper: FC6BEF
-name: Hardware Bearing 6200 Series 6202 Size 15 mm Id 35 mm Od 11 mm Depth
-name_no_class: Bearing 6200 Series 6202 Size 15 mm Id 35 mm Od 11 mm Depth
-name_no_color: 15 mm Id 35 mm Od 11 mm Depth
-name_no_size: 6202 Size 15 mm Id 35 mm Od 11 mm Depth
-name_no_type: 6200 Series 6202 Size 15 mm Id 35 mm Od 11 mm Depth
+name: Hardware Bearing 6200 Series 6202 Size 15 mm ID 35 mm OD 11 mm Depth
+name_no_class: Bearing 6200 Series 6202 Size 15 mm ID 35 mm OD 11 mm Depth
+name_no_color: 15 mm ID 35 mm OD 11 mm Depth
+name_no_size: 6202 Size 15 mm ID 35 mm OD 11 mm Depth
+name_no_type: 6200 Series 6202 Size 15 mm ID 35 mm OD 11 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6202_size_15_mm_id_35_mm_od_11_mm_depth
 oomp_word: up chestnut truck
 oomp_word_emoji: ':up: :chestnut: :truck:'

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o102
+* short_code: 
 * oomp_word: smile tophat boot
 * oomp_word_emoji :smile: :tophat: :boot:
 * md5_6_alpha: 2d9n

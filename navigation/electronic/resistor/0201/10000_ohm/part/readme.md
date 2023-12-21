@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro103
+* short_code: 
 * oomp_word: hatched_chick horse bank
 * oomp_word_emoji :hatched_chick: :horse: :bank:
 * md5_6_alpha: 2thi1

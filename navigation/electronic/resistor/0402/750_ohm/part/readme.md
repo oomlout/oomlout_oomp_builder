@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o751
+* short_code: 
 * oomp_word: four tophat rabbit
 * oomp_word_emoji :four: :tophat: :rabbit:
 * md5_6_alpha: 9l3qu

@@ -1,4 +1,4 @@
-# Electronic Led 0201 Blue  
+# Electronic LED 0201 Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ll
+* short_code: 
 * oomp_word: banana bouquet phone
 * oomp_word_emoji :banana: :bouquet: :phone:
 * md5_6_alpha: 84pdp

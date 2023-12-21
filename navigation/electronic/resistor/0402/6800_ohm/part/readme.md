@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o682
+* short_code: 
 * oomp_word: sushi shell beetle
 * oomp_word_emoji :sushi: :shell: :beetle:
 * md5_6_alpha: 7cocw

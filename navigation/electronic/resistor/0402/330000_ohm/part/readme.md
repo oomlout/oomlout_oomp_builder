@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o334
+* short_code: 
 * oomp_word: sandal moon hatching_chick
 * oomp_word_emoji :sandal: :moon: :hatching_chick:
 * md5_6_alpha: 6lzyh

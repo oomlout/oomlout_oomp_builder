@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro181
+* short_code: 
 * oomp_word: dragon tophat bird
 * oomp_word_emoji :dragon: :tophat: :bird:
 * md5_6_alpha: 3hz5y

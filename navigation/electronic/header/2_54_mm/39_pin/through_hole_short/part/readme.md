@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 39 Pin Through Hole Short  
+# Electronic Header 2 54 mm 39 Pin Through Hole Short  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi139pths
+* short_code: 
 * oomp_word: tennis trident squirrel
 * oomp_word_emoji :tennis: :trident: :squirrel:
 * md5_6_alpha: 5yws0

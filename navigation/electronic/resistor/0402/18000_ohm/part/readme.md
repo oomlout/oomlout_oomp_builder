@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o183
+* short_code: 
 * oomp_word: lock mushroom bath
 * oomp_word_emoji :lock: :mushroom: :bath:
 * md5_6_alpha: 54l1i

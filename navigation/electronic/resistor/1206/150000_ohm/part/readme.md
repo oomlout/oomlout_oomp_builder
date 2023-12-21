@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o154
+* short_code: 
 * oomp_word: rice candy eyeglasses
 * oomp_word_emoji :rice: :candy: :eyeglasses:
 * md5_6_alpha: 7ekdv

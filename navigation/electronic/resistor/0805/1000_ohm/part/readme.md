@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o102
+* short_code: 
 * oomp_word: tractor hammer zap
 * oomp_word_emoji :tractor: :hammer: :zap:
 * md5_6_alpha: 95fzi

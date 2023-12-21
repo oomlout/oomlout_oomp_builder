@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 25 Pin Through Hole Long  
+# Electronic Socket 2 54 mm 25 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci125pthl
+* short_code: 
 * oomp_word: crocodile chicken tennis
 * oomp_word_emoji :crocodile: :chicken: :tennis:
 * md5_6_alpha: 3og48

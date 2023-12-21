@@ -1,4 +1,4 @@
-# Electronic Button 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount  
+# Electronic Button 3 5 mm X 6 mm X 2 5 mm Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: b3560s
+* short_code: 
 * oomp_word: hotel shirt fish
 * oomp_word_emoji :hotel: :shirt: :fish:
 * md5_6_alpha: 8j5ub

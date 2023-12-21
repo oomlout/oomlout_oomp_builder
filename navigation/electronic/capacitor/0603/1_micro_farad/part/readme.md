@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: c6uf1
+* short_code: 
 * oomp_word: helicopter violin cow
 * oomp_word_emoji :helicopter: :violin: :cow:
 * md5_6_alpha: 91d8d

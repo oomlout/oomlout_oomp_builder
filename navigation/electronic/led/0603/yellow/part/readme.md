@@ -1,4 +1,4 @@
-# Electronic Led 0603 Yellow  
+# Electronic LED 0603 Yellow  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l6y
+* short_code: 
 * oomp_word: nose tent coffee
 * oomp_word_emoji :nose: :tent: :coffee:
 * md5_6_alpha: 1jzjo

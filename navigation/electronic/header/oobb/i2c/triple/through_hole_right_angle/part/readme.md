@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hob3thra
+* short_code: 
 * oomp_word: herb cherries beetle
 * oomp_word_emoji :herb: :cherries: :beetle:
 * md5_6_alpha: 41sgg

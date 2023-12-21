@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o680
+* short_code: 
 * oomp_word: apple violin four
 * oomp_word_emoji :apple: :violin: :four:
 * md5_6_alpha: 7ttrp

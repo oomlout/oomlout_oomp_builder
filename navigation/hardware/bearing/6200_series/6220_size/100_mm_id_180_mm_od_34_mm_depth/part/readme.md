@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth  
+# Hardware Bearing 6200 Series 6220 Size 100 mm Id 180 mm Od 34 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

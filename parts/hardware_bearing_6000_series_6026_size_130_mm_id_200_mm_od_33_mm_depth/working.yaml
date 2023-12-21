@@ -59,7 +59,7 @@ description_main_length_3: '130'
 description_main_length_4: '130_'
 description_main_length_5: 130_m
 description_main_length_6: 130_mm
-description_main_name: 130 mm Id 200 mm Od 33 mm Depth
+description_main_name: 130 mm ID 200 mm OD 33 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '13'
 description_main_no_space_length_3: '130'
@@ -96,11 +96,11 @@ md5_6: d734c8
 md5_6_alpha: 8eaiw
 md5_6_alpha_upper: 8EAIW
 md5_6_upper: D734C8
-name: Hardware Bearing 6000 Series 6026 Size 130 mm Id 200 mm Od 33 mm Depth
-name_no_class: Bearing 6000 Series 6026 Size 130 mm Id 200 mm Od 33 mm Depth
-name_no_color: 130 mm Id 200 mm Od 33 mm Depth
-name_no_size: 6026 Size 130 mm Id 200 mm Od 33 mm Depth
-name_no_type: 6000 Series 6026 Size 130 mm Id 200 mm Od 33 mm Depth
+name: Hardware Bearing 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth
+name_no_class: Bearing 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth
+name_no_color: 130 mm ID 200 mm OD 33 mm Depth
+name_no_size: 6026 Size 130 mm ID 200 mm OD 33 mm Depth
+name_no_type: 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
 oomp_word: office mouse apple
 oomp_word_emoji: ':office: :mouse: :apple:'

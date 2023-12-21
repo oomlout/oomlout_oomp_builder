@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6807 Size 35 Mm Id 47 Mm Od 7 Mm Depth  
+# Hardware Bearing 6800 Series 6807 Size 35 mm Id 47 mm Od 7 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

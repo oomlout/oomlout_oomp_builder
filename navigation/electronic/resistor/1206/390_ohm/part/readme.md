@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o391
+* short_code: 
 * oomp_word: frog paperclip thumbsup
 * oomp_word_emoji :frog: :paperclip: :thumbsup:
 * md5_6_alpha: 27gnq

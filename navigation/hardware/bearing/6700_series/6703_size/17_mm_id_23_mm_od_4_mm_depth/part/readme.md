@@ -1,4 +1,4 @@
-# Hardware Bearing 6700 Series 6703 Size 17 Mm Id 23 Mm Od 4 Mm Depth  
+# Hardware Bearing 6700 Series 6703 Size 17 mm Id 23 mm Od 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

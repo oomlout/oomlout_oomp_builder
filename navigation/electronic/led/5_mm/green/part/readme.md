@@ -1,4 +1,4 @@
-# Electronic Led 5 Mm Green  
+# Electronic LED 5 mm Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l5g
+* short_code: 
 * oomp_word: pizza muscle spades
 * oomp_word_emoji :pizza: :muscle: :spades:
 * md5_6_alpha: 757do

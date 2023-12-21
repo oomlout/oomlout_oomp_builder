@@ -1,4 +1,4 @@
-# Electronic Led 1206  
+# Electronic LED 1206  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l12
+* short_code: 
 * oomp_word: tulip thumbsup paperclip
 * oomp_word_emoji :tulip: :thumbsup: :paperclip:
 * md5_6_alpha: 3ts42

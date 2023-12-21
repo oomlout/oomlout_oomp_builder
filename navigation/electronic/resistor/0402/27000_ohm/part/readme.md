@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o273
+* short_code: 
 * oomp_word: ear lips tulip
 * oomp_word_emoji :ear: :lips: :tulip:
 * md5_6_alpha: 1g5sy

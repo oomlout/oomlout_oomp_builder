@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o474
+* short_code: 
 * oomp_word: bird pencil pizza
 * oomp_word_emoji :bird: :pencil: :pizza:
 * md5_6_alpha: 2r83b

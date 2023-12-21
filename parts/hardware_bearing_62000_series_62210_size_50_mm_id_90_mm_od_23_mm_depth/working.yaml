@@ -59,7 +59,7 @@ description_main_length_3: '50_'
 description_main_length_4: 50_m
 description_main_length_5: 50_mm
 description_main_length_6: 50_mm_
-description_main_name: 50 mm Id 90 mm Od 23 mm Depth
+description_main_name: 50 mm ID 90 mm OD 23 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '50'
 description_main_no_space_length_3: 50m
@@ -96,11 +96,11 @@ md5_6: 4d35f8
 md5_6_alpha: 30ge0
 md5_6_alpha_upper: 30GE0
 md5_6_upper: 4D35F8
-name: Hardware Bearing 62000 Series 62210 Size 50 mm Id 90 mm Od 23 mm Depth
-name_no_class: Bearing 62000 Series 62210 Size 50 mm Id 90 mm Od 23 mm Depth
-name_no_color: 50 mm Id 90 mm Od 23 mm Depth
-name_no_size: 62210 Size 50 mm Id 90 mm Od 23 mm Depth
-name_no_type: 62000 Series 62210 Size 50 mm Id 90 mm Od 23 mm Depth
+name: Hardware Bearing 62000 Series 62210 Size 50 mm ID 90 mm OD 23 mm Depth
+name_no_class: Bearing 62000 Series 62210 Size 50 mm ID 90 mm OD 23 mm Depth
+name_no_color: 50 mm ID 90 mm OD 23 mm Depth
+name_no_size: 62210 Size 50 mm ID 90 mm OD 23 mm Depth
+name_no_type: 62000 Series 62210 Size 50 mm ID 90 mm OD 23 mm Depth
 oomp_key: oomp_hardware_bearing_62000_series_62210_size_50_mm_id_90_mm_od_23_mm_depth
 oomp_word: bug hamster seven
 oomp_word_emoji: ':bug: :hamster: :seven:'

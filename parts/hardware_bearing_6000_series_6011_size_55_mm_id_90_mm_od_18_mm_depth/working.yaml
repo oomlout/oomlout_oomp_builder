@@ -59,7 +59,7 @@ description_main_length_3: '55_'
 description_main_length_4: 55_m
 description_main_length_5: 55_mm
 description_main_length_6: 55_mm_
-description_main_name: 55 mm Id 90 mm Od 18 mm Depth
+description_main_name: 55 mm ID 90 mm OD 18 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '55'
 description_main_no_space_length_3: 55m
@@ -96,11 +96,11 @@ md5_6: fb92eb
 md5_6_alpha: 9tdkb
 md5_6_alpha_upper: 9TDKB
 md5_6_upper: FB92EB
-name: Hardware Bearing 6000 Series 6011 Size 55 mm Id 90 mm Od 18 mm Depth
-name_no_class: Bearing 6000 Series 6011 Size 55 mm Id 90 mm Od 18 mm Depth
-name_no_color: 55 mm Id 90 mm Od 18 mm Depth
-name_no_size: 6011 Size 55 mm Id 90 mm Od 18 mm Depth
-name_no_type: 6000 Series 6011 Size 55 mm Id 90 mm Od 18 mm Depth
+name: Hardware Bearing 6000 Series 6011 Size 55 mm ID 90 mm OD 18 mm Depth
+name_no_class: Bearing 6000 Series 6011 Size 55 mm ID 90 mm OD 18 mm Depth
+name_no_color: 55 mm ID 90 mm OD 18 mm Depth
+name_no_size: 6011 Size 55 mm ID 90 mm OD 18 mm Depth
+name_no_type: 6000 Series 6011 Size 55 mm ID 90 mm OD 18 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6011_size_55_mm_id_90_mm_od_18_mm_depth
 oomp_word: ok paperclip car
 oomp_word_emoji: ':ok: :paperclip: :car:'

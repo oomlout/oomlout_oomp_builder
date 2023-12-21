@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F606 Size 6 Mm Id 17 Mm Od 6 Mm Depth  
+# Hardware Bearing F600 Series F606 Size 6 mm Id 17 mm Od 6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

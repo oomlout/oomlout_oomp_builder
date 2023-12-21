@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o152
+* short_code: 
 * oomp_word: cyclone maple_leaf honey_pot
 * oomp_word_emoji :cyclone: :maple_leaf: :honey_pot:
 * md5_6_alpha: 1uksn

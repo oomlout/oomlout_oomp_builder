@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5210 Size 50 mm Id 90 mm Od 30.1 mm Depth  
+# Hardware Bearing 5200 Series 5210 Size 50 mm ID 90 mm OD 30.1 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

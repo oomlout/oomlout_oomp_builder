@@ -1,4 +1,4 @@
-# Electronic Led 0201 Yellow  
+# Electronic LED 0201 Yellow  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ly
+* short_code: 
 * oomp_word: banana thumbsup dog
 * oomp_word_emoji :banana: :thumbsup: :dog:
 * md5_6_alpha: 84aib

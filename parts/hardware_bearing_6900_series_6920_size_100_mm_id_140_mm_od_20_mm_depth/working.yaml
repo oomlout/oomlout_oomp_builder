@@ -59,7 +59,7 @@ description_main_length_3: '100'
 description_main_length_4: '100_'
 description_main_length_5: 100_m
 description_main_length_6: 100_mm
-description_main_name: 100 mm Id 140 mm Od 20 mm Depth
+description_main_name: 100 mm ID 140 mm OD 20 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '100'
@@ -96,11 +96,11 @@ md5_6: 2d6f6a
 md5_6_alpha: 1rtka
 md5_6_alpha_upper: 1RTKA
 md5_6_upper: 2D6F6A
-name: Hardware Bearing 6900 Series 6920 Size 100 mm Id 140 mm Od 20 mm Depth
-name_no_class: Bearing 6900 Series 6920 Size 100 mm Id 140 mm Od 20 mm Depth
-name_no_color: 100 mm Id 140 mm Od 20 mm Depth
-name_no_size: 6920 Size 100 mm Id 140 mm Od 20 mm Depth
-name_no_type: 6900 Series 6920 Size 100 mm Id 140 mm Od 20 mm Depth
+name: Hardware Bearing 6900 Series 6920 Size 100 mm ID 140 mm OD 20 mm Depth
+name_no_class: Bearing 6900 Series 6920 Size 100 mm ID 140 mm OD 20 mm Depth
+name_no_color: 100 mm ID 140 mm OD 20 mm Depth
+name_no_size: 6920 Size 100 mm ID 140 mm OD 20 mm Depth
+name_no_type: 6900 Series 6920 Size 100 mm ID 140 mm OD 20 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6920_size_100_mm_id_140_mm_od_20_mm_depth
 oomp_word: snowman moon palm_tree
 oomp_word_emoji: ':snowman: :moon: :palm_tree:'

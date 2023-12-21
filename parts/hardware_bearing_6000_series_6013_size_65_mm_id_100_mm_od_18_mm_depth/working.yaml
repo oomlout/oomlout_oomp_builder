@@ -59,7 +59,7 @@ description_main_length_3: '65_'
 description_main_length_4: 65_m
 description_main_length_5: 65_mm
 description_main_length_6: 65_mm_
-description_main_name: 65 mm Id 100 mm Od 18 mm Depth
+description_main_name: 65 mm ID 100 mm OD 18 mm Depth
 description_main_no_space_length_1: '6'
 description_main_no_space_length_2: '65'
 description_main_no_space_length_3: 65m
@@ -96,11 +96,11 @@ md5_6: 627e1a
 md5_6_alpha: 3ucka
 md5_6_alpha_upper: 3UCKA
 md5_6_upper: 627E1A
-name: Hardware Bearing 6000 Series 6013 Size 65 mm Id 100 mm Od 18 mm Depth
-name_no_class: Bearing 6000 Series 6013 Size 65 mm Id 100 mm Od 18 mm Depth
-name_no_color: 65 mm Id 100 mm Od 18 mm Depth
-name_no_size: 6013 Size 65 mm Id 100 mm Od 18 mm Depth
-name_no_type: 6000 Series 6013 Size 65 mm Id 100 mm Od 18 mm Depth
+name: Hardware Bearing 6000 Series 6013 Size 65 mm ID 100 mm OD 18 mm Depth
+name_no_class: Bearing 6000 Series 6013 Size 65 mm ID 100 mm OD 18 mm Depth
+name_no_color: 65 mm ID 100 mm OD 18 mm Depth
+name_no_size: 6013 Size 65 mm ID 100 mm OD 18 mm Depth
+name_no_type: 6000 Series 6013 Size 65 mm ID 100 mm OD 18 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
 oomp_word: tulip fax clap
 oomp_word_emoji: ':tulip: :fax: :clap:'

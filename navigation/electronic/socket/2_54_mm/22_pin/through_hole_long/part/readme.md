@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 22 Pin Through Hole Long  
+# Electronic Socket 2 54 mm 22 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci122pthl
+* short_code: 
 * oomp_word: bank horse helicopter
 * oomp_word_emoji :bank: :horse: :helicopter:
 * md5_6_alpha: 8h5uv

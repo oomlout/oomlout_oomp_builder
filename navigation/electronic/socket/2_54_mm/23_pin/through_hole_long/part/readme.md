@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 23 Pin Through Hole Long  
+# Electronic Socket 2 54 mm 23 Pin Through Hole Long  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci123pthl
+* short_code: 
 * oomp_word: one beetle mushroom
 * oomp_word_emoji :one: :beetle: :mushroom:
 * md5_6_alpha: 9gdbc

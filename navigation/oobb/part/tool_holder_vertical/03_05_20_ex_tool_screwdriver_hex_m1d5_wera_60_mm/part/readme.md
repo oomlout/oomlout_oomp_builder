@@ -1,4 +1,4 @@
-# Oobb Part Tool Holder Vertical 03 05 20 Ex Tool Screwdriver Hex M1D5 Wera 60 Mm  
+# Oobb Part Tool Holder Vertical 03 05 20 Ex Tool Screwdriver Hex M1D5 Wera 60 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

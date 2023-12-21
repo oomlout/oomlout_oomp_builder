@@ -1,4 +1,4 @@
-# Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au  
+# Electronic IC Tqfp 32 MCU Atmega328 Microchip Atmega328P Au  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: atmega328p_au
 
 ### other_codes
-* short_code: itq32mcuat328
+* short_code: 
 * oomp_word: thumbsup thumbsup moon
 * oomp_word_emoji :thumbsup: :thumbsup: :moon:
 * md5_6_alpha: v0xb

@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6028 Size 140 mm Id 210 mm Od 33 mm Depth  
+# Hardware Bearing 6000 Series 6028 Size 140 mm ID 210 mm OD 33 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

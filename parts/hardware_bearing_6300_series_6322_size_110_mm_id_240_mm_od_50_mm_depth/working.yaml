@@ -59,7 +59,7 @@ description_main_length_3: '110'
 description_main_length_4: '110_'
 description_main_length_5: 110_m
 description_main_length_6: 110_mm
-description_main_name: 110 mm Id 240 mm Od 50 mm Depth
+description_main_name: 110 mm ID 240 mm OD 50 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '11'
 description_main_no_space_length_3: '110'
@@ -96,11 +96,11 @@ md5_6: 0ede89
 md5_6_alpha: kvwp
 md5_6_alpha_upper: KVWP
 md5_6_upper: 0EDE89
-name: Hardware Bearing 6300 Series 6322 Size 110 mm Id 240 mm Od 50 mm Depth
-name_no_class: Bearing 6300 Series 6322 Size 110 mm Id 240 mm Od 50 mm Depth
-name_no_color: 110 mm Id 240 mm Od 50 mm Depth
-name_no_size: 6322 Size 110 mm Id 240 mm Od 50 mm Depth
-name_no_type: 6300 Series 6322 Size 110 mm Id 240 mm Od 50 mm Depth
+name: Hardware Bearing 6300 Series 6322 Size 110 mm ID 240 mm OD 50 mm Depth
+name_no_class: Bearing 6300 Series 6322 Size 110 mm ID 240 mm OD 50 mm Depth
+name_no_color: 110 mm ID 240 mm OD 50 mm Depth
+name_no_size: 6322 Size 110 mm ID 240 mm OD 50 mm Depth
+name_no_type: 6300 Series 6322 Size 110 mm ID 240 mm OD 50 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6322_size_110_mm_id_240_mm_od_50_mm_depth
 oomp_word: cupid rainbow hammer
 oomp_word_emoji: ':cupid: :rainbow: :hammer:'

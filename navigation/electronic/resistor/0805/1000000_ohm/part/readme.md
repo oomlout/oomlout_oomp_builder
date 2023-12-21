@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o105
+* short_code: 
 * oomp_word: birthday camera cyclone
 * oomp_word_emoji :birthday: :camera: :cyclone:
 * md5_6_alpha: 7l6b3

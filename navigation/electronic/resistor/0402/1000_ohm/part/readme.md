@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o102
+* short_code: 
 * oomp_word: squirrel grapes golf
 * oomp_word_emoji :squirrel: :grapes: :golf:
 * md5_6_alpha: 4eftm

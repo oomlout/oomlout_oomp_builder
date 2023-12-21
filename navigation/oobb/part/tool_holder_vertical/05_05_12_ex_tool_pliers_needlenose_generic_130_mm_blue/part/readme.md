@@ -1,4 +1,4 @@
-# Oobb Part Tool Holder Vertical 05 05 12 Ex Tool Pliers Needlenose Generic 130 Mm Blue  
+# Oobb Part Tool Holder Vertical 05 05 12 Ex Tool Pliers Needlenose Generic 130 mm Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

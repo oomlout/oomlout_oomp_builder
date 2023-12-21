@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5315 Size 75 mm Id 160 mm Od 68.26 mm Depth  
+# Hardware Bearing 5300 Series 5315 Size 75 mm ID 160 mm OD 68.26 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

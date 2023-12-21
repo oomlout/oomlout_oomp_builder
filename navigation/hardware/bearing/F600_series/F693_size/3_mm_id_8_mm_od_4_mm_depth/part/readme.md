@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F693 Size 3 Mm Id 8 Mm Od 4 Mm Depth  
+# Hardware Bearing F600 Series F693 Size 3 mm Id 8 mm Od 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

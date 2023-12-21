@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o561
+* short_code: 
 * oomp_word: rabbit whale elephant
 * oomp_word_emoji :rabbit: :whale: :elephant:
 * md5_6_alpha: 24bb7

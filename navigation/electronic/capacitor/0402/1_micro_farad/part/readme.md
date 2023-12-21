@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: c4uf1
+* short_code: 
 * oomp_word: thumbsup dancer guitar
 * oomp_word_emoji :thumbsup: :dancer: :guitar:
 * md5_6_alpha: v25j

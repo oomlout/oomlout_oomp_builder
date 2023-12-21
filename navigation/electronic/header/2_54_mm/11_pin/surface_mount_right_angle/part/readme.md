@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 11 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 mm 11 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi111psmra
+* short_code: 
 * oomp_word: fries blossom rowboat
 * oomp_word_emoji :fries: :blossom: :rowboat:
 * md5_6_alpha: 78gkj

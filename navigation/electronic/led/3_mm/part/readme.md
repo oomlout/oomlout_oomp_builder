@@ -1,4 +1,4 @@
-# Electronic Led 3 Mm  
+# Electronic LED 3 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l3
+* short_code: 
 * oomp_word: dancer zap strawberry
 * oomp_word_emoji :dancer: :zap: :strawberry:
 * md5_6_alpha: 13l59

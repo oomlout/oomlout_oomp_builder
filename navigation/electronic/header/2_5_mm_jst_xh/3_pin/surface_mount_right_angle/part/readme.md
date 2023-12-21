@@ -1,4 +1,4 @@
-# Electronic Header 2 5 Mm Jst Xh 3 Pin Surface Mount Right Angle  
+# Electronic Header 2 5 mm Jst Xh 3 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hjxh3psmra
+* short_code: 
 * oomp_word: basketball sleeping sunglasses
 * oomp_word_emoji :basketball: :sleeping: :sunglasses:
 * md5_6_alpha: 5uqdn

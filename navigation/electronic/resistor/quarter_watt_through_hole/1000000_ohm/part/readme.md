@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro105
+* short_code: 
 * oomp_word: boat bike rocket
 * oomp_word_emoji :boat: :bike: :rocket:
 * md5_6_alpha: 8tbz9

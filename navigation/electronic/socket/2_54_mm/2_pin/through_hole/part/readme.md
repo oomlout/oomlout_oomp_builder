@@ -1,4 +1,4 @@
-# Electronic Socket 2 54 Mm 2 Pin Through Hole  
+# Electronic Socket 2 54 mm 2 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sci12pth
+* short_code: 
 * oomp_word: pizza hatched_chick helicopter
 * oomp_word_emoji :pizza: :hatched_chick: :helicopter:
 * md5_6_alpha: 75gbr

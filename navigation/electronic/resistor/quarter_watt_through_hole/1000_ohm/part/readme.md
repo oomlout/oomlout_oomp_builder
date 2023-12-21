@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro102
+* short_code: 
 * oomp_word: anger question ear
 * oomp_word_emoji :anger: :question: :ear:
 * md5_6_alpha: pe05

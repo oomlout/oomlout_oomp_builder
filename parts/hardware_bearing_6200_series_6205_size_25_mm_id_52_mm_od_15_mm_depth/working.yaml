@@ -59,7 +59,7 @@ description_main_length_3: '25_'
 description_main_length_4: 25_m
 description_main_length_5: 25_mm
 description_main_length_6: 25_mm_
-description_main_name: 25 mm Id 52 mm Od 15 mm Depth
+description_main_name: 25 mm ID 52 mm OD 15 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '25'
 description_main_no_space_length_3: 25m
@@ -96,11 +96,11 @@ md5_6: d874c1
 md5_6_alpha: 8g1q9
 md5_6_alpha_upper: 8G1Q9
 md5_6_upper: D874C1
-name: Hardware Bearing 6200 Series 6205 Size 25 mm Id 52 mm Od 15 mm Depth
-name_no_class: Bearing 6200 Series 6205 Size 25 mm Id 52 mm Od 15 mm Depth
-name_no_color: 25 mm Id 52 mm Od 15 mm Depth
-name_no_size: 6205 Size 25 mm Id 52 mm Od 15 mm Depth
-name_no_type: 6200 Series 6205 Size 25 mm Id 52 mm Od 15 mm Depth
+name: Hardware Bearing 6200 Series 6205 Size 25 mm ID 52 mm OD 15 mm Depth
+name_no_class: Bearing 6200 Series 6205 Size 25 mm ID 52 mm OD 15 mm Depth
+name_no_color: 25 mm ID 52 mm OD 15 mm Depth
+name_no_size: 6205 Size 25 mm ID 52 mm OD 15 mm Depth
+name_no_type: 6200 Series 6205 Size 25 mm ID 52 mm OD 15 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
 oomp_word: hospital fireworks doughnut
 oomp_word_emoji: ':hospital: :fireworks: :doughnut:'

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: catuf4d7v16
+* short_code: 
 * oomp_word: telescope angel car
 * oomp_word_emoji :telescope: :angel: :car:
 * md5_6_alpha: 5tgq3

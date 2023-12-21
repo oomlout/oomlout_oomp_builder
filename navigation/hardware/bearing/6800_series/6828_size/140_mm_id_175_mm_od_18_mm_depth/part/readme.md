@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6828 Size 140 Mm Id 175 Mm Od 18 Mm Depth  
+# Hardware Bearing 6800 Series 6828 Size 140 mm Id 175 mm Od 18 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

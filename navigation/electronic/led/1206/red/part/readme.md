@@ -1,4 +1,4 @@
-# Electronic Led 1206 Red  
+# Electronic LED 1206 Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l12r
+* short_code: 
 * oomp_word: tea crocodile factory
 * oomp_word_emoji :tea: :crocodile: :factory:
 * md5_6_alpha: 72rj0

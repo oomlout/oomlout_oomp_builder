@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o681
+* short_code: 
 * oomp_word: computer watermelon feet
 * oomp_word_emoji :computer: :watermelon: :feet:
 * md5_6_alpha: 4tw69

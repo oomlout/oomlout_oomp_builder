@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o823
+* short_code: 
 * oomp_word: dolphin sandal foggy
 * oomp_word_emoji :dolphin: :sandal: :foggy:
 * md5_6_alpha: 3cbow

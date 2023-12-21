@@ -1,4 +1,4 @@
-# Oobb Part Smd Magazine Label Holder 03 10 Nm 8 Mm Tape Width 8 Mm X 26 Mm Label  
+# Oobb Part SMD Magazine Label Holder 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o275
+* short_code: 
 * oomp_word: shirt lipstick tv
 * oomp_word_emoji :shirt: :lipstick: :tv:
 * md5_6_alpha: 6qjcs

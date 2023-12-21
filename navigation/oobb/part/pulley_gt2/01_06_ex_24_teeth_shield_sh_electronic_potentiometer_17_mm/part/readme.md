@@ -1,4 +1,4 @@
-# Oobb Part Pulley Gt2 01 06 Ex 24 Teeth Shield Sh Electronic Potentiometer 17 Mm  
+# Oobb Part Pulley Gt2 01 06 Ex 24 Teeth Shield Sh Electronic Potentiometer 17 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

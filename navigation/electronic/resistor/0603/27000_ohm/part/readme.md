@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o273
+* short_code: 
 * oomp_word: frog blowfish dragon
 * oomp_word_emoji :frog: :blowfish: :dragon:
 * md5_6_alpha: 2768p

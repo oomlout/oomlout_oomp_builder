@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth  
+# Hardware Bearing 6300 Series 6324 Size 120 mm Id 260 mm Od 55 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

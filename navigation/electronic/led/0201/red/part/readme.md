@@ -1,4 +1,4 @@
-# Electronic Led 0201 Red  
+# Electronic LED 0201 Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: lr
+* short_code: 
 * oomp_word: sleepy leopard eyeglasses
 * oomp_word_emoji :sleepy: :leopard: :eyeglasses:
 * md5_6_alpha: ekkz

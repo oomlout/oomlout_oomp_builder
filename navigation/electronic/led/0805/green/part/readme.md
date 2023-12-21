@@ -1,4 +1,4 @@
-# Electronic Led 0805 Green  
+# Electronic LED 0805 Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l8g
+* short_code: 
 * oomp_word: bath recycle school
 * oomp_word_emoji :bath: :recycle: :school:
 * md5_6_alpha: 59mfq

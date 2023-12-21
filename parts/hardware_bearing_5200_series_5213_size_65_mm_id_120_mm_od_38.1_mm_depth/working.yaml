@@ -59,7 +59,7 @@ description_main_length_3: '65_'
 description_main_length_4: 65_m
 description_main_length_5: 65_mm
 description_main_length_6: 65_mm_
-description_main_name: 65 mm Id 120 mm Od 38.1 mm Depth
+description_main_name: 65 mm ID 120 mm OD 38.1 mm Depth
 description_main_no_space_length_1: '6'
 description_main_no_space_length_2: '65'
 description_main_no_space_length_3: 65m
@@ -96,11 +96,11 @@ md5_6: 218bcf
 md5_6_alpha: 1b4cv
 md5_6_alpha_upper: 1B4CV
 md5_6_upper: 218BCF
-name: Hardware Bearing 5200 Series 5213 Size 65 mm Id 120 mm Od 38.1 mm Depth
-name_no_class: Bearing 5200 Series 5213 Size 65 mm Id 120 mm Od 38.1 mm Depth
-name_no_color: 65 mm Id 120 mm Od 38.1 mm Depth
-name_no_size: 5213 Size 65 mm Id 120 mm Od 38.1 mm Depth
-name_no_type: 5200 Series 5213 Size 65 mm Id 120 mm Od 38.1 mm Depth
+name: Hardware Bearing 5200 Series 5213 Size 65 mm ID 120 mm OD 38.1 mm Depth
+name_no_class: Bearing 5200 Series 5213 Size 65 mm ID 120 mm OD 38.1 mm Depth
+name_no_color: 65 mm ID 120 mm OD 38.1 mm Depth
+name_no_size: 5213 Size 65 mm ID 120 mm OD 38.1 mm Depth
+name_no_type: 5200 Series 5213 Size 65 mm ID 120 mm OD 38.1 mm Depth
 oomp_key: oomp_hardware_bearing_5200_series_5213_size_65_mm_id_120_mm_od_38.1_mm_depth
 oomp_word: feet door melon
 oomp_word_emoji: ':feet: :door: :melon:'

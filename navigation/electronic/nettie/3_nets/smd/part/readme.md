@@ -1,4 +1,4 @@
-# Electronic Nettie 3 Nets Smd  
+# Electronic Nettie 3 Nets SMD  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: nt3
+* short_code: 
 * oomp_word: hatching_chick elephant fire
 * oomp_word_emoji :hatching_chick: :elephant: :fire:
 * md5_6_alpha: 2uwpg

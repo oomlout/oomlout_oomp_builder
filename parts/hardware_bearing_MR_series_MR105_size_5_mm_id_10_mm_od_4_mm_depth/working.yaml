@@ -59,7 +59,7 @@ description_main_length_3: 5_m
 description_main_length_4: 5_mm
 description_main_length_5: 5_mm_
 description_main_length_6: 5_mm_i
-description_main_name: 5 mm Id 10 mm Od 4 mm Depth
+description_main_name: 5 mm ID 10 mm OD 4 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: 5m
 description_main_no_space_length_3: 5mm
@@ -96,11 +96,11 @@ md5_6: ff58c5
 md5_6_alpha: 9yocl
 md5_6_alpha_upper: 9YOCL
 md5_6_upper: FF58C5
-name: Hardware Bearing Mr Series Mr105 Size 5 mm Id 10 mm Od 4 mm Depth
-name_no_class: Bearing Mr Series Mr105 Size 5 mm Id 10 mm Od 4 mm Depth
-name_no_color: 5 mm Id 10 mm Od 4 mm Depth
-name_no_size: Mr105 Size 5 mm Id 10 mm Od 4 mm Depth
-name_no_type: Mr Series Mr105 Size 5 mm Id 10 mm Od 4 mm Depth
+name: Hardware Bearing Mr Series Mr105 Size 5 mm ID 10 mm OD 4 mm Depth
+name_no_class: Bearing Mr Series Mr105 Size 5 mm ID 10 mm OD 4 mm Depth
+name_no_color: 5 mm ID 10 mm OD 4 mm Depth
+name_no_size: Mr105 Size 5 mm ID 10 mm OD 4 mm Depth
+name_no_type: Mr Series Mr105 Size 5 mm ID 10 mm OD 4 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
 oomp_word: trident water_buffalo candy
 oomp_word_emoji: ':trident: :water_buffalo: :candy:'

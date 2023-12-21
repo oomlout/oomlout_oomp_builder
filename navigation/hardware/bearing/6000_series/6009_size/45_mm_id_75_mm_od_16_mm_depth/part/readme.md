@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6009 Size 45 Mm Id 75 Mm Od 16 Mm Depth  
+# Hardware Bearing 6000 Series 6009 Size 45 mm Id 75 mm Od 16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

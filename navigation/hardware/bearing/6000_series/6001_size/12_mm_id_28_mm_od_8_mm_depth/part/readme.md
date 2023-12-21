@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth  
+# Hardware Bearing 6000 Series 6001 Size 12 mm Id 28 mm Od 8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

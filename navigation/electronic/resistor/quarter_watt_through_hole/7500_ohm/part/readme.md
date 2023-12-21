@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro752
+* short_code: 
 * oomp_word: bowtie fountain four
 * oomp_word_emoji :bowtie: :fountain: :four:
 * md5_6_alpha: 188l

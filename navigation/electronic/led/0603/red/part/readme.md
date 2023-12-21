@@ -1,4 +1,4 @@
-# Electronic Led 0603 Red  
+# Electronic LED 0603 Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l6r
+* short_code: 
 * oomp_word: ear ram dizzy
 * oomp_word_emoji :ear: :ram: :dizzy:
 * md5_6_alpha: 1gg0h

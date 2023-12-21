@@ -1,4 +1,4 @@
-# Oobb Part Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01  
+# Oobb Part Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

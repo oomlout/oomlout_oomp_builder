@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F685 Size 5 mm Id 11 mm Od 5 mm Depth  
+# Hardware Bearing F600 Series F685 Size 5 mm ID 11 mm OD 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

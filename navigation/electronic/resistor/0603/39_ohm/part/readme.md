@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o390
+* short_code: 
 * oomp_word: book toilet briefcase
 * oomp_word_emoji :book: :toilet: :briefcase:
 * md5_6_alpha: 6f3xt

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o751
+* short_code: 
 * oomp_word: ram school santa
 * oomp_word_emoji :ram: :school: :santa:
 * md5_6_alpha: 3dz7a

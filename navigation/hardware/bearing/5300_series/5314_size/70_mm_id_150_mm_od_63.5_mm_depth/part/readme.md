@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5314 Size 70 Mm Id 150 Mm Od 63.5 Mm Depth  
+# Hardware Bearing 5300 Series 5314 Size 70 mm Id 150 mm Od 63.5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

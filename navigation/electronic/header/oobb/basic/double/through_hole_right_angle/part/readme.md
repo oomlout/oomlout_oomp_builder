@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hob2thra
+* short_code: 
 * oomp_word: recycle droplet ghost
 * oomp_word_emoji :recycle: :droplet: :ghost:
 * md5_6_alpha: 9wzg5

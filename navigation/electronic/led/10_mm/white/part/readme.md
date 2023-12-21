@@ -1,4 +1,4 @@
-# Electronic Led 10 Mm White  
+# Electronic LED 10 mm White  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l10w
+* short_code: 
 * oomp_word: whale office pig
 * oomp_word_emoji :whale: :office: :pig:
 * md5_6_alpha: 3b67w

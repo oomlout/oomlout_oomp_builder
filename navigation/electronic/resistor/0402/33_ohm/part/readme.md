@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o330
+* short_code: 
 * oomp_word: cupid key eyes
 * oomp_word_emoji :cupid: :key: :eyes:
 * md5_6_alpha: ke1y

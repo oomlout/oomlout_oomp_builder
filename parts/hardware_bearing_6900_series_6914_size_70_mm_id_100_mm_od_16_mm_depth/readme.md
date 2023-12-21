@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6914 Size 70 mm Id 100 mm Od 16 mm Depth  
+# Hardware Bearing 6900 Series 6914 Size 70 mm ID 100 mm OD 16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

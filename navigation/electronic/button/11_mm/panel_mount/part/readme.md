@@ -1,4 +1,4 @@
-# Electronic Button 11 Mm Panel Mount  
+# Electronic Button 11 mm Panel Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: b11p
+* short_code: 
 * oomp_word: rose corn shirt
 * oomp_word_emoji :rose: :corn: :shirt:
 * md5_6_alpha: 3w88c

@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6215 Size 75 mm Id 130 mm Od 25 mm Depth  
+# Hardware Bearing 6200 Series 6215 Size 75 mm ID 130 mm OD 25 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

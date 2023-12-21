@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro390
+* short_code: 
 * oomp_word: ox rocket leopard
 * oomp_word_emoji :ox: :rocket: :leopard:
 * md5_6_alpha: 3mhjz

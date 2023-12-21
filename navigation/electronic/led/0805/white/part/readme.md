@@ -1,4 +1,4 @@
-# Electronic Led 0805 White  
+# Electronic LED 0805 White  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l8w
+* short_code: 
 * oomp_word: tulip bowling hourglass
 * oomp_word_emoji :tulip: :bowling: :hourglass:
 * md5_6_alpha: 3uhz4

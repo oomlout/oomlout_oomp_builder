@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr31 Size 1 Mm Id 3 Mm Od - Mm Depth  
+# Hardware Bearing Mr Series Mr31 Size 1 mm Id 3 mm Od - mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: penny
 description_main_length_1: p
 description_main_length_2: pe
@@ -20,6 +35,19 @@ description_main_length_3: pen
 description_main_length_4: penn
 description_main_length_5: penny
 description_main_length_6: penny
+description_main_name: Penny
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pe
+description_main_no_space_length_3: pen
+description_main_no_space_length_4: penn
+description_main_no_space_length_5: penny
+description_main_no_space_length_6: penny
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PE
+description_main_no_space_upper_length_3: PEN
+description_main_no_space_upper_length_4: PENN
+description_main_no_space_upper_length_5: PENNY
+description_main_no_space_upper_length_6: PENNY
 description_main_upper_length_1: P
 description_main_upper_length_2: PE
 description_main_upper_length_3: PEN
@@ -34,6 +62,7 @@ id_no_color: penny
 id_no_size: penny
 id_no_type: 1_5_mm_penny
 manufacturer: ''
+manufacturer_name: ''
 md5: d7c00482c5970f30c5c03219cb96b7e5
 md5_10: d7c00482c5
 md5_10_upper: D7C00482C5
@@ -43,11 +72,11 @@ md5_6: d7c004
 md5_6_alpha: 8f210
 md5_6_alpha_upper: 8F210
 md5_6_upper: D7C004
-name: Hardware Washer 1 5 Mm Penny
-name_no_class: Washer 1 5 Mm Penny
+name: Hardware Washer 1 5 mm Penny
+name_no_class: Washer 1 5 mm Penny
 name_no_color: Penny
 name_no_size: Penny
-name_no_type: 1 5 Mm Penny
+name_no_type: 1 5 mm Penny
 oomp_key: oomp_hardware_washer_1_5_mm_penny
 oomp_word: office bread wink
 oomp_word_emoji: ':office: :bread: :wink:'
@@ -60,6 +89,7 @@ oomp_word_list:
 - bread
 - wink
 part_number: ''
+part_number_name: ''
 size: 1_5_mm
 size_length_1: '1'
 size_length_2: '1_'
@@ -67,6 +97,19 @@ size_length_3: '1_5'
 size_length_4: '1_5_'
 size_length_5: 1_5_m
 size_length_6: 1_5_mm
+size_name: 1 5 mm
+size_no_space_length_1: '1'
+size_no_space_length_2: '15'
+size_no_space_length_3: 15m
+size_no_space_length_4: 15mm
+size_no_space_length_5: 15mm
+size_no_space_length_6: 15mm
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '15'
+size_no_space_upper_length_3: 15M
+size_no_space_upper_length_4: 15MM
+size_no_space_upper_length_5: 15MM
+size_no_space_upper_length_6: 15MM
 size_upper_length_1: '1'
 size_upper_length_2: '1_'
 size_upper_length_3: '1_5'
@@ -80,6 +123,19 @@ type_length_3: was
 type_length_4: wash
 type_length_5: washe
 type_length_6: washer
+type_name: Washer
+type_no_space_length_1: w
+type_no_space_length_2: wa
+type_no_space_length_3: was
+type_no_space_length_4: wash
+type_no_space_length_5: washe
+type_no_space_length_6: washer
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WA
+type_no_space_upper_length_3: WAS
+type_no_space_upper_length_4: WASH
+type_no_space_upper_length_5: WASHE
+type_no_space_upper_length_6: WASHER
 type_upper_length_1: W
 type_upper_length_2: WA
 type_upper_length_3: WAS

@@ -1,4 +1,4 @@
-# Oobb Part Smd Magazine 09 09 10 Nm 8 Mm Tape Width 4 Mm Tape Thickness Ex 4  
+# Oobb Part SMD Magazine 09 09 10 Nm 8 mm Tape Width 4 mm Tape Thickness Ex 4  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

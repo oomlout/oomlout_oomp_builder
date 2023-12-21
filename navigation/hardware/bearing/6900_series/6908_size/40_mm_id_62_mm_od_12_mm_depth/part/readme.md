@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6908 Size 40 Mm Id 62 Mm Od 12 Mm Depth  
+# Hardware Bearing 6900 Series 6908 Size 40 mm Id 62 mm Od 12 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

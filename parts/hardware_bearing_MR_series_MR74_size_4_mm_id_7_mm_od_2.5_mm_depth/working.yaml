@@ -59,7 +59,7 @@ description_main_length_3: 4_m
 description_main_length_4: 4_mm
 description_main_length_5: 4_mm_
 description_main_length_6: 4_mm_i
-description_main_name: 4 mm Id 7 mm Od 2.5 mm Depth
+description_main_name: 4 mm ID 7 mm OD 2.5 mm Depth
 description_main_no_space_length_1: '4'
 description_main_no_space_length_2: 4m
 description_main_no_space_length_3: 4mm
@@ -96,11 +96,11 @@ md5_6: bc343f
 md5_6_alpha: 7cd33
 md5_6_alpha_upper: 7CD33
 md5_6_upper: BC343F
-name: Hardware Bearing Mr Series Mr74 Size 4 mm Id 7 mm Od 2.5 mm Depth
-name_no_class: Bearing Mr Series Mr74 Size 4 mm Id 7 mm Od 2.5 mm Depth
-name_no_color: 4 mm Id 7 mm Od 2.5 mm Depth
-name_no_size: Mr74 Size 4 mm Id 7 mm Od 2.5 mm Depth
-name_no_type: Mr Series Mr74 Size 4 mm Id 7 mm Od 2.5 mm Depth
+name: Hardware Bearing Mr Series Mr74 Size 4 mm ID 7 mm OD 2.5 mm Depth
+name_no_class: Bearing Mr Series Mr74 Size 4 mm ID 7 mm OD 2.5 mm Depth
+name_no_color: 4 mm ID 7 mm OD 2.5 mm Depth
+name_no_size: Mr74 Size 4 mm ID 7 mm OD 2.5 mm Depth
+name_no_type: Mr Series Mr74 Size 4 mm ID 7 mm OD 2.5 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR74_size_4_mm_id_7_mm_od_2.5_mm_depth
 oomp_word: sushi mouse horse
 oomp_word_emoji: ':sushi: :mouse: :horse:'

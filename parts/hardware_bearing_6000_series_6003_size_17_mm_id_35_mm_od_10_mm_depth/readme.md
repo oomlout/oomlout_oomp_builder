@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6003 Size 17 mm Id 35 mm Od 10 mm Depth  
+# Hardware Bearing 6000 Series 6003 Size 17 mm ID 35 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

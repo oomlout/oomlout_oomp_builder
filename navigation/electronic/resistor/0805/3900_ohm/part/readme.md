@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o392
+* short_code: 
 * oomp_word: dizzy angel camera
 * oomp_word_emoji :dizzy: :angel: :camera:
 * md5_6_alpha: o1oa

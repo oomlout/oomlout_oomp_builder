@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5316 Size 80 mm Id 170 mm Od 68.26 mm Depth  
+# Hardware Bearing 5300 Series 5316 Size 80 mm ID 170 mm OD 68.26 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

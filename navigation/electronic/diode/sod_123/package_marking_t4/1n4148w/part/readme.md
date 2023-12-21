@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 1n4148w
 
 ### other_codes
-* short_code: dsod123pmt44148
+* short_code: 
 * oomp_word: hamster tea snake
 * oomp_word_emoji :hamster: :tea: :snake:
 * md5_6_alpha: 23fwl

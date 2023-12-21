@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X17 34 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 mm Dual Row 2X17 34 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi12x17psmra
+* short_code: 
 * oomp_word: angry parking sleepy
 * oomp_word_emoji :angry: :parking: :sleepy:
 * md5_6_alpha: e13e

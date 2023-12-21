@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6315 Size 75 Mm Id 160 Mm Od 37 Mm Depth  
+# Hardware Bearing 6300 Series 6315 Size 75 mm Id 160 mm Od 37 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

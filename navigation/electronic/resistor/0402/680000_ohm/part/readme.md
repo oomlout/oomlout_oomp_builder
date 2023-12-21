@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o684
+* short_code: 
 * oomp_word: tulip ship bread
 * oomp_word_emoji :tulip: :ship: :bread:
 * md5_6_alpha: 3uw1s

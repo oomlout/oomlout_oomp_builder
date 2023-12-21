@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro0
+* short_code: 
 * oomp_word: balloon chestnut frog
 * oomp_word_emoji :balloon: :chestnut: :frog:
 * md5_6_alpha: 4qjw8

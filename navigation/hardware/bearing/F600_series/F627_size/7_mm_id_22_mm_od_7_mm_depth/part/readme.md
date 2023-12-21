@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F627 Size 7 Mm Id 22 Mm Od 7 Mm Depth  
+# Hardware Bearing F600 Series F627 Size 7 mm Id 22 mm Od 7 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

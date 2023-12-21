@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o270
+* short_code: 
 * oomp_word: seven three tea
 * oomp_word_emoji :seven: :three: :tea:
 * md5_6_alpha: 9pp6d

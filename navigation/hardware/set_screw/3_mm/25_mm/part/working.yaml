@@ -5,6 +5,19 @@ classification_length_3: har
 classification_length_4: hard
 classification_length_5: hardw
 classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -12,7 +25,9 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: ''
+color_name: ''
 description_extra: ''
+description_extra_name: ''
 description_main: 25_mm
 description_main_length_1: '2'
 description_main_length_2: '25'
@@ -20,6 +35,19 @@ description_main_length_3: '25_'
 description_main_length_4: 25_m
 description_main_length_5: 25_mm
 description_main_length_6: 25_mm
+description_main_name: 25 mm
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '25'
+description_main_no_space_length_3: 25m
+description_main_no_space_length_4: 25mm
+description_main_no_space_length_5: 25mm
+description_main_no_space_length_6: 25mm
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '25'
+description_main_no_space_upper_length_3: 25M
+description_main_no_space_upper_length_4: 25MM
+description_main_no_space_upper_length_5: 25MM
+description_main_no_space_upper_length_6: 25MM
 description_main_upper_length_1: '2'
 description_main_upper_length_2: '25'
 description_main_upper_length_3: '25_'
@@ -34,6 +62,7 @@ id_no_color: 25mm
 id_no_size: 25_mm
 id_no_type: 3_mm_25_mm
 manufacturer: ''
+manufacturer_name: ''
 md5: 2162c1b5387d467e8117c6c52d59f1e9
 md5_10: 2162c1b538
 md5_10_upper: 2162C1B538
@@ -43,11 +72,11 @@ md5_6: 2162c1
 md5_6_alpha: 1aw8x
 md5_6_alpha_upper: 1AW8X
 md5_6_upper: 2162C1
-name: Hardware Set Screw 3 Mm 25 Mm
-name_no_class: Set Screw 3 Mm 25 Mm
-name_no_color: 25Mm
-name_no_size: 25 Mm
-name_no_type: 3 Mm 25 Mm
+name: Hardware Set Screw 3 mm 25 mm
+name_no_class: Set Screw 3 mm 25 mm
+name_no_color: 25mm
+name_no_size: 25 mm
+name_no_type: 3 mm 25 mm
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Bolt
 oomlout_bolt_head_type_diagram: head_type_diagram.png
@@ -71,6 +100,7 @@ oomp_word_list:
 - tulip
 - doughnut
 part_number: ''
+part_number_name: ''
 size: 3_mm
 size_length_1: '3'
 size_length_2: '3_'
@@ -78,6 +108,19 @@ size_length_3: 3_m
 size_length_4: 3_mm
 size_length_5: 3_mm
 size_length_6: 3_mm
+size_name: 3 mm
+size_no_space_length_1: '3'
+size_no_space_length_2: 3m
+size_no_space_length_3: 3mm
+size_no_space_length_4: 3mm
+size_no_space_length_5: 3mm
+size_no_space_length_6: 3mm
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: 3M
+size_no_space_upper_length_3: 3MM
+size_no_space_upper_length_4: 3MM
+size_no_space_upper_length_5: 3MM
+size_no_space_upper_length_6: 3MM
 size_upper_length_1: '3'
 size_upper_length_2: '3_'
 size_upper_length_3: 3_M
@@ -91,6 +134,19 @@ type_length_3: set
 type_length_4: set_
 type_length_5: set_s
 type_length_6: set_sc
+type_name: Set Screw
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: set
+type_no_space_length_4: sets
+type_no_space_length_5: setsc
+type_no_space_length_6: setscr
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SET
+type_no_space_upper_length_4: SETS
+type_no_space_upper_length_5: SETSC
+type_no_space_upper_length_6: SETSCR
 type_upper_length_1: S
 type_upper_length_2: SE
 type_upper_length_3: SET

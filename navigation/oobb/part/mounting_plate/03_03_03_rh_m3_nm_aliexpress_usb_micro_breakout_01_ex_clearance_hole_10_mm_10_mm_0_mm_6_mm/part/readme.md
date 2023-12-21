@@ -1,4 +1,4 @@
-# Oobb Part Mounting Plate 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01 Ex Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm  
+# Oobb Part Mounting Plate 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01 Ex Clearance Hole 10 mm 10 mm 0 mm 6 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o680
+* short_code: 
 * oomp_word: bike office new_moon
 * oomp_word_emoji :bike: :office: :new_moon:
 * md5_6_alpha: 94gvi

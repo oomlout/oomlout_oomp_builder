@@ -1,4 +1,4 @@
-# Electronic Led 0201 Green  
+# Electronic LED 0201 Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: lg
+* short_code: 
 * oomp_word: envelope lollipop tomato
 * oomp_word_emoji :envelope: :lollipop: :tomato:
 * md5_6_alpha: 5exn7

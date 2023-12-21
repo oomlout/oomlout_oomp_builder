@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth  
+# Hardware Bearing 16000 Series 16003 Size 17 mm Id 35 mm Od 8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

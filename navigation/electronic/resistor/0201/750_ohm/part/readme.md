@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro751
+* short_code: 
 * oomp_word: thumbsup squirrel tennis
 * oomp_word_emoji :thumbsup: :squirrel: :tennis:
 * md5_6_alpha: viqg

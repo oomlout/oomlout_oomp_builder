@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro564
+* short_code: 
 * oomp_word: peach hourglass crocodile
 * oomp_word_emoji :peach: :hourglass: :crocodile:
 * md5_6_alpha: 822ce

@@ -59,7 +59,7 @@ description_main_length_3: '110'
 description_main_length_4: '110_'
 description_main_length_5: 110_m
 description_main_length_6: 110_mm
-description_main_name: 110 mm Id 170 mm Od 28 mm Depth
+description_main_name: 110 mm ID 170 mm OD 28 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '11'
 description_main_no_space_length_3: '110'
@@ -96,11 +96,11 @@ md5_6: b57306
 md5_6_alpha: 72vie
 md5_6_alpha_upper: 72VIE
 md5_6_upper: B57306
-name: Hardware Bearing 6000 Series 6022 Size 110 mm Id 170 mm Od 28 mm Depth
-name_no_class: Bearing 6000 Series 6022 Size 110 mm Id 170 mm Od 28 mm Depth
-name_no_color: 110 mm Id 170 mm Od 28 mm Depth
-name_no_size: 6022 Size 110 mm Id 170 mm Od 28 mm Depth
-name_no_type: 6000 Series 6022 Size 110 mm Id 170 mm Od 28 mm Depth
+name: Hardware Bearing 6000 Series 6022 Size 110 mm ID 170 mm OD 28 mm Depth
+name_no_class: Bearing 6000 Series 6022 Size 110 mm ID 170 mm OD 28 mm Depth
+name_no_color: 110 mm ID 170 mm OD 28 mm Depth
+name_no_size: 6022 Size 110 mm ID 170 mm OD 28 mm Depth
+name_no_type: 6000 Series 6022 Size 110 mm ID 170 mm OD 28 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6022_size_110_mm_id_170_mm_od_28_mm_depth
 oomp_word: tea flags sleeping
 oomp_word_emoji: ':tea: :flags: :sleeping:'

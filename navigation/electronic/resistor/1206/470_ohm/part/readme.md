@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o471
+* short_code: 
 * oomp_word: melon corn paperclip
 * oomp_word_emoji :melon: :corn: :paperclip:
 * md5_6_alpha: 83xjm

@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6301 Size 12 Mm Id 37 Mm Od 12 Mm Depth  
+# Hardware Bearing 6300 Series 6301 Size 12 mm Id 37 mm Od 12 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

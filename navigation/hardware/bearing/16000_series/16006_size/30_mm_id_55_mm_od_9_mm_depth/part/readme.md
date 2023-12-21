@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16006 Size 30 Mm Id 55 Mm Od 9 Mm Depth  
+# Hardware Bearing 16000 Series 16006 Size 30 mm Id 55 mm Od 9 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 29 Pin Surface Mount  
+# Electronic Header 2 54 mm 29 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi129psm
+* short_code: 
 * oomp_word: sparkles bear fish
 * oomp_word_emoji :sparkles: :bear: :fish:
 * md5_6_alpha: le8j

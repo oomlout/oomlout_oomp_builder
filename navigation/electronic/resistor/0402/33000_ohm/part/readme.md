@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o333
+* short_code: 
 * oomp_word: anchor poop sparkles
 * oomp_word_emoji :anchor: :poop: :sparkles:
 * md5_6_alpha: 8wdn3

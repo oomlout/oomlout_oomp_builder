@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5308 Size 40 mm Id 90 mm Od 36.51 mm Depth  
+# Hardware Bearing 5300 Series 5308 Size 40 mm ID 90 mm OD 36.51 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

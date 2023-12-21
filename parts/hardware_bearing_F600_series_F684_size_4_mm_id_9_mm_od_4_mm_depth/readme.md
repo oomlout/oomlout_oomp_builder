@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F684 Size 4 mm Id 9 mm Od 4 mm Depth  
+# Hardware Bearing F600 Series F684 Size 4 mm ID 9 mm OD 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

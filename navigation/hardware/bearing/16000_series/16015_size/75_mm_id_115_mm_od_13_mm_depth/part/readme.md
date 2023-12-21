@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16015 Size 75 Mm Id 115 Mm Od 13 Mm Depth  
+# Hardware Bearing 16000 Series 16015 Size 75 mm Id 115 mm Od 13 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

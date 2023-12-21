@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth  
+# Hardware Bearing 6000 Series 6019 Size 95 mm Id 145 mm Od 24 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

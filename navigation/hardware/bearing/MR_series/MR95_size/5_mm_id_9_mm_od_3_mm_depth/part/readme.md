@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr95 Size 5 Mm Id 9 Mm Od 3 Mm Depth  
+# Hardware Bearing Mr Series Mr95 Size 5 mm Id 9 mm Od 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

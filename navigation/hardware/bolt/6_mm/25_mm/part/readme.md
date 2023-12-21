@@ -1,4 +1,4 @@
-# Hardware Bolt 6 Mm 25 Mm  
+# Hardware Bolt 6 mm 25 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

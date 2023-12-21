@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro331
+* short_code: 
 * oomp_word: pig dizzy ski
 * oomp_word_emoji :pig: :dizzy: :ski:
 * md5_6_alpha: 2cdjv

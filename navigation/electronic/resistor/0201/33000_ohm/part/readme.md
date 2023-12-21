@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro333
+* short_code: 
 * oomp_word: question doughnut tram
 * oomp_word_emoji :question: :doughnut: :tram:
 * md5_6_alpha: rr3c

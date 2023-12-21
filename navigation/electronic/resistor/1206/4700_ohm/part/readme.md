@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o472
+* short_code: 
 * oomp_word: cupid cupid poodle
 * oomp_word_emoji :cupid: :cupid: :poodle:
 * md5_6_alpha: jqsg

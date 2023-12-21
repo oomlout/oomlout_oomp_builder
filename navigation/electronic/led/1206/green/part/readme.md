@@ -1,4 +1,4 @@
-# Electronic Led 1206 Green  
+# Electronic LED 1206 Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l12g
+* short_code: 
 * oomp_word: nose taxi ok
 * oomp_word_emoji :nose: :taxi: :ok:
 * md5_6_alpha: 1k2yj

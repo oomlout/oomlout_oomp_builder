@@ -1,4 +1,4 @@
-# Electronic Led 0603 Blue  
+# Electronic LED 0603 Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l6l
+* short_code: 
 * oomp_word: basketball fireworks four
 * oomp_word_emoji :basketball: :fireworks: :four:
 * md5_6_alpha: 5vcad

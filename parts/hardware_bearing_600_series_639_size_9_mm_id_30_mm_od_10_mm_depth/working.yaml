@@ -59,7 +59,7 @@ description_main_length_3: 9_m
 description_main_length_4: 9_mm
 description_main_length_5: 9_mm_
 description_main_length_6: 9_mm_i
-description_main_name: 9 mm Id 30 mm Od 10 mm Depth
+description_main_name: 9 mm ID 30 mm OD 10 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: 9m
 description_main_no_space_length_3: 9mm
@@ -96,11 +96,11 @@ md5_6: 2d43f9
 md5_6_alpha: 1rkzd
 md5_6_alpha_upper: 1RKZD
 md5_6_upper: 2D43F9
-name: Hardware Bearing 600 Series 639 Size 9 mm Id 30 mm Od 10 mm Depth
-name_no_class: Bearing 600 Series 639 Size 9 mm Id 30 mm Od 10 mm Depth
-name_no_color: 9 mm Id 30 mm Od 10 mm Depth
-name_no_size: 639 Size 9 mm Id 30 mm Od 10 mm Depth
-name_no_type: 600 Series 639 Size 9 mm Id 30 mm Od 10 mm Depth
+name: Hardware Bearing 600 Series 639 Size 9 mm ID 30 mm OD 10 mm Depth
+name_no_class: Bearing 600 Series 639 Size 9 mm ID 30 mm OD 10 mm Depth
+name_no_color: 9 mm ID 30 mm OD 10 mm Depth
+name_no_size: 639 Size 9 mm ID 30 mm OD 10 mm Depth
+name_no_type: 600 Series 639 Size 9 mm ID 30 mm OD 10 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_639_size_9_mm_id_30_mm_od_10_mm_depth
 oomp_word: snowman elephant eight
 oomp_word_emoji: ':snowman: :elephant: :eight:'

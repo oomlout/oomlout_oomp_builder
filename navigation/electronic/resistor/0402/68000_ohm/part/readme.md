@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o683
+* short_code: 
 * oomp_word: train doughnut house
 * oomp_word_emoji :train: :doughnut: :house:
 * md5_6_alpha: 9e6l1

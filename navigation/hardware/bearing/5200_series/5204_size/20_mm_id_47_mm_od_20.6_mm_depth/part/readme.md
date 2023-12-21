@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5204 Size 20 Mm Id 47 Mm Od 20.6 Mm Depth  
+# Hardware Bearing 5200 Series 5204 Size 20 mm Id 47 mm Od 20.6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

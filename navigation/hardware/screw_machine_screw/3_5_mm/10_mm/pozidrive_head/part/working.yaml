@@ -101,8 +101,8 @@ name_no_class: Screw Machine Screw 3 5 mm 10 mm Pozidrive Head
 name_no_color: 10mmpozidrivehead
 name_no_size: 10 mm Pozidrive Head
 name_no_type: 3 5 mm 10 mm Pozidrive Head
-oomlout_short_code: ms3_5m10pz
-oomlout_short_code_upper: MS3_5M10PZ
+oomlout_short_code: ms3d5m10pz
+oomlout_short_code_upper: MS3D5M10PZ
 oomp_key: oomp_hardware_screw_machine_screw_3_5_mm_10_mm_pozidrive_head
 oomp_word: leopard bowtie beetle
 oomp_word_emoji: ':leopard: :bowtie: :beetle:'

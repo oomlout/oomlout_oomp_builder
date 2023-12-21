@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5216 Size 80 Mm Id 140 Mm Od 44.4 Mm Depth  
+# Hardware Bearing 5200 Series 5216 Size 80 mm Id 140 mm Od 44.4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

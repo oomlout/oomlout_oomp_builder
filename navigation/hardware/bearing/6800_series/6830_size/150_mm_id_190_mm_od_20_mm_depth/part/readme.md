@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6830 Size 150 Mm Id 190 Mm Od 20 Mm Depth  
+# Hardware Bearing 6800 Series 6830 Size 150 mm Id 190 mm Od 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

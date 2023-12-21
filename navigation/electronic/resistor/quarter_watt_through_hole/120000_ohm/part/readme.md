@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro124
+* short_code: 
 * oomp_word: sleepy corn blossom
 * oomp_word_emoji :sleepy: :corn: :blossom:
 * md5_6_alpha: f7n0

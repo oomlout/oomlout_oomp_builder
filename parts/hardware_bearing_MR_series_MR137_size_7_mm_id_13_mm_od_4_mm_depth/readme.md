@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr137 Size 7 mm Id 13 mm Od 4 mm Depth  
+# Hardware Bearing Mr Series Mr137 Size 7 mm ID 13 mm OD 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o274
+* short_code: 
 * oomp_word: rowboat rabbit ocean
 * oomp_word_emoji :rowboat: :rabbit: :ocean:
 * md5_6_alpha: 8v5m9

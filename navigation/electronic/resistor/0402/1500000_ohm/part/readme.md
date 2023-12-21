@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o155
+* short_code: 
 * oomp_word: pill ocean poodle
 * oomp_word_emoji :pill: :ocean: :poodle:
 * md5_6_alpha: 5gx9c

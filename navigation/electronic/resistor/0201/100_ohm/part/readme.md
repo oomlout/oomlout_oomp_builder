@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro101
+* short_code: 
 * oomp_word: one blush sunflower
 * oomp_word_emoji :one: :blush: :sunflower:
 * md5_6_alpha: 9fxwk

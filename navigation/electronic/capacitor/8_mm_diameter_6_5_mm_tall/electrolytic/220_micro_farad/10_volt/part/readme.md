@@ -1,4 +1,4 @@
-# Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt  
+# Electronic Capacitor 8 mm Diameter 6 5 mm Tall Electrolytic 220 Micro Farad 10 Volt  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: c8d65tuf220v10
+* short_code: 
 * oomp_word: elephant cloud eyes
 * oomp_word_emoji :elephant: :cloud: :eyes:
 * md5_6_alpha: 2mckm

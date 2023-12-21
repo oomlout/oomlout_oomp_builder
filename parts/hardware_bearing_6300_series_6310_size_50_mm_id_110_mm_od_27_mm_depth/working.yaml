@@ -59,7 +59,7 @@ description_main_length_3: '50_'
 description_main_length_4: 50_m
 description_main_length_5: 50_mm
 description_main_length_6: 50_mm_
-description_main_name: 50 mm Id 110 mm Od 27 mm Depth
+description_main_name: 50 mm ID 110 mm OD 27 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '50'
 description_main_no_space_length_3: 50m
@@ -96,11 +96,11 @@ md5_6: 889bc8
 md5_6_alpha: 5bw08
 md5_6_alpha_upper: 5BW08
 md5_6_upper: 889BC8
-name: Hardware Bearing 6300 Series 6310 Size 50 mm Id 110 mm Od 27 mm Depth
-name_no_class: Bearing 6300 Series 6310 Size 50 mm Id 110 mm Od 27 mm Depth
-name_no_color: 50 mm Id 110 mm Od 27 mm Depth
-name_no_size: 6310 Size 50 mm Id 110 mm Od 27 mm Depth
-name_no_type: 6300 Series 6310 Size 50 mm Id 110 mm Od 27 mm Depth
+name: Hardware Bearing 6300 Series 6310 Size 50 mm ID 110 mm OD 27 mm Depth
+name_no_class: Bearing 6300 Series 6310 Size 50 mm ID 110 mm OD 27 mm Depth
+name_no_color: 50 mm ID 110 mm OD 27 mm Depth
+name_no_size: 6310 Size 50 mm ID 110 mm OD 27 mm Depth
+name_no_type: 6300 Series 6310 Size 50 mm ID 110 mm OD 27 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6310_size_50_mm_id_110_mm_od_27_mm_depth
 oomp_word: wrench ski apple
 oomp_word_emoji: ':wrench: :ski: :apple:'

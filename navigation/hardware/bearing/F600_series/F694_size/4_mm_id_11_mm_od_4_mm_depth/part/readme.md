@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F694 Size 4 Mm Id 11 Mm Od 4 Mm Depth  
+# Hardware Bearing F600 Series F694 Size 4 mm Id 11 mm Od 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

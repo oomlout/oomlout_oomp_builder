@@ -59,7 +59,7 @@ description_main_length_3: '17_'
 description_main_length_4: 17_m
 description_main_length_5: 17_mm
 description_main_length_6: 17_mm_
-description_main_name: 17 mm Id 35 mm Od 8 mm Depth
+description_main_name: 17 mm ID 35 mm OD 8 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '17'
 description_main_no_space_length_3: 17m
@@ -96,11 +96,11 @@ md5_6: e3db56
 md5_6_alpha: 8w28m
 md5_6_alpha_upper: 8W28M
 md5_6_upper: E3DB56
-name: Hardware Bearing 16000 Series 16003 Size 17 mm Id 35 mm Od 8 mm Depth
-name_no_class: Bearing 16000 Series 16003 Size 17 mm Id 35 mm Od 8 mm Depth
-name_no_color: 17 mm Id 35 mm Od 8 mm Depth
-name_no_size: 16003 Size 17 mm Id 35 mm Od 8 mm Depth
-name_no_type: 16000 Series 16003 Size 17 mm Id 35 mm Od 8 mm Depth
+name: Hardware Bearing 16000 Series 16003 Size 17 mm ID 35 mm OD 8 mm Depth
+name_no_class: Bearing 16000 Series 16003 Size 17 mm ID 35 mm OD 8 mm Depth
+name_no_color: 17 mm ID 35 mm OD 8 mm Depth
+name_no_size: 16003 Size 17 mm ID 35 mm OD 8 mm Depth
+name_no_type: 16000 Series 16003 Size 17 mm ID 35 mm OD 8 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
 oomp_word: rowboat tent ram
 oomp_word_emoji: ':rowboat: :tent: :ram:'

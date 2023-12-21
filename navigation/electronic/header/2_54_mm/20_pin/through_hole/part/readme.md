@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 20 Pin Through Hole  
+# Electronic Header 2 54 mm 20 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi120pth
+* short_code: 
 * oomp_word: tractor sushi bulb
 * oomp_word_emoji :tractor: :sushi: :bulb:
 * md5_6_alpha: 95q4l

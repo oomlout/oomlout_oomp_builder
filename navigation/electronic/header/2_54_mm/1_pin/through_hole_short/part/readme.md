@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 1 Pin Through Hole Short  
+# Electronic Header 2 54 mm 1 Pin Through Hole Short  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi11pths
+* short_code: 
 * oomp_word: pizza nose hamster
 * oomp_word_emoji :pizza: :nose: :hamster:
 * md5_6_alpha: 759o5

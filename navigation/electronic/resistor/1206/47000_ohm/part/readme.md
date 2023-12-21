@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o473
+* short_code: 
 * oomp_word: penguin foggy toilet
 * oomp_word_emoji :penguin: :foggy: :toilet:
 * md5_6_alpha: 2xm6f

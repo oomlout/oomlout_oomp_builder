@@ -1,4 +1,4 @@
-# Electronic Led 0603 Green  
+# Electronic LED 0603 Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l6g
+* short_code: 
 * oomp_word: coffee tram kiss
 * oomp_word_emoji :coffee: :tram: :kiss:
 * md5_6_alpha: 7242r

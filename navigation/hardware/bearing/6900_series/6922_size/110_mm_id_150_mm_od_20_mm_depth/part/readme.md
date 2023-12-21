@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6922 Size 110 Mm Id 150 Mm Od 20 Mm Depth  
+# Hardware Bearing 6900 Series 6922 Size 110 mm Id 150 mm Od 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

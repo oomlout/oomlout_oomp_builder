@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: mbr0520
 
 ### other_codes
-* short_code: dssod123pmb2mbr0520
+* short_code: 
 * oomp_word: parking muscle ok
 * oomp_word_emoji :parking: :muscle: :ok:
 * md5_6_alpha: 9vj7f

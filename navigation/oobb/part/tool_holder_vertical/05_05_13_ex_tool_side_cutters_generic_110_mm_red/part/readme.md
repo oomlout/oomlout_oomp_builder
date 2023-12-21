@@ -1,4 +1,4 @@
-# Oobb Part Tool Holder Vertical 05 05 13 Ex Tool Side Cutters Generic 110 Mm Red  
+# Oobb Part Tool Holder Vertical 05 05 13 Ex Tool Side Cutters Generic 110 mm Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

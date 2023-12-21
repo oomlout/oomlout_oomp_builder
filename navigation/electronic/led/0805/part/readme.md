@@ -1,4 +1,4 @@
-# Electronic Led 0805  
+# Electronic LED 0805  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l8
+* short_code: 
 * oomp_word: scroll leaves bug
 * oomp_word_emoji :scroll: :leaves: :bug:
 * md5_6_alpha: 5ima5

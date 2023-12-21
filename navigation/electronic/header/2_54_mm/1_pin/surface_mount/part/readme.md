@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 1 Pin Surface Mount  
+# Electronic Header 2 54 mm 1 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi11psm
+* short_code: 
 * oomp_word: truck one penguin
 * oomp_word_emoji :truck: :one: :penguin:
 * md5_6_alpha: 9d1l7

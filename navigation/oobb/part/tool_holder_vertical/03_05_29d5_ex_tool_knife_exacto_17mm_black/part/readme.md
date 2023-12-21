@@ -1,4 +1,4 @@
-# Oobb Part Tool Holder Vertical 03 05 29D5 Ex Tool Knife Exacto 17Mm Black  
+# Oobb Part Tool Holder Vertical 03 05 29D5 Ex Tool Knife Exacto 17mm Black  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

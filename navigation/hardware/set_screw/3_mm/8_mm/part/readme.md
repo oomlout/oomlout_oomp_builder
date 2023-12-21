@@ -1,4 +1,4 @@
-# Hardware Set Screw 3 Mm 8 Mm  
+# Hardware Set Screw 3 mm 8 mm  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

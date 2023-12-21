@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o275
+* short_code: 
 * oomp_word: hatching_chick palm_tree pizza
 * oomp_word_emoji :hatching_chick: :palm_tree: :pizza:
 * md5_6_alpha: 2v4jb

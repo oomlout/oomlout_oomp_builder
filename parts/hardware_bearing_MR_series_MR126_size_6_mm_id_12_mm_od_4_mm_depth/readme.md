@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr126 Size 6 mm Id 12 mm Od 4 mm Depth  
+# Hardware Bearing Mr Series Mr126 Size 6 mm ID 12 mm OD 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

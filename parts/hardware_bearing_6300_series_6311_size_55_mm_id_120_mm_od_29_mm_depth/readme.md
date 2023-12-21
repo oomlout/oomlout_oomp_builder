@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6311 Size 55 mm Id 120 mm Od 29 mm Depth  
+# Hardware Bearing 6300 Series 6311 Size 55 mm ID 120 mm OD 29 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

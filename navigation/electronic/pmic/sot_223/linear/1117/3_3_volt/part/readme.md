@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: pms22311173d3v
+* short_code: 
 * oomp_word: droplet bus dolphin
 * oomp_word_emoji :droplet: :bus: :dolphin:
 * md5_6_alpha: 1fvbp

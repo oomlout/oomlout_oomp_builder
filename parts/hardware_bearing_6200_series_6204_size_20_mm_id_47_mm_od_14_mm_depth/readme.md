@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6204 Size 20 mm Id 47 mm Od 14 mm Depth  
+# Hardware Bearing 6200 Series 6204 Size 20 mm ID 47 mm OD 14 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

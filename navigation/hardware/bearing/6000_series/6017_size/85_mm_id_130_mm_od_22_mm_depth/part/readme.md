@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6017 Size 85 Mm Id 130 Mm Od 22 Mm Depth  
+# Hardware Bearing 6000 Series 6017 Size 85 mm Id 130 mm Od 22 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -59,7 +59,7 @@ description_main_length_3: '75_'
 description_main_length_4: 75_m
 description_main_length_5: 75_mm
 description_main_length_6: 75_mm_
-description_main_name: 75 mm Id 160 mm Od 68.26 mm Depth
+description_main_name: 75 mm ID 160 mm OD 68.26 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '75'
 description_main_no_space_length_3: 75m
@@ -96,11 +96,11 @@ md5_6: 3e7f42
 md5_6_alpha: 2fsci
 md5_6_alpha_upper: 2FSCI
 md5_6_upper: 3E7F42
-name: Hardware Bearing 5300 Series 5315 Size 75 mm Id 160 mm Od 68.26 mm Depth
-name_no_class: Bearing 5300 Series 5315 Size 75 mm Id 160 mm Od 68.26 mm Depth
-name_no_color: 75 mm Id 160 mm Od 68.26 mm Depth
-name_no_size: 5315 Size 75 mm Id 160 mm Od 68.26 mm Depth
-name_no_type: 5300 Series 5315 Size 75 mm Id 160 mm Od 68.26 mm Depth
+name: Hardware Bearing 5300 Series 5315 Size 75 mm ID 160 mm OD 68.26 mm Depth
+name_no_class: Bearing 5300 Series 5315 Size 75 mm ID 160 mm OD 68.26 mm Depth
+name_no_color: 75 mm ID 160 mm OD 68.26 mm Depth
+name_no_size: 5315 Size 75 mm ID 160 mm OD 68.26 mm Depth
+name_no_type: 5300 Series 5315 Size 75 mm ID 160 mm OD 68.26 mm Depth
 oomp_key: oomp_hardware_bearing_5300_series_5315_size_75_mm_id_160_mm_od_68.26_mm_depth
 oomp_word: monkey speaker sheep
 oomp_word_emoji: ':monkey: :speaker: :sheep:'

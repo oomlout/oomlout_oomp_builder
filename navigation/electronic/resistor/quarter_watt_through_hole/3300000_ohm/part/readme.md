@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro335
+* short_code: 
 * oomp_word: hand tent hotel
 * oomp_word_emoji :hand: :tent: :hotel:
 * md5_6_alpha: yx22

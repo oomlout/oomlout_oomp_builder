@@ -1,4 +1,4 @@
-# Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640  
+# Electronic IC Soic 28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: aip1640
 
 ### other_codes
-* short_code: isoic28waip1640
+* short_code: 
 * oomp_word: sparkles wink penguin
 * oomp_word_emoji :sparkles: :wink: :penguin:
 * md5_6_alpha: l3d7

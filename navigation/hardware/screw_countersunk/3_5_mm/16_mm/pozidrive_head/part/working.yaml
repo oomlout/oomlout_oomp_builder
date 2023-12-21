@@ -110,8 +110,8 @@ oomlout_bolt_name: Countersunk M3_5X16 mm  (Pozidrive)
 oomlout_bolt_size: M3_5
 oomlout_bolt_type: Countersunk
 oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: cs3_5m16pz
-oomlout_short_code_upper: CS3_5M16PZ
+oomlout_short_code: cs3d5m16pz
+oomlout_short_code_upper: CS3D5M16PZ
 oomp_key: oomp_hardware_screw_countersunk_3_5_mm_16_mm_pozidrive_head
 oomp_word: kissing poop factory
 oomp_word_emoji: ':kissing: :poop: :factory:'

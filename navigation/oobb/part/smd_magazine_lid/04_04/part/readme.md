@@ -1,4 +1,4 @@
-# Oobb Part Smd Magazine Lid 04 04  
+# Oobb Part SMD Magazine Lid 04 04  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

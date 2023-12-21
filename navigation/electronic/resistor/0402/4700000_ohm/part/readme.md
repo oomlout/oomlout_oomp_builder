@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o475
+* short_code: 
 * oomp_word: coffee tea paperclip
 * oomp_word_emoji :coffee: :tea: :paperclip:
 * md5_6_alpha: 71u36

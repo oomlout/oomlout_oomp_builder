@@ -59,7 +59,7 @@ description_main_length_3: '12_'
 description_main_length_4: 12_m
 description_main_length_5: 12_mm
 description_main_length_6: 12_mm_
-description_main_name: 12 mm Id 28 mm Od 7 mm Depth
+description_main_name: 12 mm ID 28 mm OD 7 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '12'
 description_main_no_space_length_3: 12m
@@ -96,11 +96,11 @@ md5_6: 7058c5
 md5_6_alpha: 4dt51
 md5_6_alpha_upper: 4DT51
 md5_6_upper: 7058C5
-name: Hardware Bearing 16000 Series 16001 Size 12 mm Id 28 mm Od 7 mm Depth
-name_no_class: Bearing 16000 Series 16001 Size 12 mm Id 28 mm Od 7 mm Depth
-name_no_color: 12 mm Id 28 mm Od 7 mm Depth
-name_no_size: 16001 Size 12 mm Id 28 mm Od 7 mm Depth
-name_no_type: 16000 Series 16001 Size 12 mm Id 28 mm Od 7 mm Depth
+name: Hardware Bearing 16000 Series 16001 Size 12 mm ID 28 mm OD 7 mm Depth
+name_no_class: Bearing 16000 Series 16001 Size 12 mm ID 28 mm OD 7 mm Depth
+name_no_color: 12 mm ID 28 mm OD 7 mm Depth
+name_no_size: 16001 Size 12 mm ID 28 mm OD 7 mm Depth
+name_no_type: 16000 Series 16001 Size 12 mm ID 28 mm OD 7 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth
 oomp_word: squirrel water_buffalo candy
 oomp_word_emoji: ':squirrel: :water_buffalo: :candy:'

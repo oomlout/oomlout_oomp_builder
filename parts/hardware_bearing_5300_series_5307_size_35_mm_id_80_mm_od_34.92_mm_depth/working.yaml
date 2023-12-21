@@ -59,7 +59,7 @@ description_main_length_3: '35_'
 description_main_length_4: 35_m
 description_main_length_5: 35_mm
 description_main_length_6: 35_mm_
-description_main_name: 35 mm Id 80 mm Od 34.92 mm Depth
+description_main_name: 35 mm ID 80 mm OD 34.92 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: '35'
 description_main_no_space_length_3: 35m
@@ -96,11 +96,11 @@ md5_6: 4dca36
 md5_6_alpha: 319o6
 md5_6_alpha_upper: 319O6
 md5_6_upper: 4DCA36
-name: Hardware Bearing 5300 Series 5307 Size 35 mm Id 80 mm Od 34.92 mm Depth
-name_no_class: Bearing 5300 Series 5307 Size 35 mm Id 80 mm Od 34.92 mm Depth
-name_no_color: 35 mm Id 80 mm Od 34.92 mm Depth
-name_no_size: 5307 Size 35 mm Id 80 mm Od 34.92 mm Depth
-name_no_type: 5300 Series 5307 Size 35 mm Id 80 mm Od 34.92 mm Depth
+name: Hardware Bearing 5300 Series 5307 Size 35 mm ID 80 mm OD 34.92 mm Depth
+name_no_class: Bearing 5300 Series 5307 Size 35 mm ID 80 mm OD 34.92 mm Depth
+name_no_color: 35 mm ID 80 mm OD 34.92 mm Depth
+name_no_size: 5307 Size 35 mm ID 80 mm OD 34.92 mm Depth
+name_no_type: 5300 Series 5307 Size 35 mm ID 80 mm OD 34.92 mm Depth
 oomp_key: oomp_hardware_bearing_5300_series_5307_size_35_mm_id_80_mm_od_34.92_mm_depth
 oomp_word: bug cherries rabbit
 oomp_word_emoji: ':bug: :cherries: :rabbit:'

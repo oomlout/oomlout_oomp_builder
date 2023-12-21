@@ -1,4 +1,4 @@
-# Electronic Crimp Housing 2 54 Mm Black 17 Pin Dupont  
+# Electronic Crimp Housing 2 54 mm Black 17 Pin Dupont  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: chi1b17pd
+* short_code: 
 * oomp_word: alien eight car
 * oomp_word_emoji :alien: :eight: :car:
 * md5_6_alpha: i86j

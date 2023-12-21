@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o331
+* short_code: 
 * oomp_word: palm_tree poop strawberry
 * oomp_word_emoji :palm_tree: :poop: :strawberry:
 * md5_6_alpha: 450i5

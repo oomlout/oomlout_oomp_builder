@@ -1,4 +1,4 @@
-# Electronic Breakout Board Devkitc Mcu Espressif Esp32  
+# Electronic Breakout Board Devkitc MCU Espressif Esp32  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-Devkitc pinout version of espresif esp32 breakout.
+
 
 ### id
 * oomp_id: electronic_breakout_board_devkitc_mcu_espressif_esp32
@@ -20,7 +20,7 @@ Devkitc pinout version of espresif esp32 breakout.
   * part_number: 
 
 ### other_codes
-* short_code: bbdcmcue32
+* short_code: 
 * oomp_word: thumbsup rowboat scroll
 * oomp_word_emoji :thumbsup: :rowboat: :scroll:
 * md5_6_alpha: w5fx

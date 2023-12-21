@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X7 14 Pin Surface Mount  
+# Electronic Header 2 54 mm Dual Row 2X7 14 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi12x7psm
+* short_code: 
 * oomp_word: shoe angry dog
 * oomp_word_emoji :shoe: :angry: :dog:
 * md5_6_alpha: 6k183

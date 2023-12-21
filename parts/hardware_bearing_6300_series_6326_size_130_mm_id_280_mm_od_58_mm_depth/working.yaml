@@ -59,7 +59,7 @@ description_main_length_3: '130'
 description_main_length_4: '130_'
 description_main_length_5: 130_m
 description_main_length_6: 130_mm
-description_main_name: 130 mm Id 280 mm Od 58 mm Depth
+description_main_name: 130 mm ID 280 mm OD 58 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '13'
 description_main_no_space_length_3: '130'
@@ -96,11 +96,11 @@ md5_6: 57bdf5
 md5_6_alpha: 3f8xh
 md5_6_alpha_upper: 3F8XH
 md5_6_upper: 57BDF5
-name: Hardware Bearing 6300 Series 6326 Size 130 mm Id 280 mm Od 58 mm Depth
-name_no_class: Bearing 6300 Series 6326 Size 130 mm Id 280 mm Od 58 mm Depth
-name_no_color: 130 mm Id 280 mm Od 58 mm Depth
-name_no_size: 6326 Size 130 mm Id 280 mm Od 58 mm Depth
-name_no_type: 6300 Series 6326 Size 130 mm Id 280 mm Od 58 mm Depth
+name: Hardware Bearing 6300 Series 6326 Size 130 mm ID 280 mm OD 58 mm Depth
+name_no_class: Bearing 6300 Series 6326 Size 130 mm ID 280 mm OD 58 mm Depth
+name_no_color: 130 mm ID 280 mm OD 58 mm Depth
+name_no_size: 6326 Size 130 mm ID 280 mm OD 58 mm Depth
+name_no_type: 6300 Series 6326 Size 130 mm ID 280 mm OD 58 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6326_size_130_mm_id_280_mm_od_58_mm_depth
 oomp_word: rat rice four
 oomp_word_emoji: ':rat: :rice: :four:'

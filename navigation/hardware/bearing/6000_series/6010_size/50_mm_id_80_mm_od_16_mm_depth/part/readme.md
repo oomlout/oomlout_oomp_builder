@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth  
+# Hardware Bearing 6000 Series 6010 Size 50 mm Id 80 mm Od 16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

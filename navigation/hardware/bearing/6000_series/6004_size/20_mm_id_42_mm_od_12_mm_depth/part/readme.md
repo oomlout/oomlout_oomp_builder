@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6004 Size 20 Mm Id 42 Mm Od 12 Mm Depth  
+# Hardware Bearing 6000 Series 6004 Size 20 mm Id 42 mm Od 12 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

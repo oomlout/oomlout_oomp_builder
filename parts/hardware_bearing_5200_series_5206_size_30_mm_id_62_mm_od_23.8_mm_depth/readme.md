@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5206 Size 30 mm Id 62 mm Od 23.8 mm Depth  
+# Hardware Bearing 5200 Series 5206 Size 30 mm ID 62 mm OD 23.8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

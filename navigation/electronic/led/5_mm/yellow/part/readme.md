@@ -1,4 +1,4 @@
-# Electronic Led 5 Mm Yellow  
+# Electronic LED 5 mm Yellow  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l5y
+* short_code: 
 * oomp_word: santa pushpin apple
 * oomp_word_emoji :santa: :pushpin: :apple:
 * md5_6_alpha: 4mjt4

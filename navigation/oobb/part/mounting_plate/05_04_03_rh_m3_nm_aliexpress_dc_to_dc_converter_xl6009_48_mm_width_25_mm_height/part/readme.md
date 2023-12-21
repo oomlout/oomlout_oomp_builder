@@ -1,4 +1,4 @@
-# Oobb Part Mounting Plate 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25 Mm Height  
+# Oobb Part Mounting Plate 05 04 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

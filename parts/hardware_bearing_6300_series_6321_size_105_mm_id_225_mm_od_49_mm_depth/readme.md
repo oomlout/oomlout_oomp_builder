@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6321 Size 105 mm Id 225 mm Od 49 mm Depth  
+# Hardware Bearing 6300 Series 6321 Size 105 mm ID 225 mm OD 49 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

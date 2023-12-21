@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r4o332
+* short_code: 
 * oomp_word: up four monkey
 * oomp_word_emoji :up: :four: :monkey:
 * md5_6_alpha: 9vbjy

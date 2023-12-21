@@ -1,4 +1,4 @@
-# Hardware Screw Countersunk 4 Mm 6 Mm Pozidrive Head  
+# Hardware Screw Countersunk 4 mm 6 mm Pozidrive Head  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

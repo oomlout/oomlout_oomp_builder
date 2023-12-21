@@ -1,4 +1,4 @@
-# Electronic Header 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle  
+# Electronic Header 2 5 mm Jst Xh 7 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hjxh7pthra
+* short_code: 
 * oomp_word: stars baby_chick egg
 * oomp_word_emoji :stars: :baby_chick: :egg:
 * md5_6_alpha: 8mtof

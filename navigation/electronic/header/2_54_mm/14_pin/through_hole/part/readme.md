@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 14 Pin Through Hole  
+# Electronic Header 2 54 mm 14 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi114pth
+* short_code: 
 * oomp_word: poodle shell fish
 * oomp_word_emoji :poodle: :shell: :fish:
 * md5_6_alpha: 3rg43

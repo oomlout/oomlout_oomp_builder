@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5214 Size 70 Mm Id 125 Mm Od 39.6 Mm Depth  
+# Hardware Bearing 5200 Series 5214 Size 70 mm Id 125 mm Od 39.6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

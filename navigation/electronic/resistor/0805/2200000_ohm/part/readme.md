@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o225
+* short_code: 
 * oomp_word: rowboat candy new_moon
 * oomp_word_emoji :rowboat: :candy: :new_moon:
 * md5_6_alpha: 8vxwu

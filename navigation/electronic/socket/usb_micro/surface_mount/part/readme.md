@@ -1,4 +1,4 @@
-# Electronic Socket Usb Micro Surface Mount  
+# Electronic Socket USB Micro Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: scumcsm
+* short_code: 
 * oomp_word: lipstick rowboat tram
 * oomp_word_emoji :lipstick: :rowboat: :tram:
 * md5_6_alpha: 6o1k8

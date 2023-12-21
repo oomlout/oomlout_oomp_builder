@@ -59,7 +59,7 @@ description_main_length_3: '50_'
 description_main_length_4: 50_m
 description_main_length_5: 50_mm
 description_main_length_6: 50_mm_
-description_main_name: 50 mm Id 72 mm Od 12 mm Depth
+description_main_name: 50 mm ID 72 mm OD 12 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '50'
 description_main_no_space_length_3: 50m
@@ -96,11 +96,11 @@ md5_6: afbfa0
 md5_6_alpha: 6uv8g
 md5_6_alpha_upper: 6UV8G
 md5_6_upper: AFBFA0
-name: Hardware Bearing 6900 Series 6910 Size 50 mm Id 72 mm Od 12 mm Depth
-name_no_class: Bearing 6900 Series 6910 Size 50 mm Id 72 mm Od 12 mm Depth
-name_no_color: 50 mm Id 72 mm Od 12 mm Depth
-name_no_size: 6910 Size 50 mm Id 72 mm Od 12 mm Depth
-name_no_type: 6900 Series 6910 Size 50 mm Id 72 mm Od 12 mm Depth
+name: Hardware Bearing 6900 Series 6910 Size 50 mm ID 72 mm OD 12 mm Depth
+name_no_class: Bearing 6900 Series 6910 Size 50 mm ID 72 mm OD 12 mm Depth
+name_no_color: 50 mm ID 72 mm OD 12 mm Depth
+name_no_size: 6910 Size 50 mm ID 72 mm OD 12 mm Depth
+name_no_type: 6900 Series 6910 Size 50 mm ID 72 mm OD 12 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6910_size_50_mm_id_72_mm_od_12_mm_depth
 oomp_word: tophat egg ring
 oomp_word_emoji: ':tophat: :egg: :ring:'

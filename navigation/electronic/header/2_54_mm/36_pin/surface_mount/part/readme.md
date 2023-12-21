@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 36 Pin Surface Mount  
+# Electronic Header 2 54 mm 36 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi136psm
+* short_code: 
 * oomp_word: pushpin bank rocket
 * oomp_word_emoji :pushpin: :bank: :rocket:
 * md5_6_alpha: 5ovdx

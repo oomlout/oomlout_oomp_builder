@@ -59,7 +59,7 @@ description_main_length_3: '95_'
 description_main_length_4: 95_m
 description_main_length_5: 95_mm
 description_main_length_6: 95_mm_
-description_main_name: 95 mm Id 145 mm Od 16 mm Depth
+description_main_name: 95 mm ID 145 mm OD 16 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '95'
 description_main_no_space_length_3: 95m
@@ -96,11 +96,11 @@ md5_6: 30b378
 md5_6_alpha: 1wepk
 md5_6_alpha_upper: 1WEPK
 md5_6_upper: 30B378
-name: Hardware Bearing 16000 Series 16019 Size 95 mm Id 145 mm Od 16 mm Depth
-name_no_class: Bearing 16000 Series 16019 Size 95 mm Id 145 mm Od 16 mm Depth
-name_no_color: 95 mm Id 145 mm Od 16 mm Depth
-name_no_size: 16019 Size 95 mm Id 145 mm Od 16 mm Depth
-name_no_type: 16000 Series 16019 Size 95 mm Id 145 mm Od 16 mm Depth
+name: Hardware Bearing 16000 Series 16019 Size 95 mm ID 145 mm OD 16 mm Depth
+name_no_class: Bearing 16000 Series 16019 Size 95 mm ID 145 mm OD 16 mm Depth
+name_no_color: 95 mm ID 145 mm OD 16 mm Depth
+name_no_size: 16019 Size 95 mm ID 145 mm OD 16 mm Depth
+name_no_type: 16000 Series 16019 Size 95 mm ID 145 mm OD 16 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
 oomp_word: foggy eyeglasses bell
 oomp_word_emoji: ':foggy: :eyeglasses: :bell:'

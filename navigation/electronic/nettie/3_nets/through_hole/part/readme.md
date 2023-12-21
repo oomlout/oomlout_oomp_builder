@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: nt3th
+* short_code: 
 * oomp_word: egg trumpet trident
 * oomp_word_emoji :egg: :trumpet: :trident:
 * md5_6_alpha: 7h7gf

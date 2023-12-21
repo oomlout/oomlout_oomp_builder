@@ -1,4 +1,4 @@
-# Hardware Bearing F600 Series F624 Size 4 mm Id 13 mm Od 5 mm Depth  
+# Hardware Bearing F600 Series F624 Size 4 mm ID 13 mm OD 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

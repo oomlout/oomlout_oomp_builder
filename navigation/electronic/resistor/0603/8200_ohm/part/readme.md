@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r6o822
+* short_code: 
 * oomp_word: sandal lips fries
 * oomp_word_emoji :sandal: :lips: :fries:
 * md5_6_alpha: 6lku1

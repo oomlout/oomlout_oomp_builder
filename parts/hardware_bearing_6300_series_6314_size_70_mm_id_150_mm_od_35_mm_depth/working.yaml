@@ -59,7 +59,7 @@ description_main_length_3: '70_'
 description_main_length_4: 70_m
 description_main_length_5: 70_mm
 description_main_length_6: 70_mm_
-description_main_name: 70 mm Id 150 mm Od 35 mm Depth
+description_main_name: 70 mm ID 150 mm OD 35 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '70'
 description_main_no_space_length_3: 70m
@@ -96,11 +96,11 @@ md5_6: 2a508a
 md5_6_alpha: 1nfre
 md5_6_alpha_upper: 1NFRE
 md5_6_upper: 2A508A
-name: Hardware Bearing 6300 Series 6314 Size 70 mm Id 150 mm Od 35 mm Depth
-name_no_class: Bearing 6300 Series 6314 Size 70 mm Id 150 mm Od 35 mm Depth
-name_no_color: 70 mm Id 150 mm Od 35 mm Depth
-name_no_size: 6314 Size 70 mm Id 150 mm Od 35 mm Depth
-name_no_type: 6300 Series 6314 Size 70 mm Id 150 mm Od 35 mm Depth
+name: Hardware Bearing 6300 Series 6314 Size 70 mm ID 150 mm OD 35 mm Depth
+name_no_class: Bearing 6300 Series 6314 Size 70 mm ID 150 mm OD 35 mm Depth
+name_no_color: 70 mm ID 150 mm OD 35 mm Depth
+name_no_size: 6314 Size 70 mm ID 150 mm OD 35 mm Depth
+name_no_type: 6300 Series 6314 Size 70 mm ID 150 mm OD 35 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
 oomp_word: umbrella beetle envelope
 oomp_word_emoji: ':umbrella: :beetle: :envelope:'

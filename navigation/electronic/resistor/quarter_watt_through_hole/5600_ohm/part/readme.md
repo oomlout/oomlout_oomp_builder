@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro562
+* short_code: 
 * oomp_word: angel palm_tree bamboo
 * oomp_word_emoji :angel: :palm_tree: :bamboo:
 * md5_6_alpha: 16q29

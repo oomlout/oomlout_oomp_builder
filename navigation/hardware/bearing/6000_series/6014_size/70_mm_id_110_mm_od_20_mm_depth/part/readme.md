@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6014 Size 70 Mm Id 110 Mm Od 20 Mm Depth  
+# Hardware Bearing 6000 Series 6014 Size 70 mm Id 110 mm Od 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

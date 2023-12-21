@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16022 Size 110 Mm Id 170 Mm Od 19 Mm Depth  
+# Hardware Bearing 16000 Series 16022 Size 110 mm Id 170 mm Od 19 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

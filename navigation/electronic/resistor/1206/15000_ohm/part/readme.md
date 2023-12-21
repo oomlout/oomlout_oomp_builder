@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r12o153
+* short_code: 
 * oomp_word: tennis door new_moon
 * oomp_word_emoji :tennis: :door: :new_moon:
 * md5_6_alpha: 5y9v2

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o0
+* short_code: 
 * oomp_word: pineapple rat sleeping
 * oomp_word_emoji :pineapple: :rat: :sleeping:
 * md5_6_alpha: 87gg6

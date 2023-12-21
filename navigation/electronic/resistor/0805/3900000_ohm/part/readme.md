@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: r8o395
+* short_code: 
 * oomp_word: foggy ghost koala
 * oomp_word_emoji :foggy: :ghost: :koala:
 * md5_6_alpha: 1w2ey

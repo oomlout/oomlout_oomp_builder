@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X36 72 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 mm Dual Row 2X36 72 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi12x36psmra
+* short_code: 
 * oomp_word: beetle eight tram
 * oomp_word_emoji :beetle: :eight: :tram:
 * md5_6_alpha: 35qso

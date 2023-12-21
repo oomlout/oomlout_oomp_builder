@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6030 Size 150 Mm Id 225 Mm Od 35 Mm Depth  
+# Hardware Bearing 6000 Series 6030 Size 150 mm Id 225 mm Od 35 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

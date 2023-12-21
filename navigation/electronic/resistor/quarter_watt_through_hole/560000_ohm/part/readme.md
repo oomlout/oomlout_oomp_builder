@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ro564
+* short_code: 
 * oomp_word: watermelon headphones tea
 * oomp_word_emoji :watermelon: :headphones: :tea:
 * md5_6_alpha: 7zgl1

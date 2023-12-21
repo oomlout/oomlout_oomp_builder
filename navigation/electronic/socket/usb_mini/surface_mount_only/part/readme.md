@@ -1,4 +1,4 @@
-# Electronic Socket Usb Mini Surface Mount Only  
+# Electronic Socket USB Mini Surface Mount Only  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: scumnsmo
+* short_code: 
 * oomp_word: mouse candy bread
 * oomp_word_emoji :mouse: :candy: :bread:
 * md5_6_alpha: 224lc

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: nt4th
+* short_code: 
 * oomp_word: shirt octopus boot
 * oomp_word_emoji :shirt: :octopus: :boot:
 * md5_6_alpha: 6q20b

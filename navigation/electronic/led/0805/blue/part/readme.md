@@ -1,4 +1,4 @@
-# Electronic Led 0805 Blue  
+# Electronic LED 0805 Blue  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l8l
+* short_code: 
 * oomp_word: rooster poop pill
 * oomp_word_emoji :rooster: :poop: :pill:
 * md5_6_alpha: 3jxxo

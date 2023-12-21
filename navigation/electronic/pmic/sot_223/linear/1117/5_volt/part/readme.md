@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: pms2231117v5
+* short_code: 
 * oomp_word: one blossom ship
 * oomp_word_emoji :one: :blossom: :ship:
 * md5_6_alpha: 9gixs

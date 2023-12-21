@@ -1,4 +1,4 @@
-# Electronic Crimp Housing 2 54 Mm Black 15 Pin Dupont  
+# Electronic Crimp Housing 2 54 mm Black 15 Pin Dupont  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: chi1b15pd
+* short_code: 
 * oomp_word: rainbow scream snowman
 * oomp_word_emoji :rainbow: :scream: :snowman:
 * md5_6_alpha: 8nvot

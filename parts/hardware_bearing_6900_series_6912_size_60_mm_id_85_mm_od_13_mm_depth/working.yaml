@@ -59,7 +59,7 @@ description_main_length_3: '60_'
 description_main_length_4: 60_m
 description_main_length_5: 60_mm
 description_main_length_6: 60_mm_
-description_main_name: 60 mm Id 85 mm Od 13 mm Depth
+description_main_name: 60 mm ID 85 mm OD 13 mm Depth
 description_main_no_space_length_1: '6'
 description_main_no_space_length_2: '60'
 description_main_no_space_length_3: 60m
@@ -96,11 +96,11 @@ md5_6: 7a33ad
 md5_6_alpha: 4rnhp
 md5_6_alpha_upper: 4RNHP
 md5_6_upper: 7A33AD
-name: Hardware Bearing 6900 Series 6912 Size 60 mm Id 85 mm Od 13 mm Depth
-name_no_class: Bearing 6900 Series 6912 Size 60 mm Id 85 mm Od 13 mm Depth
-name_no_color: 60 mm Id 85 mm Od 13 mm Depth
-name_no_size: 6912 Size 60 mm Id 85 mm Od 13 mm Depth
-name_no_type: 6900 Series 6912 Size 60 mm Id 85 mm Od 13 mm Depth
+name: Hardware Bearing 6900 Series 6912 Size 60 mm ID 85 mm OD 13 mm Depth
+name_no_class: Bearing 6900 Series 6912 Size 60 mm ID 85 mm OD 13 mm Depth
+name_no_color: 60 mm ID 85 mm OD 13 mm Depth
+name_no_size: 6912 Size 60 mm ID 85 mm OD 13 mm Depth
+name_no_type: 6900 Series 6912 Size 60 mm ID 85 mm OD 13 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6912_size_60_mm_id_85_mm_od_13_mm_depth
 oomp_word: camera dog dress
 oomp_word_emoji: ':camera: :dog: :dress:'

@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5302 Size 15 Mm Id 42 Mm Od 19.05 Mm Depth  
+# Hardware Bearing 5300 Series 5302 Size 15 mm Id 42 mm Od 19.05 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

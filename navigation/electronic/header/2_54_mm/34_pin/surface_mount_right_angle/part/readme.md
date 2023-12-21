@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm 34 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 mm 34 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi134psmra
+* short_code: 
 * oomp_word: bell radio hamburger
 * oomp_word_emoji :bell: :radio: :hamburger:
 * md5_6_alpha: 4p9yw

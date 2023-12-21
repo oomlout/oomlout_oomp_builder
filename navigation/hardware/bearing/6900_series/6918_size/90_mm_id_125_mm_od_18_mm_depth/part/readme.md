@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6918 Size 90 Mm Id 125 Mm Od 18 Mm Depth  
+# Hardware Bearing 6900 Series 6918 Size 90 mm Id 125 mm Od 18 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

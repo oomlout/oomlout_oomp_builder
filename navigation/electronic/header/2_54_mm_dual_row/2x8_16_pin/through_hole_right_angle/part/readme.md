@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X8 16 Pin Through Hole Right Angle  
+# Electronic Header 2 54 mm Dual Row 2X8 16 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: hi12x8pthra
+* short_code: 
 * oomp_word: egg bouquet curry
 * oomp_word_emoji :egg: :bouquet: :curry:
 * md5_6_alpha: 7gtrv

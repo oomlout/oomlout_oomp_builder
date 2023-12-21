@@ -1,4 +1,4 @@
-# Electronic Led 1206 Yellow  
+# Electronic LED 1206 Yellow  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: l12y
+* short_code: 
 * oomp_word: hatched_chick tv lollipop
 * oomp_word_emoji :hatched_chick: :tv: :lollipop:
 * md5_6_alpha: 2ttja

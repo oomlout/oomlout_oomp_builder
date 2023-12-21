@@ -1,4 +1,4 @@
-# Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E  
+# Electronic IC Msop 10 Converter USB To Serial Converter Wch Ch340E  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: ch340e
 
 ### other_codes
-* short_code: imsp10ch340e
+* short_code: 
 * oomp_word: dolls cupid balloon
 * oomp_word_emoji :dolls: :cupid: :balloon:
 * md5_6_alpha: 4g7ll
