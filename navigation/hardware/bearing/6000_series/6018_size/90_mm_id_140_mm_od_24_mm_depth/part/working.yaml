@@ -59,7 +59,7 @@ description_main_length_3: '90_'
 description_main_length_4: 90_m
 description_main_length_5: 90_mm
 description_main_length_6: 90_mm_
-description_main_name: 90 mm Id 140 mm Od 24 mm Depth
+description_main_name: 90 mm ID 140 mm OD 24 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '90'
 description_main_no_space_length_3: 90m
@@ -96,11 +96,11 @@ md5_6: 707f1d
 md5_6_alpha: 4e0pp
 md5_6_alpha_upper: 4E0PP
 md5_6_upper: 707F1D
-name: Hardware Bearing 6000 Series 6018 Size 90 mm Id 140 mm Od 24 mm Depth
-name_no_class: Bearing 6000 Series 6018 Size 90 mm Id 140 mm Od 24 mm Depth
-name_no_color: 90 mm Id 140 mm Od 24 mm Depth
-name_no_size: 6018 Size 90 mm Id 140 mm Od 24 mm Depth
-name_no_type: 6000 Series 6018 Size 90 mm Id 140 mm Od 24 mm Depth
+name: Hardware Bearing 6000 Series 6018 Size 90 mm ID 140 mm OD 24 mm Depth
+name_no_class: Bearing 6000 Series 6018 Size 90 mm ID 140 mm OD 24 mm Depth
+name_no_color: 90 mm ID 140 mm OD 24 mm Depth
+name_no_size: 6018 Size 90 mm ID 140 mm OD 24 mm Depth
+name_no_type: 6000 Series 6018 Size 90 mm ID 140 mm OD 24 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6018_size_90_mm_id_140_mm_od_24_mm_depth
 oomp_word: squirrel speaker baby
 oomp_word_emoji: ':squirrel: :speaker: :baby:'

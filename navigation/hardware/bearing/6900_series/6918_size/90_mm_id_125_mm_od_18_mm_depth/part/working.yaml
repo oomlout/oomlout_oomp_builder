@@ -59,7 +59,7 @@ description_main_length_3: '90_'
 description_main_length_4: 90_m
 description_main_length_5: 90_mm
 description_main_length_6: 90_mm_
-description_main_name: 90 mm Id 125 mm Od 18 mm Depth
+description_main_name: 90 mm ID 125 mm OD 18 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '90'
 description_main_no_space_length_3: 90m
@@ -96,11 +96,11 @@ md5_6: 0c5d3a
 md5_6_alpha: hd8a
 md5_6_alpha_upper: HD8A
 md5_6_upper: 0C5D3A
-name: Hardware Bearing 6900 Series 6918 Size 90 mm Id 125 mm Od 18 mm Depth
-name_no_class: Bearing 6900 Series 6918 Size 90 mm Id 125 mm Od 18 mm Depth
-name_no_color: 90 mm Id 125 mm Od 18 mm Depth
-name_no_size: 6918 Size 90 mm Id 125 mm Od 18 mm Depth
-name_no_type: 6900 Series 6918 Size 90 mm Id 125 mm Od 18 mm Depth
+name: Hardware Bearing 6900 Series 6918 Size 90 mm ID 125 mm OD 18 mm Depth
+name_no_class: Bearing 6900 Series 6918 Size 90 mm ID 125 mm OD 18 mm Depth
+name_no_color: 90 mm ID 125 mm OD 18 mm Depth
+name_no_size: 6918 Size 90 mm ID 125 mm OD 18 mm Depth
+name_no_type: 6900 Series 6918 Size 90 mm ID 125 mm OD 18 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6918_size_90_mm_id_125_mm_od_18_mm_depth
 oomp_word: alien blowfish koala
 oomp_word_emoji: ':alien: :blowfish: :koala:'

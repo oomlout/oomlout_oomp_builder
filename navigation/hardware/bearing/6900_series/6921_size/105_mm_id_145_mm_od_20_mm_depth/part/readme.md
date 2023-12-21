@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6921 Size 105 mm Id 145 mm Od 20 mm Depth  
+# Hardware Bearing 6900 Series 6921 Size 105 mm ID 145 mm OD 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

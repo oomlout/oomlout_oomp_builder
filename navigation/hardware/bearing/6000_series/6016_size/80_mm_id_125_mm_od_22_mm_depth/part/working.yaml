@@ -59,7 +59,7 @@ description_main_length_3: '80_'
 description_main_length_4: 80_m
 description_main_length_5: 80_mm
 description_main_length_6: 80_mm_
-description_main_name: 80 mm Id 125 mm Od 22 mm Depth
+description_main_name: 80 mm ID 125 mm OD 22 mm Depth
 description_main_no_space_length_1: '8'
 description_main_no_space_length_2: '80'
 description_main_no_space_length_3: 80m
@@ -96,11 +96,11 @@ md5_6: d3e1a0
 md5_6_alpha: 89me8
 md5_6_alpha_upper: 89ME8
 md5_6_upper: D3E1A0
-name: Hardware Bearing 6000 Series 6016 Size 80 mm Id 125 mm Od 22 mm Depth
-name_no_class: Bearing 6000 Series 6016 Size 80 mm Id 125 mm Od 22 mm Depth
-name_no_color: 80 mm Id 125 mm Od 22 mm Depth
-name_no_size: 6016 Size 80 mm Id 125 mm Od 22 mm Depth
-name_no_type: 6000 Series 6016 Size 80 mm Id 125 mm Od 22 mm Depth
+name: Hardware Bearing 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth
+name_no_class: Bearing 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth
+name_no_color: 80 mm ID 125 mm OD 22 mm Depth
+name_no_size: 6016 Size 80 mm ID 125 mm OD 22 mm Depth
+name_no_type: 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth
 oomp_word: tomato boat ring
 oomp_word_emoji: ':tomato: :boat: :ring:'

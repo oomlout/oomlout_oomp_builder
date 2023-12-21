@@ -59,7 +59,7 @@ description_main_length_3: 5_m
 description_main_length_4: 5_mm
 description_main_length_5: 5_mm_
 description_main_length_6: 5_mm_i
-description_main_name: 5 mm Id 16 mm Od 5 mm Depth
+description_main_name: 5 mm ID 16 mm OD 5 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: 5m
 description_main_no_space_length_3: 5mm
@@ -96,11 +96,11 @@ md5_6: 4fa025
 md5_6_alpha: 33uhx
 md5_6_alpha_upper: 33UHX
 md5_6_upper: 4FA025
-name: Hardware Bearing 600 Series 625 Size 5 mm Id 16 mm Od 5 mm Depth
-name_no_class: Bearing 600 Series 625 Size 5 mm Id 16 mm Od 5 mm Depth
-name_no_color: 5 mm Id 16 mm Od 5 mm Depth
-name_no_size: 625 Size 5 mm Id 16 mm Od 5 mm Depth
-name_no_type: 600 Series 625 Size 5 mm Id 16 mm Od 5 mm Depth
+name: Hardware Bearing 600 Series 625 Size 5 mm ID 16 mm OD 5 mm Depth
+name_no_class: Bearing 600 Series 625 Size 5 mm ID 16 mm OD 5 mm Depth
+name_no_color: 5 mm ID 16 mm OD 5 mm Depth
+name_no_size: 625 Size 5 mm ID 16 mm OD 5 mm Depth
+name_no_type: 600 Series 625 Size 5 mm ID 16 mm OD 5 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_625_size_5_mm_id_16_mm_od_5_mm_depth
 oomp_word: ant ring ear
 oomp_word_emoji: ':ant: :ring: :ear:'

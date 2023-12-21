@@ -59,7 +59,7 @@ description_main_length_3: '2_5'
 description_main_length_4: '2_5_'
 description_main_length_5: 2_5_m
 description_main_length_6: 2_5_mm
-description_main_name: 2 5 mm Id 8 mm Od 3 mm Depth
+description_main_name: 2 5 mm ID 8 mm OD 3 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '25'
 description_main_no_space_length_3: 25m
@@ -96,11 +96,11 @@ md5_6: db3efb
 md5_6_alpha: 8jyt7
 md5_6_alpha_upper: 8JYT7
 md5_6_upper: DB3EFB
-name: Hardware Bearing Mr Series Mr82 Size 2 5 mm Id 8 mm Od 3 mm Depth
-name_no_class: Bearing Mr Series Mr82 Size 2 5 mm Id 8 mm Od 3 mm Depth
-name_no_color: 2 5 mm Id 8 mm Od 3 mm Depth
-name_no_size: Mr82 Size 2 5 mm Id 8 mm Od 3 mm Depth
-name_no_type: Mr Series Mr82 Size 2 5 mm Id 8 mm Od 3 mm Depth
+name: Hardware Bearing Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth
+name_no_class: Bearing Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth
+name_no_color: 2 5 mm ID 8 mm OD 3 mm Depth
+name_no_size: Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth
+name_no_type: Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth
 oomp_word: tent monkey ok
 oomp_word_emoji: ':tent: :monkey: :ok:'

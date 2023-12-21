@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6916 Size 80 mm Id 110 mm Od 16 mm Depth  
+# Hardware Bearing 6900 Series 6916 Size 80 mm ID 110 mm OD 16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

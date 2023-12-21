@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6012 Size 60 mm Id 95 mm Od 18 mm Depth  
+# Hardware Bearing 6000 Series 6012 Size 60 mm ID 95 mm OD 18 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

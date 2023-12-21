@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6815 Size 75 mm Id 95 mm Od 10 mm Depth  
+# Hardware Bearing 6800 Series 6815 Size 75 mm ID 95 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -1,4 +1,4 @@
-# Hardware Bearing 5300 Series 5311 Size 55 mm Id 120 mm Od 49.21 mm Depth  
+# Hardware Bearing 5300 Series 5311 Size 55 mm ID 120 mm OD 49.21 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

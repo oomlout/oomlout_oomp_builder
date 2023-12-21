@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 629 Size 9 mm Id 26 mm Od 8 mm Depth  
+# Hardware Bearing 600 Series 629 Size 9 mm ID 26 mm OD 8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

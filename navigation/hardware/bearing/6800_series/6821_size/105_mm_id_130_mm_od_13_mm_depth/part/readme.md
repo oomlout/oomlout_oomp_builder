@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6821 Size 105 mm Id 130 mm Od 13 mm Depth  
+# Hardware Bearing 6800 Series 6821 Size 105 mm ID 130 mm OD 13 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

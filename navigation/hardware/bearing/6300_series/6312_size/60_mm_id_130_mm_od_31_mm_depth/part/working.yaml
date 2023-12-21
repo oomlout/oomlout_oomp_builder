@@ -59,7 +59,7 @@ description_main_length_3: '60_'
 description_main_length_4: 60_m
 description_main_length_5: 60_mm
 description_main_length_6: 60_mm_
-description_main_name: 60 mm Id 130 mm Od 31 mm Depth
+description_main_name: 60 mm ID 130 mm OD 31 mm Depth
 description_main_no_space_length_1: '6'
 description_main_no_space_length_2: '60'
 description_main_no_space_length_3: 60m
@@ -96,11 +96,11 @@ md5_6: a0bb35
 md5_6_alpha: 69rud
 md5_6_alpha_upper: 69RUD
 md5_6_upper: A0BB35
-name: Hardware Bearing 6300 Series 6312 Size 60 mm Id 130 mm Od 31 mm Depth
-name_no_class: Bearing 6300 Series 6312 Size 60 mm Id 130 mm Od 31 mm Depth
-name_no_color: 60 mm Id 130 mm Od 31 mm Depth
-name_no_size: 6312 Size 60 mm Id 130 mm Od 31 mm Depth
-name_no_type: 6300 Series 6312 Size 60 mm Id 130 mm Od 31 mm Depth
+name: Hardware Bearing 6300 Series 6312 Size 60 mm ID 130 mm OD 31 mm Depth
+name_no_class: Bearing 6300 Series 6312 Size 60 mm ID 130 mm OD 31 mm Depth
+name_no_color: 60 mm ID 130 mm OD 31 mm Depth
+name_no_size: 6312 Size 60 mm ID 130 mm OD 31 mm Depth
+name_no_type: 6300 Series 6312 Size 60 mm ID 130 mm OD 31 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6312_size_60_mm_id_130_mm_od_31_mm_depth
 oomp_word: ring curry hamster
 oomp_word_emoji: ':ring: :curry: :hamster:'

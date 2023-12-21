@@ -59,7 +59,7 @@ description_main_length_3: 5_m
 description_main_length_4: 5_mm
 description_main_length_5: 5_mm_
 description_main_length_6: 5_mm_i
-description_main_name: 5 mm Id 14 mm Od 5 mm Depth
+description_main_name: 5 mm ID 14 mm OD 5 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: 5m
 description_main_no_space_length_3: 5mm
@@ -96,11 +96,11 @@ md5_6: e28083
 md5_6_alpha: 8u5qb
 md5_6_alpha_upper: 8U5QB
 md5_6_upper: E28083
-name: Hardware Bearing F600 Series F605 Size 5 mm Id 14 mm Od 5 mm Depth
-name_no_class: Bearing F600 Series F605 Size 5 mm Id 14 mm Od 5 mm Depth
-name_no_color: 5 mm Id 14 mm Od 5 mm Depth
-name_no_size: F605 Size 5 mm Id 14 mm Od 5 mm Depth
-name_no_type: F600 Series F605 Size 5 mm Id 14 mm Od 5 mm Depth
+name: Hardware Bearing F600 Series F605 Size 5 mm ID 14 mm OD 5 mm Depth
+name_no_class: Bearing F600 Series F605 Size 5 mm ID 14 mm OD 5 mm Depth
+name_no_color: 5 mm ID 14 mm OD 5 mm Depth
+name_no_size: F605 Size 5 mm ID 14 mm OD 5 mm Depth
+name_no_type: F600 Series F605 Size 5 mm ID 14 mm OD 5 mm Depth
 oomp_key: oomp_hardware_bearing_F600_series_F605_size_5_mm_id_14_mm_od_5_mm_depth
 oomp_word: sailboat hourglass lock
 oomp_word_emoji: ':sailboat: :hourglass: :lock:'

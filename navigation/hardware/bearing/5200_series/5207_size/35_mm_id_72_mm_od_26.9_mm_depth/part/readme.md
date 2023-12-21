@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5207 Size 35 mm Id 72 mm Od 26.9 mm Depth  
+# Hardware Bearing 5200 Series 5207 Size 35 mm ID 72 mm OD 26.9 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6022 Size 110 mm Id 170 mm Od 28 mm Depth  
+# Hardware Bearing 6000 Series 6022 Size 110 mm ID 170 mm OD 28 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

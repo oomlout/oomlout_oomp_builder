@@ -59,7 +59,7 @@ description_main_length_3: '15_'
 description_main_length_4: 15_m
 description_main_length_5: 15_mm
 description_main_length_6: 15_mm_
-description_main_name: 15 mm Id 24 mm Od 5 mm Depth
+description_main_name: 15 mm ID 24 mm OD 5 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '15'
 description_main_no_space_length_3: 15m
@@ -96,11 +96,11 @@ md5_6: '101845'
 md5_6_alpha: mlvp
 md5_6_alpha_upper: MLVP
 md5_6_upper: '101845'
-name: Hardware Bearing 6800 Series 6802 Size 15 mm Id 24 mm Od 5 mm Depth
-name_no_class: Bearing 6800 Series 6802 Size 15 mm Id 24 mm Od 5 mm Depth
-name_no_color: 15 mm Id 24 mm Od 5 mm Depth
-name_no_size: 6802 Size 15 mm Id 24 mm Od 5 mm Depth
-name_no_type: 6800 Series 6802 Size 15 mm Id 24 mm Od 5 mm Depth
+name: Hardware Bearing 6800 Series 6802 Size 15 mm ID 24 mm OD 5 mm Depth
+name_no_class: Bearing 6800 Series 6802 Size 15 mm ID 24 mm OD 5 mm Depth
+name_no_color: 15 mm ID 24 mm OD 5 mm Depth
+name_no_size: 6802 Size 15 mm ID 24 mm OD 5 mm Depth
+name_no_type: 6800 Series 6802 Size 15 mm ID 24 mm OD 5 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6802_size_15_mm_id_24_mm_od_5_mm_depth
 oomp_word: star hand snake
 oomp_word_emoji: ':star: :hand: :snake:'

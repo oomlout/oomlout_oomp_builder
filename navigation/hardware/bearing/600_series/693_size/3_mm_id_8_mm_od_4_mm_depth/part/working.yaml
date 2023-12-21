@@ -59,7 +59,7 @@ description_main_length_3: 3_m
 description_main_length_4: 3_mm
 description_main_length_5: 3_mm_
 description_main_length_6: 3_mm_i
-description_main_name: 3 mm Id 8 mm Od 4 mm Depth
+description_main_name: 3 mm ID 8 mm OD 4 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: 3m
 description_main_no_space_length_3: 3mm
@@ -96,11 +96,11 @@ md5_6: e185d8
 md5_6_alpha: 8ss7s
 md5_6_alpha_upper: 8SS7S
 md5_6_upper: E185D8
-name: Hardware Bearing 600 Series 693 Size 3 mm Id 8 mm Od 4 mm Depth
-name_no_class: Bearing 600 Series 693 Size 3 mm Id 8 mm Od 4 mm Depth
-name_no_color: 3 mm Id 8 mm Od 4 mm Depth
-name_no_size: 693 Size 3 mm Id 8 mm Od 4 mm Depth
-name_no_type: 600 Series 693 Size 3 mm Id 8 mm Od 4 mm Depth
+name: Hardware Bearing 600 Series 693 Size 3 mm ID 8 mm OD 4 mm Depth
+name_no_class: Bearing 600 Series 693 Size 3 mm ID 8 mm OD 4 mm Depth
+name_no_color: 3 mm ID 8 mm OD 4 mm Depth
+name_no_size: 693 Size 3 mm ID 8 mm OD 4 mm Depth
+name_no_type: 600 Series 693 Size 3 mm ID 8 mm OD 4 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_693_size_3_mm_id_8_mm_od_4_mm_depth
 oomp_word: boat bulb hospital
 oomp_word_emoji: ':boat: :bulb: :hospital:'

@@ -59,7 +59,7 @@ description_main_length_3: 5_m
 description_main_length_4: 5_mm
 description_main_length_5: 5_mm_
 description_main_length_6: 5_mm_i
-description_main_name: 5 mm Id 13 mm Od 4 mm Depth
+description_main_name: 5 mm ID 13 mm OD 4 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: 5m
 description_main_no_space_length_3: 5mm
@@ -96,11 +96,11 @@ md5_6: 31fa06
 md5_6_alpha: 1y77q
 md5_6_alpha_upper: 1Y77Q
 md5_6_upper: 31FA06
-name: Hardware Bearing 600 Series 695 Size 5 mm Id 13 mm Od 4 mm Depth
-name_no_class: Bearing 600 Series 695 Size 5 mm Id 13 mm Od 4 mm Depth
-name_no_color: 5 mm Id 13 mm Od 4 mm Depth
-name_no_size: 695 Size 5 mm Id 13 mm Od 4 mm Depth
-name_no_type: 600 Series 695 Size 5 mm Id 13 mm Od 4 mm Depth
+name: Hardware Bearing 600 Series 695 Size 5 mm ID 13 mm OD 4 mm Depth
+name_no_class: Bearing 600 Series 695 Size 5 mm ID 13 mm OD 4 mm Depth
+name_no_color: 5 mm ID 13 mm OD 4 mm Depth
+name_no_size: 695 Size 5 mm ID 13 mm OD 4 mm Depth
+name_no_type: 600 Series 695 Size 5 mm ID 13 mm OD 4 mm Depth
 oomp_key: oomp_hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
 oomp_word: ocean nine sleeping
 oomp_word_emoji: ':ocean: :nine: :sleeping:'

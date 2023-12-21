@@ -59,7 +59,7 @@ description_main_length_3: '100'
 description_main_length_4: '100_'
 description_main_length_5: 100_m
 description_main_length_6: 100_mm
-description_main_name: 100 mm Id 125 mm Od 13 mm Depth
+description_main_name: 100 mm ID 125 mm OD 13 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '100'
@@ -96,11 +96,11 @@ md5_6: 7f2159
 md5_6_alpha: 4ykpl
 md5_6_alpha_upper: 4YKPL
 md5_6_upper: 7F2159
-name: Hardware Bearing 6800 Series 6820 Size 100 mm Id 125 mm Od 13 mm Depth
-name_no_class: Bearing 6800 Series 6820 Size 100 mm Id 125 mm Od 13 mm Depth
-name_no_color: 100 mm Id 125 mm Od 13 mm Depth
-name_no_size: 6820 Size 100 mm Id 125 mm Od 13 mm Depth
-name_no_type: 6800 Series 6820 Size 100 mm Id 125 mm Od 13 mm Depth
+name: Hardware Bearing 6800 Series 6820 Size 100 mm ID 125 mm OD 13 mm Depth
+name_no_class: Bearing 6800 Series 6820 Size 100 mm ID 125 mm OD 13 mm Depth
+name_no_color: 100 mm ID 125 mm OD 13 mm Depth
+name_no_size: 6820 Size 100 mm ID 125 mm OD 13 mm Depth
+name_no_type: 6800 Series 6820 Size 100 mm ID 125 mm OD 13 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
 oomp_word: speaker feet dragon
 oomp_word_emoji: ':speaker: :feet: :dragon:'

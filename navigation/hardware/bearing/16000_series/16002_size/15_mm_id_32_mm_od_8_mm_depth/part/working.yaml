@@ -59,7 +59,7 @@ description_main_length_3: '15_'
 description_main_length_4: 15_m
 description_main_length_5: 15_mm
 description_main_length_6: 15_mm_
-description_main_name: 15 mm Id 32 mm Od 8 mm Depth
+description_main_name: 15 mm ID 32 mm OD 8 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '15'
 description_main_no_space_length_3: 15m
@@ -96,11 +96,11 @@ md5_6: 3c8766
 md5_6_alpha: 2d0ti
 md5_6_alpha_upper: 2D0TI
 md5_6_upper: 3C8766
-name: Hardware Bearing 16000 Series 16002 Size 15 mm Id 32 mm Od 8 mm Depth
-name_no_class: Bearing 16000 Series 16002 Size 15 mm Id 32 mm Od 8 mm Depth
-name_no_color: 15 mm Id 32 mm Od 8 mm Depth
-name_no_size: 16002 Size 15 mm Id 32 mm Od 8 mm Depth
-name_no_type: 16000 Series 16002 Size 15 mm Id 32 mm Od 8 mm Depth
+name: Hardware Bearing 16000 Series 16002 Size 15 mm ID 32 mm OD 8 mm Depth
+name_no_class: Bearing 16000 Series 16002 Size 15 mm ID 32 mm OD 8 mm Depth
+name_no_color: 15 mm ID 32 mm OD 8 mm Depth
+name_no_size: 16002 Size 15 mm ID 32 mm OD 8 mm Depth
+name_no_type: 16000 Series 16002 Size 15 mm ID 32 mm OD 8 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth
 oomp_word: pig toilet leaves
 oomp_word_emoji: ':pig: :toilet: :leaves:'

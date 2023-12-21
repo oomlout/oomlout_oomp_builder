@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6007 Size 35 mm Id 62 mm Od 14 mm Depth  
+# Hardware Bearing 6000 Series 6007 Size 35 mm ID 62 mm OD 14 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

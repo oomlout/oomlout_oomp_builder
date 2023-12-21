@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6816 Size 80 mm Id 100 mm Od 10 mm Depth  
+# Hardware Bearing 6800 Series 6816 Size 80 mm ID 100 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

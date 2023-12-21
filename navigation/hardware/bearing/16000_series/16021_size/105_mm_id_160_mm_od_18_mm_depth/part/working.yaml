@@ -59,7 +59,7 @@ description_main_length_3: '105'
 description_main_length_4: '105_'
 description_main_length_5: 105_m
 description_main_length_6: 105_mm
-description_main_name: 105 mm Id 160 mm Od 18 mm Depth
+description_main_name: 105 mm ID 160 mm OD 18 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '105'
@@ -96,11 +96,11 @@ md5_6: bdf215
 md5_6_alpha: 7et5h
 md5_6_alpha_upper: 7ET5H
 md5_6_upper: BDF215
-name: Hardware Bearing 16000 Series 16021 Size 105 mm Id 160 mm Od 18 mm Depth
-name_no_class: Bearing 16000 Series 16021 Size 105 mm Id 160 mm Od 18 mm Depth
-name_no_color: 105 mm Id 160 mm Od 18 mm Depth
-name_no_size: 16021 Size 105 mm Id 160 mm Od 18 mm Depth
-name_no_type: 16000 Series 16021 Size 105 mm Id 160 mm Od 18 mm Depth
+name: Hardware Bearing 16000 Series 16021 Size 105 mm ID 160 mm OD 18 mm Depth
+name_no_class: Bearing 16000 Series 16021 Size 105 mm ID 160 mm OD 18 mm Depth
+name_no_color: 105 mm ID 160 mm OD 18 mm Depth
+name_no_size: 16021 Size 105 mm ID 160 mm OD 18 mm Depth
+name_no_type: 16000 Series 16021 Size 105 mm ID 160 mm OD 18 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
 oomp_word: rice one poop
 oomp_word_emoji: ':rice: :one: :poop:'

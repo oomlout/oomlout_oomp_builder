@@ -59,7 +59,7 @@ description_main_length_3: '110'
 description_main_length_4: '110_'
 description_main_length_5: 110_m
 description_main_length_6: 110_mm
-description_main_name: 110 mm Id 150 mm Od 20 mm Depth
+description_main_name: 110 mm ID 150 mm OD 20 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '11'
 description_main_no_space_length_3: '110'
@@ -96,11 +96,11 @@ md5_6: 75abaa
 md5_6_alpha: 4lacq
 md5_6_alpha_upper: 4LACQ
 md5_6_upper: 75ABAA
-name: Hardware Bearing 6900 Series 6922 Size 110 mm Id 150 mm Od 20 mm Depth
-name_no_class: Bearing 6900 Series 6922 Size 110 mm Id 150 mm Od 20 mm Depth
-name_no_color: 110 mm Id 150 mm Od 20 mm Depth
-name_no_size: 6922 Size 110 mm Id 150 mm Od 20 mm Depth
-name_no_type: 6900 Series 6922 Size 110 mm Id 150 mm Od 20 mm Depth
+name: Hardware Bearing 6900 Series 6922 Size 110 mm ID 150 mm OD 20 mm Depth
+name_no_class: Bearing 6900 Series 6922 Size 110 mm ID 150 mm OD 20 mm Depth
+name_no_color: 110 mm ID 150 mm OD 20 mm Depth
+name_no_size: 6922 Size 110 mm ID 150 mm OD 20 mm Depth
+name_no_type: 6900 Series 6922 Size 110 mm ID 150 mm OD 20 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
 oomp_word: ghost boot lipstick
 oomp_word_emoji: ':ghost: :boot: :lipstick:'

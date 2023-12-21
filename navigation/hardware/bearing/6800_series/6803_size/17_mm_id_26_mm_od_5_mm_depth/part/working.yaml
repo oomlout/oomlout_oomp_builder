@@ -59,7 +59,7 @@ description_main_length_3: '17_'
 description_main_length_4: 17_m
 description_main_length_5: 17_mm
 description_main_length_6: 17_mm_
-description_main_name: 17 mm Id 26 mm Od 5 mm Depth
+description_main_name: 17 mm ID 26 mm OD 5 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '17'
 description_main_no_space_length_3: 17m
@@ -96,11 +96,11 @@ md5_6: 0a18ef
 md5_6_alpha: e6lr
 md5_6_alpha_upper: E6LR
 md5_6_upper: 0A18EF
-name: Hardware Bearing 6800 Series 6803 Size 17 mm Id 26 mm Od 5 mm Depth
-name_no_class: Bearing 6800 Series 6803 Size 17 mm Id 26 mm Od 5 mm Depth
-name_no_color: 17 mm Id 26 mm Od 5 mm Depth
-name_no_size: 6803 Size 17 mm Id 26 mm Od 5 mm Depth
-name_no_type: 6800 Series 6803 Size 17 mm Id 26 mm Od 5 mm Depth
+name: Hardware Bearing 6800 Series 6803 Size 17 mm ID 26 mm OD 5 mm Depth
+name_no_class: Bearing 6800 Series 6803 Size 17 mm ID 26 mm OD 5 mm Depth
+name_no_color: 17 mm ID 26 mm OD 5 mm Depth
+name_no_size: 6803 Size 17 mm ID 26 mm OD 5 mm Depth
+name_no_type: 6800 Series 6803 Size 17 mm ID 26 mm OD 5 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6803_size_17_mm_id_26_mm_od_5_mm_depth
 oomp_word: sleepy hand truck
 oomp_word_emoji: ':sleepy: :hand: :truck:'

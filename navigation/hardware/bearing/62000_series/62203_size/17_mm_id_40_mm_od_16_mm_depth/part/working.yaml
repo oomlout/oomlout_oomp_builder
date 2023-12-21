@@ -59,7 +59,7 @@ description_main_length_3: '17_'
 description_main_length_4: 17_m
 description_main_length_5: 17_mm
 description_main_length_6: 17_mm_
-description_main_name: 17 mm Id 40 mm Od 16 mm Depth
+description_main_name: 17 mm ID 40 mm OD 16 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '17'
 description_main_no_space_length_3: 17m
@@ -96,11 +96,11 @@ md5_6: e14e08
 md5_6_alpha: 8sh6w
 md5_6_alpha_upper: 8SH6W
 md5_6_upper: E14E08
-name: Hardware Bearing 62000 Series 62203 Size 17 mm Id 40 mm Od 16 mm Depth
-name_no_class: Bearing 62000 Series 62203 Size 17 mm Id 40 mm Od 16 mm Depth
-name_no_color: 17 mm Id 40 mm Od 16 mm Depth
-name_no_size: 62203 Size 17 mm Id 40 mm Od 16 mm Depth
-name_no_type: 62000 Series 62203 Size 17 mm Id 40 mm Od 16 mm Depth
+name: Hardware Bearing 62000 Series 62203 Size 17 mm ID 40 mm OD 16 mm Depth
+name_no_class: Bearing 62000 Series 62203 Size 17 mm ID 40 mm OD 16 mm Depth
+name_no_color: 17 mm ID 40 mm OD 16 mm Depth
+name_no_size: 62203 Size 17 mm ID 40 mm OD 16 mm Depth
+name_no_type: 62000 Series 62203 Size 17 mm ID 40 mm OD 16 mm Depth
 oomp_key: oomp_hardware_bearing_62000_series_62203_size_17_mm_id_40_mm_od_16_mm_depth
 oomp_word: boat honeybee scream
 oomp_word_emoji: ':boat: :honeybee: :scream:'

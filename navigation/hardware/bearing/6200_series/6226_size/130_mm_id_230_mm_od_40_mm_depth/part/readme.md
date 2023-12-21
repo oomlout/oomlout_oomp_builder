@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6226 Size 130 mm Id 230 mm Od 40 mm Depth  
+# Hardware Bearing 6200 Series 6226 Size 130 mm ID 230 mm OD 40 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

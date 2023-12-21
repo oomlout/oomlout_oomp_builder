@@ -59,7 +59,7 @@ description_main_length_3: '100'
 description_main_length_4: '100_'
 description_main_length_5: 100_m
 description_main_length_6: 100_mm
-description_main_name: 100 mm Id 215 mm Od 47 mm Depth
+description_main_name: 100 mm ID 215 mm OD 47 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '100'
@@ -96,11 +96,11 @@ md5_6: 912ba5
 md5_6_alpha: 5nwyt
 md5_6_alpha_upper: 5NWYT
 md5_6_upper: 912BA5
-name: Hardware Bearing 6300 Series 6320 Size 100 mm Id 215 mm Od 47 mm Depth
-name_no_class: Bearing 6300 Series 6320 Size 100 mm Id 215 mm Od 47 mm Depth
-name_no_color: 100 mm Id 215 mm Od 47 mm Depth
-name_no_size: 6320 Size 100 mm Id 215 mm Od 47 mm Depth
-name_no_type: 6300 Series 6320 Size 100 mm Id 215 mm Od 47 mm Depth
+name: Hardware Bearing 6300 Series 6320 Size 100 mm ID 215 mm OD 47 mm Depth
+name_no_class: Bearing 6300 Series 6320 Size 100 mm ID 215 mm OD 47 mm Depth
+name_no_color: 100 mm ID 215 mm OD 47 mm Depth
+name_no_size: 6320 Size 100 mm ID 215 mm OD 47 mm Depth
+name_no_type: 6300 Series 6320 Size 100 mm ID 215 mm OD 47 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6320_size_100_mm_id_215_mm_od_47_mm_depth
 oomp_word: pushpin cloud headphones
 oomp_word_emoji: ':pushpin: :cloud: :headphones:'

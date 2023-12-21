@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6228 Size 140 mm Id 250 mm Od 42 mm Depth  
+# Hardware Bearing 6200 Series 6228 Size 140 mm ID 250 mm OD 42 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

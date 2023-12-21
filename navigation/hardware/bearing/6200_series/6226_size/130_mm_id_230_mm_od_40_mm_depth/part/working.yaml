@@ -59,7 +59,7 @@ description_main_length_3: '130'
 description_main_length_4: '130_'
 description_main_length_5: 130_m
 description_main_length_6: 130_mm
-description_main_name: 130 mm Id 230 mm Od 40 mm Depth
+description_main_name: 130 mm ID 230 mm OD 40 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '13'
 description_main_no_space_length_3: '130'
@@ -96,11 +96,11 @@ md5_6: 52ba92
 md5_6_alpha: 387f6
 md5_6_alpha_upper: 387F6
 md5_6_upper: 52BA92
-name: Hardware Bearing 6200 Series 6226 Size 130 mm Id 230 mm Od 40 mm Depth
-name_no_class: Bearing 6200 Series 6226 Size 130 mm Id 230 mm Od 40 mm Depth
-name_no_color: 130 mm Id 230 mm Od 40 mm Depth
-name_no_size: 6226 Size 130 mm Id 230 mm Od 40 mm Depth
-name_no_type: 6200 Series 6226 Size 130 mm Id 230 mm Od 40 mm Depth
+name: Hardware Bearing 6200 Series 6226 Size 130 mm ID 230 mm OD 40 mm Depth
+name_no_class: Bearing 6200 Series 6226 Size 130 mm ID 230 mm OD 40 mm Depth
+name_no_color: 130 mm ID 230 mm OD 40 mm Depth
+name_no_size: 6226 Size 130 mm ID 230 mm OD 40 mm Depth
+name_no_type: 6200 Series 6226 Size 130 mm ID 230 mm OD 40 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6226_size_130_mm_id_230_mm_od_40_mm_depth
 oomp_word: octopus spaghetti paperclip
 oomp_word_emoji: ':octopus: :spaghetti: :paperclip:'

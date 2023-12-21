@@ -59,7 +59,7 @@ description_main_length_3: '55_'
 description_main_length_4: 55_m
 description_main_length_5: 55_mm
 description_main_length_6: 55_mm_
-description_main_name: 55 mm Id 90 mm Od 11 mm Depth
+description_main_name: 55 mm ID 90 mm OD 11 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '55'
 description_main_no_space_length_3: 55m
@@ -96,11 +96,11 @@ md5_6: 2693db
 md5_6_alpha: 1i6sb
 md5_6_alpha_upper: 1I6SB
 md5_6_upper: 2693DB
-name: Hardware Bearing 16000 Series 16011 Size 55 mm Id 90 mm Od 11 mm Depth
-name_no_class: Bearing 16000 Series 16011 Size 55 mm Id 90 mm Od 11 mm Depth
-name_no_color: 55 mm Id 90 mm Od 11 mm Depth
-name_no_size: 16011 Size 55 mm Id 90 mm Od 11 mm Depth
-name_no_type: 16000 Series 16011 Size 55 mm Id 90 mm Od 11 mm Depth
+name: Hardware Bearing 16000 Series 16011 Size 55 mm ID 90 mm OD 11 mm Depth
+name_no_class: Bearing 16000 Series 16011 Size 55 mm ID 90 mm OD 11 mm Depth
+name_no_color: 55 mm ID 90 mm OD 11 mm Depth
+name_no_size: 16011 Size 55 mm ID 90 mm OD 11 mm Depth
+name_no_type: 16000 Series 16011 Size 55 mm ID 90 mm OD 11 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16011_size_55_mm_id_90_mm_od_11_mm_depth
 oomp_word: eyes books tent
 oomp_word_emoji: ':eyes: :books: :tent:'

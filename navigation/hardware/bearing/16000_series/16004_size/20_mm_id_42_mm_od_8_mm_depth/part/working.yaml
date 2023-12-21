@@ -59,7 +59,7 @@ description_main_length_3: '20_'
 description_main_length_4: 20_m
 description_main_length_5: 20_mm
 description_main_length_6: 20_mm_
-description_main_name: 20 mm Id 42 mm Od 8 mm Depth
+description_main_name: 20 mm ID 42 mm OD 8 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '20'
 description_main_no_space_length_3: 20m
@@ -96,11 +96,11 @@ md5_6: 768af7
 md5_6_alpha: 4mign
 md5_6_alpha_upper: 4MIGN
 md5_6_upper: 768AF7
-name: Hardware Bearing 16000 Series 16004 Size 20 mm Id 42 mm Od 8 mm Depth
-name_no_class: Bearing 16000 Series 16004 Size 20 mm Id 42 mm Od 8 mm Depth
-name_no_color: 20 mm Id 42 mm Od 8 mm Depth
-name_no_size: 16004 Size 20 mm Id 42 mm Od 8 mm Depth
-name_no_type: 16000 Series 16004 Size 20 mm Id 42 mm Od 8 mm Depth
+name: Hardware Bearing 16000 Series 16004 Size 20 mm ID 42 mm OD 8 mm Depth
+name_no_class: Bearing 16000 Series 16004 Size 20 mm ID 42 mm OD 8 mm Depth
+name_no_color: 20 mm ID 42 mm OD 8 mm Depth
+name_no_size: 16004 Size 20 mm ID 42 mm OD 8 mm Depth
+name_no_type: 16000 Series 16004 Size 20 mm ID 42 mm OD 8 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16004_size_20_mm_id_42_mm_od_8_mm_depth
 oomp_word: santa envelope six
 oomp_word_emoji: ':santa: :envelope: :six:'

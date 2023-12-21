@@ -59,7 +59,7 @@ description_main_length_3: '25_'
 description_main_length_4: 25_m
 description_main_length_5: 25_mm
 description_main_length_6: 25_mm_
-description_main_name: 25 mm Id 42 mm Od 9 mm Depth
+description_main_name: 25 mm ID 42 mm OD 9 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '25'
 description_main_no_space_length_3: 25m
@@ -96,11 +96,11 @@ md5_6: b83a15
 md5_6_alpha: 76ryt
 md5_6_alpha_upper: 76RYT
 md5_6_upper: B83A15
-name: Hardware Bearing 6900 Series 6905 Size 25 mm Id 42 mm Od 9 mm Depth
-name_no_class: Bearing 6900 Series 6905 Size 25 mm Id 42 mm Od 9 mm Depth
-name_no_color: 25 mm Id 42 mm Od 9 mm Depth
-name_no_size: 6905 Size 25 mm Id 42 mm Od 9 mm Depth
-name_no_type: 6900 Series 6905 Size 25 mm Id 42 mm Od 9 mm Depth
+name: Hardware Bearing 6900 Series 6905 Size 25 mm ID 42 mm OD 9 mm Depth
+name_no_class: Bearing 6900 Series 6905 Size 25 mm ID 42 mm OD 9 mm Depth
+name_no_color: 25 mm ID 42 mm OD 9 mm Depth
+name_no_size: 6905 Size 25 mm ID 42 mm OD 9 mm Depth
+name_no_type: 6900 Series 6905 Size 25 mm ID 42 mm OD 9 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6905_size_25_mm_id_42_mm_od_9_mm_depth
 oomp_word: hamburger koala poop
 oomp_word_emoji: ':hamburger: :koala: :poop:'

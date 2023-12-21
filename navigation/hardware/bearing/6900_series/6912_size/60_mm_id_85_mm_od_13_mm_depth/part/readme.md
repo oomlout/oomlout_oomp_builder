@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6912 Size 60 mm Id 85 mm Od 13 mm Depth  
+# Hardware Bearing 6900 Series 6912 Size 60 mm ID 85 mm OD 13 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

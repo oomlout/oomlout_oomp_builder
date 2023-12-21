@@ -59,7 +59,7 @@ description_main_length_3: '65_'
 description_main_length_4: 65_m
 description_main_length_5: 65_mm
 description_main_length_6: 65_mm_
-description_main_name: 65 mm Id 90 mm Od 13 mm Depth
+description_main_name: 65 mm ID 90 mm OD 13 mm Depth
 description_main_no_space_length_1: '6'
 description_main_no_space_length_2: '65'
 description_main_no_space_length_3: 65m
@@ -96,11 +96,11 @@ md5_6: 78928b
 md5_6_alpha: 4pd3f
 md5_6_alpha_upper: 4PD3F
 md5_6_upper: 78928B
-name: Hardware Bearing 6900 Series 6913 Size 65 mm Id 90 mm Od 13 mm Depth
-name_no_class: Bearing 6900 Series 6913 Size 65 mm Id 90 mm Od 13 mm Depth
-name_no_color: 65 mm Id 90 mm Od 13 mm Depth
-name_no_size: 6913 Size 65 mm Id 90 mm Od 13 mm Depth
-name_no_type: 6900 Series 6913 Size 65 mm Id 90 mm Od 13 mm Depth
+name: Hardware Bearing 6900 Series 6913 Size 65 mm ID 90 mm OD 13 mm Depth
+name_no_class: Bearing 6900 Series 6913 Size 65 mm ID 90 mm OD 13 mm Depth
+name_no_color: 65 mm ID 90 mm OD 13 mm Depth
+name_no_size: 6913 Size 65 mm ID 90 mm OD 13 mm Depth
+name_no_type: 6900 Series 6913 Size 65 mm ID 90 mm OD 13 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6913_size_65_mm_id_90_mm_od_13_mm_depth
 oomp_word: bell paperclip door
 oomp_word_emoji: ':bell: :paperclip: :door:'

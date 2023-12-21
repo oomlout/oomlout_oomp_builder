@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6002 Size 15 mm Id 32 mm Od 9 mm Depth  
+# Hardware Bearing 6000 Series 6002 Size 15 mm ID 32 mm OD 9 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

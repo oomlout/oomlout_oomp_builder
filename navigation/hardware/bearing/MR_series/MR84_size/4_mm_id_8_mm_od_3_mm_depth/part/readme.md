@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr84 Size 4 mm Id 8 mm Od 3 mm Depth  
+# Hardware Bearing Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

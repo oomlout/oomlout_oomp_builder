@@ -59,7 +59,7 @@ description_main_length_3: '95_'
 description_main_length_4: 95_m
 description_main_length_5: 95_mm
 description_main_length_6: 95_mm_
-description_main_name: 95 mm Id 145 mm Od 24 mm Depth
+description_main_name: 95 mm ID 145 mm OD 24 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '95'
 description_main_no_space_length_3: 95m
@@ -96,11 +96,11 @@ md5_6: b83c43
 md5_6_alpha: 76seb
 md5_6_alpha_upper: 76SEB
 md5_6_upper: B83C43
-name: Hardware Bearing 6000 Series 6019 Size 95 mm Id 145 mm Od 24 mm Depth
-name_no_class: Bearing 6000 Series 6019 Size 95 mm Id 145 mm Od 24 mm Depth
-name_no_color: 95 mm Id 145 mm Od 24 mm Depth
-name_no_size: 6019 Size 95 mm Id 145 mm Od 24 mm Depth
-name_no_type: 6000 Series 6019 Size 95 mm Id 145 mm Od 24 mm Depth
+name: Hardware Bearing 6000 Series 6019 Size 95 mm ID 145 mm OD 24 mm Depth
+name_no_class: Bearing 6000 Series 6019 Size 95 mm ID 145 mm OD 24 mm Depth
+name_no_color: 95 mm ID 145 mm OD 24 mm Depth
+name_no_size: 6019 Size 95 mm ID 145 mm OD 24 mm Depth
+name_no_type: 6000 Series 6019 Size 95 mm ID 145 mm OD 24 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth
 oomp_word: hamburger pig elephant
 oomp_word_emoji: ':hamburger: :pig: :elephant:'

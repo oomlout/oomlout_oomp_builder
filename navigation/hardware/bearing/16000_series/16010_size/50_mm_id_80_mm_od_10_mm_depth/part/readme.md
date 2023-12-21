@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16010 Size 50 mm Id 80 mm Od 10 mm Depth  
+# Hardware Bearing 16000 Series 16010 Size 50 mm ID 80 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

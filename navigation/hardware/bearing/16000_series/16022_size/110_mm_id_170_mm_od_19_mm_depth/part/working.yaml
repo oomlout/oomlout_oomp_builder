@@ -59,7 +59,7 @@ description_main_length_3: '110'
 description_main_length_4: '110_'
 description_main_length_5: 110_m
 description_main_length_6: 110_mm
-description_main_name: 110 mm Id 170 mm Od 19 mm Depth
+description_main_name: 110 mm ID 170 mm OD 19 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '11'
 description_main_no_space_length_3: '110'
@@ -96,11 +96,11 @@ md5_6: 213cb5
 md5_6_alpha: 1aoqd
 md5_6_alpha_upper: 1AOQD
 md5_6_upper: 213CB5
-name: Hardware Bearing 16000 Series 16022 Size 110 mm Id 170 mm Od 19 mm Depth
-name_no_class: Bearing 16000 Series 16022 Size 110 mm Id 170 mm Od 19 mm Depth
-name_no_color: 110 mm Id 170 mm Od 19 mm Depth
-name_no_size: 16022 Size 110 mm Id 170 mm Od 19 mm Depth
-name_no_type: 16000 Series 16022 Size 110 mm Id 170 mm Od 19 mm Depth
+name: Hardware Bearing 16000 Series 16022 Size 110 mm ID 170 mm OD 19 mm Depth
+name_no_class: Bearing 16000 Series 16022 Size 110 mm ID 170 mm OD 19 mm Depth
+name_no_color: 110 mm ID 170 mm OD 19 mm Depth
+name_no_size: 16022 Size 110 mm ID 170 mm OD 19 mm Depth
+name_no_type: 16000 Series 16022 Size 110 mm ID 170 mm OD 19 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16022_size_110_mm_id_170_mm_od_19_mm_depth
 oomp_word: feet pig tea
 oomp_word_emoji: ':feet: :pig: :tea:'

@@ -59,7 +59,7 @@ description_main_length_3: '35_'
 description_main_length_4: 35_m
 description_main_length_5: 35_mm
 description_main_length_6: 35_mm_
-description_main_name: 35 mm Id 62 mm Od 14 mm Depth
+description_main_name: 35 mm ID 62 mm OD 14 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: '35'
 description_main_no_space_length_3: 35m
@@ -96,11 +96,11 @@ md5_6: 067a91
 md5_6_alpha: 93m9
 md5_6_alpha_upper: 93M9
 md5_6_upper: 067A91
-name: Hardware Bearing 6000 Series 6007 Size 35 mm Id 62 mm Od 14 mm Depth
-name_no_class: Bearing 6000 Series 6007 Size 35 mm Id 62 mm Od 14 mm Depth
-name_no_color: 35 mm Id 62 mm Od 14 mm Depth
-name_no_size: 6007 Size 35 mm Id 62 mm Od 14 mm Depth
-name_no_type: 6000 Series 6007 Size 35 mm Id 62 mm Od 14 mm Depth
+name: Hardware Bearing 6000 Series 6007 Size 35 mm ID 62 mm OD 14 mm Depth
+name_no_class: Bearing 6000 Series 6007 Size 35 mm ID 62 mm OD 14 mm Depth
+name_no_color: 35 mm ID 62 mm OD 14 mm Depth
+name_no_size: 6007 Size 35 mm ID 62 mm OD 14 mm Depth
+name_no_type: 6000 Series 6007 Size 35 mm ID 62 mm OD 14 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6007_size_35_mm_id_62_mm_od_14_mm_depth
 oomp_word: sleeping camera pushpin
 oomp_word_emoji: ':sleeping: :camera: :pushpin:'

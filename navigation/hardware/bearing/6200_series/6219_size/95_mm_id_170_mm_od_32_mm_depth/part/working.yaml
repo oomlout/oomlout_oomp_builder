@@ -59,7 +59,7 @@ description_main_length_3: '95_'
 description_main_length_4: 95_m
 description_main_length_5: 95_mm
 description_main_length_6: 95_mm_
-description_main_name: 95 mm Id 170 mm Od 32 mm Depth
+description_main_name: 95 mm ID 170 mm OD 32 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '95'
 description_main_no_space_length_3: 95m
@@ -96,11 +96,11 @@ md5_6: f8cf4d
 md5_6_alpha: 9phsd
 md5_6_alpha_upper: 9PHSD
 md5_6_upper: F8CF4D
-name: Hardware Bearing 6200 Series 6219 Size 95 mm Id 170 mm Od 32 mm Depth
-name_no_class: Bearing 6200 Series 6219 Size 95 mm Id 170 mm Od 32 mm Depth
-name_no_color: 95 mm Id 170 mm Od 32 mm Depth
-name_no_size: 6219 Size 95 mm Id 170 mm Od 32 mm Depth
-name_no_type: 6200 Series 6219 Size 95 mm Id 170 mm Od 32 mm Depth
+name: Hardware Bearing 6200 Series 6219 Size 95 mm ID 170 mm OD 32 mm Depth
+name_no_class: Bearing 6200 Series 6219 Size 95 mm ID 170 mm OD 32 mm Depth
+name_no_color: 95 mm ID 170 mm OD 32 mm Depth
+name_no_size: 6219 Size 95 mm ID 170 mm OD 32 mm Depth
+name_no_type: 6200 Series 6219 Size 95 mm ID 170 mm OD 32 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
 oomp_word: seven melon bug
 oomp_word_emoji: ':seven: :melon: :bug:'

@@ -59,7 +59,7 @@ description_main_length_3: '20_'
 description_main_length_4: 20_m
 description_main_length_5: 20_mm
 description_main_length_6: 20_mm_
-description_main_name: 20 mm Id 42 mm Od 12 mm Depth
+description_main_name: 20 mm ID 42 mm OD 12 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '20'
 description_main_no_space_length_3: 20m
@@ -96,11 +96,11 @@ md5_6: 3d1f0d
 md5_6_alpha: 2durx
 md5_6_alpha_upper: 2DURX
 md5_6_upper: 3D1F0D
-name: Hardware Bearing 6000 Series 6004 Size 20 mm Id 42 mm Od 12 mm Depth
-name_no_class: Bearing 6000 Series 6004 Size 20 mm Id 42 mm Od 12 mm Depth
-name_no_color: 20 mm Id 42 mm Od 12 mm Depth
-name_no_size: 6004 Size 20 mm Id 42 mm Od 12 mm Depth
-name_no_type: 6000 Series 6004 Size 20 mm Id 42 mm Od 12 mm Depth
+name: Hardware Bearing 6000 Series 6004 Size 20 mm ID 42 mm OD 12 mm Depth
+name_no_class: Bearing 6000 Series 6004 Size 20 mm ID 42 mm OD 12 mm Depth
+name_no_color: 20 mm ID 42 mm OD 12 mm Depth
+name_no_size: 6004 Size 20 mm ID 42 mm OD 12 mm Depth
+name_no_type: 6000 Series 6004 Size 20 mm ID 42 mm OD 12 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6004_size_20_mm_id_42_mm_od_12_mm_depth
 oomp_word: cow princess heart
 oomp_word_emoji: ':cow: :princess: :heart:'

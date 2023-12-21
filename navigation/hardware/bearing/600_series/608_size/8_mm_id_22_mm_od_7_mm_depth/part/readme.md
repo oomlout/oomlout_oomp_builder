@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 608 Size 8 mm Id 22 mm Od 7 mm Depth  
+# Hardware Bearing 600 Series 608 Size 8 mm ID 22 mm OD 7 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

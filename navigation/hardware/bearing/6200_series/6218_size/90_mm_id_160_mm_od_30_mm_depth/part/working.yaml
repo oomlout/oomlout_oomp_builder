@@ -59,7 +59,7 @@ description_main_length_3: '90_'
 description_main_length_4: 90_m
 description_main_length_5: 90_mm
 description_main_length_6: 90_mm_
-description_main_name: 90 mm Id 160 mm Od 30 mm Depth
+description_main_name: 90 mm ID 160 mm OD 30 mm Depth
 description_main_no_space_length_1: '9'
 description_main_no_space_length_2: '90'
 description_main_no_space_length_3: 90m
@@ -96,11 +96,11 @@ md5_6: 80ea59
 md5_6_alpha: 512zd
 md5_6_alpha_upper: 512ZD
 md5_6_upper: 80EA59
-name: Hardware Bearing 6200 Series 6218 Size 90 mm Id 160 mm Od 30 mm Depth
-name_no_class: Bearing 6200 Series 6218 Size 90 mm Id 160 mm Od 30 mm Depth
-name_no_color: 90 mm Id 160 mm Od 30 mm Depth
-name_no_size: 6218 Size 90 mm Id 160 mm Od 30 mm Depth
-name_no_type: 6200 Series 6218 Size 90 mm Id 160 mm Od 30 mm Depth
+name: Hardware Bearing 6200 Series 6218 Size 90 mm ID 160 mm OD 30 mm Depth
+name_no_class: Bearing 6200 Series 6218 Size 90 mm ID 160 mm OD 30 mm Depth
+name_no_color: 90 mm ID 160 mm OD 30 mm Depth
+name_no_size: 6218 Size 90 mm ID 160 mm OD 30 mm Depth
+name_no_type: 6200 Series 6218 Size 90 mm ID 160 mm OD 30 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6218_size_90_mm_id_160_mm_od_30_mm_depth
 oomp_word: hourglass tractor dragon
 oomp_word_emoji: ':hourglass: :tractor: :dragon:'

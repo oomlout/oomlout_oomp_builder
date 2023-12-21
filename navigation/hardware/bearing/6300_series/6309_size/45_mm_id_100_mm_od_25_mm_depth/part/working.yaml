@@ -59,7 +59,7 @@ description_main_length_3: '45_'
 description_main_length_4: 45_m
 description_main_length_5: 45_mm
 description_main_length_6: 45_mm_
-description_main_name: 45 mm Id 100 mm Od 25 mm Depth
+description_main_name: 45 mm ID 100 mm OD 25 mm Depth
 description_main_no_space_length_1: '4'
 description_main_no_space_length_2: '45'
 description_main_no_space_length_3: 45m
@@ -96,11 +96,11 @@ md5_6: 519b25
 md5_6_alpha: 36mn9
 md5_6_alpha_upper: 36MN9
 md5_6_upper: 519B25
-name: Hardware Bearing 6300 Series 6309 Size 45 mm Id 100 mm Od 25 mm Depth
-name_no_class: Bearing 6300 Series 6309 Size 45 mm Id 100 mm Od 25 mm Depth
-name_no_color: 45 mm Id 100 mm Od 25 mm Depth
-name_no_size: 6309 Size 45 mm Id 100 mm Od 25 mm Depth
-name_no_type: 6300 Series 6309 Size 45 mm Id 100 mm Od 25 mm Depth
+name: Hardware Bearing 6300 Series 6309 Size 45 mm ID 100 mm OD 25 mm Depth
+name_no_class: Bearing 6300 Series 6309 Size 45 mm ID 100 mm OD 25 mm Depth
+name_no_color: 45 mm ID 100 mm OD 25 mm Depth
+name_no_size: 6309 Size 45 mm ID 100 mm OD 25 mm Depth
+name_no_type: 6300 Series 6309 Size 45 mm ID 100 mm OD 25 mm Depth
 oomp_key: oomp_hardware_bearing_6300_series_6309_size_45_mm_id_100_mm_od_25_mm_depth
 oomp_word: snail ski ear
 oomp_word_emoji: ':snail: :ski: :ear:'

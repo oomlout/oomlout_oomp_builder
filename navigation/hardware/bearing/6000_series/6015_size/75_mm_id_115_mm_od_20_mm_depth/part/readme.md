@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6015 Size 75 mm Id 115 mm Od 20 mm Depth  
+# Hardware Bearing 6000 Series 6015 Size 75 mm ID 115 mm OD 20 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

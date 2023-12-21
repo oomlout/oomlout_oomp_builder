@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6307 Size 35 mm Id 80 mm Od 21 mm Depth  
+# Hardware Bearing 6300 Series 6307 Size 35 mm ID 80 mm OD 21 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

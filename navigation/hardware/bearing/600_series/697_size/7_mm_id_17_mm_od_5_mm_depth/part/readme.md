@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 697 Size 7 mm Id 17 mm Od 5 mm Depth  
+# Hardware Bearing 600 Series 697 Size 7 mm ID 17 mm OD 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

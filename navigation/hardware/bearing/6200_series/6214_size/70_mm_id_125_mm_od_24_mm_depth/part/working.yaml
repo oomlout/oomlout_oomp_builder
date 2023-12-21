@@ -59,7 +59,7 @@ description_main_length_3: '70_'
 description_main_length_4: 70_m
 description_main_length_5: 70_mm
 description_main_length_6: 70_mm_
-description_main_name: 70 mm Id 125 mm Od 24 mm Depth
+description_main_name: 70 mm ID 125 mm OD 24 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '70'
 description_main_no_space_length_3: 70m
@@ -96,11 +96,11 @@ md5_6: 5b6871
 md5_6_alpha: 3keb5
 md5_6_alpha_upper: 3KEB5
 md5_6_upper: 5B6871
-name: Hardware Bearing 6200 Series 6214 Size 70 mm Id 125 mm Od 24 mm Depth
-name_no_class: Bearing 6200 Series 6214 Size 70 mm Id 125 mm Od 24 mm Depth
-name_no_color: 70 mm Id 125 mm Od 24 mm Depth
-name_no_size: 6214 Size 70 mm Id 125 mm Od 24 mm Depth
-name_no_type: 6200 Series 6214 Size 70 mm Id 125 mm Od 24 mm Depth
+name: Hardware Bearing 6200 Series 6214 Size 70 mm ID 125 mm OD 24 mm Depth
+name_no_class: Bearing 6200 Series 6214 Size 70 mm ID 125 mm OD 24 mm Depth
+name_no_color: 70 mm ID 125 mm OD 24 mm Depth
+name_no_size: 6214 Size 70 mm ID 125 mm OD 24 mm Depth
+name_no_type: 6200 Series 6214 Size 70 mm ID 125 mm OD 24 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6214_size_70_mm_id_125_mm_od_24_mm_depth
 oomp_word: rooster mushroom bamboo
 oomp_word_emoji: ':rooster: :mushroom: :bamboo:'

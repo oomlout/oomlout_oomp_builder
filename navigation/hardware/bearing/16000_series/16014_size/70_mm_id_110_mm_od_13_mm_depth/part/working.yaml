@@ -59,7 +59,7 @@ description_main_length_3: '70_'
 description_main_length_4: 70_m
 description_main_length_5: 70_mm
 description_main_length_6: 70_mm_
-description_main_name: 70 mm Id 110 mm Od 13 mm Depth
+description_main_name: 70 mm ID 110 mm OD 13 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '70'
 description_main_no_space_length_3: 70m
@@ -96,11 +96,11 @@ md5_6: 9c04ae
 md5_6_alpha: 635im
 md5_6_alpha_upper: 635IM
 md5_6_upper: 9C04AE
-name: Hardware Bearing 16000 Series 16014 Size 70 mm Id 110 mm Od 13 mm Depth
-name_no_class: Bearing 16000 Series 16014 Size 70 mm Id 110 mm Od 13 mm Depth
-name_no_color: 70 mm Id 110 mm Od 13 mm Depth
-name_no_size: 16014 Size 70 mm Id 110 mm Od 13 mm Depth
-name_no_type: 16000 Series 16014 Size 70 mm Id 110 mm Od 13 mm Depth
+name: Hardware Bearing 16000 Series 16014 Size 70 mm ID 110 mm OD 13 mm Depth
+name_no_class: Bearing 16000 Series 16014 Size 70 mm ID 110 mm OD 13 mm Depth
+name_no_color: 70 mm ID 110 mm OD 13 mm Depth
+name_no_size: 16014 Size 70 mm ID 110 mm OD 13 mm Depth
+name_no_type: 16000 Series 16014 Size 70 mm ID 110 mm OD 13 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16014_size_70_mm_id_110_mm_od_13_mm_depth
 oomp_word: spades wink jeans
 oomp_word_emoji: ':spades: :wink: :jeans:'

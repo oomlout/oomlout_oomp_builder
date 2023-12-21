@@ -59,7 +59,7 @@ description_main_length_3: '50_'
 description_main_length_4: 50_m
 description_main_length_5: 50_mm
 description_main_length_6: 50_mm_
-description_main_name: 50 mm Id 65 mm Od 7 mm Depth
+description_main_name: 50 mm ID 65 mm OD 7 mm Depth
 description_main_no_space_length_1: '5'
 description_main_no_space_length_2: '50'
 description_main_no_space_length_3: 50m
@@ -96,11 +96,11 @@ md5_6: cb4eb9
 md5_6_alpha: 7xku1
 md5_6_alpha_upper: 7XKU1
 md5_6_upper: CB4EB9
-name: Hardware Bearing 6800 Series 6810 Size 50 mm Id 65 mm Od 7 mm Depth
-name_no_class: Bearing 6800 Series 6810 Size 50 mm Id 65 mm Od 7 mm Depth
-name_no_color: 50 mm Id 65 mm Od 7 mm Depth
-name_no_size: 6810 Size 50 mm Id 65 mm Od 7 mm Depth
-name_no_type: 6800 Series 6810 Size 50 mm Id 65 mm Od 7 mm Depth
+name: Hardware Bearing 6800 Series 6810 Size 50 mm ID 65 mm OD 7 mm Depth
+name_no_class: Bearing 6800 Series 6810 Size 50 mm ID 65 mm OD 7 mm Depth
+name_no_color: 50 mm ID 65 mm OD 7 mm Depth
+name_no_size: 6810 Size 50 mm ID 65 mm OD 7 mm Depth
+name_no_type: 6800 Series 6810 Size 50 mm ID 65 mm OD 7 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
 oomp_word: grapes honeybee fries
 oomp_word_emoji: ':grapes: :honeybee: :fries:'

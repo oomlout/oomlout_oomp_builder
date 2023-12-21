@@ -1,4 +1,4 @@
-# Hardware Bearing 16000 Series 16004 Size 20 mm Id 42 mm Od 8 mm Depth  
+# Hardware Bearing 16000 Series 16004 Size 20 mm ID 42 mm OD 8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

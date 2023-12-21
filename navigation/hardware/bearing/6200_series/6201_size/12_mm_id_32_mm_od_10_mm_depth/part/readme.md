@@ -1,4 +1,4 @@
-# Hardware Bearing 6200 Series 6201 Size 12 mm Id 32 mm Od 10 mm Depth  
+# Hardware Bearing 6200 Series 6201 Size 12 mm ID 32 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

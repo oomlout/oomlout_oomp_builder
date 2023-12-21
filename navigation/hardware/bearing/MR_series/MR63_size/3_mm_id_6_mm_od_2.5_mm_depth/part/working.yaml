@@ -59,7 +59,7 @@ description_main_length_3: 3_m
 description_main_length_4: 3_mm
 description_main_length_5: 3_mm_
 description_main_length_6: 3_mm_i
-description_main_name: 3 mm Id 6 mm Od 2.5 mm Depth
+description_main_name: 3 mm ID 6 mm OD 2.5 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: 3m
 description_main_no_space_length_3: 3mm
@@ -96,11 +96,11 @@ md5_6: fe594b
 md5_6_alpha: 9x9vv
 md5_6_alpha_upper: 9X9VV
 md5_6_upper: FE594B
-name: Hardware Bearing Mr Series Mr63 Size 3 mm Id 6 mm Od 2.5 mm Depth
-name_no_class: Bearing Mr Series Mr63 Size 3 mm Id 6 mm Od 2.5 mm Depth
-name_no_color: 3 mm Id 6 mm Od 2.5 mm Depth
-name_no_size: Mr63 Size 3 mm Id 6 mm Od 2.5 mm Depth
-name_no_type: Mr Series Mr63 Size 3 mm Id 6 mm Od 2.5 mm Depth
+name: Hardware Bearing Mr Series Mr63 Size 3 mm ID 6 mm OD 2.5 mm Depth
+name_no_class: Bearing Mr Series Mr63 Size 3 mm ID 6 mm OD 2.5 mm Depth
+name_no_color: 3 mm ID 6 mm OD 2.5 mm Depth
+name_no_size: Mr63 Size 3 mm ID 6 mm OD 2.5 mm Depth
+name_no_type: Mr Series Mr63 Size 3 mm ID 6 mm OD 2.5 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2.5_mm_depth
 oomp_word: recycle dragon penguin
 oomp_word_emoji: ':recycle: :dragon: :penguin:'

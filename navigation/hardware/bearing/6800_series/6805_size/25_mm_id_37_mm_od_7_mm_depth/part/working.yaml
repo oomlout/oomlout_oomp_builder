@@ -59,7 +59,7 @@ description_main_length_3: '25_'
 description_main_length_4: 25_m
 description_main_length_5: 25_mm
 description_main_length_6: 25_mm_
-description_main_name: 25 mm Id 37 mm Od 7 mm Depth
+description_main_name: 25 mm ID 37 mm OD 7 mm Depth
 description_main_no_space_length_1: '2'
 description_main_no_space_length_2: '25'
 description_main_no_space_length_3: 25m
@@ -96,11 +96,11 @@ md5_6: 3906a4
 md5_6_alpha: 283ok
 md5_6_alpha_upper: 283OK
 md5_6_upper: 3906A4
-name: Hardware Bearing 6800 Series 6805 Size 25 mm Id 37 mm Od 7 mm Depth
-name_no_class: Bearing 6800 Series 6805 Size 25 mm Id 37 mm Od 7 mm Depth
-name_no_color: 25 mm Id 37 mm Od 7 mm Depth
-name_no_size: 6805 Size 25 mm Id 37 mm Od 7 mm Depth
-name_no_type: 6800 Series 6805 Size 25 mm Id 37 mm Od 7 mm Depth
+name: Hardware Bearing 6800 Series 6805 Size 25 mm ID 37 mm OD 7 mm Depth
+name_no_class: Bearing 6800 Series 6805 Size 25 mm ID 37 mm OD 7 mm Depth
+name_no_color: 25 mm ID 37 mm OD 7 mm Depth
+name_no_size: 6805 Size 25 mm ID 37 mm OD 7 mm Depth
+name_no_type: 6800 Series 6805 Size 25 mm ID 37 mm OD 7 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6805_size_25_mm_id_37_mm_od_7_mm_depth
 oomp_word: tiger sleeping book
 oomp_word_emoji: ':tiger: :sleeping: :book:'

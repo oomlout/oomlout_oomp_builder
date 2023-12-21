@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr106 Size 6 mm Id 10 mm Od 3 mm Depth  
+# Hardware Bearing Mr Series Mr106 Size 6 mm ID 10 mm OD 3 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

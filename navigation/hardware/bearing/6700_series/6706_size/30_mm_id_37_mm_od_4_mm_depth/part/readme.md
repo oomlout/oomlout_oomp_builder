@@ -1,4 +1,4 @@
-# Hardware Bearing 6700 Series 6706 Size 30 mm Id 37 mm Od 4 mm Depth  
+# Hardware Bearing 6700 Series 6706 Size 30 mm ID 37 mm OD 4 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

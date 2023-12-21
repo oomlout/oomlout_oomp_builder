@@ -1,4 +1,4 @@
-# Hardware Bearing 600 Series 639 Size 9 mm Id 30 mm Od 10 mm Depth  
+# Hardware Bearing 600 Series 639 Size 9 mm ID 30 mm OD 10 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

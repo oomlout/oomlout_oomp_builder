@@ -59,7 +59,7 @@ description_main_length_3: '100'
 description_main_length_4: '100_'
 description_main_length_5: 100_m
 description_main_length_6: 100_mm
-description_main_name: 100 mm Id 150 mm Od 24 mm Depth
+description_main_name: 100 mm ID 150 mm OD 24 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '10'
 description_main_no_space_length_3: '100'
@@ -96,11 +96,11 @@ md5_6: ea1bd2
 md5_6_alpha: 94udu
 md5_6_alpha_upper: 94UDU
 md5_6_upper: EA1BD2
-name: Hardware Bearing 6000 Series 6020 Size 100 mm Id 150 mm Od 24 mm Depth
-name_no_class: Bearing 6000 Series 6020 Size 100 mm Id 150 mm Od 24 mm Depth
-name_no_color: 100 mm Id 150 mm Od 24 mm Depth
-name_no_size: 6020 Size 100 mm Id 150 mm Od 24 mm Depth
-name_no_type: 6000 Series 6020 Size 100 mm Id 150 mm Od 24 mm Depth
+name: Hardware Bearing 6000 Series 6020 Size 100 mm ID 150 mm OD 24 mm Depth
+name_no_class: Bearing 6000 Series 6020 Size 100 mm ID 150 mm OD 24 mm Depth
+name_no_color: 100 mm ID 150 mm OD 24 mm Depth
+name_no_size: 6020 Size 100 mm ID 150 mm OD 24 mm Depth
+name_no_type: 6000 Series 6020 Size 100 mm ID 150 mm OD 24 mm Depth
 oomp_key: oomp_hardware_bearing_6000_series_6020_size_100_mm_id_150_mm_od_24_mm_depth
 oomp_word: tractor muscle pineapple
 oomp_word_emoji: ':tractor: :muscle: :pineapple:'

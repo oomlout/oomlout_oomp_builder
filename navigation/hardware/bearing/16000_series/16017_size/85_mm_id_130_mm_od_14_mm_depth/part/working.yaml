@@ -59,7 +59,7 @@ description_main_length_3: '85_'
 description_main_length_4: 85_m
 description_main_length_5: 85_mm
 description_main_length_6: 85_mm_
-description_main_name: 85 mm Id 130 mm Od 14 mm Depth
+description_main_name: 85 mm ID 130 mm OD 14 mm Depth
 description_main_no_space_length_1: '8'
 description_main_no_space_length_2: '85'
 description_main_no_space_length_3: 85m
@@ -96,11 +96,11 @@ md5_6: 8f6765
 md5_6_alpha: 5lfmt
 md5_6_alpha_upper: 5LFMT
 md5_6_upper: 8F6765
-name: Hardware Bearing 16000 Series 16017 Size 85 mm Id 130 mm Od 14 mm Depth
-name_no_class: Bearing 16000 Series 16017 Size 85 mm Id 130 mm Od 14 mm Depth
-name_no_color: 85 mm Id 130 mm Od 14 mm Depth
-name_no_size: 16017 Size 85 mm Id 130 mm Od 14 mm Depth
-name_no_type: 16000 Series 16017 Size 85 mm Id 130 mm Od 14 mm Depth
+name: Hardware Bearing 16000 Series 16017 Size 85 mm ID 130 mm OD 14 mm Depth
+name_no_class: Bearing 16000 Series 16017 Size 85 mm ID 130 mm OD 14 mm Depth
+name_no_color: 85 mm ID 130 mm OD 14 mm Depth
+name_no_size: 16017 Size 85 mm ID 130 mm OD 14 mm Depth
+name_no_type: 16000 Series 16017 Size 85 mm ID 130 mm OD 14 mm Depth
 oomp_key: oomp_hardware_bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
 oomp_word: calendar herb maple_leaf
 oomp_word_emoji: ':calendar: :herb: :maple_leaf:'

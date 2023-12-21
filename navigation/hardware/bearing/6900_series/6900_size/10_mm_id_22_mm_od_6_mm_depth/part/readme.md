@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6900 Size 10 mm Id 22 mm Od 6 mm Depth  
+# Hardware Bearing 6900 Series 6900 Size 10 mm ID 22 mm OD 6 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

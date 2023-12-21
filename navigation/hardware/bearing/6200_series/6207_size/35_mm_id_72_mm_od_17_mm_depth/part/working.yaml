@@ -59,7 +59,7 @@ description_main_length_3: '35_'
 description_main_length_4: 35_m
 description_main_length_5: 35_mm
 description_main_length_6: 35_mm_
-description_main_name: 35 mm Id 72 mm Od 17 mm Depth
+description_main_name: 35 mm ID 72 mm OD 17 mm Depth
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: '35'
 description_main_no_space_length_3: 35m
@@ -96,11 +96,11 @@ md5_6: 807ace
 md5_6_alpha: 50gy6
 md5_6_alpha_upper: 50GY6
 md5_6_upper: 807ACE
-name: Hardware Bearing 6200 Series 6207 Size 35 mm Id 72 mm Od 17 mm Depth
-name_no_class: Bearing 6200 Series 6207 Size 35 mm Id 72 mm Od 17 mm Depth
-name_no_color: 35 mm Id 72 mm Od 17 mm Depth
-name_no_size: 6207 Size 35 mm Id 72 mm Od 17 mm Depth
-name_no_type: 6200 Series 6207 Size 35 mm Id 72 mm Od 17 mm Depth
+name: Hardware Bearing 6200 Series 6207 Size 35 mm ID 72 mm OD 17 mm Depth
+name_no_class: Bearing 6200 Series 6207 Size 35 mm ID 72 mm OD 17 mm Depth
+name_no_color: 35 mm ID 72 mm OD 17 mm Depth
+name_no_size: 6207 Size 35 mm ID 72 mm OD 17 mm Depth
+name_no_type: 6200 Series 6207 Size 35 mm ID 72 mm OD 17 mm Depth
 oomp_key: oomp_hardware_bearing_6200_series_6207_size_35_mm_id_72_mm_od_17_mm_depth
 oomp_word: hourglass camera peach
 oomp_word_emoji: ':hourglass: :camera: :peach:'

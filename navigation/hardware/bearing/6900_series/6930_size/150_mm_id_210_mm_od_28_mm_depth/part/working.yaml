@@ -59,7 +59,7 @@ description_main_length_3: '150'
 description_main_length_4: '150_'
 description_main_length_5: 150_m
 description_main_length_6: 150_mm
-description_main_name: 150 mm Id 210 mm Od 28 mm Depth
+description_main_name: 150 mm ID 210 mm OD 28 mm Depth
 description_main_no_space_length_1: '1'
 description_main_no_space_length_2: '15'
 description_main_no_space_length_3: '150'
@@ -96,11 +96,11 @@ md5_6: cb0968
 md5_6_alpha: 7x754
 md5_6_alpha_upper: 7X754
 md5_6_upper: CB0968
-name: Hardware Bearing 6900 Series 6930 Size 150 mm Id 210 mm Od 28 mm Depth
-name_no_class: Bearing 6900 Series 6930 Size 150 mm Id 210 mm Od 28 mm Depth
-name_no_color: 150 mm Id 210 mm Od 28 mm Depth
-name_no_size: 6930 Size 150 mm Id 210 mm Od 28 mm Depth
-name_no_type: 6900 Series 6930 Size 150 mm Id 210 mm Od 28 mm Depth
+name: Hardware Bearing 6900 Series 6930 Size 150 mm ID 210 mm OD 28 mm Depth
+name_no_class: Bearing 6900 Series 6930 Size 150 mm ID 210 mm OD 28 mm Depth
+name_no_color: 150 mm ID 210 mm OD 28 mm Depth
+name_no_size: 6930 Size 150 mm ID 210 mm OD 28 mm Depth
+name_no_type: 6900 Series 6930 Size 150 mm ID 210 mm OD 28 mm Depth
 oomp_key: oomp_hardware_bearing_6900_series_6930_size_150_mm_id_210_mm_od_28_mm_depth
 oomp_word: grapes angry mushroom
 oomp_word_emoji: ':grapes: :angry: :mushroom:'

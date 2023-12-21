@@ -59,7 +59,7 @@ description_main_length_3: '70_'
 description_main_length_4: 70_m
 description_main_length_5: 70_mm
 description_main_length_6: 70_mm_
-description_main_name: 70 mm Id 90 mm Od 10 mm Depth
+description_main_name: 70 mm ID 90 mm OD 10 mm Depth
 description_main_no_space_length_1: '7'
 description_main_no_space_length_2: '70'
 description_main_no_space_length_3: 70m
@@ -96,11 +96,11 @@ md5_6: 1424c2
 md5_6_alpha: sama
 md5_6_alpha_upper: SAMA
 md5_6_upper: 1424C2
-name: Hardware Bearing 6800 Series 6814 Size 70 mm Id 90 mm Od 10 mm Depth
-name_no_class: Bearing 6800 Series 6814 Size 70 mm Id 90 mm Od 10 mm Depth
-name_no_color: 70 mm Id 90 mm Od 10 mm Depth
-name_no_size: 6814 Size 70 mm Id 90 mm Od 10 mm Depth
-name_no_type: 6800 Series 6814 Size 70 mm Id 90 mm Od 10 mm Depth
+name: Hardware Bearing 6800 Series 6814 Size 70 mm ID 90 mm OD 10 mm Depth
+name_no_class: Bearing 6800 Series 6814 Size 70 mm ID 90 mm OD 10 mm Depth
+name_no_color: 70 mm ID 90 mm OD 10 mm Depth
+name_no_size: 6814 Size 70 mm ID 90 mm OD 10 mm Depth
+name_no_type: 6800 Series 6814 Size 70 mm ID 90 mm OD 10 mm Depth
 oomp_key: oomp_hardware_bearing_6800_series_6814_size_70_mm_id_90_mm_od_10_mm_depth
 oomp_word: fire droplet birthday
 oomp_word_emoji: ':fire: :droplet: :birthday:'

@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5212 Size 60 mm Id 110 mm Od 36.5 mm Depth  
+# Hardware Bearing 5200 Series 5212 Size 60 mm ID 110 mm OD 36.5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

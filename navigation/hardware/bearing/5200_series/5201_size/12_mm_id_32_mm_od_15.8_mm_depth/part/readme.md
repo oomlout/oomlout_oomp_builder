@@ -1,4 +1,4 @@
-# Hardware Bearing 5200 Series 5201 Size 12 mm Id 32 mm Od 15.8 mm Depth  
+# Hardware Bearing 5200 Series 5201 Size 12 mm ID 32 mm OD 15.8 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

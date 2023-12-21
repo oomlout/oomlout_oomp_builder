@@ -1,4 +1,4 @@
-# Hardware Bearing 62000 Series 62209 Size 45 mm Id 85 mm Od 23 mm Depth  
+# Hardware Bearing 62000 Series 62209 Size 45 mm ID 85 mm OD 23 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

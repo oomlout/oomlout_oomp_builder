@@ -59,7 +59,7 @@ description_main_length_3: 4_m
 description_main_length_4: 4_mm
 description_main_length_5: 4_mm_
 description_main_length_6: 4_mm_i
-description_main_name: 4 mm Id 10 mm Od 4 mm Depth
+description_main_name: 4 mm ID 10 mm OD 4 mm Depth
 description_main_no_space_length_1: '4'
 description_main_no_space_length_2: 4m
 description_main_no_space_length_3: 4mm
@@ -96,11 +96,11 @@ md5_6: 645c9a
 md5_6_alpha: 3wz2y
 md5_6_alpha_upper: 3WZ2Y
 md5_6_upper: 645C9A
-name: Hardware Bearing Mr Series Mr104 Size 4 mm Id 10 mm Od 4 mm Depth
-name_no_class: Bearing Mr Series Mr104 Size 4 mm Id 10 mm Od 4 mm Depth
-name_no_color: 4 mm Id 10 mm Od 4 mm Depth
-name_no_size: Mr104 Size 4 mm Id 10 mm Od 4 mm Depth
-name_no_type: Mr Series Mr104 Size 4 mm Id 10 mm Od 4 mm Depth
+name: Hardware Bearing Mr Series Mr104 Size 4 mm ID 10 mm OD 4 mm Depth
+name_no_class: Bearing Mr Series Mr104 Size 4 mm ID 10 mm OD 4 mm Depth
+name_no_color: 4 mm ID 10 mm OD 4 mm Depth
+name_no_size: Mr104 Size 4 mm ID 10 mm OD 4 mm Depth
+name_no_type: Mr Series Mr104 Size 4 mm ID 10 mm OD 4 mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR104_size_4_mm_id_10_mm_od_4_mm_depth
 oomp_word: sunflower ox golf
 oomp_word_emoji: ':sunflower: :ox: :golf:'

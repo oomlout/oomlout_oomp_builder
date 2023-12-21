@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6006 Size 30 mm Id 55 mm Od 13 mm Depth  
+# Hardware Bearing 6000 Series 6006 Size 30 mm ID 55 mm OD 13 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

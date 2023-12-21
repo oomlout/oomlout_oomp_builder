@@ -1,4 +1,4 @@
-# Hardware Bearing 6900 Series 6928 Size 140 mm Id 190 mm Od 24 mm Depth  
+# Hardware Bearing 6900 Series 6928 Size 140 mm ID 190 mm OD 24 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

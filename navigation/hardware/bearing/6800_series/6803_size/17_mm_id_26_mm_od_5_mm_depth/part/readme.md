@@ -1,4 +1,4 @@
-# Hardware Bearing 6800 Series 6803 Size 17 mm Id 26 mm Od 5 mm Depth  
+# Hardware Bearing 6800 Series 6803 Size 17 mm ID 26 mm OD 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 

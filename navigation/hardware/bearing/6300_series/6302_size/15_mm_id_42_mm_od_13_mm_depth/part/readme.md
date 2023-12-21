@@ -1,4 +1,4 @@
-# Hardware Bearing 6300 Series 6302 Size 15 mm Id 42 mm Od 13 mm Depth  
+# Hardware Bearing 6300 Series 6302 Size 15 mm ID 42 mm OD 13 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
