@@ -1,9 +1,0 @@
-classification: electronic
-color: rgb
-description_extra: ''
-description_main: ws2812b
-id: electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
-manufacturer: worldsemi
-part_number: ws2812b_b_w
-size: '5050'
-type: led

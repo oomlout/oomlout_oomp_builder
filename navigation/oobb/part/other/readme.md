@@ -1,5 +1,0 @@
-* [01_06_03_ex_bolt_stacker](/01_06_03_ex_bolt_stacker)
-* [02_02_29_ex_corner_cube](/02_02_29_ex_corner_cube)
-* [1d5_24_ex_bolt_stacker](/1d5_24_ex_bolt_stacker)
-* [2d5_1d5_06_ex_timing_belt_clamp_gt2](/2d5_1d5_06_ex_timing_belt_clamp_gt2)
-* [2d5_1d5_14_ex_timing_belt_clamp_gt2](/2d5_1d5_14_ex_timing_belt_clamp_gt2)

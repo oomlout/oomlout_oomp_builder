@@ -1,9 +1,0 @@
-classification: electronic
-color: led_driver
-description_extra: ''
-description_main: led_matrix_driver_16_x_8
-id: electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
-manufacturer: wuxi_i_core_electronics_co_ltd
-part_number: aip1640
-size: soic_28_wide
-type: ic

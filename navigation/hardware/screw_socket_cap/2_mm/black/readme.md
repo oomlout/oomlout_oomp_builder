@@ -1,8 +1,0 @@
-* [10_mm](/10_mm)
-  * [hex_head](/10_mm/hex_head)
-* [12_mm](/12_mm)
-  * [hex_head](/12_mm/hex_head)
-* [6_mm](/6_mm)
-  * [hex_head](/6_mm/hex_head)
-* [8_mm](/8_mm)
-  * [hex_head](/8_mm/hex_head)
