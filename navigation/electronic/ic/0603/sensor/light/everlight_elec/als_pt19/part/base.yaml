@@ -1,0 +1,9 @@
+classification: electronic
+color: sensor
+description_extra: ''
+description_main: light
+id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+manufacturer: everlight_elec
+part_number: als_pt19
+size: '0603'
+type: ic

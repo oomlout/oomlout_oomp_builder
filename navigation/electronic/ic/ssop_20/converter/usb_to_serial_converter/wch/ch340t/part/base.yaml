@@ -1,0 +1,9 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+manufacturer: wch
+part_number: ch340t
+size: ssop_20
+type: ic
