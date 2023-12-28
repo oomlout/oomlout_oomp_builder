@@ -9,5 +9,6 @@
     * [hex_head](black/5_mm_length/hex_head)
   * [6_mm_length](/black/6_mm_length)
     * [hex_head](black/6_mm_length/hex_head)
+    * [phillips_head](black/6_mm_length/phillips_head)
   * [8_mm_length](/black/8_mm_length)
     * [hex_head](black/8_mm_length/hex_head)

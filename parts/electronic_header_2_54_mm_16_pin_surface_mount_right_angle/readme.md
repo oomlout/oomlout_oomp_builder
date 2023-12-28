@@ -1,4 +1,4 @@
-# Electronic Header 2 54 mm 16 Pin Surface Mount Right Angle  
+# Electronic Header 2 54 Mm 16 Pin Surface Mount Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -25,3 +25,86 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :nine: :nine: :bamboo:
 * md5_6_alpha: 9sjg1
 * md5_6: fafa71
+
+### all codes 
+|classification|electronic|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
+|color||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
+|description_extra|surface_mount_right_angle|
+|description_extra_capital|Surface Mount Right Angle|
+|description_extra_first_letter|s|
+|description_extra_first_letter_upper|S|
+|description_extra_upper|SURFACE_MOUNT_RIGHT_ANGLE|
+|description_main|16_pin|
+|description_main_capital|16 Pin|
+|description_main_first_letter|1|
+|description_main_first_letter_upper|1|
+|description_main_upper|16_PIN|
+|description_only_numbers|16|
+|description_only_numbers_short|16|
+|description_or_color|16|
+|description_or_color_upper|16|
+|directory|parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle|
+|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C917606.html', 'name': 'LCSC', 'part_number': 'C917606'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C917645.html', 'name': 'LCSC', 'part_number': 'C917645'}]|
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal', 'note': 'source footprint kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal', 'oomp_key': 'oomp_kicad_connector_harwin_harwin_m20_89016xx_1x16_p2_54mm_horizontal'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi116psmra_electronic_header_2_54_mm_16_pin_surface_mount_right_angle//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi116psmra_electronic_header_2_54_mm_16_pin_surface_mount_right_angle', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_hi116psmra_electronic_header_2_54_mm_16_pin_surface_mount_right_angle'}]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working|
+|id|electronic_header_2_54_mm_16_pin_surface_mount_right_angle|
+|id_no_class|header_2_54_mm_16_pin_surface_mount_right_angle|
+|id_no_size|16_pin_surface_mount_right_angle|
+|id_no_type|2_54_mm_16_pin_surface_mount_right_angle|
+|kicad_reference|CONN|
+|manufacturer||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_header_2_54_mm_16_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working)<br>[hi116psmra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working)<br>[Electronic Header 2 54 Mm 16 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>|
+|markdown_short|[electronic_header_2_54_mm_16_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_surface_mount_right_angle/working)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>|
+|md5|fafa7182a4c288167291db41be562bb5|
+|md5_10|fafa7182a4|
+|md5_10_upper|FAFA7182A4|
+|md5_5|fafa7|
+|md5_5_upper|FAFA7|
+|md5_6|fafa71|
+|md5_6_alpha|9sjg1|
+|md5_6_alpha_upper|9SJG1|
+|md5_6_upper|FAFA71|
+|name|Electronic Header 2 54 Mm 16 Pin Surface Mount Right Angle|
+|name_no_class|Header 2 54 Mm 16 Pin Surface Mount Right Angle|
+|name_no_size|16 Pin Surface Mount Right Angle|
+|name_no_size_short|16 Pin Surface Mount Right Angle|
+|name_no_type|2 54 Mm 16 Pin Surface Mount Right Angle|
+|oomp_key|oomp_electronic_header_2_54_mm_16_pin_surface_mount_right_angle|
+|oomp_word|nine nine bamboo|
+|oomp_word_emoji|:nine: :nine: :bamboo:|
+|oomp_word_emoji_list|[':nine:', ':nine:', ':bamboo:']|
+|oomp_word_list|['nine', 'nine', 'bamboo']|
+|part_number||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|hi116psmra|
+|short_code_upper|HI116PSMRA|
+|size|2_54_mm|
+|size_capital|2.54 mm|
+|size_first_letter|2|
+|size_first_letter_upper|2|
+|size_only_numbers|254|
+|size_only_numbers_no_zeros|254|
+|size_upper|2_54_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x16_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x16_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x16_pin'}]|
+|type|header|
+|type_capital|Header|
+|type_first_letter|h|
+|type_first_letter_upper|H|
+|type_upper|HEADER|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

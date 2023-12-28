@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :grin: :hamburger: :eight:
 * md5_6_alpha: 588p
 * md5_6: 03b8f9
+
+### all codes 
+|classification|electronic|
+|classification_length_1|e|
+|classification_length_2|el|
+|classification_length_3|ele|
+|classification_length_4|elec|
+|classification_length_5|elect|
+|classification_length_6|electr|
+|classification_name|Electronic|
+|classification_no_space_length_1|e|
+|classification_no_space_length_2|el|
+|classification_no_space_length_3|ele|
+|classification_no_space_length_4|elec|
+|classification_no_space_length_5|elect|
+|classification_no_space_length_6|electr|
+|classification_no_space_upper_length_1|E|
+|classification_no_space_upper_length_2|EL|
+|classification_no_space_upper_length_3|ELE|
+|classification_no_space_upper_length_4|ELEC|
+|classification_no_space_upper_length_5|ELECT|
+|classification_no_space_upper_length_6|ELECTR|
+|classification_upper_length_1|E|
+|classification_upper_length_2|EL|
+|classification_upper_length_3|ELE|
+|classification_upper_length_4|ELEC|
+|classification_upper_length_5|ELECT|
+|classification_upper_length_6|ELECTR|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|680_ohm|
+|description_main_length_1|6|
+|description_main_length_2|68|
+|description_main_length_3|680|
+|description_main_length_4|680_|
+|description_main_length_5|680_o|
+|description_main_length_6|680_oh|
+|description_main_name|680 Ohm|
+|description_main_no_space_length_1|6|
+|description_main_no_space_length_2|68|
+|description_main_no_space_length_3|680|
+|description_main_no_space_length_4|680o|
+|description_main_no_space_length_5|680oh|
+|description_main_no_space_length_6|680ohm|
+|description_main_no_space_upper_length_1|6|
+|description_main_no_space_upper_length_2|68|
+|description_main_no_space_upper_length_3|680|
+|description_main_no_space_upper_length_4|680O|
+|description_main_no_space_upper_length_5|680OH|
+|description_main_no_space_upper_length_6|680OHM|
+|description_main_upper_length_1|6|
+|description_main_upper_length_2|68|
+|description_main_upper_length_3|680|
+|description_main_upper_length_4|680_|
+|description_main_upper_length_5|680_O|
+|description_main_upper_length_6|680_OH|
+|directory|parts/electronic_resistor_0603_680_ohm|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_680_ohm|
+|id|electronic_resistor_0603_680_ohm|
+|id_no_class|resistor_0603_680_ohm|
+|id_no_color|680ohm|
+|id_no_size|680_ohm|
+|id_no_type|0603_680_ohm|
+|manufacturer||
+|manufacturer_name||
+|md5|03b8f9275efd5904234d746eadf836d9|
+|md5_10|03b8f9275e|
+|md5_10_upper|03B8F9275E|
+|md5_5|03b8f|
+|md5_5_upper|03B8F|
+|md5_6|03b8f9|
+|md5_6_alpha|588p|
+|md5_6_alpha_upper|588P|
+|md5_6_upper|03B8F9|
+|name|Electronic Resistor 0603 680 Ohm|
+|name_no_class|Resistor 0603 680 Ohm|
+|name_no_color|680Ohm|
+|name_no_size|680 Ohm|
+|name_no_type|0603 680 Ohm|
+|oomp_key|oomp_electronic_resistor_0603_680_ohm|
+|oomp_word|grin hamburger eight|
+|oomp_word_emoji|:grin: :hamburger: :eight:|
+|oomp_word_emoji_list|[':grin:', ':hamburger:', ':eight:']|
+|oomp_word_list|['grin', 'hamburger', 'eight']|
+|part_number||
+|part_number_name||
+|size|0603|
+|size_length_1|0|
+|size_length_2|06|
+|size_length_3|060|
+|size_length_4|0603|
+|size_length_5|0603|
+|size_length_6|0603|
+|size_name|0603|
+|size_no_space_length_1|0|
+|size_no_space_length_2|06|
+|size_no_space_length_3|060|
+|size_no_space_length_4|0603|
+|size_no_space_length_5|0603|
+|size_no_space_length_6|0603|
+|size_no_space_upper_length_1|0|
+|size_no_space_upper_length_2|06|
+|size_no_space_upper_length_3|060|
+|size_no_space_upper_length_4|0603|
+|size_no_space_upper_length_5|0603|
+|size_no_space_upper_length_6|0603|
+|size_upper_length_1|0|
+|size_upper_length_2|06|
+|size_upper_length_3|060|
+|size_upper_length_4|0603|
+|size_upper_length_5|0603|
+|size_upper_length_6|0603|
+|type|resistor|
+|type_length_1|r|
+|type_length_2|re|
+|type_length_3|res|
+|type_length_4|resi|
+|type_length_5|resis|
+|type_length_6|resist|
+|type_name|Resistor|
+|type_no_space_length_1|r|
+|type_no_space_length_2|re|
+|type_no_space_length_3|res|
+|type_no_space_length_4|resi|
+|type_no_space_length_5|resis|
+|type_no_space_length_6|resist|
+|type_no_space_upper_length_1|R|
+|type_no_space_upper_length_2|RE|
+|type_no_space_upper_length_3|RES|
+|type_no_space_upper_length_4|RESI|
+|type_no_space_upper_length_5|RESIS|
+|type_no_space_upper_length_6|RESIST|
+|type_upper_length_1|R|
+|type_upper_length_2|RE|
+|type_upper_length_3|RES|
+|type_upper_length_4|RESI|
+|type_upper_length_5|RESIS|
+|type_upper_length_6|RESIST|
+|files|['base.yaml', 'working.yaml']|

@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :door: :mushroom: :rat:
 * md5_6_alpha: 5ftjr
 * md5_6: 8b6857
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|07_10_66|
+|description_main_length_1|0|
+|description_main_length_2|07|
+|description_main_length_3|07_|
+|description_main_length_4|07_1|
+|description_main_length_5|07_10|
+|description_main_length_6|07_10_|
+|description_main_name|07 10 66|
+|description_main_no_space_length_1|0|
+|description_main_no_space_length_2|07|
+|description_main_no_space_length_3|071|
+|description_main_no_space_length_4|0710|
+|description_main_no_space_length_5|07106|
+|description_main_no_space_length_6|071066|
+|description_main_no_space_upper_length_1|0|
+|description_main_no_space_upper_length_2|07|
+|description_main_no_space_upper_length_3|071|
+|description_main_no_space_upper_length_4|0710|
+|description_main_no_space_upper_length_5|07106|
+|description_main_no_space_upper_length_6|071066|
+|description_main_upper_length_1|0|
+|description_main_upper_length_2|07|
+|description_main_upper_length_3|07_|
+|description_main_upper_length_4|07_1|
+|description_main_upper_length_5|07_10|
+|description_main_upper_length_6|07_10_|
+|directory|parts/oobb_part_th_tool_holder_basic_07_10_66|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66|
+|id|oobb_part_th_tool_holder_basic_07_10_66|
+|id_no_class|part_th_tool_holder_basic_07_10_66|
+|id_no_color|071066|
+|id_no_size|07_10_66|
+|id_no_type|th_tool_holder_basic_07_10_66|
+|manufacturer||
+|manufacturer_name||
+|md5|8b6857ffb221f8f4fcd3da026ae3664e|
+|md5_10|8b6857ffb2|
+|md5_10_upper|8B6857FFB2|
+|md5_5|8b685|
+|md5_5_upper|8B685|
+|md5_6|8b6857|
+|md5_6_alpha|5ftjr|
+|md5_6_alpha_upper|5FTJR|
+|md5_6_upper|8B6857|
+|name|Oobb Part Th Tool Holder Basic 07 10 66|
+|name_no_class|Part Th Tool Holder Basic 07 10 66|
+|name_no_color|071066|
+|name_no_size|07 10 66|
+|name_no_type|Th Tool Holder Basic 07 10 66|
+|oomp_key|oomp_oobb_part_th_tool_holder_basic_07_10_66|
+|oomp_word|door mushroom rat|
+|oomp_word_emoji|:door: :mushroom: :rat:|
+|oomp_word_emoji_list|[':door:', ':mushroom:', ':rat:']|
+|oomp_word_list|['door', 'mushroom', 'rat']|
+|part_number||
+|part_number_name||
+|size|th_tool_holder_basic|
+|size_length_1|t|
+|size_length_2|th|
+|size_length_3|th_|
+|size_length_4|th_t|
+|size_length_5|th_to|
+|size_length_6|th_too|
+|size_name|Th Tool Holder Basic|
+|size_no_space_length_1|t|
+|size_no_space_length_2|th|
+|size_no_space_length_3|tht|
+|size_no_space_length_4|thto|
+|size_no_space_length_5|thtoo|
+|size_no_space_length_6|thtool|
+|size_no_space_upper_length_1|T|
+|size_no_space_upper_length_2|TH|
+|size_no_space_upper_length_3|THT|
+|size_no_space_upper_length_4|THTO|
+|size_no_space_upper_length_5|THTOO|
+|size_no_space_upper_length_6|THTOOL|
+|size_upper_length_1|T|
+|size_upper_length_2|TH|
+|size_upper_length_3|TH_|
+|size_upper_length_4|TH_T|
+|size_upper_length_5|TH_TO|
+|size_upper_length_6|TH_TOO|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

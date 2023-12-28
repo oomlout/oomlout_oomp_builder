@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clubs: :racehorse: :trident:
 * md5_6_alpha: 66akf
 * md5_6: 9e40ff
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|03_09_ex_72_teeth|
+|description_main_length_1|0|
+|description_main_length_2|03|
+|description_main_length_3|03_|
+|description_main_length_4|03_0|
+|description_main_length_5|03_09|
+|description_main_length_6|03_09_|
+|description_main_name|03 09 Ex 72 Teeth|
+|description_main_no_space_length_1|0|
+|description_main_no_space_length_2|03|
+|description_main_no_space_length_3|030|
+|description_main_no_space_length_4|0309|
+|description_main_no_space_length_5|0309e|
+|description_main_no_space_length_6|0309ex|
+|description_main_no_space_upper_length_1|0|
+|description_main_no_space_upper_length_2|03|
+|description_main_no_space_upper_length_3|030|
+|description_main_no_space_upper_length_4|0309|
+|description_main_no_space_upper_length_5|0309E|
+|description_main_no_space_upper_length_6|0309EX|
+|description_main_upper_length_1|0|
+|description_main_upper_length_2|03|
+|description_main_upper_length_3|03_|
+|description_main_upper_length_4|03_0|
+|description_main_upper_length_5|03_09|
+|description_main_upper_length_6|03_09_|
+|directory|parts/oobb_part_pulley_gt2_03_09_ex_72_teeth|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_09_ex_72_teeth|
+|id|oobb_part_pulley_gt2_03_09_ex_72_teeth|
+|id_no_class|part_pulley_gt2_03_09_ex_72_teeth|
+|id_no_color|0309ex72teeth|
+|id_no_size|03_09_ex_72_teeth|
+|id_no_type|pulley_gt2_03_09_ex_72_teeth|
+|manufacturer||
+|manufacturer_name||
+|md5|9e40ff4373f3b37a561b981bccfdad8a|
+|md5_10|9e40ff4373|
+|md5_10_upper|9E40FF4373|
+|md5_5|9e40f|
+|md5_5_upper|9E40F|
+|md5_6|9e40ff|
+|md5_6_alpha|66akf|
+|md5_6_alpha_upper|66AKF|
+|md5_6_upper|9E40FF|
+|name|Oobb Part Pulley Gt2 03 09 Ex 72 Teeth|
+|name_no_class|Part Pulley Gt2 03 09 Ex 72 Teeth|
+|name_no_color|0309Ex72Teeth|
+|name_no_size|03 09 Ex 72 Teeth|
+|name_no_type|Pulley Gt2 03 09 Ex 72 Teeth|
+|oomp_key|oomp_oobb_part_pulley_gt2_03_09_ex_72_teeth|
+|oomp_word|clubs racehorse trident|
+|oomp_word_emoji|:clubs: :racehorse: :trident:|
+|oomp_word_emoji_list|[':clubs:', ':racehorse:', ':trident:']|
+|oomp_word_list|['clubs', 'racehorse', 'trident']|
+|part_number||
+|part_number_name||
+|size|pulley_gt2|
+|size_length_1|p|
+|size_length_2|pu|
+|size_length_3|pul|
+|size_length_4|pull|
+|size_length_5|pulle|
+|size_length_6|pulley|
+|size_name|Pulley Gt2|
+|size_no_space_length_1|p|
+|size_no_space_length_2|pu|
+|size_no_space_length_3|pul|
+|size_no_space_length_4|pull|
+|size_no_space_length_5|pulle|
+|size_no_space_length_6|pulley|
+|size_no_space_upper_length_1|P|
+|size_no_space_upper_length_2|PU|
+|size_no_space_upper_length_3|PUL|
+|size_no_space_upper_length_4|PULL|
+|size_no_space_upper_length_5|PULLE|
+|size_no_space_upper_length_6|PULLEY|
+|size_upper_length_1|P|
+|size_upper_length_2|PU|
+|size_upper_length_3|PUL|
+|size_upper_length_4|PULL|
+|size_upper_length_5|PULLE|
+|size_upper_length_6|PULLEY|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

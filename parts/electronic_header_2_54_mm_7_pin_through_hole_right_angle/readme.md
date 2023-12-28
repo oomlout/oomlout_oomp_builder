@@ -1,4 +1,4 @@
-# Electronic Header 2 54 mm 7 Pin Through Hole Right Angle  
+# Electronic Header 2 54 Mm 7 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -25,3 +25,85 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bear: :dolphin: :pizza:
 * md5_6_alpha: 2bcfr
 * md5_6: 3b55b7
+
+### all codes 
+|classification|electronic|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
+|color||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
+|description_extra|through_hole_right_angle|
+|description_extra_capital|Through Hole Right Angle|
+|description_extra_first_letter|t|
+|description_extra_first_letter_upper|T|
+|description_extra_upper|THROUGH_HOLE_RIGHT_ANGLE|
+|description_main|7_pin|
+|description_main_capital|7 Pin|
+|description_main_first_letter|7|
+|description_main_first_letter_upper|7|
+|description_main_upper|7_PIN|
+|description_only_numbers|7|
+|description_only_numbers_short|7|
+|description_or_color|7|
+|description_or_color_upper|7|
+|directory|parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle|
+|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2337.html', 'name': 'LCSC', 'part_number': 'C2337'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'name': 'LCSC', 'part_number': 'C2883695'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C124358.html', 'name': 'LCSC', 'part_number': 'C124358'}]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle/working|
+|id|electronic_header_2_54_mm_7_pin_through_hole_right_angle|
+|id_no_class|header_2_54_mm_7_pin_through_hole_right_angle|
+|id_no_size|7_pin_through_hole_right_angle|
+|id_no_type|2_54_mm_7_pin_through_hole_right_angle|
+|kicad_reference|CONN|
+|manufacturer||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_header_2_54_mm_7_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle/working)<br>[hi17pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 7 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>|
+|markdown_short|[electronic_header_2_54_mm_7_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_7_pin_through_hole_right_angle/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)[LCSC - C124358<br>](https://lcsc.com/product-detail/C124358.html)<br>|
+|md5|3b55b71d8fc944f0be3b78f569d360f6|
+|md5_10|3b55b71d8f|
+|md5_10_upper|3B55B71D8F|
+|md5_5|3b55b|
+|md5_5_upper|3B55B|
+|md5_6|3b55b7|
+|md5_6_alpha|2bcfr|
+|md5_6_alpha_upper|2BCFR|
+|md5_6_upper|3B55B7|
+|name|Electronic Header 2 54 Mm 7 Pin Through Hole Right Angle|
+|name_no_class|Header 2 54 Mm 7 Pin Through Hole Right Angle|
+|name_no_size|7 Pin Through Hole Right Angle|
+|name_no_size_short|7 Pin Through Hole Right Angle|
+|name_no_type|2 54 Mm 7 Pin Through Hole Right Angle|
+|oomp_key|oomp_electronic_header_2_54_mm_7_pin_through_hole_right_angle|
+|oomp_word|bear dolphin pizza|
+|oomp_word_emoji|:bear: :dolphin: :pizza:|
+|oomp_word_emoji_list|[':bear:', ':dolphin:', ':pizza:']|
+|oomp_word_list|['bear', 'dolphin', 'pizza']|
+|part_number||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|hi17pthra|
+|short_code_upper|HI17PTHRA|
+|size|2_54_mm|
+|size_capital|2.54 mm|
+|size_first_letter|2|
+|size_first_letter_upper|2|
+|size_only_numbers|254|
+|size_only_numbers_no_zeros|254|
+|size_upper|2_54_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x07_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x07_pin'}]|
+|type|header|
+|type_capital|Header|
+|type_first_letter|h|
+|type_first_letter_upper|H|
+|type_upper|HEADER|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

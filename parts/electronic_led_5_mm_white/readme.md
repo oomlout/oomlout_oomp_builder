@@ -1,4 +1,4 @@
-# Electronic LED 5 mm White  
+# Electronic Led 5 Mm White  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -25,3 +25,89 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :computer: :sparkles: :shoe:
 * md5_6_alpha: 4suy0
 * md5_6: 7b0fa8
+
+### all codes 
+|classification|electronic|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
+|color|white|
+|color_capital|White|
+|color_first_letter|w|
+|color_first_letter_upper|W|
+|color_upper|WHITE|
+|description_extra||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
+|description_main||
+|description_main_capital||
+|description_main_first_letter||
+|description_main_first_letter_upper||
+|description_main_upper||
+|description_only_numbers||
+|description_only_numbers_short| |
+|description_or_color|W |
+|description_or_color_upper|W |
+|directory|parts/electronic_led_5_mm_white|
+|distributors|[]|
+|filter||
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm', 'note': 'source footprint kicad_led_tht_led_d5_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d5_0mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l5w_electronic_led_5_mm_white//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l5w_electronic_led_5_mm_white', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l5w_electronic_led_5_mm_white'}]|
+|from_yaml|False|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working|
+|id|electronic_led_5_mm_white|
+|id_no_class|led_5_mm_white|
+|id_no_size|white|
+|id_no_type|5_mm_white|
+|kicad_reference|L|
+|manufacturer||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_led_5_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working)<br>[l5w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working)<br>[Electronic Led 5 Mm White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working)<br><br>|
+|markdown_short|[electronic_led_5_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white/working)<br><br>|
+|md5|7b0fa8663be769586716f0b94bbcc67d|
+|md5_10|7b0fa8663b|
+|md5_10_upper|7B0FA8663B|
+|md5_5|7b0fa|
+|md5_5_upper|7B0FA|
+|md5_6|7b0fa8|
+|md5_6_alpha|4suy0|
+|md5_6_alpha_upper|4SUY0|
+|md5_6_upper|7B0FA8|
+|name|Electronic Led 5 Mm White|
+|name_no_class|Led 5 Mm White|
+|name_no_size|White|
+|name_no_size_short|White|
+|name_no_type|5 Mm White|
+|oomp_key|oomp_electronic_led_5_mm_white|
+|oomp_word|computer sparkles shoe|
+|oomp_word_emoji|:computer: :sparkles: :shoe:|
+|oomp_word_emoji_list|[':computer:', ':sparkles:', ':shoe:']|
+|oomp_word_list|['computer', 'sparkles', 'shoe']|
+|part_number||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|l5w|
+|short_code_upper|L5W|
+|short_name|5 Mm White Led|
+|size|5_mm|
+|size_capital|5 mm|
+|size_first_letter|5|
+|size_first_letter_upper|5|
+|size_only_numbers|5|
+|size_only_numbers_no_zeros|5|
+|size_upper|5_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|
+|type|led|
+|type_capital|Led|
+|type_first_letter|l|
+|type_first_letter_upper|L|
+|type_upper|LED|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

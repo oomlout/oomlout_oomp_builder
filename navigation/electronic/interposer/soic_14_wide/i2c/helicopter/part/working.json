@@ -1,0 +1,164 @@
+{
+    "classification": "electronic",
+    "type": "interposer",
+    "size": "soic_14_wide",
+    "color": "",
+    "description_main": "i2c",
+    "description_extra": "helicopter",
+    "manufacturer": "",
+    "part_number": "",
+    "make_files": true,
+    "description": "An interposer between an i2c chip and a soic_14_wide package, The pins are numbered in the reverse order of being expected because the footprint is used as a mirror image, ie. it is the chip rather than a chuip being placed on it. This is the helicopter side (the side with the chips on it)",
+    "short_name": "",
+    "pins": {
+        "pin_1": {
+            "name": "pin_14",
+            "number": "1",
+            "type": "power"
+        },
+        "pin_2": {
+            "name": "pin_13",
+            "number": "2",
+            "type": "power"
+        },
+        "pin_3": {
+            "name": "pin_12",
+            "number": "3",
+            "type": "signal"
+        },
+        "pin_4": {
+            "name": "pin_11",
+            "number": "4",
+            "type": "signal"
+        },
+        "pin_5": {
+            "name": "pin_10",
+            "number": "5",
+            "type": "signal"
+        },
+        "pin_6": {
+            "name": "pin_9",
+            "number": "6",
+            "type": "signal"
+        },
+        "pin_7": {
+            "name": "pin_8",
+            "number": "7",
+            "type": "signal"
+        },
+        "pin_8": {
+            "name": "pin_7",
+            "number": "8",
+            "type": "signal"
+        },
+        "pin_9": {
+            "name": "address",
+            "number": "9",
+            "type": "signal"
+        },
+        "pin_10": {
+            "name": "cs",
+            "number": "10",
+            "type": "signal"
+        },
+        "pin_11": {
+            "name": "scl_3v3",
+            "number": "11",
+            "type": "signal"
+        },
+        "pin_12": {
+            "name": "sda_3v3",
+            "number": "12",
+            "type": "signal"
+        },
+        "pin_13": {
+            "name": "3v3",
+            "number": "13",
+            "type": "signal"
+        },
+        "pin_14": {
+            "name": "gnd",
+            "number": "14",
+            "type": "signal"
+        }
+    },
+    "kicad_reference": "U",
+    "notes": [],
+    "classification_upper": "ELECTRONIC",
+    "classification_capital": "Electronic",
+    "classification_first_letter": "e",
+    "classification_first_letter_upper": "E",
+    "type_upper": "INTERPOSER",
+    "type_capital": "Interposer",
+    "type_first_letter": "i",
+    "type_first_letter_upper": "I",
+    "size_upper": "SOIC_14_WIDE",
+    "size_capital": "Soic 14 Wide",
+    "size_first_letter": "s",
+    "size_first_letter_upper": "S",
+    "color_upper": "",
+    "color_capital": "",
+    "color_first_letter": "",
+    "color_first_letter_upper": "",
+    "description_main_upper": "I2C",
+    "description_main_capital": "I2C",
+    "description_main_first_letter": "i",
+    "description_main_first_letter_upper": "I",
+    "description_extra_upper": "HELICOPTER",
+    "description_extra_capital": "Helicopter",
+    "description_extra_first_letter": "h",
+    "description_extra_first_letter_upper": "H",
+    "manufacturer_upper": "",
+    "manufacturer_capital": "",
+    "manufacturer_first_letter": "",
+    "manufacturer_first_letter_upper": "",
+    "part_number_upper": "",
+    "part_number_capital": "",
+    "part_number_first_letter": "",
+    "part_number_first_letter_upper": "",
+    "id": "electronic_interposer_soic_14_wide_i2c_helicopter",
+    "id_no_class": "interposer_soic_14_wide_i2c_helicopter",
+    "id_no_type": "soic_14_wide_i2c_helicopter",
+    "id_no_size": "i2c_helicopter",
+    "oomp_key": "oomp_electronic_interposer_soic_14_wide_i2c_helicopter",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working",
+    "directory": "parts/electronic_interposer_soic_14_wide_i2c_helicopter",
+    "name": "Electronic Interposer Soic 14 Wide I2C Helicopter",
+    "name_no_class": "Interposer Soic 14 Wide I2C Helicopter",
+    "name_no_type": "Soic 14 Wide I2C Helicopter",
+    "name_no_size": "I2C Helicopter",
+    "short_code": "insoic14wi2cheli",
+    "short_code_upper": "INSOIC14WI2CHELI",
+    "distributors": [],
+    "manufacturers": [],
+    "md5": "67456919c33f39dd13824a5f4470e6b9",
+    "md5_5": "67456",
+    "md5_5_upper": "67456",
+    "md5_6": "674569",
+    "md5_6_upper": "674569",
+    "md5_6_alpha": "4127d",
+    "md5_6_alpha_upper": "4127D",
+    "md5_10": "67456919c3",
+    "md5_10_upper": "67456919C3",
+    "oomp_word": "herb snake cactus",
+    "oomp_word_list": [
+        "herb",
+        "snake",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":herb: :snake: :cactus:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":snake:",
+        ":cactus:"
+    ],
+    "size_only_numbers": "14",
+    "size_only_numbers_no_zeros": "14",
+    "description_only_numbers": "2",
+    "description_only_numbers_short": "2",
+    "name_no_size_short": "I2C Helicopter",
+    "description_or_color": "2",
+    "description_or_color_upper": "2",
+    "markdown_full": "[electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br>[insoic14wi2cheli](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br>[Electronic Interposer Soic 14 Wide I2C Helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br><br>",
+    "markdown_short": "[electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter/working)<br><br>"
+}

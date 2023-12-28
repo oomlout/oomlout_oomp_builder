@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :maple_leaf: :dog: :eyeglasses:
 * md5_6_alpha: 3y5kj
 * md5_6: 6533b3
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|01_01_03|
+|description_main_length_1|0|
+|description_main_length_2|01|
+|description_main_length_3|01_|
+|description_main_length_4|01_0|
+|description_main_length_5|01_01|
+|description_main_length_6|01_01_|
+|description_main_name|01 01 03|
+|description_main_no_space_length_1|0|
+|description_main_no_space_length_2|01|
+|description_main_no_space_length_3|010|
+|description_main_no_space_length_4|0101|
+|description_main_no_space_length_5|01010|
+|description_main_no_space_length_6|010103|
+|description_main_no_space_upper_length_1|0|
+|description_main_no_space_upper_length_2|01|
+|description_main_no_space_upper_length_3|010|
+|description_main_no_space_upper_length_4|0101|
+|description_main_no_space_upper_length_5|01010|
+|description_main_no_space_upper_length_6|010103|
+|description_main_upper_length_1|0|
+|description_main_upper_length_2|01|
+|description_main_upper_length_3|01_|
+|description_main_upper_length_4|01_0|
+|description_main_upper_length_5|01_01|
+|description_main_upper_length_6|01_01_|
+|directory|parts/oobb_part_plate_01_01_03|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_03|
+|id|oobb_part_plate_01_01_03|
+|id_no_class|part_plate_01_01_03|
+|id_no_color|010103|
+|id_no_size|01_01_03|
+|id_no_type|plate_01_01_03|
+|manufacturer||
+|manufacturer_name||
+|md5|6533b3c6e257318cc52e09d39f5b7517|
+|md5_10|6533b3c6e2|
+|md5_10_upper|6533B3C6E2|
+|md5_5|6533b|
+|md5_5_upper|6533B|
+|md5_6|6533b3|
+|md5_6_alpha|3y5kj|
+|md5_6_alpha_upper|3Y5KJ|
+|md5_6_upper|6533B3|
+|name|Oobb Part Plate 01 01 03|
+|name_no_class|Part Plate 01 01 03|
+|name_no_color|010103|
+|name_no_size|01 01 03|
+|name_no_type|Plate 01 01 03|
+|oomp_key|oomp_oobb_part_plate_01_01_03|
+|oomp_word|maple_leaf dog eyeglasses|
+|oomp_word_emoji|:maple_leaf: :dog: :eyeglasses:|
+|oomp_word_emoji_list|[':maple_leaf:', ':dog:', ':eyeglasses:']|
+|oomp_word_list|['maple_leaf', 'dog', 'eyeglasses']|
+|part_number||
+|part_number_name||
+|size|plate|
+|size_length_1|p|
+|size_length_2|pl|
+|size_length_3|pla|
+|size_length_4|plat|
+|size_length_5|plate|
+|size_length_6|plate|
+|size_name|Plate|
+|size_no_space_length_1|p|
+|size_no_space_length_2|pl|
+|size_no_space_length_3|pla|
+|size_no_space_length_4|plat|
+|size_no_space_length_5|plate|
+|size_no_space_length_6|plate|
+|size_no_space_upper_length_1|P|
+|size_no_space_upper_length_2|PL|
+|size_no_space_upper_length_3|PLA|
+|size_no_space_upper_length_4|PLAT|
+|size_no_space_upper_length_5|PLATE|
+|size_no_space_upper_length_6|PLATE|
+|size_upper_length_1|P|
+|size_upper_length_2|PL|
+|size_upper_length_3|PLA|
+|size_upper_length_4|PLAT|
+|size_upper_length_5|PLATE|
+|size_upper_length_6|PLATE|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

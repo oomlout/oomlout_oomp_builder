@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rainbow: :rocket: :baby:
 * md5_6_alpha: 8p3bx
 * md5_6: dee51d
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|13_09|
+|description_main_length_1|1|
+|description_main_length_2|13|
+|description_main_length_3|13_|
+|description_main_length_4|13_0|
+|description_main_length_5|13_09|
+|description_main_length_6|13_09|
+|description_main_name|13 09|
+|description_main_no_space_length_1|1|
+|description_main_no_space_length_2|13|
+|description_main_no_space_length_3|130|
+|description_main_no_space_length_4|1309|
+|description_main_no_space_length_5|1309|
+|description_main_no_space_length_6|1309|
+|description_main_no_space_upper_length_1|1|
+|description_main_no_space_upper_length_2|13|
+|description_main_no_space_upper_length_3|130|
+|description_main_no_space_upper_length_4|1309|
+|description_main_no_space_upper_length_5|1309|
+|description_main_no_space_upper_length_6|1309|
+|description_main_upper_length_1|1|
+|description_main_upper_length_2|13|
+|description_main_upper_length_3|13_|
+|description_main_upper_length_4|13_0|
+|description_main_upper_length_5|13_09|
+|description_main_upper_length_6|13_09|
+|directory|parts/oobb_part_smd_magazine_joiner_13_09|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_13_09|
+|id|oobb_part_smd_magazine_joiner_13_09|
+|id_no_class|part_smd_magazine_joiner_13_09|
+|id_no_color|1309|
+|id_no_size|13_09|
+|id_no_type|smd_magazine_joiner_13_09|
+|manufacturer||
+|manufacturer_name||
+|md5|dee51db72169350c3798cf9b290e5383|
+|md5_10|dee51db721|
+|md5_10_upper|DEE51DB721|
+|md5_5|dee51|
+|md5_5_upper|DEE51|
+|md5_6|dee51d|
+|md5_6_alpha|8p3bx|
+|md5_6_alpha_upper|8P3BX|
+|md5_6_upper|DEE51D|
+|name|Oobb Part SMD Magazine Joiner 13 09|
+|name_no_class|Part SMD Magazine Joiner 13 09|
+|name_no_color|1309|
+|name_no_size|13 09|
+|name_no_type|SMD Magazine Joiner 13 09|
+|oomp_key|oomp_oobb_part_smd_magazine_joiner_13_09|
+|oomp_word|rainbow rocket baby|
+|oomp_word_emoji|:rainbow: :rocket: :baby:|
+|oomp_word_emoji_list|[':rainbow:', ':rocket:', ':baby:']|
+|oomp_word_list|['rainbow', 'rocket', 'baby']|
+|part_number||
+|part_number_name||
+|size|smd_magazine_joiner|
+|size_length_1|s|
+|size_length_2|sm|
+|size_length_3|smd|
+|size_length_4|smd_|
+|size_length_5|smd_m|
+|size_length_6|smd_ma|
+|size_name|SMD Magazine Joiner|
+|size_no_space_length_1|s|
+|size_no_space_length_2|sm|
+|size_no_space_length_3|smd|
+|size_no_space_length_4|smdm|
+|size_no_space_length_5|smdma|
+|size_no_space_length_6|smdmag|
+|size_no_space_upper_length_1|S|
+|size_no_space_upper_length_2|SM|
+|size_no_space_upper_length_3|SMD|
+|size_no_space_upper_length_4|SMDM|
+|size_no_space_upper_length_5|SMDMA|
+|size_no_space_upper_length_6|SMDMAG|
+|size_upper_length_1|S|
+|size_upper_length_2|SM|
+|size_upper_length_3|SMD|
+|size_upper_length_4|SMD_|
+|size_upper_length_5|SMD_M|
+|size_upper_length_6|SMD_MA|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

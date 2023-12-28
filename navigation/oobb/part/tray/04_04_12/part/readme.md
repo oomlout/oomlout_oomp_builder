@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :gift: :crown: :doughnut:
 * md5_6_alpha: 4o4ht
 * md5_6: 77b0c1
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|04_04_12|
+|description_main_length_1|0|
+|description_main_length_2|04|
+|description_main_length_3|04_|
+|description_main_length_4|04_0|
+|description_main_length_5|04_04|
+|description_main_length_6|04_04_|
+|description_main_name|04 04 12|
+|description_main_no_space_length_1|0|
+|description_main_no_space_length_2|04|
+|description_main_no_space_length_3|040|
+|description_main_no_space_length_4|0404|
+|description_main_no_space_length_5|04041|
+|description_main_no_space_length_6|040412|
+|description_main_no_space_upper_length_1|0|
+|description_main_no_space_upper_length_2|04|
+|description_main_no_space_upper_length_3|040|
+|description_main_no_space_upper_length_4|0404|
+|description_main_no_space_upper_length_5|04041|
+|description_main_no_space_upper_length_6|040412|
+|description_main_upper_length_1|0|
+|description_main_upper_length_2|04|
+|description_main_upper_length_3|04_|
+|description_main_upper_length_4|04_0|
+|description_main_upper_length_5|04_04|
+|description_main_upper_length_6|04_04_|
+|directory|parts/oobb_part_tray_04_04_12|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_04_12|
+|id|oobb_part_tray_04_04_12|
+|id_no_class|part_tray_04_04_12|
+|id_no_color|040412|
+|id_no_size|04_04_12|
+|id_no_type|tray_04_04_12|
+|manufacturer||
+|manufacturer_name||
+|md5|77b0c1f13e7fc0d07ddd73bd2d8f5f89|
+|md5_10|77b0c1f13e|
+|md5_10_upper|77B0C1F13E|
+|md5_5|77b0c|
+|md5_5_upper|77B0C|
+|md5_6|77b0c1|
+|md5_6_alpha|4o4ht|
+|md5_6_alpha_upper|4O4HT|
+|md5_6_upper|77B0C1|
+|name|Oobb Part Tray 04 04 12|
+|name_no_class|Part Tray 04 04 12|
+|name_no_color|040412|
+|name_no_size|04 04 12|
+|name_no_type|Tray 04 04 12|
+|oomp_key|oomp_oobb_part_tray_04_04_12|
+|oomp_word|gift crown doughnut|
+|oomp_word_emoji|:gift: :crown: :doughnut:|
+|oomp_word_emoji_list|[':gift:', ':crown:', ':doughnut:']|
+|oomp_word_list|['gift', 'crown', 'doughnut']|
+|part_number||
+|part_number_name||
+|size|tray|
+|size_length_1|t|
+|size_length_2|tr|
+|size_length_3|tra|
+|size_length_4|tray|
+|size_length_5|tray|
+|size_length_6|tray|
+|size_name|Tray|
+|size_no_space_length_1|t|
+|size_no_space_length_2|tr|
+|size_no_space_length_3|tra|
+|size_no_space_length_4|tray|
+|size_no_space_length_5|tray|
+|size_no_space_length_6|tray|
+|size_no_space_upper_length_1|T|
+|size_no_space_upper_length_2|TR|
+|size_no_space_upper_length_3|TRA|
+|size_no_space_upper_length_4|TRAY|
+|size_no_space_upper_length_5|TRAY|
+|size_no_space_upper_length_6|TRAY|
+|size_upper_length_1|T|
+|size_upper_length_2|TR|
+|size_upper_length_3|TRA|
+|size_upper_length_4|TRAY|
+|size_upper_length_5|TRAY|
+|size_upper_length_6|TRAY|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

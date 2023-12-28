@@ -40,6 +40,7 @@
       * [hex_head](m2_5/black/5_mm_length/hex_head)
     * [6_mm_length](m2_5/black/6_mm_length)
       * [hex_head](m2_5/black/6_mm_length/hex_head)
+      * [phillips_head](m2_5/black/6_mm_length/phillips_head)
     * [8_mm_length](m2_5/black/8_mm_length)
       * [hex_head](m2_5/black/8_mm_length/hex_head)
 * [m2_6](/m2_6)

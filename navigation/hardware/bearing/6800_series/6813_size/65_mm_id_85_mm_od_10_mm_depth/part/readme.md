@@ -20,8 +20,175 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: br6813
 * oomp_word: herb books curry
 * oomp_word_emoji :herb: :books: :curry:
 * md5_6_alpha: 41hob
 * md5_6: 6793bb
+
+### all codes 
+|classification|hardware|
+|classification_length_1|h|
+|classification_length_2|ha|
+|classification_length_3|har|
+|classification_length_4|hard|
+|classification_length_5|hardw|
+|classification_length_6|hardwa|
+|classification_name|Hardware|
+|classification_no_space_length_1|h|
+|classification_no_space_length_2|ha|
+|classification_no_space_length_3|har|
+|classification_no_space_length_4|hard|
+|classification_no_space_length_5|hardw|
+|classification_no_space_length_6|hardwa|
+|classification_no_space_upper_length_1|H|
+|classification_no_space_upper_length_2|HA|
+|classification_no_space_upper_length_3|HAR|
+|classification_no_space_upper_length_4|HARD|
+|classification_no_space_upper_length_5|HARDW|
+|classification_no_space_upper_length_6|HARDWA|
+|classification_upper_length_1|H|
+|classification_upper_length_2|HA|
+|classification_upper_length_3|HAR|
+|classification_upper_length_4|HARD|
+|classification_upper_length_5|HARDW|
+|classification_upper_length_6|HARDWA|
+|color|6813_size|
+|color_length_1|6|
+|color_length_2|68|
+|color_length_3|681|
+|color_length_4|6813|
+|color_length_5|6813_|
+|color_length_6|6813_s|
+|color_name|6813 Size|
+|color_no_space_length_1|6|
+|color_no_space_length_2|68|
+|color_no_space_length_3|681|
+|color_no_space_length_4|6813|
+|color_no_space_length_5|6813s|
+|color_no_space_length_6|6813si|
+|color_no_space_upper_length_1|6|
+|color_no_space_upper_length_2|68|
+|color_no_space_upper_length_3|681|
+|color_no_space_upper_length_4|6813|
+|color_no_space_upper_length_5|6813S|
+|color_no_space_upper_length_6|6813SI|
+|color_upper_length_1|6|
+|color_upper_length_2|68|
+|color_upper_length_3|681|
+|color_upper_length_4|6813|
+|color_upper_length_5|6813_|
+|color_upper_length_6|6813_S|
+|description_extra||
+|description_extra_name||
+|description_main|65_mm_id_85_mm_od_10_mm_depth|
+|description_main_length_1|6|
+|description_main_length_2|65|
+|description_main_length_3|65_|
+|description_main_length_4|65_m|
+|description_main_length_5|65_mm|
+|description_main_length_6|65_mm_|
+|description_main_name|65 mm ID 85 mm OD 10 mm Depth|
+|description_main_no_space_length_1|6|
+|description_main_no_space_length_2|65|
+|description_main_no_space_length_3|65m|
+|description_main_no_space_length_4|65mm|
+|description_main_no_space_length_5|65mmi|
+|description_main_no_space_length_6|65mmid|
+|description_main_no_space_upper_length_1|6|
+|description_main_no_space_upper_length_2|65|
+|description_main_no_space_upper_length_3|65M|
+|description_main_no_space_upper_length_4|65MM|
+|description_main_no_space_upper_length_5|65MMI|
+|description_main_no_space_upper_length_6|65MMID|
+|description_main_upper_length_1|6|
+|description_main_upper_length_2|65|
+|description_main_upper_length_3|65_|
+|description_main_upper_length_4|65_M|
+|description_main_upper_length_5|65_MM|
+|description_main_upper_length_6|65_MM_|
+|directory|parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|id|hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|id_no_class|bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|id_no_color|65_mm_id_85_mm_od_10_mm_depth|
+|id_no_size|6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|id_no_type|6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|manufacturer||
+|manufacturer_name||
+|md5|6793bb2a16f6e6611140a288cd6b24b6|
+|md5_10|6793bb2a16|
+|md5_10_upper|6793BB2A16|
+|md5_5|6793b|
+|md5_5_upper|6793B|
+|md5_6|6793bb|
+|md5_6_alpha|41hob|
+|md5_6_alpha_upper|41HOB|
+|md5_6_upper|6793BB|
+|name|Hardware Bearing 6800 Series 6813 Size 65 mm ID 85 mm OD 10 mm Depth|
+|name_no_class|Bearing 6800 Series 6813 Size 65 mm ID 85 mm OD 10 mm Depth|
+|name_no_color|65 mm ID 85 mm OD 10 mm Depth|
+|name_no_size|6813 Size 65 mm ID 85 mm OD 10 mm Depth|
+|name_no_type|6800 Series 6813 Size 65 mm ID 85 mm OD 10 mm Depth|
+|oomlout_short_code|br6813|
+|oomlout_short_code_upper|BR6813|
+|oomp_key|oomp_hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth|
+|oomp_word|herb books curry|
+|oomp_word_emoji|:herb: :books: :curry:|
+|oomp_word_emoji_list|[':herb:', ':books:', ':curry:']|
+|oomp_word_list|['herb', 'books', 'curry']|
+|part_number||
+|part_number_name||
+|size|6800_series|
+|size_length_1|6|
+|size_length_2|68|
+|size_length_3|680|
+|size_length_4|6800|
+|size_length_5|6800_|
+|size_length_6|6800_s|
+|size_name|6800 Series|
+|size_no_space_length_1|6|
+|size_no_space_length_2|68|
+|size_no_space_length_3|680|
+|size_no_space_length_4|6800|
+|size_no_space_length_5|6800s|
+|size_no_space_length_6|6800se|
+|size_no_space_upper_length_1|6|
+|size_no_space_upper_length_2|68|
+|size_no_space_upper_length_3|680|
+|size_no_space_upper_length_4|6800|
+|size_no_space_upper_length_5|6800S|
+|size_no_space_upper_length_6|6800SE|
+|size_upper_length_1|6|
+|size_upper_length_2|68|
+|size_upper_length_3|680|
+|size_upper_length_4|6800|
+|size_upper_length_5|6800_|
+|size_upper_length_6|6800_S|
+|type|bearing|
+|type_length_1|b|
+|type_length_2|be|
+|type_length_3|bea|
+|type_length_4|bear|
+|type_length_5|beari|
+|type_length_6|bearin|
+|type_name|Bearing|
+|type_no_space_length_1|b|
+|type_no_space_length_2|be|
+|type_no_space_length_3|bea|
+|type_no_space_length_4|bear|
+|type_no_space_length_5|beari|
+|type_no_space_length_6|bearin|
+|type_no_space_upper_length_1|B|
+|type_no_space_upper_length_2|BE|
+|type_no_space_upper_length_3|BEA|
+|type_no_space_upper_length_4|BEAR|
+|type_no_space_upper_length_5|BEARI|
+|type_no_space_upper_length_6|BEARIN|
+|type_upper_length_1|B|
+|type_upper_length_2|BE|
+|type_upper_length_3|BEA|
+|type_upper_length_4|BEAR|
+|type_upper_length_5|BEARI|
+|type_upper_length_6|BEARIN|
+|files|['base.yaml', 'working.yaml']|

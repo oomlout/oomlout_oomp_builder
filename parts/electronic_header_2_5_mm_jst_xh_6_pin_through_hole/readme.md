@@ -1,4 +1,4 @@
-# Electronic Header 2 5 mm Jst Xh 6 Pin Through Hole  
+# Electronic Header 2 5 Mm Jst Xh 6 Pin Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -25,3 +25,85 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sunny: :crown: :book:
 * md5_6_alpha: 1mk6c
 * md5_6: 29b0a4
+
+### all codes 
+|classification|electronic|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
+|color||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
+|description_extra|through_hole|
+|description_extra_capital|Through Hole|
+|description_extra_first_letter|t|
+|description_extra_first_letter_upper|T|
+|description_extra_upper|THROUGH_HOLE|
+|description_main|6_pin|
+|description_main_capital|6 Pin|
+|description_main_first_letter|6|
+|description_main_first_letter_upper|6|
+|description_main_upper|6_PIN|
+|description_only_numbers|6|
+|description_only_numbers_short|6|
+|description_or_color|6|
+|description_or_color_upper|6|
+|directory|parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole|
+|distributors|[]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working|
+|id|electronic_header_2_5_mm_jst_xh_6_pin_through_hole|
+|id_no_class|header_2_5_mm_jst_xh_6_pin_through_hole|
+|id_no_size|6_pin_through_hole|
+|id_no_type|2_5_mm_jst_xh_6_pin_through_hole|
+|kicad_reference|CONN|
+|manufacturer||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_header_2_5_mm_jst_xh_6_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working)<br>[hjxh6pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working)<br>[Electronic Header 2 5 Mm Jst Xh 6 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working)<br><br>|
+|markdown_short|[electronic_header_2_5_mm_jst_xh_6_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_through_hole/working)<br><br>|
+|md5|29b0a49f2640598c2bcedaf246916109|
+|md5_10|29b0a49f26|
+|md5_10_upper|29B0A49F26|
+|md5_5|29b0a|
+|md5_5_upper|29B0A|
+|md5_6|29b0a4|
+|md5_6_alpha|1mk6c|
+|md5_6_alpha_upper|1MK6C|
+|md5_6_upper|29B0A4|
+|name|Electronic Header 2 5 Mm Jst Xh 6 Pin Through Hole|
+|name_no_class|Header 2 5 Mm Jst Xh 6 Pin Through Hole|
+|name_no_size|6 Pin Through Hole|
+|name_no_size_short|6 Pin Through Hole|
+|name_no_type|2 5 Mm Jst Xh 6 Pin Through Hole|
+|oomp_key|oomp_electronic_header_2_5_mm_jst_xh_6_pin_through_hole|
+|oomp_word|sunny crown book|
+|oomp_word_emoji|:sunny: :crown: :book:|
+|oomp_word_emoji_list|[':sunny:', ':crown:', ':book:']|
+|oomp_word_list|['sunny', 'crown', 'book']|
+|part_number||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|hjxh6pth|
+|short_code_upper|HJXH6PTH|
+|size|2_5_mm_jst_xh|
+|size_capital|2.5 mm Jst Xh|
+|size_first_letter|2|
+|size_first_letter_upper|2|
+|size_only_numbers|25|
+|size_only_numbers_no_zeros|25|
+|size_upper|2_5_MM_JST_XH|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin'}]|
+|type|header|
+|type_capital|Header|
+|type_first_letter|h|
+|type_first_letter_upper|H|
+|type_upper|HEADER|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :gift: :factory: :bike:
 * md5_6_alpha: 4od7t
 * md5_6: 77dce9
+
+### all codes 
+|classification|oobb|
+|classification_length_1|o|
+|classification_length_2|oo|
+|classification_length_3|oob|
+|classification_length_4|oobb|
+|classification_length_5|oobb|
+|classification_length_6|oobb|
+|classification_name|Oobb|
+|classification_no_space_length_1|o|
+|classification_no_space_length_2|oo|
+|classification_no_space_length_3|oob|
+|classification_no_space_length_4|oobb|
+|classification_no_space_length_5|oobb|
+|classification_no_space_length_6|oobb|
+|classification_no_space_upper_length_1|O|
+|classification_no_space_upper_length_2|OO|
+|classification_no_space_upper_length_3|OOB|
+|classification_no_space_upper_length_4|OOBB|
+|classification_no_space_upper_length_5|OOBB|
+|classification_no_space_upper_length_6|OOBB|
+|classification_upper_length_1|O|
+|classification_upper_length_2|OO|
+|classification_upper_length_3|OOB|
+|classification_upper_length_4|OOBB|
+|classification_upper_length_5|OOBB|
+|classification_upper_length_6|OOBB|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|09_ex_nut_small|
+|description_main_length_1|0|
+|description_main_length_2|09|
+|description_main_length_3|09_|
+|description_main_length_4|09_e|
+|description_main_length_5|09_ex|
+|description_main_length_6|09_ex_|
+|description_main_name|09 Ex Nut Small|
+|description_main_no_space_length_1|0|
+|description_main_no_space_length_2|09|
+|description_main_no_space_length_3|09e|
+|description_main_no_space_length_4|09ex|
+|description_main_no_space_length_5|09exn|
+|description_main_no_space_length_6|09exnu|
+|description_main_no_space_upper_length_1|0|
+|description_main_no_space_upper_length_2|09|
+|description_main_no_space_upper_length_3|09E|
+|description_main_no_space_upper_length_4|09EX|
+|description_main_no_space_upper_length_5|09EXN|
+|description_main_no_space_upper_length_6|09EXNU|
+|description_main_upper_length_1|0|
+|description_main_upper_length_2|09|
+|description_main_upper_length_3|09_|
+|description_main_upper_length_4|09_E|
+|description_main_upper_length_5|09_EX|
+|description_main_upper_length_6|09_EX_|
+|directory|parts/oobb_part_shaft_09_ex_nut_small|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09_ex_nut_small|
+|id|oobb_part_shaft_09_ex_nut_small|
+|id_no_class|part_shaft_09_ex_nut_small|
+|id_no_color|09exnutsmall|
+|id_no_size|09_ex_nut_small|
+|id_no_type|shaft_09_ex_nut_small|
+|manufacturer||
+|manufacturer_name||
+|md5|77dce90db79f59cab18e434b8ce13347|
+|md5_10|77dce90db7|
+|md5_10_upper|77DCE90DB7|
+|md5_5|77dce|
+|md5_5_upper|77DCE|
+|md5_6|77dce9|
+|md5_6_alpha|4od7t|
+|md5_6_alpha_upper|4OD7T|
+|md5_6_upper|77DCE9|
+|name|Oobb Part Shaft 09 Ex Nut Small|
+|name_no_class|Part Shaft 09 Ex Nut Small|
+|name_no_color|09Exnutsmall|
+|name_no_size|09 Ex Nut Small|
+|name_no_type|Shaft 09 Ex Nut Small|
+|oomp_key|oomp_oobb_part_shaft_09_ex_nut_small|
+|oomp_word|gift factory bike|
+|oomp_word_emoji|:gift: :factory: :bike:|
+|oomp_word_emoji_list|[':gift:', ':factory:', ':bike:']|
+|oomp_word_list|['gift', 'factory', 'bike']|
+|part_number||
+|part_number_name||
+|size|shaft|
+|size_length_1|s|
+|size_length_2|sh|
+|size_length_3|sha|
+|size_length_4|shaf|
+|size_length_5|shaft|
+|size_length_6|shaft|
+|size_name|Shaft|
+|size_no_space_length_1|s|
+|size_no_space_length_2|sh|
+|size_no_space_length_3|sha|
+|size_no_space_length_4|shaf|
+|size_no_space_length_5|shaft|
+|size_no_space_length_6|shaft|
+|size_no_space_upper_length_1|S|
+|size_no_space_upper_length_2|SH|
+|size_no_space_upper_length_3|SHA|
+|size_no_space_upper_length_4|SHAF|
+|size_no_space_upper_length_5|SHAFT|
+|size_no_space_upper_length_6|SHAFT|
+|size_upper_length_1|S|
+|size_upper_length_2|SH|
+|size_upper_length_3|SHA|
+|size_upper_length_4|SHAF|
+|size_upper_length_5|SHAFT|
+|size_upper_length_6|SHAFT|
+|type|part|
+|type_length_1|p|
+|type_length_2|pa|
+|type_length_3|par|
+|type_length_4|part|
+|type_length_5|part|
+|type_length_6|part|
+|type_name|Part|
+|type_no_space_length_1|p|
+|type_no_space_length_2|pa|
+|type_no_space_length_3|par|
+|type_no_space_length_4|part|
+|type_no_space_length_5|part|
+|type_no_space_length_6|part|
+|type_no_space_upper_length_1|P|
+|type_no_space_upper_length_2|PA|
+|type_no_space_upper_length_3|PAR|
+|type_no_space_upper_length_4|PART|
+|type_no_space_upper_length_5|PART|
+|type_no_space_upper_length_6|PART|
+|type_upper_length_1|P|
+|type_upper_length_2|PA|
+|type_upper_length_3|PAR|
+|type_upper_length_4|PART|
+|type_upper_length_5|PART|
+|type_upper_length_6|PART|
+|files|['base.yaml', 'working.yaml']|

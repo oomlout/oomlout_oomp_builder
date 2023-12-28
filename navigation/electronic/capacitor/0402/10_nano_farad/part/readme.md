@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :palm_tree: :hamburger: :nose:
 * md5_6_alpha: 45wkn
 * md5_6: 6ab827
+
+### all codes 
+|classification|electronic|
+|classification_length_1|e|
+|classification_length_2|el|
+|classification_length_3|ele|
+|classification_length_4|elec|
+|classification_length_5|elect|
+|classification_length_6|electr|
+|classification_name|Electronic|
+|classification_no_space_length_1|e|
+|classification_no_space_length_2|el|
+|classification_no_space_length_3|ele|
+|classification_no_space_length_4|elec|
+|classification_no_space_length_5|elect|
+|classification_no_space_length_6|electr|
+|classification_no_space_upper_length_1|E|
+|classification_no_space_upper_length_2|EL|
+|classification_no_space_upper_length_3|ELE|
+|classification_no_space_upper_length_4|ELEC|
+|classification_no_space_upper_length_5|ELECT|
+|classification_no_space_upper_length_6|ELECTR|
+|classification_upper_length_1|E|
+|classification_upper_length_2|EL|
+|classification_upper_length_3|ELE|
+|classification_upper_length_4|ELEC|
+|classification_upper_length_5|ELECT|
+|classification_upper_length_6|ELECTR|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|10_nano_farad|
+|description_main_length_1|1|
+|description_main_length_2|10|
+|description_main_length_3|10_|
+|description_main_length_4|10_n|
+|description_main_length_5|10_na|
+|description_main_length_6|10_nan|
+|description_main_name|10 Nano Farad|
+|description_main_no_space_length_1|1|
+|description_main_no_space_length_2|10|
+|description_main_no_space_length_3|10n|
+|description_main_no_space_length_4|10na|
+|description_main_no_space_length_5|10nan|
+|description_main_no_space_length_6|10nano|
+|description_main_no_space_upper_length_1|1|
+|description_main_no_space_upper_length_2|10|
+|description_main_no_space_upper_length_3|10N|
+|description_main_no_space_upper_length_4|10NA|
+|description_main_no_space_upper_length_5|10NAN|
+|description_main_no_space_upper_length_6|10NANO|
+|description_main_upper_length_1|1|
+|description_main_upper_length_2|10|
+|description_main_upper_length_3|10_|
+|description_main_upper_length_4|10_N|
+|description_main_upper_length_5|10_NA|
+|description_main_upper_length_6|10_NAN|
+|directory|parts/electronic_capacitor_0402_10_nano_farad|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad|
+|id|electronic_capacitor_0402_10_nano_farad|
+|id_no_class|capacitor_0402_10_nano_farad|
+|id_no_color|10nanofarad|
+|id_no_size|10_nano_farad|
+|id_no_type|0402_10_nano_farad|
+|manufacturer||
+|manufacturer_name||
+|md5|6ab82773a09b6f3ae48a4a64e5fcce7c|
+|md5_10|6ab82773a0|
+|md5_10_upper|6AB82773A0|
+|md5_5|6ab82|
+|md5_5_upper|6AB82|
+|md5_6|6ab827|
+|md5_6_alpha|45wkn|
+|md5_6_alpha_upper|45WKN|
+|md5_6_upper|6AB827|
+|name|Electronic Capacitor 0402 10 Nano Farad|
+|name_no_class|Capacitor 0402 10 Nano Farad|
+|name_no_color|10Nanofarad|
+|name_no_size|10 Nano Farad|
+|name_no_type|0402 10 Nano Farad|
+|oomp_key|oomp_electronic_capacitor_0402_10_nano_farad|
+|oomp_word|palm_tree hamburger nose|
+|oomp_word_emoji|:palm_tree: :hamburger: :nose:|
+|oomp_word_emoji_list|[':palm_tree:', ':hamburger:', ':nose:']|
+|oomp_word_list|['palm_tree', 'hamburger', 'nose']|
+|part_number||
+|part_number_name||
+|size|0402|
+|size_length_1|0|
+|size_length_2|04|
+|size_length_3|040|
+|size_length_4|0402|
+|size_length_5|0402|
+|size_length_6|0402|
+|size_name|0402|
+|size_no_space_length_1|0|
+|size_no_space_length_2|04|
+|size_no_space_length_3|040|
+|size_no_space_length_4|0402|
+|size_no_space_length_5|0402|
+|size_no_space_length_6|0402|
+|size_no_space_upper_length_1|0|
+|size_no_space_upper_length_2|04|
+|size_no_space_upper_length_3|040|
+|size_no_space_upper_length_4|0402|
+|size_no_space_upper_length_5|0402|
+|size_no_space_upper_length_6|0402|
+|size_upper_length_1|0|
+|size_upper_length_2|04|
+|size_upper_length_3|040|
+|size_upper_length_4|0402|
+|size_upper_length_5|0402|
+|size_upper_length_6|0402|
+|type|capacitor|
+|type_length_1|c|
+|type_length_2|ca|
+|type_length_3|cap|
+|type_length_4|capa|
+|type_length_5|capac|
+|type_length_6|capaci|
+|type_name|Capacitor|
+|type_no_space_length_1|c|
+|type_no_space_length_2|ca|
+|type_no_space_length_3|cap|
+|type_no_space_length_4|capa|
+|type_no_space_length_5|capac|
+|type_no_space_length_6|capaci|
+|type_no_space_upper_length_1|C|
+|type_no_space_upper_length_2|CA|
+|type_no_space_upper_length_3|CAP|
+|type_no_space_upper_length_4|CAPA|
+|type_no_space_upper_length_5|CAPAC|
+|type_no_space_upper_length_6|CAPACI|
+|type_upper_length_1|C|
+|type_upper_length_2|CA|
+|type_upper_length_3|CAP|
+|type_upper_length_4|CAPA|
+|type_upper_length_5|CAPAC|
+|type_upper_length_6|CAPACI|
+|files|['base.yaml', 'working.yaml']|

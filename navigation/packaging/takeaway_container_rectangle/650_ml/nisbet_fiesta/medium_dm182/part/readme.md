@@ -26,3 +26,168 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :poop: :sandal: :fireworks:
 * md5_6_alpha: ufec
 * md5_6: 15a974
+
+### all codes 
+|classification|packaging|
+|classification_length_1|p|
+|classification_length_2|pa|
+|classification_length_3|pac|
+|classification_length_4|pack|
+|classification_length_5|packa|
+|classification_length_6|packag|
+|classification_name|Packaging|
+|classification_no_space_length_1|p|
+|classification_no_space_length_2|pa|
+|classification_no_space_length_3|pac|
+|classification_no_space_length_4|pack|
+|classification_no_space_length_5|packa|
+|classification_no_space_length_6|packag|
+|classification_no_space_upper_length_1|P|
+|classification_no_space_upper_length_2|PA|
+|classification_no_space_upper_length_3|PAC|
+|classification_no_space_upper_length_4|PACK|
+|classification_no_space_upper_length_5|PACKA|
+|classification_no_space_upper_length_6|PACKAG|
+|classification_upper_length_1|P|
+|classification_upper_length_2|PA|
+|classification_upper_length_3|PAC|
+|classification_upper_length_4|PACK|
+|classification_upper_length_5|PACKA|
+|classification_upper_length_6|PACKAG|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main||
+|description_main_name||
+|directory|parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182|
+|id|packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182|
+|id_no_class|takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182|
+|id_no_color|nisbetfiestamediumdm182|
+|id_no_size|nisbet_fiesta_medium_dm182|
+|id_no_type|650_ml_nisbet_fiesta_medium_dm182|
+|manufacturer|nisbet_fiesta|
+|manufacturer_length_1|n|
+|manufacturer_length_2|ni|
+|manufacturer_length_3|nis|
+|manufacturer_length_4|nisb|
+|manufacturer_length_5|nisbe|
+|manufacturer_length_6|nisbet|
+|manufacturer_name|Nisbet Fiesta|
+|manufacturer_no_space_length_1|n|
+|manufacturer_no_space_length_2|ni|
+|manufacturer_no_space_length_3|nis|
+|manufacturer_no_space_length_4|nisb|
+|manufacturer_no_space_length_5|nisbe|
+|manufacturer_no_space_length_6|nisbet|
+|manufacturer_no_space_upper_length_1|N|
+|manufacturer_no_space_upper_length_2|NI|
+|manufacturer_no_space_upper_length_3|NIS|
+|manufacturer_no_space_upper_length_4|NISB|
+|manufacturer_no_space_upper_length_5|NISBE|
+|manufacturer_no_space_upper_length_6|NISBET|
+|manufacturer_upper_length_1|N|
+|manufacturer_upper_length_2|NI|
+|manufacturer_upper_length_3|NIS|
+|manufacturer_upper_length_4|NISB|
+|manufacturer_upper_length_5|NISBE|
+|manufacturer_upper_length_6|NISBET|
+|md5|15a9745c800f9e23303aac13c5487272|
+|md5_10|15a9745c80|
+|md5_10_upper|15A9745C80|
+|md5_5|15a97|
+|md5_5_upper|15A97|
+|md5_6|15a974|
+|md5_6_alpha|ufec|
+|md5_6_alpha_upper|UFEC|
+|md5_6_upper|15A974|
+|name|Packaging Takeaway Container Rectangle 650 Ml Nisbet Fiesta Medium Dm182|
+|name_no_class|Takeaway Container Rectangle 650 Ml Nisbet Fiesta Medium Dm182|
+|name_no_color|Nisbetfiestamediumdm182|
+|name_no_size|Nisbet Fiesta Medium Dm182|
+|name_no_type|650 Ml Nisbet Fiesta Medium Dm182|
+|oomp_key|oomp_packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182|
+|oomp_word|poop sandal fireworks|
+|oomp_word_emoji|:poop: :sandal: :fireworks:|
+|oomp_word_emoji_list|[':poop:', ':sandal:', ':fireworks:']|
+|oomp_word_list|['poop', 'sandal', 'fireworks']|
+|part_number|medium_dm182|
+|part_number_length_1|m|
+|part_number_length_2|me|
+|part_number_length_3|med|
+|part_number_length_4|medi|
+|part_number_length_5|mediu|
+|part_number_length_6|medium|
+|part_number_name|Medium Dm182|
+|part_number_no_space_length_1|m|
+|part_number_no_space_length_2|me|
+|part_number_no_space_length_3|med|
+|part_number_no_space_length_4|medi|
+|part_number_no_space_length_5|mediu|
+|part_number_no_space_length_6|medium|
+|part_number_no_space_upper_length_1|M|
+|part_number_no_space_upper_length_2|ME|
+|part_number_no_space_upper_length_3|MED|
+|part_number_no_space_upper_length_4|MEDI|
+|part_number_no_space_upper_length_5|MEDIU|
+|part_number_no_space_upper_length_6|MEDIUM|
+|part_number_upper_length_1|M|
+|part_number_upper_length_2|ME|
+|part_number_upper_length_3|MED|
+|part_number_upper_length_4|MEDI|
+|part_number_upper_length_5|MEDIU|
+|part_number_upper_length_6|MEDIUM|
+|size|650_ml|
+|size_length_1|6|
+|size_length_2|65|
+|size_length_3|650|
+|size_length_4|650_|
+|size_length_5|650_m|
+|size_length_6|650_ml|
+|size_name|650 Ml|
+|size_no_space_length_1|6|
+|size_no_space_length_2|65|
+|size_no_space_length_3|650|
+|size_no_space_length_4|650m|
+|size_no_space_length_5|650ml|
+|size_no_space_length_6|650ml|
+|size_no_space_upper_length_1|6|
+|size_no_space_upper_length_2|65|
+|size_no_space_upper_length_3|650|
+|size_no_space_upper_length_4|650M|
+|size_no_space_upper_length_5|650ML|
+|size_no_space_upper_length_6|650ML|
+|size_upper_length_1|6|
+|size_upper_length_2|65|
+|size_upper_length_3|650|
+|size_upper_length_4|650_|
+|size_upper_length_5|650_M|
+|size_upper_length_6|650_ML|
+|type|takeaway_container_rectangle|
+|type_length_1|t|
+|type_length_2|ta|
+|type_length_3|tak|
+|type_length_4|take|
+|type_length_5|takea|
+|type_length_6|takeaw|
+|type_name|Takeaway Container Rectangle|
+|type_no_space_length_1|t|
+|type_no_space_length_2|ta|
+|type_no_space_length_3|tak|
+|type_no_space_length_4|take|
+|type_no_space_length_5|takea|
+|type_no_space_length_6|takeaw|
+|type_no_space_upper_length_1|T|
+|type_no_space_upper_length_2|TA|
+|type_no_space_upper_length_3|TAK|
+|type_no_space_upper_length_4|TAKE|
+|type_no_space_upper_length_5|TAKEA|
+|type_no_space_upper_length_6|TAKEAW|
+|type_upper_length_1|T|
+|type_upper_length_2|TA|
+|type_upper_length_3|TAK|
+|type_upper_length_4|TAKE|
+|type_upper_length_5|TAKEA|
+|type_upper_length_6|TAKEAW|
+|files|['base.yaml', 'drawing.cdr', 'drawing.pdf', 'drawing.png', 'drawing.svg', 'drawing_300.png', 'drawing_600.png', 'working.yaml']|

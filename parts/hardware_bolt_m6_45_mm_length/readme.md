@@ -20,8 +20,168 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: b6m45
 * oomp_word: bus envelope bear
 * oomp_word_emoji :bus: :envelope: :bear:
 * md5_6_alpha: 99nwb
 * md5_6: ed8a3b
+
+### all codes 
+|classification|hardware|
+|classification_length_1|h|
+|classification_length_2|ha|
+|classification_length_3|har|
+|classification_length_4|hard|
+|classification_length_5|hardw|
+|classification_length_6|hardwa|
+|classification_name|Hardware|
+|classification_no_space_length_1|h|
+|classification_no_space_length_2|ha|
+|classification_no_space_length_3|har|
+|classification_no_space_length_4|hard|
+|classification_no_space_length_5|hardw|
+|classification_no_space_length_6|hardwa|
+|classification_no_space_upper_length_1|H|
+|classification_no_space_upper_length_2|HA|
+|classification_no_space_upper_length_3|HAR|
+|classification_no_space_upper_length_4|HARD|
+|classification_no_space_upper_length_5|HARDW|
+|classification_no_space_upper_length_6|HARDWA|
+|classification_upper_length_1|H|
+|classification_upper_length_2|HA|
+|classification_upper_length_3|HAR|
+|classification_upper_length_4|HARD|
+|classification_upper_length_5|HARDW|
+|classification_upper_length_6|HARDWA|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|45_mm_length|
+|description_main_length_1|4|
+|description_main_length_2|45|
+|description_main_length_3|45_|
+|description_main_length_4|45_m|
+|description_main_length_5|45_mm|
+|description_main_length_6|45_mm_|
+|description_main_name|45 mm Length|
+|description_main_no_space_length_1|4|
+|description_main_no_space_length_2|45|
+|description_main_no_space_length_3|45m|
+|description_main_no_space_length_4|45mm|
+|description_main_no_space_length_5|45mml|
+|description_main_no_space_length_6|45mmle|
+|description_main_no_space_upper_length_1|4|
+|description_main_no_space_upper_length_2|45|
+|description_main_no_space_upper_length_3|45M|
+|description_main_no_space_upper_length_4|45MM|
+|description_main_no_space_upper_length_5|45MML|
+|description_main_no_space_upper_length_6|45MMLE|
+|description_main_upper_length_1|4|
+|description_main_upper_length_2|45|
+|description_main_upper_length_3|45_|
+|description_main_upper_length_4|45_M|
+|description_main_upper_length_5|45_MM|
+|description_main_upper_length_6|45_MM_|
+|directory|parts/hardware_bolt_m6_45_mm_length|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_45_mm_length|
+|id|hardware_bolt_m6_45_mm_length|
+|id_no_class|bolt_m6_45_mm_length|
+|id_no_color|45mmlength|
+|id_no_size|45_mm_length|
+|id_no_type|m6_45_mm_length|
+|manufacturer||
+|manufacturer_name||
+|md5|ed8a3b1f918fd5863bcdd4d09684df1c|
+|md5_10|ed8a3b1f91|
+|md5_10_upper|ED8A3B1F91|
+|md5_5|ed8a3|
+|md5_5_upper|ED8A3|
+|md5_6|ed8a3b|
+|md5_6_alpha|99nwb|
+|md5_6_alpha_upper|99NWB|
+|md5_6_upper|ED8A3B|
+|name|Hardware Bolt M6 45 mm Length|
+|name_no_class|Bolt M6 45 mm Length|
+|name_no_color|45mmlength|
+|name_no_size|45 mm Length|
+|name_no_type|M6 45 mm Length|
+|oomlout_bolt_color||
+|oomlout_bolt_head_type|Bolt|
+|oomlout_bolt_head_type_diagram|head_type_diagram.png|
+|oomlout_bolt_length|45 mm|
+|oomlout_bolt_length_no_unit|45|
+|oomlout_bolt_md5_6_alpha_first_3|99n|
+|oomlout_bolt_md5_6_alpha_first_3_upper|99N|
+|oomlout_bolt_md5_6_alpha_last_3|wb|
+|oomlout_bolt_md5_6_alpha_last_3_upper|WB|
+|oomlout_bolt_md5_6_first_3|ed8|
+|oomlout_bolt_md5_6_first_3_upper|ED8|
+|oomlout_bolt_md5_6_last_3|a3b|
+|oomlout_bolt_md5_6_last_3_upper|A3B|
+|oomlout_bolt_name|Bolt M6X45 mm  (Bolt)|
+|oomlout_bolt_size|M6|
+|oomlout_bolt_type|Bolt|
+|oomlout_bolt_type_diagram_diagram|type_diagram.png|
+|oomlout_short_code|b6m45|
+|oomlout_short_code_upper|B6M45|
+|oomp_key|oomp_hardware_bolt_m6_45_mm_length|
+|oomp_word|bus envelope bear|
+|oomp_word_emoji|:bus: :envelope: :bear:|
+|oomp_word_emoji_list|[':bus:', ':envelope:', ':bear:']|
+|oomp_word_list|['bus', 'envelope', 'bear']|
+|part_number||
+|part_number_name||
+|size|m6|
+|size_length_1|m|
+|size_length_2|m6|
+|size_length_3|m6|
+|size_length_4|m6|
+|size_length_5|m6|
+|size_length_6|m6|
+|size_name|M6|
+|size_no_space_length_1|m|
+|size_no_space_length_2|m6|
+|size_no_space_length_3|m6|
+|size_no_space_length_4|m6|
+|size_no_space_length_5|m6|
+|size_no_space_length_6|m6|
+|size_no_space_upper_length_1|M|
+|size_no_space_upper_length_2|M6|
+|size_no_space_upper_length_3|M6|
+|size_no_space_upper_length_4|M6|
+|size_no_space_upper_length_5|M6|
+|size_no_space_upper_length_6|M6|
+|size_upper_length_1|M|
+|size_upper_length_2|M6|
+|size_upper_length_3|M6|
+|size_upper_length_4|M6|
+|size_upper_length_5|M6|
+|size_upper_length_6|M6|
+|type|bolt|
+|type_length_1|b|
+|type_length_2|bo|
+|type_length_3|bol|
+|type_length_4|bolt|
+|type_length_5|bolt|
+|type_length_6|bolt|
+|type_name|Bolt|
+|type_no_space_length_1|b|
+|type_no_space_length_2|bo|
+|type_no_space_length_3|bol|
+|type_no_space_length_4|bolt|
+|type_no_space_length_5|bolt|
+|type_no_space_length_6|bolt|
+|type_no_space_upper_length_1|B|
+|type_no_space_upper_length_2|BO|
+|type_no_space_upper_length_3|BOL|
+|type_no_space_upper_length_4|BOLT|
+|type_no_space_upper_length_5|BOLT|
+|type_no_space_upper_length_6|BOLT|
+|type_upper_length_1|B|
+|type_upper_length_2|BO|
+|type_upper_length_3|BOL|
+|type_upper_length_4|BOLT|
+|type_upper_length_5|BOLT|
+|type_upper_length_6|BOLT|
+|files|['base.yaml', 'head_type_diagram.png', 'type_diagram.png', 'working.yaml']|

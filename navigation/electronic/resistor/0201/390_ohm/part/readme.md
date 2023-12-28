@@ -25,3 +25,144 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :three: :feet: :pineapple:
 * md5_6_alpha: 9ix8y
 * md5_6: f421d2
+
+### all codes 
+|classification|electronic|
+|classification_length_1|e|
+|classification_length_2|el|
+|classification_length_3|ele|
+|classification_length_4|elec|
+|classification_length_5|elect|
+|classification_length_6|electr|
+|classification_name|Electronic|
+|classification_no_space_length_1|e|
+|classification_no_space_length_2|el|
+|classification_no_space_length_3|ele|
+|classification_no_space_length_4|elec|
+|classification_no_space_length_5|elect|
+|classification_no_space_length_6|electr|
+|classification_no_space_upper_length_1|E|
+|classification_no_space_upper_length_2|EL|
+|classification_no_space_upper_length_3|ELE|
+|classification_no_space_upper_length_4|ELEC|
+|classification_no_space_upper_length_5|ELECT|
+|classification_no_space_upper_length_6|ELECTR|
+|classification_upper_length_1|E|
+|classification_upper_length_2|EL|
+|classification_upper_length_3|ELE|
+|classification_upper_length_4|ELEC|
+|classification_upper_length_5|ELECT|
+|classification_upper_length_6|ELECTR|
+|color||
+|color_name||
+|description_extra||
+|description_extra_name||
+|description_main|390_ohm|
+|description_main_length_1|3|
+|description_main_length_2|39|
+|description_main_length_3|390|
+|description_main_length_4|390_|
+|description_main_length_5|390_o|
+|description_main_length_6|390_oh|
+|description_main_name|390 Ohm|
+|description_main_no_space_length_1|3|
+|description_main_no_space_length_2|39|
+|description_main_no_space_length_3|390|
+|description_main_no_space_length_4|390o|
+|description_main_no_space_length_5|390oh|
+|description_main_no_space_length_6|390ohm|
+|description_main_no_space_upper_length_1|3|
+|description_main_no_space_upper_length_2|39|
+|description_main_no_space_upper_length_3|390|
+|description_main_no_space_upper_length_4|390O|
+|description_main_no_space_upper_length_5|390OH|
+|description_main_no_space_upper_length_6|390OHM|
+|description_main_upper_length_1|3|
+|description_main_upper_length_2|39|
+|description_main_upper_length_3|390|
+|description_main_upper_length_4|390_|
+|description_main_upper_length_5|390_O|
+|description_main_upper_length_6|390_OH|
+|directory|parts/electronic_resistor_0201_390_ohm|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_390_ohm|
+|id|electronic_resistor_0201_390_ohm|
+|id_no_class|resistor_0201_390_ohm|
+|id_no_color|390ohm|
+|id_no_size|390_ohm|
+|id_no_type|0201_390_ohm|
+|manufacturer||
+|manufacturer_name||
+|md5|f421d2f94c62c3ad3f5a104e65cc099a|
+|md5_10|f421d2f94c|
+|md5_10_upper|F421D2F94C|
+|md5_5|f421d|
+|md5_5_upper|F421D|
+|md5_6|f421d2|
+|md5_6_alpha|9ix8y|
+|md5_6_alpha_upper|9IX8Y|
+|md5_6_upper|F421D2|
+|name|Electronic Resistor 0201 390 Ohm|
+|name_no_class|Resistor 0201 390 Ohm|
+|name_no_color|390Ohm|
+|name_no_size|390 Ohm|
+|name_no_type|0201 390 Ohm|
+|oomp_key|oomp_electronic_resistor_0201_390_ohm|
+|oomp_word|three feet pineapple|
+|oomp_word_emoji|:three: :feet: :pineapple:|
+|oomp_word_emoji_list|[':three:', ':feet:', ':pineapple:']|
+|oomp_word_list|['three', 'feet', 'pineapple']|
+|part_number||
+|part_number_name||
+|size|0201|
+|size_length_1|0|
+|size_length_2|02|
+|size_length_3|020|
+|size_length_4|0201|
+|size_length_5|0201|
+|size_length_6|0201|
+|size_name|0201|
+|size_no_space_length_1|0|
+|size_no_space_length_2|02|
+|size_no_space_length_3|020|
+|size_no_space_length_4|0201|
+|size_no_space_length_5|0201|
+|size_no_space_length_6|0201|
+|size_no_space_upper_length_1|0|
+|size_no_space_upper_length_2|02|
+|size_no_space_upper_length_3|020|
+|size_no_space_upper_length_4|0201|
+|size_no_space_upper_length_5|0201|
+|size_no_space_upper_length_6|0201|
+|size_upper_length_1|0|
+|size_upper_length_2|02|
+|size_upper_length_3|020|
+|size_upper_length_4|0201|
+|size_upper_length_5|0201|
+|size_upper_length_6|0201|
+|type|resistor|
+|type_length_1|r|
+|type_length_2|re|
+|type_length_3|res|
+|type_length_4|resi|
+|type_length_5|resis|
+|type_length_6|resist|
+|type_name|Resistor|
+|type_no_space_length_1|r|
+|type_no_space_length_2|re|
+|type_no_space_length_3|res|
+|type_no_space_length_4|resi|
+|type_no_space_length_5|resis|
+|type_no_space_length_6|resist|
+|type_no_space_upper_length_1|R|
+|type_no_space_upper_length_2|RE|
+|type_no_space_upper_length_3|RES|
+|type_no_space_upper_length_4|RESI|
+|type_no_space_upper_length_5|RESIS|
+|type_no_space_upper_length_6|RESIST|
+|type_upper_length_1|R|
+|type_upper_length_2|RE|
+|type_upper_length_3|RES|
+|type_upper_length_4|RESI|
+|type_upper_length_5|RESIS|
+|type_upper_length_6|RESIST|
+|files|['base.yaml', 'working.yaml']|

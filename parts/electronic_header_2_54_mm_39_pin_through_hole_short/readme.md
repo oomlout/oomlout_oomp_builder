@@ -1,4 +1,4 @@
-# Electronic Header 2 54 mm 39 Pin Through Hole Short  
+# Electronic Header 2 54 Mm 39 Pin Through Hole Short  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -25,3 +25,85 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tennis: :trident: :squirrel:
 * md5_6_alpha: 5yws0
 * md5_6: 98ff70
+
+### all codes 
+|classification|electronic|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
+|color||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
+|description_extra|through_hole_short|
+|description_extra_capital|Through Hole Short|
+|description_extra_first_letter|t|
+|description_extra_first_letter_upper|T|
+|description_extra_upper|THROUGH_HOLE_SHORT|
+|description_main|39_pin|
+|description_main_capital|39 Pin|
+|description_main_first_letter|3|
+|description_main_first_letter_upper|3|
+|description_main_upper|39_PIN|
+|description_only_numbers|39|
+|description_only_numbers_short|39|
+|description_or_color|39|
+|description_or_color_upper|39|
+|directory|parts/electronic_header_2_54_mm_39_pin_through_hole_short|
+|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2337.html', 'name': 'LCSC', 'part_number': 'C2337'}, {'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2883695.html', 'name': 'LCSC', 'part_number': 'C2883695'}]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short/working|
+|id|electronic_header_2_54_mm_39_pin_through_hole_short|
+|id_no_class|header_2_54_mm_39_pin_through_hole_short|
+|id_no_size|39_pin_through_hole_short|
+|id_no_type|2_54_mm_39_pin_through_hole_short|
+|kicad_reference|CONN|
+|manufacturer||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_header_2_54_mm_39_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short/working)<br>[hi139pths](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short/working)<br>[Electronic Header 2 54 Mm 39 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>|
+|markdown_short|[electronic_header_2_54_mm_39_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_39_pin_through_hole_short/working)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>|
+|md5|98ff70d181efc00dbf9d06438366b1ff|
+|md5_10|98ff70d181|
+|md5_10_upper|98FF70D181|
+|md5_5|98ff7|
+|md5_5_upper|98FF7|
+|md5_6|98ff70|
+|md5_6_alpha|5yws0|
+|md5_6_alpha_upper|5YWS0|
+|md5_6_upper|98FF70|
+|name|Electronic Header 2 54 Mm 39 Pin Through Hole Short|
+|name_no_class|Header 2 54 Mm 39 Pin Through Hole Short|
+|name_no_size|39 Pin Through Hole Short|
+|name_no_size_short|39 Pin Through Hole Short|
+|name_no_type|2 54 Mm 39 Pin Through Hole Short|
+|oomp_key|oomp_electronic_header_2_54_mm_39_pin_through_hole_short|
+|oomp_word|tennis trident squirrel|
+|oomp_word_emoji|:tennis: :trident: :squirrel:|
+|oomp_word_emoji_list|[':tennis:', ':trident:', ':squirrel:']|
+|oomp_word_list|['tennis', 'trident', 'squirrel']|
+|part_number||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|hi139pths|
+|short_code_upper|HI139PTHS|
+|size|2_54_mm|
+|size_capital|2.54 mm|
+|size_first_letter|2|
+|size_first_letter_upper|2|
+|size_only_numbers|254|
+|size_only_numbers_no_zeros|254|
+|size_upper|2_54_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x39_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x39_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x39_pin'}]|
+|type|header|
+|type_capital|Header|
+|type_first_letter|h|
+|type_first_letter_upper|H|
+|type_upper|HEADER|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

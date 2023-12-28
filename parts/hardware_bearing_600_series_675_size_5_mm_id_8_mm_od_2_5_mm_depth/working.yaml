@@ -1,0 +1,86 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: 675_size
+color_capital: 675 Size
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 675_SIZE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_mm_id_8_mm_od_2_5_mm_depth
+description_main_capital: 5 mm Id 8 mm Od 2.5 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_MM_ID_8_MM_OD_2_5_MM_DEPTH
+description_only_numbers: '5825'
+description_only_numbers_short: 5k8
+description_or_color: 65k8
+description_or_color_upper: 65K8
+directory: parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth
+distributors: []
+filter: hardware
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth/working
+id: hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth
+id_no_class: bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth
+id_no_size: 675_size_5_mm_id_8_mm_od_2_5_mm_depth
+id_no_type: 600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth/working)<br>[Hardware
+    Bearing 600 Series 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth/working)<br><br>'
+md5: 29ab4273cd71a03c1c70d451cae7e834
+md5_10: 29ab4273cd
+md5_10_upper: 29AB4273CD
+md5_5: 29ab4
+md5_5_upper: 29AB4
+md5_6: 29ab42
+md5_6_alpha: 1mj42
+md5_6_alpha_upper: 1MJ42
+md5_6_upper: 29AB42
+name: Hardware Bearing 600 Series 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth
+name_no_class: Bearing 600 Series 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth
+name_no_size: 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth
+name_no_size_short: 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth
+name_no_type: 600 Series 675 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth
+oomp_key: oomp_hardware_bearing_600_series_675_size_5_mm_id_8_mm_od_2_5_mm_depth
+oomp_word: sunny boot sheep
+oomp_word_emoji: ':sunny: :boot: :sheep:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':boot:'
+- ':sheep:'
+oomp_word_list:
+- sunny
+- boot
+- sheep
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 600_series
+size_capital: 600 Series
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '600'
+size_only_numbers_no_zeros: '6'
+size_upper: 600_SERIES
+type: bearing
+type_capital: Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEARING

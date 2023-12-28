@@ -20,8 +20,216 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: cs4b20h
 * oomp_word: wink tomato melon
 * oomp_word_emoji :wink: :tomato: :melon:
 * md5_6_alpha: 6s3z
 * md5_6: 04d3cf
+
+### all codes 
+|classification|hardware|
+|classification_length_1|h|
+|classification_length_2|ha|
+|classification_length_3|har|
+|classification_length_4|hard|
+|classification_length_5|hardw|
+|classification_length_6|hardwa|
+|classification_name|Hardware|
+|classification_no_space_length_1|h|
+|classification_no_space_length_2|ha|
+|classification_no_space_length_3|har|
+|classification_no_space_length_4|hard|
+|classification_no_space_length_5|hardw|
+|classification_no_space_length_6|hardwa|
+|classification_no_space_upper_length_1|H|
+|classification_no_space_upper_length_2|HA|
+|classification_no_space_upper_length_3|HAR|
+|classification_no_space_upper_length_4|HARD|
+|classification_no_space_upper_length_5|HARDW|
+|classification_no_space_upper_length_6|HARDWA|
+|classification_upper_length_1|H|
+|classification_upper_length_2|HA|
+|classification_upper_length_3|HAR|
+|classification_upper_length_4|HARD|
+|classification_upper_length_5|HARDW|
+|classification_upper_length_6|HARDWA|
+|color|black|
+|color_length_1|b|
+|color_length_2|bl|
+|color_length_3|bla|
+|color_length_4|blac|
+|color_length_5|black|
+|color_length_6|black|
+|color_name|Black|
+|color_no_space_length_1|b|
+|color_no_space_length_2|bl|
+|color_no_space_length_3|bla|
+|color_no_space_length_4|blac|
+|color_no_space_length_5|black|
+|color_no_space_length_6|black|
+|color_no_space_upper_length_1|B|
+|color_no_space_upper_length_2|BL|
+|color_no_space_upper_length_3|BLA|
+|color_no_space_upper_length_4|BLAC|
+|color_no_space_upper_length_5|BLACK|
+|color_no_space_upper_length_6|BLACK|
+|color_upper_length_1|B|
+|color_upper_length_2|BL|
+|color_upper_length_3|BLA|
+|color_upper_length_4|BLAC|
+|color_upper_length_5|BLACK|
+|color_upper_length_6|BLACK|
+|description_extra|hex_head|
+|description_extra_length_1|h|
+|description_extra_length_2|he|
+|description_extra_length_3|hex|
+|description_extra_length_4|hex_|
+|description_extra_length_5|hex_h|
+|description_extra_length_6|hex_he|
+|description_extra_name|Hex Head|
+|description_extra_no_space_length_1|h|
+|description_extra_no_space_length_2|he|
+|description_extra_no_space_length_3|hex|
+|description_extra_no_space_length_4|hexh|
+|description_extra_no_space_length_5|hexhe|
+|description_extra_no_space_length_6|hexhea|
+|description_extra_no_space_upper_length_1|H|
+|description_extra_no_space_upper_length_2|HE|
+|description_extra_no_space_upper_length_3|HEX|
+|description_extra_no_space_upper_length_4|HEXH|
+|description_extra_no_space_upper_length_5|HEXHE|
+|description_extra_no_space_upper_length_6|HEXHEA|
+|description_extra_upper_length_1|H|
+|description_extra_upper_length_2|HE|
+|description_extra_upper_length_3|HEX|
+|description_extra_upper_length_4|HEX_|
+|description_extra_upper_length_5|HEX_H|
+|description_extra_upper_length_6|HEX_HE|
+|description_main|20_mm_length|
+|description_main_length_1|2|
+|description_main_length_2|20|
+|description_main_length_3|20_|
+|description_main_length_4|20_m|
+|description_main_length_5|20_mm|
+|description_main_length_6|20_mm_|
+|description_main_name|20 mm Length|
+|description_main_no_space_length_1|2|
+|description_main_no_space_length_2|20|
+|description_main_no_space_length_3|20m|
+|description_main_no_space_length_4|20mm|
+|description_main_no_space_length_5|20mml|
+|description_main_no_space_length_6|20mmle|
+|description_main_no_space_upper_length_1|2|
+|description_main_no_space_upper_length_2|20|
+|description_main_no_space_upper_length_3|20M|
+|description_main_no_space_upper_length_4|20MM|
+|description_main_no_space_upper_length_5|20MML|
+|description_main_no_space_upper_length_6|20MMLE|
+|description_main_upper_length_1|2|
+|description_main_upper_length_2|20|
+|description_main_upper_length_3|20_|
+|description_main_upper_length_4|20_M|
+|description_main_upper_length_5|20_MM|
+|description_main_upper_length_6|20_MM_|
+|directory|parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head|
+|id|hardware_screw_countersunk_m4_black_20_mm_length_hex_head|
+|id_no_class|screw_countersunk_m4_black_20_mm_length_hex_head|
+|id_no_color|20_mm_length_hex_head|
+|id_no_size|black_20_mm_length_hex_head|
+|id_no_type|m4_black_20_mm_length_hex_head|
+|manufacturer||
+|manufacturer_name||
+|md5|04d3cf4ef64dc8dfb64a02d558fd96fb|
+|md5_10|04d3cf4ef6|
+|md5_10_upper|04D3CF4EF6|
+|md5_5|04d3c|
+|md5_5_upper|04D3C|
+|md5_6|04d3cf|
+|md5_6_alpha|6s3z|
+|md5_6_alpha_upper|6S3Z|
+|md5_6_upper|04D3CF|
+|name|Hardware Screw Countersunk M4 Black 20 mm Length Hex Head|
+|name_no_class|Screw Countersunk M4 Black 20 mm Length Hex Head|
+|name_no_color|20 mm Length Hex Head|
+|name_no_size|Black 20 mm Length Hex Head|
+|name_no_type|M4 Black 20 mm Length Hex Head|
+|oomlout_bolt_color|Black|
+|oomlout_bolt_head_type|Hex|
+|oomlout_bolt_head_type_diagram|head_type_diagram.png|
+|oomlout_bolt_length|20 mm|
+|oomlout_bolt_length_no_unit|20|
+|oomlout_bolt_md5_6_alpha_first_3|6s3|
+|oomlout_bolt_md5_6_alpha_first_3_upper|6S3|
+|oomlout_bolt_md5_6_alpha_last_3|z|
+|oomlout_bolt_md5_6_alpha_last_3_upper|Z|
+|oomlout_bolt_md5_6_first_3|04d|
+|oomlout_bolt_md5_6_first_3_upper|04D|
+|oomlout_bolt_md5_6_last_3|3cf|
+|oomlout_bolt_md5_6_last_3_upper|3CF|
+|oomlout_bolt_name|Countersunk M4X20 mm Black (Hex)|
+|oomlout_bolt_size|M4|
+|oomlout_bolt_type|Countersunk|
+|oomlout_bolt_type_diagram_diagram|type_diagram.png|
+|oomlout_short_code|cs4b20h|
+|oomlout_short_code_upper|CS4B20H|
+|oomp_key|oomp_hardware_screw_countersunk_m4_black_20_mm_length_hex_head|
+|oomp_word|wink tomato melon|
+|oomp_word_emoji|:wink: :tomato: :melon:|
+|oomp_word_emoji_list|[':wink:', ':tomato:', ':melon:']|
+|oomp_word_list|['wink', 'tomato', 'melon']|
+|part_number||
+|part_number_name||
+|size|m4|
+|size_length_1|m|
+|size_length_2|m4|
+|size_length_3|m4|
+|size_length_4|m4|
+|size_length_5|m4|
+|size_length_6|m4|
+|size_name|M4|
+|size_no_space_length_1|m|
+|size_no_space_length_2|m4|
+|size_no_space_length_3|m4|
+|size_no_space_length_4|m4|
+|size_no_space_length_5|m4|
+|size_no_space_length_6|m4|
+|size_no_space_upper_length_1|M|
+|size_no_space_upper_length_2|M4|
+|size_no_space_upper_length_3|M4|
+|size_no_space_upper_length_4|M4|
+|size_no_space_upper_length_5|M4|
+|size_no_space_upper_length_6|M4|
+|size_upper_length_1|M|
+|size_upper_length_2|M4|
+|size_upper_length_3|M4|
+|size_upper_length_4|M4|
+|size_upper_length_5|M4|
+|size_upper_length_6|M4|
+|type|screw_countersunk|
+|type_length_1|s|
+|type_length_2|sc|
+|type_length_3|scr|
+|type_length_4|scre|
+|type_length_5|screw|
+|type_length_6|screw_|
+|type_name|Screw Countersunk|
+|type_no_space_length_1|s|
+|type_no_space_length_2|sc|
+|type_no_space_length_3|scr|
+|type_no_space_length_4|scre|
+|type_no_space_length_5|screw|
+|type_no_space_length_6|screwc|
+|type_no_space_upper_length_1|S|
+|type_no_space_upper_length_2|SC|
+|type_no_space_upper_length_3|SCR|
+|type_no_space_upper_length_4|SCRE|
+|type_no_space_upper_length_5|SCREW|
+|type_no_space_upper_length_6|SCREWC|
+|type_upper_length_1|S|
+|type_upper_length_2|SC|
+|type_upper_length_3|SCR|
+|type_upper_length_4|SCRE|
+|type_upper_length_5|SCREW|
+|type_upper_length_6|SCREW_|
+|files|['base.yaml', 'head_type_diagram.png', 'type_diagram.png', 'working.yaml']|
