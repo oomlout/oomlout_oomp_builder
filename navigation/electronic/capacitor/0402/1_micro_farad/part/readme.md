@@ -28,70 +28,48 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main|1_micro_farad|
-|description_main_length_1|1|
-|description_main_length_2|1_|
-|description_main_length_3|1_m|
-|description_main_length_4|1_mi|
-|description_main_length_5|1_mic|
-|description_main_length_6|1_micr|
-|description_main_name|1 Micro Farad|
-|description_main_no_space_length_1|1|
-|description_main_no_space_length_2|1m|
-|description_main_no_space_length_3|1mi|
-|description_main_no_space_length_4|1mic|
-|description_main_no_space_length_5|1micr|
-|description_main_no_space_length_6|1micro|
-|description_main_no_space_upper_length_1|1|
-|description_main_no_space_upper_length_2|1M|
-|description_main_no_space_upper_length_3|1MI|
-|description_main_no_space_upper_length_4|1MIC|
-|description_main_no_space_upper_length_5|1MICR|
-|description_main_no_space_upper_length_6|1MICRO|
-|description_main_upper_length_1|1|
-|description_main_upper_length_2|1_|
-|description_main_upper_length_3|1_M|
-|description_main_upper_length_4|1_MI|
-|description_main_upper_length_5|1_MIC|
-|description_main_upper_length_6|1_MICR|
+|description_main_capital|1 Micro Farad|
+|description_main_first_letter|1|
+|description_main_first_letter_upper|1|
+|description_main_upper|1_MICRO_FARAD|
+|description_only_numbers|1|
+|description_only_numbers_short|1uf|
+|description_or_color|1uf|
+|description_or_color_upper|1UF|
 |directory|parts/electronic_capacitor_0402_1_micro_farad|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad|
+|distributors|[]|
+|filter||
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric', 'note': 'source footprint kicad_capacitor_smd_c_0402_1005metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0402_1005metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c4uf1_electronic_capacitor_0402_1_micro_farad//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c4uf1_electronic_capacitor_0402_1_micro_farad', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c4uf1_electronic_capacitor_0402_1_micro_farad'}]|
+|from_yaml|False|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working|
 |id|electronic_capacitor_0402_1_micro_farad|
 |id_no_class|capacitor_0402_1_micro_farad|
-|id_no_color|1microfarad|
 |id_no_size|1_micro_farad|
 |id_no_type|0402_1_micro_farad|
+|kicad_reference|C|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br>[c4uf1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br>[Electronic Capacitor 0402 1 Micro Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br><br>|
+|markdown_short|[electronic_capacitor_0402_1_micro_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_1_micro_farad/working)<br><br>|
 |md5|161ca70ef0437b6bc72debadd501c34f|
 |md5_10|161ca70ef0|
 |md5_10_upper|161CA70EF0|
@@ -103,66 +81,36 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_upper|161CA7|
 |name|Electronic Capacitor 0402 1 Micro Farad|
 |name_no_class|Capacitor 0402 1 Micro Farad|
-|name_no_color|1Microfarad|
 |name_no_size|1 Micro Farad|
+|name_no_size_short|1uf Micro Farad|
 |name_no_type|0402 1 Micro Farad|
 |oomp_key|oomp_electronic_capacitor_0402_1_micro_farad|
 |oomp_word|thumbsup dancer guitar|
 |oomp_word_emoji|:thumbsup: :dancer: :guitar:|
 |oomp_word_emoji_list|[':thumbsup:', ':dancer:', ':guitar:']|
 |oomp_word_list|['thumbsup', 'dancer', 'guitar']|
+|package_style|smd_tape|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|c4uf1|
+|short_code_upper|C4UF1|
 |size|0402|
-|size_length_1|0|
-|size_length_2|04|
-|size_length_3|040|
-|size_length_4|0402|
-|size_length_5|0402|
-|size_length_6|0402|
-|size_name|0402|
-|size_no_space_length_1|0|
-|size_no_space_length_2|04|
-|size_no_space_length_3|040|
-|size_no_space_length_4|0402|
-|size_no_space_length_5|0402|
-|size_no_space_length_6|0402|
-|size_no_space_upper_length_1|0|
-|size_no_space_upper_length_2|04|
-|size_no_space_upper_length_3|040|
-|size_no_space_upper_length_4|0402|
-|size_no_space_upper_length_5|0402|
-|size_no_space_upper_length_6|0402|
-|size_upper_length_1|0|
-|size_upper_length_2|04|
-|size_upper_length_3|040|
-|size_upper_length_4|0402|
-|size_upper_length_5|0402|
-|size_upper_length_6|0402|
+|size_capital|0402|
+|size_first_letter|0|
+|size_first_letter_upper|0|
+|size_only_numbers|0402|
+|size_only_numbers_no_zeros|42|
+|size_upper|0402|
+|smd_tape_depth|1_5_mm|
+|smd_tape_pitch|2_mm|
+|smd_tape_width|8_mm|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c'}]|
 |type|capacitor|
-|type_length_1|c|
-|type_length_2|ca|
-|type_length_3|cap|
-|type_length_4|capa|
-|type_length_5|capac|
-|type_length_6|capaci|
-|type_name|Capacitor|
-|type_no_space_length_1|c|
-|type_no_space_length_2|ca|
-|type_no_space_length_3|cap|
-|type_no_space_length_4|capa|
-|type_no_space_length_5|capac|
-|type_no_space_length_6|capaci|
-|type_no_space_upper_length_1|C|
-|type_no_space_upper_length_2|CA|
-|type_no_space_upper_length_3|CAP|
-|type_no_space_upper_length_4|CAPA|
-|type_no_space_upper_length_5|CAPAC|
-|type_no_space_upper_length_6|CAPACI|
-|type_upper_length_1|C|
-|type_upper_length_2|CA|
-|type_upper_length_3|CAP|
-|type_upper_length_4|CAPA|
-|type_upper_length_5|CAPAC|
-|type_upper_length_6|CAPACI|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Capacitor|
+|type_first_letter|c|
+|type_first_letter_upper|C|
+|type_upper|CAPACITOR|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

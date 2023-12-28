@@ -1,4 +1,4 @@
-# Electronic LED 10 mm Green  
+# Electronic Led 10 Mm Green  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -28,70 +28,48 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color|green|
-|color_length_1|g|
-|color_length_2|gr|
-|color_length_3|gre|
-|color_length_4|gree|
-|color_length_5|green|
-|color_length_6|green|
-|color_name|Green|
-|color_no_space_length_1|g|
-|color_no_space_length_2|gr|
-|color_no_space_length_3|gre|
-|color_no_space_length_4|gree|
-|color_no_space_length_5|green|
-|color_no_space_length_6|green|
-|color_no_space_upper_length_1|G|
-|color_no_space_upper_length_2|GR|
-|color_no_space_upper_length_3|GRE|
-|color_no_space_upper_length_4|GREE|
-|color_no_space_upper_length_5|GREEN|
-|color_no_space_upper_length_6|GREEN|
-|color_upper_length_1|G|
-|color_upper_length_2|GR|
-|color_upper_length_3|GRE|
-|color_upper_length_4|GREE|
-|color_upper_length_5|GREEN|
-|color_upper_length_6|GREEN|
+|color_capital|Green|
+|color_first_letter|g|
+|color_first_letter_upper|G|
+|color_upper|GREEN|
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main||
-|description_main_name||
+|description_main_capital||
+|description_main_first_letter||
+|description_main_first_letter_upper||
+|description_main_upper||
+|description_only_numbers||
+|description_only_numbers_short| |
+|description_or_color|G |
+|description_or_color_upper|G |
 |directory|parts/electronic_led_10_mm_green|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green|
+|distributors|[]|
+|filter||
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm', 'note': 'source footprint kicad_led_tht_led_d10_0mm', 'oomp_key': 'oomp_kicad_led_tht_led_d10_0mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l10g_electronic_led_10_mm_green//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l10g_electronic_led_10_mm_green', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l10g_electronic_led_10_mm_green'}]|
+|from_yaml|False|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working|
 |id|electronic_led_10_mm_green|
 |id_no_class|led_10_mm_green|
-|id_no_color|green|
 |id_no_size|green|
 |id_no_type|10_mm_green|
+|kicad_reference|L|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[l10g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[Electronic Led 10 Mm Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>|
+|markdown_short|[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>|
 |md5|5f6525ecafb65df19e6187ca04358bfa|
 |md5_10|5f6525ecaf|
 |md5_10_upper|5F6525ECAF|
@@ -101,68 +79,35 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_alpha|3pzxh|
 |md5_6_alpha_upper|3PZXH|
 |md5_6_upper|5F6525|
-|name|Electronic LED 10 mm Green|
-|name_no_class|LED 10 mm Green|
-|name_no_color|Green|
+|name|Electronic Led 10 Mm Green|
+|name_no_class|Led 10 Mm Green|
 |name_no_size|Green|
-|name_no_type|10 mm Green|
+|name_no_size_short|Green|
+|name_no_type|10 Mm Green|
 |oomp_key|oomp_electronic_led_10_mm_green|
 |oomp_word|leopard maple_leaf ear|
 |oomp_word_emoji|:leopard: :maple_leaf: :ear:|
 |oomp_word_emoji_list|[':leopard:', ':maple_leaf:', ':ear:']|
 |oomp_word_list|['leopard', 'maple_leaf', 'ear']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|l10g|
+|short_code_upper|L10G|
+|short_name|10 Mm Green Led|
 |size|10_mm|
-|size_length_1|1|
-|size_length_2|10|
-|size_length_3|10_|
-|size_length_4|10_m|
-|size_length_5|10_mm|
-|size_length_6|10_mm|
-|size_name|10 mm|
-|size_no_space_length_1|1|
-|size_no_space_length_2|10|
-|size_no_space_length_3|10m|
-|size_no_space_length_4|10mm|
-|size_no_space_length_5|10mm|
-|size_no_space_length_6|10mm|
-|size_no_space_upper_length_1|1|
-|size_no_space_upper_length_2|10|
-|size_no_space_upper_length_3|10M|
-|size_no_space_upper_length_4|10MM|
-|size_no_space_upper_length_5|10MM|
-|size_no_space_upper_length_6|10MM|
-|size_upper_length_1|1|
-|size_upper_length_2|10|
-|size_upper_length_3|10_|
-|size_upper_length_4|10_M|
-|size_upper_length_5|10_MM|
-|size_upper_length_6|10_MM|
+|size_capital|10 mm|
+|size_first_letter|1|
+|size_first_letter_upper|1|
+|size_only_numbers|10|
+|size_only_numbers_no_zeros|1|
+|size_upper|10_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|
 |type|led|
-|type_length_1|l|
-|type_length_2|le|
-|type_length_3|led|
-|type_length_4|led|
-|type_length_5|led|
-|type_length_6|led|
-|type_name|LED|
-|type_no_space_length_1|l|
-|type_no_space_length_2|le|
-|type_no_space_length_3|led|
-|type_no_space_length_4|led|
-|type_no_space_length_5|led|
-|type_no_space_length_6|led|
-|type_no_space_upper_length_1|L|
-|type_no_space_upper_length_2|LE|
-|type_no_space_upper_length_3|LED|
-|type_no_space_upper_length_4|LED|
-|type_no_space_upper_length_5|LED|
-|type_no_space_upper_length_6|LED|
-|type_upper_length_1|L|
-|type_upper_length_2|LE|
-|type_upper_length_3|LED|
-|type_upper_length_4|LED|
-|type_upper_length_5|LED|
-|type_upper_length_6|LED|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Led|
+|type_first_letter|l|
+|type_first_letter_upper|L|
+|type_upper|LED|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

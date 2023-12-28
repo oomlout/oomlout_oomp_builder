@@ -1,4 +1,4 @@
-# Electronic Header 2 54 mm 1 Pin Through Hole Right Angle  
+# Electronic Header 2 54 Mm 1 Pin Through Hole Right Angle  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -28,94 +28,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra|through_hole_right_angle|
-|description_extra_length_1|t|
-|description_extra_length_2|th|
-|description_extra_length_3|thr|
-|description_extra_length_4|thro|
-|description_extra_length_5|throu|
-|description_extra_length_6|throug|
-|description_extra_name|Through Hole Right Angle|
-|description_extra_no_space_length_1|t|
-|description_extra_no_space_length_2|th|
-|description_extra_no_space_length_3|thr|
-|description_extra_no_space_length_4|thro|
-|description_extra_no_space_length_5|throu|
-|description_extra_no_space_length_6|throug|
-|description_extra_no_space_upper_length_1|T|
-|description_extra_no_space_upper_length_2|TH|
-|description_extra_no_space_upper_length_3|THR|
-|description_extra_no_space_upper_length_4|THRO|
-|description_extra_no_space_upper_length_5|THROU|
-|description_extra_no_space_upper_length_6|THROUG|
-|description_extra_upper_length_1|T|
-|description_extra_upper_length_2|TH|
-|description_extra_upper_length_3|THR|
-|description_extra_upper_length_4|THRO|
-|description_extra_upper_length_5|THROU|
-|description_extra_upper_length_6|THROUG|
+|description_extra_capital|Through Hole Right Angle|
+|description_extra_first_letter|t|
+|description_extra_first_letter_upper|T|
+|description_extra_upper|THROUGH_HOLE_RIGHT_ANGLE|
 |description_main|1_pin|
-|description_main_length_1|1|
-|description_main_length_2|1_|
-|description_main_length_3|1_p|
-|description_main_length_4|1_pi|
-|description_main_length_5|1_pin|
-|description_main_length_6|1_pin|
-|description_main_name|1 Pin|
-|description_main_no_space_length_1|1|
-|description_main_no_space_length_2|1p|
-|description_main_no_space_length_3|1pi|
-|description_main_no_space_length_4|1pin|
-|description_main_no_space_length_5|1pin|
-|description_main_no_space_length_6|1pin|
-|description_main_no_space_upper_length_1|1|
-|description_main_no_space_upper_length_2|1P|
-|description_main_no_space_upper_length_3|1PI|
-|description_main_no_space_upper_length_4|1PIN|
-|description_main_no_space_upper_length_5|1PIN|
-|description_main_no_space_upper_length_6|1PIN|
-|description_main_upper_length_1|1|
-|description_main_upper_length_2|1_|
-|description_main_upper_length_3|1_P|
-|description_main_upper_length_4|1_PI|
-|description_main_upper_length_5|1_PIN|
-|description_main_upper_length_6|1_PIN|
+|description_main_capital|1 Pin|
+|description_main_first_letter|1|
+|description_main_first_letter_upper|1|
+|description_main_upper|1_PIN|
+|description_only_numbers|1|
+|description_only_numbers_short|1|
+|description_or_color|1|
+|description_or_color_upper|1|
 |directory|parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle|
+|distributors|[]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle/working|
 |id|electronic_header_2_54_mm_1_pin_through_hole_right_angle|
 |id_no_class|header_2_54_mm_1_pin_through_hole_right_angle|
-|id_no_color|1pinthroughholerightangle|
 |id_no_size|1_pin_through_hole_right_angle|
 |id_no_type|2_54_mm_1_pin_through_hole_right_angle|
+|kicad_reference|CONN|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_header_2_54_mm_1_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle/working)<br>[hi11pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle/working)<br>[Electronic Header 2 54 Mm 1 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle/working)<br><br>|
+|markdown_short|[electronic_header_2_54_mm_1_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_right_angle/working)<br><br>|
 |md5|26584f357ec4a78cc03c885ef831ab2b|
 |md5_10|26584f357e|
 |md5_10_upper|26584F357E|
@@ -125,68 +76,34 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_alpha|1hv0v|
 |md5_6_alpha_upper|1HV0V|
 |md5_6_upper|26584F|
-|name|Electronic Header 2 54 mm 1 Pin Through Hole Right Angle|
-|name_no_class|Header 2 54 mm 1 Pin Through Hole Right Angle|
-|name_no_color|1Pinthroughholerightangle|
+|name|Electronic Header 2 54 Mm 1 Pin Through Hole Right Angle|
+|name_no_class|Header 2 54 Mm 1 Pin Through Hole Right Angle|
 |name_no_size|1 Pin Through Hole Right Angle|
-|name_no_type|2 54 mm 1 Pin Through Hole Right Angle|
+|name_no_size_short|1 Pin Through Hole Right Angle|
+|name_no_type|2 54 Mm 1 Pin Through Hole Right Angle|
 |oomp_key|oomp_electronic_header_2_54_mm_1_pin_through_hole_right_angle|
 |oomp_word|eyes water_buffalo ant|
 |oomp_word_emoji|:eyes: :water_buffalo: :ant:|
 |oomp_word_emoji_list|[':eyes:', ':water_buffalo:', ':ant:']|
 |oomp_word_list|['eyes', 'water_buffalo', 'ant']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|hi11pthra|
+|short_code_upper|HI11PTHRA|
 |size|2_54_mm|
-|size_length_1|2|
-|size_length_2|2_|
-|size_length_3|2_5|
-|size_length_4|2_54|
-|size_length_5|2_54_|
-|size_length_6|2_54_m|
-|size_name|2 54 mm|
-|size_no_space_length_1|2|
-|size_no_space_length_2|25|
-|size_no_space_length_3|254|
-|size_no_space_length_4|254m|
-|size_no_space_length_5|254mm|
-|size_no_space_length_6|254mm|
-|size_no_space_upper_length_1|2|
-|size_no_space_upper_length_2|25|
-|size_no_space_upper_length_3|254|
-|size_no_space_upper_length_4|254M|
-|size_no_space_upper_length_5|254MM|
-|size_no_space_upper_length_6|254MM|
-|size_upper_length_1|2|
-|size_upper_length_2|2_|
-|size_upper_length_3|2_5|
-|size_upper_length_4|2_54|
-|size_upper_length_5|2_54_|
-|size_upper_length_6|2_54_M|
+|size_capital|2.54 mm|
+|size_first_letter|2|
+|size_first_letter_upper|2|
+|size_only_numbers|254|
+|size_only_numbers_no_zeros|254|
+|size_upper|2_54_MM|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x01_pin'}]|
 |type|header|
-|type_length_1|h|
-|type_length_2|he|
-|type_length_3|hea|
-|type_length_4|head|
-|type_length_5|heade|
-|type_length_6|header|
-|type_name|Header|
-|type_no_space_length_1|h|
-|type_no_space_length_2|he|
-|type_no_space_length_3|hea|
-|type_no_space_length_4|head|
-|type_no_space_length_5|heade|
-|type_no_space_length_6|header|
-|type_no_space_upper_length_1|H|
-|type_no_space_upper_length_2|HE|
-|type_no_space_upper_length_3|HEA|
-|type_no_space_upper_length_4|HEAD|
-|type_no_space_upper_length_5|HEADE|
-|type_no_space_upper_length_6|HEADER|
-|type_upper_length_1|H|
-|type_upper_length_2|HE|
-|type_upper_length_3|HEA|
-|type_upper_length_4|HEAD|
-|type_upper_length_5|HEADE|
-|type_upper_length_6|HEADER|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Header|
+|type_first_letter|h|
+|type_first_letter_upper|H|
+|type_upper|HEADER|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

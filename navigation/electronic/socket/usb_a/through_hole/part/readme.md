@@ -1,4 +1,4 @@
-# Electronic Socket USB A Through Hole  
+# Electronic Socket Usb A Through Hole  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -28,70 +28,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main|through_hole|
-|description_main_length_1|t|
-|description_main_length_2|th|
-|description_main_length_3|thr|
-|description_main_length_4|thro|
-|description_main_length_5|throu|
-|description_main_length_6|throug|
-|description_main_name|Through Hole|
-|description_main_no_space_length_1|t|
-|description_main_no_space_length_2|th|
-|description_main_no_space_length_3|thr|
-|description_main_no_space_length_4|thro|
-|description_main_no_space_length_5|throu|
-|description_main_no_space_length_6|throug|
-|description_main_no_space_upper_length_1|T|
-|description_main_no_space_upper_length_2|TH|
-|description_main_no_space_upper_length_3|THR|
-|description_main_no_space_upper_length_4|THRO|
-|description_main_no_space_upper_length_5|THROU|
-|description_main_no_space_upper_length_6|THROUG|
-|description_main_upper_length_1|T|
-|description_main_upper_length_2|TH|
-|description_main_upper_length_3|THR|
-|description_main_upper_length_4|THRO|
-|description_main_upper_length_5|THROU|
-|description_main_upper_length_6|THROUG|
+|description_main_capital|Through Hole|
+|description_main_first_letter|t|
+|description_main_first_letter_upper|T|
+|description_main_upper|THROUGH_HOLE|
+|description_only_numbers||
+|description_only_numbers_short| |
+|description_or_color| |
+|description_or_color_upper| |
 |directory|parts/electronic_socket_usb_a_through_hole|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole|
+|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2345.html', 'name': 'LCSC', 'part_number': 'C2345'}]|
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_a_molex_67643_horizontal//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_a_molex_67643_horizontal', 'note': 'source footprint kicad_connector_usb_usb_a_molex_67643_horizontal', 'oomp_key': 'oomp_kicad_connector_usb_usb_a_molex_67643_horizontal'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scuath_electronic_socket_usb_a_through_hole//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scuath_electronic_socket_usb_a_through_hole', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_scuath_electronic_socket_usb_a_through_hole'}]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working|
 |id|electronic_socket_usb_a_through_hole|
 |id_no_class|socket_usb_a_through_hole|
-|id_no_color|throughhole|
 |id_no_size|through_hole|
 |id_no_type|usb_a_through_hole|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[scuath](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[Electronic Socket Usb A Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br>|
+|markdown_short|[electronic_socket_usb_a_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole/working)<br>[LCSC - C2345<br>](https://lcsc.com/product-detail/C2345.html)<br>|
 |md5|ac29a1c56fdd56c5fceebef01c86ea00|
 |md5_10|ac29a1c56f|
 |md5_10_upper|AC29A1C56F|
@@ -101,68 +76,36 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_alpha|6ptwh|
 |md5_6_alpha_upper|6PTWH|
 |md5_6_upper|AC29A1|
-|name|Electronic Socket USB A Through Hole|
-|name_no_class|Socket USB A Through Hole|
-|name_no_color|Throughhole|
+|name|Electronic Socket Usb A Through Hole|
+|name_no_class|Socket Usb A Through Hole|
 |name_no_size|Through Hole|
-|name_no_type|USB A Through Hole|
+|name_no_size_short|Through Hole|
+|name_no_type|Usb A Through Hole|
 |oomp_key|oomp_electronic_socket_usb_a_through_hole|
 |oomp_word|shirt sunny trophy|
 |oomp_word_emoji|:shirt: :sunny: :trophy:|
 |oomp_word_emoji_list|[':shirt:', ':sunny:', ':trophy:']|
 |oomp_word_list|['shirt', 'sunny', 'trophy']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|pins|{'pin_1': {'name': 'vbus', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'usb_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'usb_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'gnd', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'shield', 'number': '6', 'type': 'signal'}}|
+|short_code|scuath|
+|short_code_upper|SCUATH|
+|short_name||
 |size|usb_a|
-|size_length_1|u|
-|size_length_2|us|
-|size_length_3|usb|
-|size_length_4|usb_|
-|size_length_5|usb_a|
-|size_length_6|usb_a|
-|size_name|USB A|
-|size_no_space_length_1|u|
-|size_no_space_length_2|us|
-|size_no_space_length_3|usb|
-|size_no_space_length_4|usba|
-|size_no_space_length_5|usba|
-|size_no_space_length_6|usba|
-|size_no_space_upper_length_1|U|
-|size_no_space_upper_length_2|US|
-|size_no_space_upper_length_3|USB|
-|size_no_space_upper_length_4|USBA|
-|size_no_space_upper_length_5|USBA|
-|size_no_space_upper_length_6|USBA|
-|size_upper_length_1|U|
-|size_upper_length_2|US|
-|size_upper_length_3|USB|
-|size_upper_length_4|USB_|
-|size_upper_length_5|USB_A|
-|size_upper_length_6|USB_A|
+|size_capital|Usb A|
+|size_first_letter|u|
+|size_first_letter_upper|U|
+|size_only_numbers||
+|size_only_numbers_no_zeros||
+|size_upper|USB_A|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_a', 'oomp_key': 'oomp_kicad_connector_usb_a'}]|
 |type|socket|
-|type_length_1|s|
-|type_length_2|so|
-|type_length_3|soc|
-|type_length_4|sock|
-|type_length_5|socke|
-|type_length_6|socket|
-|type_name|Socket|
-|type_no_space_length_1|s|
-|type_no_space_length_2|so|
-|type_no_space_length_3|soc|
-|type_no_space_length_4|sock|
-|type_no_space_length_5|socke|
-|type_no_space_length_6|socket|
-|type_no_space_upper_length_1|S|
-|type_no_space_upper_length_2|SO|
-|type_no_space_upper_length_3|SOC|
-|type_no_space_upper_length_4|SOCK|
-|type_no_space_upper_length_5|SOCKE|
-|type_no_space_upper_length_6|SOCKET|
-|type_upper_length_1|S|
-|type_upper_length_2|SO|
-|type_upper_length_3|SOC|
-|type_upper_length_4|SOCK|
-|type_upper_length_5|SOCKE|
-|type_upper_length_6|SOCKET|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Socket|
+|type_first_letter|s|
+|type_first_letter_upper|S|
+|type_upper|SOCKET|
+|files|['base.yaml', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

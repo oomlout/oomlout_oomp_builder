@@ -28,70 +28,47 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main|2_pole_inline|
-|description_main_length_1|2|
-|description_main_length_2|2_|
-|description_main_length_3|2_p|
-|description_main_length_4|2_po|
-|description_main_length_5|2_pol|
-|description_main_length_6|2_pole|
-|description_main_name|2 Pole Inline|
-|description_main_no_space_length_1|2|
-|description_main_no_space_length_2|2p|
-|description_main_no_space_length_3|2po|
-|description_main_no_space_length_4|2pol|
-|description_main_no_space_length_5|2pole|
-|description_main_no_space_length_6|2polei|
-|description_main_no_space_upper_length_1|2|
-|description_main_no_space_upper_length_2|2P|
-|description_main_no_space_upper_length_3|2PO|
-|description_main_no_space_upper_length_4|2POL|
-|description_main_no_space_upper_length_5|2POLE|
-|description_main_no_space_upper_length_6|2POLEI|
-|description_main_upper_length_1|2|
-|description_main_upper_length_2|2_|
-|description_main_upper_length_3|2_P|
-|description_main_upper_length_4|2_PO|
-|description_main_upper_length_5|2_POL|
-|description_main_upper_length_6|2_POLE|
+|description_main_capital|2 Pole Inline|
+|description_main_first_letter|2|
+|description_main_first_letter_upper|2|
+|description_main_upper|2_POLE_INLINE|
+|description_only_numbers|2|
+|description_only_numbers_short|2|
+|description_or_color|2|
+|description_or_color_upper|2|
 |directory|parts/electronic_connector_wago_221_2_pole_inline|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline|
+|distributors|[]|
+|filter||
+|from_yaml|False|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working|
 |id|electronic_connector_wago_221_2_pole_inline|
 |id_no_class|connector_wago_221_2_pole_inline|
-|id_no_color|2poleinline|
 |id_no_size|2_pole_inline|
 |id_no_type|wago_221_2_pole_inline|
+|kicad_reference|L|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[conw2212poi](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br>[Electronic Connector Wago 221 2 Pole Inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br>|
+|markdown_short|[electronic_connector_wago_221_2_pole_inline](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline/working)<br><br>|
 |md5|e9d1a42f1d6baa84b5066a745445c443|
 |md5_10|e9d1a42f1d|
 |md5_10_upper|E9D1A42F1D|
@@ -103,8 +80,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_upper|E9D1A4|
 |name|Electronic Connector Wago 221 2 Pole Inline|
 |name_no_class|Connector Wago 221 2 Pole Inline|
-|name_no_color|2Poleinline|
 |name_no_size|2 Pole Inline|
+|name_no_size_short|2 Pole Inline|
 |name_no_type|Wago 221 2 Pole Inline|
 |oomp_key|oomp_electronic_connector_wago_221_2_pole_inline|
 |oomp_word|bike pear book|
@@ -112,57 +89,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |oomp_word_emoji_list|[':bike:', ':pear:', ':book:']|
 |oomp_word_list|['bike', 'pear', 'book']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|conw2212poi|
+|short_code_upper|CONW2212POI|
 |size|wago_221|
-|size_length_1|w|
-|size_length_2|wa|
-|size_length_3|wag|
-|size_length_4|wago|
-|size_length_5|wago_|
-|size_length_6|wago_2|
-|size_name|Wago 221|
-|size_no_space_length_1|w|
-|size_no_space_length_2|wa|
-|size_no_space_length_3|wag|
-|size_no_space_length_4|wago|
-|size_no_space_length_5|wago2|
-|size_no_space_length_6|wago22|
-|size_no_space_upper_length_1|W|
-|size_no_space_upper_length_2|WA|
-|size_no_space_upper_length_3|WAG|
-|size_no_space_upper_length_4|WAGO|
-|size_no_space_upper_length_5|WAGO2|
-|size_no_space_upper_length_6|WAGO22|
-|size_upper_length_1|W|
-|size_upper_length_2|WA|
-|size_upper_length_3|WAG|
-|size_upper_length_4|WAGO|
-|size_upper_length_5|WAGO_|
-|size_upper_length_6|WAGO_2|
+|size_capital|Wago 221|
+|size_first_letter|w|
+|size_first_letter_upper|W|
+|size_only_numbers|221|
+|size_only_numbers_no_zeros|221|
+|size_upper|WAGO_221|
 |type|connector|
-|type_length_1|c|
-|type_length_2|co|
-|type_length_3|con|
-|type_length_4|conn|
-|type_length_5|conne|
-|type_length_6|connec|
-|type_name|Connector|
-|type_no_space_length_1|c|
-|type_no_space_length_2|co|
-|type_no_space_length_3|con|
-|type_no_space_length_4|conn|
-|type_no_space_length_5|conne|
-|type_no_space_length_6|connec|
-|type_no_space_upper_length_1|C|
-|type_no_space_upper_length_2|CO|
-|type_no_space_upper_length_3|CON|
-|type_no_space_upper_length_4|CONN|
-|type_no_space_upper_length_5|CONNE|
-|type_no_space_upper_length_6|CONNEC|
-|type_upper_length_1|C|
-|type_upper_length_2|CO|
-|type_upper_length_3|CON|
-|type_upper_length_4|CONN|
-|type_upper_length_5|CONNE|
-|type_upper_length_6|CONNEC|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Connector|
+|type_first_letter|c|
+|type_first_letter_upper|C|
+|type_upper|CONNECTOR|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

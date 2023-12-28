@@ -28,70 +28,44 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|oobb|
-|classification_length_1|o|
-|classification_length_2|oo|
-|classification_length_3|oob|
-|classification_length_4|oobb|
-|classification_length_5|oobb|
-|classification_length_6|oobb|
-|classification_name|Oobb|
-|classification_no_space_length_1|o|
-|classification_no_space_length_2|oo|
-|classification_no_space_length_3|oob|
-|classification_no_space_length_4|oobb|
-|classification_no_space_length_5|oobb|
-|classification_no_space_length_6|oobb|
-|classification_no_space_upper_length_1|O|
-|classification_no_space_upper_length_2|OO|
-|classification_no_space_upper_length_3|OOB|
-|classification_no_space_upper_length_4|OOBB|
-|classification_no_space_upper_length_5|OOBB|
-|classification_no_space_upper_length_6|OOBB|
-|classification_upper_length_1|O|
-|classification_upper_length_2|OO|
-|classification_upper_length_3|OOB|
-|classification_upper_length_4|OOBB|
-|classification_upper_length_5|OOBB|
-|classification_upper_length_6|OOBB|
+|classification_capital|Oobb|
+|classification_first_letter|o|
+|classification_first_letter_upper|O|
+|classification_upper|OOBB|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main|13_01_ex_i|
-|description_main_length_1|1|
-|description_main_length_2|13|
-|description_main_length_3|13_|
-|description_main_length_4|13_0|
-|description_main_length_5|13_01|
-|description_main_length_6|13_01_|
-|description_main_name|13 01 Ex I|
-|description_main_no_space_length_1|1|
-|description_main_no_space_length_2|13|
-|description_main_no_space_length_3|130|
-|description_main_no_space_length_4|1301|
-|description_main_no_space_length_5|1301e|
-|description_main_no_space_length_6|1301ex|
-|description_main_no_space_upper_length_1|1|
-|description_main_no_space_upper_length_2|13|
-|description_main_no_space_upper_length_3|130|
-|description_main_no_space_upper_length_4|1301|
-|description_main_no_space_upper_length_5|1301E|
-|description_main_no_space_upper_length_6|1301EX|
-|description_main_upper_length_1|1|
-|description_main_upper_length_2|13|
-|description_main_upper_length_3|13_|
-|description_main_upper_length_4|13_0|
-|description_main_upper_length_5|13_01|
-|description_main_upper_length_6|13_01_|
+|description_main_capital|13 01 Ex I|
+|description_main_first_letter|1|
+|description_main_first_letter_upper|1|
+|description_main_upper|13_01_EX_I|
+|description_only_numbers|1301|
+|description_only_numbers_short|1k3|
+|description_or_color|1k3|
+|description_or_color_upper|1K3|
 |directory|parts/oobb_part_bunting_alphabet_13_01_ex_i|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i|
+|distributors|[]|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i/working|
 |id|oobb_part_bunting_alphabet_13_01_ex_i|
 |id_no_class|part_bunting_alphabet_13_01_ex_i|
-|id_no_color|1301exi|
 |id_no_size|13_01_ex_i|
 |id_no_type|bunting_alphabet_13_01_ex_i|
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[oobb_part_bunting_alphabet_13_01_ex_i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i/working)<br>[Oobb Part Bunting Alphabet 13 01 Ex I](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i/working)<br><br>|
+|markdown_short|[oobb_part_bunting_alphabet_13_01_ex_i](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01_ex_i/working)<br><br>|
 |md5|697fa82e48b2ce028ad066bf71a9967b|
 |md5_10|697fa82e48|
 |md5_10_upper|697FA82E48|
@@ -103,8 +77,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_upper|697FA8|
 |name|Oobb Part Bunting Alphabet 13 01 Ex I|
 |name_no_class|Part Bunting Alphabet 13 01 Ex I|
-|name_no_color|1301Exi|
 |name_no_size|13 01 Ex I|
+|name_no_size_short|13 01 Ex I|
 |name_no_type|Bunting Alphabet 13 01 Ex I|
 |oomp_key|oomp_oobb_part_bunting_alphabet_13_01_ex_i|
 |oomp_word|cactus speaker shoe|
@@ -112,57 +86,23 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |oomp_word_emoji_list|[':cactus:', ':speaker:', ':shoe:']|
 |oomp_word_list|['cactus', 'speaker', 'shoe']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code||
+|short_code_upper||
+|short_name||
 |size|bunting_alphabet|
-|size_length_1|b|
-|size_length_2|bu|
-|size_length_3|bun|
-|size_length_4|bunt|
-|size_length_5|bunti|
-|size_length_6|buntin|
-|size_name|Bunting Alphabet|
-|size_no_space_length_1|b|
-|size_no_space_length_2|bu|
-|size_no_space_length_3|bun|
-|size_no_space_length_4|bunt|
-|size_no_space_length_5|bunti|
-|size_no_space_length_6|buntin|
-|size_no_space_upper_length_1|B|
-|size_no_space_upper_length_2|BU|
-|size_no_space_upper_length_3|BUN|
-|size_no_space_upper_length_4|BUNT|
-|size_no_space_upper_length_5|BUNTI|
-|size_no_space_upper_length_6|BUNTIN|
-|size_upper_length_1|B|
-|size_upper_length_2|BU|
-|size_upper_length_3|BUN|
-|size_upper_length_4|BUNT|
-|size_upper_length_5|BUNTI|
-|size_upper_length_6|BUNTIN|
+|size_capital|Bunting Alphabet|
+|size_first_letter|b|
+|size_first_letter_upper|B|
+|size_only_numbers||
+|size_only_numbers_no_zeros||
+|size_upper|BUNTING_ALPHABET|
 |type|part|
-|type_length_1|p|
-|type_length_2|pa|
-|type_length_3|par|
-|type_length_4|part|
-|type_length_5|part|
-|type_length_6|part|
-|type_name|Part|
-|type_no_space_length_1|p|
-|type_no_space_length_2|pa|
-|type_no_space_length_3|par|
-|type_no_space_length_4|part|
-|type_no_space_length_5|part|
-|type_no_space_length_6|part|
-|type_no_space_upper_length_1|P|
-|type_no_space_upper_length_2|PA|
-|type_no_space_upper_length_3|PAR|
-|type_no_space_upper_length_4|PART|
-|type_no_space_upper_length_5|PART|
-|type_no_space_upper_length_6|PART|
-|type_upper_length_1|P|
-|type_upper_length_2|PA|
-|type_upper_length_3|PAR|
-|type_upper_length_4|PART|
-|type_upper_length_5|PART|
-|type_upper_length_6|PART|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Part|
+|type_first_letter|p|
+|type_first_letter_upper|P|
+|type_upper|PART|
+|files|['base.yaml', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|

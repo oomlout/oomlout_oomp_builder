@@ -1,4 +1,4 @@
-# Electronic Nettie 3 Nets SMD  
+# Electronic Nettie 3 Nets Smd  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -28,70 +28,48 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |classification|electronic|
-|classification_length_1|e|
-|classification_length_2|el|
-|classification_length_3|ele|
-|classification_length_4|elec|
-|classification_length_5|elect|
-|classification_length_6|electr|
-|classification_name|Electronic|
-|classification_no_space_length_1|e|
-|classification_no_space_length_2|el|
-|classification_no_space_length_3|ele|
-|classification_no_space_length_4|elec|
-|classification_no_space_length_5|elect|
-|classification_no_space_length_6|electr|
-|classification_no_space_upper_length_1|E|
-|classification_no_space_upper_length_2|EL|
-|classification_no_space_upper_length_3|ELE|
-|classification_no_space_upper_length_4|ELEC|
-|classification_no_space_upper_length_5|ELECT|
-|classification_no_space_upper_length_6|ELECTR|
-|classification_upper_length_1|E|
-|classification_upper_length_2|EL|
-|classification_upper_length_3|ELE|
-|classification_upper_length_4|ELEC|
-|classification_upper_length_5|ELECT|
-|classification_upper_length_6|ELECTR|
+|classification_capital|Electronic|
+|classification_first_letter|e|
+|classification_first_letter_upper|E|
+|classification_upper|ELECTRONIC|
 |color||
-|color_name||
+|color_capital||
+|color_first_letter||
+|color_first_letter_upper||
+|color_upper||
 |description_extra||
-|description_extra_name||
+|description_extra_capital||
+|description_extra_first_letter||
+|description_extra_first_letter_upper||
+|description_extra_upper||
 |description_main|smd|
-|description_main_length_1|s|
-|description_main_length_2|sm|
-|description_main_length_3|smd|
-|description_main_length_4|smd|
-|description_main_length_5|smd|
-|description_main_length_6|smd|
-|description_main_name|SMD|
-|description_main_no_space_length_1|s|
-|description_main_no_space_length_2|sm|
-|description_main_no_space_length_3|smd|
-|description_main_no_space_length_4|smd|
-|description_main_no_space_length_5|smd|
-|description_main_no_space_length_6|smd|
-|description_main_no_space_upper_length_1|S|
-|description_main_no_space_upper_length_2|SM|
-|description_main_no_space_upper_length_3|SMD|
-|description_main_no_space_upper_length_4|SMD|
-|description_main_no_space_upper_length_5|SMD|
-|description_main_no_space_upper_length_6|SMD|
-|description_main_upper_length_1|S|
-|description_main_upper_length_2|SM|
-|description_main_upper_length_3|SMD|
-|description_main_upper_length_4|SMD|
-|description_main_upper_length_5|SMD|
-|description_main_upper_length_6|SMD|
+|description_main_capital|Smd|
+|description_main_first_letter|s|
+|description_main_first_letter_upper|S|
+|description_main_upper|SMD|
+|description_only_numbers||
+|description_only_numbers_short| |
+|description_or_color| |
+|description_or_color_upper| |
 |directory|parts/electronic_nettie_3_nets_smd|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd|
+|distributors|[]|
+|filter||
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_3_smd_pad0_5mm', 'note': 'source footprint kicad_nettie_nettie_3_smd_pad0_5mm', 'oomp_key': 'oomp_kicad_nettie_nettie_3_smd_pad0_5mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd'}]|
+|from_yaml|False|
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working|
 |id|electronic_nettie_3_nets_smd|
 |id_no_class|nettie_3_nets_smd|
-|id_no_color|smd|
 |id_no_size|smd|
 |id_no_type|3_nets_smd|
+|kicad_reference||
 |manufacturer||
-|manufacturer_name||
+|manufacturer_capital||
+|manufacturer_first_letter||
+|manufacturer_first_letter_upper||
+|manufacturer_upper||
+|manufacturers|[]|
+|markdown_full|[electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[nt3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br>[Electronic Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br>|
+|markdown_short|[electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_smd/working)<br><br>|
 |md5|494314f1c04b845b745ce0bd6ae8e357|
 |md5_10|494314f1c0|
 |md5_10_upper|494314F1C0|
@@ -101,68 +79,34 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |md5_6_alpha|2uwpg|
 |md5_6_alpha_upper|2UWPG|
 |md5_6_upper|494314|
-|name|Electronic Nettie 3 Nets SMD|
-|name_no_class|Nettie 3 Nets SMD|
-|name_no_color|SMD|
-|name_no_size|SMD|
-|name_no_type|3 Nets SMD|
+|name|Electronic Nettie 3 Nets Smd|
+|name_no_class|Nettie 3 Nets Smd|
+|name_no_size|Smd|
+|name_no_size_short|Smd|
+|name_no_type|3 Nets Smd|
 |oomp_key|oomp_electronic_nettie_3_nets_smd|
 |oomp_word|hatching_chick elephant fire|
 |oomp_word_emoji|:hatching_chick: :elephant: :fire:|
 |oomp_word_emoji_list|[':hatching_chick:', ':elephant:', ':fire:']|
 |oomp_word_list|['hatching_chick', 'elephant', 'fire']|
 |part_number||
-|part_number_name||
+|part_number_capital||
+|part_number_first_letter||
+|part_number_first_letter_upper||
+|part_number_upper||
+|short_code|nt3|
+|short_code_upper|NT3|
 |size|3_nets|
-|size_length_1|3|
-|size_length_2|3_|
-|size_length_3|3_n|
-|size_length_4|3_ne|
-|size_length_5|3_net|
-|size_length_6|3_nets|
-|size_name|3 Nets|
-|size_no_space_length_1|3|
-|size_no_space_length_2|3n|
-|size_no_space_length_3|3ne|
-|size_no_space_length_4|3net|
-|size_no_space_length_5|3nets|
-|size_no_space_length_6|3nets|
-|size_no_space_upper_length_1|3|
-|size_no_space_upper_length_2|3N|
-|size_no_space_upper_length_3|3NE|
-|size_no_space_upper_length_4|3NET|
-|size_no_space_upper_length_5|3NETS|
-|size_no_space_upper_length_6|3NETS|
-|size_upper_length_1|3|
-|size_upper_length_2|3_|
-|size_upper_length_3|3_N|
-|size_upper_length_4|3_NE|
-|size_upper_length_5|3_NET|
-|size_upper_length_6|3_NETS|
+|size_capital|3 Nets|
+|size_first_letter|3|
+|size_first_letter_upper|3|
+|size_only_numbers|3|
+|size_only_numbers_no_zeros|3|
+|size_upper|3_NETS|
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_3', 'oomp_key': 'oomp_kicad_device_nettie_3'}]|
 |type|nettie|
-|type_length_1|n|
-|type_length_2|ne|
-|type_length_3|net|
-|type_length_4|nett|
-|type_length_5|netti|
-|type_length_6|nettie|
-|type_name|Nettie|
-|type_no_space_length_1|n|
-|type_no_space_length_2|ne|
-|type_no_space_length_3|net|
-|type_no_space_length_4|nett|
-|type_no_space_length_5|netti|
-|type_no_space_length_6|nettie|
-|type_no_space_upper_length_1|N|
-|type_no_space_upper_length_2|NE|
-|type_no_space_upper_length_3|NET|
-|type_no_space_upper_length_4|NETT|
-|type_no_space_upper_length_5|NETTI|
-|type_no_space_upper_length_6|NETTIE|
-|type_upper_length_1|N|
-|type_upper_length_2|NE|
-|type_upper_length_3|NET|
-|type_upper_length_4|NETT|
-|type_upper_length_5|NETTI|
-|type_upper_length_6|NETTIE|
-|files|['base.yaml', 'working.yaml']|
+|type_capital|Nettie|
+|type_first_letter|n|
+|type_first_letter_upper|N|
+|type_upper|NETTIE|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
