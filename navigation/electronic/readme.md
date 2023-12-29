@@ -1,4 +1,4 @@
-* [battery_box](battery_box)
+* [battery_box](battery_box/)
   * [aa_battery](battery_box/aa_battery)
     * [4_cell](battery_box/aa_battery/4_cell)
 * [breakout_board](/breakout_board)
