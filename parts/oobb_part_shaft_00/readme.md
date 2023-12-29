@@ -27,82 +27,83 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 32b09c
 
 ### all codes 
-|classification|oobb|
-|classification_capital|Oobb|
-|classification_first_letter|o|
-|classification_first_letter_upper|O|
-|classification_upper|OOBB|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|00|
-|description_main_capital|00|
-|description_main_first_letter|0|
-|description_main_first_letter_upper|0|
-|description_main_upper|00|
-|description_only_numbers|00|
-|description_only_numbers_short| |
-|description_or_color| |
-|description_or_color_upper| |
-|directory|parts/oobb_part_shaft_00|
-|distributors|[]|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working|
-|id|oobb_part_shaft_00|
-|id_no_class|part_shaft_00|
-|id_no_size|00|
-|id_no_type|shaft_00|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[]|
-|markdown_full|[oobb_part_shaft_00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br>[Oobb Part Shaft 00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br><br>|
-|markdown_short|[oobb_part_shaft_00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br><br>|
-|md5|32b09cfdfa3f28cfe91383a8a296e7eb|
-|md5_10|32b09cfdfa|
-|md5_10_upper|32B09CFDFA|
-|md5_5|32b09|
-|md5_5_upper|32B09|
-|md5_6|32b09c|
-|md5_6_alpha|1z7a4|
-|md5_6_alpha_upper|1Z7A4|
-|md5_6_upper|32B09C|
-|name|Oobb Part Shaft 00|
-|name_no_class|Part Shaft 00|
-|name_no_size|00|
-|name_no_size_short|00|
-|name_no_type|Shaft 00|
-|oomp_key|oomp_oobb_part_shaft_00|
-|oomp_word|cat crown spades|
-|oomp_word_emoji|:cat: :crown: :spades:|
-|oomp_word_emoji_list|[':cat:', ':crown:', ':spades:']|
-|oomp_word_list|['cat', 'crown', 'spades']|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code||
-|short_code_upper||
-|short_name||
-|size|shaft|
-|size_capital|Shaft|
-|size_first_letter|s|
-|size_first_letter_upper|S|
-|size_only_numbers||
-|size_only_numbers_no_zeros||
-|size_upper|SHAFT|
-|type|part|
-|type_capital|Part|
-|type_first_letter|p|
-|type_first_letter_upper|P|
-|type_upper|PART|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|oobb|  
+|classification_capital|Oobb|  
+|classification_first_letter|o|  
+|classification_first_letter_upper|O|  
+|classification_upper|OOBB|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|00|  
+|description_main_capital|00|  
+|description_main_first_letter|0|  
+|description_main_first_letter_upper|0|  
+|description_main_upper|00|  
+|description_only_numbers|00|  
+|description_only_numbers_short| |  
+|description_or_color| |  
+|description_or_color_upper| |  
+|directory|parts/oobb_part_shaft_00|  
+|distributors|[]|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working|  
+|id|oobb_part_shaft_00|  
+|id_no_class|part_shaft_00|  
+|id_no_size|00|  
+|id_no_type|shaft_00|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[]|  
+|markdown_full|[oobb_part_shaft_00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br>[Oobb Part Shaft 00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br><br>|  
+|markdown_short|[oobb_part_shaft_00](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00/working)<br><br>|  
+|md5|32b09cfdfa3f28cfe91383a8a296e7eb|  
+|md5_10|32b09cfdfa|  
+|md5_10_upper|32B09CFDFA|  
+|md5_5|32b09|  
+|md5_5_upper|32B09|  
+|md5_6|32b09c|  
+|md5_6_alpha|1z7a4|  
+|md5_6_alpha_upper|1Z7A4|  
+|md5_6_upper|32B09C|  
+|name|Oobb Part Shaft 00|  
+|name_no_class|Part Shaft 00|  
+|name_no_size|00|  
+|name_no_size_short|00|  
+|name_no_type|Shaft 00|  
+|oomp_key|oomp_oobb_part_shaft_00|  
+|oomp_word|cat crown spades|  
+|oomp_word_emoji|:cat: :crown: :spades:|  
+|oomp_word_emoji_list|[':cat:', ':crown:', ':spades:']|  
+|oomp_word_list|['cat', 'crown', 'spades']|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code||  
+|short_code_upper||  
+|short_name||  
+|size|shaft|  
+|size_capital|Shaft|  
+|size_first_letter|s|  
+|size_first_letter_upper|S|  
+|size_only_numbers||  
+|size_only_numbers_no_zeros||  
+|size_upper|SHAFT|  
+|type|part|  
+|type_capital|Part|  
+|type_first_letter|p|  
+|type_first_letter_upper|P|  
+|type_upper|PART|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

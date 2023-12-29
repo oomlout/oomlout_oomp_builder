@@ -27,82 +27,83 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: df7bfc
 
 ### all codes 
-|classification|oobb|
-|classification_capital|Oobb|
-|classification_first_letter|o|
-|classification_first_letter_upper|O|
-|classification_upper|OOBB|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|03_03_06_ex_i2c|
-|description_main_capital|03 03 06 Ex I2C|
-|description_main_first_letter|0|
-|description_main_first_letter_upper|0|
-|description_main_upper|03_03_06_EX_I2C|
-|description_only_numbers|0303062|
-|description_only_numbers_short|303k|
-|description_or_color|303k|
-|description_or_color_upper|303K|
-|directory|parts/oobb_part_wire_03_03_06_ex_i2c|
-|distributors|[]|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working|
-|id|oobb_part_wire_03_03_06_ex_i2c|
-|id_no_class|part_wire_03_03_06_ex_i2c|
-|id_no_size|03_03_06_ex_i2c|
-|id_no_type|wire_03_03_06_ex_i2c|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[]|
-|markdown_full|[oobb_part_wire_03_03_06_ex_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br>[Oobb Part Wire 03 03 06 Ex I2C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br><br>|
-|markdown_short|[oobb_part_wire_03_03_06_ex_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br><br>|
-|md5|df7bfc6005ee4126e3113f1910856d0c|
-|md5_10|df7bfc6005|
-|md5_10_upper|DF7BFC6005|
-|md5_5|df7bf|
-|md5_5_upper|DF7BF|
-|md5_6|df7bfc|
-|md5_6_alpha|8px4s|
-|md5_6_alpha_upper|8PX4S|
-|md5_6_upper|DF7BFC|
-|name|Oobb Part Wire 03 03 06 Ex I2C|
-|name_no_class|Part Wire 03 03 06 Ex I2C|
-|name_no_size|03 03 06 Ex I2C|
-|name_no_size_short|03 03 06 Ex I2C|
-|name_no_type|Wire 03 03 06 Ex I2C|
-|oomp_key|oomp_oobb_part_wire_03_03_06_ex_i2c|
-|oomp_word|fountain computer up|
-|oomp_word_emoji|:fountain: :computer: :up:|
-|oomp_word_emoji_list|[':fountain:', ':computer:', ':up:']|
-|oomp_word_list|['fountain', 'computer', 'up']|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code||
-|short_code_upper||
-|short_name||
-|size|wire|
-|size_capital|Wire|
-|size_first_letter|w|
-|size_first_letter_upper|W|
-|size_only_numbers||
-|size_only_numbers_no_zeros||
-|size_upper|WIRE|
-|type|part|
-|type_capital|Part|
-|type_first_letter|p|
-|type_first_letter_upper|P|
-|type_upper|PART|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|oobb|  
+|classification_capital|Oobb|  
+|classification_first_letter|o|  
+|classification_first_letter_upper|O|  
+|classification_upper|OOBB|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|03_03_06_ex_i2c|  
+|description_main_capital|03 03 06 Ex I2C|  
+|description_main_first_letter|0|  
+|description_main_first_letter_upper|0|  
+|description_main_upper|03_03_06_EX_I2C|  
+|description_only_numbers|0303062|  
+|description_only_numbers_short|303k|  
+|description_or_color|303k|  
+|description_or_color_upper|303K|  
+|directory|parts/oobb_part_wire_03_03_06_ex_i2c|  
+|distributors|[]|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working|  
+|id|oobb_part_wire_03_03_06_ex_i2c|  
+|id_no_class|part_wire_03_03_06_ex_i2c|  
+|id_no_size|03_03_06_ex_i2c|  
+|id_no_type|wire_03_03_06_ex_i2c|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[]|  
+|markdown_full|[oobb_part_wire_03_03_06_ex_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br>[Oobb Part Wire 03 03 06 Ex I2C](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br><br>|  
+|markdown_short|[oobb_part_wire_03_03_06_ex_i2c](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06_ex_i2c/working)<br><br>|  
+|md5|df7bfc6005ee4126e3113f1910856d0c|  
+|md5_10|df7bfc6005|  
+|md5_10_upper|DF7BFC6005|  
+|md5_5|df7bf|  
+|md5_5_upper|DF7BF|  
+|md5_6|df7bfc|  
+|md5_6_alpha|8px4s|  
+|md5_6_alpha_upper|8PX4S|  
+|md5_6_upper|DF7BFC|  
+|name|Oobb Part Wire 03 03 06 Ex I2C|  
+|name_no_class|Part Wire 03 03 06 Ex I2C|  
+|name_no_size|03 03 06 Ex I2C|  
+|name_no_size_short|03 03 06 Ex I2C|  
+|name_no_type|Wire 03 03 06 Ex I2C|  
+|oomp_key|oomp_oobb_part_wire_03_03_06_ex_i2c|  
+|oomp_word|fountain computer up|  
+|oomp_word_emoji|:fountain: :computer: :up:|  
+|oomp_word_emoji_list|[':fountain:', ':computer:', ':up:']|  
+|oomp_word_list|['fountain', 'computer', 'up']|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code||  
+|short_code_upper||  
+|short_name||  
+|size|wire|  
+|size_capital|Wire|  
+|size_first_letter|w|  
+|size_first_letter_upper|W|  
+|size_only_numbers||  
+|size_only_numbers_no_zeros||  
+|size_upper|WIRE|  
+|type|part|  
+|type_capital|Part|  
+|type_first_letter|p|  
+|type_first_letter_upper|P|  
+|type_upper|PART|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

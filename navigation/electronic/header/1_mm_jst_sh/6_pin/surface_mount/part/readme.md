@@ -27,84 +27,85 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 60628a
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra|surface_mount|
-|description_extra_capital|Surface Mount|
-|description_extra_first_letter|s|
-|description_extra_first_letter_upper|S|
-|description_extra_upper|SURFACE_MOUNT|
-|description_main|6_pin|
-|description_main_capital|6 Pin|
-|description_main_first_letter|6|
-|description_main_first_letter_upper|6|
-|description_main_upper|6_PIN|
-|description_only_numbers|6|
-|description_only_numbers_short|6|
-|description_or_color|6|
-|description_or_color_upper|6|
-|directory|parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount|
-|distributors|[]|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working|
-|id|electronic_header_1_mm_jst_sh_6_pin_surface_mount|
-|id_no_class|header_1_mm_jst_sh_6_pin_surface_mount|
-|id_no_size|6_pin_surface_mount|
-|id_no_type|1_mm_jst_sh_6_pin_surface_mount|
-|kicad_reference|CONN|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[{'id': 'manufacturer_jst', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'name': 'JST', 'part_number': 'BM06B-SRSS-TB'}]|
-|markdown_full|[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br>[hjsh6psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM06B-SRSS-TB)<br>|
-|markdown_short|[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)|
-|md5|60628a62dc19146d0dc1b7f8792dfb76|
-|md5_10|60628a62dc|
-|md5_10_upper|60628A62DC|
-|md5_5|60628|
-|md5_5_upper|60628|
-|md5_6|60628a|
-|md5_6_alpha|3rdze|
-|md5_6_alpha_upper|3RDZE|
-|md5_6_upper|60628A|
-|name|Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount|
-|name_no_class|Header 1 Mm Jst Sh 6 Pin Surface Mount|
-|name_no_size|6 Pin Surface Mount|
-|name_no_size_short|6 Pin Surface Mount|
-|name_no_type|1 Mm Jst Sh 6 Pin Surface Mount|
-|oomp_key|oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount|
-|oomp_word|poodle tulip envelope|
-|oomp_word_emoji|:poodle: :tulip: :envelope:|
-|oomp_word_emoji_list|[':poodle:', ':tulip:', ':envelope:']|
-|oomp_word_list|['poodle', 'tulip', 'envelope']|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|hjsh6psm|
-|short_code_upper|HJSH6PSM|
-|short_name|Jst Sh 6 Pin Surface Mount Header 1 Mm Pitch|
-|size|1_mm_jst_sh|
-|size_capital|1 mm Jst Sh|
-|size_first_letter|1|
-|size_first_letter_upper|1|
-|size_only_numbers|1|
-|size_only_numbers_no_zeros|1|
-|size_upper|1_MM_JST_SH|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin'}]|
-|type|header|
-|type_capital|Header|
-|type_first_letter|h|
-|type_first_letter_upper|H|
-|type_upper|HEADER|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra|surface_mount|  
+|description_extra_capital|Surface Mount|  
+|description_extra_first_letter|s|  
+|description_extra_first_letter_upper|S|  
+|description_extra_upper|SURFACE_MOUNT|  
+|description_main|6_pin|  
+|description_main_capital|6 Pin|  
+|description_main_first_letter|6|  
+|description_main_first_letter_upper|6|  
+|description_main_upper|6_PIN|  
+|description_only_numbers|6|  
+|description_only_numbers_short|6|  
+|description_or_color|6|  
+|description_or_color_upper|6|  
+|directory|parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount|  
+|distributors|[]|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working|  
+|id|electronic_header_1_mm_jst_sh_6_pin_surface_mount|  
+|id_no_class|header_1_mm_jst_sh_6_pin_surface_mount|  
+|id_no_size|6_pin_surface_mount|  
+|id_no_type|1_mm_jst_sh_6_pin_surface_mount|  
+|kicad_reference|CONN|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[{'id': 'manufacturer_jst', 'link': 'https://www.jst-mfg.com/product/index.php?series=231', 'name': 'JST', 'part_number': 'BM06B-SRSS-TB'}]|  
+|markdown_full|[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br>[hjsh6psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM06B-SRSS-TB)<br>|  
+|markdown_short|[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount/working)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)|  
+|md5|60628a62dc19146d0dc1b7f8792dfb76|  
+|md5_10|60628a62dc|  
+|md5_10_upper|60628A62DC|  
+|md5_5|60628|  
+|md5_5_upper|60628|  
+|md5_6|60628a|  
+|md5_6_alpha|3rdze|  
+|md5_6_alpha_upper|3RDZE|  
+|md5_6_upper|60628A|  
+|name|Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount|  
+|name_no_class|Header 1 Mm Jst Sh 6 Pin Surface Mount|  
+|name_no_size|6 Pin Surface Mount|  
+|name_no_size_short|6 Pin Surface Mount|  
+|name_no_type|1 Mm Jst Sh 6 Pin Surface Mount|  
+|oomp_key|oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount|  
+|oomp_word|poodle tulip envelope|  
+|oomp_word_emoji|:poodle: :tulip: :envelope:|  
+|oomp_word_emoji_list|[':poodle:', ':tulip:', ':envelope:']|  
+|oomp_word_list|['poodle', 'tulip', 'envelope']|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|hjsh6psm|  
+|short_code_upper|HJSH6PSM|  
+|short_name|Jst Sh 6 Pin Surface Mount Header 1 Mm Pitch|  
+|size|1_mm_jst_sh|  
+|size_capital|1 mm Jst Sh|  
+|size_first_letter|1|  
+|size_first_letter_upper|1|  
+|size_only_numbers|1|  
+|size_only_numbers_no_zeros|1|  
+|size_upper|1_MM_JST_SH|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x06_pin//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x06_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x06_pin'}]|  
+|type|header|  
+|type_capital|Header|  
+|type_first_letter|h|  
+|type_first_letter_upper|H|  
+|type_upper|HEADER|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

@@ -27,85 +27,86 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: aae3e8
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|surface_mount|
-|description_main_capital|Surface Mount|
-|description_main_first_letter|s|
-|description_main_first_letter_upper|S|
-|description_main_upper|SURFACE_MOUNT|
-|description_only_numbers||
-|description_only_numbers_short| |
-|description_or_color| |
-|description_or_color_upper| |
-|directory|parts/electronic_socket_usb_micro_surface_mount|
-|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C319160.html', 'name': 'LCSC', 'part_number': 'C319160'}]|
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'note': 'source footprint kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount'}]|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working|
-|id|electronic_socket_usb_micro_surface_mount|
-|id_no_class|socket_usb_micro_surface_mount|
-|id_no_size|surface_mount|
-|id_no_type|usb_micro_surface_mount|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[]|
-|markdown_full|[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>|
-|markdown_short|[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>|
-|md5|aae3e879c3fb0042b5bcdf92835870fd|
-|md5_10|aae3e879c3|
-|md5_10_upper|AAE3E879C3|
-|md5_5|aae3e|
-|md5_5_upper|AAE3E|
-|md5_6|aae3e8|
-|md5_6_alpha|6o1k8|
-|md5_6_alpha_upper|6O1K8|
-|md5_6_upper|AAE3E8|
-|name|Electronic Socket Usb Micro Surface Mount|
-|name_no_class|Socket Usb Micro Surface Mount|
-|name_no_size|Surface Mount|
-|name_no_size_short|Surface Mount|
-|name_no_type|Usb Micro Surface Mount|
-|oomp_key|oomp_electronic_socket_usb_micro_surface_mount|
-|oomp_word|lipstick rowboat tram|
-|oomp_word_emoji|:lipstick: :rowboat: :tram:|
-|oomp_word_emoji_list|[':lipstick:', ':rowboat:', ':tram:']|
-|oomp_word_list|['lipstick', 'rowboat', 'tram']|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|pins|{'pin_1': {'name': 'vbus', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'usb_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'usb_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'id', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'gnd', 'number': '5', 'type': 'power'}, 'pin_6': {'name': 'shield', 'number': '6', 'type': 'signal'}}|
-|short_code|scumcsm|
-|short_code_upper|SCUMCSM|
-|short_name||
-|size|usb_micro|
-|size_capital|Usb Micro|
-|size_first_letter|u|
-|size_first_letter_upper|U|
-|size_only_numbers||
-|size_only_numbers_no_zeros||
-|size_upper|USB_MICRO|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro', 'oomp_key': 'oomp_kicad_connector_usb_b_micro'}]|
-|type|socket|
-|type_capital|Socket|
-|type_first_letter|s|
-|type_first_letter_upper|S|
-|type_upper|SOCKET|
-|files|['base.yaml', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|surface_mount|  
+|description_main_capital|Surface Mount|  
+|description_main_first_letter|s|  
+|description_main_first_letter_upper|S|  
+|description_main_upper|SURFACE_MOUNT|  
+|description_only_numbers||  
+|description_only_numbers_short| |  
+|description_or_color| |  
+|description_or_color_upper| |  
+|directory|parts/electronic_socket_usb_micro_surface_mount|  
+|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C319160.html', 'name': 'LCSC', 'part_number': 'C319160'}]|  
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'note': 'source footprint kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s', 'oomp_key': 'oomp_kicad_connector_usb_usb_micro_b_xkb_u254_051t_4bh83_f1s'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_scumcsm_electronic_socket_usb_micro_surface_mount'}]|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working|  
+|id|electronic_socket_usb_micro_surface_mount|  
+|id_no_class|socket_usb_micro_surface_mount|  
+|id_no_size|surface_mount|  
+|id_no_type|usb_micro_surface_mount|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[]|  
+|markdown_full|[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[scumcsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[Electronic Socket Usb Micro Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>|  
+|markdown_short|[electronic_socket_usb_micro_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_micro_surface_mount/working)<br>[LCSC - C319160<br>](https://lcsc.com/product-detail/C319160.html)<br>|  
+|md5|aae3e879c3fb0042b5bcdf92835870fd|  
+|md5_10|aae3e879c3|  
+|md5_10_upper|AAE3E879C3|  
+|md5_5|aae3e|  
+|md5_5_upper|AAE3E|  
+|md5_6|aae3e8|  
+|md5_6_alpha|6o1k8|  
+|md5_6_alpha_upper|6O1K8|  
+|md5_6_upper|AAE3E8|  
+|name|Electronic Socket Usb Micro Surface Mount|  
+|name_no_class|Socket Usb Micro Surface Mount|  
+|name_no_size|Surface Mount|  
+|name_no_size_short|Surface Mount|  
+|name_no_type|Usb Micro Surface Mount|  
+|oomp_key|oomp_electronic_socket_usb_micro_surface_mount|  
+|oomp_word|lipstick rowboat tram|  
+|oomp_word_emoji|:lipstick: :rowboat: :tram:|  
+|oomp_word_emoji_list|[':lipstick:', ':rowboat:', ':tram:']|  
+|oomp_word_list|['lipstick', 'rowboat', 'tram']|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|pins|{'pin_1': {'name': 'vbus', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'usb_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'usb_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'id', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'gnd', 'number': '5', 'type': 'power'}, 'pin_6': {'name': 'shield', 'number': '6', 'type': 'signal'}}|  
+|short_code|scumcsm|  
+|short_code_upper|SCUMCSM|  
+|short_name||  
+|size|usb_micro|  
+|size_capital|Usb Micro|  
+|size_first_letter|u|  
+|size_first_letter_upper|U|  
+|size_only_numbers||  
+|size_only_numbers_no_zeros||  
+|size_upper|USB_MICRO|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_micro//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_usb_b_micro', 'oomp_key': 'oomp_kicad_connector_usb_b_micro'}]|  
+|type|socket|  
+|type_capital|Socket|  
+|type_first_letter|s|  
+|type_first_letter_upper|S|  
+|type_upper|SOCKET|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

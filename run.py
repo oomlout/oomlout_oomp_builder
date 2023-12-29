@@ -7,9 +7,9 @@ def main(**kwargs):
 if __name__ == "__main__":
     kwargs = {}
     
-    #filter = ""
+    filter = ""
     #filter = "spacer"
-    filter = "hardware"    
+    #filter = "hardware"    
     #filter = "packaging"
     #filter = "screw_socket_cap"
     #filter = "screw_self_tapping"

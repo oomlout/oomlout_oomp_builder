@@ -27,82 +27,83 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 5d5f6c
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra|through_hole|
-|description_extra_capital|Through Hole|
-|description_extra_first_letter|t|
-|description_extra_first_letter_upper|T|
-|description_extra_upper|THROUGH_HOLE|
-|description_main|20_pin|
-|description_main_capital|20 Pin|
-|description_main_first_letter|2|
-|description_main_first_letter_upper|2|
-|description_main_upper|20_PIN|
-|description_only_numbers|20|
-|description_only_numbers_short|20|
-|description_or_color|20|
-|description_or_color_upper|20|
-|directory|parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|distributors|[]|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working|
-|id|electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|id_no_class|socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|id_no_size|20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|id_no_type|2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|kicad_reference|CONN|
-|manufacturer|dangerous_prototypes|
-|manufacturer_capital|Dangerous Prototypes|
-|manufacturer_first_letter|d|
-|manufacturer_first_letter_upper|D|
-|manufacturer_upper|DANGEROUS_PROTOTYPES|
-|manufacturers|[]|
-|markdown_full|[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br>[sci120pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br>[Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br><br>|
-|markdown_short|[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br><br>|
-|md5|5d5f6cfa015c081e58911d780eedab26|
-|md5_10|5d5f6cfa01|
-|md5_10_upper|5D5F6CFA01|
-|md5_5|5d5f6|
-|md5_5_upper|5D5F6|
-|md5_6|5d5f6c|
-|md5_6_alpha|3n5nw|
-|md5_6_alpha_upper|3N5NW|
-|md5_6_upper|5D5F6C|
-|name|Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|
-|name_no_class|Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|
-|name_no_size|20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|
-|name_no_size_short|20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|
-|name_no_type|2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|
-|oomp_key|oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|
-|oomp_word|blowfish leopard blossom|
-|oomp_word_emoji|:blowfish: :leopard: :blossom:|
-|oomp_word_emoji_list|[':blowfish:', ':leopard:', ':blossom:']|
-|oomp_word_list|['blowfish', 'leopard', 'blossom']|
-|part_number|raspberry_pi_pico_side_b|
-|part_number_capital|Raspberry Pi Pico Side B|
-|part_number_first_letter|r|
-|part_number_first_letter_upper|R|
-|part_number_upper|RASPBERRY_PI_PICO_SIDE_B|
-|short_code|sci120pth|
-|short_code_upper|SCI120PTH|
-|size|2_54_mm|
-|size_capital|2.54 mm|
-|size_first_letter|2|
-|size_first_letter_upper|2|
-|size_only_numbers|254|
-|size_only_numbers_no_zeros|254|
-|size_upper|2_54_MM|
-|type|socket|
-|type_capital|Socket|
-|type_first_letter|s|
-|type_first_letter_upper|S|
-|type_upper|SOCKET|
-|files|['base.yaml', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra|through_hole|  
+|description_extra_capital|Through Hole|  
+|description_extra_first_letter|t|  
+|description_extra_first_letter_upper|T|  
+|description_extra_upper|THROUGH_HOLE|  
+|description_main|20_pin|  
+|description_main_capital|20 Pin|  
+|description_main_first_letter|2|  
+|description_main_first_letter_upper|2|  
+|description_main_upper|20_PIN|  
+|description_only_numbers|20|  
+|description_only_numbers_short|20|  
+|description_or_color|20|  
+|description_or_color_upper|20|  
+|directory|parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|distributors|[]|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working|  
+|id|electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|id_no_class|socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|id_no_size|20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|id_no_type|2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|kicad_reference|CONN|  
+|manufacturer|dangerous_prototypes|  
+|manufacturer_capital|Dangerous Prototypes|  
+|manufacturer_first_letter|d|  
+|manufacturer_first_letter_upper|D|  
+|manufacturer_upper|DANGEROUS_PROTOTYPES|  
+|manufacturers|[]|  
+|markdown_full|[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br>[sci120pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br>[Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br><br>|  
+|markdown_short|[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b/working)<br><br>|  
+|md5|5d5f6cfa015c081e58911d780eedab26|  
+|md5_10|5d5f6cfa01|  
+|md5_10_upper|5D5F6CFA01|  
+|md5_5|5d5f6|  
+|md5_5_upper|5D5F6|  
+|md5_6|5d5f6c|  
+|md5_6_alpha|3n5nw|  
+|md5_6_alpha_upper|3N5NW|  
+|md5_6_upper|5D5F6C|  
+|name|Electronic Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|  
+|name_no_class|Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|  
+|name_no_size|20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|  
+|name_no_size_short|20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|  
+|name_no_type|2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B|  
+|oomp_key|oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b|  
+|oomp_word|blowfish leopard blossom|  
+|oomp_word_emoji|:blowfish: :leopard: :blossom:|  
+|oomp_word_emoji_list|[':blowfish:', ':leopard:', ':blossom:']|  
+|oomp_word_list|['blowfish', 'leopard', 'blossom']|  
+|part_number|raspberry_pi_pico_side_b|  
+|part_number_capital|Raspberry Pi Pico Side B|  
+|part_number_first_letter|r|  
+|part_number_first_letter_upper|R|  
+|part_number_upper|RASPBERRY_PI_PICO_SIDE_B|  
+|short_code|sci120pth|  
+|short_code_upper|SCI120PTH|  
+|size|2_54_mm|  
+|size_capital|2.54 mm|  
+|size_first_letter|2|  
+|size_first_letter_upper|2|  
+|size_only_numbers|254|  
+|size_only_numbers_no_zeros|254|  
+|size_upper|2_54_MM|  
+|type|socket|  
+|type_capital|Socket|  
+|type_first_letter|s|  
+|type_first_letter_upper|S|  
+|type_upper|SOCKET|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

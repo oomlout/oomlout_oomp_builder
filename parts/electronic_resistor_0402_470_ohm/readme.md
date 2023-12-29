@@ -27,89 +27,90 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 3458ce
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|470_ohm|
-|description_main_capital|470 Ohm|
-|description_main_first_letter|4|
-|description_main_first_letter_upper|4|
-|description_main_upper|470_OHM|
-|description_only_numbers|470|
-|description_only_numbers_short|470|
-|description_or_color|470|
-|description_or_color_upper|470|
-|directory|parts/electronic_resistor_0402_470_ohm|
-|distributors|[]|
-|filter||
-|from_yaml|False|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working|
-|id|electronic_resistor_0402_470_ohm|
-|id_no_class|resistor_0402_470_ohm|
-|id_no_size|470_ohm|
-|id_no_type|0402_470_ohm|
-|kicad_reference|R|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '0402WGJ0471TCE'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '0402WGF4700TCE'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC0402JR-07470RL'}]|
-|markdown_full|[electronic_resistor_0402_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br>[r4o471](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br>[Electronic Resistor 0402 470 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br><br>[Uniroyal - 0402WGJ0471TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0471TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0471TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0471TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0471TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0471TCE)<br>[Uniroyal - 0402WGF4700TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4700TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4700TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4700TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4700TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4700TCE)<br>[Yageo - RC0402JR-07470RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07470RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07470RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07470RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07470RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07470RL)<br>|
-|markdown_short|[electronic_resistor_0402_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br><br>[Uniroyal - 0402WGJ0471TCE- not in jlc basic parts]()[Uniroyal - 0402WGF4700TCE- jlc basic part]()[Yageo - RC0402JR-07470RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL)|
-|md5|3458cec1d0791a109907cdb57810c407|
-|md5_10|3458cec1d0|
-|md5_10_upper|3458CEC1D0|
-|md5_5|3458c|
-|md5_5_upper|3458C|
-|md5_6|3458ce|
-|md5_6_alpha|21j2m|
-|md5_6_alpha_upper|21J2M|
-|md5_6_upper|3458CE|
-|name|Electronic Resistor 0402 470 Ohm|
-|name_no_class|Resistor 0402 470 Ohm|
-|name_no_size|470 Ohm|
-|name_no_size_short|470 Ohm|
-|name_no_type|0402 470 Ohm|
-|oomp_key|oomp_electronic_resistor_0402_470_ohm|
-|oomp_word|mouse water_buffalo peach|
-|oomp_word_emoji|:mouse: :water_buffalo: :peach:|
-|oomp_word_emoji_list|[':mouse:', ':water_buffalo:', ':peach:']|
-|oomp_word_list|['mouse', 'water_buffalo', 'peach']|
-|package_style|smd_tape|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|r4o471|
-|short_code_upper|R4O471|
-|size|0402|
-|size_capital|0402|
-|size_first_letter|0|
-|size_first_letter_upper|0|
-|size_only_numbers|0402|
-|size_only_numbers_no_zeros|42|
-|size_upper|0402|
-|smd_tape_depth|1_5_mm|
-|smd_tape_pitch|2_mm|
-|smd_tape_width|8_mm|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|
-|type|resistor|
-|type_capital|Resistor|
-|type_first_letter|r|
-|type_first_letter_upper|R|
-|type_upper|RESISTOR|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|470_ohm|  
+|description_main_capital|470 Ohm|  
+|description_main_first_letter|4|  
+|description_main_first_letter_upper|4|  
+|description_main_upper|470_OHM|  
+|description_only_numbers|470|  
+|description_only_numbers_short|470|  
+|description_or_color|470|  
+|description_or_color_upper|470|  
+|directory|parts/electronic_resistor_0402_470_ohm|  
+|distributors|[]|  
+|filter||  
+|from_yaml|False|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working|  
+|id|electronic_resistor_0402_470_ohm|  
+|id_no_class|resistor_0402_470_ohm|  
+|id_no_size|470_ohm|  
+|id_no_type|0402_470_ohm|  
+|kicad_reference|R|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '0402WGJ0471TCE'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '0402WGF4700TCE'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC0402JR-07470RL'}]|  
+|markdown_full|[electronic_resistor_0402_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br>[r4o471](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br>[Electronic Resistor 0402 470 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br><br>[Uniroyal - 0402WGJ0471TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0471TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0471TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0471TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0471TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0471TCE)<br>[Uniroyal - 0402WGF4700TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4700TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4700TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4700TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4700TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4700TCE)<br>[Yageo - RC0402JR-07470RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07470RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07470RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07470RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07470RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07470RL)<br>|  
+|markdown_short|[electronic_resistor_0402_470_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_470_ohm/working)<br><br>[Uniroyal - 0402WGJ0471TCE- not in jlc basic parts]()[Uniroyal - 0402WGF4700TCE- jlc basic part]()[Yageo - RC0402JR-07470RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07470RL)|  
+|md5|3458cec1d0791a109907cdb57810c407|  
+|md5_10|3458cec1d0|  
+|md5_10_upper|3458CEC1D0|  
+|md5_5|3458c|  
+|md5_5_upper|3458C|  
+|md5_6|3458ce|  
+|md5_6_alpha|21j2m|  
+|md5_6_alpha_upper|21J2M|  
+|md5_6_upper|3458CE|  
+|name|Electronic Resistor 0402 470 Ohm|  
+|name_no_class|Resistor 0402 470 Ohm|  
+|name_no_size|470 Ohm|  
+|name_no_size_short|470 Ohm|  
+|name_no_type|0402 470 Ohm|  
+|oomp_key|oomp_electronic_resistor_0402_470_ohm|  
+|oomp_word|mouse water_buffalo peach|  
+|oomp_word_emoji|:mouse: :water_buffalo: :peach:|  
+|oomp_word_emoji_list|[':mouse:', ':water_buffalo:', ':peach:']|  
+|oomp_word_list|['mouse', 'water_buffalo', 'peach']|  
+|package_style|smd_tape|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|r4o471|  
+|short_code_upper|R4O471|  
+|size|0402|  
+|size_capital|0402|  
+|size_first_letter|0|  
+|size_first_letter_upper|0|  
+|size_only_numbers|0402|  
+|size_only_numbers_no_zeros|42|  
+|size_upper|0402|  
+|smd_tape_depth|1_5_mm|  
+|smd_tape_pitch|2_mm|  
+|smd_tape_width|8_mm|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|  
+|type|resistor|  
+|type_capital|Resistor|  
+|type_first_letter|r|  
+|type_first_letter_upper|R|  
+|type_upper|RESISTOR|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

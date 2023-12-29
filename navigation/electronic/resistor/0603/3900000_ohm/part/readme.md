@@ -27,90 +27,91 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: a3639a
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|3900000_ohm|
-|description_main_capital|3900000 Ohm|
-|description_main_first_letter|3|
-|description_main_first_letter_upper|3|
-|description_main_upper|3900000_OHM|
-|description_only_numbers|3900000|
-|description_only_numbers_short|3M9|
-|description_or_color|3M9|
-|description_or_color_upper|3M9|
-|directory|parts/electronic_resistor_0603_3900000_ohm|
-|distributors|[]|
-|filter||
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'note': 'source footprint kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm'}]|
-|from_yaml|False|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working|
-|id|electronic_resistor_0603_3900000_ohm|
-|id_no_class|resistor_0603_3900000_ohm|
-|id_no_size|3900000_ohm|
-|id_no_type|0603_3900000_ohm|
-|kicad_reference|R|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[]|
-|markdown_full|[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[r6o395](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[Electronic Resistor 0603 3900000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>|
-|markdown_short|[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>|
-|md5|a3639a652bcf98ddabdfcc446f7717a1|
-|md5_10|a3639a652b|
-|md5_10_upper|A3639A652B|
-|md5_5|a3639|
-|md5_5_upper|A3639|
-|md5_6|a3639a|
-|md5_6_alpha|6di8q|
-|md5_6_alpha_upper|6DI8Q|
-|md5_6_upper|A3639A|
-|name|Electronic Resistor 0603 3900000 Ohm|
-|name_no_class|Resistor 0603 3900000 Ohm|
-|name_no_size|3900000 Ohm|
-|name_no_size_short|3M9 Ohm|
-|name_no_type|0603 3900000 Ohm|
-|oomp_key|oomp_electronic_resistor_0603_3900000_ohm|
-|oomp_word|pencil rose golf|
-|oomp_word_emoji|:pencil: :rose: :golf:|
-|oomp_word_emoji_list|[':pencil:', ':rose:', ':golf:']|
-|oomp_word_list|['pencil', 'rose', 'golf']|
-|package_style|smd_tape|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|r6o395|
-|short_code_upper|R6O395|
-|size|0603|
-|size_capital|0603|
-|size_first_letter|0|
-|size_first_letter_upper|0|
-|size_only_numbers|0603|
-|size_only_numbers_no_zeros|63|
-|size_upper|0603|
-|smd_tape_depth|1_5_mm|
-|smd_tape_pitch|4_mm|
-|smd_tape_width|8_mm|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|
-|type|resistor|
-|type_capital|Resistor|
-|type_first_letter|r|
-|type_first_letter_upper|R|
-|type_upper|RESISTOR|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|3900000_ohm|  
+|description_main_capital|3900000 Ohm|  
+|description_main_first_letter|3|  
+|description_main_first_letter_upper|3|  
+|description_main_upper|3900000_OHM|  
+|description_only_numbers|3900000|  
+|description_only_numbers_short|3M9|  
+|description_or_color|3M9|  
+|description_or_color_upper|3M9|  
+|directory|parts/electronic_resistor_0603_3900000_ohm|  
+|distributors|[]|  
+|filter||  
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric', 'note': 'source footprint kicad_resistor_smd_r_0603_1608metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_0603_1608metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_r6o395_electronic_resistor_0603_3900000_ohm'}]|  
+|from_yaml|False|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working|  
+|id|electronic_resistor_0603_3900000_ohm|  
+|id_no_class|resistor_0603_3900000_ohm|  
+|id_no_size|3900000_ohm|  
+|id_no_type|0603_3900000_ohm|  
+|kicad_reference|R|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[]|  
+|markdown_full|[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[r6o395](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br>[Electronic Resistor 0603 3900000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>|  
+|markdown_short|[electronic_resistor_0603_3900000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_3900000_ohm/working)<br><br>|  
+|md5|a3639a652bcf98ddabdfcc446f7717a1|  
+|md5_10|a3639a652b|  
+|md5_10_upper|A3639A652B|  
+|md5_5|a3639|  
+|md5_5_upper|A3639|  
+|md5_6|a3639a|  
+|md5_6_alpha|6di8q|  
+|md5_6_alpha_upper|6DI8Q|  
+|md5_6_upper|A3639A|  
+|name|Electronic Resistor 0603 3900000 Ohm|  
+|name_no_class|Resistor 0603 3900000 Ohm|  
+|name_no_size|3900000 Ohm|  
+|name_no_size_short|3M9 Ohm|  
+|name_no_type|0603 3900000 Ohm|  
+|oomp_key|oomp_electronic_resistor_0603_3900000_ohm|  
+|oomp_word|pencil rose golf|  
+|oomp_word_emoji|:pencil: :rose: :golf:|  
+|oomp_word_emoji_list|[':pencil:', ':rose:', ':golf:']|  
+|oomp_word_list|['pencil', 'rose', 'golf']|  
+|package_style|smd_tape|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|r6o395|  
+|short_code_upper|R6O395|  
+|size|0603|  
+|size_capital|0603|  
+|size_first_letter|0|  
+|size_first_letter_upper|0|  
+|size_only_numbers|0603|  
+|size_only_numbers_no_zeros|63|  
+|size_upper|0603|  
+|smd_tape_depth|1_5_mm|  
+|smd_tape_pitch|4_mm|  
+|smd_tape_width|8_mm|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|  
+|type|resistor|  
+|type_capital|Resistor|  
+|type_first_letter|r|  
+|type_first_letter_upper|R|  
+|type_upper|RESISTOR|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

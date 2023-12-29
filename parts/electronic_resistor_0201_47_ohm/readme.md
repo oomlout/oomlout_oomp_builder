@@ -27,85 +27,86 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 5f674a
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|47_ohm|
-|description_main_capital|47 Ohm|
-|description_main_first_letter|4|
-|description_main_first_letter_upper|4|
-|description_main_upper|47_OHM|
-|description_only_numbers|47|
-|description_only_numbers_short|47|
-|description_or_color|47|
-|description_or_color_upper|47|
-|directory|parts/electronic_resistor_0201_47_ohm|
-|distributors|[]|
-|filter||
-|from_yaml|False|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working|
-|id|electronic_resistor_0201_47_ohm|
-|id_no_class|resistor_0201_47_ohm|
-|id_no_size|47_ohm|
-|id_no_type|0201_47_ohm|
-|kicad_reference|R|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0470TEE'}]|
-|markdown_full|[electronic_resistor_0201_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br>[ro470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br>[Electronic Resistor 0201 47 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br><br>[Uniroyal - NQ01WMJ0470TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0470TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0470TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0470TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0470TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0470TEE)<br>|
-|markdown_short|[electronic_resistor_0201_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br><br>[Uniroyal - NQ01WMJ0470TEE- not in jlc basic parts]()|
-|md5|5f674a796a7925154bc50df40afedb97|
-|md5_10|5f674a796a|
-|md5_10_upper|5F674A796A|
-|md5_5|5f674|
-|md5_5_upper|5F674|
-|md5_6|5f674a|
-|md5_6_alpha|3q0cq|
-|md5_6_alpha_upper|3Q0CQ|
-|md5_6_upper|5F674A|
-|name|Electronic Resistor 0201 47 Ohm|
-|name_no_class|Resistor 0201 47 Ohm|
-|name_no_size|47 Ohm|
-|name_no_size_short|47 Ohm|
-|name_no_type|0201 47 Ohm|
-|oomp_key|oomp_electronic_resistor_0201_47_ohm|
-|oomp_word|leopard herb chicken|
-|oomp_word_emoji|:leopard: :herb: :chicken:|
-|oomp_word_emoji_list|[':leopard:', ':herb:', ':chicken:']|
-|oomp_word_list|['leopard', 'herb', 'chicken']|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|ro470|
-|short_code_upper|RO470|
-|size|0201|
-|size_capital|0201|
-|size_first_letter|0|
-|size_first_letter_upper|0|
-|size_only_numbers|0201|
-|size_only_numbers_no_zeros|21|
-|size_upper|0201|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|
-|type|resistor|
-|type_capital|Resistor|
-|type_first_letter|r|
-|type_first_letter_upper|R|
-|type_upper|RESISTOR|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|47_ohm|  
+|description_main_capital|47 Ohm|  
+|description_main_first_letter|4|  
+|description_main_first_letter_upper|4|  
+|description_main_upper|47_OHM|  
+|description_only_numbers|47|  
+|description_only_numbers_short|47|  
+|description_or_color|47|  
+|description_or_color_upper|47|  
+|directory|parts/electronic_resistor_0201_47_ohm|  
+|distributors|[]|  
+|filter||  
+|from_yaml|False|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working|  
+|id|electronic_resistor_0201_47_ohm|  
+|id_no_class|resistor_0201_47_ohm|  
+|id_no_size|47_ohm|  
+|id_no_type|0201_47_ohm|  
+|kicad_reference|R|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0470TEE'}]|  
+|markdown_full|[electronic_resistor_0201_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br>[ro470](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br>[Electronic Resistor 0201 47 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br><br>[Uniroyal - NQ01WMJ0470TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0470TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0470TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0470TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0470TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0470TEE)<br>|  
+|markdown_short|[electronic_resistor_0201_47_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_47_ohm/working)<br><br>[Uniroyal - NQ01WMJ0470TEE- not in jlc basic parts]()|  
+|md5|5f674a796a7925154bc50df40afedb97|  
+|md5_10|5f674a796a|  
+|md5_10_upper|5F674A796A|  
+|md5_5|5f674|  
+|md5_5_upper|5F674|  
+|md5_6|5f674a|  
+|md5_6_alpha|3q0cq|  
+|md5_6_alpha_upper|3Q0CQ|  
+|md5_6_upper|5F674A|  
+|name|Electronic Resistor 0201 47 Ohm|  
+|name_no_class|Resistor 0201 47 Ohm|  
+|name_no_size|47 Ohm|  
+|name_no_size_short|47 Ohm|  
+|name_no_type|0201 47 Ohm|  
+|oomp_key|oomp_electronic_resistor_0201_47_ohm|  
+|oomp_word|leopard herb chicken|  
+|oomp_word_emoji|:leopard: :herb: :chicken:|  
+|oomp_word_emoji_list|[':leopard:', ':herb:', ':chicken:']|  
+|oomp_word_list|['leopard', 'herb', 'chicken']|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|ro470|  
+|short_code_upper|RO470|  
+|size|0201|  
+|size_capital|0201|  
+|size_first_letter|0|  
+|size_first_letter_upper|0|  
+|size_only_numbers|0201|  
+|size_only_numbers_no_zeros|21|  
+|size_upper|0201|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|  
+|type|resistor|  
+|type_capital|Resistor|  
+|type_first_letter|r|  
+|type_first_letter_upper|R|  
+|type_upper|RESISTOR|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

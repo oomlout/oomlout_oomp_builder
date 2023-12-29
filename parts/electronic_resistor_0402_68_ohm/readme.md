@@ -27,89 +27,90 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: c8a2f5
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color||
-|color_capital||
-|color_first_letter||
-|color_first_letter_upper||
-|color_upper||
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main|68_ohm|
-|description_main_capital|68 Ohm|
-|description_main_first_letter|6|
-|description_main_first_letter_upper|6|
-|description_main_upper|68_OHM|
-|description_only_numbers|68|
-|description_only_numbers_short|68|
-|description_or_color|68|
-|description_or_color_upper|68|
-|directory|parts/electronic_resistor_0402_68_ohm|
-|distributors|[]|
-|filter||
-|from_yaml|False|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working|
-|id|electronic_resistor_0402_68_ohm|
-|id_no_class|resistor_0402_68_ohm|
-|id_no_size|68_ohm|
-|id_no_type|0402_68_ohm|
-|kicad_reference|R|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '0402WGJ0680TCE'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '0402WGF068-1TCE'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC0402JR-0768RL'}]|
-|markdown_full|[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[r4o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[Electronic Resistor 0402 68 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal - 0402WGJ0680TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0680TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0680TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0680TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0680TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0680TCE)<br>[Uniroyal - 0402WGF068-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF068-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF068-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF068-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF068-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF068-1TCE)<br>[Yageo - RC0402JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0768RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0768RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0768RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0768RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0768RL)<br>|
-|markdown_short|[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal - 0402WGJ0680TCE- not in jlc basic parts]()[Uniroyal - 0402WGF068-1TCE- jlc basic part]()[Yageo - RC0402JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL)|
-|md5|c8a2f5c8d2a612131492a2f423769963|
-|md5_10|c8a2f5c8d2|
-|md5_10_upper|C8A2F5C8D2|
-|md5_5|c8a2f|
-|md5_5_upper|C8A2F|
-|md5_6|c8a2f5|
-|md5_6_alpha|7ttrp|
-|md5_6_alpha_upper|7TTRP|
-|md5_6_upper|C8A2F5|
-|name|Electronic Resistor 0402 68 Ohm|
-|name_no_class|Resistor 0402 68 Ohm|
-|name_no_size|68 Ohm|
-|name_no_size_short|68 Ohm|
-|name_no_type|0402 68 Ohm|
-|oomp_key|oomp_electronic_resistor_0402_68_ohm|
-|oomp_word|apple violin four|
-|oomp_word_emoji|:apple: :violin: :four:|
-|oomp_word_emoji_list|[':apple:', ':violin:', ':four:']|
-|oomp_word_list|['apple', 'violin', 'four']|
-|package_style|smd_tape|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|r4o680|
-|short_code_upper|R4O680|
-|size|0402|
-|size_capital|0402|
-|size_first_letter|0|
-|size_first_letter_upper|0|
-|size_only_numbers|0402|
-|size_only_numbers_no_zeros|42|
-|size_upper|0402|
-|smd_tape_depth|1_5_mm|
-|smd_tape_pitch|2_mm|
-|smd_tape_width|8_mm|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|
-|type|resistor|
-|type_capital|Resistor|
-|type_first_letter|r|
-|type_first_letter_upper|R|
-|type_upper|RESISTOR|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color||  
+|color_capital||  
+|color_first_letter||  
+|color_first_letter_upper||  
+|color_upper||  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main|68_ohm|  
+|description_main_capital|68 Ohm|  
+|description_main_first_letter|6|  
+|description_main_first_letter_upper|6|  
+|description_main_upper|68_OHM|  
+|description_only_numbers|68|  
+|description_only_numbers_short|68|  
+|description_or_color|68|  
+|description_or_color_upper|68|  
+|directory|parts/electronic_resistor_0402_68_ohm|  
+|distributors|[]|  
+|filter||  
+|from_yaml|False|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working|  
+|id|electronic_resistor_0402_68_ohm|  
+|id_no_class|resistor_0402_68_ohm|  
+|id_no_size|68_ohm|  
+|id_no_type|0402_68_ohm|  
+|kicad_reference|R|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': '0402WGJ0680TCE'}, {'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'in the jlc basic parts catalogue', 'reason_short': 'jlc basic part'}, 'part_number': '0402WGF068-1TCE'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL', 'name': 'Yageo', 'note': {'reason': 'yageo is a commonly cross referenced part number', 'reason_short': 'available everywhere'}, 'part_number': 'RC0402JR-0768RL'}]|  
+|markdown_full|[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[r4o680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br>[Electronic Resistor 0402 68 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal - 0402WGJ0680TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0680TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0680TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0680TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0680TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0680TCE)<br>[Uniroyal - 0402WGF068-1TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF068-1TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF068-1TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF068-1TCE)[(N)  ](https://www.newark.com/search?st=0402WGF068-1TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF068-1TCE)<br>[Yageo - RC0402JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL) [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0768RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0768RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0768RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0768RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0768RL)<br>|  
+|markdown_short|[electronic_resistor_0402_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm/working)<br><br>[Uniroyal - 0402WGJ0680TCE- not in jlc basic parts]()[Uniroyal - 0402WGF068-1TCE- jlc basic part]()[Yageo - RC0402JR-0768RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0768RL)|  
+|md5|c8a2f5c8d2a612131492a2f423769963|  
+|md5_10|c8a2f5c8d2|  
+|md5_10_upper|C8A2F5C8D2|  
+|md5_5|c8a2f|  
+|md5_5_upper|C8A2F|  
+|md5_6|c8a2f5|  
+|md5_6_alpha|7ttrp|  
+|md5_6_alpha_upper|7TTRP|  
+|md5_6_upper|C8A2F5|  
+|name|Electronic Resistor 0402 68 Ohm|  
+|name_no_class|Resistor 0402 68 Ohm|  
+|name_no_size|68 Ohm|  
+|name_no_size_short|68 Ohm|  
+|name_no_type|0402 68 Ohm|  
+|oomp_key|oomp_electronic_resistor_0402_68_ohm|  
+|oomp_word|apple violin four|  
+|oomp_word_emoji|:apple: :violin: :four:|  
+|oomp_word_emoji_list|[':apple:', ':violin:', ':four:']|  
+|oomp_word_list|['apple', 'violin', 'four']|  
+|package_style|smd_tape|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|r4o680|  
+|short_code_upper|R4O680|  
+|size|0402|  
+|size_capital|0402|  
+|size_first_letter|0|  
+|size_first_letter_upper|0|  
+|size_only_numbers|0402|  
+|size_only_numbers_no_zeros|42|  
+|size_upper|0402|  
+|smd_tape_depth|1_5_mm|  
+|smd_tape_pitch|2_mm|  
+|smd_tape_width|8_mm|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|  
+|type|resistor|  
+|type_capital|Resistor|  
+|type_first_letter|r|  
+|type_first_letter_upper|R|  
+|type_upper|RESISTOR|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  

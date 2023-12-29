@@ -27,91 +27,92 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: b55edc
 
 ### all codes 
-|classification|electronic|
-|classification_capital|Electronic|
-|classification_first_letter|e|
-|classification_first_letter_upper|E|
-|classification_upper|ELECTRONIC|
-|color|red|
-|color_capital|Red|
-|color_first_letter|r|
-|color_first_letter_upper|R|
-|color_upper|RED|
-|description_extra||
-|description_extra_capital||
-|description_extra_first_letter||
-|description_extra_first_letter_upper||
-|description_extra_upper||
-|description_main||
-|description_main_capital||
-|description_main_first_letter||
-|description_main_first_letter_upper||
-|description_main_upper||
-|description_only_numbers||
-|description_only_numbers_short| |
-|description_or_color|R |
-|description_or_color_upper|R |
-|directory|parts/electronic_led_1206_red|
-|distributors|[]|
-|filter||
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'note': 'source footprint kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red'}]|
-|from_yaml|False|
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working|
-|id|electronic_led_1206_red|
-|id_no_class|led_1206_red|
-|id_no_size|red|
-|id_no_type|1206_red|
-|kicad_reference|L|
-|manufacturer||
-|manufacturer_capital||
-|manufacturer_first_letter||
-|manufacturer_first_letter_upper||
-|manufacturer_upper||
-|manufacturers|[]|
-|markdown_full|[electronic_led_1206_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br>[l12r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br>[Electronic Led 1206 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br><br>|
-|markdown_short|[electronic_led_1206_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br><br>|
-|md5|b55edc6836edaa74c7f0496d6e407293|
-|md5_10|b55edc6836|
-|md5_10_upper|B55EDC6836|
-|md5_5|b55ed|
-|md5_5_upper|B55ED|
-|md5_6|b55edc|
-|md5_6_alpha|72rj0|
-|md5_6_alpha_upper|72RJ0|
-|md5_6_upper|B55EDC|
-|name|Electronic Led 1206 Red|
-|name_no_class|Led 1206 Red|
-|name_no_size|Red|
-|name_no_size_short|Red|
-|name_no_type|1206 Red|
-|oomp_key|oomp_electronic_led_1206_red|
-|oomp_word|tea crocodile factory|
-|oomp_word_emoji|:tea: :crocodile: :factory:|
-|oomp_word_emoji_list|[':tea:', ':crocodile:', ':factory:']|
-|oomp_word_list|['tea', 'crocodile', 'factory']|
-|package_style|smd_tape|
-|part_number||
-|part_number_capital||
-|part_number_first_letter||
-|part_number_first_letter_upper||
-|part_number_upper||
-|short_code|l12r|
-|short_code_upper|L12R|
-|short_name|1206 Red Led|
-|size|1206|
-|size_capital|1206|
-|size_first_letter|1|
-|size_first_letter_upper|1|
-|size_only_numbers|1206|
-|size_only_numbers_no_zeros|126|
-|size_upper|1206|
-|smd_tape_depth|1_5_mm|
-|smd_tape_pitch|4_mm|
-|smd_tape_width|8_mm|
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|
-|type|led|
-|type_capital|Led|
-|type_first_letter|l|
-|type_first_letter_upper|L|
-|type_upper|LED|
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|key|value|  
+|classification|electronic|  
+|classification_capital|Electronic|  
+|classification_first_letter|e|  
+|classification_first_letter_upper|E|  
+|classification_upper|ELECTRONIC|  
+|color|red|  
+|color_capital|Red|  
+|color_first_letter|r|  
+|color_first_letter_upper|R|  
+|color_upper|RED|  
+|description_extra||  
+|description_extra_capital||  
+|description_extra_first_letter||  
+|description_extra_first_letter_upper||  
+|description_extra_upper||  
+|description_main||  
+|description_main_capital||  
+|description_main_first_letter||  
+|description_main_first_letter_upper||  
+|description_main_upper||  
+|description_only_numbers||  
+|description_only_numbers_short| |  
+|description_or_color|R |  
+|description_or_color_upper|R |  
+|directory|parts/electronic_led_1206_red|  
+|distributors|[]|  
+|filter||  
+|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'note': 'source footprint kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l12r_electronic_led_1206_red'}]|  
+|from_yaml|False|  
+|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working|  
+|id|electronic_led_1206_red|  
+|id_no_class|led_1206_red|  
+|id_no_size|red|  
+|id_no_type|1206_red|  
+|kicad_reference|L|  
+|manufacturer||  
+|manufacturer_capital||  
+|manufacturer_first_letter||  
+|manufacturer_first_letter_upper||  
+|manufacturer_upper||  
+|manufacturers|[]|  
+|markdown_full|[electronic_led_1206_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br>[l12r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br>[Electronic Led 1206 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br><br>|  
+|markdown_short|[electronic_led_1206_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_red/working)<br><br>|  
+|md5|b55edc6836edaa74c7f0496d6e407293|  
+|md5_10|b55edc6836|  
+|md5_10_upper|B55EDC6836|  
+|md5_5|b55ed|  
+|md5_5_upper|B55ED|  
+|md5_6|b55edc|  
+|md5_6_alpha|72rj0|  
+|md5_6_alpha_upper|72RJ0|  
+|md5_6_upper|B55EDC|  
+|name|Electronic Led 1206 Red|  
+|name_no_class|Led 1206 Red|  
+|name_no_size|Red|  
+|name_no_size_short|Red|  
+|name_no_type|1206 Red|  
+|oomp_key|oomp_electronic_led_1206_red|  
+|oomp_word|tea crocodile factory|  
+|oomp_word_emoji|:tea: :crocodile: :factory:|  
+|oomp_word_emoji_list|[':tea:', ':crocodile:', ':factory:']|  
+|oomp_word_list|['tea', 'crocodile', 'factory']|  
+|package_style|smd_tape|  
+|part_number||  
+|part_number_capital||  
+|part_number_first_letter||  
+|part_number_first_letter_upper||  
+|part_number_upper||  
+|short_code|l12r|  
+|short_code_upper|L12R|  
+|short_name|1206 Red Led|  
+|size|1206|  
+|size_capital|1206|  
+|size_first_letter|1|  
+|size_first_letter_upper|1|  
+|size_only_numbers|1206|  
+|size_only_numbers_no_zeros|126|  
+|size_upper|1206|  
+|smd_tape_depth|1_5_mm|  
+|smd_tape_pitch|4_mm|  
+|smd_tape_width|8_mm|  
+|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|  
+|type|led|  
+|type_capital|Led|  
+|type_first_letter|l|  
+|type_first_letter_upper|L|  
+|type_upper|LED|  
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
