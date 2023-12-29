@@ -28,6 +28,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ### all codes 
 |key|value|  
+|---|---|  
 |classification|hardware|  
 |classification_length_1|h|  
 |classification_length_2|ha|  
