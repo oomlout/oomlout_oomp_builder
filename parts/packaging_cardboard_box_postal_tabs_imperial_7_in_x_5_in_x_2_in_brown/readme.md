@@ -111,4 +111,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |type_first_letter_upper|C|
 |type_upper|CARDBOARD_BOX_POSTAL_TABS|
 |width_internal|['175 mm']|
-|files|['base.yaml', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
+|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|
