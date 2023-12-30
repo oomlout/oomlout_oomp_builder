@@ -27,91 +27,92 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 59771c
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main|100_nano_farad|  
-|description_main_capital|100 Nano Farad|  
-|description_main_first_letter|1|  
-|description_main_first_letter_upper|1|  
-|description_main_upper|100_NANO_FARAD|  
-|description_only_numbers|100|  
-|description_only_numbers_short|100nf|  
-|description_or_color|100nf|  
-|description_or_color_upper|100NF|  
-|directory|parts/electronic_capacitor_0402_100_nano_farad|  
-|distributors|[]|  
-|filter||  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric', 'note': 'source footprint kicad_capacitor_smd_c_0402_1005metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0402_1005metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad'}]|  
-|from_yaml|False|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working|  
-|id|electronic_capacitor_0402_100_nano_farad|  
-|id_no_class|capacitor_0402_100_nano_farad|  
-|id_no_size|100_nano_farad|  
-|id_no_type|0402_100_nano_farad|  
-|kicad_reference|C|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[c4nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[Electronic Capacitor 0402 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>|  
-|markdown_short|[electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br>|  
-|md5|59771c4331f6c67b3f60f46b5ec35ee3|  
-|md5_10|59771c4331|  
-|md5_10_upper|59771C4331|  
-|md5_5|59771|  
-|md5_5_upper|59771|  
-|md5_6|59771c|  
-|md5_6_alpha|3ho2k|  
-|md5_6_alpha_upper|3HO2K|  
-|md5_6_upper|59771C|  
-|name|Electronic Capacitor 0402 100 Nano Farad|  
-|name_no_class|Capacitor 0402 100 Nano Farad|  
-|name_no_size|100 Nano Farad|  
-|name_no_size_short|100nf Nano Farad|  
-|name_no_type|0402 100 Nano Farad|  
-|oomp_key|oomp_electronic_capacitor_0402_100_nano_farad|  
-|oomp_word|dragon gift dancer|  
-|oomp_word_emoji|:dragon: :gift: :dancer:|  
-|oomp_word_emoji_list|[':dragon:', ':gift:', ':dancer:']|  
-|oomp_word_list|['dragon', 'gift', 'dancer']|  
-|package_style|smd_tape|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|c4nf100|  
-|short_code_upper|C4NF100|  
-|size|0402|  
-|size_capital|0402|  
-|size_first_letter|0|  
-|size_first_letter_upper|0|  
-|size_only_numbers|0402|  
-|size_only_numbers_no_zeros|42|  
-|size_upper|0402|  
-|smd_tape_depth|1_5_mm|  
-|smd_tape_pitch|2_mm|  
-|smd_tape_width|8_mm|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c'}]|  
-|type|capacitor|  
-|type_capital|Capacitor|  
-|type_first_letter|c|  
-|type_first_letter_upper|C|  
-|type_upper|CAPACITOR|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main | 100_nano_farad |  
+| description_main_capital | 100 Nano Farad |  
+| description_main_first_letter | 1 |  
+| description_main_first_letter_upper | 1 |  
+| description_main_upper | 100_NANO_FARAD |  
+| description_only_numbers | 100 |  
+| description_only_numbers_short | 100nf |  
+| description_or_color | 100nf |  
+| description_or_color_upper | 100NF |  
+| directory | parts/electronic_capacitor_0402_100_nano_farad |  
+| distributors | [] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0402_1005metric', 'note': 'source footprint kicad_capacitor_smd_c_0402_1005metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0402_1005metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c4nf100_electronic_capacitor_0402_100_nano_farad'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working |  
+| id | electronic_capacitor_0402_100_nano_farad |  
+| id_no_class | capacitor_0402_100_nano_farad |  
+| id_no_size | 100_nano_farad |  
+| id_no_type | 0402_100_nano_farad |  
+| kicad_reference | C |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[c4nf100](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br>[Electronic Capacitor 0402 100 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br> |  
+| markdown_short | [electronic_capacitor_0402_100_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad/working)<br><br> |  
+| md5 | 59771c4331f6c67b3f60f46b5ec35ee3 |  
+| md5_10 | 59771c4331 |  
+| md5_10_upper | 59771C4331 |  
+| md5_5 | 59771 |  
+| md5_5_upper | 59771 |  
+| md5_6 | 59771c |  
+| md5_6_alpha | 3ho2k |  
+| md5_6_alpha_upper | 3HO2K |  
+| md5_6_upper | 59771C |  
+| name | Electronic Capacitor 0402 100 Nano Farad |  
+| name_no_class | Capacitor 0402 100 Nano Farad |  
+| name_no_size | 100 Nano Farad |  
+| name_no_size_short | 100nf Nano Farad |  
+| name_no_type | 0402 100 Nano Farad |  
+| oomp_key | oomp_electronic_capacitor_0402_100_nano_farad |  
+| oomp_word | dragon gift dancer |  
+| oomp_word_emoji | :dragon: :gift: :dancer: |  
+| oomp_word_emoji_list | [':dragon:', ':gift:', ':dancer:'] |  
+| oomp_word_list | ['dragon', 'gift', 'dancer'] |  
+| package_style | smd_tape |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | c4nf100 |  
+| short_code_upper | C4NF100 |  
+| size | 0402 |  
+| size_capital | 0402 |  
+| size_first_letter | 0 |  
+| size_first_letter_upper | 0 |  
+| size_only_numbers | 0402 |  
+| size_only_numbers_no_zeros | 42 |  
+| size_upper | 0402 |  
+| smd_tape_depth | 1_5_mm |  
+| smd_tape_pitch | 2_mm |  
+| smd_tape_width | 8_mm |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c'}] |  
+| type | capacitor |  
+| type_capital | Capacitor |  
+| type_first_letter | c |  
+| type_first_letter_upper | C |  
+| type_upper | CAPACITOR |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

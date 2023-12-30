@@ -27,87 +27,88 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: fbea65
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main||  
-|description_main_capital||  
-|description_main_first_letter||  
-|description_main_first_letter_upper||  
-|description_main_upper||  
-|description_only_numbers||  
-|description_only_numbers_short| |  
-|description_or_color| |  
-|description_or_color_upper| |  
-|directory|parts/electronic_mounting_hole_m6|  
-|distributors|[]|  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6', 'note': 'source footprint kicad_mountinghole_mountinghole_6_4mm_m6', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_6_4mm_m6'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6'}]|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working|  
-|id|electronic_mounting_hole_m6|  
-|id_no_class|mounting_hole_m6|  
-|id_no_size|m6|  
-|id_no_type|m6|  
-|kicad_reference|H|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[mhm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[Electronic Mounting Hole M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br>|  
-|markdown_short|[electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br>|  
-|md5|fbea6534b8834126a7a8dd2e02368bd1|  
-|md5_10|fbea6534b8|  
-|md5_10_upper|FBEA6534B8|  
-|md5_5|fbea6|  
-|md5_5_upper|FBEA6|  
-|md5_6|fbea65|  
-|md5_6_alpha|9tuud|  
-|md5_6_alpha_upper|9TUUD|  
-|md5_6_upper|FBEA65|  
-|name|Electronic Mounting Hole M6|  
-|name_no_class|Mounting Hole M6|  
-|name_no_size|M6|  
-|name_no_size_short|M6|  
-|name_no_type|M6|  
-|notes|[]|  
-|oomp_key|oomp_electronic_mounting_hole_m6|  
-|oomp_word|ok tractor maple_leaf|  
-|oomp_word_emoji|:ok: :tractor: :maple_leaf:|  
-|oomp_word_emoji_list|[':ok:', ':tractor:', ':maple_leaf:']|  
-|oomp_word_list|['ok', 'tractor', 'maple_leaf']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|mhm6|  
-|short_code_upper|MHM6|  
-|short_name|M6 Mounting Hole|  
-|size|m6|  
-|size_capital|M6|  
-|size_first_letter|m|  
-|size_first_letter_upper|M|  
-|size_only_numbers|6|  
-|size_only_numbers_no_zeros|6|  
-|size_upper|M6|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole', 'oomp_key': 'oomp_kicad_mechanical_mountinghole'}]|  
-|type|mounting_hole|  
-|type_capital|Mounting Hole|  
-|type_first_letter|m|  
-|type_first_letter_upper|M|  
-|type_upper|MOUNTING_HOLE|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
+| directory | parts/electronic_mounting_hole_m6 |  
+| distributors | [] |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_mountinghole_mountinghole_6_4mm_m6//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_mountinghole_mountinghole_6_4mm_m6', 'note': 'source footprint kicad_mountinghole_mountinghole_6_4mm_m6', 'oomp_key': 'oomp_kicad_mountinghole_mountinghole_6_4mm_m6'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_mhm6_electronic_mounting_hole_m6'}] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working |  
+| id | electronic_mounting_hole_m6 |  
+| id_no_class | mounting_hole_m6 |  
+| id_no_size | m6 |  
+| id_no_type | m6 |  
+| kicad_reference | H |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[mhm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br>[Electronic Mounting Hole M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> |  
+| markdown_short | [electronic_mounting_hole_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m6/working)<br><br> |  
+| md5 | fbea6534b8834126a7a8dd2e02368bd1 |  
+| md5_10 | fbea6534b8 |  
+| md5_10_upper | FBEA6534B8 |  
+| md5_5 | fbea6 |  
+| md5_5_upper | FBEA6 |  
+| md5_6 | fbea65 |  
+| md5_6_alpha | 9tuud |  
+| md5_6_alpha_upper | 9TUUD |  
+| md5_6_upper | FBEA65 |  
+| name | Electronic Mounting Hole M6 |  
+| name_no_class | Mounting Hole M6 |  
+| name_no_size | M6 |  
+| name_no_size_short | M6 |  
+| name_no_type | M6 |  
+| notes | [] |  
+| oomp_key | oomp_electronic_mounting_hole_m6 |  
+| oomp_word | ok tractor maple_leaf |  
+| oomp_word_emoji | :ok: :tractor: :maple_leaf: |  
+| oomp_word_emoji_list | [':ok:', ':tractor:', ':maple_leaf:'] |  
+| oomp_word_list | ['ok', 'tractor', 'maple_leaf'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | mhm6 |  
+| short_code_upper | MHM6 |  
+| short_name | M6 Mounting Hole |  
+| size | m6 |  
+| size_capital | M6 |  
+| size_first_letter | m |  
+| size_first_letter_upper | M |  
+| size_only_numbers | 6 |  
+| size_only_numbers_no_zeros | 6 |  
+| size_upper | M6 |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mechanical_mountinghole', 'oomp_key': 'oomp_kicad_mechanical_mountinghole'}] |  
+| type | mounting_hole |  
+| type_capital | Mounting Hole |  
+| type_first_letter | m |  
+| type_first_letter_upper | M |  
+| type_upper | MOUNTING_HOLE |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

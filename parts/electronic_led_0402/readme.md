@@ -27,92 +27,93 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: d33b64
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main||  
-|description_main_capital||  
-|description_main_first_letter||  
-|description_main_first_letter_upper||  
-|description_main_upper||  
-|description_only_numbers||  
-|description_only_numbers_short| |  
-|description_or_color| |  
-|description_or_color_upper| |  
-|directory|parts/electronic_led_0402|  
-|distributors|[]|  
-|filter||  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'note': 'source footprint kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402'}]|  
-|from_yaml|False|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working|  
-|id|electronic_led_0402|  
-|id_no_class|led_0402|  
-|id_no_size|0402|  
-|id_no_type|0402|  
-|kicad_reference|L|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[Electronic Led 0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br>|  
-|markdown_short|[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br>|  
-|md5|d33b648a8a749fae6a9a74b760467fb2|  
-|md5_10|d33b648a8a|  
-|md5_10_upper|D33B648A8A|  
-|md5_5|d33b6|  
-|md5_5_upper|D33B6|  
-|md5_6|d33b64|  
-|md5_6_alpha|88pk4|  
-|md5_6_alpha_upper|88PK4|  
-|md5_6_upper|D33B64|  
-|name|Electronic Led 0402|  
-|name_no_class|Led 0402|  
-|name_no_size|0402|  
-|name_no_size_short|0402|  
-|name_no_type|0402|  
-|oomp_key|oomp_electronic_led_0402|  
-|oomp_word|tomato bear sunflower|  
-|oomp_word_emoji|:tomato: :bear: :sunflower:|  
-|oomp_word_emoji_list|[':tomato:', ':bear:', ':sunflower:']|  
-|oomp_word_list|['tomato', 'bear', 'sunflower']|  
-|package_style|smd_tape|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|l4|  
-|short_code_upper|L4|  
-|short_name|0402 Led|  
-|size|0402|  
-|size_capital|0402|  
-|size_first_letter|0|  
-|size_first_letter_upper|0|  
-|size_only_numbers|0402|  
-|size_only_numbers_no_zeros|42|  
-|size_upper|0402|  
-|smd_tape_depth|1_5_mm|  
-|smd_tape_pitch|2_mm|  
-|smd_tape_width|8_mm|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|  
-|type|led|  
-|type_capital|Led|  
-|type_first_letter|l|  
-|type_first_letter_upper|L|  
-|type_upper|LED|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
+| directory | parts/electronic_led_0402 |  
+| distributors | [] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0402_1005metric', 'note': 'source footprint kicad_led_smd_led_0402_1005metric', 'oomp_key': 'oomp_kicad_led_smd_led_0402_1005metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l4_electronic_led_0402'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working |  
+| id | electronic_led_0402 |  
+| id_no_class | led_0402 |  
+| id_no_size | 0402 |  
+| id_no_type | 0402 |  
+| kicad_reference | L |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[Electronic Led 0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br> |  
+| markdown_short | [electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br> |  
+| md5 | d33b648a8a749fae6a9a74b760467fb2 |  
+| md5_10 | d33b648a8a |  
+| md5_10_upper | D33B648A8A |  
+| md5_5 | d33b6 |  
+| md5_5_upper | D33B6 |  
+| md5_6 | d33b64 |  
+| md5_6_alpha | 88pk4 |  
+| md5_6_alpha_upper | 88PK4 |  
+| md5_6_upper | D33B64 |  
+| name | Electronic Led 0402 |  
+| name_no_class | Led 0402 |  
+| name_no_size | 0402 |  
+| name_no_size_short | 0402 |  
+| name_no_type | 0402 |  
+| oomp_key | oomp_electronic_led_0402 |  
+| oomp_word | tomato bear sunflower |  
+| oomp_word_emoji | :tomato: :bear: :sunflower: |  
+| oomp_word_emoji_list | [':tomato:', ':bear:', ':sunflower:'] |  
+| oomp_word_list | ['tomato', 'bear', 'sunflower'] |  
+| package_style | smd_tape |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | l4 |  
+| short_code_upper | L4 |  
+| short_name | 0402 Led |  
+| size | 0402 |  
+| size_capital | 0402 |  
+| size_first_letter | 0 |  
+| size_first_letter_upper | 0 |  
+| size_only_numbers | 0402 |  
+| size_only_numbers_no_zeros | 42 |  
+| size_upper | 0402 |  
+| smd_tape_depth | 1_5_mm |  
+| smd_tape_pitch | 2_mm |  
+| smd_tape_width | 8_mm |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}] |  
+| type | led |  
+| type_capital | Led |  
+| type_first_letter | l |  
+| type_first_letter_upper | L |  
+| type_upper | LED |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

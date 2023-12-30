@@ -27,187 +27,188 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: aa8825
 
 ### all codes 
-|key|value|  
-|classification|hardware|  
-|classification_length_1|h|  
-|classification_length_2|ha|  
-|classification_length_3|har|  
-|classification_length_4|hard|  
-|classification_length_5|hardw|  
-|classification_length_6|hardwa|  
-|classification_name|Hardware|  
-|classification_no_space_length_1|h|  
-|classification_no_space_length_2|ha|  
-|classification_no_space_length_3|har|  
-|classification_no_space_length_4|hard|  
-|classification_no_space_length_5|hardw|  
-|classification_no_space_length_6|hardwa|  
-|classification_no_space_upper_length_1|H|  
-|classification_no_space_upper_length_2|HA|  
-|classification_no_space_upper_length_3|HAR|  
-|classification_no_space_upper_length_4|HARD|  
-|classification_no_space_upper_length_5|HARDW|  
-|classification_no_space_upper_length_6|HARDWA|  
-|classification_upper_length_1|H|  
-|classification_upper_length_2|HA|  
-|classification_upper_length_3|HAR|  
-|classification_upper_length_4|HARD|  
-|classification_upper_length_5|HARDW|  
-|classification_upper_length_6|HARDWA|  
-|color|nylon_white|  
-|color_length_1|n|  
-|color_length_2|ny|  
-|color_length_3|nyl|  
-|color_length_4|nylo|  
-|color_length_5|nylon|  
-|color_length_6|nylon_|  
-|color_name|Nylon White|  
-|color_no_space_length_1|n|  
-|color_no_space_length_2|ny|  
-|color_no_space_length_3|nyl|  
-|color_no_space_length_4|nylo|  
-|color_no_space_length_5|nylon|  
-|color_no_space_length_6|nylonw|  
-|color_no_space_upper_length_1|N|  
-|color_no_space_upper_length_2|NY|  
-|color_no_space_upper_length_3|NYL|  
-|color_no_space_upper_length_4|NYLO|  
-|color_no_space_upper_length_5|NYLON|  
-|color_no_space_upper_length_6|NYLONW|  
-|color_upper_length_1|N|  
-|color_upper_length_2|NY|  
-|color_upper_length_3|NYL|  
-|color_upper_length_4|NYLO|  
-|color_upper_length_5|NYLON|  
-|color_upper_length_6|NYLON_|  
-|description_extra||  
-|description_extra_name||  
-|description_main|15_mm_length|  
-|description_main_length_1|1|  
-|description_main_length_2|15|  
-|description_main_length_3|15_|  
-|description_main_length_4|15_m|  
-|description_main_length_5|15_mm|  
-|description_main_length_6|15_mm_|  
-|description_main_name|15 mm Length|  
-|description_main_no_space_length_1|1|  
-|description_main_no_space_length_2|15|  
-|description_main_no_space_length_3|15m|  
-|description_main_no_space_length_4|15mm|  
-|description_main_no_space_length_5|15mml|  
-|description_main_no_space_length_6|15mmle|  
-|description_main_no_space_upper_length_1|1|  
-|description_main_no_space_upper_length_2|15|  
-|description_main_no_space_upper_length_3|15M|  
-|description_main_no_space_upper_length_4|15MM|  
-|description_main_no_space_upper_length_5|15MML|  
-|description_main_no_space_upper_length_6|15MMLE|  
-|description_main_upper_length_1|1|  
-|description_main_upper_length_2|15|  
-|description_main_upper_length_3|15_|  
-|description_main_upper_length_4|15_M|  
-|description_main_upper_length_5|15_MM|  
-|description_main_upper_length_6|15_MM_|  
-|directory|parts/hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length|  
-|id|hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length|  
-|id_no_class|spacer_m3_id_7_mm_od_nylon_white_15_mm_length|  
-|id_no_color|15_mm_length|  
-|id_no_size|nylon_white_15_mm_length|  
-|id_no_type|m3_id_7_mm_od_nylon_white_15_mm_length|  
-|manufacturer||  
-|manufacturer_name||  
-|md5|aa88258777521c38e56d7ba3400f3d10|  
-|md5_10|aa88258777|  
-|md5_10_upper|AA88258777|  
-|md5_5|aa882|  
-|md5_5_upper|AA882|  
-|md5_6|aa8825|  
-|md5_6_alpha|6njfp|  
-|md5_6_alpha_upper|6NJFP|  
-|md5_6_upper|AA8825|  
-|name|Hardware Spacer M3 ID 7 mm OD Nylon White 15 mm Length|  
-|name_no_class|Spacer M3 ID 7 mm OD Nylon White 15 mm Length|  
-|name_no_color|15 mm Length|  
-|name_no_size|Nylon White 15 mm Length|  
-|name_no_type|M3 ID 7 mm OD Nylon White 15 mm Length|  
-|oomlout_bolt_color||  
-|oomlout_bolt_head_type|Bolt|  
-|oomlout_bolt_head_type_diagram|head_type_diagram.png|  
-|oomlout_bolt_length|15 mm|  
-|oomlout_bolt_length_no_unit|15|  
-|oomlout_bolt_md5_6_alpha_first_3|6nj|  
-|oomlout_bolt_md5_6_alpha_first_3_upper|6NJ|  
-|oomlout_bolt_md5_6_alpha_last_3|fp|  
-|oomlout_bolt_md5_6_alpha_last_3_upper|FP|  
-|oomlout_bolt_md5_6_first_3|aa8|  
-|oomlout_bolt_md5_6_first_3_upper|AA8|  
-|oomlout_bolt_md5_6_last_3|825|  
-|oomlout_bolt_md5_6_last_3_upper|825|  
-|oomlout_bolt_name|Spacer M3X7X15 mm  (Bolt)|  
-|oomlout_bolt_size||  
-|oomlout_bolt_size_long|M3X7|  
-|oomlout_bolt_type|Spacer|  
-|oomlout_bolt_type_diagram_diagram|type_diagram.png|  
-|oomlout_short_code|sp3x7w15|  
-|oomlout_short_code_upper|SP3X7W15|  
-|oomp_key|oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length|  
-|oomp_word|lipstick wrench ear|  
-|oomp_word_emoji|:lipstick: :wrench: :ear:|  
-|oomp_word_emoji_list|[':lipstick:', ':wrench:', ':ear:']|  
-|oomp_word_list|['lipstick', 'wrench', 'ear']|  
-|part_number||  
-|part_number_name||  
-|size|m3_id_7_mm_od|  
-|size_length_1|m|  
-|size_length_2|m3|  
-|size_length_3|m3_|  
-|size_length_4|m3_i|  
-|size_length_5|m3_id|  
-|size_length_6|m3_id_|  
-|size_name|M3 ID 7 mm OD|  
-|size_no_space_length_1|m|  
-|size_no_space_length_2|m3|  
-|size_no_space_length_3|m3i|  
-|size_no_space_length_4|m3id|  
-|size_no_space_length_5|m3id7|  
-|size_no_space_length_6|m3id7m|  
-|size_no_space_upper_length_1|M|  
-|size_no_space_upper_length_2|M3|  
-|size_no_space_upper_length_3|M3I|  
-|size_no_space_upper_length_4|M3ID|  
-|size_no_space_upper_length_5|M3ID7|  
-|size_no_space_upper_length_6|M3ID7M|  
-|size_upper_length_1|M|  
-|size_upper_length_2|M3|  
-|size_upper_length_3|M3_|  
-|size_upper_length_4|M3_I|  
-|size_upper_length_5|M3_ID|  
-|size_upper_length_6|M3_ID_|  
-|type|spacer|  
-|type_length_1|s|  
-|type_length_2|sp|  
-|type_length_3|spa|  
-|type_length_4|spac|  
-|type_length_5|space|  
-|type_length_6|spacer|  
-|type_name|Spacer|  
-|type_no_space_length_1|s|  
-|type_no_space_length_2|sp|  
-|type_no_space_length_3|spa|  
-|type_no_space_length_4|spac|  
-|type_no_space_length_5|space|  
-|type_no_space_length_6|spacer|  
-|type_no_space_upper_length_1|S|  
-|type_no_space_upper_length_2|SP|  
-|type_no_space_upper_length_3|SPA|  
-|type_no_space_upper_length_4|SPAC|  
-|type_no_space_upper_length_5|SPACE|  
-|type_no_space_upper_length_6|SPACER|  
-|type_upper_length_1|S|  
-|type_upper_length_2|SP|  
-|type_upper_length_3|SPA|  
-|type_upper_length_4|SPAC|  
-|type_upper_length_5|SPACE|  
-|type_upper_length_6|SPACER|  
-|files|['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | hardware |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
+| color | nylon_white |  
+| color_length_1 | n |  
+| color_length_2 | ny |  
+| color_length_3 | nyl |  
+| color_length_4 | nylo |  
+| color_length_5 | nylon |  
+| color_length_6 | nylon_ |  
+| color_name | Nylon White |  
+| color_no_space_length_1 | n |  
+| color_no_space_length_2 | ny |  
+| color_no_space_length_3 | nyl |  
+| color_no_space_length_4 | nylo |  
+| color_no_space_length_5 | nylon |  
+| color_no_space_length_6 | nylonw |  
+| color_no_space_upper_length_1 | N |  
+| color_no_space_upper_length_2 | NY |  
+| color_no_space_upper_length_3 | NYL |  
+| color_no_space_upper_length_4 | NYLO |  
+| color_no_space_upper_length_5 | NYLON |  
+| color_no_space_upper_length_6 | NYLONW |  
+| color_upper_length_1 | N |  
+| color_upper_length_2 | NY |  
+| color_upper_length_3 | NYL |  
+| color_upper_length_4 | NYLO |  
+| color_upper_length_5 | NYLON |  
+| color_upper_length_6 | NYLON_ |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 15_mm_length |  
+| description_main_length_1 | 1 |  
+| description_main_length_2 | 15 |  
+| description_main_length_3 | 15_ |  
+| description_main_length_4 | 15_m |  
+| description_main_length_5 | 15_mm |  
+| description_main_length_6 | 15_mm_ |  
+| description_main_name | 15 mm Length |  
+| description_main_no_space_length_1 | 1 |  
+| description_main_no_space_length_2 | 15 |  
+| description_main_no_space_length_3 | 15m |  
+| description_main_no_space_length_4 | 15mm |  
+| description_main_no_space_length_5 | 15mml |  
+| description_main_no_space_length_6 | 15mmle |  
+| description_main_no_space_upper_length_1 | 1 |  
+| description_main_no_space_upper_length_2 | 15 |  
+| description_main_no_space_upper_length_3 | 15M |  
+| description_main_no_space_upper_length_4 | 15MM |  
+| description_main_no_space_upper_length_5 | 15MML |  
+| description_main_no_space_upper_length_6 | 15MMLE |  
+| description_main_upper_length_1 | 1 |  
+| description_main_upper_length_2 | 15 |  
+| description_main_upper_length_3 | 15_ |  
+| description_main_upper_length_4 | 15_M |  
+| description_main_upper_length_5 | 15_MM |  
+| description_main_upper_length_6 | 15_MM_ |  
+| directory | parts/hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
+| id | hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
+| id_no_class | spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
+| id_no_color | 15_mm_length |  
+| id_no_size | nylon_white_15_mm_length |  
+| id_no_type | m3_id_7_mm_od_nylon_white_15_mm_length |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | aa88258777521c38e56d7ba3400f3d10 |  
+| md5_10 | aa88258777 |  
+| md5_10_upper | AA88258777 |  
+| md5_5 | aa882 |  
+| md5_5_upper | AA882 |  
+| md5_6 | aa8825 |  
+| md5_6_alpha | 6njfp |  
+| md5_6_alpha_upper | 6NJFP |  
+| md5_6_upper | AA8825 |  
+| name | Hardware Spacer M3 ID 7 mm OD Nylon White 15 mm Length |  
+| name_no_class | Spacer M3 ID 7 mm OD Nylon White 15 mm Length |  
+| name_no_color | 15 mm Length |  
+| name_no_size | Nylon White 15 mm Length |  
+| name_no_type | M3 ID 7 mm OD Nylon White 15 mm Length |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_head_type_diagram | head_type_diagram.png |  
+| oomlout_bolt_length | 15 mm |  
+| oomlout_bolt_length_no_unit | 15 |  
+| oomlout_bolt_md5_6_alpha_first_3 | 6nj |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | 6NJ |  
+| oomlout_bolt_md5_6_alpha_last_3 | fp |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | FP |  
+| oomlout_bolt_md5_6_first_3 | aa8 |  
+| oomlout_bolt_md5_6_first_3_upper | AA8 |  
+| oomlout_bolt_md5_6_last_3 | 825 |  
+| oomlout_bolt_md5_6_last_3_upper | 825 |  
+| oomlout_bolt_name | Spacer M3X7X15 mm  (Bolt) |  
+| oomlout_bolt_size |  |  
+| oomlout_bolt_size_long | M3X7 |  
+| oomlout_bolt_type | Spacer |  
+| oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_short_code | sp3x7w15 |  
+| oomlout_short_code_upper | SP3X7W15 |  
+| oomp_key | oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
+| oomp_word | lipstick wrench ear |  
+| oomp_word_emoji | :lipstick: :wrench: :ear: |  
+| oomp_word_emoji_list | [':lipstick:', ':wrench:', ':ear:'] |  
+| oomp_word_list | ['lipstick', 'wrench', 'ear'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | m3_id_7_mm_od |  
+| size_length_1 | m |  
+| size_length_2 | m3 |  
+| size_length_3 | m3_ |  
+| size_length_4 | m3_i |  
+| size_length_5 | m3_id |  
+| size_length_6 | m3_id_ |  
+| size_name | M3 ID 7 mm OD |  
+| size_no_space_length_1 | m |  
+| size_no_space_length_2 | m3 |  
+| size_no_space_length_3 | m3i |  
+| size_no_space_length_4 | m3id |  
+| size_no_space_length_5 | m3id7 |  
+| size_no_space_length_6 | m3id7m |  
+| size_no_space_upper_length_1 | M |  
+| size_no_space_upper_length_2 | M3 |  
+| size_no_space_upper_length_3 | M3I |  
+| size_no_space_upper_length_4 | M3ID |  
+| size_no_space_upper_length_5 | M3ID7 |  
+| size_no_space_upper_length_6 | M3ID7M |  
+| size_upper_length_1 | M |  
+| size_upper_length_2 | M3 |  
+| size_upper_length_3 | M3_ |  
+| size_upper_length_4 | M3_I |  
+| size_upper_length_5 | M3_ID |  
+| size_upper_length_6 | M3_ID_ |  
+| type | spacer |  
+| type_length_1 | s |  
+| type_length_2 | sp |  
+| type_length_3 | spa |  
+| type_length_4 | spac |  
+| type_length_5 | space |  
+| type_length_6 | spacer |  
+| type_name | Spacer |  
+| type_no_space_length_1 | s |  
+| type_no_space_length_2 | sp |  
+| type_no_space_length_3 | spa |  
+| type_no_space_length_4 | spac |  
+| type_no_space_length_5 | space |  
+| type_no_space_length_6 | spacer |  
+| type_no_space_upper_length_1 | S |  
+| type_no_space_upper_length_2 | SP |  
+| type_no_space_upper_length_3 | SPA |  
+| type_no_space_upper_length_4 | SPAC |  
+| type_no_space_upper_length_5 | SPACE |  
+| type_no_space_upper_length_6 | SPACER |  
+| type_upper_length_1 | S |  
+| type_upper_length_2 | SP |  
+| type_upper_length_3 | SPA |  
+| type_upper_length_4 | SPAC |  
+| type_upper_length_5 | SPACE |  
+| type_upper_length_6 | SPACER |  
+| files | ['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml'] |  

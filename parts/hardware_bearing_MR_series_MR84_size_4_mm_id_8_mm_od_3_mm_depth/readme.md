@@ -27,169 +27,170 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 444c13
 
 ### all codes 
-|key|value|  
-|classification|hardware|  
-|classification_length_1|h|  
-|classification_length_2|ha|  
-|classification_length_3|har|  
-|classification_length_4|hard|  
-|classification_length_5|hardw|  
-|classification_length_6|hardwa|  
-|classification_name|Hardware|  
-|classification_no_space_length_1|h|  
-|classification_no_space_length_2|ha|  
-|classification_no_space_length_3|har|  
-|classification_no_space_length_4|hard|  
-|classification_no_space_length_5|hardw|  
-|classification_no_space_length_6|hardwa|  
-|classification_no_space_upper_length_1|H|  
-|classification_no_space_upper_length_2|HA|  
-|classification_no_space_upper_length_3|HAR|  
-|classification_no_space_upper_length_4|HARD|  
-|classification_no_space_upper_length_5|HARDW|  
-|classification_no_space_upper_length_6|HARDWA|  
-|classification_upper_length_1|H|  
-|classification_upper_length_2|HA|  
-|classification_upper_length_3|HAR|  
-|classification_upper_length_4|HARD|  
-|classification_upper_length_5|HARDW|  
-|classification_upper_length_6|HARDWA|  
-|color|MR84_size|  
-|color_length_1|M|  
-|color_length_2|MR|  
-|color_length_3|MR8|  
-|color_length_4|MR84|  
-|color_length_5|MR84_|  
-|color_length_6|MR84_s|  
-|color_name|Mr84 Size|  
-|color_no_space_length_1|M|  
-|color_no_space_length_2|MR|  
-|color_no_space_length_3|MR8|  
-|color_no_space_length_4|MR84|  
-|color_no_space_length_5|MR84s|  
-|color_no_space_length_6|MR84si|  
-|color_no_space_upper_length_1|M|  
-|color_no_space_upper_length_2|MR|  
-|color_no_space_upper_length_3|MR8|  
-|color_no_space_upper_length_4|MR84|  
-|color_no_space_upper_length_5|MR84S|  
-|color_no_space_upper_length_6|MR84SI|  
-|color_upper_length_1|M|  
-|color_upper_length_2|MR|  
-|color_upper_length_3|MR8|  
-|color_upper_length_4|MR84|  
-|color_upper_length_5|MR84_|  
-|color_upper_length_6|MR84_S|  
-|description_extra||  
-|description_extra_name||  
-|description_main|4_mm_id_8_mm_od_3_mm_depth|  
-|description_main_length_1|4|  
-|description_main_length_2|4_|  
-|description_main_length_3|4_m|  
-|description_main_length_4|4_mm|  
-|description_main_length_5|4_mm_|  
-|description_main_length_6|4_mm_i|  
-|description_main_name|4 mm ID 8 mm OD 3 mm Depth|  
-|description_main_no_space_length_1|4|  
-|description_main_no_space_length_2|4m|  
-|description_main_no_space_length_3|4mm|  
-|description_main_no_space_length_4|4mmi|  
-|description_main_no_space_length_5|4mmid|  
-|description_main_no_space_length_6|4mmid8|  
-|description_main_no_space_upper_length_1|4|  
-|description_main_no_space_upper_length_2|4M|  
-|description_main_no_space_upper_length_3|4MM|  
-|description_main_no_space_upper_length_4|4MMI|  
-|description_main_no_space_upper_length_5|4MMID|  
-|description_main_no_space_upper_length_6|4MMID8|  
-|description_main_upper_length_1|4|  
-|description_main_upper_length_2|4_|  
-|description_main_upper_length_3|4_M|  
-|description_main_upper_length_4|4_MM|  
-|description_main_upper_length_5|4_MM_|  
-|description_main_upper_length_6|4_MM_I|  
-|directory|parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|id|hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|id_no_class|bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|id_no_color|4_mm_id_8_mm_od_3_mm_depth|  
-|id_no_size|MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|id_no_type|MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|manufacturer||  
-|manufacturer_name||  
-|md5|444c13164418dc8a94d11cc1de0df267|  
-|md5_10|444c131644|  
-|md5_10_upper|444C131644|  
-|md5_5|444c1|  
-|md5_5_upper|444C1|  
-|md5_6|444c13|  
-|md5_6_alpha|2nxn7|  
-|md5_6_alpha_upper|2NXN7|  
-|md5_6_upper|444C13|  
-|name|Hardware Bearing Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth|  
-|name_no_class|Bearing Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth|  
-|name_no_color|4 mm ID 8 mm OD 3 mm Depth|  
-|name_no_size|Mr84 Size 4 mm ID 8 mm OD 3 mm Depth|  
-|name_no_type|Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth|  
-|oomlout_short_code|brMR84|  
-|oomlout_short_code_upper|BRMR84|  
-|oomp_key|oomp_hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth|  
-|oomp_word|panda_face turtle question|  
-|oomp_word_emoji|:panda_face: :turtle: :question:|  
-|oomp_word_emoji_list|[':panda_face:', ':turtle:', ':question:']|  
-|oomp_word_list|['panda_face', 'turtle', 'question']|  
-|part_number||  
-|part_number_name||  
-|size|MR_series|  
-|size_length_1|M|  
-|size_length_2|MR|  
-|size_length_3|MR_|  
-|size_length_4|MR_s|  
-|size_length_5|MR_se|  
-|size_length_6|MR_ser|  
-|size_name|Mr Series|  
-|size_no_space_length_1|M|  
-|size_no_space_length_2|MR|  
-|size_no_space_length_3|MRs|  
-|size_no_space_length_4|MRse|  
-|size_no_space_length_5|MRser|  
-|size_no_space_length_6|MRseri|  
-|size_no_space_upper_length_1|M|  
-|size_no_space_upper_length_2|MR|  
-|size_no_space_upper_length_3|MRS|  
-|size_no_space_upper_length_4|MRSE|  
-|size_no_space_upper_length_5|MRSER|  
-|size_no_space_upper_length_6|MRSERI|  
-|size_upper_length_1|M|  
-|size_upper_length_2|MR|  
-|size_upper_length_3|MR_|  
-|size_upper_length_4|MR_S|  
-|size_upper_length_5|MR_SE|  
-|size_upper_length_6|MR_SER|  
-|type|bearing|  
-|type_length_1|b|  
-|type_length_2|be|  
-|type_length_3|bea|  
-|type_length_4|bear|  
-|type_length_5|beari|  
-|type_length_6|bearin|  
-|type_name|Bearing|  
-|type_no_space_length_1|b|  
-|type_no_space_length_2|be|  
-|type_no_space_length_3|bea|  
-|type_no_space_length_4|bear|  
-|type_no_space_length_5|beari|  
-|type_no_space_length_6|bearin|  
-|type_no_space_upper_length_1|B|  
-|type_no_space_upper_length_2|BE|  
-|type_no_space_upper_length_3|BEA|  
-|type_no_space_upper_length_4|BEAR|  
-|type_no_space_upper_length_5|BEARI|  
-|type_no_space_upper_length_6|BEARIN|  
-|type_upper_length_1|B|  
-|type_upper_length_2|BE|  
-|type_upper_length_3|BEA|  
-|type_upper_length_4|BEAR|  
-|type_upper_length_5|BEARI|  
-|type_upper_length_6|BEARIN|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | hardware |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
+| color | MR84_size |  
+| color_length_1 | M |  
+| color_length_2 | MR |  
+| color_length_3 | MR8 |  
+| color_length_4 | MR84 |  
+| color_length_5 | MR84_ |  
+| color_length_6 | MR84_s |  
+| color_name | Mr84 Size |  
+| color_no_space_length_1 | M |  
+| color_no_space_length_2 | MR |  
+| color_no_space_length_3 | MR8 |  
+| color_no_space_length_4 | MR84 |  
+| color_no_space_length_5 | MR84s |  
+| color_no_space_length_6 | MR84si |  
+| color_no_space_upper_length_1 | M |  
+| color_no_space_upper_length_2 | MR |  
+| color_no_space_upper_length_3 | MR8 |  
+| color_no_space_upper_length_4 | MR84 |  
+| color_no_space_upper_length_5 | MR84S |  
+| color_no_space_upper_length_6 | MR84SI |  
+| color_upper_length_1 | M |  
+| color_upper_length_2 | MR |  
+| color_upper_length_3 | MR8 |  
+| color_upper_length_4 | MR84 |  
+| color_upper_length_5 | MR84_ |  
+| color_upper_length_6 | MR84_S |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 4_mm_id_8_mm_od_3_mm_depth |  
+| description_main_length_1 | 4 |  
+| description_main_length_2 | 4_ |  
+| description_main_length_3 | 4_m |  
+| description_main_length_4 | 4_mm |  
+| description_main_length_5 | 4_mm_ |  
+| description_main_length_6 | 4_mm_i |  
+| description_main_name | 4 mm ID 8 mm OD 3 mm Depth |  
+| description_main_no_space_length_1 | 4 |  
+| description_main_no_space_length_2 | 4m |  
+| description_main_no_space_length_3 | 4mm |  
+| description_main_no_space_length_4 | 4mmi |  
+| description_main_no_space_length_5 | 4mmid |  
+| description_main_no_space_length_6 | 4mmid8 |  
+| description_main_no_space_upper_length_1 | 4 |  
+| description_main_no_space_upper_length_2 | 4M |  
+| description_main_no_space_upper_length_3 | 4MM |  
+| description_main_no_space_upper_length_4 | 4MMI |  
+| description_main_no_space_upper_length_5 | 4MMID |  
+| description_main_no_space_upper_length_6 | 4MMID8 |  
+| description_main_upper_length_1 | 4 |  
+| description_main_upper_length_2 | 4_ |  
+| description_main_upper_length_3 | 4_M |  
+| description_main_upper_length_4 | 4_MM |  
+| description_main_upper_length_5 | 4_MM_ |  
+| description_main_upper_length_6 | 4_MM_I |  
+| directory | parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| id | hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| id_no_class | bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| id_no_color | 4_mm_id_8_mm_od_3_mm_depth |  
+| id_no_size | MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| id_no_type | MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 444c13164418dc8a94d11cc1de0df267 |  
+| md5_10 | 444c131644 |  
+| md5_10_upper | 444C131644 |  
+| md5_5 | 444c1 |  
+| md5_5_upper | 444C1 |  
+| md5_6 | 444c13 |  
+| md5_6_alpha | 2nxn7 |  
+| md5_6_alpha_upper | 2NXN7 |  
+| md5_6_upper | 444C13 |  
+| name | Hardware Bearing Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth |  
+| name_no_class | Bearing Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth |  
+| name_no_color | 4 mm ID 8 mm OD 3 mm Depth |  
+| name_no_size | Mr84 Size 4 mm ID 8 mm OD 3 mm Depth |  
+| name_no_type | Mr Series Mr84 Size 4 mm ID 8 mm OD 3 mm Depth |  
+| oomlout_short_code | brMR84 |  
+| oomlout_short_code_upper | BRMR84 |  
+| oomp_key | oomp_hardware_bearing_MR_series_MR84_size_4_mm_id_8_mm_od_3_mm_depth |  
+| oomp_word | panda_face turtle question |  
+| oomp_word_emoji | :panda_face: :turtle: :question: |  
+| oomp_word_emoji_list | [':panda_face:', ':turtle:', ':question:'] |  
+| oomp_word_list | ['panda_face', 'turtle', 'question'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | MR_series |  
+| size_length_1 | M |  
+| size_length_2 | MR |  
+| size_length_3 | MR_ |  
+| size_length_4 | MR_s |  
+| size_length_5 | MR_se |  
+| size_length_6 | MR_ser |  
+| size_name | Mr Series |  
+| size_no_space_length_1 | M |  
+| size_no_space_length_2 | MR |  
+| size_no_space_length_3 | MRs |  
+| size_no_space_length_4 | MRse |  
+| size_no_space_length_5 | MRser |  
+| size_no_space_length_6 | MRseri |  
+| size_no_space_upper_length_1 | M |  
+| size_no_space_upper_length_2 | MR |  
+| size_no_space_upper_length_3 | MRS |  
+| size_no_space_upper_length_4 | MRSE |  
+| size_no_space_upper_length_5 | MRSER |  
+| size_no_space_upper_length_6 | MRSERI |  
+| size_upper_length_1 | M |  
+| size_upper_length_2 | MR |  
+| size_upper_length_3 | MR_ |  
+| size_upper_length_4 | MR_S |  
+| size_upper_length_5 | MR_SE |  
+| size_upper_length_6 | MR_SER |  
+| type | bearing |  
+| type_length_1 | b |  
+| type_length_2 | be |  
+| type_length_3 | bea |  
+| type_length_4 | bear |  
+| type_length_5 | beari |  
+| type_length_6 | bearin |  
+| type_name | Bearing |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | be |  
+| type_no_space_length_3 | bea |  
+| type_no_space_length_4 | bear |  
+| type_no_space_length_5 | beari |  
+| type_no_space_length_6 | bearin |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BE |  
+| type_no_space_upper_length_3 | BEA |  
+| type_no_space_upper_length_4 | BEAR |  
+| type_no_space_upper_length_5 | BEARI |  
+| type_no_space_upper_length_6 | BEARIN |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BE |  
+| type_upper_length_3 | BEA |  
+| type_upper_length_4 | BEAR |  
+| type_upper_length_5 | BEARI |  
+| type_upper_length_6 | BEARIN |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

@@ -27,169 +27,170 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 1f040c
 
 ### all codes 
-|key|value|  
-|classification|hardware|  
-|classification_length_1|h|  
-|classification_length_2|ha|  
-|classification_length_3|har|  
-|classification_length_4|hard|  
-|classification_length_5|hardw|  
-|classification_length_6|hardwa|  
-|classification_name|Hardware|  
-|classification_no_space_length_1|h|  
-|classification_no_space_length_2|ha|  
-|classification_no_space_length_3|har|  
-|classification_no_space_length_4|hard|  
-|classification_no_space_length_5|hardw|  
-|classification_no_space_length_6|hardwa|  
-|classification_no_space_upper_length_1|H|  
-|classification_no_space_upper_length_2|HA|  
-|classification_no_space_upper_length_3|HAR|  
-|classification_no_space_upper_length_4|HARD|  
-|classification_no_space_upper_length_5|HARDW|  
-|classification_no_space_upper_length_6|HARDWA|  
-|classification_upper_length_1|H|  
-|classification_upper_length_2|HA|  
-|classification_upper_length_3|HAR|  
-|classification_upper_length_4|HARD|  
-|classification_upper_length_5|HARDW|  
-|classification_upper_length_6|HARDWA|  
-|color|6304_size|  
-|color_length_1|6|  
-|color_length_2|63|  
-|color_length_3|630|  
-|color_length_4|6304|  
-|color_length_5|6304_|  
-|color_length_6|6304_s|  
-|color_name|6304 Size|  
-|color_no_space_length_1|6|  
-|color_no_space_length_2|63|  
-|color_no_space_length_3|630|  
-|color_no_space_length_4|6304|  
-|color_no_space_length_5|6304s|  
-|color_no_space_length_6|6304si|  
-|color_no_space_upper_length_1|6|  
-|color_no_space_upper_length_2|63|  
-|color_no_space_upper_length_3|630|  
-|color_no_space_upper_length_4|6304|  
-|color_no_space_upper_length_5|6304S|  
-|color_no_space_upper_length_6|6304SI|  
-|color_upper_length_1|6|  
-|color_upper_length_2|63|  
-|color_upper_length_3|630|  
-|color_upper_length_4|6304|  
-|color_upper_length_5|6304_|  
-|color_upper_length_6|6304_S|  
-|description_extra||  
-|description_extra_name||  
-|description_main|20_mm_id_52_mm_od_15_mm_depth|  
-|description_main_length_1|2|  
-|description_main_length_2|20|  
-|description_main_length_3|20_|  
-|description_main_length_4|20_m|  
-|description_main_length_5|20_mm|  
-|description_main_length_6|20_mm_|  
-|description_main_name|20 mm ID 52 mm OD 15 mm Depth|  
-|description_main_no_space_length_1|2|  
-|description_main_no_space_length_2|20|  
-|description_main_no_space_length_3|20m|  
-|description_main_no_space_length_4|20mm|  
-|description_main_no_space_length_5|20mmi|  
-|description_main_no_space_length_6|20mmid|  
-|description_main_no_space_upper_length_1|2|  
-|description_main_no_space_upper_length_2|20|  
-|description_main_no_space_upper_length_3|20M|  
-|description_main_no_space_upper_length_4|20MM|  
-|description_main_no_space_upper_length_5|20MMI|  
-|description_main_no_space_upper_length_6|20MMID|  
-|description_main_upper_length_1|2|  
-|description_main_upper_length_2|20|  
-|description_main_upper_length_3|20_|  
-|description_main_upper_length_4|20_M|  
-|description_main_upper_length_5|20_MM|  
-|description_main_upper_length_6|20_MM_|  
-|directory|parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|id|hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|id_no_class|bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|id_no_color|20_mm_id_52_mm_od_15_mm_depth|  
-|id_no_size|6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|id_no_type|6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|manufacturer||  
-|manufacturer_name||  
-|md5|1f040cd7547a4e7254a26b20e176a6e5|  
-|md5_10|1f040cd754|  
-|md5_10_upper|1F040CD754|  
-|md5_5|1f040|  
-|md5_5_upper|1F040|  
-|md5_6|1f040c|  
-|md5_6_alpha|17kek|  
-|md5_6_alpha_upper|17KEK|  
-|md5_6_upper|1F040C|  
-|name|Hardware Bearing 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth|  
-|name_no_class|Bearing 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth|  
-|name_no_color|20 mm ID 52 mm OD 15 mm Depth|  
-|name_no_size|6304 Size 20 mm ID 52 mm OD 15 mm Depth|  
-|name_no_type|6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth|  
-|oomlout_short_code|br6304|  
-|oomlout_short_code_upper|BR6304|  
-|oomp_key|oomp_hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth|  
-|oomp_word|princess wink alien|  
-|oomp_word_emoji|:princess: :wink: :alien:|  
-|oomp_word_emoji_list|[':princess:', ':wink:', ':alien:']|  
-|oomp_word_list|['princess', 'wink', 'alien']|  
-|part_number||  
-|part_number_name||  
-|size|6300_series|  
-|size_length_1|6|  
-|size_length_2|63|  
-|size_length_3|630|  
-|size_length_4|6300|  
-|size_length_5|6300_|  
-|size_length_6|6300_s|  
-|size_name|6300 Series|  
-|size_no_space_length_1|6|  
-|size_no_space_length_2|63|  
-|size_no_space_length_3|630|  
-|size_no_space_length_4|6300|  
-|size_no_space_length_5|6300s|  
-|size_no_space_length_6|6300se|  
-|size_no_space_upper_length_1|6|  
-|size_no_space_upper_length_2|63|  
-|size_no_space_upper_length_3|630|  
-|size_no_space_upper_length_4|6300|  
-|size_no_space_upper_length_5|6300S|  
-|size_no_space_upper_length_6|6300SE|  
-|size_upper_length_1|6|  
-|size_upper_length_2|63|  
-|size_upper_length_3|630|  
-|size_upper_length_4|6300|  
-|size_upper_length_5|6300_|  
-|size_upper_length_6|6300_S|  
-|type|bearing|  
-|type_length_1|b|  
-|type_length_2|be|  
-|type_length_3|bea|  
-|type_length_4|bear|  
-|type_length_5|beari|  
-|type_length_6|bearin|  
-|type_name|Bearing|  
-|type_no_space_length_1|b|  
-|type_no_space_length_2|be|  
-|type_no_space_length_3|bea|  
-|type_no_space_length_4|bear|  
-|type_no_space_length_5|beari|  
-|type_no_space_length_6|bearin|  
-|type_no_space_upper_length_1|B|  
-|type_no_space_upper_length_2|BE|  
-|type_no_space_upper_length_3|BEA|  
-|type_no_space_upper_length_4|BEAR|  
-|type_no_space_upper_length_5|BEARI|  
-|type_no_space_upper_length_6|BEARIN|  
-|type_upper_length_1|B|  
-|type_upper_length_2|BE|  
-|type_upper_length_3|BEA|  
-|type_upper_length_4|BEAR|  
-|type_upper_length_5|BEARI|  
-|type_upper_length_6|BEARIN|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | hardware |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
+| color | 6304_size |  
+| color_length_1 | 6 |  
+| color_length_2 | 63 |  
+| color_length_3 | 630 |  
+| color_length_4 | 6304 |  
+| color_length_5 | 6304_ |  
+| color_length_6 | 6304_s |  
+| color_name | 6304 Size |  
+| color_no_space_length_1 | 6 |  
+| color_no_space_length_2 | 63 |  
+| color_no_space_length_3 | 630 |  
+| color_no_space_length_4 | 6304 |  
+| color_no_space_length_5 | 6304s |  
+| color_no_space_length_6 | 6304si |  
+| color_no_space_upper_length_1 | 6 |  
+| color_no_space_upper_length_2 | 63 |  
+| color_no_space_upper_length_3 | 630 |  
+| color_no_space_upper_length_4 | 6304 |  
+| color_no_space_upper_length_5 | 6304S |  
+| color_no_space_upper_length_6 | 6304SI |  
+| color_upper_length_1 | 6 |  
+| color_upper_length_2 | 63 |  
+| color_upper_length_3 | 630 |  
+| color_upper_length_4 | 6304 |  
+| color_upper_length_5 | 6304_ |  
+| color_upper_length_6 | 6304_S |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 20_mm_id_52_mm_od_15_mm_depth |  
+| description_main_length_1 | 2 |  
+| description_main_length_2 | 20 |  
+| description_main_length_3 | 20_ |  
+| description_main_length_4 | 20_m |  
+| description_main_length_5 | 20_mm |  
+| description_main_length_6 | 20_mm_ |  
+| description_main_name | 20 mm ID 52 mm OD 15 mm Depth |  
+| description_main_no_space_length_1 | 2 |  
+| description_main_no_space_length_2 | 20 |  
+| description_main_no_space_length_3 | 20m |  
+| description_main_no_space_length_4 | 20mm |  
+| description_main_no_space_length_5 | 20mmi |  
+| description_main_no_space_length_6 | 20mmid |  
+| description_main_no_space_upper_length_1 | 2 |  
+| description_main_no_space_upper_length_2 | 20 |  
+| description_main_no_space_upper_length_3 | 20M |  
+| description_main_no_space_upper_length_4 | 20MM |  
+| description_main_no_space_upper_length_5 | 20MMI |  
+| description_main_no_space_upper_length_6 | 20MMID |  
+| description_main_upper_length_1 | 2 |  
+| description_main_upper_length_2 | 20 |  
+| description_main_upper_length_3 | 20_ |  
+| description_main_upper_length_4 | 20_M |  
+| description_main_upper_length_5 | 20_MM |  
+| description_main_upper_length_6 | 20_MM_ |  
+| directory | parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| id | hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| id_no_class | bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| id_no_color | 20_mm_id_52_mm_od_15_mm_depth |  
+| id_no_size | 6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| id_no_type | 6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 1f040cd7547a4e7254a26b20e176a6e5 |  
+| md5_10 | 1f040cd754 |  
+| md5_10_upper | 1F040CD754 |  
+| md5_5 | 1f040 |  
+| md5_5_upper | 1F040 |  
+| md5_6 | 1f040c |  
+| md5_6_alpha | 17kek |  
+| md5_6_alpha_upper | 17KEK |  
+| md5_6_upper | 1F040C |  
+| name | Hardware Bearing 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth |  
+| name_no_class | Bearing 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth |  
+| name_no_color | 20 mm ID 52 mm OD 15 mm Depth |  
+| name_no_size | 6304 Size 20 mm ID 52 mm OD 15 mm Depth |  
+| name_no_type | 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth |  
+| oomlout_short_code | br6304 |  
+| oomlout_short_code_upper | BR6304 |  
+| oomp_key | oomp_hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth |  
+| oomp_word | princess wink alien |  
+| oomp_word_emoji | :princess: :wink: :alien: |  
+| oomp_word_emoji_list | [':princess:', ':wink:', ':alien:'] |  
+| oomp_word_list | ['princess', 'wink', 'alien'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | 6300_series |  
+| size_length_1 | 6 |  
+| size_length_2 | 63 |  
+| size_length_3 | 630 |  
+| size_length_4 | 6300 |  
+| size_length_5 | 6300_ |  
+| size_length_6 | 6300_s |  
+| size_name | 6300 Series |  
+| size_no_space_length_1 | 6 |  
+| size_no_space_length_2 | 63 |  
+| size_no_space_length_3 | 630 |  
+| size_no_space_length_4 | 6300 |  
+| size_no_space_length_5 | 6300s |  
+| size_no_space_length_6 | 6300se |  
+| size_no_space_upper_length_1 | 6 |  
+| size_no_space_upper_length_2 | 63 |  
+| size_no_space_upper_length_3 | 630 |  
+| size_no_space_upper_length_4 | 6300 |  
+| size_no_space_upper_length_5 | 6300S |  
+| size_no_space_upper_length_6 | 6300SE |  
+| size_upper_length_1 | 6 |  
+| size_upper_length_2 | 63 |  
+| size_upper_length_3 | 630 |  
+| size_upper_length_4 | 6300 |  
+| size_upper_length_5 | 6300_ |  
+| size_upper_length_6 | 6300_S |  
+| type | bearing |  
+| type_length_1 | b |  
+| type_length_2 | be |  
+| type_length_3 | bea |  
+| type_length_4 | bear |  
+| type_length_5 | beari |  
+| type_length_6 | bearin |  
+| type_name | Bearing |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | be |  
+| type_no_space_length_3 | bea |  
+| type_no_space_length_4 | bear |  
+| type_no_space_length_5 | beari |  
+| type_no_space_length_6 | bearin |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BE |  
+| type_no_space_upper_length_3 | BEA |  
+| type_no_space_upper_length_4 | BEAR |  
+| type_no_space_upper_length_5 | BEARI |  
+| type_no_space_upper_length_6 | BEARIN |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BE |  
+| type_upper_length_3 | BEA |  
+| type_upper_length_4 | BEAR |  
+| type_upper_length_5 | BEARI |  
+| type_upper_length_6 | BEARIN |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

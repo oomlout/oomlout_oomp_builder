@@ -27,92 +27,93 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: b479a8
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color|blue|  
-|color_capital|Blue|  
-|color_first_letter|b|  
-|color_first_letter_upper|B|  
-|color_upper|BLUE|  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main||  
-|description_main_capital||  
-|description_main_first_letter||  
-|description_main_first_letter_upper||  
-|description_main_upper||  
-|description_only_numbers||  
-|description_only_numbers_short| |  
-|description_or_color|B |  
-|description_or_color_upper|B |  
-|directory|parts/electronic_led_1206_blue|  
-|distributors|[]|  
-|filter||  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'note': 'source footprint kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue'}]|  
-|from_yaml|False|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working|  
-|id|electronic_led_1206_blue|  
-|id_no_class|led_1206_blue|  
-|id_no_size|blue|  
-|id_no_type|1206_blue|  
-|kicad_reference|L|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[l12l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[Electronic Led 1206 Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br>|  
-|markdown_short|[electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br>|  
-|md5|b479a89f585074b74fefdd18b419f86a|  
-|md5_10|b479a89f58|  
-|md5_10_upper|B479A89F58|  
-|md5_5|b479a|  
-|md5_5_upper|B479A|  
-|md5_6|b479a8|  
-|md5_6_alpha|71i94|  
-|md5_6_alpha_upper|71I94|  
-|md5_6_upper|B479A8|  
-|name|Electronic Led 1206 Blue|  
-|name_no_class|Led 1206 Blue|  
-|name_no_size|Blue|  
-|name_no_size_short|Blue|  
-|name_no_type|1206 Blue|  
-|oomp_key|oomp_electronic_led_1206_blue|  
-|oomp_word|coffee balloon shoe|  
-|oomp_word_emoji|:coffee: :balloon: :shoe:|  
-|oomp_word_emoji_list|[':coffee:', ':balloon:', ':shoe:']|  
-|oomp_word_list|['coffee', 'balloon', 'shoe']|  
-|package_style|smd_tape|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|l12l|  
-|short_code_upper|L12L|  
-|short_name|1206 Blue Led|  
-|size|1206|  
-|size_capital|1206|  
-|size_first_letter|1|  
-|size_first_letter_upper|1|  
-|size_only_numbers|1206|  
-|size_only_numbers_no_zeros|126|  
-|size_upper|1206|  
-|smd_tape_depth|1_5_mm|  
-|smd_tape_pitch|4_mm|  
-|smd_tape_width|8_mm|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}]|  
-|type|led|  
-|type_capital|Led|  
-|type_first_letter|l|  
-|type_first_letter_upper|L|  
-|type_upper|LED|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color | blue |  
+| color_capital | Blue |  
+| color_first_letter | b |  
+| color_first_letter_upper | B |  
+| color_upper | BLUE |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | B  |  
+| description_or_color_upper | B  |  
+| directory | parts/electronic_led_1206_blue |  
+| distributors | [] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric', 'note': 'source footprint kicad_led_smd_led_1206_3216metric', 'oomp_key': 'oomp_kicad_led_smd_led_1206_3216metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l12l_electronic_led_1206_blue'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working |  
+| id | electronic_led_1206_blue |  
+| id_no_class | led_1206_blue |  
+| id_no_size | blue |  
+| id_no_type | 1206_blue |  
+| kicad_reference | L |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[l12l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br>[Electronic Led 1206 Blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br> |  
+| markdown_short | [electronic_led_1206_blue](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue/working)<br><br> |  
+| md5 | b479a89f585074b74fefdd18b419f86a |  
+| md5_10 | b479a89f58 |  
+| md5_10_upper | B479A89F58 |  
+| md5_5 | b479a |  
+| md5_5_upper | B479A |  
+| md5_6 | b479a8 |  
+| md5_6_alpha | 71i94 |  
+| md5_6_alpha_upper | 71I94 |  
+| md5_6_upper | B479A8 |  
+| name | Electronic Led 1206 Blue |  
+| name_no_class | Led 1206 Blue |  
+| name_no_size | Blue |  
+| name_no_size_short | Blue |  
+| name_no_type | 1206 Blue |  
+| oomp_key | oomp_electronic_led_1206_blue |  
+| oomp_word | coffee balloon shoe |  
+| oomp_word_emoji | :coffee: :balloon: :shoe: |  
+| oomp_word_emoji_list | [':coffee:', ':balloon:', ':shoe:'] |  
+| oomp_word_list | ['coffee', 'balloon', 'shoe'] |  
+| package_style | smd_tape |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | l12l |  
+| short_code_upper | L12L |  
+| short_name | 1206 Blue Led |  
+| size | 1206 |  
+| size_capital | 1206 |  
+| size_first_letter | 1 |  
+| size_first_letter_upper | 1 |  
+| size_only_numbers | 1206 |  
+| size_only_numbers_no_zeros | 126 |  
+| size_upper | 1206 |  
+| smd_tape_depth | 1_5_mm |  
+| smd_tape_pitch | 4_mm |  
+| smd_tape_width | 8_mm |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}] |  
+| type | led |  
+| type_capital | Led |  
+| type_first_letter | l |  
+| type_first_letter_upper | L |  
+| type_upper | LED |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

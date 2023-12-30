@@ -27,86 +27,87 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 7a12ec
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main|22_ohm|  
-|description_main_capital|22 Ohm|  
-|description_main_first_letter|2|  
-|description_main_first_letter_upper|2|  
-|description_main_upper|22_OHM|  
-|description_only_numbers|22|  
-|description_only_numbers_short|22|  
-|description_or_color|22|  
-|description_or_color_upper|22|  
-|directory|parts/electronic_resistor_0201_22_ohm|  
-|distributors|[]|  
-|filter||  
-|from_yaml|False|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working|  
-|id|electronic_resistor_0201_22_ohm|  
-|id_no_class|resistor_0201_22_ohm|  
-|id_no_size|22_ohm|  
-|id_no_type|0201_22_ohm|  
-|kicad_reference|R|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0220TEE'}]|  
-|markdown_full|[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[ro220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[Electronic Resistor 0201 22 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal - NQ01WMJ0220TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0220TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0220TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0220TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0220TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0220TEE)<br>|  
-|markdown_short|[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal - NQ01WMJ0220TEE- not in jlc basic parts]()|  
-|md5|7a12ec4ecfcb8ec3544253851f5681f0|  
-|md5_10|7a12ec4ecf|  
-|md5_10_upper|7A12EC4ECF|  
-|md5_5|7a12e|  
-|md5_5_upper|7A12E|  
-|md5_6|7a12ec|  
-|md5_6_alpha|4rh0s|  
-|md5_6_alpha_upper|4RH0S|  
-|md5_6_upper|7A12EC|  
-|name|Electronic Resistor 0201 22 Ohm|  
-|name_no_class|Resistor 0201 22 Ohm|  
-|name_no_size|22 Ohm|  
-|name_no_size_short|22 Ohm|  
-|name_no_type|0201 22 Ohm|  
-|oomp_key|oomp_electronic_resistor_0201_22_ohm|  
-|oomp_word|camera anger taxi|  
-|oomp_word_emoji|:camera: :anger: :taxi:|  
-|oomp_word_emoji_list|[':camera:', ':anger:', ':taxi:']|  
-|oomp_word_list|['camera', 'anger', 'taxi']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|ro220|  
-|short_code_upper|RO220|  
-|size|0201|  
-|size_capital|0201|  
-|size_first_letter|0|  
-|size_first_letter_upper|0|  
-|size_only_numbers|0201|  
-|size_only_numbers_no_zeros|21|  
-|size_upper|0201|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}]|  
-|type|resistor|  
-|type_capital|Resistor|  
-|type_first_letter|r|  
-|type_first_letter_upper|R|  
-|type_upper|RESISTOR|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main | 22_ohm |  
+| description_main_capital | 22 Ohm |  
+| description_main_first_letter | 2 |  
+| description_main_first_letter_upper | 2 |  
+| description_main_upper | 22_OHM |  
+| description_only_numbers | 22 |  
+| description_only_numbers_short | 22 |  
+| description_or_color | 22 |  
+| description_or_color_upper | 22 |  
+| directory | parts/electronic_resistor_0201_22_ohm |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working |  
+| id | electronic_resistor_0201_22_ohm |  
+| id_no_class | resistor_0201_22_ohm |  
+| id_no_size | 22_ohm |  
+| id_no_type | 0201_22_ohm |  
+| kicad_reference | R |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [{'id': 'manufacturer_uniroyal', 'link': '', 'name': 'Uniroyal', 'note': {'reason': 'did this one first, but not in jlc pcb basic parts and 1 percent are and they are the same price', 'reason_short': 'not in jlc basic parts'}, 'part_number': 'NQ01WMJ0220TEE'}] |  
+| markdown_full | [electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[ro220](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[Electronic Resistor 0201 22 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal - NQ01WMJ0220TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0220TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0220TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0220TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0220TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0220TEE)<br> |  
+| markdown_short | [electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal - NQ01WMJ0220TEE- not in jlc basic parts]() |  
+| md5 | 7a12ec4ecfcb8ec3544253851f5681f0 |  
+| md5_10 | 7a12ec4ecf |  
+| md5_10_upper | 7A12EC4ECF |  
+| md5_5 | 7a12e |  
+| md5_5_upper | 7A12E |  
+| md5_6 | 7a12ec |  
+| md5_6_alpha | 4rh0s |  
+| md5_6_alpha_upper | 4RH0S |  
+| md5_6_upper | 7A12EC |  
+| name | Electronic Resistor 0201 22 Ohm |  
+| name_no_class | Resistor 0201 22 Ohm |  
+| name_no_size | 22 Ohm |  
+| name_no_size_short | 22 Ohm |  
+| name_no_type | 0201 22 Ohm |  
+| oomp_key | oomp_electronic_resistor_0201_22_ohm |  
+| oomp_word | camera anger taxi |  
+| oomp_word_emoji | :camera: :anger: :taxi: |  
+| oomp_word_emoji_list | [':camera:', ':anger:', ':taxi:'] |  
+| oomp_word_list | ['camera', 'anger', 'taxi'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | ro220 |  
+| short_code_upper | RO220 |  
+| size | 0201 |  
+| size_capital | 0201 |  
+| size_first_letter | 0 |  
+| size_first_letter_upper | 0 |  
+| size_only_numbers | 0201 |  
+| size_only_numbers_no_zeros | 21 |  
+| size_upper | 0201 |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}] |  
+| type | resistor |  
+| type_capital | Resistor |  
+| type_first_letter | r |  
+| type_first_letter_upper | R |  
+| type_upper | RESISTOR |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

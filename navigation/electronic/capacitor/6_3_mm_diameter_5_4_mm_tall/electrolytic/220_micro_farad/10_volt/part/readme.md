@@ -27,87 +27,88 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: ca0122
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color|electrolytic|  
-|color_capital|Electrolytic|  
-|color_first_letter|e|  
-|color_first_letter_upper|E|  
-|color_upper|ELECTROLYTIC|  
-|description_extra|10_volt|  
-|description_extra_capital|10 Volt|  
-|description_extra_first_letter|1|  
-|description_extra_first_letter_upper|1|  
-|description_extra_upper|10_VOLT|  
-|description_main|220_micro_farad|  
-|description_main_capital|220 Micro Farad|  
-|description_main_first_letter|2|  
-|description_main_first_letter_upper|2|  
-|description_main_upper|220_MICRO_FARAD|  
-|description_only_numbers|220|  
-|description_only_numbers_short|220uf|  
-|description_or_color|E220uf|  
-|description_or_color_upper|E220UF|  
-|directory|parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt|  
-|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2833309.html', 'name': 'LCSC', 'part_number': 'C2833309'}]|  
-|filter||  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9', 'note': 'source footprint kicad_capacitor_smd_cp_elec_6_3x3_9', 'oomp_key': 'oomp_kicad_capacitor_smd_cp_elec_6_3x3_9'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt'}]|  
-|from_yaml|False|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working|  
-|id|electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt|  
-|id_no_class|capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt|  
-|id_no_size|electrolytic_220_micro_farad_10_volt|  
-|id_no_type|6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt|  
-|kicad_reference|C|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>|  
-|markdown_short|[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>|  
-|md5|ca0122388156a808a16a1df64243b0c1|  
-|md5_10|ca01223881|  
-|md5_10_upper|CA01223881|  
-|md5_5|ca012|  
-|md5_5_upper|CA012|  
-|md5_6|ca0122|  
-|md5_6_alpha|7vqxu|  
-|md5_6_alpha_upper|7VQXU|  
-|md5_6_upper|CA0122|  
-|name|Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt|  
-|name_no_class|Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt|  
-|name_no_size|Electrolytic 220 Micro Farad 10 Volt|  
-|name_no_size_short|Electrolytic 220uf Micro Farad 10 Volt|  
-|name_no_type|6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt|  
-|oomp_key|oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt|  
-|oomp_word|cherries smile lips|  
-|oomp_word_emoji|:cherries: :smile: :lips:|  
-|oomp_word_emoji_list|[':cherries:', ':smile:', ':lips:']|  
-|oomp_word_list|['cherries', 'smile', 'lips']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|c63d54tuf220v10|  
-|short_code_upper|C63D54TUF220V10|  
-|size|6_3_mm_diameter_5_4_mm_tall|  
-|size_capital|6.3 mm Diameter 5.4 mm Tall|  
-|size_first_letter|6|  
-|size_first_letter_upper|6|  
-|size_only_numbers|6354|  
-|size_only_numbers_no_zeros|6354|  
-|size_upper|6_3_MM_DIAMETER_5_4_MM_TALL|  
-|symbol|[{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized', 'oomp_key': 'oomp_kicad_device_c_polarized'}]|  
-|type|capacitor|  
-|type_capital|Capacitor|  
-|type_first_letter|c|  
-|type_first_letter_upper|C|  
-|type_upper|CAPACITOR|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color | electrolytic |  
+| color_capital | Electrolytic |  
+| color_first_letter | e |  
+| color_first_letter_upper | E |  
+| color_upper | ELECTROLYTIC |  
+| description_extra | 10_volt |  
+| description_extra_capital | 10 Volt |  
+| description_extra_first_letter | 1 |  
+| description_extra_first_letter_upper | 1 |  
+| description_extra_upper | 10_VOLT |  
+| description_main | 220_micro_farad |  
+| description_main_capital | 220 Micro Farad |  
+| description_main_first_letter | 2 |  
+| description_main_first_letter_upper | 2 |  
+| description_main_upper | 220_MICRO_FARAD |  
+| description_only_numbers | 220 |  
+| description_only_numbers_short | 220uf |  
+| description_or_color | E220uf |  
+| description_or_color_upper | E220UF |  
+| directory | parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2833309.html', 'name': 'LCSC', 'part_number': 'C2833309'}] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_cp_elec_6_3x3_9', 'note': 'source footprint kicad_capacitor_smd_cp_elec_6_3x3_9', 'oomp_key': 'oomp_kicad_capacitor_smd_cp_elec_6_3x3_9'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working |  
+| id | electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| id_no_class | capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| id_no_size | electrolytic_220_micro_farad_10_volt |  
+| id_no_type | 6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| kicad_reference | C |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br> |  
+| markdown_short | [electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt/working)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br> |  
+| md5 | ca0122388156a808a16a1df64243b0c1 |  
+| md5_10 | ca01223881 |  
+| md5_10_upper | CA01223881 |  
+| md5_5 | ca012 |  
+| md5_5_upper | CA012 |  
+| md5_6 | ca0122 |  
+| md5_6_alpha | 7vqxu |  
+| md5_6_alpha_upper | 7VQXU |  
+| md5_6_upper | CA0122 |  
+| name | Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt |  
+| name_no_class | Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt |  
+| name_no_size | Electrolytic 220 Micro Farad 10 Volt |  
+| name_no_size_short | Electrolytic 220uf Micro Farad 10 Volt |  
+| name_no_type | 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt |  
+| oomp_key | oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| oomp_word | cherries smile lips |  
+| oomp_word_emoji | :cherries: :smile: :lips: |  
+| oomp_word_emoji_list | [':cherries:', ':smile:', ':lips:'] |  
+| oomp_word_list | ['cherries', 'smile', 'lips'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | c63d54tuf220v10 |  
+| short_code_upper | C63D54TUF220V10 |  
+| size | 6_3_mm_diameter_5_4_mm_tall |  
+| size_capital | 6.3 mm Diameter 5.4 mm Tall |  
+| size_first_letter | 6 |  
+| size_first_letter_upper | 6 |  
+| size_only_numbers | 6354 |  
+| size_only_numbers_no_zeros | 6354 |  
+| size_upper | 6_3_MM_DIAMETER_5_4_MM_TALL |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c_polarized', 'oomp_key': 'oomp_kicad_device_c_polarized'}] |  
+| type | capacitor |  
+| type_capital | Capacitor |  
+| type_first_letter | c |  
+| type_first_letter_upper | C |  
+| type_upper | CAPACITOR |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

@@ -27,85 +27,86 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 53a506
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color|sensor|  
-|color_capital|Sensor|  
-|color_first_letter|s|  
-|color_first_letter_upper|S|  
-|color_upper|SENSOR|  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main|accelerometer|  
-|description_main_capital|Accelerometer|  
-|description_main_first_letter|a|  
-|description_main_first_letter_upper|A|  
-|description_main_upper|ACCELEROMETER|  
-|description_only_numbers||  
-|description_only_numbers_short| |  
-|description_or_color|S |  
-|description_or_color_upper|S |  
-|directory|parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321|  
-|distributors|[{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C966924.html', 'name': 'LCSC', 'part_number': 'C966924'}]|  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm', 'note': 'source footprint kicad_package_lga_lga_12_2x2mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321'}]|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working|  
-|id|electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321|  
-|id_no_class|ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321|  
-|id_no_size|sensor_accelerometer_sensortek_stk8321|  
-|id_no_type|lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321|  
-|manufacturer|sensortek|  
-|manufacturer_capital|Sensortek|  
-|manufacturer_first_letter|s|  
-|manufacturer_first_letter_upper|S|  
-|manufacturer_upper|SENSORTEK|  
-|manufacturers|[]|  
-|markdown_full|[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[isnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>|  
-|markdown_short|[electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>|  
-|md5|53a50685369ad5aa7c430e8df214d3c7|  
-|md5_10|53a5068536|  
-|md5_10_upper|53A5068536|  
-|md5_5|53a50|  
-|md5_5_upper|53A50|  
-|md5_6|53a506|  
-|md5_6_alpha|39hqe|  
-|md5_6_alpha_upper|39HQE|  
-|md5_6_upper|53A506|  
-|name|Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321|  
-|name_no_class|Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321|  
-|name_no_size|Sensor Accelerometer Sensortek Stk8321|  
-|name_no_size_short|Sensor Accelerometer Sensortek Stk8321|  
-|name_no_type|Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321|  
-|oomp_key|oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321|  
-|oomp_word|fish headphones sleeping|  
-|oomp_word_emoji|:fish: :headphones: :sleeping:|  
-|oomp_word_emoji_list|[':fish:', ':headphones:', ':sleeping:']|  
-|oomp_word_list|['fish', 'headphones', 'sleeping']|  
-|part_number|stk8321|  
-|part_number_capital|Stk8321|  
-|part_number_first_letter|s|  
-|part_number_first_letter_upper|S|  
-|part_number_upper|STK8321|  
-|pins|{'pin_1': {'name': 'sa0_sdo', 'number': '1', 'type': 'power'}, 'pin_10': {'name': 'cs', 'number': '10', 'type': 'power'}, 'pin_11': {'name': 'nc', 'number': '11', 'type': 'power'}, 'pin_12': {'name': 'scl_sck', 'number': '12', 'type': 'power'}, 'pin_2': {'name': 'sda_sdi_sdio', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'vddio', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'res', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'int1', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'int2', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'vs', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'gndio', 'number': '8', 'type': 'power'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'power'}}|  
-|short_code|isnastk8321|  
-|short_code_upper|ISNASTK8321|  
-|short_name|bosch sensortec bme280 pressure and temperature sensor|  
-|size|lga_12_pin_2_mm_x_2_mm|  
-|size_capital|Lga 12 Pin 2 mm x 2 mm|  
-|size_first_letter|l|  
-|size_first_letter_upper|L|  
-|size_only_numbers|1222|  
-|size_only_numbers_no_zeros|1222|  
-|size_upper|LGA_12_PIN_2_MM_X_2_MM|  
-|type|ic|  
-|type_capital|Ic|  
-|type_first_letter|i|  
-|type_first_letter_upper|I|  
-|type_upper|IC|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color | sensor |  
+| color_capital | Sensor |  
+| color_first_letter | s |  
+| color_first_letter_upper | S |  
+| color_upper | SENSOR |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main | accelerometer |  
+| description_main_capital | Accelerometer |  
+| description_main_first_letter | a |  
+| description_main_first_letter_upper | A |  
+| description_main_upper | ACCELEROMETER |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | S  |  
+| description_or_color_upper | S  |  
+| directory | parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C966924.html', 'name': 'LCSC', 'part_number': 'C966924'}] |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm', 'note': 'source footprint kicad_package_lga_lga_12_2x2mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321'}] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working |  
+| id | electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| id_no_class | ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| id_no_size | sensor_accelerometer_sensortek_stk8321 |  
+| id_no_type | lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| manufacturer | sensortek |  
+| manufacturer_capital | Sensortek |  
+| manufacturer_first_letter | s |  
+| manufacturer_first_letter_upper | S |  
+| manufacturer_upper | SENSORTEK |  
+| manufacturers | [] |  
+| markdown_full | [electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[isnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br> |  
+| markdown_short | [electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br> |  
+| md5 | 53a50685369ad5aa7c430e8df214d3c7 |  
+| md5_10 | 53a5068536 |  
+| md5_10_upper | 53A5068536 |  
+| md5_5 | 53a50 |  
+| md5_5_upper | 53A50 |  
+| md5_6 | 53a506 |  
+| md5_6_alpha | 39hqe |  
+| md5_6_alpha_upper | 39HQE |  
+| md5_6_upper | 53A506 |  
+| name | Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_class | Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_size | Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_size_short | Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_type | Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
+| oomp_key | oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| oomp_word | fish headphones sleeping |  
+| oomp_word_emoji | :fish: :headphones: :sleeping: |  
+| oomp_word_emoji_list | [':fish:', ':headphones:', ':sleeping:'] |  
+| oomp_word_list | ['fish', 'headphones', 'sleeping'] |  
+| part_number | stk8321 |  
+| part_number_capital | Stk8321 |  
+| part_number_first_letter | s |  
+| part_number_first_letter_upper | S |  
+| part_number_upper | STK8321 |  
+| pins | {'pin_1': {'name': 'sa0_sdo', 'number': '1', 'type': 'power'}, 'pin_10': {'name': 'cs', 'number': '10', 'type': 'power'}, 'pin_11': {'name': 'nc', 'number': '11', 'type': 'power'}, 'pin_12': {'name': 'scl_sck', 'number': '12', 'type': 'power'}, 'pin_2': {'name': 'sda_sdi_sdio', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'vddio', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'res', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'int1', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'int2', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'vs', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'gndio', 'number': '8', 'type': 'power'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'power'}} |  
+| short_code | isnastk8321 |  
+| short_code_upper | ISNASTK8321 |  
+| short_name | bosch sensortec bme280 pressure and temperature sensor |  
+| size | lga_12_pin_2_mm_x_2_mm |  
+| size_capital | Lga 12 Pin 2 mm x 2 mm |  
+| size_first_letter | l |  
+| size_first_letter_upper | L |  
+| size_only_numbers | 1222 |  
+| size_only_numbers_no_zeros | 1222 |  
+| size_upper | LGA_12_PIN_2_MM_X_2_MM |  
+| type | ic |  
+| type_capital | Ic |  
+| type_first_letter | i |  
+| type_first_letter_upper | I |  
+| type_upper | IC |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

@@ -27,83 +27,84 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: e9fa83
 
 ### all codes 
-|key|value|  
-|classification|oobb|  
-|classification_capital|Oobb|  
-|classification_first_letter|o|  
-|classification_first_letter_upper|O|  
-|classification_upper|OOBB|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main|05_06_ex_40_teeth|  
-|description_main_capital|05 06 Ex 40 Teeth|  
-|description_main_first_letter|0|  
-|description_main_first_letter_upper|0|  
-|description_main_upper|05_06_EX_40_TEETH|  
-|description_only_numbers|050640|  
-|description_only_numbers_short|51k|  
-|description_or_color|51k|  
-|description_or_color_upper|51K|  
-|directory|parts/oobb_part_gear_05_06_ex_40_teeth|  
-|distributors|[]|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working|  
-|id|oobb_part_gear_05_06_ex_40_teeth|  
-|id_no_class|part_gear_05_06_ex_40_teeth|  
-|id_no_size|05_06_ex_40_teeth|  
-|id_no_type|gear_05_06_ex_40_teeth|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[oobb_part_gear_05_06_ex_40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br>[Oobb Part Gear 05 06 Ex 40 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br><br>|  
-|markdown_short|[oobb_part_gear_05_06_ex_40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br><br>|  
-|md5|e9fa833cf65d7a4900ac9a8e79618e5f|  
-|md5_10|e9fa833cf6|  
-|md5_10_upper|E9FA833CF6|  
-|md5_5|e9fa8|  
-|md5_5_upper|E9FA8|  
-|md5_6|e9fa83|  
-|md5_6_alpha|94nsz|  
-|md5_6_alpha_upper|94NSZ|  
-|md5_6_upper|E9FA83|  
-|name|Oobb Part Gear 05 06 Ex 40 Teeth|  
-|name_no_class|Part Gear 05 06 Ex 40 Teeth|  
-|name_no_size|05 06 Ex 40 Teeth|  
-|name_no_size_short|05 06 Ex 40 Teeth|  
-|name_no_type|Gear 05 06 Ex 40 Teeth|  
-|oomp_key|oomp_oobb_part_gear_05_06_ex_40_teeth|  
-|oomp_word|bike nine lock|  
-|oomp_word_emoji|:bike: :nine: :lock:|  
-|oomp_word_emoji_list|[':bike:', ':nine:', ':lock:']|  
-|oomp_word_list|['bike', 'nine', 'lock']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code||  
-|short_code_upper||  
-|short_name||  
-|size|gear|  
-|size_capital|Gear|  
-|size_first_letter|g|  
-|size_first_letter_upper|G|  
-|size_only_numbers||  
-|size_only_numbers_no_zeros||  
-|size_upper|GEAR|  
-|type|part|  
-|type_capital|Part|  
-|type_first_letter|p|  
-|type_first_letter_upper|P|  
-|type_upper|PART|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| classification_capital | Oobb |  
+| classification_first_letter | o |  
+| classification_first_letter_upper | O |  
+| classification_upper | OOBB |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main | 05_06_ex_40_teeth |  
+| description_main_capital | 05 06 Ex 40 Teeth |  
+| description_main_first_letter | 0 |  
+| description_main_first_letter_upper | 0 |  
+| description_main_upper | 05_06_EX_40_TEETH |  
+| description_only_numbers | 050640 |  
+| description_only_numbers_short | 51k |  
+| description_or_color | 51k |  
+| description_or_color_upper | 51K |  
+| directory | parts/oobb_part_gear_05_06_ex_40_teeth |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working |  
+| id | oobb_part_gear_05_06_ex_40_teeth |  
+| id_no_class | part_gear_05_06_ex_40_teeth |  
+| id_no_size | 05_06_ex_40_teeth |  
+| id_no_type | gear_05_06_ex_40_teeth |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [oobb_part_gear_05_06_ex_40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br>[Oobb Part Gear 05 06 Ex 40 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br><br> |  
+| markdown_short | [oobb_part_gear_05_06_ex_40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_06_ex_40_teeth/working)<br><br> |  
+| md5 | e9fa833cf65d7a4900ac9a8e79618e5f |  
+| md5_10 | e9fa833cf6 |  
+| md5_10_upper | E9FA833CF6 |  
+| md5_5 | e9fa8 |  
+| md5_5_upper | E9FA8 |  
+| md5_6 | e9fa83 |  
+| md5_6_alpha | 94nsz |  
+| md5_6_alpha_upper | 94NSZ |  
+| md5_6_upper | E9FA83 |  
+| name | Oobb Part Gear 05 06 Ex 40 Teeth |  
+| name_no_class | Part Gear 05 06 Ex 40 Teeth |  
+| name_no_size | 05 06 Ex 40 Teeth |  
+| name_no_size_short | 05 06 Ex 40 Teeth |  
+| name_no_type | Gear 05 06 Ex 40 Teeth |  
+| oomp_key | oomp_oobb_part_gear_05_06_ex_40_teeth |  
+| oomp_word | bike nine lock |  
+| oomp_word_emoji | :bike: :nine: :lock: |  
+| oomp_word_emoji_list | [':bike:', ':nine:', ':lock:'] |  
+| oomp_word_list | ['bike', 'nine', 'lock'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
+| short_name |  |  
+| size | gear |  
+| size_capital | Gear |  
+| size_first_letter | g |  
+| size_first_letter_upper | G |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | GEAR |  
+| type | part |  
+| type_capital | Part |  
+| type_first_letter | p |  
+| type_first_letter_upper | P |  
+| type_upper | PART |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

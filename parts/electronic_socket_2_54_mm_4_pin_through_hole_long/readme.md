@@ -27,83 +27,84 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: c1835e
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color||  
-|color_capital||  
-|color_first_letter||  
-|color_first_letter_upper||  
-|color_upper||  
-|description_extra|through_hole_long|  
-|description_extra_capital|Through Hole Long|  
-|description_extra_first_letter|t|  
-|description_extra_first_letter_upper|T|  
-|description_extra_upper|THROUGH_HOLE_LONG|  
-|description_main|4_pin|  
-|description_main_capital|4 Pin|  
-|description_main_first_letter|4|  
-|description_main_first_letter_upper|4|  
-|description_main_upper|4_PIN|  
-|description_only_numbers|4|  
-|description_only_numbers_short|4|  
-|description_or_color|4|  
-|description_or_color_upper|4|  
-|directory|parts/electronic_socket_2_54_mm_4_pin_through_hole_long|  
-|distributors|[]|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working|  
-|id|electronic_socket_2_54_mm_4_pin_through_hole_long|  
-|id_no_class|socket_2_54_mm_4_pin_through_hole_long|  
-|id_no_size|4_pin_through_hole_long|  
-|id_no_type|2_54_mm_4_pin_through_hole_long|  
-|kicad_reference|CONN|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[sci14pthl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[Electronic Socket 2 54 Mm 4 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br>|  
-|markdown_short|[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br>|  
-|md5|c1835e2fbb1816dccea731b19e50eaf6|  
-|md5_10|c1835e2fbb|  
-|md5_10_upper|C1835E2FBB|  
-|md5_5|c1835|  
-|md5_5_upper|C1835|  
-|md5_6|c1835e|  
-|md5_6_alpha|7jtjy|  
-|md5_6_alpha_upper|7JTJY|  
-|md5_6_upper|C1835E|  
-|name|Electronic Socket 2 54 Mm 4 Pin Through Hole Long|  
-|name_no_class|Socket 2 54 Mm 4 Pin Through Hole Long|  
-|name_no_size|4 Pin Through Hole Long|  
-|name_no_size_short|4 Pin Through Hole Long|  
-|name_no_type|2 54 Mm 4 Pin Through Hole Long|  
-|oomp_key|oomp_electronic_socket_2_54_mm_4_pin_through_hole_long|  
-|oomp_word|doughnut lock crocodile|  
-|oomp_word_emoji|:doughnut: :lock: :crocodile:|  
-|oomp_word_emoji_list|[':doughnut:', ':lock:', ':crocodile:']|  
-|oomp_word_list|['doughnut', 'lock', 'crocodile']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|short_code|sci14pthl|  
-|short_code_upper|SCI14PTHL|  
-|size|2_54_mm|  
-|size_capital|2.54 mm|  
-|size_first_letter|2|  
-|size_first_letter_upper|2|  
-|size_only_numbers|254|  
-|size_only_numbers_no_zeros|254|  
-|size_upper|2_54_MM|  
-|type|socket|  
-|type_capital|Socket|  
-|type_first_letter|s|  
-|type_first_letter_upper|S|  
-|type_upper|SOCKET|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
+| description_extra | through_hole_long |  
+| description_extra_capital | Through Hole Long |  
+| description_extra_first_letter | t |  
+| description_extra_first_letter_upper | T |  
+| description_extra_upper | THROUGH_HOLE_LONG |  
+| description_main | 4_pin |  
+| description_main_capital | 4 Pin |  
+| description_main_first_letter | 4 |  
+| description_main_first_letter_upper | 4 |  
+| description_main_upper | 4_PIN |  
+| description_only_numbers | 4 |  
+| description_only_numbers_short | 4 |  
+| description_or_color | 4 |  
+| description_or_color_upper | 4 |  
+| directory | parts/electronic_socket_2_54_mm_4_pin_through_hole_long |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working |  
+| id | electronic_socket_2_54_mm_4_pin_through_hole_long |  
+| id_no_class | socket_2_54_mm_4_pin_through_hole_long |  
+| id_no_size | 4_pin_through_hole_long |  
+| id_no_type | 2_54_mm_4_pin_through_hole_long |  
+| kicad_reference | CONN |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[sci14pthl](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[Electronic Socket 2 54 Mm 4 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br> |  
+| markdown_short | [electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br> |  
+| md5 | c1835e2fbb1816dccea731b19e50eaf6 |  
+| md5_10 | c1835e2fbb |  
+| md5_10_upper | C1835E2FBB |  
+| md5_5 | c1835 |  
+| md5_5_upper | C1835 |  
+| md5_6 | c1835e |  
+| md5_6_alpha | 7jtjy |  
+| md5_6_alpha_upper | 7JTJY |  
+| md5_6_upper | C1835E |  
+| name | Electronic Socket 2 54 Mm 4 Pin Through Hole Long |  
+| name_no_class | Socket 2 54 Mm 4 Pin Through Hole Long |  
+| name_no_size | 4 Pin Through Hole Long |  
+| name_no_size_short | 4 Pin Through Hole Long |  
+| name_no_type | 2 54 Mm 4 Pin Through Hole Long |  
+| oomp_key | oomp_electronic_socket_2_54_mm_4_pin_through_hole_long |  
+| oomp_word | doughnut lock crocodile |  
+| oomp_word_emoji | :doughnut: :lock: :crocodile: |  
+| oomp_word_emoji_list | [':doughnut:', ':lock:', ':crocodile:'] |  
+| oomp_word_list | ['doughnut', 'lock', 'crocodile'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | sci14pthl |  
+| short_code_upper | SCI14PTHL |  
+| size | 2_54_mm |  
+| size_capital | 2.54 mm |  
+| size_first_letter | 2 |  
+| size_first_letter_upper | 2 |  
+| size_only_numbers | 254 |  
+| size_only_numbers_no_zeros | 254 |  
+| size_upper | 2_54_MM |  
+| type | socket |  
+| type_capital | Socket |  
+| type_first_letter | s |  
+| type_first_letter_upper | S |  
+| type_upper | SOCKET |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

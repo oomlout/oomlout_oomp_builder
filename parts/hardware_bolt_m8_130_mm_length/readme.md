@@ -27,162 +27,163 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6: 0e55b0
 
 ### all codes 
-|key|value|  
-|classification|hardware|  
-|classification_length_1|h|  
-|classification_length_2|ha|  
-|classification_length_3|har|  
-|classification_length_4|hard|  
-|classification_length_5|hardw|  
-|classification_length_6|hardwa|  
-|classification_name|Hardware|  
-|classification_no_space_length_1|h|  
-|classification_no_space_length_2|ha|  
-|classification_no_space_length_3|har|  
-|classification_no_space_length_4|hard|  
-|classification_no_space_length_5|hardw|  
-|classification_no_space_length_6|hardwa|  
-|classification_no_space_upper_length_1|H|  
-|classification_no_space_upper_length_2|HA|  
-|classification_no_space_upper_length_3|HAR|  
-|classification_no_space_upper_length_4|HARD|  
-|classification_no_space_upper_length_5|HARDW|  
-|classification_no_space_upper_length_6|HARDWA|  
-|classification_upper_length_1|H|  
-|classification_upper_length_2|HA|  
-|classification_upper_length_3|HAR|  
-|classification_upper_length_4|HARD|  
-|classification_upper_length_5|HARDW|  
-|classification_upper_length_6|HARDWA|  
-|color||  
-|color_name||  
-|description_extra||  
-|description_extra_name||  
-|description_main|130_mm_length|  
-|description_main_length_1|1|  
-|description_main_length_2|13|  
-|description_main_length_3|130|  
-|description_main_length_4|130_|  
-|description_main_length_5|130_m|  
-|description_main_length_6|130_mm|  
-|description_main_name|130 mm Length|  
-|description_main_no_space_length_1|1|  
-|description_main_no_space_length_2|13|  
-|description_main_no_space_length_3|130|  
-|description_main_no_space_length_4|130m|  
-|description_main_no_space_length_5|130mm|  
-|description_main_no_space_length_6|130mml|  
-|description_main_no_space_upper_length_1|1|  
-|description_main_no_space_upper_length_2|13|  
-|description_main_no_space_upper_length_3|130|  
-|description_main_no_space_upper_length_4|130M|  
-|description_main_no_space_upper_length_5|130MM|  
-|description_main_no_space_upper_length_6|130MML|  
-|description_main_upper_length_1|1|  
-|description_main_upper_length_2|13|  
-|description_main_upper_length_3|130|  
-|description_main_upper_length_4|130_|  
-|description_main_upper_length_5|130_M|  
-|description_main_upper_length_6|130_MM|  
-|directory|parts/hardware_bolt_m8_130_mm_length|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_130_mm_length|  
-|id|hardware_bolt_m8_130_mm_length|  
-|id_no_class|bolt_m8_130_mm_length|  
-|id_no_color|130mmlength|  
-|id_no_size|130_mm_length|  
-|id_no_type|m8_130_mm_length|  
-|manufacturer||  
-|manufacturer_name||  
-|md5|0e55b03a318ee6ddf73a114a1c01fe85|  
-|md5_10|0e55b03a31|  
-|md5_10_upper|0E55B03A31|  
-|md5_5|0e55b|  
-|md5_5_upper|0E55B|  
-|md5_6|0e55b0|  
-|md5_6_alpha|k4vk|  
-|md5_6_alpha_upper|K4VK|  
-|md5_6_upper|0E55B0|  
-|name|Hardware Bolt M8 130 mm Length|  
-|name_no_class|Bolt M8 130 mm Length|  
-|name_no_color|130mmlength|  
-|name_no_size|130 mm Length|  
-|name_no_type|M8 130 mm Length|  
-|oomlout_bolt_color||  
-|oomlout_bolt_head_type|Bolt|  
-|oomlout_bolt_head_type_diagram|head_type_diagram.png|  
-|oomlout_bolt_length|130 mm|  
-|oomlout_bolt_length_no_unit|130|  
-|oomlout_bolt_md5_6_alpha_first_3|k4v|  
-|oomlout_bolt_md5_6_alpha_first_3_upper|K4V|  
-|oomlout_bolt_md5_6_alpha_last_3|k|  
-|oomlout_bolt_md5_6_alpha_last_3_upper|K|  
-|oomlout_bolt_md5_6_first_3|0e5|  
-|oomlout_bolt_md5_6_first_3_upper|0E5|  
-|oomlout_bolt_md5_6_last_3|5b0|  
-|oomlout_bolt_md5_6_last_3_upper|5B0|  
-|oomlout_bolt_name|Bolt M8X130 mm  (Bolt)|  
-|oomlout_bolt_size|M8|  
-|oomlout_bolt_type|Bolt|  
-|oomlout_bolt_type_diagram_diagram|type_diagram.png|  
-|oomlout_short_code|b8m130|  
-|oomlout_short_code_upper|B8M130|  
-|oomp_key|oomp_hardware_bolt_m8_130_mm_length|  
-|oomp_word|cupid dolphin crown|  
-|oomp_word_emoji|:cupid: :dolphin: :crown:|  
-|oomp_word_emoji_list|[':cupid:', ':dolphin:', ':crown:']|  
-|oomp_word_list|['cupid', 'dolphin', 'crown']|  
-|part_number||  
-|part_number_name||  
-|size|m8|  
-|size_length_1|m|  
-|size_length_2|m8|  
-|size_length_3|m8|  
-|size_length_4|m8|  
-|size_length_5|m8|  
-|size_length_6|m8|  
-|size_name|M8|  
-|size_no_space_length_1|m|  
-|size_no_space_length_2|m8|  
-|size_no_space_length_3|m8|  
-|size_no_space_length_4|m8|  
-|size_no_space_length_5|m8|  
-|size_no_space_length_6|m8|  
-|size_no_space_upper_length_1|M|  
-|size_no_space_upper_length_2|M8|  
-|size_no_space_upper_length_3|M8|  
-|size_no_space_upper_length_4|M8|  
-|size_no_space_upper_length_5|M8|  
-|size_no_space_upper_length_6|M8|  
-|size_upper_length_1|M|  
-|size_upper_length_2|M8|  
-|size_upper_length_3|M8|  
-|size_upper_length_4|M8|  
-|size_upper_length_5|M8|  
-|size_upper_length_6|M8|  
-|type|bolt|  
-|type_length_1|b|  
-|type_length_2|bo|  
-|type_length_3|bol|  
-|type_length_4|bolt|  
-|type_length_5|bolt|  
-|type_length_6|bolt|  
-|type_name|Bolt|  
-|type_no_space_length_1|b|  
-|type_no_space_length_2|bo|  
-|type_no_space_length_3|bol|  
-|type_no_space_length_4|bolt|  
-|type_no_space_length_5|bolt|  
-|type_no_space_length_6|bolt|  
-|type_no_space_upper_length_1|B|  
-|type_no_space_upper_length_2|BO|  
-|type_no_space_upper_length_3|BOL|  
-|type_no_space_upper_length_4|BOLT|  
-|type_no_space_upper_length_5|BOLT|  
-|type_no_space_upper_length_6|BOLT|  
-|type_upper_length_1|B|  
-|type_upper_length_2|BO|  
-|type_upper_length_3|BOL|  
-|type_upper_length_4|BOLT|  
-|type_upper_length_5|BOLT|  
-|type_upper_length_6|BOLT|  
-|files|['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | hardware |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
+| color |  |  
+| color_name |  |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 130_mm_length |  
+| description_main_length_1 | 1 |  
+| description_main_length_2 | 13 |  
+| description_main_length_3 | 130 |  
+| description_main_length_4 | 130_ |  
+| description_main_length_5 | 130_m |  
+| description_main_length_6 | 130_mm |  
+| description_main_name | 130 mm Length |  
+| description_main_no_space_length_1 | 1 |  
+| description_main_no_space_length_2 | 13 |  
+| description_main_no_space_length_3 | 130 |  
+| description_main_no_space_length_4 | 130m |  
+| description_main_no_space_length_5 | 130mm |  
+| description_main_no_space_length_6 | 130mml |  
+| description_main_no_space_upper_length_1 | 1 |  
+| description_main_no_space_upper_length_2 | 13 |  
+| description_main_no_space_upper_length_3 | 130 |  
+| description_main_no_space_upper_length_4 | 130M |  
+| description_main_no_space_upper_length_5 | 130MM |  
+| description_main_no_space_upper_length_6 | 130MML |  
+| description_main_upper_length_1 | 1 |  
+| description_main_upper_length_2 | 13 |  
+| description_main_upper_length_3 | 130 |  
+| description_main_upper_length_4 | 130_ |  
+| description_main_upper_length_5 | 130_M |  
+| description_main_upper_length_6 | 130_MM |  
+| directory | parts/hardware_bolt_m8_130_mm_length |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_130_mm_length |  
+| id | hardware_bolt_m8_130_mm_length |  
+| id_no_class | bolt_m8_130_mm_length |  
+| id_no_color | 130mmlength |  
+| id_no_size | 130_mm_length |  
+| id_no_type | m8_130_mm_length |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 0e55b03a318ee6ddf73a114a1c01fe85 |  
+| md5_10 | 0e55b03a31 |  
+| md5_10_upper | 0E55B03A31 |  
+| md5_5 | 0e55b |  
+| md5_5_upper | 0E55B |  
+| md5_6 | 0e55b0 |  
+| md5_6_alpha | k4vk |  
+| md5_6_alpha_upper | K4VK |  
+| md5_6_upper | 0E55B0 |  
+| name | Hardware Bolt M8 130 mm Length |  
+| name_no_class | Bolt M8 130 mm Length |  
+| name_no_color | 130mmlength |  
+| name_no_size | 130 mm Length |  
+| name_no_type | M8 130 mm Length |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_head_type_diagram | head_type_diagram.png |  
+| oomlout_bolt_length | 130 mm |  
+| oomlout_bolt_length_no_unit | 130 |  
+| oomlout_bolt_md5_6_alpha_first_3 | k4v |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | K4V |  
+| oomlout_bolt_md5_6_alpha_last_3 | k |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | K |  
+| oomlout_bolt_md5_6_first_3 | 0e5 |  
+| oomlout_bolt_md5_6_first_3_upper | 0E5 |  
+| oomlout_bolt_md5_6_last_3 | 5b0 |  
+| oomlout_bolt_md5_6_last_3_upper | 5B0 |  
+| oomlout_bolt_name | Bolt M8X130 mm  (Bolt) |  
+| oomlout_bolt_size | M8 |  
+| oomlout_bolt_type | Bolt |  
+| oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_short_code | b8m130 |  
+| oomlout_short_code_upper | B8M130 |  
+| oomp_key | oomp_hardware_bolt_m8_130_mm_length |  
+| oomp_word | cupid dolphin crown |  
+| oomp_word_emoji | :cupid: :dolphin: :crown: |  
+| oomp_word_emoji_list | [':cupid:', ':dolphin:', ':crown:'] |  
+| oomp_word_list | ['cupid', 'dolphin', 'crown'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | m8 |  
+| size_length_1 | m |  
+| size_length_2 | m8 |  
+| size_length_3 | m8 |  
+| size_length_4 | m8 |  
+| size_length_5 | m8 |  
+| size_length_6 | m8 |  
+| size_name | M8 |  
+| size_no_space_length_1 | m |  
+| size_no_space_length_2 | m8 |  
+| size_no_space_length_3 | m8 |  
+| size_no_space_length_4 | m8 |  
+| size_no_space_length_5 | m8 |  
+| size_no_space_length_6 | m8 |  
+| size_no_space_upper_length_1 | M |  
+| size_no_space_upper_length_2 | M8 |  
+| size_no_space_upper_length_3 | M8 |  
+| size_no_space_upper_length_4 | M8 |  
+| size_no_space_upper_length_5 | M8 |  
+| size_no_space_upper_length_6 | M8 |  
+| size_upper_length_1 | M |  
+| size_upper_length_2 | M8 |  
+| size_upper_length_3 | M8 |  
+| size_upper_length_4 | M8 |  
+| size_upper_length_5 | M8 |  
+| size_upper_length_6 | M8 |  
+| type | bolt |  
+| type_length_1 | b |  
+| type_length_2 | bo |  
+| type_length_3 | bol |  
+| type_length_4 | bolt |  
+| type_length_5 | bolt |  
+| type_length_6 | bolt |  
+| type_name | Bolt |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | bo |  
+| type_no_space_length_3 | bol |  
+| type_no_space_length_4 | bolt |  
+| type_no_space_length_5 | bolt |  
+| type_no_space_length_6 | bolt |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BO |  
+| type_no_space_upper_length_3 | BOL |  
+| type_no_space_upper_length_4 | BOLT |  
+| type_no_space_upper_length_5 | BOLT |  
+| type_no_space_upper_length_6 | BOLT |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BO |  
+| type_upper_length_3 | BOL |  
+| type_upper_length_4 | BOLT |  
+| type_upper_length_5 | BOLT |  
+| type_upper_length_6 | BOLT |  
+| files | ['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml'] |  

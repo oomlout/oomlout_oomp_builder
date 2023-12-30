@@ -27,88 +27,89 @@ A common breakout format for a stepper motor driver
 * md5_6: 6c94da
 
 ### all codes 
-|key|value|  
-|classification|electronic|  
-|classification_capital|Electronic|  
-|classification_first_letter|e|  
-|classification_first_letter_upper|E|  
-|classification_upper|ELECTRONIC|  
-|color|motor_driver|  
-|color_capital|Motor Driver|  
-|color_first_letter|m|  
-|color_first_letter_upper|M|  
-|color_upper|MOTOR_DRIVER|  
-|description|A common breakout format for a stepper motor driver|  
-|description_extra||  
-|description_extra_capital||  
-|description_extra_first_letter||  
-|description_extra_first_letter_upper||  
-|description_extra_upper||  
-|description_main|stepper_motor|  
-|description_main_capital|Stepper Motor|  
-|description_main_first_letter|s|  
-|description_main_first_letter_upper|S|  
-|description_main_upper|STEPPER_MOTOR|  
-|description_only_numbers||  
-|description_only_numbers_short| |  
-|description_or_color|M |  
-|description_or_color_upper|M |  
-|directory|parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor|  
-|distributors|[]|  
-|footprint|[{'directory': 'oomlout_oomp_footprint_bot/footprints/christianlerche_lerchetech_lerche_pololu_a4988//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988', 'note': 'source footprint christianlerche_lerchetech_lerche_pololu_a4988', 'oomp_key': 'oomp_christianlerche_lerchetech_lerche_pololu_a4988'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor'}]|  
-|github_link|https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working|  
-|id|electronic_breakout_board_step_stick_motor_driver_stepper_motor|  
-|id_no_class|breakout_board_step_stick_motor_driver_stepper_motor|  
-|id_no_size|motor_driver_stepper_motor|  
-|id_no_type|step_stick_motor_driver_stepper_motor|  
-|kicad_reference|BB|  
-|manufacturer||  
-|manufacturer_capital||  
-|manufacturer_first_letter||  
-|manufacturer_first_letter_upper||  
-|manufacturer_upper||  
-|manufacturers|[]|  
-|markdown_full|[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbssmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>|  
-|markdown_short|[electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br>|  
-|md5|6c94dab5276260f88ab0eabadd66118c|  
-|md5_10|6c94dab527|  
-|md5_10_upper|6C94DAB527|  
-|md5_5|6c94d|  
-|md5_5_upper|6C94D|  
-|md5_6|6c94da|  
-|md5_6_alpha|48iqi|  
-|md5_6_alpha_upper|48IQI|  
-|md5_6_upper|6C94DA|  
-|name|Electronic Breakout Board Step Stick Motor Driver Stepper Motor|  
-|name_no_class|Breakout Board Step Stick Motor Driver Stepper Motor|  
-|name_no_size|Motor Driver Stepper Motor|  
-|name_no_size_short|Motor Driver Stepper Motor|  
-|name_no_type|Step Stick Motor Driver Stepper Motor|  
-|notes|[]|  
-|oomp_key|oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor|  
-|oomp_word|blossom microscope hotel|  
-|oomp_word_emoji|:blossom: :microscope: :hotel:|  
-|oomp_word_emoji_list|[':blossom:', ':microscope:', ':hotel:']|  
-|oomp_word_list|['blossom', 'microscope', 'hotel']|  
-|part_number||  
-|part_number_capital||  
-|part_number_first_letter||  
-|part_number_first_letter_upper||  
-|part_number_upper||  
-|pins|{'pin_1': {'name': 'en', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'vdd', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': '1b', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': '1a', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': '2a', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': '2b', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'gnd', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'vmot', 'number': '16', 'type': 'signal'}, 'pin_2': {'name': 'ms1', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'ms2', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'ms3', 'number': '4', 'type': 'power'}, 'pin_5': {'name': 'rst', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'slp', 'number': '6', 'type': 'signal'}, 'pin_7': {'name': 'step', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'dir', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'signal'}}|  
-|short_code|bbssmdsm|  
-|short_code_upper|BBSSMDSM|  
-|short_name||  
-|size|step_stick|  
-|size_capital|Step Stick|  
-|size_first_letter|s|  
-|size_first_letter_upper|S|  
-|size_only_numbers||  
-|size_only_numbers_no_zeros||  
-|size_upper|STEP_STICK|  
-|type|breakout_board|  
-|type_capital|Breakout Board|  
-|type_first_letter|b|  
-|type_first_letter_upper|B|  
-|type_upper|BREAKOUT_BOARD|  
-|files|['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml']|  
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
+| color | motor_driver |  
+| color_capital | Motor Driver |  
+| color_first_letter | m |  
+| color_first_letter_upper | M |  
+| color_upper | MOTOR_DRIVER |  
+| description | A common breakout format for a stepper motor driver |  
+| description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
+| description_main | stepper_motor |  
+| description_main_capital | Stepper Motor |  
+| description_main_first_letter | s |  
+| description_main_first_letter_upper | S |  
+| description_main_upper | STEPPER_MOTOR |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | M  |  
+| description_or_color_upper | M  |  
+| directory | parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor |  
+| distributors | [] |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/christianlerche_lerchetech_lerche_pololu_a4988//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/christianlerche_lerchetech_lerche_pololu_a4988', 'note': 'source footprint christianlerche_lerchetech_lerche_pololu_a4988', 'oomp_key': 'oomp_christianlerche_lerchetech_lerche_pololu_a4988'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_bbssmdsm_electronic_breakout_board_step_stick_motor_driver_stepper_motor'}] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working |  
+| id | electronic_breakout_board_step_stick_motor_driver_stepper_motor |  
+| id_no_class | breakout_board_step_stick_motor_driver_stepper_motor |  
+| id_no_size | motor_driver_stepper_motor |  
+| id_no_type | step_stick_motor_driver_stepper_motor |  
+| kicad_reference | BB |  
+| manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[bbssmdsm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br>[Electronic Breakout Board Step Stick Motor Driver Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> |  
+| markdown_short | [electronic_breakout_board_step_stick_motor_driver_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_step_stick_motor_driver_stepper_motor/working)<br><br> |  
+| md5 | 6c94dab5276260f88ab0eabadd66118c |  
+| md5_10 | 6c94dab527 |  
+| md5_10_upper | 6C94DAB527 |  
+| md5_5 | 6c94d |  
+| md5_5_upper | 6C94D |  
+| md5_6 | 6c94da |  
+| md5_6_alpha | 48iqi |  
+| md5_6_alpha_upper | 48IQI |  
+| md5_6_upper | 6C94DA |  
+| name | Electronic Breakout Board Step Stick Motor Driver Stepper Motor |  
+| name_no_class | Breakout Board Step Stick Motor Driver Stepper Motor |  
+| name_no_size | Motor Driver Stepper Motor |  
+| name_no_size_short | Motor Driver Stepper Motor |  
+| name_no_type | Step Stick Motor Driver Stepper Motor |  
+| notes | [] |  
+| oomp_key | oomp_electronic_breakout_board_step_stick_motor_driver_stepper_motor |  
+| oomp_word | blossom microscope hotel |  
+| oomp_word_emoji | :blossom: :microscope: :hotel: |  
+| oomp_word_emoji_list | [':blossom:', ':microscope:', ':hotel:'] |  
+| oomp_word_list | ['blossom', 'microscope', 'hotel'] |  
+| part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| pins | {'pin_1': {'name': 'en', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'vdd', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': '1b', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': '1a', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': '2a', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': '2b', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'gnd', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'vmot', 'number': '16', 'type': 'signal'}, 'pin_2': {'name': 'ms1', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'ms2', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'ms3', 'number': '4', 'type': 'power'}, 'pin_5': {'name': 'rst', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'slp', 'number': '6', 'type': 'signal'}, 'pin_7': {'name': 'step', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'dir', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'signal'}} |  
+| short_code | bbssmdsm |  
+| short_code_upper | BBSSMDSM |  
+| short_name |  |  
+| size | step_stick |  
+| size_capital | Step Stick |  
+| size_first_letter | s |  
+| size_first_letter_upper | S |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | STEP_STICK |  
+| type | breakout_board |  
+| type_capital | Breakout Board |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
+| type_upper | BREAKOUT_BOARD |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
