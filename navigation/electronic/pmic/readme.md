@@ -1,5 +1,5 @@
 * [sot_223](sot_223)
-  * [linear](/sot_223/linear)
+  * [linear](sot_223/linear)
     * [1117](sot_223/linear/1117)
       * [1_5_volt](sot_223/linear/1117/1_5_volt)
       * [1_8_volt](sot_223/linear/1117/1_8_volt)
