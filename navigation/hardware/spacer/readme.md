@@ -1,5 +1,5 @@
 * [m3_id_7_mm_od](m3_id_7_mm_od)
-  * [nylon_white](/m3_id_7_mm_od/nylon_white)
+  * [nylon_white](m3_id_7_mm_od/nylon_white)
     * [10_mm_length](m3_id_7_mm_od/nylon_white/10_mm_length)
     * [12_mm_length](m3_id_7_mm_od/nylon_white/12_mm_length)
     * [15_mm_length](m3_id_7_mm_od/nylon_white/15_mm_length)
