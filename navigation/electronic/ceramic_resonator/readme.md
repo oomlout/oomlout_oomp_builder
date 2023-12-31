@@ -1,4 +1,4 @@
-* [3213](/3213)
+* [3213](3213)
   * [3_pin_ground_pin_2](/3213/3_pin_ground_pin_2)
     * [12_mega_hertz](3213/3_pin_ground_pin_2/12_mega_hertz)
     * [16_mega_hertz](3213/3_pin_ground_pin_2/16_mega_hertz)

@@ -1,4 +1,4 @@
-* [2_54_mm](/2_54_mm)
+* [2_54_mm](2_54_mm)
   * [black](/2_54_mm/black)
     * [10_pin](2_54_mm/black/10_pin)
       * [dupont](2_54_mm/black/10_pin/dupont)

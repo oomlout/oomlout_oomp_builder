@@ -1,4 +1,4 @@
-* [black](/black)
+* [black](black)
   * [10_mm_length](/black/10_mm_length)
     * [phillips_head](black/10_mm_length/phillips_head)
   * [3_mm_length](/black/3_mm_length)

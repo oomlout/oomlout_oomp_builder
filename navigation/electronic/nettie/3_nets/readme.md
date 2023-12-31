@@ -1,2 +1,2 @@
-* [smd](/smd)
-* [through_hole](/through_hole)
+* [smd](smd)
+* [through_hole](through_hole)

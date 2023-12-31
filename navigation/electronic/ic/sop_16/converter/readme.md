@@ -1,4 +1,4 @@
-* [usb_to_serial_converter](/usb_to_serial_converter)
+* [usb_to_serial_converter](usb_to_serial_converter)
   * [wch](/usb_to_serial_converter/wch)
     * [ch340b](usb_to_serial_converter/wch/ch340b)
     * [ch340c](usb_to_serial_converter/wch/ch340c)

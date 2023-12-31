@@ -1,4 +1,4 @@
-* [nylon_white](/nylon_white)
+* [nylon_white](nylon_white)
   * [10_mm_length](/nylon_white/10_mm_length)
   * [12_mm_length](/nylon_white/12_mm_length)
   * [15_mm_length](/nylon_white/15_mm_length)

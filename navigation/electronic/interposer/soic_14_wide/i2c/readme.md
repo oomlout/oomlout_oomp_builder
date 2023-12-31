@@ -1,2 +1,2 @@
-* [helicopter](/helicopter)
-* [landing](/landing)
+* [helicopter](helicopter)
+* [landing](landing)

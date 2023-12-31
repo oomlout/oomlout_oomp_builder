@@ -1,4 +1,4 @@
-* [part](/part)
+* [part](part)
   * [bearing](/part/bearing)
     * [hardware_bearing_6701](part/bearing/hardware_bearing_6701)
     * [hardware_bearing_6702](part/bearing/hardware_bearing_6702)

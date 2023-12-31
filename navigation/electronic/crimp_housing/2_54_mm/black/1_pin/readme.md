@@ -1,1 +1,1 @@
-* [dupont](/dupont)
+* [dupont](dupont)

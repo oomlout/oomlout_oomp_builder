@@ -1,4 +1,4 @@
-* [black](/black)
+* [black](black)
   * [10_pin](/black/10_pin)
     * [dupont](black/10_pin/dupont)
   * [11_pin](/black/11_pin)

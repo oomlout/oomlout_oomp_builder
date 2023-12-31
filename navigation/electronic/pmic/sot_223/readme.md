@@ -1,4 +1,4 @@
-* [linear](/linear)
+* [linear](linear)
   * [1117](/linear/1117)
     * [1_5_volt](linear/1117/1_5_volt)
     * [1_8_volt](linear/1117/1_8_volt)

@@ -1,1 +1,1 @@
-* [penny](/penny)
+* [penny](penny)

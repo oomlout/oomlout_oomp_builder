@@ -1,1 +1,1 @@
-* [satco](/satco)
+* [satco](satco)

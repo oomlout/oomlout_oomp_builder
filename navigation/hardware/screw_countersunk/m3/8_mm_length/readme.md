@@ -1,1 +1,1 @@
-* [pozidrive_head](/pozidrive_head)
+* [pozidrive_head](pozidrive_head)

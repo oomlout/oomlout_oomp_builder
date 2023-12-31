@@ -1,4 +1,4 @@
-* [black](/black)
+* [black](black)
   * [100_mm_length](/black/100_mm_length)
     * [hex_head](black/100_mm_length/hex_head)
   * [10_mm_length](/black/10_mm_length)

@@ -1,2 +1,2 @@
-* [flanged](/flanged)
-* [locking](/locking)
+* [flanged](flanged)
+* [locking](locking)
