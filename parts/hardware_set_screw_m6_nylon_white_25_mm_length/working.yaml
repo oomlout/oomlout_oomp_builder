@@ -118,8 +118,8 @@ oomlout_bolt_name: Set Screw M6X25 mm  (Bolt)
 oomlout_bolt_size: M6
 oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: ss6w25
-oomlout_short_code_upper: SS6W25
+oomlout_short_code: ss6nw25
+oomlout_short_code_upper: SS6NW25
 oomp_key: oomp_hardware_set_screw_m6_nylon_white_25_mm_length
 oomp_word: palm_tree spaghetti melon
 oomp_word_emoji: ':palm_tree: :spaghetti: :melon:'

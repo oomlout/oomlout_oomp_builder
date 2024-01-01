@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ss6w30
+* short_code: ss6nw30
 * oomp_word: ocean kissing car
 * oomp_word_emoji :ocean: :kissing: :car:
 * md5_6_alpha: 1wuzv
@@ -149,8 +149,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size | M6 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | ss6w30 |  
-| oomlout_short_code_upper | SS6W30 |  
+| oomlout_short_code | ss6nw30 |  
+| oomlout_short_code_upper | SS6NW30 |  
 | oomp_key | oomp_hardware_set_screw_m6_nylon_white_30_mm_length |  
 | oomp_word | ocean kissing car |  
 | oomp_word_emoji | :ocean: :kissing: :car: |  
@@ -210,4 +210,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
-| files | ['base.yaml', 'head_type_diagram.png', 'type_diagram.png', 'working.yaml'] |  
+| files | ['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml'] |  

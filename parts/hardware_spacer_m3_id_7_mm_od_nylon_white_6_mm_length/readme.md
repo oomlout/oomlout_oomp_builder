@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sp3x7w6
+* short_code: sp3x7nw6
 * oomp_word: thumbsdown cloud thumbsdown
 * oomp_word_emoji :thumbsdown: :cloud: :thumbsdown:
 * md5_6_alpha: wjkn
@@ -150,8 +150,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size_long | M3X7 |  
 | oomlout_bolt_type | Spacer |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | sp3x7w6 |  
-| oomlout_short_code_upper | SP3X7W6 |  
+| oomlout_short_code | sp3x7nw6 |  
+| oomlout_short_code_upper | SP3X7NW6 |  
 | oomp_key | oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length |  
 | oomp_word | thumbsdown cloud thumbsdown |  
 | oomp_word_emoji | :thumbsdown: :cloud: :thumbsdown: |  

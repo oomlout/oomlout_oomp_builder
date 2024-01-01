@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: so3m20
 * oomp_word: santa recycle kissing
 * oomp_word_emoji :santa: :recycle: :kissing:
 * md5_6_alpha: 4n56t
@@ -132,6 +132,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | 20mmlengthnutandnut |  
 | name_no_size | 20 mm Length Nut And Nut |  
 | name_no_type | M3 20 mm Length Nut And Nut |  
+| oomlout_short_code | so3m20 |  
+| oomlout_short_code_upper | SO3M20 |  
 | oomp_key | oomp_hardware_standoff_m3_20_mm_length_nut_and_nut |  
 | oomp_word | santa recycle kissing |  
 | oomp_word_emoji | :santa: :recycle: :kissing: |  
@@ -191,4 +193,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | STAN |  
 | type_upper_length_5 | STAND |  
 | type_upper_length_6 | STANDO |  
-| files | ['base.yaml', 'working.yaml'] |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

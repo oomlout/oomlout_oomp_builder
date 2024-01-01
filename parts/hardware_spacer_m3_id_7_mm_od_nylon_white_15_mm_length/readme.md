@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sp3x7w15
+* short_code: sp3x7nw15
 * oomp_word: lipstick wrench ear
 * oomp_word_emoji :lipstick: :wrench: :ear:
 * md5_6_alpha: 6njfp
@@ -150,8 +150,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size_long | M3X7 |  
 | oomlout_bolt_type | Spacer |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | sp3x7w15 |  
-| oomlout_short_code_upper | SP3X7W15 |  
+| oomlout_short_code | sp3x7nw15 |  
+| oomlout_short_code_upper | SP3X7NW15 |  
 | oomp_key | oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_15_mm_length |  
 | oomp_word | lipstick wrench ear |  
 | oomp_word_emoji | :lipstick: :wrench: :ear: |  
