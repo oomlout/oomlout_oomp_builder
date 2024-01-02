@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: ms3w20p
+* short_code: ms3nw20p
 * oomp_word: office bowling tennis
 * oomp_word_emoji :office: :bowling: :tennis:
 * md5_6_alpha: 8eufs
@@ -156,8 +156,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | 20 mm Length Phillips Head |  
 | name_no_size | Nylon White 20 mm Length Phillips Head |  
 | name_no_type | M3 Nylon White 20 mm Length Phillips Head |  
-| oomlout_short_code | ms3w20p |  
-| oomlout_short_code_upper | MS3W20P |  
+| oomlout_short_code | ms3nw20p |  
+| oomlout_short_code_upper | MS3NW20P |  
 | oomp_key | oomp_hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head |  
 | oomp_word | office bowling tennis |  
 | oomp_word_emoji | :office: :bowling: :tennis: |  
@@ -217,4 +217,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
-| files | ['base.yaml', 'working.yaml'] |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

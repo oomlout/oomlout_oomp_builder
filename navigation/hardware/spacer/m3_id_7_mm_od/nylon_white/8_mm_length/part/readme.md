@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: sp3x7w8
+* short_code: sp3x7nw8
 * oomp_word: beetle tulip angel
 * oomp_word_emoji :beetle: :tulip: :angel:
 * md5_6_alpha: 34wta
@@ -150,8 +150,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size_long | M3X7 |  
 | oomlout_bolt_type | Spacer |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | sp3x7w8 |  
-| oomlout_short_code_upper | SP3X7W8 |  
+| oomlout_short_code | sp3x7nw8 |  
+| oomlout_short_code_upper | SP3X7NW8 |  
 | oomp_key | oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_8_mm_length |  
 | oomp_word | beetle tulip angel |  
 | oomp_word_emoji | :beetle: :tulip: :angel: |  
