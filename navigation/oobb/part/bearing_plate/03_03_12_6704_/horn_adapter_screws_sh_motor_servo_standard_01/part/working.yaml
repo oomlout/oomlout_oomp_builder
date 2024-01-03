@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: horn_adapter_screws_sh_motor_servo_standard_01
+description_extra_capital: Horn Adapter Screws Sh Motor Servo Standard 01
+description_extra_first_letter: h
+description_extra_first_letter_upper: H
+description_extra_upper: HORN_ADAPTER_SCREWS_SH_MOTOR_SERVO_STANDARD_01
+description_main: '03_03_12_6704_'
+description_main_capital: '03 03.12.6704 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_03_12_6704_'
+description_only_numbers: '0303126704'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01/working
+id: oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+id_no_class: part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+id_no_size: 03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+id_no_type: bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01/working)<br>[Oobb
+    Part Bearing Plate 03 03 12 6704  Horn Adapter Screws Sh Motor Servo Standard
+    01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01/working)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01/working)<br><br>'
+md5: 251453fee1f158c00d2847ac833a905b
+md5_10: 251453fee1
+md5_10_upper: 251453FEE1
+md5_5: '25145'
+md5_5_upper: '25145'
+md5_6: '251453'
+md5_6_alpha: 1g30z
+md5_6_alpha_upper: 1G30Z
+md5_6_upper: '251453'
+name: Oobb Part Bearing Plate 03 03 12 6704  Horn Adapter Screws Sh Motor Servo Standard
+    01
+name_no_class: Part Bearing Plate 03 03 12 6704  Horn Adapter Screws Sh Motor Servo
+    Standard 01
+name_no_size: 03 03 12 6704  Horn Adapter Screws Sh Motor Servo Standard 01
+name_no_size_short: 03 03 12 6704  Horn Adapter Screws Sh Motor Servo Standard 01
+name_no_type: Bearing Plate 03 03 12 6704  Horn Adapter Screws Sh Motor Servo Standard
+    01
+oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6704__horn_adapter_screws_sh_motor_servo_standard_01
+oomp_word: ear fire fish
+oomp_word_emoji: ':ear: :fire: :fish:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':fire:'
+- ':fish:'
+oomp_word_list:
+- ear
+- fire
+- fish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate
+size_capital: Bearing Plate
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

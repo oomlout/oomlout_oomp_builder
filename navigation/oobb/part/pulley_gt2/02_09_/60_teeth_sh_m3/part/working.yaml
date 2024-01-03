@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 60_teeth_sh_m3
+description_extra_capital: 60 Teeth Sh M3
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 60_TEETH_SH_M3
+description_main: 02_09_
+description_main_capital: '02 09 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 02_09_
+description_only_numbers: 0209
+description_only_numbers_short: '209'
+description_or_color: '209'
+description_or_color_upper: '209'
+directory: parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3/working
+id: oobb_part_pulley_gt2_02_09__60_teeth_sh_m3
+id_no_class: part_pulley_gt2_02_09__60_teeth_sh_m3
+id_no_size: 02_09__60_teeth_sh_m3
+id_no_type: pulley_gt2_02_09__60_teeth_sh_m3
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_02_09__60_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3/working)<br>[Oobb
+    Part Pulley Gt2 02 09  60 Teeth Sh M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3/working)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_02_09__60_teeth_sh_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_sh_m3/working)<br><br>'
+md5: 23370e01ecb75709773ff13715be8db4
+md5_10: 23370e01ec
+md5_10_upper: 23370E01EC
+md5_5: '23370'
+md5_5_upper: '23370'
+md5_6: 23370e
+md5_6_alpha: 1dgr2
+md5_6_alpha_upper: 1DGR2
+md5_6_upper: 23370E
+name: Oobb Part Pulley Gt2 02 09  60 Teeth Sh M3
+name_no_class: Part Pulley Gt2 02 09  60 Teeth Sh M3
+name_no_size: 02 09  60 Teeth Sh M3
+name_no_size_short: 02 09  60 Teeth Sh M3
+name_no_type: Pulley Gt2 02 09  60 Teeth Sh M3
+oomp_key: oomp_oobb_part_pulley_gt2_02_09__60_teeth_sh_m3
+oomp_word: kiss wolf cupid
+oomp_word_emoji: ':kiss: :wolf: :cupid:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':wolf:'
+- ':cupid:'
+oomp_word_list:
+- kiss
+- wolf
+- cupid
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

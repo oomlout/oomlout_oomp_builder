@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: corner_cube
+description_extra_capital: Corner Cube
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CORNER_CUBE
+description_main: 02_02_29_
+description_main_capital: '02 02.29 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 02_02_29_
+description_only_numbers: 020229
+description_only_numbers_short: 20k
+description_or_color: 20k
+description_or_color_upper: 20K
+directory: parts/oobb_part_other_02_02_29__corner_cube
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working
+id: oobb_part_other_02_02_29__corner_cube
+id_no_class: part_other_02_02_29__corner_cube
+id_no_size: 02_02_29__corner_cube
+id_no_type: other_02_02_29__corner_cube
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[Oobb
+    Part Other 02 02 29  Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
+markdown_short: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
+md5: 894bbfc57d6036c9781741ccafa754a6
+md5_10: 894bbfc57d
+md5_10_upper: 894BBFC57D
+md5_5: 894bb
+md5_5_upper: 894BB
+md5_6: 894bbf
+md5_6_alpha: 5curj
+md5_6_alpha_upper: 5CURJ
+md5_6_upper: 894BBF
+name: Oobb Part Other 02 02 29  Corner Cube
+name_no_class: Part Other 02 02 29  Corner Cube
+name_no_size: 02 02 29  Corner Cube
+name_no_size_short: 02 02 29  Corner Cube
+name_no_type: Other 02 02 29  Corner Cube
+oomp_key: oomp_oobb_part_other_02_02_29__corner_cube
+oomp_word: hammer penguin egg
+oomp_word_emoji: ':hammer: :penguin: :egg:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':penguin:'
+- ':egg:'
+oomp_word_list:
+- hammer
+- penguin
+- egg
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

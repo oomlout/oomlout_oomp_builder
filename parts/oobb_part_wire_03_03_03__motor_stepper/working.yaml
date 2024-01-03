@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_stepper
+description_extra_capital: Motor Stepper
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_STEPPER
+description_main: '03_03_03_'
+description_main_capital: '03 03 03 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_03_03_'
+description_only_numbers: '030303'
+description_only_numbers_short: 30k
+description_or_color: 30k
+description_or_color_upper: 30K
+directory: parts/oobb_part_wire_03_03_03__motor_stepper
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03__motor_stepper/working
+id: oobb_part_wire_03_03_03__motor_stepper
+id_no_class: part_wire_03_03_03__motor_stepper
+id_no_size: 03_03_03__motor_stepper
+id_no_type: wire_03_03_03__motor_stepper
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_03_03_03__motor_stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03__motor_stepper/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03__motor_stepper/working)<br>[Oobb
+    Part Wire 03 03 03  Motor Stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03__motor_stepper/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_03_03__motor_stepper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_03__motor_stepper/working)<br><br>'
+md5: 910488fc5c212c0488d33fcc6df393ac
+md5_10: 910488fc5c
+md5_10_upper: 910488FC5C
+md5_5: '91048'
+md5_5_upper: '91048'
+md5_6: '910488'
+md5_6_alpha: 5np8o
+md5_6_alpha_upper: 5NP8O
+md5_6_upper: '910488'
+name: Oobb Part Wire 03 03 03  Motor Stepper
+name_no_class: Part Wire 03 03 03  Motor Stepper
+name_no_size: 03 03 03  Motor Stepper
+name_no_size_short: 03 03 03  Motor Stepper
+name_no_type: Wire 03 03 03  Motor Stepper
+oomp_key: oomp_oobb_part_wire_03_03_03__motor_stepper
+oomp_word: pushpin wink wrench
+oomp_word_emoji: ':pushpin: :wink: :wrench:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':wink:'
+- ':wrench:'
+oomp_word_list:
+- pushpin
+- wink
+- wrench
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 56_teeth
+description_extra_capital: 56 Teeth
+description_extra_first_letter: '5'
+description_extra_first_letter_upper: '5'
+description_extra_upper: 56_TEETH
+description_main: '07_03_'
+description_main_capital: '07 03 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '07_03_'
+description_only_numbers: '0703'
+description_only_numbers_short: '703'
+description_or_color: '703'
+description_or_color_upper: '703'
+directory: parts/oobb_part_gear_07_03__56_teeth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth/working
+id: oobb_part_gear_07_03__56_teeth
+id_no_class: part_gear_07_03__56_teeth
+id_no_size: 07_03__56_teeth
+id_no_type: gear_07_03__56_teeth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_07_03__56_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth/working)<br>[Oobb
+    Part Gear 07 03  56 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth/working)<br><br>'
+markdown_short: '[oobb_part_gear_07_03__56_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth/working)<br><br>'
+md5: 20b6e461e47ea6aebf5b42c5dcd5757d
+md5_10: 20b6e461e4
+md5_10_upper: 20B6E461E4
+md5_5: 20b6e
+md5_5_upper: 20B6E
+md5_6: 20b6e4
+md5_6_alpha: 19yas
+md5_6_alpha_upper: 19YAS
+md5_6_upper: 20B6E4
+name: Oobb Part Gear 07 03  56 Teeth
+name_no_class: Part Gear 07 03  56 Teeth
+name_no_size: 07 03  56 Teeth
+name_no_size_short: 07 03  56 Teeth
+name_no_type: Gear 07 03  56 Teeth
+oomp_key: oomp_oobb_part_gear_07_03__56_teeth
+oomp_word: skull beer anchor
+oomp_word_emoji: ':skull: :beer: :anchor:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':beer:'
+- ':anchor:'
+oomp_word_list:
+- skull
+- beer
+- anchor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

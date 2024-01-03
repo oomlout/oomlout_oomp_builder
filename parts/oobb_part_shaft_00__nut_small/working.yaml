@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: nut_small
+description_extra_capital: Nut Small
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NUT_SMALL
+description_main: '00_'
+description_main_capital: '00 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '00_'
+description_only_numbers: '00'
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_shaft_00__nut_small
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__nut_small/working
+id: oobb_part_shaft_00__nut_small
+id_no_class: part_shaft_00__nut_small
+id_no_size: 00__nut_small
+id_no_type: shaft_00__nut_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_00__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__nut_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__nut_small/working)<br>[Oobb
+    Part Shaft 00  Nut Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__nut_small/working)<br><br>'
+markdown_short: '[oobb_part_shaft_00__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__nut_small/working)<br><br>'
+md5: a6ccab429c1392b3345a9c4e2225fd40
+md5_10: a6ccab429c
+md5_10_upper: A6CCAB429C
+md5_5: a6cca
+md5_5_upper: A6CCA
+md5_6: a6ccab
+md5_6_alpha: 6iap7
+md5_6_alpha_upper: 6IAP7
+md5_6_upper: A6CCAB
+name: Oobb Part Shaft 00  Nut Small
+name_no_class: Part Shaft 00  Nut Small
+name_no_size: 00  Nut Small
+name_no_size_short: 00  Nut Small
+name_no_type: Shaft 00  Nut Small
+oomp_key: oomp_oobb_part_shaft_00__nut_small
+oomp_word: trumpet watermelon boot
+oomp_word_emoji: ':trumpet: :watermelon: :boot:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':watermelon:'
+- ':boot:'
+oomp_word_list:
+- trumpet
+- watermelon
+- boot
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

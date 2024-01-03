@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: oobb_wire
+description_extra_capital: Oobb Wire
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OOBB_WIRE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_test_oobb_wire
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire/working
+id: oobb_part_test_oobb_wire
+id_no_class: part_test_wire
+id_no_size: wire
+id_no_type: test_wire
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_test_oobb_wire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire/working)<br>[Oobb
+    Part Test Oobb Wire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire/working)<br><br>'
+markdown_short: '[oobb_part_test_oobb_wire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire/working)<br><br>'
+md5: f691cb4ae609f7b8f07d274ae5e0b529
+md5_10: f691cb4ae6
+md5_10_upper: F691CB4AE6
+md5_5: f691c
+md5_5_upper: F691C
+md5_6: f691cb
+md5_6_alpha: 9mci3
+md5_6_alpha_upper: 9MCI3
+md5_6_upper: F691CB
+name: Oobb Part Test Oobb Wire
+name_no_class: Part Test Wire
+name_no_size: Wire
+name_no_size_short: Wire
+name_no_type: Test Wire
+oomp_key: oomp_oobb_part_test_oobb_wire
+oomp_word: five pushpin grapes
+oomp_word_emoji: ':five: :pushpin: :grapes:'
+oomp_word_emoji_list:
+- ':five:'
+- ':pushpin:'
+- ':grapes:'
+oomp_word_list:
+- five
+- pushpin
+- grapes
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: test
+size_capital: Test
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEST
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

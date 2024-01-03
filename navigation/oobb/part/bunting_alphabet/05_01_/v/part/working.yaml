@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: v
+description_extra_capital: V
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: V
+description_main: '05_01_'
+description_main_capital: '05 01 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '05_01_'
+description_only_numbers: '0501'
+description_only_numbers_short: '501'
+description_or_color: '501'
+description_or_color_upper: '501'
+directory: parts/oobb_part_bunting_alphabet_05_01__v
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__v/working
+id: oobb_part_bunting_alphabet_05_01__v
+id_no_class: part_bunting_alphabet_05_01__v
+id_no_size: 05_01__v
+id_no_type: bunting_alphabet_05_01__v
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_05_01__v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__v/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__v/working)<br>[Oobb
+    Part Bunting Alphabet 05 01  V](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__v/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_05_01__v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__v/working)<br><br>'
+md5: f89dee9f2d9fa2711f9bae5f452d0191
+md5_10: f89dee9f2d
+md5_10_upper: F89DEE9F2D
+md5_5: f89de
+md5_5_upper: F89DE
+md5_6: f89dee
+md5_6_alpha: 9p81a
+md5_6_alpha_upper: 9P81A
+md5_6_upper: F89DEE
+name: Oobb Part Bunting Alphabet 05 01  V
+name_no_class: Part Bunting Alphabet 05 01  V
+name_no_size: 05 01  V
+name_no_size_short: 05 01  V
+name_no_type: Bunting Alphabet 05 01  V
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01__v
+oomp_word: seven hearts ambulance
+oomp_word_emoji: ':seven: :hearts: :ambulance:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':hearts:'
+- ':ambulance:'
+oomp_word_list:
+- seven
+- hearts
+- ambulance
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

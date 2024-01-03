@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 16_teeth_sh_motor_servo_standard_01
+description_extra_capital: 16 Teeth Sh Motor Servo Standard 01
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 16_TEETH_SH_MOTOR_SERVO_STANDARD_01
+description_main: 01_09_
+description_main_capital: '01 09 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 01_09_
+description_only_numbers: 0109
+description_only_numbers_short: '109'
+description_or_color: '109'
+description_or_color_upper: '109'
+directory: parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01/working
+id: oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+id_no_class: part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+id_no_size: 01_09__16_teeth_sh_motor_servo_standard_01
+id_no_type: pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01/working)<br>[Oobb
+    Part Pulley Gt2 01 09  16 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01/working)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01/working)<br><br>'
+md5: 6c3c3b86678c32cbcdd80ca8f78b8516
+md5_10: 6c3c3b8667
+md5_10_upper: 6C3C3B8667
+md5_5: 6c3c3
+md5_5_upper: 6C3C3
+md5_6: 6c3c3b
+md5_6_alpha: 4818b
+md5_6_alpha_upper: 4818B
+md5_6_upper: 6C3C3B
+name: Oobb Part Pulley Gt2 01 09  16 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Pulley Gt2 01 09  16 Teeth Sh Motor Servo Standard 01
+name_no_size: 01 09  16 Teeth Sh Motor Servo Standard 01
+name_no_size_short: 01 09  16 Teeth Sh Motor Servo Standard 01
+name_no_type: Pulley Gt2 01 09  16 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+oomp_word: blossom pig bear
+oomp_word_emoji: ':blossom: :pig: :bear:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':pig:'
+- ':bear:'
+oomp_word_list:
+- blossom
+- pig
+- bear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ninety_degree
+description_extra_capital: Ninety Degree
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NINETY_DEGREE
+description_main: '10_01_14_'
+description_main_capital: '10 01.14 '
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '10_01_14_'
+description_only_numbers: '100114'
+description_only_numbers_short: 100k
+description_or_color: 100k
+description_or_color_upper: 100K
+directory: parts/oobb_part_plate_10_01_14__ninety_degree
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14__ninety_degree/working
+id: oobb_part_plate_10_01_14__ninety_degree
+id_no_class: part_plate_10_01_14__ninety_degree
+id_no_size: 10_01_14__ninety_degree
+id_no_type: plate_10_01_14__ninety_degree
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_10_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14__ninety_degree/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14__ninety_degree/working)<br>[Oobb
+    Part Plate 10 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14__ninety_degree/working)<br><br>'
+markdown_short: '[oobb_part_plate_10_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_14__ninety_degree/working)<br><br>'
+md5: 63343b24c7206ea9545a6d4b6a9878a1
+md5_10: 63343b24c7
+md5_10_upper: 63343B24C7
+md5_5: '63343'
+md5_5_upper: '63343'
+md5_6: 63343b
+md5_6_alpha: 3vcjf
+md5_6_alpha_upper: 3VCJF
+md5_6_upper: 63343B
+name: Oobb Part Plate 10 01 14  Ninety Degree
+name_no_class: Part Plate 10 01 14  Ninety Degree
+name_no_size: 10 01 14  Ninety Degree
+name_no_size_short: 10 01 14  Ninety Degree
+name_no_type: Plate 10 01 14  Ninety Degree
+oomp_key: oomp_oobb_part_plate_10_01_14__ninety_degree
+oomp_word: rose mouse bear
+oomp_word_emoji: ':rose: :mouse: :bear:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':mouse:'
+- ':bear:'
+oomp_word_list:
+- rose
+- mouse
+- bear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

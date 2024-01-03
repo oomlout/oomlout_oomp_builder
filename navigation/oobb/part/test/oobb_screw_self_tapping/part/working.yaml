@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: oobb_screw_self_tapping
+description_extra_capital: Oobb Screw Self Tapping
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OOBB_SCREW_SELF_TAPPING
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_test_oobb_screw_self_tapping
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working
+id: oobb_part_test_oobb_screw_self_tapping
+id_no_class: part_test_screw_self_tapping
+id_no_size: screw_self_tapping
+id_no_type: test_screw_self_tapping
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[Oobb
+    Part Test Oobb Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
+markdown_short: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
+md5: 1f8018b7bb45465aa891e5d7373cce53
+md5_10: 1f8018b7bb
+md5_10_upper: 1F8018B7BB
+md5_5: 1f801
+md5_5_upper: 1F801
+md5_6: 1f8018
+md5_6_alpha: 188wo
+md5_6_alpha_upper: 188WO
+md5_6_upper: 1F8018
+name: Oobb Part Test Oobb Screw Self Tapping
+name_no_class: Part Test Screw Self Tapping
+name_no_size: Screw Self Tapping
+name_no_size_short: Screw Self Tapping
+name_no_type: Test Screw Self Tapping
+oomp_key: oomp_oobb_part_test_oobb_screw_self_tapping
+oomp_word: princess hourglass hand
+oomp_word_emoji: ':princess: :hourglass: :hand:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':hourglass:'
+- ':hand:'
+oomp_word_list:
+- princess
+- hourglass
+- hand
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: test
+size_capital: Test
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEST
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

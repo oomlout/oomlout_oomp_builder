@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: v
+description_extra_capital: V
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: V
+description_main: '03_01_'
+description_main_capital: '03 01 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_01_'
+description_only_numbers: '0301'
+description_only_numbers_short: '301'
+description_or_color: '301'
+description_or_color_upper: '301'
+directory: parts/oobb_part_bunting_alphabet_03_01__v
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__v/working
+id: oobb_part_bunting_alphabet_03_01__v
+id_no_class: part_bunting_alphabet_03_01__v
+id_no_size: 03_01__v
+id_no_type: bunting_alphabet_03_01__v
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_03_01__v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__v/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__v/working)<br>[Oobb
+    Part Bunting Alphabet 03 01  V](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__v/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_03_01__v](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__v/working)<br><br>'
+md5: b6da4fa55f7941be4ec68609d6bff77b
+md5_10: b6da4fa55f
+md5_10_upper: B6DA4FA55F
+md5_5: b6da4
+md5_5_upper: B6DA4
+md5_6: b6da4f
+md5_6_alpha: 74uhb
+md5_6_alpha_upper: 74UHB
+md5_6_upper: B6DA4F
+name: Oobb Part Bunting Alphabet 03 01  V
+name_no_class: Part Bunting Alphabet 03 01  V
+name_no_size: 03 01  V
+name_no_size_short: 03 01  V
+name_no_type: Bunting Alphabet 03 01  V
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01__v
+oomp_word: beer hotel ant
+oomp_word_emoji: ':beer: :hotel: :ant:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':hotel:'
+- ':ant:'
+oomp_word_list:
+- beer
+- hotel
+- ant
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

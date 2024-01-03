@@ -11,6 +11,8 @@
   * [16_mm_length](black/16_mm_length)
     * [hex_head](black/16_mm_length/hex_head)
     * [phillips_head](black/16_mm_length/phillips_head)
+  * [18_mm_length](black/18_mm_length)
+    * [phillips_head](black/18_mm_length/phillips_head)
   * [20_mm_length](black/20_mm_length)
     * [hex_head](black/20_mm_length/hex_head)
     * [phillips_head](black/20_mm_length/phillips_head)

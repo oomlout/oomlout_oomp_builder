@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: u
+description_extra_capital: U
+description_extra_first_letter: u
+description_extra_first_letter_upper: U
+description_extra_upper: U
+description_main: '13_01_'
+description_main_capital: '13 01 '
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '13_01_'
+description_only_numbers: '1301'
+description_only_numbers_short: 1k3
+description_or_color: 1k3
+description_or_color_upper: 1K3
+directory: parts/oobb_part_bunting_alphabet_13_01__u
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u/working
+id: oobb_part_bunting_alphabet_13_01__u
+id_no_class: part_bunting_alphabet_13_01__u
+id_no_size: 13_01__u
+id_no_type: bunting_alphabet_13_01__u
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_13_01__u](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u/working)<br>[Oobb
+    Part Bunting Alphabet 13 01  U](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_13_01__u](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u/working)<br><br>'
+md5: 2a7decdc085c98f32475add11ecda707
+md5_10: 2a7decdc08
+md5_10_upper: 2A7DECDC08
+md5_5: 2a7de
+md5_5_upper: 2A7DE
+md5_6: 2a7dec
+md5_6_alpha: 1noq4
+md5_6_alpha_upper: 1NOQ4
+md5_6_upper: 2A7DEC
+name: Oobb Part Bunting Alphabet 13 01  U
+name_no_class: Part Bunting Alphabet 13 01  U
+name_no_size: 13 01  U
+name_no_size_short: 13 01  U
+name_no_type: Bunting Alphabet 13 01  U
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01__u
+oomp_word: umbrella phone taxi
+oomp_word_emoji: ':umbrella: :phone: :taxi:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':phone:'
+- ':taxi:'
+oomp_word_list:
+- umbrella
+- phone
+- taxi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

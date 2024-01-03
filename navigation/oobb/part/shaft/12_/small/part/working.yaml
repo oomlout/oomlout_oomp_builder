@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: small
+description_extra_capital: Small
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SMALL
+description_main: '12_'
+description_main_capital: '12 '
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '12_'
+description_only_numbers: '12'
+description_only_numbers_short: '12'
+description_or_color: '12'
+description_or_color_upper: '12'
+directory: parts/oobb_part_shaft_12__small
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__small/working
+id: oobb_part_shaft_12__small
+id_no_class: part_shaft_12__small
+id_no_size: 12__small
+id_no_type: shaft_12__small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_12__small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__small/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__small/working)<br>[Oobb
+    Part Shaft 12  Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__small/working)<br><br>'
+markdown_short: '[oobb_part_shaft_12__small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__small/working)<br><br>'
+md5: d8e890b88dfae4e8e8a67a0f7f53e55d
+md5_10: d8e890b88d
+md5_10_upper: D8E890B88D
+md5_5: d8e89
+md5_5_upper: D8E89
+md5_6: d8e890
+md5_6_alpha: 8gols
+md5_6_alpha_upper: 8GOLS
+md5_6_upper: D8E890
+name: Oobb Part Shaft 12  Small
+name_no_class: Part Shaft 12  Small
+name_no_size: 12  Small
+name_no_size_short: 12  Small
+name_no_type: Shaft 12  Small
+oomp_key: oomp_oobb_part_shaft_12__small
+oomp_word: hospital tram scissors
+oomp_word_emoji: ':hospital: :tram: :scissors:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':tram:'
+- ':scissors:'
+oomp_word_list:
+- hospital
+- tram
+- scissors
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

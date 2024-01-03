@@ -132,6 +132,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | 25mmlengthnutandnut |  
 | name_no_size | 25 mm Length Nut And Nut |  
 | name_no_type | M3 25 mm Length Nut And Nut |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_length | 25 mm |  
+| oomlout_bolt_length_no_unit | 25 |  
+| oomlout_bolt_md5_6_alpha_first_3 | 540 |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | 540 |  
+| oomlout_bolt_md5_6_alpha_last_3 | qz |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | QZ |  
+| oomlout_bolt_md5_6_first_3 | 830 |  
+| oomlout_bolt_md5_6_first_3_upper | 830 |  
+| oomlout_bolt_md5_6_last_3 | 1cb |  
+| oomlout_bolt_md5_6_last_3_upper | 1CB |  
+| oomlout_bolt_name |  M3X25 mm  (Bolt) |  
+| oomlout_bolt_size | M3 |  
+| oomlout_bolt_type |  |  
 | oomlout_short_code | so3m25 |  
 | oomlout_short_code_upper | SO3M25 |  
 | oomp_key | oomp_hardware_standoff_m3_25_mm_length_nut_and_nut |  

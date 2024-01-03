@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: t
+description_extra_capital: T
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: T
+description_main: '05_01_'
+description_main_capital: '05 01 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '05_01_'
+description_only_numbers: '0501'
+description_only_numbers_short: '501'
+description_or_color: '501'
+description_or_color_upper: '501'
+directory: parts/oobb_part_bunting_alphabet_05_01__t
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__t/working
+id: oobb_part_bunting_alphabet_05_01__t
+id_no_class: part_bunting_alphabet_05_01__t
+id_no_size: 05_01__t
+id_no_type: bunting_alphabet_05_01__t
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_05_01__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__t/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__t/working)<br>[Oobb
+    Part Bunting Alphabet 05 01  T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__t/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_05_01__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__t/working)<br><br>'
+md5: dd7d3bd361bd19ad2657be6c2eed2465
+md5_10: dd7d3bd361
+md5_10_upper: DD7D3BD361
+md5_5: dd7d3
+md5_5_upper: DD7D3
+md5_6: dd7d3b
+md5_6_alpha: 8n48r
+md5_6_alpha_upper: 8N48R
+md5_6_upper: DD7D3B
+name: Oobb Part Bunting Alphabet 05 01  T
+name_no_class: Part Bunting Alphabet 05 01  T
+name_no_size: 05 01  T
+name_no_size_short: 05 01  T
+name_no_type: Bunting Alphabet 05 01  T
+oomp_key: oomp_oobb_part_bunting_alphabet_05_01__t
+oomp_word: stars phone bear
+oomp_word_emoji: ':stars: :phone: :bear:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':phone:'
+- ':bear:'
+oomp_word_list:
+- stars
+- phone
+- bear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

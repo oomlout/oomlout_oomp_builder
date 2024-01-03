@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: basic_basic_motor
+description_extra_capital: Basic Basic Motor
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BASIC_BASIC_MOTOR
+description_main: '03_03_12_'
+description_main_capital: '03 03.12 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_03_12_'
+description_only_numbers: '030312'
+description_only_numbers_short: 30k
+description_or_color: 30k
+description_or_color_upper: 30K
+directory: parts/oobb_part_wire_03_03_12__basic_basic_motor
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_12__basic_basic_motor/working
+id: oobb_part_wire_03_03_12__basic_basic_motor
+id_no_class: part_wire_03_03_12__basic_basic_motor
+id_no_size: 03_03_12__basic_basic_motor
+id_no_type: wire_03_03_12__basic_basic_motor
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_03_03_12__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_12__basic_basic_motor/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_12__basic_basic_motor/working)<br>[Oobb
+    Part Wire 03 03 12  Basic Basic Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_12__basic_basic_motor/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_03_12__basic_basic_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_12__basic_basic_motor/working)<br><br>'
+md5: d284ea43fa407904ca81ff85ee8db453
+md5_10: d284ea43fa
+md5_10_upper: D284EA43FA
+md5_5: d284e
+md5_5_upper: D284E
+md5_6: d284ea
+md5_6_alpha: 87pii
+md5_6_alpha_upper: 87PII
+md5_6_upper: D284EA
+name: Oobb Part Wire 03 03 12  Basic Basic Motor
+name_no_class: Part Wire 03 03 12  Basic Basic Motor
+name_no_size: 03 03 12  Basic Basic Motor
+name_no_size_short: 03 03 12  Basic Basic Motor
+name_no_type: Wire 03 03 12  Basic Basic Motor
+oomp_key: oomp_oobb_part_wire_03_03_12__basic_basic_motor
+oomp_word: pineapple key tractor
+oomp_word_emoji: ':pineapple: :key: :tractor:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':key:'
+- ':tractor:'
+oomp_word_list:
+- pineapple
+- key
+- tractor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

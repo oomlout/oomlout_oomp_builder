@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 36_teeth_sh_motor_n20
+description_extra_capital: 36 Teeth Sh Motor N20
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 36_TEETH_SH_MOTOR_N20
+description_main: '01_06_'
+description_main_capital: '01 06 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '01_06_'
+description_only_numbers: '0106'
+description_only_numbers_short: '106'
+description_or_color: '106'
+description_or_color_upper: '106'
+directory: parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20/working
+id: oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20
+id_no_class: part_pulley_gt2_01_06__36_teeth_sh_motor_n20
+id_no_size: 01_06__36_teeth_sh_motor_n20
+id_no_type: pulley_gt2_01_06__36_teeth_sh_motor_n20
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20/working)<br>[Oobb
+    Part Pulley Gt2 01 06  36 Teeth Sh Motor N20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20/working)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20/working)<br><br>'
+md5: e7c1ca03e604cda00231315c4a0974be
+md5_10: e7c1ca03e6
+md5_10_upper: E7C1CA03E6
+md5_5: e7c1c
+md5_5_upper: E7C1C
+md5_6: e7c1ca
+md5_6_alpha: 91jgq
+md5_6_alpha_upper: 91JGQ
+md5_6_upper: E7C1CA
+name: Oobb Part Pulley Gt2 01 06  36 Teeth Sh Motor N20
+name_no_class: Part Pulley Gt2 01 06  36 Teeth Sh Motor N20
+name_no_size: 01 06  36 Teeth Sh Motor N20
+name_no_size_short: 01 06  36 Teeth Sh Motor N20
+name_no_type: Pulley Gt2 01 06  36 Teeth Sh Motor N20
+oomp_key: oomp_oobb_part_pulley_gt2_01_06__36_teeth_sh_motor_n20
+oomp_word: helicopter doughnut cherries
+oomp_word_emoji: ':helicopter: :doughnut: :cherries:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':doughnut:'
+- ':cherries:'
+oomp_word_list:
+- helicopter
+- doughnut
+- cherries
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

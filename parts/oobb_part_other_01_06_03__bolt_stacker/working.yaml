@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: bolt_stacker
+description_extra_capital: Bolt Stacker
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOLT_STACKER
+description_main: '01_06_03_'
+description_main_capital: '01 06 03 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '01_06_03_'
+description_only_numbers: '010603'
+description_only_numbers_short: 11k
+description_or_color: 11k
+description_or_color_upper: 11K
+directory: parts/oobb_part_other_01_06_03__bolt_stacker
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03__bolt_stacker/working
+id: oobb_part_other_01_06_03__bolt_stacker
+id_no_class: part_other_01_06_03__bolt_stacker
+id_no_size: 01_06_03__bolt_stacker
+id_no_type: other_01_06_03__bolt_stacker
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_01_06_03__bolt_stacker](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03__bolt_stacker/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03__bolt_stacker/working)<br>[Oobb
+    Part Other 01 06 03  Bolt Stacker](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03__bolt_stacker/working)<br><br>'
+markdown_short: '[oobb_part_other_01_06_03__bolt_stacker](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_06_03__bolt_stacker/working)<br><br>'
+md5: 7ba6421d09a6b529c82b511096eb26b9
+md5_10: 7ba6421d09
+md5_10_upper: 7BA6421D09
+md5_5: 7ba64
+md5_5_upper: 7BA64
+md5_6: 7ba642
+md5_6_alpha: 4tooy
+md5_6_alpha_upper: 4TOOY
+md5_6_upper: 7BA642
+name: Oobb Part Other 01 06 03  Bolt Stacker
+name_no_class: Part Other 01 06 03  Bolt Stacker
+name_no_size: 01 06 03  Bolt Stacker
+name_no_size_short: 01 06 03  Bolt Stacker
+name_no_type: Other 01 06 03  Bolt Stacker
+oomp_key: oomp_oobb_part_other_01_06_03__bolt_stacker
+oomp_word: computer trumpet sheep
+oomp_word_emoji: ':computer: :trumpet: :sheep:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':trumpet:'
+- ':sheep:'
+oomp_word_list:
+- computer
+- trumpet
+- sheep
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

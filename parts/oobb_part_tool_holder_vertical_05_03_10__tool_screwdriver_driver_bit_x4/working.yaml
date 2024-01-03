@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_screwdriver_driver_bit_x4
+description_extra_capital: Tool Screwdriver Driver Bit X4
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_SCREWDRIVER_DRIVER_BIT_X4
+description_main: '05_03_10_'
+description_main_capital: '05 03.10 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '05_03_10_'
+description_only_numbers: '050310'
+description_only_numbers_short: 50k
+description_or_color: 50k
+description_or_color_upper: 50K
+directory: parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4/working
+id: oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+id_no_class: part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+id_no_size: 05_03_10__tool_screwdriver_driver_bit_x4
+id_no_type: tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4/working)<br>[Oobb
+    Part Tool Holder Vertical 05 03 10  Tool Screwdriver Driver Bit X4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4/working)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4/working)<br><br>'
+md5: 3dff646b44128e4cda024845c6a4bdab
+md5_10: 3dff646b44
+md5_10_upper: 3DFF646B44
+md5_5: 3dff6
+md5_5_upper: 3DFF6
+md5_6: 3dff64
+md5_6_alpha: 2f338
+md5_6_alpha_upper: 2F338
+md5_6_upper: 3DFF64
+name: Oobb Part Tool Holder Vertical 05 03 10  Tool Screwdriver Driver Bit X4
+name_no_class: Part Tool Holder Vertical 05 03 10  Tool Screwdriver Driver Bit X4
+name_no_size: 05 03 10  Tool Screwdriver Driver Bit X4
+name_no_size_short: 05 03 10  Tool Screwdriver Driver Bit X4
+name_no_type: Tool Holder Vertical 05 03 10  Tool Screwdriver Driver Bit X4
+oomp_key: oomp_oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+oomp_word: cow trident sunflower
+oomp_word_emoji: ':cow: :trident: :sunflower:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':trident:'
+- ':sunflower:'
+oomp_word_list:
+- cow
+- trident
+- sunflower
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -101,6 +101,21 @@ name_no_class: Standoff M3 6 mm Length Nut And Nut
 name_no_color: 6mmlengthnutandnut
 name_no_size: 6 mm Length Nut And Nut
 name_no_type: M3 6 mm Length Nut And Nut
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 6 mm
+oomlout_bolt_length_no_unit: '6'
+oomlout_bolt_md5_6_alpha_first_3: 9h0
+oomlout_bolt_md5_6_alpha_first_3_upper: 9H0
+oomlout_bolt_md5_6_alpha_last_3: yo
+oomlout_bolt_md5_6_alpha_last_3_upper: YO
+oomlout_bolt_md5_6_first_3: f2c
+oomlout_bolt_md5_6_first_3_upper: F2C
+oomlout_bolt_md5_6_last_3: '820'
+oomlout_bolt_md5_6_last_3_upper: '820'
+oomlout_bolt_name: ' M3X6 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
 oomlout_short_code: so3m6
 oomlout_short_code_upper: SO3M6
 oomp_key: oomp_hardware_standoff_m3_6_mm_length_nut_and_nut

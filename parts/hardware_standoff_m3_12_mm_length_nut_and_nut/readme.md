@@ -132,6 +132,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | 12mmlengthnutandnut |  
 | name_no_size | 12 mm Length Nut And Nut |  
 | name_no_type | M3 12 mm Length Nut And Nut |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_length | 12 mm |  
+| oomlout_bolt_length_no_unit | 12 |  
+| oomlout_bolt_md5_6_alpha_first_3 | 3zy |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | 3ZY |  
+| oomlout_bolt_md5_6_alpha_last_3 | j |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | J |  
+| oomlout_bolt_md5_6_first_3 | 02d |  
+| oomlout_bolt_md5_6_first_3_upper | 02D |  
+| oomlout_bolt_md5_6_last_3 | 8cb |  
+| oomlout_bolt_md5_6_last_3_upper | 8CB |  
+| oomlout_bolt_name |  M3X12 mm  (Bolt) |  
+| oomlout_bolt_size | M3 |  
+| oomlout_bolt_type |  |  
 | oomlout_short_code | so3m12 |  
 | oomlout_short_code_upper | SO3M12 |  
 | oomp_key | oomp_hardware_standoff_m3_12_mm_length_nut_and_nut |  

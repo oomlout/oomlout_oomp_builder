@@ -101,6 +101,21 @@ name_no_class: Standoff M3 15 mm Length Nut And Nut
 name_no_color: 15mmlengthnutandnut
 name_no_size: 15 mm Length Nut And Nut
 name_no_type: M3 15 mm Length Nut And Nut
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 15 mm
+oomlout_bolt_length_no_unit: '15'
+oomlout_bolt_md5_6_alpha_first_3: iio
+oomlout_bolt_md5_6_alpha_first_3_upper: IIO
+oomlout_bolt_md5_6_alpha_last_3: '5'
+oomlout_bolt_md5_6_alpha_last_3_upper: '5'
+oomlout_bolt_md5_6_first_3: 0d2
+oomlout_bolt_md5_6_first_3_upper: 0D2
+oomlout_bolt_md5_6_last_3: f05
+oomlout_bolt_md5_6_last_3_upper: F05
+oomlout_bolt_name: ' M3X15 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
 oomlout_short_code: so3m15
 oomlout_short_code_upper: SO3M15
 oomp_key: oomp_hardware_standoff_m3_15_mm_length_nut_and_nut

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 20_teeth_sh_motor_gearmotor_tt_motor_01
+description_extra_capital: 20 Teeth Sh Motor Gearmotor Tt Motor 01
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 20_TEETH_SH_MOTOR_GEARMOTOR_TT_MOTOR_01
+description_main: '01_06_'
+description_main_capital: '01 06 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '01_06_'
+description_only_numbers: '0106'
+description_only_numbers_short: '106'
+description_or_color: '106'
+description_or_color_upper: '106'
+directory: parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01/working
+id: oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_class: part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_size: 01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+id_no_type: pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01/working)<br>[Oobb
+    Part Pulley Gt2 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01/working)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01/working)<br><br>'
+md5: 671790549ce45b7a480d0cfb7530fb89
+md5_10: 671790549c
+md5_10_upper: 671790549C
+md5_5: '67179'
+md5_5_upper: '67179'
+md5_6: '671790'
+md5_6_alpha: 40t5c
+md5_6_alpha_upper: 40T5C
+md5_6_upper: '671790'
+name: Oobb Part Pulley Gt2 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_class: Part Pulley Gt2 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_size: 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_size_short: 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01
+name_no_type: Pulley Gt2 01 06  20 Teeth Sh Motor Gearmotor Tt Motor 01
+oomp_key: oomp_oobb_part_pulley_gt2_01_06__20_teeth_sh_motor_gearmotor_tt_motor_01
+oomp_word: herb thumbsdown scissors
+oomp_word_emoji: ':herb: :thumbsdown: :scissors:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':thumbsdown:'
+- ':scissors:'
+oomp_word_list:
+- herb
+- thumbsdown
+- scissors
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

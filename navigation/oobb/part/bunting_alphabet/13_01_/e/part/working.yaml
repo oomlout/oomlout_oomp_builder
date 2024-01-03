@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: e
+description_extra_capital: E
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: E
+description_main: '13_01_'
+description_main_capital: '13 01 '
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '13_01_'
+description_only_numbers: '1301'
+description_only_numbers_short: 1k3
+description_or_color: 1k3
+description_or_color_upper: 1K3
+directory: parts/oobb_part_bunting_alphabet_13_01__e
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__e/working
+id: oobb_part_bunting_alphabet_13_01__e
+id_no_class: part_bunting_alphabet_13_01__e
+id_no_size: 13_01__e
+id_no_type: bunting_alphabet_13_01__e
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_13_01__e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__e/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__e/working)<br>[Oobb
+    Part Bunting Alphabet 13 01  E](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__e/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_13_01__e](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__e/working)<br><br>'
+md5: 3397d7ca7d7e317ecc65f7f89e1f11e6
+md5_10: 3397d7ca7d
+md5_10_upper: 3397D7CA7D
+md5_5: 3397d
+md5_5_upper: 3397D
+md5_6: 3397d7
+md5_6_alpha: 20gyf
+md5_6_alpha_upper: 20GYF
+md5_6_upper: 3397D7
+name: Oobb Part Bunting Alphabet 13 01  E
+name_no_class: Part Bunting Alphabet 13 01  E
+name_no_size: 13 01  E
+name_no_size_short: 13 01  E
+name_no_type: Bunting Alphabet 13 01  E
+oomp_key: oomp_oobb_part_bunting_alphabet_13_01__e
+oomp_word: dog baseball office
+oomp_word_emoji: ':dog: :baseball: :office:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':baseball:'
+- ':office:'
+oomp_word_list:
+- dog
+- baseball
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

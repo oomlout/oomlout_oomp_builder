@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: '2'
+description_extra_capital: '2'
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: '2'
+description_main: 07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_
+description_main_capital: '07 07.14 Nm 12 mm Tape Width 2 mm Tape Thickness '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 07_07_14_NM_12_MM_TAPE_WIDTH_2_MM_TAPE_THICKNESS_
+description_only_numbers: '070714122'
+description_only_numbers_short: 7M
+description_or_color: 7M
+description_or_color_upper: 7M
+directory: parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2/working
+id: oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+id_no_class: part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+id_no_size: 07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+id_no_type: smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2/working)<br>[Oobb
+    Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2/working)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2/working)<br><br>'
+md5: c6a95ec22d940171c47828f973ce3aa3
+md5_10: c6a95ec22d
+md5_10_upper: C6A95EC22D
+md5_5: c6a95
+md5_5_upper: C6A95
+md5_6: c6a95e
+md5_6_alpha: 7r1we
+md5_6_alpha_upper: 7R1WE
+md5_6_upper: C6A95E
+name: Oobb Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
+name_no_class: Part Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
+name_no_size: 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
+name_no_size_short: 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
+name_no_type: Smd Magazine 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
+oomp_key: oomp_oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+oomp_word: lollipop sandal crocodile
+oomp_word_emoji: ':lollipop: :sandal: :crocodile:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':sandal:'
+- ':crocodile:'
+oomp_word_list:
+- lollipop
+- sandal
+- crocodile
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

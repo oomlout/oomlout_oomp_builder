@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ninety_degree
+description_extra_capital: Ninety Degree
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NINETY_DEGREE
+description_main: '05_01_14_'
+description_main_capital: '05 01.14 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '05_01_14_'
+description_only_numbers: '050114'
+description_only_numbers_short: 50k
+description_or_color: 50k
+description_or_color_upper: 50K
+directory: parts/oobb_part_plate_05_01_14__ninety_degree
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14__ninety_degree/working
+id: oobb_part_plate_05_01_14__ninety_degree
+id_no_class: part_plate_05_01_14__ninety_degree
+id_no_size: 05_01_14__ninety_degree
+id_no_type: plate_05_01_14__ninety_degree
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_05_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14__ninety_degree/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14__ninety_degree/working)<br>[Oobb
+    Part Plate 05 01 14  Ninety Degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14__ninety_degree/working)<br><br>'
+markdown_short: '[oobb_part_plate_05_01_14__ninety_degree](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_14__ninety_degree/working)<br><br>'
+md5: 328f0c0e5eac15d8cfe723ad5359d40c
+md5_10: 328f0c0e5e
+md5_10_upper: 328F0C0E5E
+md5_5: 328f0
+md5_5_upper: 328F0
+md5_6: 328f0c
+md5_6_alpha: 1z0ng
+md5_6_alpha_upper: 1Z0NG
+md5_6_upper: 328F0C
+name: Oobb Part Plate 05 01 14  Ninety Degree
+name_no_class: Part Plate 05 01 14  Ninety Degree
+name_no_size: 05 01 14  Ninety Degree
+name_no_size_short: 05 01 14  Ninety Degree
+name_no_type: Plate 05 01 14  Ninety Degree
+oomp_key: oomp_oobb_part_plate_05_01_14__ninety_degree
+oomp_word: cat calendar alien
+oomp_word_emoji: ':cat: :calendar: :alien:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':calendar:'
+- ':alien:'
+oomp_word_list:
+- cat
+- calendar
+- alien
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

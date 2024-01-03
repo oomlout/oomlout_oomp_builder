@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 56_teeth_sh_motor_servo_standard_01
+description_extra_capital: 56 Teeth Sh Motor Servo Standard 01
+description_extra_first_letter: '5'
+description_extra_first_letter_upper: '5'
+description_extra_upper: 56_TEETH_SH_MOTOR_SERVO_STANDARD_01
+description_main: '07_06_'
+description_main_capital: '07 06 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '07_06_'
+description_only_numbers: '0706'
+description_only_numbers_short: '706'
+description_or_color: '706'
+description_or_color_upper: '706'
+directory: parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01/working
+id: oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01
+id_no_class: part_gear_07_06__56_teeth_sh_motor_servo_standard_01
+id_no_size: 07_06__56_teeth_sh_motor_servo_standard_01
+id_no_type: gear_07_06__56_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01/working)<br>[Oobb
+    Part Gear 07 06  56 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01/working)<br><br>'
+markdown_short: '[oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01/working)<br><br>'
+md5: 0a956775596034c64c432afd92f1ae4b
+md5_10: 0a95677559
+md5_10_upper: 0A95677559
+md5_5: 0a956
+md5_5_upper: 0A956
+md5_6: 0a9567
+md5_6_alpha: ev6v
+md5_6_alpha_upper: EV6V
+md5_6_upper: 0A9567
+name: Oobb Part Gear 07 06  56 Teeth Sh Motor Servo Standard 01
+name_no_class: Part Gear 07 06  56 Teeth Sh Motor Servo Standard 01
+name_no_size: 07 06  56 Teeth Sh Motor Servo Standard 01
+name_no_size_short: 07 06  56 Teeth Sh Motor Servo Standard 01
+name_no_type: Gear 07 06  56 Teeth Sh Motor Servo Standard 01
+oomp_key: oomp_oobb_part_gear_07_06__56_teeth_sh_motor_servo_standard_01
+oomp_word: sleepy telescope herb
+oomp_word_emoji: ':sleepy: :telescope: :herb:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':telescope:'
+- ':herb:'
+oomp_word_list:
+- sleepy
+- telescope
+- herb
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

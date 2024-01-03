@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: spacer_u
+description_extra_capital: Spacer U
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SPACER_U
+description_main: '03_02_12_'
+description_main_capital: '03 02.12 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_02_12_'
+description_only_numbers: '030212'
+description_only_numbers_short: 30k
+description_or_color: 30k
+description_or_color_upper: 30K
+directory: parts/oobb_part_wire_03_02_12__spacer_u
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer_u/working
+id: oobb_part_wire_03_02_12__spacer_u
+id_no_class: part_wire_03_02_12__spacer_u
+id_no_size: 03_02_12__spacer_u
+id_no_type: wire_03_02_12__spacer_u
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_03_02_12__spacer_u](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer_u/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer_u/working)<br>[Oobb
+    Part Wire 03 02 12  Spacer U](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer_u/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_02_12__spacer_u](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer_u/working)<br><br>'
+md5: 713be873e43c3abdfe7ad5354ffbaa31
+md5_10: 713be873e4
+md5_10_upper: 713BE873E4
+md5_5: 713be
+md5_5_upper: 713BE
+md5_6: 713be8
+md5_6_alpha: 4f208
+md5_6_alpha_upper: 4F208
+md5_6_upper: 713BE8
+name: Oobb Part Wire 03 02 12  Spacer U
+name_no_class: Part Wire 03 02 12  Spacer U
+name_no_size: 03 02 12  Spacer U
+name_no_size_short: 03 02 12  Spacer U
+name_no_type: Wire 03 02 12  Spacer U
+oomp_key: oomp_oobb_part_wire_03_02_12__spacer_u
+oomp_word: bamboo bear tram
+oomp_word_emoji: ':bamboo: :bear: :tram:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':bear:'
+- ':tram:'
+oomp_word_list:
+- bamboo
+- bear
+- tram
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

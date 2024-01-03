@@ -101,6 +101,21 @@ name_no_class: Standoff M3 9 mm Length Nut And Nut
 name_no_color: 9mmlengthnutandnut
 name_no_size: 9 mm Length Nut And Nut
 name_no_type: M3 9 mm Length Nut And Nut
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 9 mm
+oomlout_bolt_length_no_unit: '9'
+oomlout_bolt_md5_6_alpha_first_3: 1oy
+oomlout_bolt_md5_6_alpha_first_3_upper: 1OY
+oomlout_bolt_md5_6_alpha_last_3: di
+oomlout_bolt_md5_6_alpha_last_3_upper: DI
+oomlout_bolt_md5_6_first_3: 2b6
+oomlout_bolt_md5_6_first_3_upper: 2B6
+oomlout_bolt_md5_6_last_3: '506'
+oomlout_bolt_md5_6_last_3_upper: '506'
+oomlout_bolt_name: ' M3X9 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
 oomlout_short_code: so3m9
 oomlout_short_code_upper: SO3M9
 oomp_key: oomp_hardware_standoff_m3_9_mm_length_nut_and_nut

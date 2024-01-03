@@ -132,6 +132,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | 20mmlengthnutandnut |  
 | name_no_size | 20 mm Length Nut And Nut |  
 | name_no_type | M3 20 mm Length Nut And Nut |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_length | 20 mm |  
+| oomlout_bolt_length_no_unit | 20 |  
+| oomlout_bolt_md5_6_alpha_first_3 | 4n5 |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | 4N5 |  
+| oomlout_bolt_md5_6_alpha_last_3 | 6t |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | 6T |  
+| oomlout_bolt_md5_6_first_3 | 76f |  
+| oomlout_bolt_md5_6_first_3_upper | 76F |  
+| oomlout_bolt_md5_6_last_3 | e05 |  
+| oomlout_bolt_md5_6_last_3_upper | E05 |  
+| oomlout_bolt_name |  M3X20 mm  (Bolt) |  
+| oomlout_bolt_size | M3 |  
+| oomlout_bolt_type |  |  
 | oomlout_short_code | so3m20 |  
 | oomlout_short_code_upper | SO3M20 |  
 | oomp_key | oomp_hardware_standoff_m3_20_mm_length_nut_and_nut |  

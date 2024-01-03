@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: k
+description_extra_capital: K
+description_extra_first_letter: k
+description_extra_first_letter_upper: K
+description_extra_upper: K
+description_main: '03_01_'
+description_main_capital: '03 01 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_01_'
+description_only_numbers: '0301'
+description_only_numbers_short: '301'
+description_or_color: '301'
+description_or_color_upper: '301'
+directory: parts/oobb_part_bunting_alphabet_03_01__k
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__k/working
+id: oobb_part_bunting_alphabet_03_01__k
+id_no_class: part_bunting_alphabet_03_01__k
+id_no_size: 03_01__k
+id_no_type: bunting_alphabet_03_01__k
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_03_01__k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__k/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__k/working)<br>[Oobb
+    Part Bunting Alphabet 03 01  K](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__k/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_03_01__k](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__k/working)<br><br>'
+md5: 87750c2670cb393a9782373c54c959bb
+md5_10: 87750c2670
+md5_10_upper: 87750C2670
+md5_5: '87750'
+md5_5_upper: '87750'
+md5_6: 87750c
+md5_6_alpha: 5a9sc
+md5_6_alpha_upper: 5A9SC
+md5_6_upper: 87750C
+name: Oobb Part Bunting Alphabet 03 01  K
+name_no_class: Part Bunting Alphabet 03 01  K
+name_no_size: 03 01  K
+name_no_size_short: 03 01  K
+name_no_type: Bunting Alphabet 03 01  K
+oomp_key: oomp_oobb_part_bunting_alphabet_03_01__k
+oomp_word: toilet ghost alien
+oomp_word_emoji: ':toilet: :ghost: :alien:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':ghost:'
+- ':alien:'
+oomp_word_list:
+- toilet
+- ghost
+- alien
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_screwdriver_h
+description_extra_capital: Tool Screwdriver H
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_SCREWDRIVER_H
+description_main: '07_05_20_'
+description_main_capital: '07 05.20 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '07_05_20_'
+description_only_numbers: '070520'
+description_only_numbers_short: 71k
+description_or_color: 71k
+description_or_color_upper: 71K
+directory: parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h/working
+id: oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+id_no_class: part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+id_no_size: 07_05_20__tool_screwdriver_h
+id_no_type: tool_holder_vertical_07_05_20__tool_screwdriver_h
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h/working)<br>[Oobb
+    Part Tool Holder Vertical 07 05 20  Tool Screwdriver H](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h/working)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h/working)<br><br>'
+md5: 72b6ad032a18df67cfeed17f5d8f98b1
+md5_10: 72b6ad032a
+md5_10_upper: 72B6AD032A
+md5_5: 72b6a
+md5_5_upper: 72B6A
+md5_6: 72b6ad
+md5_6_alpha: 4h4tp
+md5_6_alpha_upper: 4H4TP
+md5_6_upper: 72B6AD
+name: Oobb Part Tool Holder Vertical 07 05 20  Tool Screwdriver H
+name_no_class: Part Tool Holder Vertical 07 05 20  Tool Screwdriver H
+name_no_size: 07 05 20  Tool Screwdriver H
+name_no_size_short: 07 05 20  Tool Screwdriver H
+name_no_type: Tool Holder Vertical 07 05 20  Tool Screwdriver H
+oomp_key: oomp_oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+oomp_word: dolls beer dress
+oomp_word_emoji: ':dolls: :beer: :dress:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':beer:'
+- ':dress:'
+oomp_word_list:
+- dolls
+- beer
+- dress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

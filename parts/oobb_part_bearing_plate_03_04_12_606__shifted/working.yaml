@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: shifted
+description_extra_capital: Shifted
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SHIFTED
+description_main: '03_04_12_606_'
+description_main_capital: '03 04.12.606 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '03_04_12_606_'
+description_only_numbers: '030412606'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/oobb_part_bearing_plate_03_04_12_606__shifted
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted/working
+id: oobb_part_bearing_plate_03_04_12_606__shifted
+id_no_class: part_bearing_plate_03_04_12_606__shifted
+id_no_size: 03_04_12_606__shifted
+id_no_type: bearing_plate_03_04_12_606__shifted
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_03_04_12_606__shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted/working)<br>[Oobb
+    Part Bearing Plate 03 04 12 606  Shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted/working)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_03_04_12_606__shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted/working)<br><br>'
+md5: a42a1d949e78aa18a069951e230adfed
+md5_10: a42a1d949e
+md5_10_upper: A42A1D949E
+md5_5: a42a1
+md5_5_upper: A42A1
+md5_6: a42a1d
+md5_6_alpha: 6elgd
+md5_6_alpha_upper: 6ELGD
+md5_6_upper: A42A1D
+name: Oobb Part Bearing Plate 03 04 12 606  Shifted
+name_no_class: Part Bearing Plate 03 04 12 606  Shifted
+name_no_size: 03 04 12 606  Shifted
+name_no_size_short: 03 04 12 606  Shifted
+name_no_type: Bearing Plate 03 04 12 606  Shifted
+oomp_key: oomp_oobb_part_bearing_plate_03_04_12_606__shifted
+oomp_word: book umbrella baby
+oomp_word_emoji: ':book: :umbrella: :baby:'
+oomp_word_emoji_list:
+- ':book:'
+- ':umbrella:'
+- ':baby:'
+oomp_word_list:
+- book
+- umbrella
+- baby
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate
+size_capital: Bearing Plate
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
