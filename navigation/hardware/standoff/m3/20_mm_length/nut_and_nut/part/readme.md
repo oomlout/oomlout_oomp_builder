@@ -147,6 +147,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_name |  M3X20 mm  (Bolt) |  
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
+| oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | so3m20 |  
 | oomlout_short_code_upper | SO3M20 |  
 | oomp_key | oomp_hardware_standoff_m3_20_mm_length_nut_and_nut |  
@@ -208,4 +209,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | STAN |  
 | type_upper_length_5 | STAND |  
 | type_upper_length_6 | STANDO |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml'] |  

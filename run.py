@@ -9,12 +9,21 @@ if __name__ == "__main__":
     
     #filter = ""
     #filter = "spacer"
-    filter = "hardware"    
+    #filter = "hardware"    
+
     #filter = "packaging"
     #filter = "screw_socket_cap"
     #filter = "screw_self_tapping"
+    filter = ["set_screw","bolt"]
     #filter = "hardware_spacer_m3_id_7_mm_od_nylon_white_25_mm_length"
     
     kwargs["filter"] = filter
-    main(**kwargs)
+
+    #if filter isn't a array then make it one
+    if not isinstance(kwargs["filter"], list):
+        kwargs["filter"] = [kwargs["filter"]]
+
+    for f in kwargs["filter"]:
+        kwargs["filter"] = f
+        main(**kwargs)
     
