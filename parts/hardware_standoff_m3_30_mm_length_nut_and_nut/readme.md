@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: so3m30
+* short_code: so3m30nn
 * oomp_word: mouse maple_leaf sunny
 * oomp_word_emoji :mouse: :maple_leaf: :sunny:
 * md5_6_alpha: 21lih
@@ -148,8 +148,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | so3m30 |  
-| oomlout_short_code_upper | SO3M30 |  
+| oomlout_short_code | so3m30nn |  
+| oomlout_short_code_upper | SO3M30NN |  
 | oomp_key | oomp_hardware_standoff_m3_30_mm_length_nut_and_nut |  
 | oomp_word | mouse maple_leaf sunny |  
 | oomp_word_emoji | :mouse: :maple_leaf: :sunny: |  

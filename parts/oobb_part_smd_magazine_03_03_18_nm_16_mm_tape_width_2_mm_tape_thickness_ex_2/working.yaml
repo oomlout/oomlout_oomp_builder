@@ -1,43 +1,68 @@
 classification: oobb
-classification_capital: Oobb
-classification_first_letter: o
-classification_first_letter_upper: O
-classification_upper: OOBB
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
 color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
+color_name: ''
 description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
+description_extra_name: ''
 description_main: 03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
-description_main_capital: 03 03.18 Nm 16 mm Tape Width 2 mm Tape Thickness Ex 2
-description_main_first_letter: '0'
-description_main_first_letter_upper: '0'
-description_main_upper: 03_03_18_NM_16_MM_TAPE_WIDTH_2_MM_TAPE_THICKNESS_EX_2
-description_only_numbers: 0303181622
-description_only_numbers_short: 3M
-description_or_color: 3M
-description_or_color_upper: 3M
+description_main_length_1: '0'
+description_main_length_2: '03'
+description_main_length_3: '03_'
+description_main_length_4: '03_0'
+description_main_length_5: '03_03'
+description_main_length_6: '03_03_'
+description_main_name: 03 03 18 Nm 16 mm Tape Width 2 mm Tape Thickness Ex 2
+description_main_no_space_length_1: '0'
+description_main_no_space_length_2: '03'
+description_main_no_space_length_3: '030'
+description_main_no_space_length_4: '0303'
+description_main_no_space_length_5: '03031'
+description_main_no_space_length_6: 030318
+description_main_no_space_upper_length_1: '0'
+description_main_no_space_upper_length_2: '03'
+description_main_no_space_upper_length_3: '030'
+description_main_no_space_upper_length_4: '0303'
+description_main_no_space_upper_length_5: '03031'
+description_main_no_space_upper_length_6: 030318
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '03'
+description_main_upper_length_3: '03_'
+description_main_upper_length_4: '03_0'
+description_main_upper_length_5: '03_03'
+description_main_upper_length_6: '03_03_'
 directory: parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
-distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2/working
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
 id: oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
 id_no_class: part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+id_no_color: 030318nm16mmtapewidth2mmtapethicknessex2
 id_no_size: 03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
 id_no_type: smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2/working)<br>[Oobb
-    Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2/working)<br><br>'
-markdown_short: '[oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2/working)<br><br>'
+manufacturer_name: ''
 md5: f30c770d06a5853c5de405ab3f57619d
 md5_10: f30c770d06
 md5_10_upper: F30C770D06
@@ -47,12 +72,12 @@ md5_6: f30c77
 md5_6_alpha: 9hegn
 md5_6_alpha_upper: 9HEGN
 md5_6_upper: F30C77
-name: Oobb Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
-name_no_class: Part Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness
-    Ex 2
-name_no_size: 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
-name_no_size_short: 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
-name_no_type: Smd Magazine 03 03 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness Ex 2
+name: Oobb Part SMD Magazine 03 03 18 Nm 16 mm Tape Width 2 mm Tape Thickness Ex 2
+name_no_class: Part SMD Magazine 03 03 18 Nm 16 mm Tape Width 2 mm Tape Thickness
+  Ex 2
+name_no_color: 030318Nm16mmtapewidth2mmtapethicknessex2
+name_no_size: 03 03 18 Nm 16 mm Tape Width 2 mm Tape Thickness Ex 2
+name_no_type: SMD Magazine 03 03 18 Nm 16 mm Tape Width 2 mm Tape Thickness Ex 2
 oomp_key: oomp_oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
 oomp_word: two alien gift
 oomp_word_emoji: ':two: :alien: :gift:'
@@ -65,22 +90,56 @@ oomp_word_list:
 - alien
 - gift
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
-part_number_upper: ''
-short_code: ''
-short_code_upper: ''
-short_name: ''
+part_number_name: ''
 size: smd_magazine
-size_capital: Smd Magazine
-size_first_letter: s
-size_first_letter_upper: S
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: SMD_MAGAZINE
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
 type: part
-type_capital: Part
-type_first_letter: p
-type_first_letter_upper: P
-type_upper: PART
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

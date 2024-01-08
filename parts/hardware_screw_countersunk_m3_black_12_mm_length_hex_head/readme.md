@@ -157,7 +157,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_size | Black 12 mm Length Hex Head |  
 | name_no_type | M3 Black 12 mm Length Hex Head |  
 | oomlout_bolt_color | Black |  
-| oomlout_bolt_head_type | Hex |  
+| oomlout_bolt_head_type | Hex Head |  
 | oomlout_bolt_head_type_diagram | head_type_diagram.png |  
 | oomlout_bolt_length | 12 mm |  
 | oomlout_bolt_length_no_unit | 12 |  
@@ -169,7 +169,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_md5_6_first_3_upper | AC9 |  
 | oomlout_bolt_md5_6_last_3 | e1c |  
 | oomlout_bolt_md5_6_last_3_upper | E1C |  
-| oomlout_bolt_name | Countersunk M3X12 mm Black (Hex) |  
+| oomlout_bolt_name | Countersunk M3X12 mm Black (Hex Head) |  
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type | Countersunk |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  

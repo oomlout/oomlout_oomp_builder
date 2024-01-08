@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: so3m6
+* short_code: so3m6nn
 * oomp_word: one apple skull
 * oomp_word_emoji :one: :apple: :skull:
 * md5_6_alpha: 9h0yo
@@ -148,8 +148,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | so3m6 |  
-| oomlout_short_code_upper | SO3M6 |  
+| oomlout_short_code | so3m6nn |  
+| oomlout_short_code_upper | SO3M6NN |  
 | oomp_key | oomp_hardware_standoff_m3_6_mm_length_nut_and_nut |  
 | oomp_word | one apple skull |  
 | oomp_word_emoji | :one: :apple: :skull: |  

@@ -30,44 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_upper | OOBB |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | 02_06_ex_40_teeth_shield |  
-| description_main_capital | 02 06 Ex 40 Teeth Shield |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_upper | 02_06_EX_40_TEETH_SHIELD |  
-| description_only_numbers | 020640 |  
-| description_only_numbers_short | 21k |  
-| description_or_color | 21k |  
-| description_or_color_upper | 21K |  
+| description_main_length_1 | 0 |  
+| description_main_length_2 | 02 |  
+| description_main_length_3 | 02_ |  
+| description_main_length_4 | 02_0 |  
+| description_main_length_5 | 02_06 |  
+| description_main_length_6 | 02_06_ |  
+| description_main_name | 02 06 Ex 40 Teeth Shield |  
+| description_main_no_space_length_1 | 0 |  
+| description_main_no_space_length_2 | 02 |  
+| description_main_no_space_length_3 | 020 |  
+| description_main_no_space_length_4 | 0206 |  
+| description_main_no_space_length_5 | 0206e |  
+| description_main_no_space_length_6 | 0206ex |  
+| description_main_no_space_upper_length_1 | 0 |  
+| description_main_no_space_upper_length_2 | 02 |  
+| description_main_no_space_upper_length_3 | 020 |  
+| description_main_no_space_upper_length_4 | 0206 |  
+| description_main_no_space_upper_length_5 | 0206E |  
+| description_main_no_space_upper_length_6 | 0206EX |  
+| description_main_upper_length_1 | 0 |  
+| description_main_upper_length_2 | 02 |  
+| description_main_upper_length_3 | 02_ |  
+| description_main_upper_length_4 | 02_0 |  
+| description_main_upper_length_5 | 02_06 |  
+| description_main_upper_length_6 | 02_06_ |  
 | directory | parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield |  
 | id | oobb_part_pulley_gt2_02_06_ex_40_teeth_shield |  
 | id_no_class | part_pulley_gt2_02_06_ex_40_teeth_shield |  
+| id_no_color | 0206ex40teethshield |  
 | id_no_size | 02_06_ex_40_teeth_shield |  
 | id_no_type | pulley_gt2_02_06_ex_40_teeth_shield |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_pulley_gt2_02_06_ex_40_teeth_shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield/working)<br>[Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield/working)<br><br> |  
-| markdown_short | [oobb_part_pulley_gt2_02_06_ex_40_teeth_shield](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06_ex_40_teeth_shield/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 889a69d1c46e20d7bb555be8bb15ea3a |  
 | md5_10 | 889a69d1c4 |  
 | md5_10_upper | 889A69D1C4 |  
@@ -79,8 +105,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | 889A69 |  
 | name | Oobb Part Pulley Gt2 02 06 Ex 40 Teeth Shield |  
 | name_no_class | Part Pulley Gt2 02 06 Ex 40 Teeth Shield |  
+| name_no_color | 0206Ex40Teethshield |  
 | name_no_size | 02 06 Ex 40 Teeth Shield |  
-| name_no_size_short | 02 06 Ex 40 Teeth Shield |  
 | name_no_type | Pulley Gt2 02 06 Ex 40 Teeth Shield |  
 | oomp_key | oomp_oobb_part_pulley_gt2_02_06_ex_40_teeth_shield |  
 | oomp_word | wrench golf cactus |  
@@ -88,23 +114,57 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':wrench:', ':golf:', ':cactus:'] |  
 | oomp_word_list | ['wrench', 'golf', 'cactus'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
+| part_number_name |  |  
 | size | pulley_gt2 |  
-| size_capital | Pulley Gt2 |  
-| size_first_letter | p |  
-| size_first_letter_upper | P |  
-| size_only_numbers | 2 |  
-| size_only_numbers_no_zeros | 2 |  
-| size_upper | PULLEY_GT2 |  
+| size_length_1 | p |  
+| size_length_2 | pu |  
+| size_length_3 | pul |  
+| size_length_4 | pull |  
+| size_length_5 | pulle |  
+| size_length_6 | pulley |  
+| size_name | Pulley Gt2 |  
+| size_no_space_length_1 | p |  
+| size_no_space_length_2 | pu |  
+| size_no_space_length_3 | pul |  
+| size_no_space_length_4 | pull |  
+| size_no_space_length_5 | pulle |  
+| size_no_space_length_6 | pulley |  
+| size_no_space_upper_length_1 | P |  
+| size_no_space_upper_length_2 | PU |  
+| size_no_space_upper_length_3 | PUL |  
+| size_no_space_upper_length_4 | PULL |  
+| size_no_space_upper_length_5 | PULLE |  
+| size_no_space_upper_length_6 | PULLEY |  
+| size_upper_length_1 | P |  
+| size_upper_length_2 | PU |  
+| size_upper_length_3 | PUL |  
+| size_upper_length_4 | PULL |  
+| size_upper_length_5 | PULLE |  
+| size_upper_length_6 | PULLEY |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_upper | PART |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

@@ -30,44 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_upper | OOBB |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | ex_motor_tt_01_shaft |  
-| description_main_capital | Ex Motor Tt 01 Shaft |  
-| description_main_first_letter | e |  
-| description_main_first_letter_upper | E |  
-| description_main_upper | EX_MOTOR_TT_01_SHAFT |  
-| description_only_numbers | 01 |  
-| description_only_numbers_short | 1 |  
-| description_or_color | 1 |  
-| description_or_color_upper | 1 |  
+| description_main_length_1 | e |  
+| description_main_length_2 | ex |  
+| description_main_length_3 | ex_ |  
+| description_main_length_4 | ex_m |  
+| description_main_length_5 | ex_mo |  
+| description_main_length_6 | ex_mot |  
+| description_main_name | Ex Motor Tt 01 Shaft |  
+| description_main_no_space_length_1 | e |  
+| description_main_no_space_length_2 | ex |  
+| description_main_no_space_length_3 | exm |  
+| description_main_no_space_length_4 | exmo |  
+| description_main_no_space_length_5 | exmot |  
+| description_main_no_space_length_6 | exmoto |  
+| description_main_no_space_upper_length_1 | E |  
+| description_main_no_space_upper_length_2 | EX |  
+| description_main_no_space_upper_length_3 | EXM |  
+| description_main_no_space_upper_length_4 | EXMO |  
+| description_main_no_space_upper_length_5 | EXMOT |  
+| description_main_no_space_upper_length_6 | EXMOTO |  
+| description_main_upper_length_1 | E |  
+| description_main_upper_length_2 | EX |  
+| description_main_upper_length_3 | EX_ |  
+| description_main_upper_length_4 | EX_M |  
+| description_main_upper_length_5 | EX_MO |  
+| description_main_upper_length_6 | EX_MOT |  
 | directory | parts/oobb_part_test_ex_motor_tt_01_shaft |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft |  
 | id | oobb_part_test_ex_motor_tt_01_shaft |  
 | id_no_class | part_test_ex_motor_tt_01_shaft |  
+| id_no_color | exmotortt01shaft |  
 | id_no_size | ex_motor_tt_01_shaft |  
 | id_no_type | test_ex_motor_tt_01_shaft |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_test_ex_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft/working)<br>[Oobb Part Test Ex Motor Tt 01 Shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft/working)<br><br> |  
-| markdown_short | [oobb_part_test_ex_motor_tt_01_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_ex_motor_tt_01_shaft/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 1c15b2502899de1fd540d8dd7c098351 |  
 | md5_10 | 1c15b25028 |  
 | md5_10_upper | 1C15B25028 |  
@@ -79,8 +105,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | 1C15B2 |  
 | name | Oobb Part Test Ex Motor Tt 01 Shaft |  
 | name_no_class | Part Test Ex Motor Tt 01 Shaft |  
+| name_no_color | Exmotortt01Shaft |  
 | name_no_size | Ex Motor Tt 01 Shaft |  
-| name_no_size_short | Ex Motor Tt 1 Shaft |  
 | name_no_type | Test Ex Motor Tt 01 Shaft |  
 | oomp_key | oomp_oobb_part_test_ex_motor_tt_01_shaft |  
 | oomp_word | dancer poop handbag |  
@@ -88,23 +114,57 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':dancer:', ':poop:', ':handbag:'] |  
 | oomp_word_list | ['dancer', 'poop', 'handbag'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
+| part_number_name |  |  
 | size | test |  
-| size_capital | Test |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TEST |  
+| size_length_1 | t |  
+| size_length_2 | te |  
+| size_length_3 | tes |  
+| size_length_4 | test |  
+| size_length_5 | test |  
+| size_length_6 | test |  
+| size_name | Test |  
+| size_no_space_length_1 | t |  
+| size_no_space_length_2 | te |  
+| size_no_space_length_3 | tes |  
+| size_no_space_length_4 | test |  
+| size_no_space_length_5 | test |  
+| size_no_space_length_6 | test |  
+| size_no_space_upper_length_1 | T |  
+| size_no_space_upper_length_2 | TE |  
+| size_no_space_upper_length_3 | TES |  
+| size_no_space_upper_length_4 | TEST |  
+| size_no_space_upper_length_5 | TEST |  
+| size_no_space_upper_length_6 | TEST |  
+| size_upper_length_1 | T |  
+| size_upper_length_2 | TE |  
+| size_upper_length_3 | TES |  
+| size_upper_length_4 | TEST |  
+| size_upper_length_5 | TEST |  
+| size_upper_length_6 | TEST |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_upper | PART |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: so3m25
+* short_code: so3m25nn
 * oomp_word: lock smile grapes
 * oomp_word_emoji :lock: :smile: :grapes:
 * md5_6_alpha: 540qz
@@ -148,8 +148,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | so3m25 |  
-| oomlout_short_code_upper | SO3M25 |  
+| oomlout_short_code | so3m25nn |  
+| oomlout_short_code_upper | SO3M25NN |  
 | oomp_key | oomp_hardware_standoff_m3_25_mm_length_nut_and_nut |  
 | oomp_word | lock smile grapes |  
 | oomp_word_emoji | :lock: :smile: :grapes: |  

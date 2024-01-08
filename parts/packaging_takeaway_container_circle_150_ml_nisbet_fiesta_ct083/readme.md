@@ -31,44 +31,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | packaging |  
-| classification_capital | Packaging |  
-| classification_first_letter | p |  
-| classification_first_letter_upper | P |  
-| classification_upper | PACKAGING |  
+| classification_length_1 | p |  
+| classification_length_2 | pa |  
+| classification_length_3 | pac |  
+| classification_length_4 | pack |  
+| classification_length_5 | packa |  
+| classification_length_6 | packag |  
+| classification_name | Packaging |  
+| classification_no_space_length_1 | p |  
+| classification_no_space_length_2 | pa |  
+| classification_no_space_length_3 | pac |  
+| classification_no_space_length_4 | pack |  
+| classification_no_space_length_5 | packa |  
+| classification_no_space_length_6 | packag |  
+| classification_no_space_upper_length_1 | P |  
+| classification_no_space_upper_length_2 | PA |  
+| classification_no_space_upper_length_3 | PAC |  
+| classification_no_space_upper_length_4 | PACK |  
+| classification_no_space_upper_length_5 | PACKA |  
+| classification_no_space_upper_length_6 | PACKAG |  
+| classification_upper_length_1 | P |  
+| classification_upper_length_2 | PA |  
+| classification_upper_length_3 | PAC |  
+| classification_upper_length_4 | PACK |  
+| classification_upper_length_5 | PACKA |  
+| classification_upper_length_6 | PACKAG |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main |  |  
-| description_main_capital |  |  
-| description_main_first_letter |  |  
-| description_main_first_letter_upper |  |  
-| description_main_upper |  |  
-| description_only_numbers |  |  
-| description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_main_name |  |  
 | directory | parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
 | id | packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
 | id_no_class | takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
+| id_no_color | nisbetfiestact083 |  
 | id_no_size | nisbet_fiesta_ct083 |  
 | id_no_type | 150_ml_nisbet_fiesta_ct083 |  
 | manufacturer | nisbet_fiesta |  
-| manufacturer_capital | Nisbet Fiesta |  
-| manufacturer_first_letter | n |  
-| manufacturer_first_letter_upper | N |  
-| manufacturer_upper | NISBET_FIESTA |  
-| manufacturers | [] |  
-| markdown_full | [packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083/working)<br>[Packaging Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083/working)<br><br> |  
-| markdown_short | [packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083/working)<br><br> |  
+| manufacturer_length_1 | n |  
+| manufacturer_length_2 | ni |  
+| manufacturer_length_3 | nis |  
+| manufacturer_length_4 | nisb |  
+| manufacturer_length_5 | nisbe |  
+| manufacturer_length_6 | nisbet |  
+| manufacturer_name | Nisbet Fiesta |  
+| manufacturer_no_space_length_1 | n |  
+| manufacturer_no_space_length_2 | ni |  
+| manufacturer_no_space_length_3 | nis |  
+| manufacturer_no_space_length_4 | nisb |  
+| manufacturer_no_space_length_5 | nisbe |  
+| manufacturer_no_space_length_6 | nisbet |  
+| manufacturer_no_space_upper_length_1 | N |  
+| manufacturer_no_space_upper_length_2 | NI |  
+| manufacturer_no_space_upper_length_3 | NIS |  
+| manufacturer_no_space_upper_length_4 | NISB |  
+| manufacturer_no_space_upper_length_5 | NISBE |  
+| manufacturer_no_space_upper_length_6 | NISBET |  
+| manufacturer_upper_length_1 | N |  
+| manufacturer_upper_length_2 | NI |  
+| manufacturer_upper_length_3 | NIS |  
+| manufacturer_upper_length_4 | NISB |  
+| manufacturer_upper_length_5 | NISBE |  
+| manufacturer_upper_length_6 | NISBET |  
 | md5 | ffd7c6d358105b83d54bd7556a08c01f |  
 | md5_10 | ffd7c6d358 |  
 | md5_10_upper | FFD7C6D358 |  
@@ -80,8 +106,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | FFD7C6 |  
 | name | Packaging Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083 |  
 | name_no_class | Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083 |  
+| name_no_color | Nisbetfiestact083 |  
 | name_no_size | Nisbet Fiesta Ct083 |  
-| name_no_size_short | Nisbet Fiesta Ct083 |  
 | name_no_type | 150 Ml Nisbet Fiesta Ct083 |  
 | oomlout_short_code | tcc150 |  
 | oomlout_short_code_upper | TCC150 |  
@@ -91,23 +117,81 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':trident:', ':office:', ':lollipop:'] |  
 | oomp_word_list | ['trident', 'office', 'lollipop'] |  
 | part_number | ct083 |  
-| part_number_capital | Ct083 |  
-| part_number_first_letter | c |  
-| part_number_first_letter_upper | C |  
-| part_number_upper | CT083 |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
+| part_number_length_1 | c |  
+| part_number_length_2 | ct |  
+| part_number_length_3 | ct0 |  
+| part_number_length_4 | ct08 |  
+| part_number_length_5 | ct083 |  
+| part_number_length_6 | ct083 |  
+| part_number_name | Ct083 |  
+| part_number_no_space_length_1 | c |  
+| part_number_no_space_length_2 | ct |  
+| part_number_no_space_length_3 | ct0 |  
+| part_number_no_space_length_4 | ct08 |  
+| part_number_no_space_length_5 | ct083 |  
+| part_number_no_space_length_6 | ct083 |  
+| part_number_no_space_upper_length_1 | C |  
+| part_number_no_space_upper_length_2 | CT |  
+| part_number_no_space_upper_length_3 | CT0 |  
+| part_number_no_space_upper_length_4 | CT08 |  
+| part_number_no_space_upper_length_5 | CT083 |  
+| part_number_no_space_upper_length_6 | CT083 |  
+| part_number_upper_length_1 | C |  
+| part_number_upper_length_2 | CT |  
+| part_number_upper_length_3 | CT0 |  
+| part_number_upper_length_4 | CT08 |  
+| part_number_upper_length_5 | CT083 |  
+| part_number_upper_length_6 | CT083 |  
 | size | 150_ml |  
-| size_capital | 150 Ml |  
-| size_first_letter | 1 |  
-| size_first_letter_upper | 1 |  
-| size_only_numbers | 150 |  
-| size_only_numbers_no_zeros | 15 |  
-| size_upper | 150_ML |  
+| size_length_1 | 1 |  
+| size_length_2 | 15 |  
+| size_length_3 | 150 |  
+| size_length_4 | 150_ |  
+| size_length_5 | 150_m |  
+| size_length_6 | 150_ml |  
+| size_name | 150 Ml |  
+| size_no_space_length_1 | 1 |  
+| size_no_space_length_2 | 15 |  
+| size_no_space_length_3 | 150 |  
+| size_no_space_length_4 | 150m |  
+| size_no_space_length_5 | 150ml |  
+| size_no_space_length_6 | 150ml |  
+| size_no_space_upper_length_1 | 1 |  
+| size_no_space_upper_length_2 | 15 |  
+| size_no_space_upper_length_3 | 150 |  
+| size_no_space_upper_length_4 | 150M |  
+| size_no_space_upper_length_5 | 150ML |  
+| size_no_space_upper_length_6 | 150ML |  
+| size_upper_length_1 | 1 |  
+| size_upper_length_2 | 15 |  
+| size_upper_length_3 | 150 |  
+| size_upper_length_4 | 150_ |  
+| size_upper_length_5 | 150_M |  
+| size_upper_length_6 | 150_ML |  
 | type | takeaway_container_circle |  
-| type_capital | Takeaway Container Circle |  
-| type_first_letter | t |  
-| type_first_letter_upper | T |  
-| type_upper | TAKEAWAY_CONTAINER_CIRCLE |  
-| files | ['base.yaml', 'drawing.cdr', 'drawing.pdf', 'drawing.png', 'drawing.svg', 'drawing_300.png', 'drawing_600.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | t |  
+| type_length_2 | ta |  
+| type_length_3 | tak |  
+| type_length_4 | take |  
+| type_length_5 | takea |  
+| type_length_6 | takeaw |  
+| type_name | Takeaway Container Circle |  
+| type_no_space_length_1 | t |  
+| type_no_space_length_2 | ta |  
+| type_no_space_length_3 | tak |  
+| type_no_space_length_4 | take |  
+| type_no_space_length_5 | takea |  
+| type_no_space_length_6 | takeaw |  
+| type_no_space_upper_length_1 | T |  
+| type_no_space_upper_length_2 | TA |  
+| type_no_space_upper_length_3 | TAK |  
+| type_no_space_upper_length_4 | TAKE |  
+| type_no_space_upper_length_5 | TAKEA |  
+| type_no_space_upper_length_6 | TAKEAW |  
+| type_upper_length_1 | T |  
+| type_upper_length_2 | TA |  
+| type_upper_length_3 | TAK |  
+| type_upper_length_4 | TAKE |  
+| type_upper_length_5 | TAKEA |  
+| type_upper_length_6 | TAKEAW |  
+| files | ['base.yaml', 'drawing.cdr', 'drawing.pdf', 'drawing.png', 'drawing.svg', 'drawing_300.png', 'drawing_600.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

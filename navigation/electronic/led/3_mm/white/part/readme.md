@@ -1,4 +1,4 @@
-# Electronic Led 3 Mm White  
+# Electronic LED 3 mm White  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -30,47 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color | white |  
-| color_capital | White |  
-| color_first_letter | w |  
-| color_first_letter_upper | W |  
-| color_upper | WHITE |  
+| color_length_1 | w |  
+| color_length_2 | wh |  
+| color_length_3 | whi |  
+| color_length_4 | whit |  
+| color_length_5 | white |  
+| color_length_6 | white |  
+| color_name | White |  
+| color_no_space_length_1 | w |  
+| color_no_space_length_2 | wh |  
+| color_no_space_length_3 | whi |  
+| color_no_space_length_4 | whit |  
+| color_no_space_length_5 | white |  
+| color_no_space_length_6 | white |  
+| color_no_space_upper_length_1 | W |  
+| color_no_space_upper_length_2 | WH |  
+| color_no_space_upper_length_3 | WHI |  
+| color_no_space_upper_length_4 | WHIT |  
+| color_no_space_upper_length_5 | WHITE |  
+| color_no_space_upper_length_6 | WHITE |  
+| color_upper_length_1 | W |  
+| color_upper_length_2 | WH |  
+| color_upper_length_3 | WHI |  
+| color_upper_length_4 | WHIT |  
+| color_upper_length_5 | WHITE |  
+| color_upper_length_6 | WHITE |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main |  |  
-| description_main_capital |  |  
-| description_main_first_letter |  |  
-| description_main_first_letter_upper |  |  
-| description_main_upper |  |  
-| description_only_numbers |  |  
-| description_only_numbers_short |   |  
-| description_or_color | W  |  
-| description_or_color_upper | W  |  
+| description_main_name |  |  
 | directory | parts/electronic_led_3_mm_white |  
-| distributors | [] |  
-| filter |  |  
-| from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white |  
 | id | electronic_led_3_mm_white |  
 | id_no_class | led_3_mm_white |  
+| id_no_color | white |  
 | id_no_size | white |  
 | id_no_type | 3_mm_white |  
-| kicad_reference | L |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[l3w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> |  
-| markdown_short | [electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 799a76eca4e04a8148fb90484fe20265 |  
 | md5_10 | 799a76eca4 |  
 | md5_10_upper | 799A76ECA4 |  
@@ -80,35 +103,68 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 4qt86 |  
 | md5_6_alpha_upper | 4QT86 |  
 | md5_6_upper | 799A76 |  
-| name | Electronic Led 3 Mm White |  
-| name_no_class | Led 3 Mm White |  
+| name | Electronic LED 3 mm White |  
+| name_no_class | LED 3 mm White |  
+| name_no_color | White |  
 | name_no_size | White |  
-| name_no_size_short | White |  
-| name_no_type | 3 Mm White |  
+| name_no_type | 3 mm White |  
 | oomp_key | oomp_electronic_led_3_mm_white |  
 | oomp_word | balloon golf santa |  
 | oomp_word_emoji | :balloon: :golf: :santa: |  
 | oomp_word_emoji_list | [':balloon:', ':golf:', ':santa:'] |  
 | oomp_word_list | ['balloon', 'golf', 'santa'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code | l3w |  
-| short_code_upper | L3W |  
-| short_name | 3 Mm White Led |  
+| part_number_name |  |  
 | size | 3_mm |  
-| size_capital | 3 mm |  
-| size_first_letter | 3 |  
-| size_first_letter_upper | 3 |  
-| size_only_numbers | 3 |  
-| size_only_numbers_no_zeros | 3 |  
-| size_upper | 3_MM |  
-| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}] |  
+| size_length_1 | 3 |  
+| size_length_2 | 3_ |  
+| size_length_3 | 3_m |  
+| size_length_4 | 3_mm |  
+| size_length_5 | 3_mm |  
+| size_length_6 | 3_mm |  
+| size_name | 3 mm |  
+| size_no_space_length_1 | 3 |  
+| size_no_space_length_2 | 3m |  
+| size_no_space_length_3 | 3mm |  
+| size_no_space_length_4 | 3mm |  
+| size_no_space_length_5 | 3mm |  
+| size_no_space_length_6 | 3mm |  
+| size_no_space_upper_length_1 | 3 |  
+| size_no_space_upper_length_2 | 3M |  
+| size_no_space_upper_length_3 | 3MM |  
+| size_no_space_upper_length_4 | 3MM |  
+| size_no_space_upper_length_5 | 3MM |  
+| size_no_space_upper_length_6 | 3MM |  
+| size_upper_length_1 | 3 |  
+| size_upper_length_2 | 3_ |  
+| size_upper_length_3 | 3_M |  
+| size_upper_length_4 | 3_MM |  
+| size_upper_length_5 | 3_MM |  
+| size_upper_length_6 | 3_MM |  
 | type | led |  
-| type_capital | Led |  
-| type_first_letter | l |  
-| type_first_letter_upper | L |  
-| type_upper | LED |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | l |  
+| type_length_2 | le |  
+| type_length_3 | led |  
+| type_length_4 | led |  
+| type_length_5 | led |  
+| type_length_6 | led |  
+| type_name | LED |  
+| type_no_space_length_1 | l |  
+| type_no_space_length_2 | le |  
+| type_no_space_length_3 | led |  
+| type_no_space_length_4 | led |  
+| type_no_space_length_5 | led |  
+| type_no_space_length_6 | led |  
+| type_no_space_upper_length_1 | L |  
+| type_no_space_upper_length_2 | LE |  
+| type_no_space_upper_length_3 | LED |  
+| type_no_space_upper_length_4 | LED |  
+| type_no_space_upper_length_5 | LED |  
+| type_no_space_upper_length_6 | LED |  
+| type_upper_length_1 | L |  
+| type_upper_length_2 | LE |  
+| type_upper_length_3 | LED |  
+| type_upper_length_4 | LED |  
+| type_upper_length_5 | LED |  
+| type_upper_length_6 | LED |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

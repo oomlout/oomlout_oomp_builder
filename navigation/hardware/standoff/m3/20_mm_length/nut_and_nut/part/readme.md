@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: so3m20
+* short_code: so3m20nn
 * oomp_word: santa recycle kissing
 * oomp_word_emoji :santa: :recycle: :kissing:
 * md5_6_alpha: 4n56t
@@ -148,8 +148,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
-| oomlout_short_code | so3m20 |  
-| oomlout_short_code_upper | SO3M20 |  
+| oomlout_short_code | so3m20nn |  
+| oomlout_short_code_upper | SO3M20NN |  
 | oomp_key | oomp_hardware_standoff_m3_20_mm_length_nut_and_nut |  
 | oomp_word | santa recycle kissing |  
 | oomp_word_emoji | :santa: :recycle: :kissing: |  

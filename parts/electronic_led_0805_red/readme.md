@@ -1,4 +1,4 @@
-# Electronic Led 0805 Red  
+# Electronic LED 0805 Red  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -30,48 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color | red |  
-| color_capital | Red |  
-| color_first_letter | r |  
-| color_first_letter_upper | R |  
-| color_upper | RED |  
+| color_length_1 | r |  
+| color_length_2 | re |  
+| color_length_3 | red |  
+| color_length_4 | red |  
+| color_length_5 | red |  
+| color_length_6 | red |  
+| color_name | Red |  
+| color_no_space_length_1 | r |  
+| color_no_space_length_2 | re |  
+| color_no_space_length_3 | red |  
+| color_no_space_length_4 | red |  
+| color_no_space_length_5 | red |  
+| color_no_space_length_6 | red |  
+| color_no_space_upper_length_1 | R |  
+| color_no_space_upper_length_2 | RE |  
+| color_no_space_upper_length_3 | RED |  
+| color_no_space_upper_length_4 | RED |  
+| color_no_space_upper_length_5 | RED |  
+| color_no_space_upper_length_6 | RED |  
+| color_upper_length_1 | R |  
+| color_upper_length_2 | RE |  
+| color_upper_length_3 | RED |  
+| color_upper_length_4 | RED |  
+| color_upper_length_5 | RED |  
+| color_upper_length_6 | RED |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main |  |  
-| description_main_capital |  |  
-| description_main_first_letter |  |  
-| description_main_first_letter_upper |  |  
-| description_main_upper |  |  
-| description_only_numbers |  |  
-| description_only_numbers_short |   |  
-| description_or_color | R  |  
-| description_or_color_upper | R  |  
+| description_main_name |  |  
 | directory | parts/electronic_led_0805_red |  
-| distributors | [] |  
-| filter |  |  
-| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0805_2012metric', 'note': 'source footprint kicad_led_smd_led_0805_2012metric', 'oomp_key': 'oomp_kicad_led_smd_led_0805_2012metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_l8r_electronic_led_0805_red'}] |  
-| from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red |  
 | id | electronic_led_0805_red |  
 | id_no_class | led_0805_red |  
+| id_no_color | red |  
 | id_no_size | red |  
 | id_no_type | 0805_red |  
-| kicad_reference | L |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[l8r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br>[Electronic Led 0805 Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br> |  
-| markdown_short | [electronic_led_0805_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_red/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | fb973f60131a78a8c7072cbdb940a30b |  
 | md5_10 | fb973f6013 |  
 | md5_10_upper | FB973F6013 |  
@@ -81,39 +103,68 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 9tef3 |  
 | md5_6_alpha_upper | 9TEF3 |  
 | md5_6_upper | FB973F |  
-| name | Electronic Led 0805 Red |  
-| name_no_class | Led 0805 Red |  
+| name | Electronic LED 0805 Red |  
+| name_no_class | LED 0805 Red |  
+| name_no_color | Red |  
 | name_no_size | Red |  
-| name_no_size_short | Red |  
 | name_no_type | 0805 Red |  
 | oomp_key | oomp_electronic_led_0805_red |  
 | oomp_word | ok baseball horse |  
 | oomp_word_emoji | :ok: :baseball: :horse: |  
 | oomp_word_emoji_list | [':ok:', ':baseball:', ':horse:'] |  
 | oomp_word_list | ['ok', 'baseball', 'horse'] |  
-| package_style | smd_tape |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code | l8r |  
-| short_code_upper | L8R |  
-| short_name | 0805 Red Led |  
+| part_number_name |  |  
 | size | 0805 |  
-| size_capital | 0805 |  
-| size_first_letter | 0 |  
-| size_first_letter_upper | 0 |  
-| size_only_numbers | 0805 |  
-| size_only_numbers_no_zeros | 85 |  
-| size_upper | 0805 |  
-| smd_tape_depth | 1_5_mm |  
-| smd_tape_pitch | 4_mm |  
-| smd_tape_width | 8_mm |  
-| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led', 'oomp_key': 'oomp_kicad_device_led'}] |  
+| size_length_1 | 0 |  
+| size_length_2 | 08 |  
+| size_length_3 | 080 |  
+| size_length_4 | 0805 |  
+| size_length_5 | 0805 |  
+| size_length_6 | 0805 |  
+| size_name | 0805 |  
+| size_no_space_length_1 | 0 |  
+| size_no_space_length_2 | 08 |  
+| size_no_space_length_3 | 080 |  
+| size_no_space_length_4 | 0805 |  
+| size_no_space_length_5 | 0805 |  
+| size_no_space_length_6 | 0805 |  
+| size_no_space_upper_length_1 | 0 |  
+| size_no_space_upper_length_2 | 08 |  
+| size_no_space_upper_length_3 | 080 |  
+| size_no_space_upper_length_4 | 0805 |  
+| size_no_space_upper_length_5 | 0805 |  
+| size_no_space_upper_length_6 | 0805 |  
+| size_upper_length_1 | 0 |  
+| size_upper_length_2 | 08 |  
+| size_upper_length_3 | 080 |  
+| size_upper_length_4 | 0805 |  
+| size_upper_length_5 | 0805 |  
+| size_upper_length_6 | 0805 |  
 | type | led |  
-| type_capital | Led |  
-| type_first_letter | l |  
-| type_first_letter_upper | L |  
-| type_upper | LED |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | l |  
+| type_length_2 | le |  
+| type_length_3 | led |  
+| type_length_4 | led |  
+| type_length_5 | led |  
+| type_length_6 | led |  
+| type_name | LED |  
+| type_no_space_length_1 | l |  
+| type_no_space_length_2 | le |  
+| type_no_space_length_3 | led |  
+| type_no_space_length_4 | led |  
+| type_no_space_length_5 | led |  
+| type_no_space_length_6 | led |  
+| type_no_space_upper_length_1 | L |  
+| type_no_space_upper_length_2 | LE |  
+| type_no_space_upper_length_3 | LED |  
+| type_no_space_upper_length_4 | LED |  
+| type_no_space_upper_length_5 | LED |  
+| type_no_space_upper_length_6 | LED |  
+| type_upper_length_1 | L |  
+| type_upper_length_2 | LE |  
+| type_upper_length_3 | LED |  
+| type_upper_length_4 | LED |  
+| type_upper_length_5 | LED |  
+| type_upper_length_6 | LED |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

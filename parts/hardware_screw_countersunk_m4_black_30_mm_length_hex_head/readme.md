@@ -157,7 +157,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_size | Black 30 mm Length Hex Head |  
 | name_no_type | M4 Black 30 mm Length Hex Head |  
 | oomlout_bolt_color | Black |  
-| oomlout_bolt_head_type | Hex |  
+| oomlout_bolt_head_type | Hex Head |  
 | oomlout_bolt_head_type_diagram | head_type_diagram.png |  
 | oomlout_bolt_length | 30 mm |  
 | oomlout_bolt_length_no_unit | 30 |  
@@ -169,7 +169,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomlout_bolt_md5_6_first_3_upper | 3BA |  
 | oomlout_bolt_md5_6_last_3 | 1bb |  
 | oomlout_bolt_md5_6_last_3_upper | 1BB |  
-| oomlout_bolt_name | Countersunk M4X30 mm Black (Hex) |  
+| oomlout_bolt_name | Countersunk M4X30 mm Black (Hex Head) |  
 | oomlout_bolt_size | M4 |  
 | oomlout_bolt_type | Countersunk |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  

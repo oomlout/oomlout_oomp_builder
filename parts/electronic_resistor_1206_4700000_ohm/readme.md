@@ -30,48 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | 4700000_ohm |  
-| description_main_capital | 4700000 Ohm |  
-| description_main_first_letter | 4 |  
-| description_main_first_letter_upper | 4 |  
-| description_main_upper | 4700000_OHM |  
-| description_only_numbers | 4700000 |  
-| description_only_numbers_short | 4M7 |  
-| description_or_color | 4M7 |  
-| description_or_color_upper | 4M7 |  
+| description_main_length_1 | 4 |  
+| description_main_length_2 | 47 |  
+| description_main_length_3 | 470 |  
+| description_main_length_4 | 4700 |  
+| description_main_length_5 | 47000 |  
+| description_main_length_6 | 470000 |  
+| description_main_name | 4700000 Ohm |  
+| description_main_no_space_length_1 | 4 |  
+| description_main_no_space_length_2 | 47 |  
+| description_main_no_space_length_3 | 470 |  
+| description_main_no_space_length_4 | 4700 |  
+| description_main_no_space_length_5 | 47000 |  
+| description_main_no_space_length_6 | 470000 |  
+| description_main_no_space_upper_length_1 | 4 |  
+| description_main_no_space_upper_length_2 | 47 |  
+| description_main_no_space_upper_length_3 | 470 |  
+| description_main_no_space_upper_length_4 | 4700 |  
+| description_main_no_space_upper_length_5 | 47000 |  
+| description_main_no_space_upper_length_6 | 470000 |  
+| description_main_upper_length_1 | 4 |  
+| description_main_upper_length_2 | 47 |  
+| description_main_upper_length_3 | 470 |  
+| description_main_upper_length_4 | 4700 |  
+| description_main_upper_length_5 | 47000 |  
+| description_main_upper_length_6 | 470000 |  
 | directory | parts/electronic_resistor_1206_4700000_ohm |  
-| distributors | [] |  
-| filter |  |  
-| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_1206_3216metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_1206_3216metric', 'note': 'source footprint kicad_resistor_smd_r_1206_3216metric', 'oomp_key': 'oomp_kicad_resistor_smd_r_1206_3216metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r12o475_electronic_resistor_1206_4700000_ohm//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r12o475_electronic_resistor_1206_4700000_ohm', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_r12o475_electronic_resistor_1206_4700000_ohm'}] |  
-| from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm |  
 | id | electronic_resistor_1206_4700000_ohm |  
 | id_no_class | resistor_1206_4700000_ohm |  
+| id_no_color | 4700000ohm |  
 | id_no_size | 4700000_ohm |  
 | id_no_type | 1206_4700000_ohm |  
-| kicad_reference | R |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_resistor_1206_4700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br>[r12o475](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br>[Electronic Resistor 1206 4700000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br><br> |  
-| markdown_short | [electronic_resistor_1206_4700000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_4700000_ohm/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | d8f94c95ceab77bfd6f6a8b9f4c6af21 |  
 | md5_10 | d8f94c95ce |  
 | md5_10_upper | D8F94C95CE |  
@@ -83,36 +105,66 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | D8F94C |  
 | name | Electronic Resistor 1206 4700000 Ohm |  
 | name_no_class | Resistor 1206 4700000 Ohm |  
+| name_no_color | 4700000Ohm |  
 | name_no_size | 4700000 Ohm |  
-| name_no_size_short | 4M7 Ohm |  
 | name_no_type | 1206 4700000 Ohm |  
 | oomp_key | oomp_electronic_resistor_1206_4700000_ohm |  
 | oomp_word | hospital eight turtle |  
 | oomp_word_emoji | :hospital: :eight: :turtle: |  
 | oomp_word_emoji_list | [':hospital:', ':eight:', ':turtle:'] |  
 | oomp_word_list | ['hospital', 'eight', 'turtle'] |  
-| package_style | smd_tape |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code | r12o475 |  
-| short_code_upper | R12O475 |  
+| part_number_name |  |  
 | size | 1206 |  
-| size_capital | 1206 |  
-| size_first_letter | 1 |  
-| size_first_letter_upper | 1 |  
-| size_only_numbers | 1206 |  
-| size_only_numbers_no_zeros | 126 |  
-| size_upper | 1206 |  
-| smd_tape_depth | 1_5_mm |  
-| smd_tape_pitch | 4_mm |  
-| smd_tape_width | 8_mm |  
-| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r', 'oomp_key': 'oomp_kicad_device_r'}] |  
+| size_length_1 | 1 |  
+| size_length_2 | 12 |  
+| size_length_3 | 120 |  
+| size_length_4 | 1206 |  
+| size_length_5 | 1206 |  
+| size_length_6 | 1206 |  
+| size_name | 1206 |  
+| size_no_space_length_1 | 1 |  
+| size_no_space_length_2 | 12 |  
+| size_no_space_length_3 | 120 |  
+| size_no_space_length_4 | 1206 |  
+| size_no_space_length_5 | 1206 |  
+| size_no_space_length_6 | 1206 |  
+| size_no_space_upper_length_1 | 1 |  
+| size_no_space_upper_length_2 | 12 |  
+| size_no_space_upper_length_3 | 120 |  
+| size_no_space_upper_length_4 | 1206 |  
+| size_no_space_upper_length_5 | 1206 |  
+| size_no_space_upper_length_6 | 1206 |  
+| size_upper_length_1 | 1 |  
+| size_upper_length_2 | 12 |  
+| size_upper_length_3 | 120 |  
+| size_upper_length_4 | 1206 |  
+| size_upper_length_5 | 1206 |  
+| size_upper_length_6 | 1206 |  
 | type | resistor |  
-| type_capital | Resistor |  
-| type_first_letter | r |  
-| type_first_letter_upper | R |  
-| type_upper | RESISTOR |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | r |  
+| type_length_2 | re |  
+| type_length_3 | res |  
+| type_length_4 | resi |  
+| type_length_5 | resis |  
+| type_length_6 | resist |  
+| type_name | Resistor |  
+| type_no_space_length_1 | r |  
+| type_no_space_length_2 | re |  
+| type_no_space_length_3 | res |  
+| type_no_space_length_4 | resi |  
+| type_no_space_length_5 | resis |  
+| type_no_space_length_6 | resist |  
+| type_no_space_upper_length_1 | R |  
+| type_no_space_upper_length_2 | RE |  
+| type_no_space_upper_length_3 | RES |  
+| type_no_space_upper_length_4 | RESI |  
+| type_no_space_upper_length_5 | RESIS |  
+| type_no_space_upper_length_6 | RESIST |  
+| type_upper_length_1 | R |  
+| type_upper_length_2 | RE |  
+| type_upper_length_3 | RES |  
+| type_upper_length_4 | RESI |  
+| type_upper_length_5 | RESIS |  
+| type_upper_length_6 | RESIST |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

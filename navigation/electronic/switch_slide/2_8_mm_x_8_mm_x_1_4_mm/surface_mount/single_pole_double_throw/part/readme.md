@@ -1,4 +1,4 @@
-# Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw  
+# Electronic Switch Slide 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -30,45 +30,94 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color | surface_mount |  
-| color_capital | Surface Mount |  
-| color_first_letter | s |  
-| color_first_letter_upper | S |  
-| color_upper | SURFACE_MOUNT |  
+| color_length_1 | s |  
+| color_length_2 | su |  
+| color_length_3 | sur |  
+| color_length_4 | surf |  
+| color_length_5 | surfa |  
+| color_length_6 | surfac |  
+| color_name | Surface Mount |  
+| color_no_space_length_1 | s |  
+| color_no_space_length_2 | su |  
+| color_no_space_length_3 | sur |  
+| color_no_space_length_4 | surf |  
+| color_no_space_length_5 | surfa |  
+| color_no_space_length_6 | surfac |  
+| color_no_space_upper_length_1 | S |  
+| color_no_space_upper_length_2 | SU |  
+| color_no_space_upper_length_3 | SUR |  
+| color_no_space_upper_length_4 | SURF |  
+| color_no_space_upper_length_5 | SURFA |  
+| color_no_space_upper_length_6 | SURFAC |  
+| color_upper_length_1 | S |  
+| color_upper_length_2 | SU |  
+| color_upper_length_3 | SUR |  
+| color_upper_length_4 | SURF |  
+| color_upper_length_5 | SURFA |  
+| color_upper_length_6 | SURFAC |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | single_pole_double_throw |  
-| description_main_capital | Single Pole Double Throw |  
-| description_main_first_letter | s |  
-| description_main_first_letter_upper | S |  
-| description_main_upper | SINGLE_POLE_DOUBLE_THROW |  
-| description_only_numbers |  |  
-| description_only_numbers_short |   |  
-| description_or_color | S  |  
-| description_or_color_upper | S  |  
+| description_main_length_1 | s |  
+| description_main_length_2 | si |  
+| description_main_length_3 | sin |  
+| description_main_length_4 | sing |  
+| description_main_length_5 | singl |  
+| description_main_length_6 | single |  
+| description_main_name | Single Pole Double Throw |  
+| description_main_no_space_length_1 | s |  
+| description_main_no_space_length_2 | si |  
+| description_main_no_space_length_3 | sin |  
+| description_main_no_space_length_4 | sing |  
+| description_main_no_space_length_5 | singl |  
+| description_main_no_space_length_6 | single |  
+| description_main_no_space_upper_length_1 | S |  
+| description_main_no_space_upper_length_2 | SI |  
+| description_main_no_space_upper_length_3 | SIN |  
+| description_main_no_space_upper_length_4 | SING |  
+| description_main_no_space_upper_length_5 | SINGL |  
+| description_main_no_space_upper_length_6 | SINGLE |  
+| description_main_upper_length_1 | S |  
+| description_main_upper_length_2 | SI |  
+| description_main_upper_length_3 | SIN |  
+| description_main_upper_length_4 | SING |  
+| description_main_upper_length_5 | SINGL |  
+| description_main_upper_length_6 | SINGLE |  
 | directory | parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
-| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C431540.html', 'name': 'LCSC', 'part_number': 'C431540'}] |  
-| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_button_switch_smd_sw_spdt_pcm12//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_button_switch_smd_sw_spdt_pcm12', 'note': 'source footprint kicad_button_switch_smd_sw_spdt_pcm12', 'oomp_key': 'oomp_kicad_button_switch_smd_sw_spdt_pcm12'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_sws2880s_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw'}] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | id | electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | id_no_class | switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| id_no_color | single_pole_double_throw |  
 | id_no_size | surface_mount_single_pole_double_throw |  
 | id_no_type | 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[sws2880s](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
-| markdown_short | [electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw/working)<br>[LCSC - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br> |  
+| manufacturer_name |  |  
 | md5 | 4c18b3b1e7fc9152eea1c1d675c0327e |  
 | md5_10 | 4c18b3b1e7 |  
 | md5_10_upper | 4C18B3B1E7 |  
@@ -78,35 +127,68 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 2yw1f |  
 | md5_6_alpha_upper | 2YW1F |  
 | md5_6_upper | 4C18B3 |  
-| name | Electronic Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw |  
-| name_no_class | Switch Slide 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw |  
+| name | Electronic Switch Slide 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw |  
+| name_no_class | Switch Slide 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw |  
+| name_no_color | Single Pole Double Throw |  
 | name_no_size | Surface Mount Single Pole Double Throw |  
-| name_no_size_short | Surface Mount Single Pole Double Throw |  
-| name_no_type | 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw |  
+| name_no_type | 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw |  
 | oomp_key | oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | oomp_word | turtle hand eyeglasses |  
 | oomp_word_emoji | :turtle: :hand: :eyeglasses: |  
 | oomp_word_emoji_list | [':turtle:', ':hand:', ':eyeglasses:'] |  
 | oomp_word_list | ['turtle', 'hand', 'eyeglasses'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code | sws2880s |  
-| short_code_upper | SWS2880S |  
-| short_name |  |  
+| part_number_name |  |  
 | size | 2_8_mm_x_8_mm_x_1_4_mm |  
-| size_capital | 2.8 mm x 8 mm x 1.4 mm |  
-| size_first_letter | 2 |  
-| size_first_letter_upper | 2 |  
-| size_only_numbers | 28814 |  
-| size_only_numbers_no_zeros | 28814 |  
-| size_upper | 2_8_MM_X_8_MM_X_1_4_MM |  
-| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_spdt//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_spdt', 'oomp_key': 'oomp_kicad_switch_sw_spdt'}] |  
+| size_length_1 | 2 |  
+| size_length_2 | 2_ |  
+| size_length_3 | 2_8 |  
+| size_length_4 | 2_8_ |  
+| size_length_5 | 2_8_m |  
+| size_length_6 | 2_8_mm |  
+| size_name | 2 8 mm X 8 mm X 1 4 mm |  
+| size_no_space_length_1 | 2 |  
+| size_no_space_length_2 | 28 |  
+| size_no_space_length_3 | 28m |  
+| size_no_space_length_4 | 28mm |  
+| size_no_space_length_5 | 28mmx |  
+| size_no_space_length_6 | 28mmx8 |  
+| size_no_space_upper_length_1 | 2 |  
+| size_no_space_upper_length_2 | 28 |  
+| size_no_space_upper_length_3 | 28M |  
+| size_no_space_upper_length_4 | 28MM |  
+| size_no_space_upper_length_5 | 28MMX |  
+| size_no_space_upper_length_6 | 28MMX8 |  
+| size_upper_length_1 | 2 |  
+| size_upper_length_2 | 2_ |  
+| size_upper_length_3 | 2_8 |  
+| size_upper_length_4 | 2_8_ |  
+| size_upper_length_5 | 2_8_M |  
+| size_upper_length_6 | 2_8_MM |  
 | type | switch_slide |  
-| type_capital | Switch Slide |  
-| type_first_letter | s |  
-| type_first_letter_upper | S |  
-| type_upper | SWITCH_SLIDE |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | s |  
+| type_length_2 | sw |  
+| type_length_3 | swi |  
+| type_length_4 | swit |  
+| type_length_5 | switc |  
+| type_length_6 | switch |  
+| type_name | Switch Slide |  
+| type_no_space_length_1 | s |  
+| type_no_space_length_2 | sw |  
+| type_no_space_length_3 | swi |  
+| type_no_space_length_4 | swit |  
+| type_no_space_length_5 | switc |  
+| type_no_space_length_6 | switch |  
+| type_no_space_upper_length_1 | S |  
+| type_no_space_upper_length_2 | SW |  
+| type_no_space_upper_length_3 | SWI |  
+| type_no_space_upper_length_4 | SWIT |  
+| type_no_space_upper_length_5 | SWITC |  
+| type_no_space_upper_length_6 | SWITCH |  
+| type_upper_length_1 | S |  
+| type_upper_length_2 | SW |  
+| type_upper_length_3 | SWI |  
+| type_upper_length_4 | SWIT |  
+| type_upper_length_5 | SWITC |  
+| type_upper_length_6 | SWITCH |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

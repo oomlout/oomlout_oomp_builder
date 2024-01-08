@@ -5,7 +5,7 @@
 viewBox="0 0 30000 30000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -51,14 +51,14 @@ viewBox="0 0 30000 30000"
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <text x="3509" y="1830"  class="fil0 fnt0">packaging_takeaway_container_circle</text>
   <text x="2512" y="3781"  class="fil0 fnt0">30_ml_hinged_lid_majestic_05385_pv11</text>
-  <circle class="fil1 str0" cx="12000" cy="9600" r="2350"/>
-  <circle class="fil1 str0" cx="12000" cy="15600" r="2000"/>
-  <g id="_920892064">
-   <circle class="fil1 str0" cx="19500" cy="15600" r="2500"/>
-   <circle class="fil1 str0" cx="19500" cy="15600" r="2000"/>
-  </g>
-  <path class="fil1 str0" d="M12425 13136c1178,202 2075,1228 2075,2464 0,1381 -1119,2500 -2500,2500 -1381,0 -2500,-1119 -2500,-2500 0,-1236 897,-2262 2075,-2464l0 -1022c-1206,-202 -2125,-1251 -2125,-2515 0,-1147 758,-2118 1800,-2438l0 -412 1500 0 0 412c1042,320 1800,1291 1800,2438 0,1264 -919,2312 -2125,2515l0 1022z"/>
-  <line class="fil1 str0" x1="11575" y1="12600" x2="12425" y2= "12625" />
-  <polygon class="fil1 str0" points="14500,20400 9500,20400 9500,20450 9650,20450 9750,20800 10000,22800 14000,22800 14250,20800 14350,20450 14500,20450 "/>
+  <circle class="fil1 str0" cx="12000" cy="7500" r="2350"/>
+  <circle class="fil1 str0" cx="12000" cy="13500" r="2000"/>
+  <path class="fil1 str0" d="M12425 11036c1178,202 2075,1228 2075,2464 0,1381 -1119,2500 -2500,2500 -1381,0 -2500,-1119 -2500,-2500 0,-1236 897,-2262 2075,-2464l0 -1022c-1206,-202 -2125,-1251 -2125,-2515 0,-1147 758,-2118 1800,-2438l0 -412 1500 0 0 412c1042,320 1800,1291 1800,2438 0,1264 -919,2312 -2125,2515l0 1022z"/>
+  <line class="fil1 str0" x1="11575" y1="10500" x2="12425" y2= "10525" />
+  <polygon class="fil1 str0" points="14500,18300 9500,18300 9500,18350 9650,18350 9750,18700 10000,20700 14000,20700 14250,18700 14350,18350 14500,18350 "/>
+  <circle class="fil1 str0" cx="19500" cy="13500" r="2000"/>
+  <path class="fil1 str0" d="M18750 15885c-1014,-319 -1750,-1266 -1750,-2385 0,-1236 897,-2262 2075,-2464l0 -536 850 0 0 536c1178,202 2075,1228 2075,2464 0,1119 -736,2067 -1750,2385l0 465 -1500 0 0 -465z"/>
+  <circle class="fil1 str0" cx="12000" cy="25500" r="2300"/>
+  <circle class="fil1 str0" cx="19500" cy="25500" r="2450"/>
  </g>
 </svg>
