@@ -30,70 +30,44 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_length_1 | o |  
-| classification_length_2 | oo |  
-| classification_length_3 | oob |  
-| classification_length_4 | oobb |  
-| classification_length_5 | oobb |  
-| classification_length_6 | oobb |  
-| classification_name | Oobb |  
-| classification_no_space_length_1 | o |  
-| classification_no_space_length_2 | oo |  
-| classification_no_space_length_3 | oob |  
-| classification_no_space_length_4 | oobb |  
-| classification_no_space_length_5 | oobb |  
-| classification_no_space_length_6 | oobb |  
-| classification_no_space_upper_length_1 | O |  
-| classification_no_space_upper_length_2 | OO |  
-| classification_no_space_upper_length_3 | OOB |  
-| classification_no_space_upper_length_4 | OOBB |  
-| classification_no_space_upper_length_5 | OOBB |  
-| classification_no_space_upper_length_6 | OOBB |  
-| classification_upper_length_1 | O |  
-| classification_upper_length_2 | OO |  
-| classification_upper_length_3 | OOB |  
-| classification_upper_length_4 | OOBB |  
-| classification_upper_length_5 | OOBB |  
-| classification_upper_length_6 | OOBB |  
+| classification_capital | Oobb |  
+| classification_first_letter | o |  
+| classification_first_letter_upper | O |  
+| classification_upper | OOBB |  
 | color |  |  
-| color_name |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
 | description_extra | motor_n20_shaft |  
-| description_extra_length_1 | m |  
-| description_extra_length_2 | mo |  
-| description_extra_length_3 | mot |  
-| description_extra_length_4 | moto |  
-| description_extra_length_5 | motor |  
-| description_extra_length_6 | motor_ |  
-| description_extra_name | Motor N20 Shaft |  
-| description_extra_no_space_length_1 | m |  
-| description_extra_no_space_length_2 | mo |  
-| description_extra_no_space_length_3 | mot |  
-| description_extra_no_space_length_4 | moto |  
-| description_extra_no_space_length_5 | motor |  
-| description_extra_no_space_length_6 | motorn |  
-| description_extra_no_space_upper_length_1 | M |  
-| description_extra_no_space_upper_length_2 | MO |  
-| description_extra_no_space_upper_length_3 | MOT |  
-| description_extra_no_space_upper_length_4 | MOTO |  
-| description_extra_no_space_upper_length_5 | MOTOR |  
-| description_extra_no_space_upper_length_6 | MOTORN |  
-| description_extra_upper_length_1 | M |  
-| description_extra_upper_length_2 | MO |  
-| description_extra_upper_length_3 | MOT |  
-| description_extra_upper_length_4 | MOTO |  
-| description_extra_upper_length_5 | MOTOR |  
-| description_extra_upper_length_6 | MOTOR_ |  
+| description_extra_capital | Motor N20 Shaft |  
+| description_extra_first_letter | m |  
+| description_extra_first_letter_upper | M |  
+| description_extra_upper | MOTOR_N20_SHAFT |  
 | description_main |  |  
-| description_main_name |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
 | directory | parts/oobb_part_test_motor_n20_shaft |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft/working |  
 | id | oobb_part_test_motor_n20_shaft |  
 | id_no_class | part_test_motor_n20_shaft |  
-| id_no_color | motorn20shaft |  
 | id_no_size | motor_n20_shaft |  
 | id_no_type | test_motor_n20_shaft |  
 | manufacturer |  |  
-| manufacturer_name |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [oobb_part_test_motor_n20_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft/working)<br>[Oobb Part Test Motor N20 Shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft/working)<br><br> |  
+| markdown_short | [oobb_part_test_motor_n20_shaft](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_n20_shaft/working)<br><br> |  
 | md5 | 6e0661ba79ce1d34fa2bc8525ba69a2d |  
 | md5_10 | 6e0661ba79 |  
 | md5_10_upper | 6E0661BA79 |  
@@ -105,8 +79,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | 6E0661 |  
 | name | Oobb Part Test Motor N20 Shaft |  
 | name_no_class | Part Test Motor N20 Shaft |  
-| name_no_color | Motorn20Shaft |  
 | name_no_size | Motor N20 Shaft |  
+| name_no_size_short | Motor N20 Shaft |  
 | name_no_type | Test Motor N20 Shaft |  
 | oomp_key | oomp_oobb_part_test_motor_n20_shaft |  
 | oomp_word | new_moon sleeping bouquet |  
@@ -114,57 +88,23 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':new_moon:', ':sleeping:', ':bouquet:'] |  
 | oomp_word_list | ['new_moon', 'sleeping', 'bouquet'] |  
 | part_number |  |  
-| part_number_name |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
+| short_name |  |  
 | size | test |  
-| size_length_1 | t |  
-| size_length_2 | te |  
-| size_length_3 | tes |  
-| size_length_4 | test |  
-| size_length_5 | test |  
-| size_length_6 | test |  
-| size_name | Test |  
-| size_no_space_length_1 | t |  
-| size_no_space_length_2 | te |  
-| size_no_space_length_3 | tes |  
-| size_no_space_length_4 | test |  
-| size_no_space_length_5 | test |  
-| size_no_space_length_6 | test |  
-| size_no_space_upper_length_1 | T |  
-| size_no_space_upper_length_2 | TE |  
-| size_no_space_upper_length_3 | TES |  
-| size_no_space_upper_length_4 | TEST |  
-| size_no_space_upper_length_5 | TEST |  
-| size_no_space_upper_length_6 | TEST |  
-| size_upper_length_1 | T |  
-| size_upper_length_2 | TE |  
-| size_upper_length_3 | TES |  
-| size_upper_length_4 | TEST |  
-| size_upper_length_5 | TEST |  
-| size_upper_length_6 | TEST |  
+| size_capital | Test |  
+| size_first_letter | t |  
+| size_first_letter_upper | T |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | TEST |  
 | type | part |  
-| type_length_1 | p |  
-| type_length_2 | pa |  
-| type_length_3 | par |  
-| type_length_4 | part |  
-| type_length_5 | part |  
-| type_length_6 | part |  
-| type_name | Part |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pa |  
-| type_no_space_length_3 | par |  
-| type_no_space_length_4 | part |  
-| type_no_space_length_5 | part |  
-| type_no_space_length_6 | part |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PA |  
-| type_no_space_upper_length_3 | PAR |  
-| type_no_space_upper_length_4 | PART |  
-| type_no_space_upper_length_5 | PART |  
-| type_no_space_upper_length_6 | PART |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PA |  
-| type_upper_length_3 | PAR |  
-| type_upper_length_4 | PART |  
-| type_upper_length_5 | PART |  
-| type_upper_length_6 | PART |  
-| files | ['base.yaml', 'working.yaml'] |  
+| type_capital | Part |  
+| type_first_letter | p |  
+| type_first_letter_upper | P |  
+| type_upper | PART |  
+| files | ['base.yaml', 'readme.md', 'working.json', 'working.yaml'] |  

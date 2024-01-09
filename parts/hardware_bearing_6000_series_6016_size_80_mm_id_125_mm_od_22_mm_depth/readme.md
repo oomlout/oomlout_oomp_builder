@@ -1,4 +1,4 @@
-# Hardware Bearing 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth  
+# Hardware Bearing 6000 Series 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: br6016
+* short_code: 
 * oomp_word: tomato boat ring
 * oomp_word_emoji :tomato: :boat: :ring:
 * md5_6_alpha: 89me8
@@ -30,94 +30,46 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_length_1 | h |  
-| classification_length_2 | ha |  
-| classification_length_3 | har |  
-| classification_length_4 | hard |  
-| classification_length_5 | hardw |  
-| classification_length_6 | hardwa |  
-| classification_name | Hardware |  
-| classification_no_space_length_1 | h |  
-| classification_no_space_length_2 | ha |  
-| classification_no_space_length_3 | har |  
-| classification_no_space_length_4 | hard |  
-| classification_no_space_length_5 | hardw |  
-| classification_no_space_length_6 | hardwa |  
-| classification_no_space_upper_length_1 | H |  
-| classification_no_space_upper_length_2 | HA |  
-| classification_no_space_upper_length_3 | HAR |  
-| classification_no_space_upper_length_4 | HARD |  
-| classification_no_space_upper_length_5 | HARDW |  
-| classification_no_space_upper_length_6 | HARDWA |  
-| classification_upper_length_1 | H |  
-| classification_upper_length_2 | HA |  
-| classification_upper_length_3 | HAR |  
-| classification_upper_length_4 | HARD |  
-| classification_upper_length_5 | HARDW |  
-| classification_upper_length_6 | HARDWA |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
+| classification_upper | HARDWARE |  
 | color | 6016_size |  
-| color_length_1 | 6 |  
-| color_length_2 | 60 |  
-| color_length_3 | 601 |  
-| color_length_4 | 6016 |  
-| color_length_5 | 6016_ |  
-| color_length_6 | 6016_s |  
-| color_name | 6016 Size |  
-| color_no_space_length_1 | 6 |  
-| color_no_space_length_2 | 60 |  
-| color_no_space_length_3 | 601 |  
-| color_no_space_length_4 | 6016 |  
-| color_no_space_length_5 | 6016s |  
-| color_no_space_length_6 | 6016si |  
-| color_no_space_upper_length_1 | 6 |  
-| color_no_space_upper_length_2 | 60 |  
-| color_no_space_upper_length_3 | 601 |  
-| color_no_space_upper_length_4 | 6016 |  
-| color_no_space_upper_length_5 | 6016S |  
-| color_no_space_upper_length_6 | 6016SI |  
-| color_upper_length_1 | 6 |  
-| color_upper_length_2 | 60 |  
-| color_upper_length_3 | 601 |  
-| color_upper_length_4 | 6016 |  
-| color_upper_length_5 | 6016_ |  
-| color_upper_length_6 | 6016_S |  
+| color_capital | 6016 Size |  
+| color_first_letter | 6 |  
+| color_first_letter_upper | 6 |  
+| color_upper | 6016_SIZE |  
 | description_extra |  |  
-| description_extra_name |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
 | description_main | 80_mm_id_125_mm_od_22_mm_depth |  
-| description_main_length_1 | 8 |  
-| description_main_length_2 | 80 |  
-| description_main_length_3 | 80_ |  
-| description_main_length_4 | 80_m |  
-| description_main_length_5 | 80_mm |  
-| description_main_length_6 | 80_mm_ |  
-| description_main_name | 80 mm ID 125 mm OD 22 mm Depth |  
-| description_main_no_space_length_1 | 8 |  
-| description_main_no_space_length_2 | 80 |  
-| description_main_no_space_length_3 | 80m |  
-| description_main_no_space_length_4 | 80mm |  
-| description_main_no_space_length_5 | 80mmi |  
-| description_main_no_space_length_6 | 80mmid |  
-| description_main_no_space_upper_length_1 | 8 |  
-| description_main_no_space_upper_length_2 | 80 |  
-| description_main_no_space_upper_length_3 | 80M |  
-| description_main_no_space_upper_length_4 | 80MM |  
-| description_main_no_space_upper_length_5 | 80MMI |  
-| description_main_no_space_upper_length_6 | 80MMID |  
-| description_main_upper_length_1 | 8 |  
-| description_main_upper_length_2 | 80 |  
-| description_main_upper_length_3 | 80_ |  
-| description_main_upper_length_4 | 80_M |  
-| description_main_upper_length_5 | 80_MM |  
-| description_main_upper_length_6 | 80_MM_ |  
+| description_main_capital | 80 mm Id 125 mm Od 22 mm Depth |  
+| description_main_first_letter | 8 |  
+| description_main_first_letter_upper | 8 |  
+| description_main_upper | 80_MM_ID_125_MM_OD_22_MM_DEPTH |  
+| description_only_numbers | 8012522 |  
+| description_only_numbers_short | 8M |  
+| description_or_color | 68M |  
+| description_or_color_upper | 68M |  
 | directory | parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth/working |  
 | id | hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
 | id_no_class | bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
-| id_no_color | 80_mm_id_125_mm_od_22_mm_depth |  
 | id_no_size | 6016_size_80_mm_id_125_mm_od_22_mm_depth |  
 | id_no_type | 6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
 | manufacturer |  |  
-| manufacturer_name |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth/working)<br>[Hardware Bearing 6000 Series 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth/working)<br><br> |  
 | md5 | d3e1a03868168b97c424a2e5bea10307 |  
 | md5_10 | d3e1a03868 |  
 | md5_10_upper | D3E1A03868 |  
@@ -127,70 +79,33 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 89me8 |  
 | md5_6_alpha_upper | 89ME8 |  
 | md5_6_upper | D3E1A0 |  
-| name | Hardware Bearing 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth |  
-| name_no_class | Bearing 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth |  
-| name_no_color | 80 mm ID 125 mm OD 22 mm Depth |  
-| name_no_size | 6016 Size 80 mm ID 125 mm OD 22 mm Depth |  
-| name_no_type | 6000 Series 6016 Size 80 mm ID 125 mm OD 22 mm Depth |  
-| oomlout_short_code | br6016 |  
-| oomlout_short_code_upper | BR6016 |  
+| name | Hardware Bearing 6000 Series 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth |  
+| name_no_class | Bearing 6000 Series 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth |  
+| name_no_size | 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth |  
+| name_no_size_short | 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth |  
+| name_no_type | 6000 Series 6016 Size 80 Mm Id 125 Mm Od 22 Mm Depth |  
 | oomp_key | oomp_hardware_bearing_6000_series_6016_size_80_mm_id_125_mm_od_22_mm_depth |  
 | oomp_word | tomato boat ring |  
 | oomp_word_emoji | :tomato: :boat: :ring: |  
 | oomp_word_emoji_list | [':tomato:', ':boat:', ':ring:'] |  
 | oomp_word_list | ['tomato', 'boat', 'ring'] |  
 | part_number |  |  
-| part_number_name |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | 6000_series |  
-| size_length_1 | 6 |  
-| size_length_2 | 60 |  
-| size_length_3 | 600 |  
-| size_length_4 | 6000 |  
-| size_length_5 | 6000_ |  
-| size_length_6 | 6000_s |  
-| size_name | 6000 Series |  
-| size_no_space_length_1 | 6 |  
-| size_no_space_length_2 | 60 |  
-| size_no_space_length_3 | 600 |  
-| size_no_space_length_4 | 6000 |  
-| size_no_space_length_5 | 6000s |  
-| size_no_space_length_6 | 6000se |  
-| size_no_space_upper_length_1 | 6 |  
-| size_no_space_upper_length_2 | 60 |  
-| size_no_space_upper_length_3 | 600 |  
-| size_no_space_upper_length_4 | 6000 |  
-| size_no_space_upper_length_5 | 6000S |  
-| size_no_space_upper_length_6 | 6000SE |  
-| size_upper_length_1 | 6 |  
-| size_upper_length_2 | 60 |  
-| size_upper_length_3 | 600 |  
-| size_upper_length_4 | 6000 |  
-| size_upper_length_5 | 6000_ |  
-| size_upper_length_6 | 6000_S |  
+| size_capital | 6000 Series |  
+| size_first_letter | 6 |  
+| size_first_letter_upper | 6 |  
+| size_only_numbers | 6000 |  
+| size_only_numbers_no_zeros | 6 |  
+| size_upper | 6000_SERIES |  
 | type | bearing |  
-| type_length_1 | b |  
-| type_length_2 | be |  
-| type_length_3 | bea |  
-| type_length_4 | bear |  
-| type_length_5 | beari |  
-| type_length_6 | bearin |  
-| type_name | Bearing |  
-| type_no_space_length_1 | b |  
-| type_no_space_length_2 | be |  
-| type_no_space_length_3 | bea |  
-| type_no_space_length_4 | bear |  
-| type_no_space_length_5 | beari |  
-| type_no_space_length_6 | bearin |  
-| type_no_space_upper_length_1 | B |  
-| type_no_space_upper_length_2 | BE |  
-| type_no_space_upper_length_3 | BEA |  
-| type_no_space_upper_length_4 | BEAR |  
-| type_no_space_upper_length_5 | BEARI |  
-| type_no_space_upper_length_6 | BEARIN |  
-| type_upper_length_1 | B |  
-| type_upper_length_2 | BE |  
-| type_upper_length_3 | BEA |  
-| type_upper_length_4 | BEAR |  
-| type_upper_length_5 | BEARI |  
-| type_upper_length_6 | BEARIN |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
+| type_upper | BEARING |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

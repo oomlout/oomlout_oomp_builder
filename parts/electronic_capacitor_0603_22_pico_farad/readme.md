@@ -30,70 +30,48 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_length_1 | e |  
-| classification_length_2 | el |  
-| classification_length_3 | ele |  
-| classification_length_4 | elec |  
-| classification_length_5 | elect |  
-| classification_length_6 | electr |  
-| classification_name | Electronic |  
-| classification_no_space_length_1 | e |  
-| classification_no_space_length_2 | el |  
-| classification_no_space_length_3 | ele |  
-| classification_no_space_length_4 | elec |  
-| classification_no_space_length_5 | elect |  
-| classification_no_space_length_6 | electr |  
-| classification_no_space_upper_length_1 | E |  
-| classification_no_space_upper_length_2 | EL |  
-| classification_no_space_upper_length_3 | ELE |  
-| classification_no_space_upper_length_4 | ELEC |  
-| classification_no_space_upper_length_5 | ELECT |  
-| classification_no_space_upper_length_6 | ELECTR |  
-| classification_upper_length_1 | E |  
-| classification_upper_length_2 | EL |  
-| classification_upper_length_3 | ELE |  
-| classification_upper_length_4 | ELEC |  
-| classification_upper_length_5 | ELECT |  
-| classification_upper_length_6 | ELECTR |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
 | color |  |  
-| color_name |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
 | description_extra |  |  
-| description_extra_name |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
 | description_main | 22_pico_farad |  
-| description_main_length_1 | 2 |  
-| description_main_length_2 | 22 |  
-| description_main_length_3 | 22_ |  
-| description_main_length_4 | 22_p |  
-| description_main_length_5 | 22_pi |  
-| description_main_length_6 | 22_pic |  
-| description_main_name | 22 Pico Farad |  
-| description_main_no_space_length_1 | 2 |  
-| description_main_no_space_length_2 | 22 |  
-| description_main_no_space_length_3 | 22p |  
-| description_main_no_space_length_4 | 22pi |  
-| description_main_no_space_length_5 | 22pic |  
-| description_main_no_space_length_6 | 22pico |  
-| description_main_no_space_upper_length_1 | 2 |  
-| description_main_no_space_upper_length_2 | 22 |  
-| description_main_no_space_upper_length_3 | 22P |  
-| description_main_no_space_upper_length_4 | 22PI |  
-| description_main_no_space_upper_length_5 | 22PIC |  
-| description_main_no_space_upper_length_6 | 22PICO |  
-| description_main_upper_length_1 | 2 |  
-| description_main_upper_length_2 | 22 |  
-| description_main_upper_length_3 | 22_ |  
-| description_main_upper_length_4 | 22_P |  
-| description_main_upper_length_5 | 22_PI |  
-| description_main_upper_length_6 | 22_PIC |  
+| description_main_capital | 22 Pico Farad |  
+| description_main_first_letter | 2 |  
+| description_main_first_letter_upper | 2 |  
+| description_main_upper | 22_PICO_FARAD |  
+| description_only_numbers | 22 |  
+| description_only_numbers_short | 22pf |  
+| description_or_color | 22pf |  
+| description_or_color_upper | 22PF |  
 | directory | parts/electronic_capacitor_0603_22_pico_farad |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad |  
+| distributors | [] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric', 'note': 'source footprint kicad_capacitor_smd_c_0603_1608metric', 'oomp_key': 'oomp_kicad_capacitor_smd_c_0603_1608metric'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working |  
 | id | electronic_capacitor_0603_22_pico_farad |  
 | id_no_class | capacitor_0603_22_pico_farad |  
-| id_no_color | 22picofarad |  
 | id_no_size | 22_pico_farad |  
 | id_no_type | 0603_22_pico_farad |  
+| kicad_reference | C |  
 | manufacturer |  |  
-| manufacturer_name |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [{'id': 'manufacturer_hctl', 'link': '', 'name': 'HCTL', 'part_number': 'TC-3601L-2.5-260G'}, {'id': 'manufacturer_yageo', 'link': 'https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220', 'name': 'Yageo', 'part_number': 'CC0603JRNPO9BN220'}] |  
+| markdown_full | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br>[Electronic Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br><br>[HCTL - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br> |  
+| markdown_short | [electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_22_pico_farad/working)<br><br>[HCTL - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220) |  
 | md5 | ed43fc9f13c024e0a26ef47e97a61fd1 |  
 | md5_10 | ed43fc9f13 |  
 | md5_10_upper | ED43FC9F13 |  
@@ -105,66 +83,36 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | ED43FC |  
 | name | Electronic Capacitor 0603 22 Pico Farad |  
 | name_no_class | Capacitor 0603 22 Pico Farad |  
-| name_no_color | 22Picofarad |  
 | name_no_size | 22 Pico Farad |  
+| name_no_size_short | 22pf Pico Farad |  
 | name_no_type | 0603 22 Pico Farad |  
 | oomp_key | oomp_electronic_capacitor_0603_22_pico_farad |  
 | oomp_word | bus elephant up |  
 | oomp_word_emoji | :bus: :elephant: :up: |  
 | oomp_word_emoji_list | [':bus:', ':elephant:', ':up:'] |  
 | oomp_word_list | ['bus', 'elephant', 'up'] |  
+| package_style | smd_tape |  
 | part_number |  |  
-| part_number_name |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | c6pf22 |  
+| short_code_upper | C6PF22 |  
 | size | 0603 |  
-| size_length_1 | 0 |  
-| size_length_2 | 06 |  
-| size_length_3 | 060 |  
-| size_length_4 | 0603 |  
-| size_length_5 | 0603 |  
-| size_length_6 | 0603 |  
-| size_name | 0603 |  
-| size_no_space_length_1 | 0 |  
-| size_no_space_length_2 | 06 |  
-| size_no_space_length_3 | 060 |  
-| size_no_space_length_4 | 0603 |  
-| size_no_space_length_5 | 0603 |  
-| size_no_space_length_6 | 0603 |  
-| size_no_space_upper_length_1 | 0 |  
-| size_no_space_upper_length_2 | 06 |  
-| size_no_space_upper_length_3 | 060 |  
-| size_no_space_upper_length_4 | 0603 |  
-| size_no_space_upper_length_5 | 0603 |  
-| size_no_space_upper_length_6 | 0603 |  
-| size_upper_length_1 | 0 |  
-| size_upper_length_2 | 06 |  
-| size_upper_length_3 | 060 |  
-| size_upper_length_4 | 0603 |  
-| size_upper_length_5 | 0603 |  
-| size_upper_length_6 | 0603 |  
+| size_capital | 0603 |  
+| size_first_letter | 0 |  
+| size_first_letter_upper | 0 |  
+| size_only_numbers | 0603 |  
+| size_only_numbers_no_zeros | 63 |  
+| size_upper | 0603 |  
+| smd_tape_depth | 1_5_mm |  
+| smd_tape_pitch | 4_mm |  
+| smd_tape_width | 8_mm |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c', 'oomp_key': 'oomp_kicad_device_c'}] |  
 | type | capacitor |  
-| type_length_1 | c |  
-| type_length_2 | ca |  
-| type_length_3 | cap |  
-| type_length_4 | capa |  
-| type_length_5 | capac |  
-| type_length_6 | capaci |  
-| type_name | Capacitor |  
-| type_no_space_length_1 | c |  
-| type_no_space_length_2 | ca |  
-| type_no_space_length_3 | cap |  
-| type_no_space_length_4 | capa |  
-| type_no_space_length_5 | capac |  
-| type_no_space_length_6 | capaci |  
-| type_no_space_upper_length_1 | C |  
-| type_no_space_upper_length_2 | CA |  
-| type_no_space_upper_length_3 | CAP |  
-| type_no_space_upper_length_4 | CAPA |  
-| type_no_space_upper_length_5 | CAPAC |  
-| type_no_space_upper_length_6 | CAPACI |  
-| type_upper_length_1 | C |  
-| type_upper_length_2 | CA |  
-| type_upper_length_3 | CAP |  
-| type_upper_length_4 | CAPA |  
-| type_upper_length_5 | CAPAC |  
-| type_upper_length_6 | CAPACI |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| type_capital | Capacitor |  
+| type_first_letter | c |  
+| type_first_letter_upper | C |  
+| type_upper | CAPACITOR |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

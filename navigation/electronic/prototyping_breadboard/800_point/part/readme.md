@@ -30,46 +30,47 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_length_1 | e |  
-| classification_length_2 | el |  
-| classification_length_3 | ele |  
-| classification_length_4 | elec |  
-| classification_length_5 | elect |  
-| classification_length_6 | electr |  
-| classification_name | Electronic |  
-| classification_no_space_length_1 | e |  
-| classification_no_space_length_2 | el |  
-| classification_no_space_length_3 | ele |  
-| classification_no_space_length_4 | elec |  
-| classification_no_space_length_5 | elect |  
-| classification_no_space_length_6 | electr |  
-| classification_no_space_upper_length_1 | E |  
-| classification_no_space_upper_length_2 | EL |  
-| classification_no_space_upper_length_3 | ELE |  
-| classification_no_space_upper_length_4 | ELEC |  
-| classification_no_space_upper_length_5 | ELECT |  
-| classification_no_space_upper_length_6 | ELECTR |  
-| classification_upper_length_1 | E |  
-| classification_upper_length_2 | EL |  
-| classification_upper_length_3 | ELE |  
-| classification_upper_length_4 | ELEC |  
-| classification_upper_length_5 | ELECT |  
-| classification_upper_length_6 | ELECTR |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
 | color |  |  
-| color_name |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
+| color_upper |  |  
 | description_extra |  |  
-| description_extra_name |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
 | description_main |  |  
-| description_main_name |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color |   |  
+| description_or_color_upper |   |  
 | directory | parts/electronic_prototyping_breadboard_800_point |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point/working |  
 | id | electronic_prototyping_breadboard_800_point |  
 | id_no_class | prototyping_breadboard_800_point |  
-| id_no_color | 800point |  
 | id_no_size | 800_point |  
 | id_no_type | 800_point |  
+| kicad_reference |  |  
 | manufacturer |  |  
-| manufacturer_name |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_prototyping_breadboard_800_point](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point/working)<br>[800p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point/working)<br>[Electronic Prototyping Breadboard 800 Point](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point/working)<br><br> |  
+| markdown_short | [electronic_prototyping_breadboard_800_point](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point/working)<br><br> |  
 | md5 | aadef41e4c468e356a7983e206b46b62 |  
 | md5_10 | aadef41e4c |  
 | md5_10_upper | AADEF41E4C |  
@@ -81,8 +82,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | AADEF4 |  
 | name | Electronic Prototyping Breadboard 800 Point |  
 | name_no_class | Prototyping Breadboard 800 Point |  
-| name_no_color | 800Point |  
 | name_no_size | 800 Point |  
+| name_no_size_short | 800 Point |  
 | name_no_type | 800 Point |  
 | oomp_key | oomp_electronic_prototyping_breadboard_800_point |  
 | oomp_word | lipstick rainbow three |  
@@ -90,57 +91,22 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':lipstick:', ':rainbow:', ':three:'] |  
 | oomp_word_list | ['lipstick', 'rainbow', 'three'] |  
 | part_number |  |  
-| part_number_name |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | 800p |  
+| short_code_upper | 800P |  
 | size | 800_point |  
-| size_length_1 | 8 |  
-| size_length_2 | 80 |  
-| size_length_3 | 800 |  
-| size_length_4 | 800_ |  
-| size_length_5 | 800_p |  
-| size_length_6 | 800_po |  
-| size_name | 800 Point |  
-| size_no_space_length_1 | 8 |  
-| size_no_space_length_2 | 80 |  
-| size_no_space_length_3 | 800 |  
-| size_no_space_length_4 | 800p |  
-| size_no_space_length_5 | 800po |  
-| size_no_space_length_6 | 800poi |  
-| size_no_space_upper_length_1 | 8 |  
-| size_no_space_upper_length_2 | 80 |  
-| size_no_space_upper_length_3 | 800 |  
-| size_no_space_upper_length_4 | 800P |  
-| size_no_space_upper_length_5 | 800PO |  
-| size_no_space_upper_length_6 | 800POI |  
-| size_upper_length_1 | 8 |  
-| size_upper_length_2 | 80 |  
-| size_upper_length_3 | 800 |  
-| size_upper_length_4 | 800_ |  
-| size_upper_length_5 | 800_P |  
-| size_upper_length_6 | 800_PO |  
+| size_capital | 800 Point |  
+| size_first_letter | 8 |  
+| size_first_letter_upper | 8 |  
+| size_only_numbers | 800 |  
+| size_only_numbers_no_zeros | 8 |  
+| size_upper | 800_POINT |  
 | type | prototyping_breadboard |  
-| type_length_1 | p |  
-| type_length_2 | pr |  
-| type_length_3 | pro |  
-| type_length_4 | prot |  
-| type_length_5 | proto |  
-| type_length_6 | protot |  
-| type_name | Prototyping Breadboard |  
-| type_no_space_length_1 | p |  
-| type_no_space_length_2 | pr |  
-| type_no_space_length_3 | pro |  
-| type_no_space_length_4 | prot |  
-| type_no_space_length_5 | proto |  
-| type_no_space_length_6 | protot |  
-| type_no_space_upper_length_1 | P |  
-| type_no_space_upper_length_2 | PR |  
-| type_no_space_upper_length_3 | PRO |  
-| type_no_space_upper_length_4 | PROT |  
-| type_no_space_upper_length_5 | PROTO |  
-| type_no_space_upper_length_6 | PROTOT |  
-| type_upper_length_1 | P |  
-| type_upper_length_2 | PR |  
-| type_upper_length_3 | PRO |  
-| type_upper_length_4 | PROT |  
-| type_upper_length_5 | PROTO |  
-| type_upper_length_6 | PROTOT |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| type_capital | Prototyping Breadboard |  
+| type_first_letter | p |  
+| type_first_letter_upper | P |  
+| type_upper | PROTOTYPING_BREADBOARD |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

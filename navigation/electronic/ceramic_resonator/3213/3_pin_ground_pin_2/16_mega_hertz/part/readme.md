@@ -30,94 +30,48 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_length_1 | e |  
-| classification_length_2 | el |  
-| classification_length_3 | ele |  
-| classification_length_4 | elec |  
-| classification_length_5 | elect |  
-| classification_length_6 | electr |  
-| classification_name | Electronic |  
-| classification_no_space_length_1 | e |  
-| classification_no_space_length_2 | el |  
-| classification_no_space_length_3 | ele |  
-| classification_no_space_length_4 | elec |  
-| classification_no_space_length_5 | elect |  
-| classification_no_space_length_6 | electr |  
-| classification_no_space_upper_length_1 | E |  
-| classification_no_space_upper_length_2 | EL |  
-| classification_no_space_upper_length_3 | ELE |  
-| classification_no_space_upper_length_4 | ELEC |  
-| classification_no_space_upper_length_5 | ELECT |  
-| classification_no_space_upper_length_6 | ELECTR |  
-| classification_upper_length_1 | E |  
-| classification_upper_length_2 | EL |  
-| classification_upper_length_3 | ELE |  
-| classification_upper_length_4 | ELEC |  
-| classification_upper_length_5 | ELECT |  
-| classification_upper_length_6 | ELECTR |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
 | color | 3_pin_ground_pin_2 |  
-| color_length_1 | 3 |  
-| color_length_2 | 3_ |  
-| color_length_3 | 3_p |  
-| color_length_4 | 3_pi |  
-| color_length_5 | 3_pin |  
-| color_length_6 | 3_pin_ |  
-| color_name | 3 Pin Ground Pin 2 |  
-| color_no_space_length_1 | 3 |  
-| color_no_space_length_2 | 3p |  
-| color_no_space_length_3 | 3pi |  
-| color_no_space_length_4 | 3pin |  
-| color_no_space_length_5 | 3ping |  
-| color_no_space_length_6 | 3pingr |  
-| color_no_space_upper_length_1 | 3 |  
-| color_no_space_upper_length_2 | 3P |  
-| color_no_space_upper_length_3 | 3PI |  
-| color_no_space_upper_length_4 | 3PIN |  
-| color_no_space_upper_length_5 | 3PING |  
-| color_no_space_upper_length_6 | 3PINGR |  
-| color_upper_length_1 | 3 |  
-| color_upper_length_2 | 3_ |  
-| color_upper_length_3 | 3_P |  
-| color_upper_length_4 | 3_PI |  
-| color_upper_length_5 | 3_PIN |  
-| color_upper_length_6 | 3_PIN_ |  
+| color_capital | 3 Pin Ground Pin 2 |  
+| color_first_letter | 3 |  
+| color_first_letter_upper | 3 |  
+| color_upper | 3_PIN_GROUND_PIN_2 |  
 | description_extra |  |  
-| description_extra_name |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
 | description_main | 16_mega_hertz |  
-| description_main_length_1 | 1 |  
-| description_main_length_2 | 16 |  
-| description_main_length_3 | 16_ |  
-| description_main_length_4 | 16_m |  
-| description_main_length_5 | 16_me |  
-| description_main_length_6 | 16_meg |  
-| description_main_name | 16 Mega Hertz |  
-| description_main_no_space_length_1 | 1 |  
-| description_main_no_space_length_2 | 16 |  
-| description_main_no_space_length_3 | 16m |  
-| description_main_no_space_length_4 | 16me |  
-| description_main_no_space_length_5 | 16meg |  
-| description_main_no_space_length_6 | 16mega |  
-| description_main_no_space_upper_length_1 | 1 |  
-| description_main_no_space_upper_length_2 | 16 |  
-| description_main_no_space_upper_length_3 | 16M |  
-| description_main_no_space_upper_length_4 | 16ME |  
-| description_main_no_space_upper_length_5 | 16MEG |  
-| description_main_no_space_upper_length_6 | 16MEGA |  
-| description_main_upper_length_1 | 1 |  
-| description_main_upper_length_2 | 16 |  
-| description_main_upper_length_3 | 16_ |  
-| description_main_upper_length_4 | 16_M |  
-| description_main_upper_length_5 | 16_ME |  
-| description_main_upper_length_6 | 16_MEG |  
+| description_main_capital | 16 Mega Hertz |  
+| description_main_first_letter | 1 |  
+| description_main_first_letter_upper | 1 |  
+| description_main_upper | 16_MEGA_HERTZ |  
+| description_only_numbers | 16 |  
+| description_only_numbers_short | 16 |  
+| description_or_color | 316 |  
+| description_or_color_upper | 316 |  
 | directory | parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
+| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C882605.html', 'name': 'LCSC', 'part_number': 'C882605'}] |  
+| filter |  |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm', 'note': 'source footprint kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm', 'oomp_key': 'oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz'}] |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working |  
 | id | electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | id_no_class | ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
-| id_no_color | 16_mega_hertz |  
 | id_no_size | 3_pin_ground_pin_2_16_mega_hertz |  
 | id_no_type | 3213_3_pin_ground_pin_2_16_mega_hertz |  
+| kicad_reference | x |  
 | manufacturer |  |  
-| manufacturer_name |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
+| manufacturer_upper |  |  
+| manufacturers | [{'id': 'manufacturer_murata', 'link': 'https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0', 'name': 'Murata', 'part_number': 'CSTNE16M0VH3C000R0'}] |  
+| markdown_full | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[xcr3213mhz16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) [(L)  ](https://www.lcsc.com/search?q=CSTNE16M0VH3C000R0)[(D)  ](https://www.digikey.com/en/products?keywords=CSTNE16M0VH3C000R0)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CSTNE16M0VH3C000R0)[(N)  ](https://www.newark.com/search?st=CSTNE16M0VH3C000R0)[(SZ)  ](https://so.szlcsc.com/global.html?k=CSTNE16M0VH3C000R0)<br> |  
+| markdown_short | [electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz/working)<br>[LCSC - C882605<br>](https://lcsc.com/product-detail/C882605.html)<br>[Murata - CSTNE16M0VH3C000R0](https://www.murata.com/en-eu/products/productdetail?cate=cgsubResonators&partno=CSTNE16M0VH3C000R0) |  
 | md5 | ebaebba3b264fd4a342d970d6a4f461e |  
 | md5_10 | ebaebba3b2 |  
 | md5_10_upper | EBAEBBA3B2 |  
@@ -129,8 +83,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | EBAEBB |  
 | name | Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz |  
 | name_no_class | Ceramic Resonator 3213 3 Pin Ground Pin 2 16 Mega Hertz |  
-| name_no_color | 16 Mega Hertz |  
 | name_no_size | 3 Pin Ground Pin 2 16 Mega Hertz |  
+| name_no_size_short | 3 Pin Ground Pin 2 16 Mega Hertz |  
 | name_no_type | 3213 3 Pin Ground Pin 2 16 Mega Hertz |  
 | oomp_key | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz |  
 | oomp_word | car jeans curry |  
@@ -138,57 +92,23 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':car:', ':jeans:', ':curry:'] |  
 | oomp_word_list | ['car', 'jeans', 'curry'] |  
 | part_number |  |  
-| part_number_name |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
+| part_number_upper |  |  
+| short_code | xcr3213mhz16 |  
+| short_code_upper | XCR3213MHZ16 |  
 | size | 3213 |  
-| size_length_1 | 3 |  
-| size_length_2 | 32 |  
-| size_length_3 | 321 |  
-| size_length_4 | 3213 |  
-| size_length_5 | 3213 |  
-| size_length_6 | 3213 |  
-| size_name | 3213 |  
-| size_no_space_length_1 | 3 |  
-| size_no_space_length_2 | 32 |  
-| size_no_space_length_3 | 321 |  
-| size_no_space_length_4 | 3213 |  
-| size_no_space_length_5 | 3213 |  
-| size_no_space_length_6 | 3213 |  
-| size_no_space_upper_length_1 | 3 |  
-| size_no_space_upper_length_2 | 32 |  
-| size_no_space_upper_length_3 | 321 |  
-| size_no_space_upper_length_4 | 3213 |  
-| size_no_space_upper_length_5 | 3213 |  
-| size_no_space_upper_length_6 | 3213 |  
-| size_upper_length_1 | 3 |  
-| size_upper_length_2 | 32 |  
-| size_upper_length_3 | 321 |  
-| size_upper_length_4 | 3213 |  
-| size_upper_length_5 | 3213 |  
-| size_upper_length_6 | 3213 |  
+| size_capital | 3213 |  
+| size_first_letter | 3 |  
+| size_first_letter_upper | 3 |  
+| size_only_numbers | 3213 |  
+| size_only_numbers_no_zeros | 3213 |  
+| size_upper | 3213 |  
+| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2', 'oomp_key': 'oomp_kicad_device_crystal_gnd2'}] |  
 | type | ceramic_resonator |  
-| type_length_1 | c |  
-| type_length_2 | ce |  
-| type_length_3 | cer |  
-| type_length_4 | cera |  
-| type_length_5 | ceram |  
-| type_length_6 | cerami |  
-| type_name | Ceramic Resonator |  
-| type_no_space_length_1 | c |  
-| type_no_space_length_2 | ce |  
-| type_no_space_length_3 | cer |  
-| type_no_space_length_4 | cera |  
-| type_no_space_length_5 | ceram |  
-| type_no_space_length_6 | cerami |  
-| type_no_space_upper_length_1 | C |  
-| type_no_space_upper_length_2 | CE |  
-| type_no_space_upper_length_3 | CER |  
-| type_no_space_upper_length_4 | CERA |  
-| type_no_space_upper_length_5 | CERAM |  
-| type_no_space_upper_length_6 | CERAMI |  
-| type_upper_length_1 | C |  
-| type_upper_length_2 | CE |  
-| type_upper_length_3 | CER |  
-| type_upper_length_4 | CERA |  
-| type_upper_length_5 | CERAM |  
-| type_upper_length_6 | CERAMI |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| type_capital | Ceramic Resonator |  
+| type_first_letter | c |  
+| type_first_letter_upper | C |  
+| type_upper | CERAMIC_RESONATOR |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  

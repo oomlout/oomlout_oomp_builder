@@ -1,4 +1,4 @@
-# Electronic IC Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321  
+# Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -30,118 +30,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_length_1 | e |  
-| classification_length_2 | el |  
-| classification_length_3 | ele |  
-| classification_length_4 | elec |  
-| classification_length_5 | elect |  
-| classification_length_6 | electr |  
-| classification_name | Electronic |  
-| classification_no_space_length_1 | e |  
-| classification_no_space_length_2 | el |  
-| classification_no_space_length_3 | ele |  
-| classification_no_space_length_4 | elec |  
-| classification_no_space_length_5 | elect |  
-| classification_no_space_length_6 | electr |  
-| classification_no_space_upper_length_1 | E |  
-| classification_no_space_upper_length_2 | EL |  
-| classification_no_space_upper_length_3 | ELE |  
-| classification_no_space_upper_length_4 | ELEC |  
-| classification_no_space_upper_length_5 | ELECT |  
-| classification_no_space_upper_length_6 | ELECTR |  
-| classification_upper_length_1 | E |  
-| classification_upper_length_2 | EL |  
-| classification_upper_length_3 | ELE |  
-| classification_upper_length_4 | ELEC |  
-| classification_upper_length_5 | ELECT |  
-| classification_upper_length_6 | ELECTR |  
+| classification_capital | Electronic |  
+| classification_first_letter | e |  
+| classification_first_letter_upper | E |  
+| classification_upper | ELECTRONIC |  
 | color | sensor |  
-| color_length_1 | s |  
-| color_length_2 | se |  
-| color_length_3 | sen |  
-| color_length_4 | sens |  
-| color_length_5 | senso |  
-| color_length_6 | sensor |  
-| color_name | Sensor |  
-| color_no_space_length_1 | s |  
-| color_no_space_length_2 | se |  
-| color_no_space_length_3 | sen |  
-| color_no_space_length_4 | sens |  
-| color_no_space_length_5 | senso |  
-| color_no_space_length_6 | sensor |  
-| color_no_space_upper_length_1 | S |  
-| color_no_space_upper_length_2 | SE |  
-| color_no_space_upper_length_3 | SEN |  
-| color_no_space_upper_length_4 | SENS |  
-| color_no_space_upper_length_5 | SENSO |  
-| color_no_space_upper_length_6 | SENSOR |  
-| color_upper_length_1 | S |  
-| color_upper_length_2 | SE |  
-| color_upper_length_3 | SEN |  
-| color_upper_length_4 | SENS |  
-| color_upper_length_5 | SENSO |  
-| color_upper_length_6 | SENSOR |  
+| color_capital | Sensor |  
+| color_first_letter | s |  
+| color_first_letter_upper | S |  
+| color_upper | SENSOR |  
 | description_extra |  |  
-| description_extra_name |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
+| description_extra_upper |  |  
 | description_main | accelerometer |  
-| description_main_length_1 | a |  
-| description_main_length_2 | ac |  
-| description_main_length_3 | acc |  
-| description_main_length_4 | acce |  
-| description_main_length_5 | accel |  
-| description_main_length_6 | accele |  
-| description_main_name | Accelerometer |  
-| description_main_no_space_length_1 | a |  
-| description_main_no_space_length_2 | ac |  
-| description_main_no_space_length_3 | acc |  
-| description_main_no_space_length_4 | acce |  
-| description_main_no_space_length_5 | accel |  
-| description_main_no_space_length_6 | accele |  
-| description_main_no_space_upper_length_1 | A |  
-| description_main_no_space_upper_length_2 | AC |  
-| description_main_no_space_upper_length_3 | ACC |  
-| description_main_no_space_upper_length_4 | ACCE |  
-| description_main_no_space_upper_length_5 | ACCEL |  
-| description_main_no_space_upper_length_6 | ACCELE |  
-| description_main_upper_length_1 | A |  
-| description_main_upper_length_2 | AC |  
-| description_main_upper_length_3 | ACC |  
-| description_main_upper_length_4 | ACCE |  
-| description_main_upper_length_5 | ACCEL |  
-| description_main_upper_length_6 | ACCELE |  
+| description_main_capital | Accelerometer |  
+| description_main_first_letter | a |  
+| description_main_first_letter_upper | A |  
+| description_main_upper | ACCELEROMETER |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | S  |  
+| description_or_color_upper | S  |  
 | directory | parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
+| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C966924.html', 'name': 'LCSC', 'part_number': 'C966924'}] |  
+| footprint | [{'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm', 'note': 'source footprint kicad_package_lga_lga_12_2x2mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm'}, {'directory': 'oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321//working/working.kicad_mod', 'index': 1, 'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321', 'note': 'oomp generated footprint', 'oomp_key': 'oomp_oomlout_oomlout_oomp_part_footprints_isnastk8321_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321'}] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working |  
 | id | electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
 | id_no_class | ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
-| id_no_color | accelerometer_sensortek_stk8321 |  
 | id_no_size | sensor_accelerometer_sensortek_stk8321 |  
 | id_no_type | lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
 | manufacturer | sensortek |  
-| manufacturer_length_1 | s |  
-| manufacturer_length_2 | se |  
-| manufacturer_length_3 | sen |  
-| manufacturer_length_4 | sens |  
-| manufacturer_length_5 | senso |  
-| manufacturer_length_6 | sensor |  
-| manufacturer_name | Sensortek |  
-| manufacturer_no_space_length_1 | s |  
-| manufacturer_no_space_length_2 | se |  
-| manufacturer_no_space_length_3 | sen |  
-| manufacturer_no_space_length_4 | sens |  
-| manufacturer_no_space_length_5 | senso |  
-| manufacturer_no_space_length_6 | sensor |  
-| manufacturer_no_space_upper_length_1 | S |  
-| manufacturer_no_space_upper_length_2 | SE |  
-| manufacturer_no_space_upper_length_3 | SEN |  
-| manufacturer_no_space_upper_length_4 | SENS |  
-| manufacturer_no_space_upper_length_5 | SENSO |  
-| manufacturer_no_space_upper_length_6 | SENSOR |  
-| manufacturer_upper_length_1 | S |  
-| manufacturer_upper_length_2 | SE |  
-| manufacturer_upper_length_3 | SEN |  
-| manufacturer_upper_length_4 | SENS |  
-| manufacturer_upper_length_5 | SENSO |  
-| manufacturer_upper_length_6 | SENSOR |  
+| manufacturer_capital | Sensortek |  
+| manufacturer_first_letter | s |  
+| manufacturer_first_letter_upper | S |  
+| manufacturer_upper | SENSORTEK |  
+| manufacturers | [] |  
+| markdown_full | [electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[isnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br> |  
+| markdown_short | [electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br> |  
 | md5 | 53a50685369ad5aa7c430e8df214d3c7 |  
 | md5_10 | 53a5068536 |  
 | md5_10_upper | 53A5068536 |  
@@ -151,92 +78,35 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 39hqe |  
 | md5_6_alpha_upper | 39HQE |  
 | md5_6_upper | 53A506 |  
-| name | Electronic IC Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321 |  
-| name_no_class | IC Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321 |  
-| name_no_color | Accelerometer Sensortek Stk8321 |  
+| name | Electronic Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_class | Ic Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
 | name_no_size | Sensor Accelerometer Sensortek Stk8321 |  
-| name_no_type | Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_size_short | Sensor Accelerometer Sensortek Stk8321 |  
+| name_no_type | Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321 |  
 | oomp_key | oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321 |  
 | oomp_word | fish headphones sleeping |  
 | oomp_word_emoji | :fish: :headphones: :sleeping: |  
 | oomp_word_emoji_list | [':fish:', ':headphones:', ':sleeping:'] |  
 | oomp_word_list | ['fish', 'headphones', 'sleeping'] |  
 | part_number | stk8321 |  
-| part_number_length_1 | s |  
-| part_number_length_2 | st |  
-| part_number_length_3 | stk |  
-| part_number_length_4 | stk8 |  
-| part_number_length_5 | stk83 |  
-| part_number_length_6 | stk832 |  
-| part_number_name | Stk8321 |  
-| part_number_no_space_length_1 | s |  
-| part_number_no_space_length_2 | st |  
-| part_number_no_space_length_3 | stk |  
-| part_number_no_space_length_4 | stk8 |  
-| part_number_no_space_length_5 | stk83 |  
-| part_number_no_space_length_6 | stk832 |  
-| part_number_no_space_upper_length_1 | S |  
-| part_number_no_space_upper_length_2 | ST |  
-| part_number_no_space_upper_length_3 | STK |  
-| part_number_no_space_upper_length_4 | STK8 |  
-| part_number_no_space_upper_length_5 | STK83 |  
-| part_number_no_space_upper_length_6 | STK832 |  
-| part_number_upper_length_1 | S |  
-| part_number_upper_length_2 | ST |  
-| part_number_upper_length_3 | STK |  
-| part_number_upper_length_4 | STK8 |  
-| part_number_upper_length_5 | STK83 |  
-| part_number_upper_length_6 | STK832 |  
+| part_number_capital | Stk8321 |  
+| part_number_first_letter | s |  
+| part_number_first_letter_upper | S |  
+| part_number_upper | STK8321 |  
+| pins | {'pin_1': {'name': 'sa0_sdo', 'number': '1', 'type': 'power'}, 'pin_10': {'name': 'cs', 'number': '10', 'type': 'power'}, 'pin_11': {'name': 'nc', 'number': '11', 'type': 'power'}, 'pin_12': {'name': 'scl_sck', 'number': '12', 'type': 'power'}, 'pin_2': {'name': 'sda_sdi_sdio', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'vddio', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'res', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'int1', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'int2', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'vs', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'gndio', 'number': '8', 'type': 'power'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'power'}} |  
+| short_code | isnastk8321 |  
+| short_code_upper | ISNASTK8321 |  
+| short_name | bosch sensortec bme280 pressure and temperature sensor |  
 | size | lga_12_pin_2_mm_x_2_mm |  
-| size_length_1 | l |  
-| size_length_2 | lg |  
-| size_length_3 | lga |  
-| size_length_4 | lga_ |  
-| size_length_5 | lga_1 |  
-| size_length_6 | lga_12 |  
-| size_name | Lga 12 Pin 2 mm X 2 mm |  
-| size_no_space_length_1 | l |  
-| size_no_space_length_2 | lg |  
-| size_no_space_length_3 | lga |  
-| size_no_space_length_4 | lga1 |  
-| size_no_space_length_5 | lga12 |  
-| size_no_space_length_6 | lga12p |  
-| size_no_space_upper_length_1 | L |  
-| size_no_space_upper_length_2 | LG |  
-| size_no_space_upper_length_3 | LGA |  
-| size_no_space_upper_length_4 | LGA1 |  
-| size_no_space_upper_length_5 | LGA12 |  
-| size_no_space_upper_length_6 | LGA12P |  
-| size_upper_length_1 | L |  
-| size_upper_length_2 | LG |  
-| size_upper_length_3 | LGA |  
-| size_upper_length_4 | LGA_ |  
-| size_upper_length_5 | LGA_1 |  
-| size_upper_length_6 | LGA_12 |  
+| size_capital | Lga 12 Pin 2 mm x 2 mm |  
+| size_first_letter | l |  
+| size_first_letter_upper | L |  
+| size_only_numbers | 1222 |  
+| size_only_numbers_no_zeros | 1222 |  
+| size_upper | LGA_12_PIN_2_MM_X_2_MM |  
 | type | ic |  
-| type_length_1 | i |  
-| type_length_2 | ic |  
-| type_length_3 | ic |  
-| type_length_4 | ic |  
-| type_length_5 | ic |  
-| type_length_6 | ic |  
-| type_name | IC |  
-| type_no_space_length_1 | i |  
-| type_no_space_length_2 | ic |  
-| type_no_space_length_3 | ic |  
-| type_no_space_length_4 | ic |  
-| type_no_space_length_5 | ic |  
-| type_no_space_length_6 | ic |  
-| type_no_space_upper_length_1 | I |  
-| type_no_space_upper_length_2 | IC |  
-| type_no_space_upper_length_3 | IC |  
-| type_no_space_upper_length_4 | IC |  
-| type_no_space_upper_length_5 | IC |  
-| type_no_space_upper_length_6 | IC |  
-| type_upper_length_1 | I |  
-| type_upper_length_2 | IC |  
-| type_upper_length_3 | IC |  
-| type_upper_length_4 | IC |  
-| type_upper_length_5 | IC |  
-| type_upper_length_6 | IC |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
+| type_capital | Ic |  
+| type_first_letter | i |  
+| type_first_letter_upper | I |  
+| type_upper | IC |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
