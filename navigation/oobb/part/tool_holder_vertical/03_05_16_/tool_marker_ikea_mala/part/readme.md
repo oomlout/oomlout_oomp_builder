@@ -30,44 +30,94 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_upper | OOBB |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra | tool_marker_ikea_mala |  
-| description_extra_capital | Tool Marker Ikea Mala |  
-| description_extra_first_letter | t |  
-| description_extra_first_letter_upper | T |  
-| description_extra_upper | TOOL_MARKER_IKEA_MALA |  
+| description_extra_length_1 | t |  
+| description_extra_length_2 | to |  
+| description_extra_length_3 | too |  
+| description_extra_length_4 | tool |  
+| description_extra_length_5 | tool_ |  
+| description_extra_length_6 | tool_m |  
+| description_extra_name | Tool Marker Ikea Mala |  
+| description_extra_no_space_length_1 | t |  
+| description_extra_no_space_length_2 | to |  
+| description_extra_no_space_length_3 | too |  
+| description_extra_no_space_length_4 | tool |  
+| description_extra_no_space_length_5 | toolm |  
+| description_extra_no_space_length_6 | toolma |  
+| description_extra_no_space_upper_length_1 | T |  
+| description_extra_no_space_upper_length_2 | TO |  
+| description_extra_no_space_upper_length_3 | TOO |  
+| description_extra_no_space_upper_length_4 | TOOL |  
+| description_extra_no_space_upper_length_5 | TOOLM |  
+| description_extra_no_space_upper_length_6 | TOOLMA |  
+| description_extra_upper_length_1 | T |  
+| description_extra_upper_length_2 | TO |  
+| description_extra_upper_length_3 | TOO |  
+| description_extra_upper_length_4 | TOOL |  
+| description_extra_upper_length_5 | TOOL_ |  
+| description_extra_upper_length_6 | TOOL_M |  
 | description_main | 03_05_16_ |  
-| description_main_capital | 03 05.16  |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_upper | 03_05_16_ |  
-| description_only_numbers | 030516 |  
-| description_only_numbers_short | 31k |  
-| description_or_color | 31k |  
-| description_or_color_upper | 31K |  
+| description_main_length_1 | 0 |  
+| description_main_length_2 | 03 |  
+| description_main_length_3 | 03_ |  
+| description_main_length_4 | 03_0 |  
+| description_main_length_5 | 03_05 |  
+| description_main_length_6 | 03_05_ |  
+| description_main_name | 03 05 16  |  
+| description_main_no_space_length_1 | 0 |  
+| description_main_no_space_length_2 | 03 |  
+| description_main_no_space_length_3 | 030 |  
+| description_main_no_space_length_4 | 0305 |  
+| description_main_no_space_length_5 | 03051 |  
+| description_main_no_space_length_6 | 030516 |  
+| description_main_no_space_upper_length_1 | 0 |  
+| description_main_no_space_upper_length_2 | 03 |  
+| description_main_no_space_upper_length_3 | 030 |  
+| description_main_no_space_upper_length_4 | 0305 |  
+| description_main_no_space_upper_length_5 | 03051 |  
+| description_main_no_space_upper_length_6 | 030516 |  
+| description_main_upper_length_1 | 0 |  
+| description_main_upper_length_2 | 03 |  
+| description_main_upper_length_3 | 03_ |  
+| description_main_upper_length_4 | 03_0 |  
+| description_main_upper_length_5 | 03_05 |  
+| description_main_upper_length_6 | 03_05_ |  
 | directory | parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
 | id | oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
 | id_no_class | part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
+| id_no_color | 030516toolmarkerikeamala |  
 | id_no_size | 03_05_16__tool_marker_ikea_mala |  
 | id_no_type | tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala/working)<br>[Oobb Part Tool Holder Vertical 03 05 16  Tool Marker Ikea Mala](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala/working)<br><br> |  
-| markdown_short | [oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 28e749cb47425800fbfdff4bd6464c84 |  
 | md5_10 | 28e749cb47 |  
 | md5_10_upper | 28E749CB47 |  
@@ -79,8 +129,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | 28E749 |  
 | name | Oobb Part Tool Holder Vertical 03 05 16  Tool Marker Ikea Mala |  
 | name_no_class | Part Tool Holder Vertical 03 05 16  Tool Marker Ikea Mala |  
+| name_no_color | 030516Toolmarkerikeamala |  
 | name_no_size | 03 05 16  Tool Marker Ikea Mala |  
-| name_no_size_short | 03 05 16  Tool Marker Ikea Mala |  
 | name_no_type | Tool Holder Vertical 03 05 16  Tool Marker Ikea Mala |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_03_05_16__tool_marker_ikea_mala |  
 | oomp_word | tongue helicopter hatching_chick |  
@@ -88,23 +138,57 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':tongue:', ':helicopter:', ':hatching_chick:'] |  
 | oomp_word_list | ['tongue', 'helicopter', 'hatching_chick'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
+| part_number_name |  |  
 | size | tool_holder_vertical |  
-| size_capital | Tool Holder Vertical |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TOOL_HOLDER_VERTICAL |  
+| size_length_1 | t |  
+| size_length_2 | to |  
+| size_length_3 | too |  
+| size_length_4 | tool |  
+| size_length_5 | tool_ |  
+| size_length_6 | tool_h |  
+| size_name | Tool Holder Vertical |  
+| size_no_space_length_1 | t |  
+| size_no_space_length_2 | to |  
+| size_no_space_length_3 | too |  
+| size_no_space_length_4 | tool |  
+| size_no_space_length_5 | toolh |  
+| size_no_space_length_6 | toolho |  
+| size_no_space_upper_length_1 | T |  
+| size_no_space_upper_length_2 | TO |  
+| size_no_space_upper_length_3 | TOO |  
+| size_no_space_upper_length_4 | TOOL |  
+| size_no_space_upper_length_5 | TOOLH |  
+| size_no_space_upper_length_6 | TOOLHO |  
+| size_upper_length_1 | T |  
+| size_upper_length_2 | TO |  
+| size_upper_length_3 | TOO |  
+| size_upper_length_4 | TOOL |  
+| size_upper_length_5 | TOOL_ |  
+| size_upper_length_6 | TOOL_H |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_upper | PART |  
-| files | ['base.yaml', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  
+| files | ['base.yaml', 'readme.md', 'working.yaml'] |  

@@ -1,4 +1,4 @@
-# Electronic Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount  
+# Electronic Header 2 54 mm Dual Row 2X6 12 Pin Surface Mount  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -30,45 +30,94 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra | surface_mount |  
-| description_extra_capital | Surface Mount |  
-| description_extra_first_letter | s |  
-| description_extra_first_letter_upper | S |  
-| description_extra_upper | SURFACE_MOUNT |  
+| description_extra_length_1 | s |  
+| description_extra_length_2 | su |  
+| description_extra_length_3 | sur |  
+| description_extra_length_4 | surf |  
+| description_extra_length_5 | surfa |  
+| description_extra_length_6 | surfac |  
+| description_extra_name | Surface Mount |  
+| description_extra_no_space_length_1 | s |  
+| description_extra_no_space_length_2 | su |  
+| description_extra_no_space_length_3 | sur |  
+| description_extra_no_space_length_4 | surf |  
+| description_extra_no_space_length_5 | surfa |  
+| description_extra_no_space_length_6 | surfac |  
+| description_extra_no_space_upper_length_1 | S |  
+| description_extra_no_space_upper_length_2 | SU |  
+| description_extra_no_space_upper_length_3 | SUR |  
+| description_extra_no_space_upper_length_4 | SURF |  
+| description_extra_no_space_upper_length_5 | SURFA |  
+| description_extra_no_space_upper_length_6 | SURFAC |  
+| description_extra_upper_length_1 | S |  
+| description_extra_upper_length_2 | SU |  
+| description_extra_upper_length_3 | SUR |  
+| description_extra_upper_length_4 | SURF |  
+| description_extra_upper_length_5 | SURFA |  
+| description_extra_upper_length_6 | SURFAC |  
 | description_main | 2x6_12_pin |  
-| description_main_capital | 2X6.12 Pin |  
-| description_main_first_letter | 2 |  
-| description_main_first_letter_upper | 2 |  
-| description_main_upper | 2X6_12_PIN |  
-| description_only_numbers | 2612 |  
-| description_only_numbers_short | 2k6 |  
-| description_or_color | 2k6 |  
-| description_or_color_upper | 2K6 |  
+| description_main_length_1 | 2 |  
+| description_main_length_2 | 2x |  
+| description_main_length_3 | 2x6 |  
+| description_main_length_4 | 2x6_ |  
+| description_main_length_5 | 2x6_1 |  
+| description_main_length_6 | 2x6_12 |  
+| description_main_name | 2X6 12 Pin |  
+| description_main_no_space_length_1 | 2 |  
+| description_main_no_space_length_2 | 2x |  
+| description_main_no_space_length_3 | 2x6 |  
+| description_main_no_space_length_4 | 2x61 |  
+| description_main_no_space_length_5 | 2x612 |  
+| description_main_no_space_length_6 | 2x612p |  
+| description_main_no_space_upper_length_1 | 2 |  
+| description_main_no_space_upper_length_2 | 2X |  
+| description_main_no_space_upper_length_3 | 2X6 |  
+| description_main_no_space_upper_length_4 | 2X61 |  
+| description_main_no_space_upper_length_5 | 2X612 |  
+| description_main_no_space_upper_length_6 | 2X612P |  
+| description_main_upper_length_1 | 2 |  
+| description_main_upper_length_2 | 2X |  
+| description_main_upper_length_3 | 2X6 |  
+| description_main_upper_length_4 | 2X6_ |  
+| description_main_upper_length_5 | 2X6_1 |  
+| description_main_upper_length_6 | 2X6_12 |  
 | directory | parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount |  
-| distributors | [{'id': 'distributor_lcsc', 'link': 'https://lcsc.com/product-detail/C2685180.html', 'name': 'LCSC', 'part_number': 'C2685180'}] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount |  
 | id | electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount |  
 | id_no_class | header_2_54_mm_dual_row_2x6_12_pin_surface_mount |  
+| id_no_color | 2x612pinsurfacemount |  
 | id_no_size | 2x6_12_pin_surface_mount |  
 | id_no_type | 2_54_mm_dual_row_2x6_12_pin_surface_mount |  
-| kicad_reference | CONN |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount/working)<br>[hi12x6psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount/working)<br>[Electronic Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount/working)<br>[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br> |  
-| markdown_short | [electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount/working)<br>[LCSC - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br> |  
+| manufacturer_name |  |  
 | md5 | 38d112ca9c7b3ae8a1caf9352619d47c |  
 | md5_10 | 38d112ca9c |  
 | md5_10_upper | 38D112CA9C |  
@@ -78,34 +127,68 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 27t3m |  
 | md5_6_alpha_upper | 27T3M |  
 | md5_6_upper | 38D112 |  
-| name | Electronic Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount |  
-| name_no_class | Header 2 54 Mm Dual Row 2X6 12 Pin Surface Mount |  
+| name | Electronic Header 2 54 mm Dual Row 2X6 12 Pin Surface Mount |  
+| name_no_class | Header 2 54 mm Dual Row 2X6 12 Pin Surface Mount |  
+| name_no_color | 2X612Pinsurfacemount |  
 | name_no_size | 2X6 12 Pin Surface Mount |  
-| name_no_size_short | 2X6 12 Pin Surface Mount |  
-| name_no_type | 2 54 Mm Dual Row 2X6 12 Pin Surface Mount |  
+| name_no_type | 2 54 mm Dual Row 2X6 12 Pin Surface Mount |  
 | oomp_key | oomp_electronic_header_2_54_mm_dual_row_2x6_12_pin_surface_mount |  
 | oomp_word | frog pear anger |  
 | oomp_word_emoji | :frog: :pear: :anger: |  
 | oomp_word_emoji_list | [':frog:', ':pear:', ':anger:'] |  
 | oomp_word_list | ['frog', 'pear', 'anger'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code | hi12x6psm |  
-| short_code_upper | HI12X6PSM |  
+| part_number_name |  |  
 | size | 2_54_mm_dual_row |  
-| size_capital | 2.54 mm Dual Row |  
-| size_first_letter | 2 |  
-| size_first_letter_upper | 2 |  
-| size_only_numbers | 254 |  
-| size_only_numbers_no_zeros | 254 |  
-| size_upper | 2_54_MM_DUAL_ROW |  
-| symbol | [{'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x06_odd_even//working/working.kicad_sym', 'index': 0, 'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x06_odd_even', 'oomp_key': 'oomp_kicad_connector_generic_conn_02x06_odd_even'}] |  
+| size_length_1 | 2 |  
+| size_length_2 | 2_ |  
+| size_length_3 | 2_5 |  
+| size_length_4 | 2_54 |  
+| size_length_5 | 2_54_ |  
+| size_length_6 | 2_54_m |  
+| size_name | 2 54 mm Dual Row |  
+| size_no_space_length_1 | 2 |  
+| size_no_space_length_2 | 25 |  
+| size_no_space_length_3 | 254 |  
+| size_no_space_length_4 | 254m |  
+| size_no_space_length_5 | 254mm |  
+| size_no_space_length_6 | 254mmd |  
+| size_no_space_upper_length_1 | 2 |  
+| size_no_space_upper_length_2 | 25 |  
+| size_no_space_upper_length_3 | 254 |  
+| size_no_space_upper_length_4 | 254M |  
+| size_no_space_upper_length_5 | 254MM |  
+| size_no_space_upper_length_6 | 254MMD |  
+| size_upper_length_1 | 2 |  
+| size_upper_length_2 | 2_ |  
+| size_upper_length_3 | 2_5 |  
+| size_upper_length_4 | 2_54 |  
+| size_upper_length_5 | 2_54_ |  
+| size_upper_length_6 | 2_54_M |  
 | type | header |  
-| type_capital | Header |  
-| type_first_letter | h |  
-| type_first_letter_upper | H |  
-| type_upper | HEADER |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | h |  
+| type_length_2 | he |  
+| type_length_3 | hea |  
+| type_length_4 | head |  
+| type_length_5 | heade |  
+| type_length_6 | header |  
+| type_name | Header |  
+| type_no_space_length_1 | h |  
+| type_no_space_length_2 | he |  
+| type_no_space_length_3 | hea |  
+| type_no_space_length_4 | head |  
+| type_no_space_length_5 | heade |  
+| type_no_space_length_6 | header |  
+| type_no_space_upper_length_1 | H |  
+| type_no_space_upper_length_2 | HE |  
+| type_no_space_upper_length_3 | HEA |  
+| type_no_space_upper_length_4 | HEAD |  
+| type_no_space_upper_length_5 | HEADE |  
+| type_no_space_upper_length_6 | HEADER |  
+| type_upper_length_1 | H |  
+| type_upper_length_2 | HE |  
+| type_upper_length_3 | HEA |  
+| type_upper_length_4 | HEAD |  
+| type_upper_length_5 | HEADE |  
+| type_upper_length_6 | HEADER |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

@@ -30,44 +30,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
-| classification_upper | OOBB |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_upper |  |  
+| color_name |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | 03_04_15 |  
-| description_main_capital | 03 04.15 |  
-| description_main_first_letter | 0 |  
-| description_main_first_letter_upper | 0 |  
-| description_main_upper | 03_04_15 |  
-| description_only_numbers | 030415 |  
-| description_only_numbers_short | 30k |  
-| description_or_color | 30k |  
-| description_or_color_upper | 30K |  
+| description_main_length_1 | 0 |  
+| description_main_length_2 | 03 |  
+| description_main_length_3 | 03_ |  
+| description_main_length_4 | 03_0 |  
+| description_main_length_5 | 03_04 |  
+| description_main_length_6 | 03_04_ |  
+| description_main_name | 03 04 15 |  
+| description_main_no_space_length_1 | 0 |  
+| description_main_no_space_length_2 | 03 |  
+| description_main_no_space_length_3 | 030 |  
+| description_main_no_space_length_4 | 0304 |  
+| description_main_no_space_length_5 | 03041 |  
+| description_main_no_space_length_6 | 030415 |  
+| description_main_no_space_upper_length_1 | 0 |  
+| description_main_no_space_upper_length_2 | 03 |  
+| description_main_no_space_upper_length_3 | 030 |  
+| description_main_no_space_upper_length_4 | 0304 |  
+| description_main_no_space_upper_length_5 | 03041 |  
+| description_main_no_space_upper_length_6 | 030415 |  
+| description_main_upper_length_1 | 0 |  
+| description_main_upper_length_2 | 03 |  
+| description_main_upper_length_3 | 03_ |  
+| description_main_upper_length_4 | 03_0 |  
+| description_main_upper_length_5 | 03_04 |  
+| description_main_upper_length_6 | 03_04_ |  
 | directory | parts/oobb_part_tray_03_04_15 |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15 |  
 | id | oobb_part_tray_03_04_15 |  
 | id_no_class | part_tray_03_04_15 |  
+| id_no_color | 030415 |  
 | id_no_size | 03_04_15 |  
 | id_no_type | tray_03_04_15 |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_tray_03_04_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15/working)<br>[Oobb Part Tray 03 04 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15/working)<br><br> |  
-| markdown_short | [oobb_part_tray_03_04_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_15/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 1c508f8cf5223db3108a712b61f9f030 |  
 | md5_10 | 1c508f8cf5 |  
 | md5_10_upper | 1C508F8CF5 |  
@@ -79,8 +105,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_upper | 1C508F |  
 | name | Oobb Part Tray 03 04 15 |  
 | name_no_class | Part Tray 03 04 15 |  
+| name_no_color | 030415 |  
 | name_no_size | 03 04 15 |  
-| name_no_size_short | 03 04 15 |  
 | name_no_type | Tray 03 04 15 |  
 | oomp_key | oomp_oobb_part_tray_03_04_15 |  
 | oomp_word | dancer beetle calendar |  
@@ -88,23 +114,57 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':dancer:', ':beetle:', ':calendar:'] |  
 | oomp_word_list | ['dancer', 'beetle', 'calendar'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
+| part_number_name |  |  
 | size | tray |  
-| size_capital | Tray |  
-| size_first_letter | t |  
-| size_first_letter_upper | T |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | TRAY |  
+| size_length_1 | t |  
+| size_length_2 | tr |  
+| size_length_3 | tra |  
+| size_length_4 | tray |  
+| size_length_5 | tray |  
+| size_length_6 | tray |  
+| size_name | Tray |  
+| size_no_space_length_1 | t |  
+| size_no_space_length_2 | tr |  
+| size_no_space_length_3 | tra |  
+| size_no_space_length_4 | tray |  
+| size_no_space_length_5 | tray |  
+| size_no_space_length_6 | tray |  
+| size_no_space_upper_length_1 | T |  
+| size_no_space_upper_length_2 | TR |  
+| size_no_space_upper_length_3 | TRA |  
+| size_no_space_upper_length_4 | TRAY |  
+| size_no_space_upper_length_5 | TRAY |  
+| size_no_space_upper_length_6 | TRAY |  
+| size_upper_length_1 | T |  
+| size_upper_length_2 | TR |  
+| size_upper_length_3 | TRA |  
+| size_upper_length_4 | TRAY |  
+| size_upper_length_5 | TRAY |  
+| size_upper_length_6 | TRAY |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
-| type_upper | PART |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

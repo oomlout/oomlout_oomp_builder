@@ -1,4 +1,4 @@
-# Electronic Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible  
+# Electronic Breakout Board Pro Mini MCU Atmega328P Arduino Compatible  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-A mini usb port free arduino compatible breakout
+
 
 ### id
 * oomp_id: electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible
@@ -30,46 +30,118 @@ A mini usb port free arduino compatible breakout
 | key | value |  
 | --- | --- |  
 | classification | electronic |  
-| classification_capital | Electronic |  
-| classification_first_letter | e |  
-| classification_first_letter_upper | E |  
-| classification_upper | ELECTRONIC |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
 | color | mcu |  
-| color_capital | Mcu |  
-| color_first_letter | m |  
-| color_first_letter_upper | M |  
-| color_upper | MCU |  
-| description | A mini usb port free arduino compatible breakout |  
+| color_length_1 | m |  
+| color_length_2 | mc |  
+| color_length_3 | mcu |  
+| color_length_4 | mcu |  
+| color_length_5 | mcu |  
+| color_length_6 | mcu |  
+| color_name | MCU |  
+| color_no_space_length_1 | m |  
+| color_no_space_length_2 | mc |  
+| color_no_space_length_3 | mcu |  
+| color_no_space_length_4 | mcu |  
+| color_no_space_length_5 | mcu |  
+| color_no_space_length_6 | mcu |  
+| color_no_space_upper_length_1 | M |  
+| color_no_space_upper_length_2 | MC |  
+| color_no_space_upper_length_3 | MCU |  
+| color_no_space_upper_length_4 | MCU |  
+| color_no_space_upper_length_5 | MCU |  
+| color_no_space_upper_length_6 | MCU |  
+| color_upper_length_1 | M |  
+| color_upper_length_2 | MC |  
+| color_upper_length_3 | MCU |  
+| color_upper_length_4 | MCU |  
+| color_upper_length_5 | MCU |  
+| color_upper_length_6 | MCU |  
 | description_extra | arduino_compatible |  
-| description_extra_capital | Arduino Compatible |  
-| description_extra_first_letter | a |  
-| description_extra_first_letter_upper | A |  
-| description_extra_upper | ARDUINO_COMPATIBLE |  
+| description_extra_length_1 | a |  
+| description_extra_length_2 | ar |  
+| description_extra_length_3 | ard |  
+| description_extra_length_4 | ardu |  
+| description_extra_length_5 | ardui |  
+| description_extra_length_6 | arduin |  
+| description_extra_name | Arduino Compatible |  
+| description_extra_no_space_length_1 | a |  
+| description_extra_no_space_length_2 | ar |  
+| description_extra_no_space_length_3 | ard |  
+| description_extra_no_space_length_4 | ardu |  
+| description_extra_no_space_length_5 | ardui |  
+| description_extra_no_space_length_6 | arduin |  
+| description_extra_no_space_upper_length_1 | A |  
+| description_extra_no_space_upper_length_2 | AR |  
+| description_extra_no_space_upper_length_3 | ARD |  
+| description_extra_no_space_upper_length_4 | ARDU |  
+| description_extra_no_space_upper_length_5 | ARDUI |  
+| description_extra_no_space_upper_length_6 | ARDUIN |  
+| description_extra_upper_length_1 | A |  
+| description_extra_upper_length_2 | AR |  
+| description_extra_upper_length_3 | ARD |  
+| description_extra_upper_length_4 | ARDU |  
+| description_extra_upper_length_5 | ARDUI |  
+| description_extra_upper_length_6 | ARDUIN |  
 | description_main | atmega328p |  
-| description_main_capital | Atmega328P |  
-| description_main_first_letter | a |  
-| description_main_first_letter_upper | A |  
-| description_main_upper | ATMEGA328P |  
-| description_only_numbers | 328 |  
-| description_only_numbers_short | 328 |  
-| description_or_color | M328 |  
-| description_or_color_upper | M328 |  
+| description_main_length_1 | a |  
+| description_main_length_2 | at |  
+| description_main_length_3 | atm |  
+| description_main_length_4 | atme |  
+| description_main_length_5 | atmeg |  
+| description_main_length_6 | atmega |  
+| description_main_name | Atmega328P |  
+| description_main_no_space_length_1 | a |  
+| description_main_no_space_length_2 | at |  
+| description_main_no_space_length_3 | atm |  
+| description_main_no_space_length_4 | atme |  
+| description_main_no_space_length_5 | atmeg |  
+| description_main_no_space_length_6 | atmega |  
+| description_main_no_space_upper_length_1 | A |  
+| description_main_no_space_upper_length_2 | AT |  
+| description_main_no_space_upper_length_3 | ATM |  
+| description_main_no_space_upper_length_4 | ATME |  
+| description_main_no_space_upper_length_5 | ATMEG |  
+| description_main_no_space_upper_length_6 | ATMEGA |  
+| description_main_upper_length_1 | A |  
+| description_main_upper_length_2 | AT |  
+| description_main_upper_length_3 | ATM |  
+| description_main_upper_length_4 | ATME |  
+| description_main_upper_length_5 | ATMEG |  
+| description_main_upper_length_6 | ATMEGA |  
 | directory | parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible |  
-| distributors | [] |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible |  
 | id | electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible |  
 | id_no_class | breakout_board_pro_mini_mcu_atmega328p_arduino_compatible |  
+| id_no_color | atmega328p_arduino_compatible |  
 | id_no_size | mcu_atmega328p_arduino_compatible |  
 | id_no_type | pro_mini_mcu_atmega328p_arduino_compatible |  
-| kicad_reference | BB |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[bbpmmcu328ac](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br>[Electronic Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br><br> |  
-| markdown_short | [electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 42ad02af84350acebe9c36ed66484b92 |  
 | md5_10 | 42ad02af84 |  
 | md5_10_upper | 42AD02AF84 |  
@@ -79,36 +151,68 @@ A mini usb port free arduino compatible breakout
 | md5_6_alpha | 2lnnm |  
 | md5_6_alpha_upper | 2LNNM |  
 | md5_6_upper | 42AD02 |  
-| name | Electronic Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible |  
-| name_no_class | Breakout Board Pro Mini Mcu Atmega328P Arduino Compatible |  
-| name_no_size | Mcu Atmega328P Arduino Compatible |  
-| name_no_size_short | Mcu Atmega328P Arduino Compatible |  
-| name_no_type | Pro Mini Mcu Atmega328P Arduino Compatible |  
-| notes | [] |  
+| name | Electronic Breakout Board Pro Mini MCU Atmega328P Arduino Compatible |  
+| name_no_class | Breakout Board Pro Mini MCU Atmega328P Arduino Compatible |  
+| name_no_color | Atmega328P Arduino Compatible |  
+| name_no_size | MCU Atmega328P Arduino Compatible |  
+| name_no_type | Pro Mini MCU Atmega328P Arduino Compatible |  
 | oomp_key | oomp_electronic_breakout_board_pro_mini_mcu_atmega328p_arduino_compatible |  
 | oomp_word | sheep dress blush |  
 | oomp_word_emoji | :sheep: :dress: :blush: |  
 | oomp_word_emoji_list | [':sheep:', ':dress:', ':blush:'] |  
 | oomp_word_list | ['sheep', 'dress', 'blush'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| pins | {'pin_1': {'name': 'tx1', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'd7', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': 'd8', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': 'd9', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': 'd10', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': 'd11', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'd12', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'd13', 'number': '16', 'type': 'signal'}, 'pin_17': {'name': 'a0', 'number': '17', 'type': 'power'}, 'pin_18': {'name': 'a1', 'number': '18', 'type': 'signal'}, 'pin_19': {'name': 'a2', 'number': '19', 'type': 'signal'}, 'pin_2': {'name': 'rx0', 'number': '2', 'type': 'signal'}, 'pin_20': {'name': 'a3', 'number': '20', 'type': 'signal'}, 'pin_21': {'name': 'vcc', 'number': '21', 'type': 'signal'}, 'pin_22': {'name': 'rst', 'number': '22', 'type': 'signal'}, 'pin_23': {'name': 'gnd', 'number': '23', 'type': 'signal'}, 'pin_24': {'name': 'vin', 'number': '24', 'type': 'signal'}, 'pin_25': {'name': 'a6', 'number': '25', 'type': 'signal'}, 'pin_26': {'name': 'a7', 'number': '26', 'type': 'signal'}, 'pin_27': {'name': 'a4', 'number': '27', 'type': 'power'}, 'pin_28': {'name': 'a5', 'number': '28', 'type': 'signal'}, 'pin_29': {'name': 'black', 'number': '29', 'type': 'gnd'}, 'pin_3': {'name': 'rst', 'number': '3', 'type': 'signal'}, 'pin_30': {'name': 'gnd', 'number': '30', 'type': 'power'}, 'pin_31': {'name': 'vcc', 'number': '30', 'type': 'power'}, 'pin_32': {'name': 'rx0', 'number': '30', 'type': 'power'}, 'pin_33': {'name': 'tx1', 'number': '30', 'type': 'power'}, 'pin_34': {'name': 'green', 'number': '30', 'type': 'power'}, 'pin_4': {'name': 'gnd', 'number': '4', 'type': 'power'}, 'pin_5': {'name': 'd2', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'd3', 'number': '6', 'type': 'signal'}, 'pin_7': {'name': 'd4', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'd5', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'd6', 'number': '9', 'type': 'signal'}} |  
-| short_code | bbpmmcu328ac |  
-| short_code_upper | BBPMMCU328AC |  
-| short_name |  |  
+| part_number_name |  |  
 | size | pro_mini |  
-| size_capital | Pro Mini |  
-| size_first_letter | p |  
-| size_first_letter_upper | P |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | PRO_MINI |  
+| size_length_1 | p |  
+| size_length_2 | pr |  
+| size_length_3 | pro |  
+| size_length_4 | pro_ |  
+| size_length_5 | pro_m |  
+| size_length_6 | pro_mi |  
+| size_name | Pro Mini |  
+| size_no_space_length_1 | p |  
+| size_no_space_length_2 | pr |  
+| size_no_space_length_3 | pro |  
+| size_no_space_length_4 | prom |  
+| size_no_space_length_5 | promi |  
+| size_no_space_length_6 | promin |  
+| size_no_space_upper_length_1 | P |  
+| size_no_space_upper_length_2 | PR |  
+| size_no_space_upper_length_3 | PRO |  
+| size_no_space_upper_length_4 | PROM |  
+| size_no_space_upper_length_5 | PROMI |  
+| size_no_space_upper_length_6 | PROMIN |  
+| size_upper_length_1 | P |  
+| size_upper_length_2 | PR |  
+| size_upper_length_3 | PRO |  
+| size_upper_length_4 | PRO_ |  
+| size_upper_length_5 | PRO_M |  
+| size_upper_length_6 | PRO_MI |  
 | type | breakout_board |  
-| type_capital | Breakout Board |  
-| type_first_letter | b |  
-| type_first_letter_upper | B |  
-| type_upper | BREAKOUT_BOARD |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | b |  
+| type_length_2 | br |  
+| type_length_3 | bre |  
+| type_length_4 | brea |  
+| type_length_5 | break |  
+| type_length_6 | breako |  
+| type_name | Breakout Board |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | br |  
+| type_no_space_length_3 | bre |  
+| type_no_space_length_4 | brea |  
+| type_no_space_length_5 | break |  
+| type_no_space_length_6 | breako |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BR |  
+| type_no_space_upper_length_3 | BRE |  
+| type_no_space_upper_length_4 | BREA |  
+| type_no_space_upper_length_5 | BREAK |  
+| type_no_space_upper_length_6 | BREAKO |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BR |  
+| type_upper_length_3 | BRE |  
+| type_upper_length_4 | BREA |  
+| type_upper_length_5 | BREAK |  
+| type_upper_length_6 | BREAKO |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

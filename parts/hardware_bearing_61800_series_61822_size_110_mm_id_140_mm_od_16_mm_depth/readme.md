@@ -1,4 +1,4 @@
-# Hardware Bearing 61800 Series 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth  
+# Hardware Bearing 61800 Series 61822 Size 110 mm ID 140 mm OD 16 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: br61822
 * oomp_word: sunflower beer scream
 * oomp_word_emoji :sunflower: :beer: :scream:
 * md5_6_alpha: 3xgqw
@@ -30,46 +30,94 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_capital | Hardware |  
-| classification_first_letter | h |  
-| classification_first_letter_upper | H |  
-| classification_upper | HARDWARE |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
 | color | 61822_size |  
-| color_capital | 61822 Size |  
-| color_first_letter | 6 |  
-| color_first_letter_upper | 6 |  
-| color_upper | 61822_SIZE |  
+| color_length_1 | 6 |  
+| color_length_2 | 61 |  
+| color_length_3 | 618 |  
+| color_length_4 | 6182 |  
+| color_length_5 | 61822 |  
+| color_length_6 | 61822_ |  
+| color_name | 61822 Size |  
+| color_no_space_length_1 | 6 |  
+| color_no_space_length_2 | 61 |  
+| color_no_space_length_3 | 618 |  
+| color_no_space_length_4 | 6182 |  
+| color_no_space_length_5 | 61822 |  
+| color_no_space_length_6 | 61822s |  
+| color_no_space_upper_length_1 | 6 |  
+| color_no_space_upper_length_2 | 61 |  
+| color_no_space_upper_length_3 | 618 |  
+| color_no_space_upper_length_4 | 6182 |  
+| color_no_space_upper_length_5 | 61822 |  
+| color_no_space_upper_length_6 | 61822S |  
+| color_upper_length_1 | 6 |  
+| color_upper_length_2 | 61 |  
+| color_upper_length_3 | 618 |  
+| color_upper_length_4 | 6182 |  
+| color_upper_length_5 | 61822 |  
+| color_upper_length_6 | 61822_ |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | 110_mm_id_140_mm_od_16_mm_depth |  
-| description_main_capital | 110 mm Id 140 mm Od 16 mm Depth |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
-| description_main_upper | 110_MM_ID_140_MM_OD_16_MM_DEPTH |  
-| description_only_numbers | 11014016 |  
-| description_only_numbers_short | 1M1 |  
-| description_or_color | 61M1 |  
-| description_or_color_upper | 61M1 |  
+| description_main_length_1 | 1 |  
+| description_main_length_2 | 11 |  
+| description_main_length_3 | 110 |  
+| description_main_length_4 | 110_ |  
+| description_main_length_5 | 110_m |  
+| description_main_length_6 | 110_mm |  
+| description_main_name | 110 mm ID 140 mm OD 16 mm Depth |  
+| description_main_no_space_length_1 | 1 |  
+| description_main_no_space_length_2 | 11 |  
+| description_main_no_space_length_3 | 110 |  
+| description_main_no_space_length_4 | 110m |  
+| description_main_no_space_length_5 | 110mm |  
+| description_main_no_space_length_6 | 110mmi |  
+| description_main_no_space_upper_length_1 | 1 |  
+| description_main_no_space_upper_length_2 | 11 |  
+| description_main_no_space_upper_length_3 | 110 |  
+| description_main_no_space_upper_length_4 | 110M |  
+| description_main_no_space_upper_length_5 | 110MM |  
+| description_main_no_space_upper_length_6 | 110MMI |  
+| description_main_upper_length_1 | 1 |  
+| description_main_upper_length_2 | 11 |  
+| description_main_upper_length_3 | 110 |  
+| description_main_upper_length_4 | 110_ |  
+| description_main_upper_length_5 | 110_M |  
+| description_main_upper_length_6 | 110_MM |  
 | directory | parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
-| distributors | [] |  
-| filter | hardware |  
-| from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | id | hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | id_no_class | bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
+| id_no_color | 110_mm_id_140_mm_od_16_mm_depth |  
 | id_no_size | 61822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | id_no_type | 61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br>[Hardware Bearing 61800 Series 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 64b6083371e3615767ac97555ae26f4c |  
 | md5_10 | 64b6083371 |  
 | md5_10_upper | 64B6083371 |  
@@ -79,33 +127,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 3xgqw |  
 | md5_6_alpha_upper | 3XGQW |  
 | md5_6_upper | 64B608 |  
-| name | Hardware Bearing 61800 Series 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth |  
-| name_no_class | Bearing 61800 Series 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth |  
-| name_no_size | 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth |  
-| name_no_size_short | 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth |  
-| name_no_type | 61800 Series 61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth |  
+| name | Hardware Bearing 61800 Series 61822 Size 110 mm ID 140 mm OD 16 mm Depth |  
+| name_no_class | Bearing 61800 Series 61822 Size 110 mm ID 140 mm OD 16 mm Depth |  
+| name_no_color | 110 mm ID 140 mm OD 16 mm Depth |  
+| name_no_size | 61822 Size 110 mm ID 140 mm OD 16 mm Depth |  
+| name_no_type | 61800 Series 61822 Size 110 mm ID 140 mm OD 16 mm Depth |  
+| oomlout_short_code | br61822 |  
+| oomlout_short_code_upper | BR61822 |  
 | oomp_key | oomp_hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth |  
 | oomp_word | sunflower beer scream |  
 | oomp_word_emoji | :sunflower: :beer: :scream: |  
 | oomp_word_emoji_list | [':sunflower:', ':beer:', ':scream:'] |  
 | oomp_word_list | ['sunflower', 'beer', 'scream'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
+| part_number_name |  |  
 | size | 61800_series |  
-| size_capital | 61800 Series |  
-| size_first_letter | 6 |  
-| size_first_letter_upper | 6 |  
-| size_only_numbers | 61800 |  
-| size_only_numbers_no_zeros | 618 |  
-| size_upper | 61800_SERIES |  
+| size_length_1 | 6 |  
+| size_length_2 | 61 |  
+| size_length_3 | 618 |  
+| size_length_4 | 6180 |  
+| size_length_5 | 61800 |  
+| size_length_6 | 61800_ |  
+| size_name | 61800 Series |  
+| size_no_space_length_1 | 6 |  
+| size_no_space_length_2 | 61 |  
+| size_no_space_length_3 | 618 |  
+| size_no_space_length_4 | 6180 |  
+| size_no_space_length_5 | 61800 |  
+| size_no_space_length_6 | 61800s |  
+| size_no_space_upper_length_1 | 6 |  
+| size_no_space_upper_length_2 | 61 |  
+| size_no_space_upper_length_3 | 618 |  
+| size_no_space_upper_length_4 | 6180 |  
+| size_no_space_upper_length_5 | 61800 |  
+| size_no_space_upper_length_6 | 61800S |  
+| size_upper_length_1 | 6 |  
+| size_upper_length_2 | 61 |  
+| size_upper_length_3 | 618 |  
+| size_upper_length_4 | 6180 |  
+| size_upper_length_5 | 61800 |  
+| size_upper_length_6 | 61800_ |  
 | type | bearing |  
-| type_capital | Bearing |  
-| type_first_letter | b |  
-| type_first_letter_upper | B |  
-| type_upper | BEARING |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | b |  
+| type_length_2 | be |  
+| type_length_3 | bea |  
+| type_length_4 | bear |  
+| type_length_5 | beari |  
+| type_length_6 | bearin |  
+| type_name | Bearing |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | be |  
+| type_no_space_length_3 | bea |  
+| type_no_space_length_4 | bear |  
+| type_no_space_length_5 | beari |  
+| type_no_space_length_6 | bearin |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BE |  
+| type_no_space_upper_length_3 | BEA |  
+| type_no_space_upper_length_4 | BEAR |  
+| type_no_space_upper_length_5 | BEARI |  
+| type_no_space_upper_length_6 | BEARIN |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BE |  
+| type_upper_length_3 | BEA |  
+| type_upper_length_4 | BEAR |  
+| type_upper_length_5 | BEARI |  
+| type_upper_length_6 | BEARIN |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  

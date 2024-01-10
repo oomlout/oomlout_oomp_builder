@@ -1,4 +1,4 @@
-# Hardware Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth  
+# Hardware Bearing Mr Series Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth  
 
 note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
 
@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: brMR63
 * oomp_word: ram kissing birthday
 * oomp_word_emoji :ram: :kissing: :birthday:
 * md5_6_alpha: 3ctz6
@@ -30,46 +30,94 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_capital | Hardware |  
-| classification_first_letter | h |  
-| classification_first_letter_upper | H |  
-| classification_upper | HARDWARE |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
 | color | MR63_size |  
-| color_capital | Mr63 Size |  
-| color_first_letter | M |  
-| color_first_letter_upper | M |  
-| color_upper | MR63_SIZE |  
+| color_length_1 | M |  
+| color_length_2 | MR |  
+| color_length_3 | MR6 |  
+| color_length_4 | MR63 |  
+| color_length_5 | MR63_ |  
+| color_length_6 | MR63_s |  
+| color_name | Mr63 Size |  
+| color_no_space_length_1 | M |  
+| color_no_space_length_2 | MR |  
+| color_no_space_length_3 | MR6 |  
+| color_no_space_length_4 | MR63 |  
+| color_no_space_length_5 | MR63s |  
+| color_no_space_length_6 | MR63si |  
+| color_no_space_upper_length_1 | M |  
+| color_no_space_upper_length_2 | MR |  
+| color_no_space_upper_length_3 | MR6 |  
+| color_no_space_upper_length_4 | MR63 |  
+| color_no_space_upper_length_5 | MR63S |  
+| color_no_space_upper_length_6 | MR63SI |  
+| color_upper_length_1 | M |  
+| color_upper_length_2 | MR |  
+| color_upper_length_3 | MR6 |  
+| color_upper_length_4 | MR63 |  
+| color_upper_length_5 | MR63_ |  
+| color_upper_length_6 | MR63_S |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
-| description_extra_upper |  |  
+| description_extra_name |  |  
 | description_main | 3_mm_id_6_mm_od_2_5_mm_depth |  
-| description_main_capital | 3 mm Id 6 mm Od 2.5 mm Depth |  
-| description_main_first_letter | 3 |  
-| description_main_first_letter_upper | 3 |  
-| description_main_upper | 3_MM_ID_6_MM_OD_2_5_MM_DEPTH |  
-| description_only_numbers | 3625 |  
-| description_only_numbers_short | 3k6 |  
-| description_or_color | M3k6 |  
-| description_or_color_upper | M3K6 |  
+| description_main_length_1 | 3 |  
+| description_main_length_2 | 3_ |  
+| description_main_length_3 | 3_m |  
+| description_main_length_4 | 3_mm |  
+| description_main_length_5 | 3_mm_ |  
+| description_main_length_6 | 3_mm_i |  
+| description_main_name | 3 mm ID 6 mm OD 2 5 mm Depth |  
+| description_main_no_space_length_1 | 3 |  
+| description_main_no_space_length_2 | 3m |  
+| description_main_no_space_length_3 | 3mm |  
+| description_main_no_space_length_4 | 3mmi |  
+| description_main_no_space_length_5 | 3mmid |  
+| description_main_no_space_length_6 | 3mmid6 |  
+| description_main_no_space_upper_length_1 | 3 |  
+| description_main_no_space_upper_length_2 | 3M |  
+| description_main_no_space_upper_length_3 | 3MM |  
+| description_main_no_space_upper_length_4 | 3MMI |  
+| description_main_no_space_upper_length_5 | 3MMID |  
+| description_main_no_space_upper_length_6 | 3MMID6 |  
+| description_main_upper_length_1 | 3 |  
+| description_main_upper_length_2 | 3_ |  
+| description_main_upper_length_3 | 3_M |  
+| description_main_upper_length_4 | 3_MM |  
+| description_main_upper_length_5 | 3_MM_ |  
+| description_main_upper_length_6 | 3_MM_I |  
 | directory | parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
-| distributors | [] |  
-| filter | hardware |  
-| from_yaml | False |  
-| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth/working |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
 | id | hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
 | id_no_class | bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
+| id_no_color | 3_mm_id_6_mm_od_2_5_mm_depth |  
 | id_no_size | MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
 | id_no_type | MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth/working)<br>[Hardware Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth/working)<br><br> |  
+| manufacturer_name |  |  
 | md5 | 5605c22e225cf684c0bf55a46d397bcc |  
 | md5_10 | 5605c22e22 |  
 | md5_10_upper | 5605C22E22 |  
@@ -79,33 +127,70 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | md5_6_alpha | 3ctz6 |  
 | md5_6_alpha_upper | 3CTZ6 |  
 | md5_6_upper | 5605C2 |  
-| name | Hardware Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth |  
-| name_no_class | Bearing Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth |  
-| name_no_size | Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth |  
-| name_no_size_short | Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth |  
-| name_no_type | Mr Series Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth |  
+| name | Hardware Bearing Mr Series Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth |  
+| name_no_class | Bearing Mr Series Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth |  
+| name_no_color | 3 mm ID 6 mm OD 2 5 mm Depth |  
+| name_no_size | Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth |  
+| name_no_type | Mr Series Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth |  
+| oomlout_short_code | brMR63 |  
+| oomlout_short_code_upper | BRMR63 |  
 | oomp_key | oomp_hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth |  
 | oomp_word | ram kissing birthday |  
 | oomp_word_emoji | :ram: :kissing: :birthday: |  
 | oomp_word_emoji_list | [':ram:', ':kissing:', ':birthday:'] |  
 | oomp_word_list | ['ram', 'kissing', 'birthday'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
+| part_number_name |  |  
 | size | MR_series |  
-| size_capital | Mr Series |  
-| size_first_letter | M |  
-| size_first_letter_upper | M |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | MR_SERIES |  
+| size_length_1 | M |  
+| size_length_2 | MR |  
+| size_length_3 | MR_ |  
+| size_length_4 | MR_s |  
+| size_length_5 | MR_se |  
+| size_length_6 | MR_ser |  
+| size_name | Mr Series |  
+| size_no_space_length_1 | M |  
+| size_no_space_length_2 | MR |  
+| size_no_space_length_3 | MRs |  
+| size_no_space_length_4 | MRse |  
+| size_no_space_length_5 | MRser |  
+| size_no_space_length_6 | MRseri |  
+| size_no_space_upper_length_1 | M |  
+| size_no_space_upper_length_2 | MR |  
+| size_no_space_upper_length_3 | MRS |  
+| size_no_space_upper_length_4 | MRSE |  
+| size_no_space_upper_length_5 | MRSER |  
+| size_no_space_upper_length_6 | MRSERI |  
+| size_upper_length_1 | M |  
+| size_upper_length_2 | MR |  
+| size_upper_length_3 | MR_ |  
+| size_upper_length_4 | MR_S |  
+| size_upper_length_5 | MR_SE |  
+| size_upper_length_6 | MR_SER |  
 | type | bearing |  
-| type_capital | Bearing |  
-| type_first_letter | b |  
-| type_first_letter_upper | B |  
-| type_upper | BEARING |  
-| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.json', 'working.yaml'] |  
+| type_length_1 | b |  
+| type_length_2 | be |  
+| type_length_3 | bea |  
+| type_length_4 | bear |  
+| type_length_5 | beari |  
+| type_length_6 | bearin |  
+| type_name | Bearing |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | be |  
+| type_no_space_length_3 | bea |  
+| type_no_space_length_4 | bear |  
+| type_no_space_length_5 | beari |  
+| type_no_space_length_6 | bearin |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BE |  
+| type_no_space_upper_length_3 | BEA |  
+| type_no_space_upper_length_4 | BEAR |  
+| type_no_space_upper_length_5 | BEARI |  
+| type_no_space_upper_length_6 | BEARIN |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BE |  
+| type_upper_length_3 | BEA |  
+| type_upper_length_4 | BEAR |  
+| type_upper_length_5 | BEARI |  
+| type_upper_length_6 | BEARIN |  
+| files | ['base.yaml', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'working.yaml'] |  
