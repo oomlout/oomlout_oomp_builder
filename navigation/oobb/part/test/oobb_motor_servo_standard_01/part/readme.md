@@ -167,4 +167,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | PART |  
 | type_upper_length_5 | PART |  
 | type_upper_length_6 | PART |  
-| files | ['base.yaml', 'readme.md', 'working.yaml'] |  

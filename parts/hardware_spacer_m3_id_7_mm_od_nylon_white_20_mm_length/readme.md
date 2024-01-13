@@ -211,4 +211,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | SPAC |  
 | type_upper_length_5 | SPACE |  
 | type_upper_length_6 | SPACER |  
-| files | ['base.yaml', 'head_type_diagram.png', 'label_15_mm_30_mm.pdf', 'label_15_mm_30_mm.svg', 'label_76_2_mm_50_8_mm.pdf', 'label_76_2_mm_50_8_mm.svg', 'label_bolt_76_2_mm_50_8_mm.pdf', 'label_bolt_76_2_mm_50_8_mm.svg', 'label_oomlout_76_2_mm_50_8_mm.pdf', 'label_oomlout_76_2_mm_50_8_mm.svg', 'readme.md', 'type_diagram.png', 'working.yaml'] |  

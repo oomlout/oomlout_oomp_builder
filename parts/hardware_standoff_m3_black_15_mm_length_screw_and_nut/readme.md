@@ -233,4 +233,3 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | STAN |  
 | type_upper_length_5 | STAND |  
 | type_upper_length_6 | STANDO |  
-| files | ['base.yaml', 'readme.md', 'type_diagram.png', 'working.yaml'] |  
