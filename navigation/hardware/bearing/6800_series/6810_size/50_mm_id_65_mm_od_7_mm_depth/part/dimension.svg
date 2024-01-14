@@ -5,7 +5,7 @@
 viewBox="0 0 30000 30000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -48,13 +48,13 @@ viewBox="0 0 30000 30000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <text x="7547" y="1830"  class="fil0 fnt0">hardware_bearing_6800</text>
-  <text x="11261" y="3781"  class="fil0 fnt0">series_6810</text>
-  <text x="2178" y="5733"  class="fil0 fnt0">size_50_mm_id_65_mm_od_7_mm_depth</text>
+  <text x="5431" y="1830"  class="fil0 fnt0">hardware_bearing_6800_series</text>
+  <text x="11835" y="3781"  class="fil0 fnt0">6810_size</text>
+  <text x="3721" y="5733"  class="fil0 fnt0">50_mm_id_65_mm_od_7_mm_depth</text>
   <circle class="fil1 str0" cx="15000" cy="18000" r="2500"/>
   <circle class="fil1 str0" cx="15000" cy="18000" r="3250"/>
   <rect class="fil1 str0" x="11750" y="11650" width="6500" height="700"/>
-  <g id="_947367136">
+  <g id="_946774480">
    <line class="fil1 str0" x1="11459" y1="12350" x2="8709" y2= "12350" />
    <line class="fil1 str0" x1="11459" y1="11650" x2="8709" y2= "11650" />
    <line class="fil1 str0" x1="9000" y1="12350" x2="9000" y2= "12350" />
@@ -63,7 +63,7 @@ viewBox="0 0 30000 30000"
   <g transform="matrix(0 -1 1 0 -5693.93 27000)">
    <text x="13808" y="15000"  class="fil0 fnt1">7 mm</text>
   </g>
-  <g id="_947364480">
+  <g id="_945794128">
    <line class="fil1 str0" x1="14709" y1="20500" x2="8709" y2= "20500" />
    <line class="fil1 str0" x1="14709" y1="15500" x2="8709" y2= "15500" />
    <line class="fil1 str0" x1="9000" y1="19893" x2="9000" y2= "20500" />
@@ -72,7 +72,7 @@ viewBox="0 0 30000 30000"
   <g transform="matrix(0 -1 1 0 -5686.31 33000)">
    <text x="13540" y="15000"  class="fil0 fnt1">50 mm</text>
   </g>
-  <g id="_947371008">
+  <g id="_945789360">
    <line class="fil1 str0" x1="14709" y1="21250" x2="7209" y2= "21250" />
    <line class="fil1 str0" x1="14709" y1="14750" x2="7209" y2= "14750" />
    <line class="fil1 str0" x1="7500" y1="19940" x2="7500" y2= "21250" />
