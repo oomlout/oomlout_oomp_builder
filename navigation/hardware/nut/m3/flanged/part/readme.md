@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n3mfl
 * oomp_word: rat koala airplane
 * oomp_word_emoji :rat: :koala: :airplane:
 * md5_6_alpha: 3ej1i
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M3 Flanged |  
+| oomlout_short_code | n3mfl |  
+| oomlout_short_code_upper | N3MFL |  
 | oomp_key | oomp_hardware_nut_m3_flanged |  
 | oomp_word | rat koala airplane |  
 | oomp_word_emoji | :rat: :koala: :airplane: |  

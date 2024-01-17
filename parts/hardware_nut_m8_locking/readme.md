@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n8mlo
 * oomp_word: ocean leaves elephant
 * oomp_word_emoji :ocean: :leaves: :elephant:
 * md5_6_alpha: 1xe0z
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M8 Locking |  
+| oomlout_short_code | n8mlo |  
+| oomlout_short_code_upper | N8MLO |  
 | oomp_key | oomp_hardware_nut_m8_locking |  
 | oomp_word | ocean leaves elephant |  
 | oomp_word_emoji | :ocean: :leaves: :elephant: |  

@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2d5mlo
 * oomp_word: beetle strawberry umbrella
 * oomp_word_emoji :beetle: :strawberry: :umbrella:
 * md5_6_alpha: 35hyi
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M2 5 Locking |  
+| oomlout_short_code | n2d5mlo |  
+| oomlout_short_code_upper | N2D5MLO |  
 | oomp_key | oomp_hardware_nut_m2_5_locking |  
 | oomp_word | beetle strawberry umbrella |  
 | oomp_word_emoji | :beetle: :strawberry: :umbrella: |  

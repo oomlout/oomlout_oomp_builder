@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n5nw
 * oomp_word: honeybee coffee poop
 * oomp_word_emoji :honeybee: :coffee: :poop:
 * md5_6_alpha: 32jv9
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
 | name_no_type | M5 Nylon White |  
+| oomlout_short_code | n5nw |  
+| oomlout_short_code_upper | N5NW |  
 | oomp_key | oomp_hardware_nut_m5_nylon_white |  
 | oomp_word | honeybee coffee poop |  
 | oomp_word_emoji | :honeybee: :coffee: :poop: |  

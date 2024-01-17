@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n8nw
 * oomp_word: snowman tiger eight
 * oomp_word_emoji :snowman: :tiger: :eight:
 * md5_6_alpha: 1rj09
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
 | name_no_type | M8 Nylon White |  
+| oomlout_short_code | n8nw |  
+| oomlout_short_code_upper | N8NW |  
 | oomp_key | oomp_hardware_nut_m8_nylon_white |  
 | oomp_word | snowman tiger eight |  
 | oomp_word_emoji | :snowman: :tiger: :eight: |  

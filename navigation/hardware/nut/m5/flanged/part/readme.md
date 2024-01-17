@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n5mfl
 * oomp_word: coffee scream fireworks
 * oomp_word_emoji :coffee: :scream: :fireworks:
 * md5_6_alpha: 70vw4
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M5 Flanged |  
+| oomlout_short_code | n5mfl |  
+| oomlout_short_code_upper | N5MFL |  
 | oomp_key | oomp_hardware_nut_m5_flanged |  
 | oomp_word | coffee scream fireworks |  
 | oomp_word_emoji | :coffee: :scream: :fireworks: |  

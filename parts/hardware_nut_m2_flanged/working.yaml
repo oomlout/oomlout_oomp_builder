@@ -77,6 +77,8 @@ name_no_class: Nut M2 Flanged
 name_no_color: Flanged
 name_no_size: Flanged
 name_no_type: M2 Flanged
+oomlout_short_code: n2mfl
+oomlout_short_code_upper: N2MFL
 oomp_key: oomp_hardware_nut_m2_flanged
 oomp_word: sunflower bowling two
 oomp_word_emoji: ':sunflower: :bowling: :two:'

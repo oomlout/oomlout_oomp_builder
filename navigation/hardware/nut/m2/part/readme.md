@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2m
 * oomp_word: chicken candy question
 * oomp_word_emoji :chicken: :candy: :question:
 * md5_6_alpha: 2x0yb
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M2 |  
 | name_no_size | M2 |  
 | name_no_type | M2 |  
+| oomlout_short_code | n2m |  
+| oomlout_short_code_upper | N2M |  
 | oomp_key | oomp_hardware_nut_m2 |  
 | oomp_word | chicken candy question |  
 | oomp_word_emoji | :chicken: :candy: :question: |  

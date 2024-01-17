@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n4nw
 * oomp_word: snowman envelope kiss
 * oomp_word_emoji :snowman: :envelope: :kiss:
 * md5_6_alpha: 1ryub
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
 | name_no_type | M4 Nylon White |  
+| oomlout_short_code | n4nw |  
+| oomlout_short_code_upper | N4NW |  
 | oomp_key | oomp_hardware_nut_m4_nylon_white |  
 | oomp_word | snowman envelope kiss |  
 | oomp_word_emoji | :snowman: :envelope: :kiss: |  

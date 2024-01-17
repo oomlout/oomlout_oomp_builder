@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n6m
 * oomp_word: alien goat ring
 * oomp_word_emoji :alien: :goat: :ring:
 * md5_6_alpha: hcps
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M6 |  
 | name_no_size | M6 |  
 | name_no_type | M6 |  
+| oomlout_short_code | n6m |  
+| oomlout_short_code_upper | N6M |  
 | oomp_key | oomp_hardware_nut_m6 |  
 | oomp_word | alien goat ring |  
 | oomp_word_emoji | :alien: :goat: :ring: |  

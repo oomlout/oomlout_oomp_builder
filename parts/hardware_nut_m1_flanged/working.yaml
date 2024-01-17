@@ -77,6 +77,8 @@ name_no_class: Nut M1 Flanged
 name_no_color: Flanged
 name_no_size: Flanged
 name_no_type: M1 Flanged
+oomlout_short_code: n1mfl
+oomlout_short_code_upper: N1MFL
 oomp_key: oomp_hardware_nut_m1_flanged
 oomp_word: eight basketball bouquet
 oomp_word_emoji: ':eight: :basketball: :bouquet:'

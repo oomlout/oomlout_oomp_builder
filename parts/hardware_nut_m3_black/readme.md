@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n3b
 * oomp_word: two spades maple_leaf
 * oomp_word_emoji :two: :spades: :maple_leaf:
 * md5_6_alpha: 9i6w5
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Black |  
 | name_no_size | Black |  
 | name_no_type | M3 Black |  
+| oomlout_short_code | n3b |  
+| oomlout_short_code_upper | N3B |  
 | oomp_key | oomp_hardware_nut_m3_black |  
 | oomp_word | two spades maple_leaf |  
 | oomp_word_emoji | :two: :spades: :maple_leaf: |  

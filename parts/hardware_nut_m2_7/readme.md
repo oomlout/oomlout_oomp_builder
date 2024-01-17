@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2d7m
 * oomp_word: alien dress car
 * oomp_word_emoji :alien: :dress: :car:
 * md5_6_alpha: ht63
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M27 |  
 | name_no_size | M2 7 |  
 | name_no_type | M2 7 |  
+| oomlout_short_code | n2d7m |  
+| oomlout_short_code_upper | N2D7M |  
 | oomp_key | oomp_hardware_nut_m2_7 |  
 | oomp_word | alien dress car |  
 | oomp_word_emoji | :alien: :dress: :car: |  

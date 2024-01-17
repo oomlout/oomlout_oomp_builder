@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n3nw
 * oomp_word: dress ramen speaker
 * oomp_word_emoji :dress: :ramen: :speaker:
 * md5_6_alpha: 6s1vj
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
 | name_no_type | M3 Nylon White |  
+| oomlout_short_code | n3nw |  
+| oomlout_short_code_upper | N3NW |  
 | oomp_key | oomp_hardware_nut_m3_nylon_white |  
 | oomp_word | dress ramen speaker |  
 | oomp_word_emoji | :dress: :ramen: :speaker: |  

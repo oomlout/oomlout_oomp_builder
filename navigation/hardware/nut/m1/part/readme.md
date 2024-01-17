@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n1m
 * oomp_word: two angel shoe
 * oomp_word_emoji :two: :angel: :shoe:
 * md5_6_alpha: 9hi20
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M1 |  
 | name_no_size | M1 |  
 | name_no_type | M1 |  
+| oomlout_short_code | n1m |  
+| oomlout_short_code_upper | N1M |  
 | oomp_key | oomp_hardware_nut_m1 |  
 | oomp_word | two angel shoe |  
 | oomp_word_emoji | :two: :angel: :shoe: |  

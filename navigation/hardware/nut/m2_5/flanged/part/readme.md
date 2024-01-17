@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2d5mfl
 * oomp_word: mushroom bread water_buffalo
 * oomp_word_emoji :mushroom: :bread: :water_buffalo:
 * md5_6_alpha: 43520
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M2 5 Flanged |  
+| oomlout_short_code | n2d5mfl |  
+| oomlout_short_code_upper | N2D5MFL |  
 | oomp_key | oomp_hardware_nut_m2_5_flanged |  
 | oomp_word | mushroom bread water_buffalo |  
 | oomp_word_emoji | :mushroom: :bread: :water_buffalo: |  

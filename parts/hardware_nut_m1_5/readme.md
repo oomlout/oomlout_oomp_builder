@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n1d5m
 * oomp_word: honeybee banana shirt
 * oomp_word_emoji :honeybee: :banana: :shirt:
 * md5_6_alpha: 32pik
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M15 |  
 | name_no_size | M1 5 |  
 | name_no_type | M1 5 |  
+| oomlout_short_code | n1d5m |  
+| oomlout_short_code_upper | N1D5M |  
 | oomp_key | oomp_hardware_nut_m1_5 |  
 | oomp_word | honeybee banana shirt |  
 | oomp_word_emoji | :honeybee: :banana: :shirt: |  

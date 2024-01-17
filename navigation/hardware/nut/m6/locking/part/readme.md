@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n6mlo
 * oomp_word: leopard pizza crown
 * oomp_word_emoji :leopard: :pizza: :crown:
 * md5_6_alpha: 3qg8g
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M6 Locking |  
+| oomlout_short_code | n6mlo |  
+| oomlout_short_code_upper | N6MLO |  
 | oomp_key | oomp_hardware_nut_m6_locking |  
 | oomp_word | leopard pizza crown |  
 | oomp_word_emoji | :leopard: :pizza: :crown: |  

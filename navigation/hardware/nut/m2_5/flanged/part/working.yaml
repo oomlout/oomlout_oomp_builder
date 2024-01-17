@@ -77,6 +77,8 @@ name_no_class: Nut M2 5 Flanged
 name_no_color: Flanged
 name_no_size: Flanged
 name_no_type: M2 5 Flanged
+oomlout_short_code: n2d5mfl
+oomlout_short_code_upper: N2D5MFL
 oomp_key: oomp_hardware_nut_m2_5_flanged
 oomp_word: mushroom bread water_buffalo
 oomp_word_emoji: ':mushroom: :bread: :water_buffalo:'

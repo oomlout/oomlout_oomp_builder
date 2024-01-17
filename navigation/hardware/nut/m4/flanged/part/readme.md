@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n4mfl
 * oomp_word: briefcase anger honey_pot
 * oomp_word_emoji :briefcase: :anger: :honey_pot:
 * md5_6_alpha: 6wq87
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M4 Flanged |  
+| oomlout_short_code | n4mfl |  
+| oomlout_short_code_upper | N4MFL |  
 | oomp_key | oomp_hardware_nut_m4_flanged |  
 | oomp_word | briefcase anger honey_pot |  
 | oomp_word_emoji | :briefcase: :anger: :honey_pot: |  

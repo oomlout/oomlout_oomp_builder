@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2mfl
 * oomp_word: sunflower bowling two
 * oomp_word_emoji :sunflower: :bowling: :two:
 * md5_6_alpha: 3xb77
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M2 Flanged |  
+| oomlout_short_code | n2mfl |  
+| oomlout_short_code_upper | N2MFL |  
 | oomp_key | oomp_hardware_nut_m2_flanged |  
 | oomp_word | sunflower bowling two |  
 | oomp_word_emoji | :sunflower: :bowling: :two: |  

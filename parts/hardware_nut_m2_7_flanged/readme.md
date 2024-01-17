@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2d7mfl
 * oomp_word: ox grin poodle
 * oomp_word_emoji :ox: :grin: :poodle:
 * md5_6_alpha: 3l8ww
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M2 7 Flanged |  
+| oomlout_short_code | n2d7mfl |  
+| oomlout_short_code_upper | N2D7MFL |  
 | oomp_key | oomp_hardware_nut_m2_7_flanged |  
 | oomp_word | ox grin poodle |  
 | oomp_word_emoji | :ox: :grin: :poodle: |  

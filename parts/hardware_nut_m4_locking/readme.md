@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n4mlo
 * oomp_word: horse angel sandal
 * oomp_word_emoji :horse: :angel: :sandal:
 * md5_6_alpha: 2gnu1
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M4 Locking |  
+| oomlout_short_code | n4mlo |  
+| oomlout_short_code_upper | N4MLO |  
 | oomp_key | oomp_hardware_nut_m4_locking |  
 | oomp_word | horse angel sandal |  
 | oomp_word_emoji | :horse: :angel: :sandal: |  

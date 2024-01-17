@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n3mlo
 * oomp_word: mouse rowboat rose
 * oomp_word_emoji :mouse: :rowboat: :rose:
 * md5_6_alpha: 22ag3
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M3 Locking |  
+| oomlout_short_code | n3mlo |  
+| oomlout_short_code_upper | N3MLO |  
 | oomp_key | oomp_hardware_nut_m3_locking |  
 | oomp_word | mouse rowboat rose |  
 | oomp_word_emoji | :mouse: :rowboat: :rose: |  

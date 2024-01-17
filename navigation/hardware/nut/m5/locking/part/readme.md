@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n5mlo
 * oomp_word: sunflower strawberry banana
 * oomp_word_emoji :sunflower: :strawberry: :banana:
 * md5_6_alpha: 3xlg0
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M5 Locking |  
+| oomlout_short_code | n5mlo |  
+| oomlout_short_code_upper | N5MLO |  
 | oomp_key | oomp_hardware_nut_m5_locking |  
 | oomp_word | sunflower strawberry banana |  
 | oomp_word_emoji | :sunflower: :strawberry: :banana: |  

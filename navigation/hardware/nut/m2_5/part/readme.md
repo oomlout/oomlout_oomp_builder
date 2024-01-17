@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2d5m
 * oomp_word: pray cookie leaves
 * oomp_word_emoji :pray: :cookie: :leaves:
 * md5_6_alpha: 106zq
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M25 |  
 | name_no_size | M2 5 |  
 | name_no_type | M2 5 |  
+| oomlout_short_code | n2d5m |  
+| oomlout_short_code_upper | N2D5M |  
 | oomp_key | oomp_hardware_nut_m2_5 |  
 | oomp_word | pray cookie leaves |  
 | oomp_word_emoji | :pray: :cookie: :leaves: |  

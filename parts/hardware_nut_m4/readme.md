@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n4m
 * oomp_word: eight turtle clipboard
 * oomp_word_emoji :eight: :turtle: :clipboard:
 * md5_6_alpha: 9q6j2
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M4 |  
 | name_no_size | M4 |  
 | name_no_type | M4 |  
+| oomlout_short_code | n4m |  
+| oomlout_short_code_upper | N4M |  
 | oomp_key | oomp_hardware_nut_m4 |  
 | oomp_word | eight turtle clipboard |  
 | oomp_word_emoji | :eight: :turtle: :clipboard: |  

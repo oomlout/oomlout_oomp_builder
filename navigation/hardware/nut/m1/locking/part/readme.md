@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n1mlo
 * oomp_word: hand golf bath
 * oomp_word_emoji :hand: :golf: :bath:
 * md5_6_alpha: yk5i
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M1 Locking |  
+| oomlout_short_code | n1mlo |  
+| oomlout_short_code_upper | N1MLO |  
 | oomp_key | oomp_hardware_nut_m1_locking |  
 | oomp_word | hand golf bath |  
 | oomp_word_emoji | :hand: :golf: :bath: |  

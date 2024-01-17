@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n2mlo
 * oomp_word: lemon ring recycle
 * oomp_word_emoji :lemon: :ring: :recycle:
 * md5_6_alpha: 7v7y6
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M2 Locking |  
+| oomlout_short_code | n2mlo |  
+| oomlout_short_code_upper | N2MLO |  
 | oomp_key | oomp_hardware_nut_m2_locking |  
 | oomp_word | lemon ring recycle |  
 | oomp_word_emoji | :lemon: :ring: :recycle: |  

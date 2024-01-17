@@ -77,6 +77,8 @@ name_no_class: Nut M6 Flanged
 name_no_color: Flanged
 name_no_size: Flanged
 name_no_type: M6 Flanged
+oomlout_short_code: n6mfl
+oomlout_short_code_upper: N6MFL
 oomp_key: oomp_hardware_nut_m6_flanged
 oomp_word: school eight cake
 oomp_word_emoji: ':school: :eight: :cake:'

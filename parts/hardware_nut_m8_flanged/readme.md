@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n8mfl
 * oomp_word: snowman beer snowflake
 * oomp_word_emoji :snowman: :beer: :snowflake:
 * md5_6_alpha: 1s7jg
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M8 Flanged |  
+| oomlout_short_code | n8mfl |  
+| oomlout_short_code_upper | N8MFL |  
 | oomp_key | oomp_hardware_nut_m8_flanged |  
 | oomp_word | snowman beer snowflake |  
 | oomp_word_emoji | :snowman: :beer: :snowflake: |  

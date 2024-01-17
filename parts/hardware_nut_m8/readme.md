@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n8m
 * oomp_word: leopard stars truck
 * oomp_word_emoji :leopard: :stars: :truck:
 * md5_6_alpha: 3qnsf
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M8 |  
 | name_no_size | M8 |  
 | name_no_type | M8 |  
+| oomlout_short_code | n8m |  
+| oomlout_short_code_upper | N8M |  
 | oomp_key | oomp_hardware_nut_m8 |  
 | oomp_word | leopard stars truck |  
 | oomp_word_emoji | :leopard: :stars: :truck: |  

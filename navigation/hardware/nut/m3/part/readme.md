@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n3m
 * oomp_word: rose snowman cyclone
 * oomp_word_emoji :rose: :snowman: :cyclone:
 * md5_6_alpha: 3vb5b
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M3 |  
 | name_no_size | M3 |  
 | name_no_type | M3 |  
+| oomlout_short_code | n3m |  
+| oomlout_short_code_upper | N3M |  
 | oomp_key | oomp_hardware_nut_m3 |  
 | oomp_word | rose snowman cyclone |  
 | oomp_word_emoji | :rose: :snowman: :cyclone: |  

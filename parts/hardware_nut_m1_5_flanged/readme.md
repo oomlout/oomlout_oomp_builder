@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n1d5mfl
 * oomp_word: squirrel herb ok
 * oomp_word_emoji :squirrel: :herb: :ok:
 * md5_6_alpha: 4dw57
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Flanged |  
 | name_no_size | Flanged |  
 | name_no_type | M1 5 Flanged |  
+| oomlout_short_code | n1d5mfl |  
+| oomlout_short_code_upper | N1D5MFL |  
 | oomp_key | oomp_hardware_nut_m1_5_flanged |  
 | oomp_word | squirrel herb ok |  
 | oomp_word_emoji | :squirrel: :herb: :ok: |  

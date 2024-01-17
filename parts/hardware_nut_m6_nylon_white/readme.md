@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n6nw
 * oomp_word: muscle birthday beer
 * oomp_word_emoji :muscle: :birthday: :beer:
 * md5_6_alpha: 12zsm
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
 | name_no_type | M6 Nylon White |  
+| oomlout_short_code | n6nw |  
+| oomlout_short_code_upper | N6NW |  
 | oomp_key | oomp_hardware_nut_m6_nylon_white |  
 | oomp_word | muscle birthday beer |  
 | oomp_word_emoji | :muscle: :birthday: :beer: |  

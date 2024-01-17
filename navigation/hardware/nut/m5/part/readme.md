@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n5m
 * oomp_word: poodle jeans scissors
 * oomp_word_emoji :poodle: :jeans: :scissors:
 * md5_6_alpha: 3rt00
@@ -84,6 +84,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | M5 |  
 | name_no_size | M5 |  
 | name_no_type | M5 |  
+| oomlout_short_code | n5m |  
+| oomlout_short_code_upper | N5M |  
 | oomp_key | oomp_hardware_nut_m5 |  
 | oomp_word | poodle jeans scissors |  
 | oomp_word_emoji | :poodle: :jeans: :scissors: |  

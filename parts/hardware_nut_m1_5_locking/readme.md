@@ -20,7 +20,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * part_number: 
 
 ### other_codes
-* short_code: 
+* short_code: n1d5mlo
 * oomp_word: dolls leaves curry
 * oomp_word_emoji :dolls: :leaves: :curry:
 * md5_6_alpha: 4gp17
@@ -108,6 +108,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_color | Locking |  
 | name_no_size | Locking |  
 | name_no_type | M1 5 Locking |  
+| oomlout_short_code | n1d5mlo |  
+| oomlout_short_code_upper | N1D5MLO |  
 | oomp_key | oomp_hardware_nut_m1_5_locking |  
 | oomp_word | dolls leaves curry |  
 | oomp_word_emoji | :dolls: :leaves: :curry: |  
