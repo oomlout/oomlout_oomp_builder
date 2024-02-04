@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | 6801_size |  
+| color_capital | 6801 Size |  
+| color_first_letter | 6 |  
+| color_first_letter_upper | 6 |  
 | color_length_1 | 6 |  
 | color_length_2 | 68 |  
 | color_length_3 | 680 |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | 6801 |  
 | color_no_space_upper_length_5 | 6801S |  
 | color_no_space_upper_length_6 | 6801SI |  
+| color_upper | 6801_SIZE |  
 | color_upper_length_1 | 6 |  
 | color_upper_length_2 | 68 |  
 | color_upper_length_3 | 680 |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | 6801_ |  
 | color_upper_length_6 | 6801_S |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 12_mm_id_21_mm_od_5_mm_depth |  
+| description_main_capital | 12 mm Id 21 mm Od 5 mm Depth |  
+| description_main_first_letter | 1 |  
+| description_main_first_letter_upper | 1 |  
 | description_main_length_1 | 1 |  
 | description_main_length_2 | 12 |  
 | description_main_length_3 | 12_ |  
@@ -103,13 +118,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 12MM |  
 | description_main_no_space_upper_length_5 | 12MMI |  
 | description_main_no_space_upper_length_6 | 12MMID |  
+| description_main_upper | 12_MM_ID_21_MM_OD_5_MM_DEPTH |  
 | description_main_upper_length_1 | 1 |  
 | description_main_upper_length_2 | 12 |  
 | description_main_upper_length_3 | 12_ |  
 | description_main_upper_length_4 | 12_M |  
 | description_main_upper_length_5 | 12_MM |  
 | description_main_upper_length_6 | 12_MM_ |  
+| description_only_numbers | 12215 |  
+| description_only_numbers_short | 12k |  
+| description_or_color | 612k |  
+| description_or_color_upper | 612K |  
 | directory | parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth |  
 | id | hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth |  
 | id_no_class | bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth |  
@@ -117,7 +140,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 6801_size_12_mm_id_21_mm_od_5_mm_depth |  
 | id_no_type | 6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth/working)<br>[Hardware Bearing 6800 Series 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6801_size_12_mm_id_21_mm_od_5_mm_depth/working)<br><br> |  
 | md5 | dbee59eb93079beedc4f4cac4400c78f |  
 | md5_10 | dbee59eb93 |  
 | md5_10_upper | DBEE59EB93 |  
@@ -131,6 +161,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing 6800 Series 6801 Size 12 mm ID 21 mm OD 5 mm Depth |  
 | name_no_color | 12 mm ID 21 mm OD 5 mm Depth |  
 | name_no_size | 6801 Size 12 mm ID 21 mm OD 5 mm Depth |  
+| name_no_size_short | 6801 Size 12 Mm Id 21 Mm Od 5 Mm Depth |  
 | name_no_type | 6800 Series 6801 Size 12 mm ID 21 mm OD 5 mm Depth |  
 | oomlout_short_code | br6801 |  
 | oomlout_short_code_upper | BR6801 |  
@@ -140,8 +171,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':tent:', ':ambulance:', ':dragon:'] |  
 | oomp_word_list | ['tent', 'ambulance', 'dragon'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | 6800_series |  
+| size_capital | 6800 Series |  
+| size_first_letter | 6 |  
+| size_first_letter_upper | 6 |  
 | size_length_1 | 6 |  
 | size_length_2 | 68 |  
 | size_length_3 | 680 |  
@@ -161,6 +201,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | 6800 |  
 | size_no_space_upper_length_5 | 6800S |  
 | size_no_space_upper_length_6 | 6800SE |  
+| size_only_numbers | 6800 |  
+| size_only_numbers_no_zeros | 68 |  
+| size_upper | 6800_SERIES |  
 | size_upper_length_1 | 6 |  
 | size_upper_length_2 | 68 |  
 | size_upper_length_3 | 680 |  
@@ -168,6 +211,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | 6800_ |  
 | size_upper_length_6 | 6800_S |  
 | type | bearing |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -187,6 +233,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
+| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

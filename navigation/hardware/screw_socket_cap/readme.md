@@ -69,6 +69,8 @@
       * [hex_head](m3/black/50_mm_length/hex_head)
     * [5_mm_length](m3/black/5_mm_length)
       * [hex_head](m3/black/5_mm_length/hex_head)
+    * [60_mm_length](m3/black/60_mm_length)
+      * [hex_head](m3/black/60_mm_length/hex_head)
     * [6_mm_length](m3/black/6_mm_length)
       * [hex_head](m3/black/6_mm_length/hex_head)
     * [8_mm_length](m3/black/8_mm_length)

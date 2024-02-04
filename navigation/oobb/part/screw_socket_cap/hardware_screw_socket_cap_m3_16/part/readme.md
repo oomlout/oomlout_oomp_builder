@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
+| classification_capital | Oobb |  
+| classification_first_letter | o |  
+| classification_first_letter_upper | O |  
 | classification_length_1 | o |  
 | classification_length_2 | oo |  
 | classification_length_3 | oob |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | OOBB |  
 | classification_no_space_upper_length_5 | OOBB |  
 | classification_no_space_upper_length_6 | OOBB |  
+| classification_upper | OOBB |  
 | classification_upper_length_1 | O |  
 | classification_upper_length_2 | OO |  
 | classification_upper_length_3 | OOB |  
@@ -56,10 +60,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | OOBB |  
 | classification_upper_length_6 | OOBB |  
 | color |  |  
+| color_capital |  |  
+| color_first_letter |  |  
+| color_first_letter_upper |  |  
 | color_name |  |  
+| color_upper |  |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | hardware_screw_socket_cap_m3_16 |  
+| description_main_capital | Hardware Screw Socket Cap M3.16 |  
+| description_main_first_letter | h |  
+| description_main_first_letter_upper | H |  
 | description_main_length_1 | h |  
 | description_main_length_2 | ha |  
 | description_main_length_3 | har |  
@@ -79,13 +94,19 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | HARD |  
 | description_main_no_space_upper_length_5 | HARDW |  
 | description_main_no_space_upper_length_6 | HARDWA |  
+| description_main_upper | HARDWARE_SCREW_SOCKET_CAP_M3_16 |  
 | description_main_upper_length_1 | H |  
 | description_main_upper_length_2 | HA |  
 | description_main_upper_length_3 | HAR |  
 | description_main_upper_length_4 | HARD |  
 | description_main_upper_length_5 | HARDW |  
 | description_main_upper_length_6 | HARDWA |  
+| description_only_numbers | 316 |  
+| description_only_numbers_short | 316 |  
+| description_or_color | 316 |  
+| description_or_color_upper | 316 |  
 | directory | parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
+| distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
 | id | oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
 | id_no_class | part_screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
@@ -93,7 +114,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | hardware_m3_16 |  
 | id_no_type | screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16/working)<br>[Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16/working)<br><br> |  
+| markdown_short | [oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16/working)<br><br> |  
 | md5 | dff12188249e08c218fbac3f6d08a322 |  
 | md5_10 | dff1218824 |  
 | md5_10_upper | DFF1218824 |  
@@ -107,6 +135,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Part Screw Socket Cap Hardware Screw Socket Cap M3 16 |  
 | name_no_color | Hardwarem316 |  
 | name_no_size | Hardware M3 16 |  
+| name_no_size_short | Hardware M3 16 |  
 | name_no_type | Screw Socket Cap Hardware Screw Socket Cap M3 16 |  
 | oomp_key | oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_16 |  
 | oomp_word | fountain ticket feet |  
@@ -114,8 +143,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':fountain:', ':ticket:', ':feet:'] |  
 | oomp_word_list | ['fountain', 'ticket', 'feet'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
+| short_name |  |  
 | size | screw_socket_cap |  
+| size_capital | Screw Socket Cap |  
+| size_first_letter | s |  
+| size_first_letter_upper | S |  
 | size_length_1 | s |  
 | size_length_2 | sc |  
 | size_length_3 | scr |  
@@ -135,6 +174,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | SCRE |  
 | size_no_space_upper_length_5 | SCREW |  
 | size_no_space_upper_length_6 | SCREWS |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | SCREW_SOCKET_CAP |  
 | size_upper_length_1 | S |  
 | size_upper_length_2 | SC |  
 | size_upper_length_3 | SCR |  
@@ -142,6 +184,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | SCREW |  
 | size_upper_length_6 | SCREW_ |  
 | type | part |  
+| type_capital | Part |  
+| type_first_letter | p |  
+| type_first_letter_upper | P |  
 | type_length_1 | p |  
 | type_length_2 | pa |  
 | type_length_3 | par |  
@@ -161,6 +206,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | PART |  
 | type_no_space_upper_length_5 | PART |  
 | type_no_space_upper_length_6 | PART |  
+| type_upper | PART |  
 | type_upper_length_1 | P |  
 | type_upper_length_2 | PA |  
 | type_upper_length_3 | PAR |  

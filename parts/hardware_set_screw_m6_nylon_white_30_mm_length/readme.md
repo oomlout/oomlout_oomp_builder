@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | nylon_white |  
+| color_capital | Nylon White |  
+| color_first_letter | n |  
+| color_first_letter_upper | N |  
 | color_length_1 | n |  
 | color_length_2 | ny |  
 | color_length_3 | nyl |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | NYLO |  
 | color_no_space_upper_length_5 | NYLON |  
 | color_no_space_upper_length_6 | NYLONW |  
+| color_upper | NYLON_WHITE |  
 | color_upper_length_1 | N |  
 | color_upper_length_2 | NY |  
 | color_upper_length_3 | NYL |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | NYLON |  
 | color_upper_length_6 | NYLON_ |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 30_mm_length |  
+| description_main_capital | 30 mm Length |  
+| description_main_first_letter | 3 |  
+| description_main_first_letter_upper | 3 |  
 | description_main_length_1 | 3 |  
 | description_main_length_2 | 30 |  
 | description_main_length_3 | 30_ |  
@@ -103,21 +118,37 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 30MM |  
 | description_main_no_space_upper_length_5 | 30MML |  
 | description_main_no_space_upper_length_6 | 30MMLE |  
+| description_main_upper | 30_MM_LENGTH |  
 | description_main_upper_length_1 | 3 |  
 | description_main_upper_length_2 | 30 |  
 | description_main_upper_length_3 | 30_ |  
 | description_main_upper_length_4 | 30_M |  
 | description_main_upper_length_5 | 30_MM |  
 | description_main_upper_length_6 | 30_MM_ |  
+| description_only_numbers | 30 |  
+| description_only_numbers_short | 30 |  
+| description_or_color | N30 |  
+| description_or_color_upper | N30 |  
 | directory | parts/hardware_set_screw_m6_nylon_white_30_mm_length |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length |  
 | id | hardware_set_screw_m6_nylon_white_30_mm_length |  
 | id_no_class | set_screw_m6_nylon_white_30_mm_length |  
 | id_no_color | 30_mm_length |  
 | id_no_size | nylon_white_30_mm_length |  
 | id_no_type | m6_nylon_white_30_mm_length |  
+| kicad_reference |  |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_set_screw_m6_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length/working)<br>[ssm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length/working)<br>[Hardware Set Screw M6 Nylon White 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length/working)<br><br> |  
+| markdown_short | [hardware_set_screw_m6_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length/working)<br><br> |  
 | md5 | 3105eb44f0edd0c55bb664f67dbf2335 |  
 | md5_10 | 3105eb44f0 |  
 | md5_10_upper | 3105EB44F0 |  
@@ -131,6 +162,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Set Screw M6 Nylon White 30 mm Length |  
 | name_no_color | 30 mm Length |  
 | name_no_size | Nylon White 30 mm Length |  
+| name_no_size_short | Nylon White 30 Mm Length |  
 | name_no_type | M6 Nylon White 30 mm Length |  
 | oomlout_bolt_color |  |  
 | oomlout_bolt_head_type | Bolt |  
@@ -157,8 +189,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':ocean:', ':kissing:', ':car:'] |  
 | oomp_word_list | ['ocean', 'kissing', 'car'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code | ssm6 |  
+| short_code_upper | SSM6 |  
 | size | m6 |  
+| size_capital | M6 |  
+| size_first_letter | m |  
+| size_first_letter_upper | M |  
 | size_length_1 | m |  
 | size_length_2 | m6 |  
 | size_length_3 | m6 |  
@@ -178,6 +219,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | M6 |  
 | size_no_space_upper_length_5 | M6 |  
 | size_no_space_upper_length_6 | M6 |  
+| size_only_numbers | 6 |  
+| size_only_numbers_no_zeros | 6 |  
+| size_upper | M6 |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | M6 |  
 | size_upper_length_3 | M6 |  
@@ -185,6 +229,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | M6 |  
 | size_upper_length_6 | M6 |  
 | type | set_screw |  
+| type_capital | Set Screw |  
+| type_first_letter | s |  
+| type_first_letter_upper | S |  
 | type_length_1 | s |  
 | type_length_2 | se |  
 | type_length_3 | set |  
@@ -204,6 +251,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | SETS |  
 | type_no_space_upper_length_5 | SETSC |  
 | type_no_space_upper_length_6 | SETSCR |  
+| type_upper | SET_SCREW |  
 | type_upper_length_1 | S |  
 | type_upper_length_2 | SE |  
 | type_upper_length_3 | SET |  

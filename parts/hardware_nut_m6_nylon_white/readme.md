@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | nylon_white |  
+| color_capital | Nylon White |  
+| color_first_letter | n |  
+| color_first_letter_upper | N |  
 | color_length_1 | n |  
 | color_length_2 | ny |  
 | color_length_3 | nyl |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | NYLO |  
 | color_no_space_upper_length_5 | NYLON |  
 | color_no_space_upper_length_6 | NYLONW |  
+| color_upper | NYLON_WHITE |  
 | color_upper_length_1 | N |  
 | color_upper_length_2 | NY |  
 | color_upper_length_3 | NYL |  
@@ -82,18 +90,41 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | NYLON |  
 | color_upper_length_6 | NYLON_ |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
 | description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | N  |  
+| description_or_color_upper | N  |  
 | directory | parts/hardware_nut_m6_nylon_white |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white |  
 | id | hardware_nut_m6_nylon_white |  
 | id_no_class | nut_m6_nylon_white |  
 | id_no_color | nylon_white |  
 | id_no_size | nylon_white |  
 | id_no_type | m6_nylon_white |  
+| kicad_reference |  |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[Hardware Nut M6 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br> |  
+| markdown_short | [hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br> |  
 | md5 | 1bc2b6eff9b9225af1a04d7e31c1428f |  
 | md5_10 | 1bc2b6eff9 |  
 | md5_10_upper | 1BC2B6EFF9 |  
@@ -107,6 +138,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Nut M6 Nylon White |  
 | name_no_color | Nylon White |  
 | name_no_size | Nylon White |  
+| name_no_size_short | Nylon White |  
 | name_no_type | M6 Nylon White |  
 | oomlout_short_code | n6nw |  
 | oomlout_short_code_upper | N6NW |  
@@ -116,8 +148,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':muscle:', ':birthday:', ':beer:'] |  
 | oomp_word_list | ['muscle', 'birthday', 'beer'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code | num6 |  
+| short_code_upper | NUM6 |  
 | size | m6 |  
+| size_capital | M6 |  
+| size_first_letter | m |  
+| size_first_letter_upper | M |  
 | size_length_1 | m |  
 | size_length_2 | m6 |  
 | size_length_3 | m6 |  
@@ -137,6 +178,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | M6 |  
 | size_no_space_upper_length_5 | M6 |  
 | size_no_space_upper_length_6 | M6 |  
+| size_only_numbers | 6 |  
+| size_only_numbers_no_zeros | 6 |  
+| size_upper | M6 |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | M6 |  
 | size_upper_length_3 | M6 |  
@@ -144,6 +188,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | M6 |  
 | size_upper_length_6 | M6 |  
 | type | nut |  
+| type_capital | Nut |  
+| type_first_letter | n |  
+| type_first_letter_upper | N |  
 | type_length_1 | n |  
 | type_length_2 | nu |  
 | type_length_3 | nut |  
@@ -163,6 +210,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | NUT |  
 | type_no_space_upper_length_5 | NUT |  
 | type_no_space_upper_length_6 | NUT |  
+| type_upper | NUT |  
 | type_upper_length_1 | N |  
 | type_upper_length_2 | NU |  
 | type_upper_length_3 | NUT |  

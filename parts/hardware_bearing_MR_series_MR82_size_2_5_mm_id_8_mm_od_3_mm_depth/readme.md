@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | MR82_size |  
+| color_capital | Mr82 Size |  
+| color_first_letter | M |  
+| color_first_letter_upper | M |  
 | color_length_1 | M |  
 | color_length_2 | MR |  
 | color_length_3 | MR8 |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | MR82 |  
 | color_no_space_upper_length_5 | MR82S |  
 | color_no_space_upper_length_6 | MR82SI |  
+| color_upper | MR82_SIZE |  
 | color_upper_length_1 | M |  
 | color_upper_length_2 | MR |  
 | color_upper_length_3 | MR8 |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | MR82_ |  
 | color_upper_length_6 | MR82_S |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 2_5_mm_id_8_mm_od_3_mm_depth |  
+| description_main_capital | 2.5 mm Id 8 mm Od 3 mm Depth |  
+| description_main_first_letter | 2 |  
+| description_main_first_letter_upper | 2 |  
 | description_main_length_1 | 2 |  
 | description_main_length_2 | 2_ |  
 | description_main_length_3 | 2_5 |  
@@ -103,13 +118,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 25MM |  
 | description_main_no_space_upper_length_5 | 25MMI |  
 | description_main_no_space_upper_length_6 | 25MMID |  
+| description_main_upper | 2_5_MM_ID_8_MM_OD_3_MM_DEPTH |  
 | description_main_upper_length_1 | 2 |  
 | description_main_upper_length_2 | 2_ |  
 | description_main_upper_length_3 | 2_5 |  
 | description_main_upper_length_4 | 2_5_ |  
 | description_main_upper_length_5 | 2_5_M |  
 | description_main_upper_length_6 | 2_5_MM |  
+| description_only_numbers | 2583 |  
+| description_only_numbers_short | 2k5 |  
+| description_or_color | M2k5 |  
+| description_or_color_upper | M2K5 |  
 | directory | parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
 | id | hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
 | id_no_class | bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
@@ -117,7 +140,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
 | id_no_type | MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth/working)<br>[Hardware Bearing Mr Series Mr82 Size 2 5 Mm Id 8 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth/working)<br><br> |  
 | md5 | db3efb7673ca88248d2272b11eae2b2c |  
 | md5_10 | db3efb7673 |  
 | md5_10_upper | DB3EFB7673 |  
@@ -131,6 +161,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth |  
 | name_no_color | 2 5 mm ID 8 mm OD 3 mm Depth |  
 | name_no_size | Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth |  
+| name_no_size_short | Mr82 Size 2 5 Mm Id 8 Mm Od 3 Mm Depth |  
 | name_no_type | Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth |  
 | oomlout_short_code | brMR82 |  
 | oomlout_short_code_upper | BRMR82 |  
@@ -140,8 +171,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':tent:', ':monkey:', ':ok:'] |  
 | oomp_word_list | ['tent', 'monkey', 'ok'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | MR_series |  
+| size_capital | Mr Series |  
+| size_first_letter | M |  
+| size_first_letter_upper | M |  
 | size_length_1 | M |  
 | size_length_2 | MR |  
 | size_length_3 | MR_ |  
@@ -161,6 +201,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | MRSE |  
 | size_no_space_upper_length_5 | MRSER |  
 | size_no_space_upper_length_6 | MRSERI |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | MR_SERIES |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | MR |  
 | size_upper_length_3 | MR_ |  
@@ -168,6 +211,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | MR_SE |  
 | size_upper_length_6 | MR_SER |  
 | type | bearing |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -187,6 +233,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
+| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

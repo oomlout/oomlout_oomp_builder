@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | 61819_size |  
+| color_capital | 61819 Size |  
+| color_first_letter | 6 |  
+| color_first_letter_upper | 6 |  
 | color_length_1 | 6 |  
 | color_length_2 | 61 |  
 | color_length_3 | 618 |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | 6181 |  
 | color_no_space_upper_length_5 | 61819 |  
 | color_no_space_upper_length_6 | 61819S |  
+| color_upper | 61819_SIZE |  
 | color_upper_length_1 | 6 |  
 | color_upper_length_2 | 61 |  
 | color_upper_length_3 | 618 |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | 61819 |  
 | color_upper_length_6 | 61819_ |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 95_mm_id_120_mm_od_13_mm_depth |  
+| description_main_capital | 95 mm Id 120 mm Od 13 mm Depth |  
+| description_main_first_letter | 9 |  
+| description_main_first_letter_upper | 9 |  
 | description_main_length_1 | 9 |  
 | description_main_length_2 | 95 |  
 | description_main_length_3 | 95_ |  
@@ -103,13 +118,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 95MM |  
 | description_main_no_space_upper_length_5 | 95MMI |  
 | description_main_no_space_upper_length_6 | 95MMID |  
+| description_main_upper | 95_MM_ID_120_MM_OD_13_MM_DEPTH |  
 | description_main_upper_length_1 | 9 |  
 | description_main_upper_length_2 | 95 |  
 | description_main_upper_length_3 | 95_ |  
 | description_main_upper_length_4 | 95_M |  
 | description_main_upper_length_5 | 95_MM |  
 | description_main_upper_length_6 | 95_MM_ |  
+| description_only_numbers | 9512013 |  
+| description_only_numbers_short | 9M5 |  
+| description_or_color | 69M5 |  
+| description_or_color_upper | 69M5 |  
 | directory | parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth |  
 | id | hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth |  
 | id_no_class | bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth |  
@@ -117,7 +140,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 61819_size_95_mm_id_120_mm_od_13_mm_depth |  
 | id_no_type | 61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth/working)<br>[Hardware Bearing 61800 Series 61819 Size 95 Mm Id 120 Mm Od 13 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth/working)<br><br> |  
 | md5 | f13549a86ef67bad2fe640b176db7959 |  
 | md5_10 | f13549a86e |  
 | md5_10_upper | F13549A86E |  
@@ -131,6 +161,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing 61800 Series 61819 Size 95 mm ID 120 mm OD 13 mm Depth |  
 | name_no_color | 95 mm ID 120 mm OD 13 mm Depth |  
 | name_no_size | 61819 Size 95 mm ID 120 mm OD 13 mm Depth |  
+| name_no_size_short | 61819 Size 95 Mm Id 120 Mm Od 13 Mm Depth |  
 | name_no_type | 61800 Series 61819 Size 95 mm ID 120 mm OD 13 mm Depth |  
 | oomlout_short_code | br61819 |  
 | oomlout_short_code_upper | BR61819 |  
@@ -140,8 +171,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':ticket:', ':hamster:', ':hatching_chick:'] |  
 | oomp_word_list | ['ticket', 'hamster', 'hatching_chick'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | 61800_series |  
+| size_capital | 61800 Series |  
+| size_first_letter | 6 |  
+| size_first_letter_upper | 6 |  
 | size_length_1 | 6 |  
 | size_length_2 | 61 |  
 | size_length_3 | 618 |  
@@ -161,6 +201,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | 6180 |  
 | size_no_space_upper_length_5 | 61800 |  
 | size_no_space_upper_length_6 | 61800S |  
+| size_only_numbers | 61800 |  
+| size_only_numbers_no_zeros | 618 |  
+| size_upper | 61800_SERIES |  
 | size_upper_length_1 | 6 |  
 | size_upper_length_2 | 61 |  
 | size_upper_length_3 | 618 |  
@@ -168,6 +211,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | 61800 |  
 | size_upper_length_6 | 61800_ |  
 | type | bearing |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -187,6 +233,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
+| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

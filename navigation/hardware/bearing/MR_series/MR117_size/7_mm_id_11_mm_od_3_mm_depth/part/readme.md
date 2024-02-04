@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | MR117_size |  
+| color_capital | Mr117 Size |  
+| color_first_letter | M |  
+| color_first_letter_upper | M |  
 | color_length_1 | M |  
 | color_length_2 | MR |  
 | color_length_3 | MR1 |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | MR11 |  
 | color_no_space_upper_length_5 | MR117 |  
 | color_no_space_upper_length_6 | MR117S |  
+| color_upper | MR117_SIZE |  
 | color_upper_length_1 | M |  
 | color_upper_length_2 | MR |  
 | color_upper_length_3 | MR1 |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | MR117 |  
 | color_upper_length_6 | MR117_ |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 7_mm_id_11_mm_od_3_mm_depth |  
+| description_main_capital | 7 mm Id 11 mm Od 3 mm Depth |  
+| description_main_first_letter | 7 |  
+| description_main_first_letter_upper | 7 |  
 | description_main_length_1 | 7 |  
 | description_main_length_2 | 7_ |  
 | description_main_length_3 | 7_m |  
@@ -103,13 +118,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 7MMI |  
 | description_main_no_space_upper_length_5 | 7MMID |  
 | description_main_no_space_upper_length_6 | 7MMID1 |  
+| description_main_upper | 7_MM_ID_11_MM_OD_3_MM_DEPTH |  
 | description_main_upper_length_1 | 7 |  
 | description_main_upper_length_2 | 7_ |  
 | description_main_upper_length_3 | 7_M |  
 | description_main_upper_length_4 | 7_MM |  
 | description_main_upper_length_5 | 7_MM_ |  
 | description_main_upper_length_6 | 7_MM_I |  
+| description_only_numbers | 7113 |  
+| description_only_numbers_short | 7k1 |  
+| description_or_color | M7k1 |  
+| description_or_color_upper | M7K1 |  
 | directory | parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
 | id | hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
 | id_no_class | bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
@@ -117,7 +140,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
 | id_no_type | MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth/working)<br>[Hardware Bearing Mr Series Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth/working)<br><br> |  
 | md5 | 82f0397bf9617ea05144fa04181b77b9 |  
 | md5_10 | 82f0397bf9 |  
 | md5_10_upper | 82F0397BF9 |  
@@ -131,6 +161,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing Mr Series Mr117 Size 7 mm ID 11 mm OD 3 mm Depth |  
 | name_no_color | 7 mm ID 11 mm OD 3 mm Depth |  
 | name_no_size | Mr117 Size 7 mm ID 11 mm OD 3 mm Depth |  
+| name_no_size_short | Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth |  
 | name_no_type | Mr Series Mr117 Size 7 mm ID 11 mm OD 3 mm Depth |  
 | oomlout_short_code | brMR117 |  
 | oomlout_short_code_upper | BRMR117 |  
@@ -140,8 +171,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':radio:', ':train:', ':tiger:'] |  
 | oomp_word_list | ['radio', 'train', 'tiger'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | MR_series |  
+| size_capital | Mr Series |  
+| size_first_letter | M |  
+| size_first_letter_upper | M |  
 | size_length_1 | M |  
 | size_length_2 | MR |  
 | size_length_3 | MR_ |  
@@ -161,6 +201,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | MRSE |  
 | size_no_space_upper_length_5 | MRSER |  
 | size_no_space_upper_length_6 | MRSERI |  
+| size_only_numbers |  |  
+| size_only_numbers_no_zeros |  |  
+| size_upper | MR_SERIES |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | MR |  
 | size_upper_length_3 | MR_ |  
@@ -168,6 +211,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | MR_SE |  
 | size_upper_length_6 | MR_SER |  
 | type | bearing |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -187,6 +233,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
+| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

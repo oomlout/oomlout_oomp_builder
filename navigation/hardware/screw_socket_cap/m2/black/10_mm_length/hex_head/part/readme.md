@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | black |  
+| color_capital | Black |  
+| color_first_letter | b |  
+| color_first_letter_upper | B |  
 | color_length_1 | b |  
 | color_length_2 | bl |  
 | color_length_3 | bla |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | BLAC |  
 | color_no_space_upper_length_5 | BLACK |  
 | color_no_space_upper_length_6 | BLACK |  
+| color_upper | BLACK |  
 | color_upper_length_1 | B |  
 | color_upper_length_2 | BL |  
 | color_upper_length_3 | BLA |  
@@ -82,6 +90,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
 | description_extra | hex_head |  
+| description_extra_capital | Hex Head |  
+| description_extra_first_letter | h |  
+| description_extra_first_letter_upper | H |  
 | description_extra_length_1 | h |  
 | description_extra_length_2 | he |  
 | description_extra_length_3 | hex |  
@@ -101,6 +112,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_extra_no_space_upper_length_4 | HEXH |  
 | description_extra_no_space_upper_length_5 | HEXHE |  
 | description_extra_no_space_upper_length_6 | HEXHEA |  
+| description_extra_upper | HEX_HEAD |  
 | description_extra_upper_length_1 | H |  
 | description_extra_upper_length_2 | HE |  
 | description_extra_upper_length_3 | HEX |  
@@ -108,6 +120,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_extra_upper_length_5 | HEX_H |  
 | description_extra_upper_length_6 | HEX_HE |  
 | description_main | 10_mm_length |  
+| description_main_capital | 10 mm Length |  
+| description_main_first_letter | 1 |  
+| description_main_first_letter_upper | 1 |  
 | description_main_length_1 | 1 |  
 | description_main_length_2 | 10 |  
 | description_main_length_3 | 10_ |  
@@ -127,21 +142,37 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 10MM |  
 | description_main_no_space_upper_length_5 | 10MML |  
 | description_main_no_space_upper_length_6 | 10MMLE |  
+| description_main_upper | 10_MM_LENGTH |  
 | description_main_upper_length_1 | 1 |  
 | description_main_upper_length_2 | 10 |  
 | description_main_upper_length_3 | 10_ |  
 | description_main_upper_length_4 | 10_M |  
 | description_main_upper_length_5 | 10_MM |  
 | description_main_upper_length_6 | 10_MM_ |  
+| description_only_numbers | 10 |  
+| description_only_numbers_short | 10 |  
+| description_or_color | B10 |  
+| description_or_color_upper | B10 |  
 | directory | parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head |  
 | id | hardware_screw_socket_cap_m2_black_10_mm_length_hex_head |  
 | id_no_class | screw_socket_cap_m2_black_10_mm_length_hex_head |  
 | id_no_color | 10_mm_length_hex_head |  
 | id_no_size | black_10_mm_length_hex_head |  
 | id_no_type | m2_black_10_mm_length_hex_head |  
+| kicad_reference |  |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_screw_socket_cap_m2_black_10_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head/working)<br>[sscm2b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M2 Black 10 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head/working)<br><br> |  
+| markdown_short | [hardware_screw_socket_cap_m2_black_10_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_10_mm_length_hex_head/working)<br><br> |  
 | md5 | 7b067ff84b1b82811604c2d0fb29ef4c |  
 | md5_10 | 7b067ff84b |  
 | md5_10_upper | 7B067FF84B |  
@@ -155,6 +186,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Screw Socket Cap M2 Black 10 mm Length Hex Head |  
 | name_no_color | 10 mm Length Hex Head |  
 | name_no_size | Black 10 mm Length Hex Head |  
+| name_no_size_short | Black 10 Mm Length Hex Head |  
 | name_no_type | M2 Black 10 mm Length Hex Head |  
 | oomlout_bolt_color | Black |  
 | oomlout_bolt_head_type | Hex Head |  
@@ -181,8 +213,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':computer:', ':sleeping:', ':speaker:'] |  
 | oomp_word_list | ['computer', 'sleeping', 'speaker'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code | sscm2b |  
+| short_code_upper | SSCM2B |  
 | size | m2 |  
+| size_capital | M2 |  
+| size_first_letter | m |  
+| size_first_letter_upper | M |  
 | size_length_1 | m |  
 | size_length_2 | m2 |  
 | size_length_3 | m2 |  
@@ -202,6 +243,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | M2 |  
 | size_no_space_upper_length_5 | M2 |  
 | size_no_space_upper_length_6 | M2 |  
+| size_only_numbers | 2 |  
+| size_only_numbers_no_zeros | 2 |  
+| size_upper | M2 |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | M2 |  
 | size_upper_length_3 | M2 |  
@@ -209,6 +253,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | M2 |  
 | size_upper_length_6 | M2 |  
 | type | screw_socket_cap |  
+| type_capital | Screw Socket Cap |  
+| type_first_letter | s |  
+| type_first_letter_upper | S |  
 | type_length_1 | s |  
 | type_length_2 | sc |  
 | type_length_3 | scr |  
@@ -228,6 +275,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | SCRE |  
 | type_no_space_upper_length_5 | SCREW |  
 | type_no_space_upper_length_6 | SCREWS |  
+| type_upper | SCREW_SOCKET_CAP |  
 | type_upper_length_1 | S |  
 | type_upper_length_2 | SC |  
 | type_upper_length_3 | SCR |  

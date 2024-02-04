@@ -30,6 +30,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
+| classification_capital | Hardware |  
+| classification_first_letter | h |  
+| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -49,6 +52,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -56,6 +60,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | 5311_size |  
+| color_capital | 5311 Size |  
+| color_first_letter | 5 |  
+| color_first_letter_upper | 5 |  
 | color_length_1 | 5 |  
 | color_length_2 | 53 |  
 | color_length_3 | 531 |  
@@ -75,6 +82,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | 5311 |  
 | color_no_space_upper_length_5 | 5311S |  
 | color_no_space_upper_length_6 | 5311SI |  
+| color_upper | 5311_SIZE |  
 | color_upper_length_1 | 5 |  
 | color_upper_length_2 | 53 |  
 | color_upper_length_3 | 531 |  
@@ -82,8 +90,15 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | 5311_ |  
 | color_upper_length_6 | 5311_S |  
 | description_extra |  |  
+| description_extra_capital |  |  
+| description_extra_first_letter |  |  
+| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
+| description_extra_upper |  |  
 | description_main | 55_mm_id_120_mm_od_49_21_mm_depth |  
+| description_main_capital | 55 mm Id 120 mm Od 49.21 mm Depth |  
+| description_main_first_letter | 5 |  
+| description_main_first_letter_upper | 5 |  
 | description_main_length_1 | 5 |  
 | description_main_length_2 | 55 |  
 | description_main_length_3 | 55_ |  
@@ -103,13 +118,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 55MM |  
 | description_main_no_space_upper_length_5 | 55MMI |  
 | description_main_no_space_upper_length_6 | 55MMID |  
+| description_main_upper | 55_MM_ID_120_MM_OD_49_21_MM_DEPTH |  
 | description_main_upper_length_1 | 5 |  
 | description_main_upper_length_2 | 55 |  
 | description_main_upper_length_3 | 55_ |  
 | description_main_upper_length_4 | 55_M |  
 | description_main_upper_length_5 | 55_MM |  
 | description_main_upper_length_6 | 55_MM_ |  
+| description_only_numbers | 551204921 |  
+| description_only_numbers_short | 5M5 |  
+| description_or_color | 55M5 |  
+| description_or_color_upper | 55M5 |  
 | directory | parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
+| distributors | [] |  
+| filter | hardware |  
+| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
 | id | hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
 | id_no_class | bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
@@ -117,7 +140,14 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
 | id_no_type | 5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth |  
 | manufacturer |  |  
+| manufacturer_capital |  |  
+| manufacturer_first_letter |  |  
+| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
+| manufacturer_upper |  |  
+| manufacturers | [] |  
+| markdown_full | [hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth/working)<br>[Hardware Bearing 5300 Series 5311 Size 55 Mm Id 120 Mm Od 49 21 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth/working)<br><br> |  
+| markdown_short | [hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth/working)<br><br> |  
 | md5 | 5715337fc3c466adc5ee69bc490694c9 |  
 | md5_10 | 5715337fc3 |  
 | md5_10_upper | 5715337FC3 |  
@@ -131,6 +161,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth |  
 | name_no_color | 55 mm ID 120 mm OD 49 21 mm Depth |  
 | name_no_size | 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth |  
+| name_no_size_short | 5311 Size 55 Mm Id 120 Mm Od 49 21 Mm Depth |  
 | name_no_type | 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth |  
 | oomlout_short_code | br5311 |  
 | oomlout_short_code_upper | BR5311 |  
@@ -140,8 +171,17 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':rat:', ':poop:', ':dog:'] |  
 | oomp_word_list | ['rat', 'poop', 'dog'] |  
 | part_number |  |  
+| part_number_capital |  |  
+| part_number_first_letter |  |  
+| part_number_first_letter_upper |  |  
 | part_number_name |  |  
+| part_number_upper |  |  
+| short_code |  |  
+| short_code_upper |  |  
 | size | 5300_series |  
+| size_capital | 5300 Series |  
+| size_first_letter | 5 |  
+| size_first_letter_upper | 5 |  
 | size_length_1 | 5 |  
 | size_length_2 | 53 |  
 | size_length_3 | 530 |  
@@ -161,6 +201,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | 5300 |  
 | size_no_space_upper_length_5 | 5300S |  
 | size_no_space_upper_length_6 | 5300SE |  
+| size_only_numbers | 5300 |  
+| size_only_numbers_no_zeros | 53 |  
+| size_upper | 5300_SERIES |  
 | size_upper_length_1 | 5 |  
 | size_upper_length_2 | 53 |  
 | size_upper_length_3 | 530 |  
@@ -168,6 +211,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | 5300_ |  
 | size_upper_length_6 | 5300_S |  
 | type | bearing |  
+| type_capital | Bearing |  
+| type_first_letter | b |  
+| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -187,6 +233,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
+| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

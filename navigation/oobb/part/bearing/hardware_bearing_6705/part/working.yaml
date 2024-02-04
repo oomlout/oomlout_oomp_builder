@@ -1,4 +1,7 @@
 classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
 classification_length_1: o
 classification_length_2: oo
 classification_length_3: oob
@@ -18,6 +21,7 @@ classification_no_space_upper_length_3: OOB
 classification_no_space_upper_length_4: OOBB
 classification_no_space_upper_length_5: OOBB
 classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
 classification_upper_length_1: O
 classification_upper_length_2: OO
 classification_upper_length_3: OOB
@@ -25,10 +29,21 @@ classification_upper_length_4: OOBB
 classification_upper_length_5: OOBB
 classification_upper_length_6: OOBB
 color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
 color_name: ''
+color_upper: ''
 description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
 description_extra_name: ''
+description_extra_upper: ''
 description_main: hardware_bearing_6705
+description_main_capital: Hardware Bearing 6705
+description_main_first_letter: h
+description_main_first_letter_upper: H
 description_main_length_1: h
 description_main_length_2: ha
 description_main_length_3: har
@@ -48,13 +63,19 @@ description_main_no_space_upper_length_3: HAR
 description_main_no_space_upper_length_4: HARD
 description_main_no_space_upper_length_5: HARDW
 description_main_no_space_upper_length_6: HARDWA
+description_main_upper: HARDWARE_BEARING_6705
 description_main_upper_length_1: H
 description_main_upper_length_2: HA
 description_main_upper_length_3: HAR
 description_main_upper_length_4: HARD
 description_main_upper_length_5: HARDW
 description_main_upper_length_6: HARDWA
+description_only_numbers: '6705'
+description_only_numbers_short: 6k7
+description_or_color: 6k7
+description_or_color_upper: 6K7
 directory: parts/oobb_part_bearing_hardware_bearing_6705
+distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705
 id: oobb_part_bearing_hardware_bearing_6705
 id_no_class: part_bearing_hardware_bearing_6705
@@ -62,7 +83,15 @@ id_no_color: hardware6705
 id_no_size: hardware_6705
 id_no_type: bearing_hardware_bearing_6705
 manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
 manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[Oobb
+  Part Bearing Hardware Bearing 6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>'
+markdown_short: '[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>'
 md5: 8fda89e8496eacbb216ff7b59f97a332
 md5_10: 8fda89e849
 md5_10_upper: 8FDA89E849
@@ -76,6 +105,7 @@ name: Oobb Part Bearing Hardware Bearing 6705
 name_no_class: Part Bearing Hardware Bearing 6705
 name_no_color: Hardware6705
 name_no_size: Hardware 6705
+name_no_size_short: Hardware 6k7
 name_no_type: Bearing Hardware Bearing 6705
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6705
 oomp_word: calendar hotel hammer
@@ -89,8 +119,18 @@ oomp_word_list:
 - hotel
 - hammer
 part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
 part_number_name: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
 size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
 size_length_1: b
 size_length_2: be
 size_length_3: bea
@@ -110,6 +150,9 @@ size_no_space_upper_length_3: BEA
 size_no_space_upper_length_4: BEAR
 size_no_space_upper_length_5: BEARI
 size_no_space_upper_length_6: BEARIN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
 size_upper_length_1: B
 size_upper_length_2: BE
 size_upper_length_3: BEA
@@ -117,6 +160,9 @@ size_upper_length_4: BEAR
 size_upper_length_5: BEARI
 size_upper_length_6: BEARIN
 type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
 type_length_1: p
 type_length_2: pa
 type_length_3: par
@@ -136,6 +182,7 @@ type_no_space_upper_length_3: PAR
 type_no_space_upper_length_4: PART
 type_no_space_upper_length_5: PART
 type_no_space_upper_length_6: PART
+type_upper: PART
 type_upper_length_1: P
 type_upper_length_2: PA
 type_upper_length_3: PAR
