@@ -1,0 +1,9 @@
+classification: electronic
+color: mcu
+description_extra: arduino_compatible
+description_main: atmega328p
+id: electronic_breakout_board_shennie_mcu_atmega328p_arduino_compatible
+manufacturer: ''
+part_number: ''
+size: shennie
+type: breakout_board

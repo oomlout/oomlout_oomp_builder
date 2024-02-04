@@ -1,0 +1,169 @@
+# Oobb Part Wheel 1D75 7D5 606  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: oobb_part_wheel_1d75_7d5_606
+  * classification: oobb
+  * type: part
+  * size: wheel
+  * color: 
+  * description_main: 1d75_7d5_606
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: wink ear smile
+* oomp_word_emoji :wink: :ear: :smile:
+* md5_6_alpha: 5tkx
+* md5_6: 042501
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | oobb |  
+| classification_length_1 | o |  
+| classification_length_2 | oo |  
+| classification_length_3 | oob |  
+| classification_length_4 | oobb |  
+| classification_length_5 | oobb |  
+| classification_length_6 | oobb |  
+| classification_name | Oobb |  
+| classification_no_space_length_1 | o |  
+| classification_no_space_length_2 | oo |  
+| classification_no_space_length_3 | oob |  
+| classification_no_space_length_4 | oobb |  
+| classification_no_space_length_5 | oobb |  
+| classification_no_space_length_6 | oobb |  
+| classification_no_space_upper_length_1 | O |  
+| classification_no_space_upper_length_2 | OO |  
+| classification_no_space_upper_length_3 | OOB |  
+| classification_no_space_upper_length_4 | OOBB |  
+| classification_no_space_upper_length_5 | OOBB |  
+| classification_no_space_upper_length_6 | OOBB |  
+| classification_upper_length_1 | O |  
+| classification_upper_length_2 | OO |  
+| classification_upper_length_3 | OOB |  
+| classification_upper_length_4 | OOBB |  
+| classification_upper_length_5 | OOBB |  
+| classification_upper_length_6 | OOBB |  
+| color |  |  
+| color_name |  |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 1d75_7d5_606 |  
+| description_main_length_1 | 1 |  
+| description_main_length_2 | 1d |  
+| description_main_length_3 | 1d7 |  
+| description_main_length_4 | 1d75 |  
+| description_main_length_5 | 1d75_ |  
+| description_main_length_6 | 1d75_7 |  
+| description_main_name | 1D75 7D5 606 |  
+| description_main_no_space_length_1 | 1 |  
+| description_main_no_space_length_2 | 1d |  
+| description_main_no_space_length_3 | 1d7 |  
+| description_main_no_space_length_4 | 1d75 |  
+| description_main_no_space_length_5 | 1d757 |  
+| description_main_no_space_length_6 | 1d757d |  
+| description_main_no_space_upper_length_1 | 1 |  
+| description_main_no_space_upper_length_2 | 1D |  
+| description_main_no_space_upper_length_3 | 1D7 |  
+| description_main_no_space_upper_length_4 | 1D75 |  
+| description_main_no_space_upper_length_5 | 1D757 |  
+| description_main_no_space_upper_length_6 | 1D757D |  
+| description_main_upper_length_1 | 1 |  
+| description_main_upper_length_2 | 1D |  
+| description_main_upper_length_3 | 1D7 |  
+| description_main_upper_length_4 | 1D75 |  
+| description_main_upper_length_5 | 1D75_ |  
+| description_main_upper_length_6 | 1D75_7 |  
+| directory | parts/oobb_part_wheel_1d75_7d5_606 |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_1d75_7d5_606 |  
+| id | oobb_part_wheel_1d75_7d5_606 |  
+| id_no_class | part_wheel_1d75_7d5_606 |  
+| id_no_color | 1d757d5606 |  
+| id_no_size | 1d75_7d5_606 |  
+| id_no_type | wheel_1d75_7d5_606 |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 0425011fc97033424566750e14c28b8a |  
+| md5_10 | 0425011fc9 |  
+| md5_10_upper | 0425011FC9 |  
+| md5_5 | 04250 |  
+| md5_5_upper | 04250 |  
+| md5_6 | 042501 |  
+| md5_6_alpha | 5tkx |  
+| md5_6_alpha_upper | 5TKX |  
+| md5_6_upper | 042501 |  
+| name | Oobb Part Wheel 1D75 7D5 606 |  
+| name_no_class | Part Wheel 1D75 7D5 606 |  
+| name_no_color | 1D757D5606 |  
+| name_no_size | 1D75 7D5 606 |  
+| name_no_type | Wheel 1D75 7D5 606 |  
+| oomp_key | oomp_oobb_part_wheel_1d75_7d5_606 |  
+| oomp_word | wink ear smile |  
+| oomp_word_emoji | :wink: :ear: :smile: |  
+| oomp_word_emoji_list | [':wink:', ':ear:', ':smile:'] |  
+| oomp_word_list | ['wink', 'ear', 'smile'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | wheel |  
+| size_length_1 | w |  
+| size_length_2 | wh |  
+| size_length_3 | whe |  
+| size_length_4 | whee |  
+| size_length_5 | wheel |  
+| size_length_6 | wheel |  
+| size_name | Wheel |  
+| size_no_space_length_1 | w |  
+| size_no_space_length_2 | wh |  
+| size_no_space_length_3 | whe |  
+| size_no_space_length_4 | whee |  
+| size_no_space_length_5 | wheel |  
+| size_no_space_length_6 | wheel |  
+| size_no_space_upper_length_1 | W |  
+| size_no_space_upper_length_2 | WH |  
+| size_no_space_upper_length_3 | WHE |  
+| size_no_space_upper_length_4 | WHEE |  
+| size_no_space_upper_length_5 | WHEEL |  
+| size_no_space_upper_length_6 | WHEEL |  
+| size_upper_length_1 | W |  
+| size_upper_length_2 | WH |  
+| size_upper_length_3 | WHE |  
+| size_upper_length_4 | WHEE |  
+| size_upper_length_5 | WHEEL |  
+| size_upper_length_6 | WHEEL |  
+| type | part |  
+| type_length_1 | p |  
+| type_length_2 | pa |  
+| type_length_3 | par |  
+| type_length_4 | part |  
+| type_length_5 | part |  
+| type_length_6 | part |  
+| type_name | Part |  
+| type_no_space_length_1 | p |  
+| type_no_space_length_2 | pa |  
+| type_no_space_length_3 | par |  
+| type_no_space_length_4 | part |  
+| type_no_space_length_5 | part |  
+| type_no_space_length_6 | part |  
+| type_no_space_upper_length_1 | P |  
+| type_no_space_upper_length_2 | PA |  
+| type_no_space_upper_length_3 | PAR |  
+| type_no_space_upper_length_4 | PART |  
+| type_no_space_upper_length_5 | PART |  
+| type_no_space_upper_length_6 | PART |  
+| type_upper_length_1 | P |  
+| type_upper_length_2 | PA |  
+| type_upper_length_3 | PAR |  
+| type_upper_length_4 | PART |  
+| type_upper_length_5 | PART |  
+| type_upper_length_6 | PART |  

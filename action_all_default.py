@@ -16,7 +16,7 @@ def main(**kwargs):
     
     #      load in the yaml files
     import action_load
-    parts = action_load.main(**kwargs)    
+    #parts = action_load.main(**kwargs)    
     kwargs["parts"] = parts
     
     #      make links
@@ -33,7 +33,7 @@ def main(**kwargs):
 
     #       create archive
     import action_create_archive
-    action_create_archive.main(**kwargs)    
+    #action_create_archive.main(**kwargs)    
     
 
     

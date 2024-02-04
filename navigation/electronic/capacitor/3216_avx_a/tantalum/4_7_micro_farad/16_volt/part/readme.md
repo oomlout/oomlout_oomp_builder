@@ -1,0 +1,217 @@
+# Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+  * classification: electronic
+  * type: capacitor
+  * size: 3216_avx_a
+  * color: tantalum
+  * description_main: 4_7_micro_farad
+  * description_extra: 16_volt
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: telescope angel car
+* oomp_word_emoji :telescope: :angel: :car:
+* md5_6_alpha: 5tgq3
+* md5_6: 951eeb
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
+| color | tantalum |  
+| color_length_1 | t |  
+| color_length_2 | ta |  
+| color_length_3 | tan |  
+| color_length_4 | tant |  
+| color_length_5 | tanta |  
+| color_length_6 | tantal |  
+| color_name | Tantalum |  
+| color_no_space_length_1 | t |  
+| color_no_space_length_2 | ta |  
+| color_no_space_length_3 | tan |  
+| color_no_space_length_4 | tant |  
+| color_no_space_length_5 | tanta |  
+| color_no_space_length_6 | tantal |  
+| color_no_space_upper_length_1 | T |  
+| color_no_space_upper_length_2 | TA |  
+| color_no_space_upper_length_3 | TAN |  
+| color_no_space_upper_length_4 | TANT |  
+| color_no_space_upper_length_5 | TANTA |  
+| color_no_space_upper_length_6 | TANTAL |  
+| color_upper_length_1 | T |  
+| color_upper_length_2 | TA |  
+| color_upper_length_3 | TAN |  
+| color_upper_length_4 | TANT |  
+| color_upper_length_5 | TANTA |  
+| color_upper_length_6 | TANTAL |  
+| description_extra | 16_volt |  
+| description_extra_length_1 | 1 |  
+| description_extra_length_2 | 16 |  
+| description_extra_length_3 | 16_ |  
+| description_extra_length_4 | 16_v |  
+| description_extra_length_5 | 16_vo |  
+| description_extra_length_6 | 16_vol |  
+| description_extra_name | 16 Volt |  
+| description_extra_no_space_length_1 | 1 |  
+| description_extra_no_space_length_2 | 16 |  
+| description_extra_no_space_length_3 | 16v |  
+| description_extra_no_space_length_4 | 16vo |  
+| description_extra_no_space_length_5 | 16vol |  
+| description_extra_no_space_length_6 | 16volt |  
+| description_extra_no_space_upper_length_1 | 1 |  
+| description_extra_no_space_upper_length_2 | 16 |  
+| description_extra_no_space_upper_length_3 | 16V |  
+| description_extra_no_space_upper_length_4 | 16VO |  
+| description_extra_no_space_upper_length_5 | 16VOL |  
+| description_extra_no_space_upper_length_6 | 16VOLT |  
+| description_extra_upper_length_1 | 1 |  
+| description_extra_upper_length_2 | 16 |  
+| description_extra_upper_length_3 | 16_ |  
+| description_extra_upper_length_4 | 16_V |  
+| description_extra_upper_length_5 | 16_VO |  
+| description_extra_upper_length_6 | 16_VOL |  
+| description_main | 4_7_micro_farad |  
+| description_main_length_1 | 4 |  
+| description_main_length_2 | 4_ |  
+| description_main_length_3 | 4_7 |  
+| description_main_length_4 | 4_7_ |  
+| description_main_length_5 | 4_7_m |  
+| description_main_length_6 | 4_7_mi |  
+| description_main_name | 4 7 Micro Farad |  
+| description_main_no_space_length_1 | 4 |  
+| description_main_no_space_length_2 | 47 |  
+| description_main_no_space_length_3 | 47m |  
+| description_main_no_space_length_4 | 47mi |  
+| description_main_no_space_length_5 | 47mic |  
+| description_main_no_space_length_6 | 47micr |  
+| description_main_no_space_upper_length_1 | 4 |  
+| description_main_no_space_upper_length_2 | 47 |  
+| description_main_no_space_upper_length_3 | 47M |  
+| description_main_no_space_upper_length_4 | 47MI |  
+| description_main_no_space_upper_length_5 | 47MIC |  
+| description_main_no_space_upper_length_6 | 47MICR |  
+| description_main_upper_length_1 | 4 |  
+| description_main_upper_length_2 | 4_ |  
+| description_main_upper_length_3 | 4_7 |  
+| description_main_upper_length_4 | 4_7_ |  
+| description_main_upper_length_5 | 4_7_M |  
+| description_main_upper_length_6 | 4_7_MI |  
+| directory | parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| id | electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| id_no_class | capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| id_no_color | 4_7_micro_farad_16_volt |  
+| id_no_size | tantalum_4_7_micro_farad_16_volt |  
+| id_no_type | 3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 951eebab538d3a391eb9ef33560a6b6b |  
+| md5_10 | 951eebab53 |  
+| md5_10_upper | 951EEBAB53 |  
+| md5_5 | 951ee |  
+| md5_5_upper | 951EE |  
+| md5_6 | 951eeb |  
+| md5_6_alpha | 5tgq3 |  
+| md5_6_alpha_upper | 5TGQ3 |  
+| md5_6_upper | 951EEB |  
+| name | Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt |  
+| name_no_class | Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt |  
+| name_no_color | 4 7 Micro Farad 16 Volt |  
+| name_no_size | Tantalum 4 7 Micro Farad 16 Volt |  
+| name_no_type | 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt |  
+| oomp_key | oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt |  
+| oomp_word | telescope angel car |  
+| oomp_word_emoji | :telescope: :angel: :car: |  
+| oomp_word_emoji_list | [':telescope:', ':angel:', ':car:'] |  
+| oomp_word_list | ['telescope', 'angel', 'car'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | 3216_avx_a |  
+| size_length_1 | 3 |  
+| size_length_2 | 32 |  
+| size_length_3 | 321 |  
+| size_length_4 | 3216 |  
+| size_length_5 | 3216_ |  
+| size_length_6 | 3216_a |  
+| size_name | 3216 Avx A |  
+| size_no_space_length_1 | 3 |  
+| size_no_space_length_2 | 32 |  
+| size_no_space_length_3 | 321 |  
+| size_no_space_length_4 | 3216 |  
+| size_no_space_length_5 | 3216a |  
+| size_no_space_length_6 | 3216av |  
+| size_no_space_upper_length_1 | 3 |  
+| size_no_space_upper_length_2 | 32 |  
+| size_no_space_upper_length_3 | 321 |  
+| size_no_space_upper_length_4 | 3216 |  
+| size_no_space_upper_length_5 | 3216A |  
+| size_no_space_upper_length_6 | 3216AV |  
+| size_upper_length_1 | 3 |  
+| size_upper_length_2 | 32 |  
+| size_upper_length_3 | 321 |  
+| size_upper_length_4 | 3216 |  
+| size_upper_length_5 | 3216_ |  
+| size_upper_length_6 | 3216_A |  
+| type | capacitor |  
+| type_length_1 | c |  
+| type_length_2 | ca |  
+| type_length_3 | cap |  
+| type_length_4 | capa |  
+| type_length_5 | capac |  
+| type_length_6 | capaci |  
+| type_name | Capacitor |  
+| type_no_space_length_1 | c |  
+| type_no_space_length_2 | ca |  
+| type_no_space_length_3 | cap |  
+| type_no_space_length_4 | capa |  
+| type_no_space_length_5 | capac |  
+| type_no_space_length_6 | capaci |  
+| type_no_space_upper_length_1 | C |  
+| type_no_space_upper_length_2 | CA |  
+| type_no_space_upper_length_3 | CAP |  
+| type_no_space_upper_length_4 | CAPA |  
+| type_no_space_upper_length_5 | CAPAC |  
+| type_no_space_upper_length_6 | CAPACI |  
+| type_upper_length_1 | C |  
+| type_upper_length_2 | CA |  
+| type_upper_length_3 | CAP |  
+| type_upper_length_4 | CAPA |  
+| type_upper_length_5 | CAPAC |  
+| type_upper_length_6 | CAPACI |  
