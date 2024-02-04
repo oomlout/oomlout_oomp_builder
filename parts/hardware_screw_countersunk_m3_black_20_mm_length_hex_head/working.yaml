@@ -190,10 +190,16 @@ oomp_word_list:
 - guitar
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1901050'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_10000_distributor_orbital_fasteners: '0.023'
+price_1000_distributor_orbital_fasteners: '0.0259'
+price_100_distributor_orbital_fasteners: '0.0518'
+price_1_distributor_orbital_fasteners: '0.0518'
+price_200_distributor_orbital_fasteners: '0.0288'
 short_code: scsm3b
 short_code_upper: SCSM3B
 size: m3

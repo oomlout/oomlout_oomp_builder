@@ -190,10 +190,16 @@ oomp_word_list:
 - wolf
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1901052'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_10000_distributor_orbital_fasteners: '0.0268'
+price_1000_distributor_orbital_fasteners: '0.0302'
+price_100_distributor_orbital_fasteners: '0.0604'
+price_1_distributor_orbital_fasteners: '0.0604'
+price_200_distributor_orbital_fasteners: '0.0336'
 short_code: scsm3b
 short_code_upper: SCSM3B
 size: m3

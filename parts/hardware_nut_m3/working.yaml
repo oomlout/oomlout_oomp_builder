@@ -101,10 +101,16 @@ oomp_word_list:
 - cyclone
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1771000'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_10000_distributor_orbital_fasteners: '0.0016'
+price_1000_distributor_orbital_fasteners: '0.0038'
+price_100_distributor_orbital_fasteners: '0.0038'
+price_1_distributor_orbital_fasteners: '0.0038'
+price_200_distributor_orbital_fasteners: '0.0038'
 short_code: num3
 short_code_upper: NUM3
 size: m3
