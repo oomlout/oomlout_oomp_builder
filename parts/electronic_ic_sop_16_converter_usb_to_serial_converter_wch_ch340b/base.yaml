@@ -1,0 +1,9 @@
+classification: electronic
+color: converter
+description_extra: ''
+description_main: usb_to_serial_converter
+id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
+manufacturer: wch
+part_number: ch340b
+size: sop_16
+type: ic

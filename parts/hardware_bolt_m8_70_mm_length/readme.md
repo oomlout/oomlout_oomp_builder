@@ -1,0 +1,188 @@
+# Hardware Bolt M8 70 mm Length  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: hardware_bolt_m8_70_mm_length
+  * classification: hardware
+  * type: bolt
+  * size: m8
+  * color: 
+  * description_main: 70_mm_length
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: b8m70
+* oomp_word: strawberry trident tram
+* oomp_word_emoji :strawberry: :trident: :tram:
+* md5_6_alpha: 81cyw
+* md5_6: cdffe8
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | hardware |  
+| classification_length_1 | h |  
+| classification_length_2 | ha |  
+| classification_length_3 | har |  
+| classification_length_4 | hard |  
+| classification_length_5 | hardw |  
+| classification_length_6 | hardwa |  
+| classification_name | Hardware |  
+| classification_no_space_length_1 | h |  
+| classification_no_space_length_2 | ha |  
+| classification_no_space_length_3 | har |  
+| classification_no_space_length_4 | hard |  
+| classification_no_space_length_5 | hardw |  
+| classification_no_space_length_6 | hardwa |  
+| classification_no_space_upper_length_1 | H |  
+| classification_no_space_upper_length_2 | HA |  
+| classification_no_space_upper_length_3 | HAR |  
+| classification_no_space_upper_length_4 | HARD |  
+| classification_no_space_upper_length_5 | HARDW |  
+| classification_no_space_upper_length_6 | HARDWA |  
+| classification_upper_length_1 | H |  
+| classification_upper_length_2 | HA |  
+| classification_upper_length_3 | HAR |  
+| classification_upper_length_4 | HARD |  
+| classification_upper_length_5 | HARDW |  
+| classification_upper_length_6 | HARDWA |  
+| color |  |  
+| color_name |  |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 70_mm_length |  
+| description_main_length_1 | 7 |  
+| description_main_length_2 | 70 |  
+| description_main_length_3 | 70_ |  
+| description_main_length_4 | 70_m |  
+| description_main_length_5 | 70_mm |  
+| description_main_length_6 | 70_mm_ |  
+| description_main_name | 70 mm Length |  
+| description_main_no_space_length_1 | 7 |  
+| description_main_no_space_length_2 | 70 |  
+| description_main_no_space_length_3 | 70m |  
+| description_main_no_space_length_4 | 70mm |  
+| description_main_no_space_length_5 | 70mml |  
+| description_main_no_space_length_6 | 70mmle |  
+| description_main_no_space_upper_length_1 | 7 |  
+| description_main_no_space_upper_length_2 | 70 |  
+| description_main_no_space_upper_length_3 | 70M |  
+| description_main_no_space_upper_length_4 | 70MM |  
+| description_main_no_space_upper_length_5 | 70MML |  
+| description_main_no_space_upper_length_6 | 70MMLE |  
+| description_main_upper_length_1 | 7 |  
+| description_main_upper_length_2 | 70 |  
+| description_main_upper_length_3 | 70_ |  
+| description_main_upper_length_4 | 70_M |  
+| description_main_upper_length_5 | 70_MM |  
+| description_main_upper_length_6 | 70_MM_ |  
+| directory | parts/hardware_bolt_m8_70_mm_length |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_70_mm_length |  
+| id | hardware_bolt_m8_70_mm_length |  
+| id_no_class | bolt_m8_70_mm_length |  
+| id_no_color | 70mmlength |  
+| id_no_size | 70_mm_length |  
+| id_no_type | m8_70_mm_length |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | cdffe8bc031e4fa5a743cbaa0710d8e3 |  
+| md5_10 | cdffe8bc03 |  
+| md5_10_upper | CDFFE8BC03 |  
+| md5_5 | cdffe |  
+| md5_5_upper | CDFFE |  
+| md5_6 | cdffe8 |  
+| md5_6_alpha | 81cyw |  
+| md5_6_alpha_upper | 81CYW |  
+| md5_6_upper | CDFFE8 |  
+| name | Hardware Bolt M8 70 mm Length |  
+| name_no_class | Bolt M8 70 mm Length |  
+| name_no_color | 70mmlength |  
+| name_no_size | 70 mm Length |  
+| name_no_type | M8 70 mm Length |  
+| oomlout_bolt_color |  |  
+| oomlout_bolt_head_type | Bolt |  
+| oomlout_bolt_head_type_diagram | head_type_diagram.png |  
+| oomlout_bolt_length | 70 mm |  
+| oomlout_bolt_length_no_unit | 70 |  
+| oomlout_bolt_md5_6_alpha_first_3 | 81c |  
+| oomlout_bolt_md5_6_alpha_first_3_upper | 81C |  
+| oomlout_bolt_md5_6_alpha_last_3 | yw |  
+| oomlout_bolt_md5_6_alpha_last_3_upper | YW |  
+| oomlout_bolt_md5_6_first_3 | cdf |  
+| oomlout_bolt_md5_6_first_3_upper | CDF |  
+| oomlout_bolt_md5_6_last_3 | fe8 |  
+| oomlout_bolt_md5_6_last_3_upper | FE8 |  
+| oomlout_bolt_name | Bolt M8X70 mm  (Bolt) |  
+| oomlout_bolt_size | M8 |  
+| oomlout_bolt_type | Bolt |  
+| oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_short_code | b8m70 |  
+| oomlout_short_code_upper | B8M70 |  
+| oomp_key | oomp_hardware_bolt_m8_70_mm_length |  
+| oomp_word | strawberry trident tram |  
+| oomp_word_emoji | :strawberry: :trident: :tram: |  
+| oomp_word_emoji_list | [':strawberry:', ':trident:', ':tram:'] |  
+| oomp_word_list | ['strawberry', 'trident', 'tram'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | m8 |  
+| size_length_1 | m |  
+| size_length_2 | m8 |  
+| size_length_3 | m8 |  
+| size_length_4 | m8 |  
+| size_length_5 | m8 |  
+| size_length_6 | m8 |  
+| size_name | M8 |  
+| size_no_space_length_1 | m |  
+| size_no_space_length_2 | m8 |  
+| size_no_space_length_3 | m8 |  
+| size_no_space_length_4 | m8 |  
+| size_no_space_length_5 | m8 |  
+| size_no_space_length_6 | m8 |  
+| size_no_space_upper_length_1 | M |  
+| size_no_space_upper_length_2 | M8 |  
+| size_no_space_upper_length_3 | M8 |  
+| size_no_space_upper_length_4 | M8 |  
+| size_no_space_upper_length_5 | M8 |  
+| size_no_space_upper_length_6 | M8 |  
+| size_upper_length_1 | M |  
+| size_upper_length_2 | M8 |  
+| size_upper_length_3 | M8 |  
+| size_upper_length_4 | M8 |  
+| size_upper_length_5 | M8 |  
+| size_upper_length_6 | M8 |  
+| type | bolt |  
+| type_length_1 | b |  
+| type_length_2 | bo |  
+| type_length_3 | bol |  
+| type_length_4 | bolt |  
+| type_length_5 | bolt |  
+| type_length_6 | bolt |  
+| type_name | Bolt |  
+| type_no_space_length_1 | b |  
+| type_no_space_length_2 | bo |  
+| type_no_space_length_3 | bol |  
+| type_no_space_length_4 | bolt |  
+| type_no_space_length_5 | bolt |  
+| type_no_space_length_6 | bolt |  
+| type_no_space_upper_length_1 | B |  
+| type_no_space_upper_length_2 | BO |  
+| type_no_space_upper_length_3 | BOL |  
+| type_no_space_upper_length_4 | BOLT |  
+| type_no_space_upper_length_5 | BOLT |  
+| type_no_space_upper_length_6 | BOLT |  
+| type_upper_length_1 | B |  
+| type_upper_length_2 | BO |  
+| type_upper_length_3 | BOL |  
+| type_upper_length_4 | BOLT |  
+| type_upper_length_5 | BOLT |  
+| type_upper_length_6 | BOLT |  

@@ -1,0 +1,169 @@
+# Electronic Capacitor 0402 100 Nano Farad  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+
+
+
+
+
+### id
+* oomp_id: electronic_capacitor_0402_100_nano_farad
+  * classification: electronic
+  * type: capacitor
+  * size: 0402
+  * color: 
+  * description_main: 100_nano_farad
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+
+### other_codes
+* short_code: 
+* oomp_word: dragon gift dancer
+* oomp_word_emoji :dragon: :gift: :dancer:
+* md5_6_alpha: 3ho2k
+* md5_6: 59771c
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_length_1 | e |  
+| classification_length_2 | el |  
+| classification_length_3 | ele |  
+| classification_length_4 | elec |  
+| classification_length_5 | elect |  
+| classification_length_6 | electr |  
+| classification_name | Electronic |  
+| classification_no_space_length_1 | e |  
+| classification_no_space_length_2 | el |  
+| classification_no_space_length_3 | ele |  
+| classification_no_space_length_4 | elec |  
+| classification_no_space_length_5 | elect |  
+| classification_no_space_length_6 | electr |  
+| classification_no_space_upper_length_1 | E |  
+| classification_no_space_upper_length_2 | EL |  
+| classification_no_space_upper_length_3 | ELE |  
+| classification_no_space_upper_length_4 | ELEC |  
+| classification_no_space_upper_length_5 | ELECT |  
+| classification_no_space_upper_length_6 | ELECTR |  
+| classification_upper_length_1 | E |  
+| classification_upper_length_2 | EL |  
+| classification_upper_length_3 | ELE |  
+| classification_upper_length_4 | ELEC |  
+| classification_upper_length_5 | ELECT |  
+| classification_upper_length_6 | ELECTR |  
+| color |  |  
+| color_name |  |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 100_nano_farad |  
+| description_main_length_1 | 1 |  
+| description_main_length_2 | 10 |  
+| description_main_length_3 | 100 |  
+| description_main_length_4 | 100_ |  
+| description_main_length_5 | 100_n |  
+| description_main_length_6 | 100_na |  
+| description_main_name | 100 Nano Farad |  
+| description_main_no_space_length_1 | 1 |  
+| description_main_no_space_length_2 | 10 |  
+| description_main_no_space_length_3 | 100 |  
+| description_main_no_space_length_4 | 100n |  
+| description_main_no_space_length_5 | 100na |  
+| description_main_no_space_length_6 | 100nan |  
+| description_main_no_space_upper_length_1 | 1 |  
+| description_main_no_space_upper_length_2 | 10 |  
+| description_main_no_space_upper_length_3 | 100 |  
+| description_main_no_space_upper_length_4 | 100N |  
+| description_main_no_space_upper_length_5 | 100NA |  
+| description_main_no_space_upper_length_6 | 100NAN |  
+| description_main_upper_length_1 | 1 |  
+| description_main_upper_length_2 | 10 |  
+| description_main_upper_length_3 | 100 |  
+| description_main_upper_length_4 | 100_ |  
+| description_main_upper_length_5 | 100_N |  
+| description_main_upper_length_6 | 100_NA |  
+| directory | parts/electronic_capacitor_0402_100_nano_farad |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_100_nano_farad |  
+| id | electronic_capacitor_0402_100_nano_farad |  
+| id_no_class | capacitor_0402_100_nano_farad |  
+| id_no_color | 100nanofarad |  
+| id_no_size | 100_nano_farad |  
+| id_no_type | 0402_100_nano_farad |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| md5 | 59771c4331f6c67b3f60f46b5ec35ee3 |  
+| md5_10 | 59771c4331 |  
+| md5_10_upper | 59771C4331 |  
+| md5_5 | 59771 |  
+| md5_5_upper | 59771 |  
+| md5_6 | 59771c |  
+| md5_6_alpha | 3ho2k |  
+| md5_6_alpha_upper | 3HO2K |  
+| md5_6_upper | 59771C |  
+| name | Electronic Capacitor 0402 100 Nano Farad |  
+| name_no_class | Capacitor 0402 100 Nano Farad |  
+| name_no_color | 100Nanofarad |  
+| name_no_size | 100 Nano Farad |  
+| name_no_type | 0402 100 Nano Farad |  
+| oomp_key | oomp_electronic_capacitor_0402_100_nano_farad |  
+| oomp_word | dragon gift dancer |  
+| oomp_word_emoji | :dragon: :gift: :dancer: |  
+| oomp_word_emoji_list | [':dragon:', ':gift:', ':dancer:'] |  
+| oomp_word_list | ['dragon', 'gift', 'dancer'] |  
+| part_number |  |  
+| part_number_name |  |  
+| size | 0402 |  
+| size_length_1 | 0 |  
+| size_length_2 | 04 |  
+| size_length_3 | 040 |  
+| size_length_4 | 0402 |  
+| size_length_5 | 0402 |  
+| size_length_6 | 0402 |  
+| size_name | 0402 |  
+| size_no_space_length_1 | 0 |  
+| size_no_space_length_2 | 04 |  
+| size_no_space_length_3 | 040 |  
+| size_no_space_length_4 | 0402 |  
+| size_no_space_length_5 | 0402 |  
+| size_no_space_length_6 | 0402 |  
+| size_no_space_upper_length_1 | 0 |  
+| size_no_space_upper_length_2 | 04 |  
+| size_no_space_upper_length_3 | 040 |  
+| size_no_space_upper_length_4 | 0402 |  
+| size_no_space_upper_length_5 | 0402 |  
+| size_no_space_upper_length_6 | 0402 |  
+| size_upper_length_1 | 0 |  
+| size_upper_length_2 | 04 |  
+| size_upper_length_3 | 040 |  
+| size_upper_length_4 | 0402 |  
+| size_upper_length_5 | 0402 |  
+| size_upper_length_6 | 0402 |  
+| type | capacitor |  
+| type_length_1 | c |  
+| type_length_2 | ca |  
+| type_length_3 | cap |  
+| type_length_4 | capa |  
+| type_length_5 | capac |  
+| type_length_6 | capaci |  
+| type_name | Capacitor |  
+| type_no_space_length_1 | c |  
+| type_no_space_length_2 | ca |  
+| type_no_space_length_3 | cap |  
+| type_no_space_length_4 | capa |  
+| type_no_space_length_5 | capac |  
+| type_no_space_length_6 | capaci |  
+| type_no_space_upper_length_1 | C |  
+| type_no_space_upper_length_2 | CA |  
+| type_no_space_upper_length_3 | CAP |  
+| type_no_space_upper_length_4 | CAPA |  
+| type_no_space_upper_length_5 | CAPAC |  
+| type_no_space_upper_length_6 | CAPACI |  
+| type_upper_length_1 | C |  
+| type_upper_length_2 | CA |  
+| type_upper_length_3 | CAP |  
+| type_upper_length_4 | CAPA |  
+| type_upper_length_5 | CAPAC |  
+| type_upper_length_6 | CAPACI |  
