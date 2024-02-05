@@ -30,9 +30,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
 | classification_length_1 | o |  
 | classification_length_2 | oo |  
 | classification_length_3 | oob |  
@@ -52,7 +49,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | OOBB |  
 | classification_no_space_upper_length_5 | OOBB |  
 | classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
 | classification_upper_length_1 | O |  
 | classification_upper_length_2 | OO |  
 | classification_upper_length_3 | OOB |  
@@ -60,21 +56,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | OOBB |  
 | classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | hardware_standoff_m3_12 |  
-| description_main_capital | Hardware Standoff M3.12 |  
-| description_main_first_letter | h |  
-| description_main_first_letter_upper | H |  
 | description_main_length_1 | h |  
 | description_main_length_2 | ha |  
 | description_main_length_3 | har |  
@@ -94,19 +79,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | HARD |  
 | description_main_no_space_upper_length_5 | HARDW |  
 | description_main_no_space_upper_length_6 | HARDWA |  
-| description_main_upper | HARDWARE_STANDOFF_M3_12 |  
 | description_main_upper_length_1 | H |  
 | description_main_upper_length_2 | HA |  
 | description_main_upper_length_3 | HAR |  
 | description_main_upper_length_4 | HARD |  
 | description_main_upper_length_5 | HARDW |  
 | description_main_upper_length_6 | HARDWA |  
-| description_only_numbers | 312 |  
-| description_only_numbers_short | 312 |  
-| description_or_color | 312 |  
-| description_or_color_upper | 312 |  
 | directory | parts/oobb_part_standoff_hardware_standoff_m3_12 |  
-| distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12 |  
 | id | oobb_part_standoff_hardware_standoff_m3_12 |  
 | id_no_class | part_standoff_hardware_standoff_m3_12 |  
@@ -114,14 +93,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | hardware_m3_12 |  
 | id_no_type | standoff_hardware_standoff_m3_12 |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_standoff_hardware_standoff_m3_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12/working)<br>[Oobb Part Standoff Hardware Standoff M3 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12/working)<br><br> |  
-| markdown_short | [oobb_part_standoff_hardware_standoff_m3_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_12/working)<br><br> |  
 | md5 | 55450dc1ce5fc7def30d8136ea2d6df8 |  
 | md5_10 | 55450dc1ce |  
 | md5_10_upper | 55450DC1CE |  
@@ -135,7 +107,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Part Standoff Hardware Standoff M3 12 |  
 | name_no_color | Hardwarem312 |  
 | name_no_size | Hardware M3 12 |  
-| name_no_size_short | Hardware M3 12 |  
 | name_no_type | Standoff Hardware Standoff M3 12 |  
 | oomp_key | oomp_oobb_part_standoff_hardware_standoff_m3_12 |  
 | oomp_word | dolphin snake heart |  
@@ -143,18 +114,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':dolphin:', ':snake:', ':heart:'] |  
 | oomp_word_list | ['dolphin', 'snake', 'heart'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
 | size | standoff |  
-| size_capital | Standoff |  
-| size_first_letter | s |  
-| size_first_letter_upper | S |  
 | size_length_1 | s |  
 | size_length_2 | st |  
 | size_length_3 | sta |  
@@ -174,9 +135,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | STAN |  
 | size_no_space_upper_length_5 | STAND |  
 | size_no_space_upper_length_6 | STANDO |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | STANDOFF |  
 | size_upper_length_1 | S |  
 | size_upper_length_2 | ST |  
 | size_upper_length_3 | STA |  
@@ -184,9 +142,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | STAND |  
 | size_upper_length_6 | STANDO |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
 | type_length_1 | p |  
 | type_length_2 | pa |  
 | type_length_3 | par |  
@@ -206,7 +161,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | PART |  
 | type_no_space_upper_length_5 | PART |  
 | type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
 | type_upper_length_1 | P |  
 | type_upper_length_2 | PA |  
 | type_upper_length_3 | PAR |  

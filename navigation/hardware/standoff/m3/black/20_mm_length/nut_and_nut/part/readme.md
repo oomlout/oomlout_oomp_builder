@@ -30,9 +30,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_capital | Hardware |  
-| classification_first_letter | h |  
-| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -52,7 +49,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
-| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -60,9 +56,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | black |  
-| color_capital | Black |  
-| color_first_letter | b |  
-| color_first_letter_upper | B |  
 | color_length_1 | b |  
 | color_length_2 | bl |  
 | color_length_3 | bla |  
@@ -82,7 +75,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | BLAC |  
 | color_no_space_upper_length_5 | BLACK |  
 | color_no_space_upper_length_6 | BLACK |  
-| color_upper | BLACK |  
 | color_upper_length_1 | B |  
 | color_upper_length_2 | BL |  
 | color_upper_length_3 | BLA |  
@@ -90,9 +82,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
 | description_extra | nut_and_nut |  
-| description_extra_capital | Nut And Nut |  
-| description_extra_first_letter | n |  
-| description_extra_first_letter_upper | N |  
 | description_extra_length_1 | n |  
 | description_extra_length_2 | nu |  
 | description_extra_length_3 | nut |  
@@ -112,7 +101,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_extra_no_space_upper_length_4 | NUTA |  
 | description_extra_no_space_upper_length_5 | NUTAN |  
 | description_extra_no_space_upper_length_6 | NUTAND |  
-| description_extra_upper | NUT_AND_NUT |  
 | description_extra_upper_length_1 | N |  
 | description_extra_upper_length_2 | NU |  
 | description_extra_upper_length_3 | NUT |  
@@ -120,9 +108,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_extra_upper_length_5 | NUT_A |  
 | description_extra_upper_length_6 | NUT_AN |  
 | description_main | 20_mm_length |  
-| description_main_capital | 20 mm Length |  
-| description_main_first_letter | 2 |  
-| description_main_first_letter_upper | 2 |  
 | description_main_length_1 | 2 |  
 | description_main_length_2 | 20 |  
 | description_main_length_3 | 20_ |  
@@ -142,37 +127,21 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 20MM |  
 | description_main_no_space_upper_length_5 | 20MML |  
 | description_main_no_space_upper_length_6 | 20MMLE |  
-| description_main_upper | 20_MM_LENGTH |  
 | description_main_upper_length_1 | 2 |  
 | description_main_upper_length_2 | 20 |  
 | description_main_upper_length_3 | 20_ |  
 | description_main_upper_length_4 | 20_M |  
 | description_main_upper_length_5 | 20_MM |  
 | description_main_upper_length_6 | 20_MM_ |  
-| description_only_numbers | 20 |  
-| description_only_numbers_short | 20 |  
-| description_or_color | B20 |  
-| description_or_color_upper | B20 |  
 | directory | parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut |  
-| distributors | [] |  
-| filter | hardware |  
-| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut |  
 | id | hardware_standoff_m3_black_20_mm_length_nut_and_nut |  
 | id_no_class | standoff_m3_black_20_mm_length_nut_and_nut |  
 | id_no_color | 20_mm_length_nut_and_nut |  
 | id_no_size | black_20_mm_length_nut_and_nut |  
 | id_no_type | m3_black_20_mm_length_nut_and_nut |  
-| kicad_reference |  |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [hardware_standoff_m3_black_20_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut/working)<br>[stm3bnn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut/working)<br>[Hardware Standoff M3 Black 20 Mm Length Nut And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut/working)<br><br> |  
-| markdown_short | [hardware_standoff_m3_black_20_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut/working)<br><br> |  
 | md5 | 3b20bd572095afe0d961aeae776b0eea |  
 | md5_10 | 3b20bd5720 |  
 | md5_10_upper | 3B20BD5720 |  
@@ -186,7 +155,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Standoff M3 Black 20 mm Length Nut And Nut |  
 | name_no_color | 20 mm Length Nut And Nut |  
 | name_no_size | Black 20 mm Length Nut And Nut |  
-| name_no_size_short | Black 20 Mm Length Nut And Nut |  
 | name_no_type | M3 Black 20 mm Length Nut And Nut |  
 | oomlout_bolt_color | Black |  
 | oomlout_bolt_head_type | Bolt |  
@@ -212,17 +180,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':bear:', ':skull:', ':rice:'] |  
 | oomp_word_list | ['bear', 'skull', 'rice'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| short_code | stm3bnn |  
-| short_code_upper | STM3BNN |  
 | size | m3 |  
-| size_capital | M3 |  
-| size_first_letter | m |  
-| size_first_letter_upper | M |  
 | size_length_1 | m |  
 | size_length_2 | m3 |  
 | size_length_3 | m3 |  
@@ -242,9 +201,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | M3 |  
 | size_no_space_upper_length_5 | M3 |  
 | size_no_space_upper_length_6 | M3 |  
-| size_only_numbers | 3 |  
-| size_only_numbers_no_zeros | 3 |  
-| size_upper | M3 |  
 | size_upper_length_1 | M |  
 | size_upper_length_2 | M3 |  
 | size_upper_length_3 | M3 |  
@@ -252,9 +208,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | M3 |  
 | size_upper_length_6 | M3 |  
 | type | standoff |  
-| type_capital | Standoff |  
-| type_first_letter | s |  
-| type_first_letter_upper | S |  
 | type_length_1 | s |  
 | type_length_2 | st |  
 | type_length_3 | sta |  
@@ -274,7 +227,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | STAN |  
 | type_no_space_upper_length_5 | STAND |  
 | type_no_space_upper_length_6 | STANDO |  
-| type_upper | STANDOFF |  
 | type_upper_length_1 | S |  
 | type_upper_length_2 | ST |  
 | type_upper_length_3 | STA |  

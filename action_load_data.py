@@ -11,7 +11,7 @@ def main(**kwargs):
         print(f"loading {file}")
         with open(file, 'r') as stream:
             data = yaml.load(stream, Loader=yaml.FullLoader)
-            print(data)
+            #print(data)
 
     for d in data:
         id_oomp = d.get("id_oomp", d.get("id", None))

@@ -30,9 +30,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_capital | Hardware |  
-| classification_first_letter | h |  
-| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -52,7 +49,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
-| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -60,9 +56,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | 624_size |  
-| color_capital | 624 Size |  
-| color_first_letter | 6 |  
-| color_first_letter_upper | 6 |  
 | color_length_1 | 6 |  
 | color_length_2 | 62 |  
 | color_length_3 | 624 |  
@@ -82,7 +75,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | 624S |  
 | color_no_space_upper_length_5 | 624SI |  
 | color_no_space_upper_length_6 | 624SIZ |  
-| color_upper | 624_SIZE |  
 | color_upper_length_1 | 6 |  
 | color_upper_length_2 | 62 |  
 | color_upper_length_3 | 624 |  
@@ -90,15 +82,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | 624_S |  
 | color_upper_length_6 | 624_SI |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 4_mm_id_13_mm_od_5_mm_depth |  
-| description_main_capital | 4 mm Id 13 mm Od 5 mm Depth |  
-| description_main_first_letter | 4 |  
-| description_main_first_letter_upper | 4 |  
 | description_main_length_1 | 4 |  
 | description_main_length_2 | 4_ |  
 | description_main_length_3 | 4_m |  
@@ -118,21 +103,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 4MMI |  
 | description_main_no_space_upper_length_5 | 4MMID |  
 | description_main_no_space_upper_length_6 | 4MMID1 |  
-| description_main_upper | 4_MM_ID_13_MM_OD_5_MM_DEPTH |  
 | description_main_upper_length_1 | 4 |  
 | description_main_upper_length_2 | 4_ |  
 | description_main_upper_length_3 | 4_M |  
 | description_main_upper_length_4 | 4_MM |  
 | description_main_upper_length_5 | 4_MM_ |  
 | description_main_upper_length_6 | 4_MM_I |  
-| description_only_numbers | 4135 |  
-| description_only_numbers_short | 4k1 |  
-| description_or_color | 64k1 |  
-| description_or_color_upper | 64K1 |  
 | directory | parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth |  
-| distributors | [] |  
-| filter | hardware |  
-| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth |  
 | id | hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth |  
 | id_no_class | bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth |  
@@ -140,14 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 624_size_4_mm_id_13_mm_od_5_mm_depth |  
 | id_no_type | 600_series_624_size_4_mm_id_13_mm_od_5_mm_depth |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth/working)<br>[Hardware Bearing 600 Series 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_624_size_4_mm_id_13_mm_od_5_mm_depth/working)<br><br> |  
 | md5 | e1364e6ba955358d898f3e7794fe53af |  
 | md5_10 | e1364e6ba9 |  
 | md5_10_upper | E1364E6BA9 |  
@@ -161,7 +131,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing 600 Series 624 Size 4 mm ID 13 mm OD 5 mm Depth |  
 | name_no_color | 4 mm ID 13 mm OD 5 mm Depth |  
 | name_no_size | 624 Size 4 mm ID 13 mm OD 5 mm Depth |  
-| name_no_size_short | 624 Size 4 Mm Id 13 Mm Od 5 Mm Depth |  
 | name_no_type | 600 Series 624 Size 4 mm ID 13 mm OD 5 mm Depth |  
 | oomlout_short_code | br624 |  
 | oomlout_short_code_upper | BR624 |  
@@ -171,17 +140,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':boat:', ':rabbit:', ':honeybee:'] |  
 | oomp_word_list | ['boat', 'rabbit', 'honeybee'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
 | size | 600_series |  
-| size_capital | 600 Series |  
-| size_first_letter | 6 |  
-| size_first_letter_upper | 6 |  
 | size_length_1 | 6 |  
 | size_length_2 | 60 |  
 | size_length_3 | 600 |  
@@ -201,9 +161,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | 600S |  
 | size_no_space_upper_length_5 | 600SE |  
 | size_no_space_upper_length_6 | 600SER |  
-| size_only_numbers | 600 |  
-| size_only_numbers_no_zeros | 6 |  
-| size_upper | 600_SERIES |  
 | size_upper_length_1 | 6 |  
 | size_upper_length_2 | 60 |  
 | size_upper_length_3 | 600 |  
@@ -211,9 +168,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | 600_S |  
 | size_upper_length_6 | 600_SE |  
 | type | bearing |  
-| type_capital | Bearing |  
-| type_first_letter | b |  
-| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -233,7 +187,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
-| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

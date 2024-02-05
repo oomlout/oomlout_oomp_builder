@@ -30,9 +30,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | oobb |  
-| classification_capital | Oobb |  
-| classification_first_letter | o |  
-| classification_first_letter_upper | O |  
 | classification_length_1 | o |  
 | classification_length_2 | oo |  
 | classification_length_3 | oob |  
@@ -52,7 +49,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | OOBB |  
 | classification_no_space_upper_length_5 | OOBB |  
 | classification_no_space_upper_length_6 | OOBB |  
-| classification_upper | OOBB |  
 | classification_upper_length_1 | O |  
 | classification_upper_length_2 | OO |  
 | classification_upper_length_3 | OOB |  
@@ -60,21 +56,10 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | OOBB |  
 | classification_upper_length_6 | OOBB |  
 | color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
 | color_name |  |  
-| color_upper |  |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | hardware_screw_countersunk_m3_08 |  
-| description_main_capital | Hardware Screw Countersunk M3 08 |  
-| description_main_first_letter | h |  
-| description_main_first_letter_upper | H |  
 | description_main_length_1 | h |  
 | description_main_length_2 | ha |  
 | description_main_length_3 | har |  
@@ -94,19 +79,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | HARD |  
 | description_main_no_space_upper_length_5 | HARDW |  
 | description_main_no_space_upper_length_6 | HARDWA |  
-| description_main_upper | HARDWARE_SCREW_COUNTERSUNK_M3_08 |  
 | description_main_upper_length_1 | H |  
 | description_main_upper_length_2 | HA |  
 | description_main_upper_length_3 | HAR |  
 | description_main_upper_length_4 | HARD |  
 | description_main_upper_length_5 | HARDW |  
 | description_main_upper_length_6 | HARDWA |  
-| description_only_numbers | 308 |  
-| description_only_numbers_short | 308 |  
-| description_or_color | 308 |  
-| description_or_color_upper | 308 |  
 | directory | parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08 |  
-| distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08 |  
 | id | oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08 |  
 | id_no_class | part_screw_countersunk_hardware_screw_countersunk_m3_08 |  
@@ -114,14 +93,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | hardware_m3_08 |  
 | id_no_type | screw_countersunk_hardware_screw_countersunk_m3_08 |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08/working)<br>[Oobb Part Screw Countersunk Hardware Screw Countersunk M3 08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08/working)<br><br> |  
-| markdown_short | [oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08/working)<br><br> |  
 | md5 | 7307a39fb7e61bcf9eaae045b7fe5e57 |  
 | md5_10 | 7307a39fb7 |  
 | md5_10_upper | 7307A39FB7 |  
@@ -135,7 +107,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Part Screw Countersunk Hardware Screw Countersunk M3 08 |  
 | name_no_color | Hardwarem308 |  
 | name_no_size | Hardware M3 08 |  
-| name_no_size_short | Hardware M3 08 |  
 | name_no_type | Screw Countersunk Hardware Screw Countersunk M3 08 |  
 | oomp_key | oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_08 |  
 | oomp_word | flags cry pencil |  
@@ -143,18 +114,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':flags:', ':cry:', ':pencil:'] |  
 | oomp_word_list | ['flags', 'cry', 'pencil'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
-| short_name |  |  
 | size | screw_countersunk |  
-| size_capital | Screw Countersunk |  
-| size_first_letter | s |  
-| size_first_letter_upper | S |  
 | size_length_1 | s |  
 | size_length_2 | sc |  
 | size_length_3 | scr |  
@@ -174,9 +135,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | SCRE |  
 | size_no_space_upper_length_5 | SCREW |  
 | size_no_space_upper_length_6 | SCREWC |  
-| size_only_numbers |  |  
-| size_only_numbers_no_zeros |  |  
-| size_upper | SCREW_COUNTERSUNK |  
 | size_upper_length_1 | S |  
 | size_upper_length_2 | SC |  
 | size_upper_length_3 | SCR |  
@@ -184,9 +142,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | SCREW |  
 | size_upper_length_6 | SCREW_ |  
 | type | part |  
-| type_capital | Part |  
-| type_first_letter | p |  
-| type_first_letter_upper | P |  
 | type_length_1 | p |  
 | type_length_2 | pa |  
 | type_length_3 | par |  
@@ -206,7 +161,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | PART |  
 | type_no_space_upper_length_5 | PART |  
 | type_no_space_upper_length_6 | PART |  
-| type_upper | PART |  
 | type_upper_length_1 | P |  
 | type_upper_length_2 | PA |  
 | type_upper_length_3 | PAR |  

@@ -103,7 +103,7 @@
          y="59.52986"
          id="tspan12"><tspan
            style="font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
-           id="tspan1">61822 Size 110 Mm Id 140 Mm Od 16 Mm Depth&#10;</tspan></tspan></text>
+           id="tspan1">&#10;</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.616992"
@@ -132,7 +132,7 @@
          y="61.52986"
          id="tspan14"><tspan
            style="font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
-           id="tspan13">Bearing</tspan></tspan></text>
+           id="tspan13"></tspan></tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.03287;stroke-dasharray:none"
        id="rect206"
@@ -149,7 +149,7 @@
          y="61.52986"
          id="tspan16"><tspan
            style="font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
-           id="tspan15">61800 Series</tspan></tspan></text>
+           id="tspan15"></tspan></tspan></text>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:0.13841"
        id="rect423"
@@ -184,7 +184,7 @@
          id="tspan427"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#000000;stroke-width:0.616992"
          x="9.9703455"
-         y="30.481831">61800_SERIES</tspan></text>
+         y="30.481831"></tspan></text>
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.323056"
        id="rect1304"
@@ -203,7 +203,7 @@
          id="tspan410"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#ffffff;stroke-width:0.616992"
          x="9.9703455"
-         y="24.981831">BEARING</tspan></text>
+         y="24.981831"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.616992"
@@ -214,7 +214,7 @@
          id="tspan433"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#ffffff;stroke-width:0.616992"
          x="9.9703455"
-         y="35.481831">61822_SIZE</tspan></text>
+         y="35.481831"></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.155068,9.5016273)"
@@ -235,7 +235,7 @@
          id="tspan439"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#000000;stroke-width:0.616992"
          x="9.9703455"
-         y="40.481831">110_MM_ID_140_MM_OD_16_MM_DEPTH</tspan></text>
+         y="40.481831"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.616992"

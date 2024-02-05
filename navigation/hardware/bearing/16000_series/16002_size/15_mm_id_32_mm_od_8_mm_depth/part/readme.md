@@ -30,9 +30,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | classification | hardware |  
-| classification_capital | Hardware |  
-| classification_first_letter | h |  
-| classification_first_letter_upper | H |  
 | classification_length_1 | h |  
 | classification_length_2 | ha |  
 | classification_length_3 | har |  
@@ -52,7 +49,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_no_space_upper_length_4 | HARD |  
 | classification_no_space_upper_length_5 | HARDW |  
 | classification_no_space_upper_length_6 | HARDWA |  
-| classification_upper | HARDWARE |  
 | classification_upper_length_1 | H |  
 | classification_upper_length_2 | HA |  
 | classification_upper_length_3 | HAR |  
@@ -60,9 +56,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | classification_upper_length_5 | HARDW |  
 | classification_upper_length_6 | HARDWA |  
 | color | 16002_size |  
-| color_capital | 16002 Size |  
-| color_first_letter | 1 |  
-| color_first_letter_upper | 1 |  
 | color_length_1 | 1 |  
 | color_length_2 | 16 |  
 | color_length_3 | 160 |  
@@ -82,7 +75,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_no_space_upper_length_4 | 1600 |  
 | color_no_space_upper_length_5 | 16002 |  
 | color_no_space_upper_length_6 | 16002S |  
-| color_upper | 16002_SIZE |  
 | color_upper_length_1 | 1 |  
 | color_upper_length_2 | 16 |  
 | color_upper_length_3 | 160 |  
@@ -90,15 +82,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_upper_length_5 | 16002 |  
 | color_upper_length_6 | 16002_ |  
 | description_extra |  |  
-| description_extra_capital |  |  
-| description_extra_first_letter |  |  
-| description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
-| description_extra_upper |  |  
 | description_main | 15_mm_id_32_mm_od_8_mm_depth |  
-| description_main_capital | 15 mm Id 32 mm Od 8 mm Depth |  
-| description_main_first_letter | 1 |  
-| description_main_first_letter_upper | 1 |  
 | description_main_length_1 | 1 |  
 | description_main_length_2 | 15 |  
 | description_main_length_3 | 15_ |  
@@ -118,21 +103,13 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | description_main_no_space_upper_length_4 | 15MM |  
 | description_main_no_space_upper_length_5 | 15MMI |  
 | description_main_no_space_upper_length_6 | 15MMID |  
-| description_main_upper | 15_MM_ID_32_MM_OD_8_MM_DEPTH |  
 | description_main_upper_length_1 | 1 |  
 | description_main_upper_length_2 | 15 |  
 | description_main_upper_length_3 | 15_ |  
 | description_main_upper_length_4 | 15_M |  
 | description_main_upper_length_5 | 15_MM |  
 | description_main_upper_length_6 | 15_MM_ |  
-| description_only_numbers | 15328 |  
-| description_only_numbers_short | 15k |  
-| description_or_color | 115k |  
-| description_or_color_upper | 115K |  
 | directory | parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth |  
-| distributors | [] |  
-| filter | hardware |  
-| from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth |  
 | id | hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth |  
 | id_no_class | bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth |  
@@ -140,14 +117,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | id_no_size | 16002_size_15_mm_id_32_mm_od_8_mm_depth |  
 | id_no_type | 16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth |  
 | manufacturer |  |  
-| manufacturer_capital |  |  
-| manufacturer_first_letter |  |  
-| manufacturer_first_letter_upper |  |  
 | manufacturer_name |  |  
-| manufacturer_upper |  |  
-| manufacturers | [] |  
-| markdown_full | [hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth/working)<br>[Hardware Bearing 16000 Series 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth/working)<br><br> |  
-| markdown_short | [hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16002_size_15_mm_id_32_mm_od_8_mm_depth/working)<br><br> |  
 | md5 | 3c8766a3059977ffe6ba3cd30993c38f |  
 | md5_10 | 3c8766a305 |  
 | md5_10_upper | 3C8766A305 |  
@@ -161,7 +131,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | name_no_class | Bearing 16000 Series 16002 Size 15 mm ID 32 mm OD 8 mm Depth |  
 | name_no_color | 15 mm ID 32 mm OD 8 mm Depth |  
 | name_no_size | 16002 Size 15 mm ID 32 mm OD 8 mm Depth |  
-| name_no_size_short | 16002 Size 15 Mm Id 32 Mm Od 8 Mm Depth |  
 | name_no_type | 16000 Series 16002 Size 15 mm ID 32 mm OD 8 mm Depth |  
 | oomlout_short_code | br16002 |  
 | oomlout_short_code_upper | BR16002 |  
@@ -171,17 +140,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | oomp_word_emoji_list | [':pig:', ':toilet:', ':leaves:'] |  
 | oomp_word_list | ['pig', 'toilet', 'leaves'] |  
 | part_number |  |  
-| part_number_capital |  |  
-| part_number_first_letter |  |  
-| part_number_first_letter_upper |  |  
 | part_number_name |  |  
-| part_number_upper |  |  
-| short_code |  |  
-| short_code_upper |  |  
 | size | 16000_series |  
-| size_capital | 16000 Series |  
-| size_first_letter | 1 |  
-| size_first_letter_upper | 1 |  
 | size_length_1 | 1 |  
 | size_length_2 | 16 |  
 | size_length_3 | 160 |  
@@ -201,9 +161,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_no_space_upper_length_4 | 1600 |  
 | size_no_space_upper_length_5 | 16000 |  
 | size_no_space_upper_length_6 | 16000S |  
-| size_only_numbers | 16000 |  
-| size_only_numbers_no_zeros | 16 |  
-| size_upper | 16000_SERIES |  
 | size_upper_length_1 | 1 |  
 | size_upper_length_2 | 16 |  
 | size_upper_length_3 | 160 |  
@@ -211,9 +168,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | size_upper_length_5 | 16000 |  
 | size_upper_length_6 | 16000_ |  
 | type | bearing |  
-| type_capital | Bearing |  
-| type_first_letter | b |  
-| type_first_letter_upper | B |  
 | type_length_1 | b |  
 | type_length_2 | be |  
 | type_length_3 | bea |  
@@ -233,7 +187,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_no_space_upper_length_4 | BEAR |  
 | type_no_space_upper_length_5 | BEARI |  
 | type_no_space_upper_length_6 | BEARIN |  
-| type_upper | BEARING |  
 | type_upper_length_1 | B |  
 | type_upper_length_2 | BE |  
 | type_upper_length_3 | BEA |  

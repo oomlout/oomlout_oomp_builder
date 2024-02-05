@@ -1,7 +1,4 @@
 classification: hardware
-classification_capital: Hardware
-classification_first_letter: h
-classification_first_letter_upper: H
 classification_length_1: h
 classification_length_2: ha
 classification_length_3: har
@@ -21,7 +18,6 @@ classification_no_space_upper_length_3: HAR
 classification_no_space_upper_length_4: HARD
 classification_no_space_upper_length_5: HARDW
 classification_no_space_upper_length_6: HARDWA
-classification_upper: HARDWARE
 classification_upper_length_1: H
 classification_upper_length_2: HA
 classification_upper_length_3: HAR
@@ -29,9 +25,6 @@ classification_upper_length_4: HARD
 classification_upper_length_5: HARDW
 classification_upper_length_6: HARDWA
 color: brass
-color_capital: Brass
-color_first_letter: b
-color_first_letter_upper: B
 color_length_1: b
 color_length_2: br
 color_length_3: bra
@@ -51,7 +44,6 @@ color_no_space_upper_length_3: BRA
 color_no_space_upper_length_4: BRAS
 color_no_space_upper_length_5: BRASS
 color_no_space_upper_length_6: BRASS
-color_upper: BRASS
 color_upper_length_1: B
 color_upper_length_2: BR
 color_upper_length_3: BRA
@@ -59,9 +51,6 @@ color_upper_length_4: BRAS
 color_upper_length_5: BRASS
 color_upper_length_6: BRASS
 description_extra: screw_and_nut
-description_extra_capital: Screw And Nut
-description_extra_first_letter: s
-description_extra_first_letter_upper: S
 description_extra_length_1: s
 description_extra_length_2: sc
 description_extra_length_3: scr
@@ -81,7 +70,6 @@ description_extra_no_space_upper_length_3: SCR
 description_extra_no_space_upper_length_4: SCRE
 description_extra_no_space_upper_length_5: SCREW
 description_extra_no_space_upper_length_6: SCREWA
-description_extra_upper: SCREW_AND_NUT
 description_extra_upper_length_1: S
 description_extra_upper_length_2: SC
 description_extra_upper_length_3: SCR
@@ -89,9 +77,6 @@ description_extra_upper_length_4: SCRE
 description_extra_upper_length_5: SCREW
 description_extra_upper_length_6: SCREW_
 description_main: 30_mm_length
-description_main_capital: 30 mm Length
-description_main_first_letter: '3'
-description_main_first_letter_upper: '3'
 description_main_length_1: '3'
 description_main_length_2: '30'
 description_main_length_3: '30_'
@@ -111,38 +96,21 @@ description_main_no_space_upper_length_3: 30M
 description_main_no_space_upper_length_4: 30MM
 description_main_no_space_upper_length_5: 30MML
 description_main_no_space_upper_length_6: 30MMLE
-description_main_upper: 30_MM_LENGTH
 description_main_upper_length_1: '3'
 description_main_upper_length_2: '30'
 description_main_upper_length_3: '30_'
 description_main_upper_length_4: 30_M
 description_main_upper_length_5: 30_MM
 description_main_upper_length_6: 30_MM_
-description_only_numbers: '30'
-description_only_numbers_short: '30'
-description_or_color: B30
-description_or_color_upper: B30
 directory: parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut
-distributors: []
-filter: hardware
-from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut
 id: hardware_standoff_m3_brass_30_mm_length_screw_and_nut
 id_no_class: standoff_m3_brass_30_mm_length_screw_and_nut
 id_no_color: 30_mm_length_screw_and_nut
 id_no_size: brass_30_mm_length_screw_and_nut
 id_no_type: m3_brass_30_mm_length_screw_and_nut
-kicad_reference: ''
 manufacturer: ''
-manufacturer_capital: ''
-manufacturer_first_letter: ''
-manufacturer_first_letter_upper: ''
 manufacturer_name: ''
-manufacturer_upper: ''
-manufacturers: []
-markdown_full: '[hardware_standoff_m3_brass_30_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut/working)<br>[stm3sn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut/working)<br>[Hardware
-  Standoff M3 Brass 30 Mm Length Screw And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut/working)<br><br>'
-markdown_short: '[hardware_standoff_m3_brass_30_mm_length_screw_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_30_mm_length_screw_and_nut/working)<br><br>'
 md5: 8997e73719c4d77d25e4d05a29d83aa2
 md5_10: 8997e73719
 md5_10_upper: 8997E73719
@@ -156,7 +124,6 @@ name: Hardware Standoff M3 Brass 30 mm Length Screw And Nut
 name_no_class: Standoff M3 Brass 30 mm Length Screw And Nut
 name_no_color: 30 mm Length Screw And Nut
 name_no_size: Brass 30 mm Length Screw And Nut
-name_no_size_short: Brass 30 Mm Length Screw And Nut
 name_no_type: M3 Brass 30 mm Length Screw And Nut
 oomlout_bolt_color: ''
 oomlout_bolt_head_type: Bolt
@@ -188,17 +155,8 @@ oomp_word_list:
 - baseball
 - helicopter
 part_number: ''
-part_number_capital: ''
-part_number_first_letter: ''
-part_number_first_letter_upper: ''
 part_number_name: ''
-part_number_upper: ''
-short_code: stm3sn
-short_code_upper: STM3SN
 size: m3
-size_capital: M3
-size_first_letter: m
-size_first_letter_upper: M
 size_length_1: m
 size_length_2: m3
 size_length_3: m3
@@ -218,9 +176,6 @@ size_no_space_upper_length_3: M3
 size_no_space_upper_length_4: M3
 size_no_space_upper_length_5: M3
 size_no_space_upper_length_6: M3
-size_only_numbers: '3'
-size_only_numbers_no_zeros: '3'
-size_upper: M3
 size_upper_length_1: M
 size_upper_length_2: M3
 size_upper_length_3: M3
@@ -228,9 +183,6 @@ size_upper_length_4: M3
 size_upper_length_5: M3
 size_upper_length_6: M3
 type: standoff
-type_capital: Standoff
-type_first_letter: s
-type_first_letter_upper: S
 type_length_1: s
 type_length_2: st
 type_length_3: sta
@@ -250,7 +202,6 @@ type_no_space_upper_length_3: STA
 type_no_space_upper_length_4: STAN
 type_no_space_upper_length_5: STAND
 type_no_space_upper_length_6: STANDO
-type_upper: STANDOFF
 type_upper_length_1: S
 type_upper_length_2: ST
 type_upper_length_3: STA
