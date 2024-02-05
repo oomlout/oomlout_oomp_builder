@@ -1,8 +1,0 @@
-* [12_mm_length](12_mm_length)
-  * [phillips_head](12_mm_length/phillips_head)
-* [16_mm_length](16_mm_length)
-  * [phillips_head](16_mm_length/phillips_head)
-* [20_mm_length](20_mm_length)
-  * [phillips_head](20_mm_length/phillips_head)
-* [25_mm_length](25_mm_length)
-  * [phillips_head](25_mm_length/phillips_head)

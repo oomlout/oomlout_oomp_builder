@@ -1,6 +1,0 @@
-* [8_teeth](8_teeth)
-* [8_teeth_sh_electronic_potentiometer_17_mm](8_teeth_sh_electronic_potentiometer_17_mm)
-* [8_teeth_sh_m3](8_teeth_sh_m3)
-* [8_teeth_sh_motor_n20](8_teeth_sh_motor_n20)
-* [8_teeth_sh_motor_servo_standard_01](8_teeth_sh_motor_servo_standard_01)
-* [8_teeth_sh_motor_tt_01](8_teeth_sh_motor_tt_01)

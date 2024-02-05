@@ -1,1 +1,0 @@
-* [tool_marker_patterned_thicker_x6](tool_marker_patterned_thicker_x6)
