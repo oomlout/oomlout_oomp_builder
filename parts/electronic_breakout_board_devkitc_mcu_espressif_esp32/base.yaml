@@ -1,9 +1,0 @@
-classification: electronic
-color: mcu
-description_extra: ''
-description_main: espressif_esp32
-id: electronic_breakout_board_devkitc_mcu_espressif_esp32
-manufacturer: ''
-part_number: ''
-size: devkitc
-type: breakout_board

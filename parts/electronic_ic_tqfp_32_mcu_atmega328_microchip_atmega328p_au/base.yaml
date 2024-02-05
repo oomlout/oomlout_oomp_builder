@@ -1,9 +1,0 @@
-classification: electronic
-color: mcu
-description_extra: ''
-description_main: atmega328
-id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
-manufacturer: microchip
-part_number: atmega328p_au
-size: tqfp_32
-type: ic
