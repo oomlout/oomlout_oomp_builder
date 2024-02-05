@@ -1,6 +1,8 @@
 # imports
 import os
 import yaml
+import fnmatch
+
 # settings
 #      cheange these
 directory_oomp = "" # directory to create your oomp
@@ -24,6 +26,15 @@ def main(**kwargs):
     if not os.path.exists(directory_oomp_parts):
         os.makedirs(directory_oomp_parts)
 
+
+    # load filter
+    filter_file = "configuration/filter.yaml"
+    if not os.path.exists(filter_file):
+        filter_file = "configuration/filter_default.yaml"
+
+    with open(filter_file, 'r') as stream:
+        filter = yaml.safe_load(stream)
+
     # load repo_source
     with open(repo_source_yaml, 'r') as stream:
         repo_source = yaml.safe_load(stream)
@@ -41,11 +52,24 @@ def main(**kwargs):
             if os.path.exists(repo_path_parts):
                 print(f"copying {repo_path_parts} to {oomp_path_parts}")
                 #copy all files and overwrite if it exists use xcopy if windows and cp if linux
-                if os.name == "nt":
-                    os.system(f"xcopy /E /Y {repo_path_parts} {oomp_path_parts}")
+                #if no filter use fast copy
+                if filter == "*" or folder == "data":
+                    if os.name == "nt":
+                        os.system(f"xcopy /E /Y {repo_path_parts} {oomp_path_parts}")
+                    else:
+                        oomp_path_parts = oomp_path_parts.replace(folder,".")
+                        os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
                 else:
-                    oomp_path_parts = oomp_path_parts.replace(folder,".")
-                    os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
+                    #get folder listing from repo_path_parts
+                    for root, dirnames, filenames in os.walk(repo_path_parts):
+                        for dirname in dirnames:
+                            if fnmatch.fnmatch(dirname, filter):
+                                if os.name == "nt":
+                                    os.system(f"xcopy /E /Y {repo_path_parts} {oomp_path_parts}")
+                                else:
+                                    oomp_path_parts = oomp_path_parts.replace(folder,".")
+                                    os.system(f"cp -r {repo_path_parts} {oomp_path_parts}")
+                        
 
 
             
