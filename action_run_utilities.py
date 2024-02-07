@@ -13,7 +13,7 @@ def main(**kwargs):
     # load utility_source
     with open(utility_source_yaml, 'r') as stream:
         utilities = yaml.load(stream, Loader=yaml.FullLoader)
-    
+        
     if utilities != None:
         for utility in utilities:
             #clone utility from github into temporary
