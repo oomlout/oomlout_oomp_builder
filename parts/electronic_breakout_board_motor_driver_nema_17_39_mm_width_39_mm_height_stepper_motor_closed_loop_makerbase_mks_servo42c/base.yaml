@@ -1,0 +1,9 @@
+classification: electronic
+color: ''
+description_extra: closed_loop
+description_main: stepper_motor
+id: electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+manufacturer: makerbase
+part_number: mks_servo42c
+size: nema_17_39_mm_width_39_mm_height
+type: breakout_board_motor_driver
