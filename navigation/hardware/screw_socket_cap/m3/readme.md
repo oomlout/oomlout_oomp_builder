@@ -19,6 +19,8 @@
     * [hex_head](black/50_mm_length/hex_head)
   * [5_mm_length](black/5_mm_length)
     * [hex_head](black/5_mm_length/hex_head)
+  * [60_mm_length](black/60_mm_length)
+    * [hex_head](black/60_mm_length/hex_head)
   * [6_mm_length](black/6_mm_length)
     * [hex_head](black/6_mm_length/hex_head)
   * [8_mm_length](black/8_mm_length)

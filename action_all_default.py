@@ -14,6 +14,10 @@ def main(**kwargs):
     import action_create
     action_create.main(**kwargs)
     
+    #      load in the data directory
+    import action_load_data
+    action_load_data.main(**kwargs)
+
     #      load in the yaml files
     import action_load
     #parts = action_load.main(**kwargs)    

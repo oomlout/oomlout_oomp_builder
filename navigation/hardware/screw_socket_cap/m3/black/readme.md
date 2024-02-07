@@ -18,6 +18,8 @@
   * [hex_head](50_mm_length/hex_head)
 * [5_mm_length](5_mm_length)
   * [hex_head](5_mm_length/hex_head)
+* [60_mm_length](60_mm_length)
+  * [hex_head](60_mm_length/hex_head)
 * [6_mm_length](6_mm_length)
   * [hex_head](6_mm_length/hex_head)
 * [8_mm_length](8_mm_length)
