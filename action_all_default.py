@@ -16,7 +16,7 @@ def main(**kwargs):
     
     #      load in the yaml files
     import action_load
-    #parts = action_load.main(**kwargs)    
+    parts = action_load.main(**kwargs)    
     kwargs["parts"] = parts
     
     #      make links
