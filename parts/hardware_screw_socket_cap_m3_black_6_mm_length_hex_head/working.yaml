@@ -1,36 +1,41 @@
+barcode_manufacturer_metalmate: '5050420918749'
+box_of_box_size_manufacturer_metalmate: '4800'
+box_size_manufacturer_metalmate: '200'
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
 classification_upper: HARDWARE
-color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_upper: ''
-description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
-description_main: penny
-description_main_capital: Penny
-description_main_first_letter: p
-description_main_first_letter_upper: P
-description_main_upper: PENNY
-description_only_numbers: ''
-description_only_numbers_short: ' '
-description_or_color: ' '
-description_or_color_upper: ' '
-directory: parts/hardware_washer_m3_penny
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+commonity_code: '7318156890'
+description_extra: hex_head
+description_extra_capital: Hex Head
+description_extra_first_letter: h
+description_extra_first_letter_upper: H
+description_extra_upper: HEX_HEAD
+description_main: 6_mm_length
+description_main_capital: 6 mm Length
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 6_MM_LENGTH
+description_only_numbers: '6'
+description_only_numbers_short: '6'
+description_or_color: B6
+description_or_color_upper: B6
+directory: parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
+distributor_current: orbital_fasteners
 distributors: []
 filter: hardware
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working
-id: hardware_washer_m3_penny
-id_no_class: washer_m3_penny
-id_no_size: penny
-id_no_type: m3_penny
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head/working
+id: hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
+id_no_class: screw_socket_cap_m3_black_6_mm_length_hex_head
+id_no_size: black_6_mm_length_hex_head
+id_no_type: m3_black_6_mm_length_hex_head
 kicad_reference: ''
 manufacturer: ''
 manufacturer_capital: ''
@@ -38,41 +43,57 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[wm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br>[Hardware
-  Washer M3 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br>'
-markdown_short: '[hardware_washer_m3_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny/working)<br><br>'
-md5: 907fee65ae3dfcfbc74ed8be9e7de117
-md5_10: 907fee65ae
-md5_10_upper: 907FEE65AE
-md5_5: 907fe
-md5_5_upper: 907FE
-md5_6: 907fee
-md5_6_alpha: 5mz1q
-md5_6_alpha_upper: 5MZ1Q
-md5_6_upper: 907FEE
-name: Hardware Washer M3 Penny
-name_no_class: Washer M3 Penny
-name_no_size: Penny
-name_no_size_short: Penny
-name_no_type: M3 Penny
-oomp_key: oomp_hardware_washer_m3_penny
-oomp_word: scissors speaker ambulance
-oomp_word_emoji: ':scissors: :speaker: :ambulance:'
+markdown_full: '[hardware_screw_socket_cap_m3_black_6_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head/working)<br>[Hardware
+  Screw Socket Cap M3 Black 6 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head/working)<br><br>'
+markdown_short: '[hardware_screw_socket_cap_m3_black_6_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_6_mm_length_hex_head/working)<br><br>'
+md5: 2ceb4c2521a823c77174808b26681ce6
+md5_10: 2ceb4c2521
+md5_10_upper: 2CEB4C2521
+md5_5: 2ceb4
+md5_5_upper: 2CEB4
+md5_6: 2ceb4c
+md5_6_alpha: 1r3gs
+md5_6_alpha_upper: 1R3GS
+md5_6_upper: 2CEB4C
+name: Hardware Screw Socket Cap M3 Black 6 Mm Length Hex Head
+name_manufacturer_metalmate: M3 X 6 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150)
+name_no_class: Screw Socket Cap M3 Black 6 Mm Length Hex Head
+name_no_size: Black 6 Mm Length Hex Head
+name_no_size_short: Black 6 Mm Length Hex Head
+name_no_type: M3 Black 6 Mm Length Hex Head
+oomp_id: hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
+oomp_key: oomp_hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
+oomp_word: snowflake car turtle
+oomp_word_emoji: ':snowflake: :car: :turtle:'
 oomp_word_emoji_list:
-- ':scissors:'
-- ':speaker:'
-- ':ambulance:'
+- ':snowflake:'
+- ':car:'
+- ':turtle:'
 oomp_word_list:
-- scissors
-- speaker
-- ambulance
+- snowflake
+- car
+- turtle
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1891000'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_manufacturer_metalmate: 1150M390006
 part_number_upper: ''
-short_code: wm3
-short_code_upper: WM3
+price_1: '0.0405'
+price_100: '0.0405'
+price_1000: '0.0202'
+price_10000: '0.0180'
+price_10000_distributor_orbital_fasteners: '0.0180'
+price_1000_distributor_orbital_fasteners: '0.0202'
+price_100_distributor_orbital_fasteners: '0.0405'
+price_1_distributor_orbital_fasteners: '0.0405'
+price_200: '0.0225'
+price_200_distributor_orbital_fasteners: '0.0225'
+price_current: '0.0225'
+quantity_current: '200'
+short_code: sscm3b
+short_code_upper: SSCM3B
 size: m3
 size_capital: M3
 size_first_letter: m
@@ -80,8 +101,10 @@ size_first_letter_upper: M
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-type: washer
-type_capital: Washer
-type_first_letter: w
-type_first_letter_upper: W
-type_upper: WASHER
+type: screw_socket_cap
+type_capital: Screw Socket Cap
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_SOCKET_CAP
+webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
+webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-6-socket-cap-screw-gr12-9-self-colour-din-912-1150m390006

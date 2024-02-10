@@ -3,6 +3,7 @@ import yaml
 import os
 import glob
 import pickle
+import time
 
 #  settings
 directory_oomp = "" # directory of your oomp
@@ -21,24 +22,17 @@ def main(**kwargs):
     for file_name_yaml in file_names_yaml:
         file_yaml_parts += glob.glob(f"{directory_oomp_parts}/*/{file_name_yaml}")
     
-    glob.glob(f"{directory_oomp_parts}/*/*.yaml")
     for file_yaml_part in file_yaml_parts:
         with open(file_yaml_part, 'r') as stream:
-            parts_yaml = yaml.load(stream, Loader=yaml.FullLoader)
-        
-        
-
-        if not isinstance(parts_yaml, list):
-            parts_yaml = [parts_yaml]
-        
-        for part_yaml in parts_yaml:            
-            id = part_yaml.get("id", part_yaml.get("oomp_id", None))
-            if id is None:
-                Exception(f"part_yaml has no id: {part_yaml}")
-            print(f"loading {id}")
-            if id not in parts:
-                parts[id] = {}
-            parts[id].update(part_yaml)
+            part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
+                   
+        id = part_yaml.get("id", part_yaml.get("oomp_id", None))
+        if id is None:
+            Exception(f"part_yaml has no id: {part_yaml}")
+        print(f"loading {id}")
+        if id not in parts:
+            parts[id] = {}
+        parts[id].update(part_yaml)
             
 
     #add data files
@@ -49,19 +43,18 @@ def main(**kwargs):
         with open(file_yaml, 'r') as stream:
             data_yaml = yaml.load(stream, Loader=yaml.FullLoader)
         
-        if not isinstance(parts_yaml, list):
-            parts_yaml = [parts_yaml]
-        
-        for part_id in data_yaml:            
+        for part_id in data_yaml:
             part = data_yaml[part_id]
             id = part.get("id", part.get("oomp_id", None))
             if id is None:
-                Exception(f"part_yaml has no id: {part_yaml}")
-            print(f"loading {id}")
-            if id not in parts:
-                parts[id] = {}
+                Exception(f"part_yaml has no id: {data_yaml}")
             print(f"updating {id}")
-            parts[id].update(part_yaml)
+            if id not in parts:
+                #Exception(f"part_yaml has no id: {part_yaml}")
+                print(f"part_yaml has no id: {id}")
+                time.sleep(2)
+            else:
+                parts[id].update(part)
 
     # save parts to pickle
     if not os.path.exists(os.path.dirname(file_oomp_parts_pickle)):
