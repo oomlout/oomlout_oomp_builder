@@ -1,5 +1,0 @@
-* [black](black)
-  * [3_mm_length](black/3_mm_length)
-    * [phillips_head](black/3_mm_length/phillips_head)
-  * [5_mm_length](black/5_mm_length)
-    * [phillips_head](black/5_mm_length/phillips_head)

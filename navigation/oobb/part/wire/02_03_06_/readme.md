@@ -1,5 +1,0 @@
-* [basic](basic)
-* [higher_voltage](higher_voltage)
-* [i2c](i2c)
-* [motor](motor)
-* [motor_stepper](motor_stepper)

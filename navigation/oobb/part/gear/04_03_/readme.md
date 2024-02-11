@@ -1,6 +1,0 @@
-* [32_teeth](32_teeth)
-* [32_teeth_sh_electronic_potentiometer_17_mm](32_teeth_sh_electronic_potentiometer_17_mm)
-* [32_teeth_sh_m3](32_teeth_sh_m3)
-* [32_teeth_sh_motor_n20](32_teeth_sh_motor_n20)
-* [32_teeth_sh_motor_servo_standard_01](32_teeth_sh_motor_servo_standard_01)
-* [32_teeth_sh_motor_tt_01](32_teeth_sh_motor_tt_01)

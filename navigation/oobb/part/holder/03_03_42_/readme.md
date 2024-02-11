@@ -1,1 +1,0 @@
-* [motor_building_block_large_01_bottom](motor_building_block_large_01_bottom)

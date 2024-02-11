@@ -1,9 +1,0 @@
-classification: electronic
-color: sensor
-description_extra: ''
-description_main: pressure_temperature
-id: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
-manufacturer: bosch
-part_number: bme280
-size: lga_8_pin_2_5_mm_x_2_5_mm
-type: ic

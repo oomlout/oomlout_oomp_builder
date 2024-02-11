@@ -1,6 +1,0 @@
-* [12d0_teeth](12d0_teeth)
-* [12d0_teeth_sh_electronic_potentiometer_17_mm](12d0_teeth_sh_electronic_potentiometer_17_mm)
-* [12d0_teeth_sh_m3](12d0_teeth_sh_m3)
-* [12d0_teeth_sh_motor_n20](12d0_teeth_sh_motor_n20)
-* [12d0_teeth_sh_motor_servo_standard_01](12d0_teeth_sh_motor_servo_standard_01)
-* [12d0_teeth_sh_motor_tt_01](12d0_teeth_sh_motor_tt_01)

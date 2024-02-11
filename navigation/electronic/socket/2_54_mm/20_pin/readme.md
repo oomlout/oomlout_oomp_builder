@@ -1,5 +1,0 @@
-* [through_hole](through_hole)
-  * [dangerous_prototypes](through_hole/dangerous_prototypes)
-    * [raspberry_pi_pico_side_a](through_hole/dangerous_prototypes/raspberry_pi_pico_side_a)
-    * [raspberry_pi_pico_side_b](through_hole/dangerous_prototypes/raspberry_pi_pico_side_b)
-* [through_hole_long](through_hole_long)

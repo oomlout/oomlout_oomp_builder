@@ -1,9 +1,0 @@
-classification: electronic
-color: mcu
-description_extra: ''
-description_main: pic32
-id: electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
-manufacturer: microchip
-part_number: pic32mk1024gpk100
-size: tqfp_100
-type: ic

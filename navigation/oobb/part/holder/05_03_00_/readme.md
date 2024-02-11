@@ -1,2 +1,0 @@
-* [motor_servo_standard_01_all_debug](motor_servo_standard_01_all_debug)
-* [motor_servo_standard_01_all_print](motor_servo_standard_01_all_print)
