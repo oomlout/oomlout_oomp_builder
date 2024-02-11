@@ -1,9 +1,0 @@
-classification: electronic
-color: rgb
-description_extra: ''
-description_main: ws2812b
-id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
-manufacturer: xinglight
-part_number: 1010rgbc
-size: '1010'
-type: led

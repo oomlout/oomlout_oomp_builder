@@ -1,1 +1,0 @@
-* [clearance_hole_10_mm_10_mm_0_mm_6_mm](clearance_hole_10_mm_10_mm_0_mm_6_mm)

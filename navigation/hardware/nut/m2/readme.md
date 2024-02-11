@@ -1,2 +1,0 @@
-* [flanged](flanged)
-* [locking](locking)

@@ -1,5 +1,0 @@
-* [box_warehouse](box_warehouse)
-  * [sockerbit](box_warehouse/sockerbit)
-    * [190_mm_wide_150_mm_height_260_mm_depth](box_warehouse/sockerbit/190_mm_wide_150_mm_height_260_mm_depth)
-      * [ikea](box_warehouse/sockerbit/190_mm_wide_150_mm_height_260_mm_depth/ikea)
-        * [503_161_82](box_warehouse/sockerbit/190_mm_wide_150_mm_height_260_mm_depth/ikea/503_161_82)

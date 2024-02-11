@@ -1,5 +1,0 @@
-* [heavy_duty](heavy_duty)
-  * [satco](heavy_duty/satco)
-* [hinged_lid](hinged_lid)
-  * [majestic](hinged_lid/majestic)
-    * [05390_pv22](hinged_lid/majestic/05390_pv22)

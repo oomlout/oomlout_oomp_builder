@@ -1,9 +1,0 @@
-classification: electronic
-color: converter
-description_extra: ''
-description_main: usb_to_serial_converter
-id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
-manufacturer: wch
-part_number: ch340n
-size: sop_8
-type: ic
