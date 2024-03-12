@@ -46,6 +46,12 @@
 #- http://www.github.com/oomlout/oomp_base_storage_drawing
 #- http://www.github.com/oomlout/oomp_base_storage_image
 #- http://www.github.com/oomlout/oomp_base_storage_three_d_model
+## three_d_printer
+#- http://www.github.com/oomlout/oomp_base_three_d_printer
+#- http://www.github.com/oomlout/oomp_base_three_d_printer_datasheet
+#- http://www.github.com/oomlout/oomp_base_three_d_printer_drawing
+#- http://www.github.com/oomlout/oomp_base_three_d_printer_image
+#- http://www.github.com/oomlout/oomp_base_three_d_printer_three_d_model
 ## tool
 #- http://www.github.com/oomlout/oomp_base_tool
 #- http://www.github.com/oomlout/oomp_base_tool_datasheet
