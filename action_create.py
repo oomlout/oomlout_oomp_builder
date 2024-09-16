@@ -56,7 +56,9 @@ def main(**kwargs):
                 #if no filter use fast copy
                 if filter == "*" or folder == "data":
                     if os.name == "nt":
-                        os.system(f"xcopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
+                        #os.system(f"xcopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
+                        #for long filenames test
+                        os.system(f"robocopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
                     else:
                         oomp_path_parts = oomp_path_parts.replace(folder,".")
                         os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
