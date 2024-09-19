@@ -34,7 +34,8 @@ def main(**kwargs):
                 #open("temporary/__init__.py", 'a').close()
                 open("c:\\gh\\__init__.py", 'a').close()
 
-            module_name = f"temporary.{repo_name}.working"
+            #module_name = f"temporary.{repo_name}.working"
+            module_name = f"c:\\gh\\{repo_name}.working"
             #utility_module = __import__(module_name, fromlist=["temporary"])        
             utility_module = __import__(module_name, fromlist=[""])        
             kwargs["folder"] = "parts"
