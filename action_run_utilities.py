@@ -31,7 +31,8 @@ def main(**kwargs):
             #if not os.path.exists("temporary/__init__.py"):
             if not os.path.exists("c:\\gh\\__init__.py"):
                 # Create __init__.py
-                open("temporary/__init__.py", 'a').close()
+                #open("temporary/__init__.py", 'a').close()
+                open("c:\\gh\\__init__.py", 'a').close()
 
             module_name = f"temporary.{repo_name}.working"
             #utility_module = __import__(module_name, fromlist=["temporary"])        
