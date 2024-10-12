@@ -27,6 +27,13 @@ def main(**kwargs):
     import action_run_utilities
     action_run_utilities.main(**kwargs)
 
+
+    #      reload parts from their new yaml files
+    #      this makes the changes permanent
+    import action_load
+    parts = action_load.main(**kwargs)    
+    kwargs["parts"] = parts
+
     #      dump parts to yaml
     import action_dump
     action_dump.main(**kwargs)
