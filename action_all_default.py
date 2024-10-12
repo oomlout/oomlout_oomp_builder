@@ -27,9 +27,11 @@ def main(**kwargs):
     import action_run_utilities
     action_run_utilities.main(**kwargs)
 
+    # not run any more as it doesn't save the updated oomp details only the base
+    # should look into
     #      dump parts to yaml
-    import action_dump
-    action_dump.main(**kwargs)
+    #import action_dump
+    #action_dump.main(**kwargs)
 
     #       create archive
     import action_create_archive
