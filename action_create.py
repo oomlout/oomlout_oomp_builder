@@ -9,7 +9,8 @@ import shutil
 directory_oomp = "" # directory to create your oomp
 #      don't change these
 directory_oomp_parts = os.path.join(directory_oomp, "parts")
-directory_temporary = "temporary" # directory to create your oomp
+#directory_temporary = "temporary" # directory to create your oomp
+directory_temporary = "c:\\gh" # load to c: to deal with long pathbname issue hack
 
 repo_source_yaml = "configuration/repos_source.yaml"
 #check if file exists
