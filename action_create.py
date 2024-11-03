@@ -47,10 +47,10 @@ def main(**kwargs):
         repo_path = os.path.join(directory_temporary, repo_path)
         git_clone_pull(repo_url, repo_path)
         # copy part folders to oomp
-        folders = ["parts", "data"]
+        folders = ["parts", "data", "parts_source"]
         for folder in folders:
             repo_path_parts = os.path.join(repo_path, folder)
-            oomp_path_parts = os.path.join(directory_oomp, folder)
+            oomp_path_parts = os.path.join(directory_oomp, folder.replace)
             if os.path.exists(repo_path_parts):
                 print(f"copying {repo_path_parts} to {oomp_path_parts}")
                 #copy all files and overwrite if it exists use xcopy if windows and cp if linux
@@ -73,6 +73,7 @@ def main(**kwargs):
                             for folder in fnmatch.filter(dirs, filter_pattern):
                                 source_folder = os.path.join(root, folder)
                                 destination_folder = os.path.join(destination_path, os.path.relpath(source_folder, source_path))
+                                destination_folder = destination_folder.replace("_source", "") # move _source folders to regular one
                                 print(f"copying {source_folder} to {destination_folder}")
                                 if os.name == "nt":
                                     os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
