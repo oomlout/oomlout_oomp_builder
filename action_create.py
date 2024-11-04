@@ -51,6 +51,7 @@ def main(**kwargs):
         for folder in folders:
             repo_path_parts = os.path.join(repo_path, folder)
             oomp_path_parts = os.path.join(directory_oomp, folder)
+            oomp_path_parts = oomp_path_parts.replace("_source", "") # move _source folders to regular one
             if os.path.exists(repo_path_parts):
                 print(f"copying {repo_path_parts} to {oomp_path_parts}")
                 #copy all files and overwrite if it exists use xcopy if windows and cp if linux
