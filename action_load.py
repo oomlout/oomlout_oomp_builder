@@ -44,17 +44,20 @@ def main(**kwargs):
             data_yaml = yaml.load(stream, Loader=yaml.FullLoader)
         
         for part_id in data_yaml:
-            part = data_yaml[part_id]
-            id = part.get("id", part.get("oomp_id", None))
-            if id is None:
-                Exception(f"part_yaml has no id: {data_yaml}")
-            print(f"updating {id}")
-            if id not in parts:
-                #Exception(f"part_yaml has no id: {part_yaml}")
-                print(f"part_yaml has no id: {id}")
-                time.sleep(2)
+            if part_id in parts:
+                part = data_yaml[part_id]
+                id = part.get("id", part.get("oomp_id", None))
+                if id is None:
+                    Exception(f"part_yaml has no id: {data_yaml}")
+                print(f"updating {id}")
+                if id not in parts:
+                    #Exception(f"part_yaml has no id: {part_yaml}")
+                    print(f"part_yaml has no id: {id}")
+                    time.sleep(2)
+                else:
+                    parts[id].update(part)
             else:
-                parts[id].update(part)
+                print(f"part_id {part_id} not in parts")
 
     # save parts to pickle
     if not os.path.exists(os.path.dirname(file_oomp_parts_pickle)):
