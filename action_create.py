@@ -4,6 +4,9 @@ import yaml
 import fnmatch
 import shutil
 
+import os 
+import subprocess
+
 # settings
 #      cheange these
 directory_oomp = "" # directory to create your oomp
@@ -20,7 +23,7 @@ if not os.path.exists(repo_source_yaml):
 
 
 def main(**kwargs):
-    
+    import os
     #if temporary directory doesn't exist create it
     if not os.path.exists(directory_temporary):
         os.makedirs(directory_temporary)
@@ -60,7 +63,11 @@ def main(**kwargs):
                     if os.name == "nt":
                         #os.system(f"xcopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
                         #for long filenames test
-                        os.system(f"xcopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
+                        #try robo copy if it generates an insufficient memory error use shutil                        
+                        result = subprocess.run(["xcopy", repo_path_parts, oomp_path_parts, "/E", "/Y", "/I"], stdout=subprocess.PIPE)
+                        
+
+                        
                     else:
                         oomp_path_parts = oomp_path_parts.replace(folder,".")
                         os.system(f"cp -r {repo_path_parts} {oomp_path_parts}") 
@@ -77,7 +84,20 @@ def main(**kwargs):
                                 destination_folder = destination_folder.replace("_source", "") # move _source folders to regular one
                                 print(f"copying {source_folder} to {destination_folder}")
                                 if os.name == "nt":
-                                    os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
+                                    # try robo copy if it generates an insufficient memory error use shutil
+                                    result = subprocess.run(["xcopy", source_folder, destination_folder, "/E", "/Y", "/I"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+                                    string_result = result.stdout.decode("utf-8")
+                                    print(string_result)
+                                    string_error = ""
+                                    if result.stderr != None:
+                                        string_error = result.stderr.decode("utf-8")
+                                    print(string_error)
+                                    if "Insufficient memory" in string_error:
+                                        print("      using shutil")
+                                        shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)
+
+
+                                    #os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
                                 else:
                                     os.system(f"cp -r {source_folder} {destination_folder}")
                                 
