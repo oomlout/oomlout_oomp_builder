@@ -50,7 +50,11 @@ def main(**kwargs):
         repo_path = os.path.join(directory_temporary, repo_path)
         git_clone_pull(repo_url, repo_path)
         # copy part folders to oomp
-        folders = ["parts", "data", "parts_source"]
+        #check if parts_source folder exists
+        if os.path.exists(os.path.join(repo_path, "parts_source")):
+            folders = ["data", "parts_source"]
+        else:
+            folders = ["data", "parts"]
         for folder in folders:
             repo_path_parts = os.path.join(repo_path, folder)
             oomp_path_parts = os.path.join(directory_oomp, folder)
