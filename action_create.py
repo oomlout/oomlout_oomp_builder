@@ -53,6 +53,8 @@ def main(**kwargs):
         #check if parts_source folder exists
         if os.path.exists(os.path.join(repo_path, "parts_source")):
             folders = ["data", "parts_source"]
+        elif os.path.exists(os.path.join(repo_path, "oomp_source")):
+            folders = ["data", "oomp_source"]
         else:
             folders = ["data", "parts"]
         for folder in folders:
