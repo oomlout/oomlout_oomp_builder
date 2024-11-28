@@ -33,7 +33,7 @@ def main(**kwargs):
     if cnt_error > 0:
         print(f"error in {cnt_error} files")
         import time
-        time.sleep(30)
+        #time.sleep(30)
         cnt_error = 0
         
             
@@ -72,10 +72,15 @@ def main(**kwargs):
 
     if not os.path.exists(os.path.dirname(file_oomp_parts_yaml)):
         os.makedirs(os.path.dirname(file_oomp_parts_yaml))
-    # save parts to yaml
+    
+    import io
+    
+    # save parts to yaml    
+    buffer = io.StringIO()
+    print(f"saving {file_oomp_parts_yaml}")
+    yaml.dump(parts, buffer)
     with open(file_oomp_parts_yaml, 'w') as stream:
-        print(f"saving {file_oomp_parts_yaml}")
-        yaml.dump(parts, stream)
+    stream.write(buffer.getvalue())
 
     #save all parts back to their directory to make the data injections permanent
     for part_id in parts:
