@@ -28,6 +28,7 @@ def main(**kwargs):
     times.append(time_entry)    
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    print()
     print(f"{time_name} took {hour} hours and {minute} minutes")
     
     
@@ -44,6 +45,7 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    print()
     print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #      make links
@@ -70,6 +72,7 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    print()
     print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #      dump parts to yaml
@@ -84,6 +87,7 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    print()
     print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #       create archive
@@ -96,6 +100,7 @@ def main(**kwargs):
     times.append(time_entry)
 
     #print the times in a nice hour:min format
+    print()
     print("Times:")
     for time_entry in times:
         hour = int(time_entry['time']/3600)
