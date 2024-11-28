@@ -15,6 +15,8 @@ def main(**kwargs):
 
     parts = {}
     
+    time_start_start = time.time()
+
     #      create
     import action_create
     time_start = time.time()
@@ -24,7 +26,10 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)    
-    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+    hour = int(time_entry['time']/3600)
+    minute = int((time_entry['time'] - hour*3600)/60)
+    print(f"{time_name} took {hour} hours and {minute} minutes")
+    
     
     #      load in the yaml files
     import action_load
@@ -36,7 +41,10 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
-    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+    
+    hour = int(time_entry['time']/3600)
+    minute = int((time_entry['time'] - hour*3600)/60)
+    print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #      make links
     import action_make_links
@@ -59,7 +67,10 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
-    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+    
+    hour = int(time_entry['time']/3600)
+    minute = int((time_entry['time'] - hour*3600)/60)
+    print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #      dump parts to yaml
     import action_dump
@@ -70,16 +81,27 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
-    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+    
+    hour = int(time_entry['time']/3600)
+    minute = int((time_entry['time'] - hour*3600)/60)
+    print(f"{time_name} took {hour} hours and {minute} minutes")
 
     #       create archive
     import action_create_archive
     #action_create_archive.main(**kwargs)    
     
+
+    time_end_end = time.time()
+    time_entry = {"name": "total time", "time": time_end_end - time_start_start}
+    times.append(time_entry)
+
     #print the times in a nice hour:min format
     print("Times:")
     for time_entry in times:
-        print(f"{time_entry['name']} took {time_entry['time']/60:.2f} minutes")
+        hour = int(time_entry['time']/3600)
+        minute = int((time_entry['time'] - hour*3600)/60)
+
+        print(f"{time_entry['name']} took {hour} hours and {minute} minutes")
     
     
 

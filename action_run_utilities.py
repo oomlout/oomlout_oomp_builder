@@ -50,7 +50,10 @@ def main(**kwargs):
             time_end = time.time()
             time_entry = {"name": time_name, "time": time_end - time_start}
             times.append(time_entry)
-            print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+            
+            hour = int(time_entry['time']/3600)
+            minute = int((time_entry['time'] - hour*3600)/60)
+            print(f"{time_name} took {hour} hours and {minute} minutes")
     return times
 
 

@@ -33,7 +33,7 @@ def main(**kwargs):
     if cnt_error > 0:
         print(f"error in {cnt_error} files")
         import time
-        time.delay(30)
+        time.sleep(30)
         cnt_error = 0
         
             
