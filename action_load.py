@@ -12,7 +12,10 @@ directory_oomp_data = os.path.join(directory_oomp, "data")
 file_oomp_parts_pickle = os.path.join(directory_oomp, "temporary/parts.pickle")
 file_oomp_parts_yaml = os.path.join(directory_oomp, "temporary/parts.yaml")
 
+cnt = 1
+
 def main(**kwargs):
+    global cnt
     parts = {}
 
     file_names_yaml = ["working.yaml"]
@@ -22,17 +25,13 @@ def main(**kwargs):
     for file_name_yaml in file_names_yaml:
         file_yaml_parts += glob.glob(f"{directory_oomp_parts}/*/{file_name_yaml}")
     
+    
     for file_yaml_part in file_yaml_parts:
-        with open(file_yaml_part, 'r') as stream:
-            part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
-                   
-        id = part_yaml.get("id", part_yaml.get("oomp_id", None))
-        if id is None:
-            Exception(f"part_yaml has no id: {part_yaml}")
-        print(f"loading {id}")
-        if id not in parts:
-            parts[id] = {}
-        parts[id].update(part_yaml)
+        import threading
+        threading.Thread(target=load_part_thread, args=(file_yaml_part, parts)).start()
+
+
+        
             
 
     #add data files
@@ -86,6 +85,23 @@ def main(**kwargs):
 
     return parts
 
+def load_part_thread(file_yaml_part, parts):
+    global cnt
+    with open(file_yaml_part, 'r') as stream:
+        part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
+                   
+        id = part_yaml.get("id", part_yaml.get("oomp_id", None))
+        if id is None:
+            Exception(f"part_yaml has no id: {part_yaml}")
+        #print(f"loading {id}")
+            
+        if id not in parts:
+            parts[id] = {}
+        parts[id].update(part_yaml)
+
+        cnt += 1
+        if cnt % 100 == 0:
+            print(f".", end="")
 
 if __name__ == "__main__":
     kwargs = {}
