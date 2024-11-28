@@ -19,6 +19,7 @@ def main(**kwargs):
     import action_create
     time_start = time.time()
     time_name = "action_create.main()"
+    print("starting action_create.main()")
     action_create.main(**kwargs)
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
@@ -29,6 +30,7 @@ def main(**kwargs):
     import action_load
     time_start = time.time()
     time_name = "action_load.main()"
+    print("starting action_load.main()")
     parts = action_load.main(**kwargs)        
     kwargs["parts"] = parts
     time_end = time.time()
@@ -51,6 +53,7 @@ def main(**kwargs):
     import action_load
     time_start = time.time()
     time_name = "action_load.main() second time"
+    print("starting action_load.main() second time")
     parts = action_load.main(**kwargs)    
     kwargs["parts"] = parts
     time_end = time.time()
@@ -62,6 +65,7 @@ def main(**kwargs):
     import action_dump
     time_start = time.time()
     time_name = "action_dump.main()"    
+    print("starting action_dump.main()")
     action_dump.main(**kwargs)
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
