@@ -7,6 +7,9 @@ import shutil
 import os 
 import subprocess
 
+
+cnt_create = 1
+
 # settings
 #      cheange these
 directory_oomp = "" # directory to create your oomp
@@ -63,7 +66,7 @@ def main(**kwargs):
             oomp_path_parts = os.path.join(directory_oomp, folder)
             oomp_path_parts = oomp_path_parts.replace("_source", "") # move _source folders to regular one
             if os.path.exists(repo_path_parts):
-                print(f"copying {repo_path_parts} to {oomp_path_parts}")
+                #print(f"copying {repo_path_parts} to {oomp_path_parts}")
                 #copy all files and overwrite if it exists use xcopy if windows and cp if linux
                 #if no filter use fast copy
                 if filter == "*" or folder == "data":
@@ -91,7 +94,7 @@ def main(**kwargs):
                                 source_folder = os.path.join(root, folder)
                                 destination_folder = os.path.join(destination_path, os.path.relpath(source_folder, source_path))
                                 destination_folder = destination_folder.replace("_source", "") # move _source folders to regular one
-                                print(f"copying {source_folder} to {destination_folder}")
+                                #print(f"copying {source_folder} to {destination_folder}")
                                 if os.name == "nt":
                                     # try robo copy if it generates an insufficient memory error use shutil
                                     command = f"xcopy {source_folder} {destination_folder} /E /Y /I"
@@ -133,15 +136,15 @@ def main(**kwargs):
 
 def run_command(command):
     error_checking = True
-    print(command)
+    #print(command)
     if error_checking:
         result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)                                    
         string_result = result.stdout.decode("utf-8")
-        print(string_result)
+        #print(string_result)
         string_error = ""
         if result.stderr != None:
             string_error = result.stderr.decode("utf-8")
-        print(string_error)
+        #print(string_error)
         if "Insufficient memory" in string_error or "incorrect" in string_error:
             print("      using shutil")
             print(command)
@@ -151,6 +154,9 @@ def run_command(command):
             shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)                   
     else:
         os.system(command)
+    cnt_create += 1
+    if cnt_create % 100 == 0:
+        print(f".", end="")
 
 
             
