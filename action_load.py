@@ -131,7 +131,9 @@ def load_part_thread(file_yaml_part, parts):
         try:
             id = part_yaml.get("id", part_yaml.get("oomp_id", None))
             if id is None:
-                Exception(f"part_yaml has no id: {part_yaml}")
+                #Exception(f"part_yaml has no id: {part_yaml}")
+                print(f"part_yaml has no id: {part_yaml}")
+                cnt_error += 1
             #print(f"loading {id}")
                 
             if id not in parts:
