@@ -80,7 +80,7 @@ def main(**kwargs):
     print(f"saving {file_oomp_parts_yaml}")
     yaml.dump(parts, buffer)
     with open(file_oomp_parts_yaml, 'w') as stream:
-    stream.write(buffer.getvalue())
+        stream.write(buffer.getvalue())
 
     #save all parts back to their directory to make the data injections permanent
     for part_id in parts:
