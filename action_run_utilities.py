@@ -1,5 +1,6 @@
 import os
 import yaml
+import time
 
 # settings
 utility_source_yaml = "configuration/utility_source.yaml"
@@ -10,12 +11,15 @@ if not os.path.exists(utility_source_yaml):
 
 def main(**kwargs):
     utilities = []
+    times = kwargs.get("times", [])
     # load utility_source
     with open(utility_source_yaml, 'r') as stream:
         utilities = yaml.load(stream, Loader=yaml.FullLoader)
         
     if utilities != None:
         for utility in utilities:
+            time_start = time.time()
+            time_name = f"utility: {utility}"
             #clone utility from github into temporary
             print(f"cloning {utility} from github")
             repo_name = utility.split("/")[-1]
@@ -43,6 +47,10 @@ def main(**kwargs):
             utility_module = __import__(module_name, fromlist=[""])        
             kwargs["folder"] = "parts"
             utility_module.main(**kwargs)
+            time_end = time.time()
+            time_entry = {"name": time_name, "time": time_end - time_start}
+            times.append(time_entry)
+    return times
 
 
 
