@@ -13,9 +13,9 @@ file_oomp_parts_pickle = os.path.join(directory_oomp, "temporary/parts.pickle")
 file_oomp_parts_yaml = os.path.join(directory_oomp, "temporary/parts.yaml")
 
 cnt = 1
-
+cnt_error = 0
 def main(**kwargs):
-    global cnt
+    global cnt, cnt_error
     parts = {}
 
     file_names_yaml = ["working.yaml"]
@@ -30,7 +30,11 @@ def main(**kwargs):
         import threading
         threading.Thread(target=load_part_thread, args=(file_yaml_part, parts)).start()
 
-
+    if cnt_error > 0:
+        print(f"error in {cnt_error} files")
+        import time
+        time.delay(30)
+        cnt_error = 0
         
             
 
@@ -86,22 +90,27 @@ def main(**kwargs):
     return parts
 
 def load_part_thread(file_yaml_part, parts):
-    global cnt
+    global cnt, cnt_error
     with open(file_yaml_part, 'r') as stream:
         part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
-                   
-        id = part_yaml.get("id", part_yaml.get("oomp_id", None))
-        if id is None:
-            Exception(f"part_yaml has no id: {part_yaml}")
-        #print(f"loading {id}")
-            
-        if id not in parts:
-            parts[id] = {}
-        parts[id].update(part_yaml)
 
-        cnt += 1
-        if cnt % 100 == 0:
-            print(f".", end="")
+        try:
+            id = part_yaml.get("id", part_yaml.get("oomp_id", None))
+            if id is None:
+                Exception(f"part_yaml has no id: {part_yaml}")
+            #print(f"loading {id}")
+                
+            if id not in parts:
+                parts[id] = {}
+            parts[id].update(part_yaml)
+
+            cnt += 1
+            if cnt % 100 == 0:
+                print(f".", end="")
+        except Exception as e:
+            print(f"error in {file_yaml_part}")
+            cnt_error += 1
+
 
 if __name__ == "__main__":
     kwargs = {}
