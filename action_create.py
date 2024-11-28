@@ -44,6 +44,7 @@ def main(**kwargs):
     with open(repo_source_yaml, 'r') as stream:
         repo_source = yaml.safe_load(stream)
     for repo_url in repo_source:
+        command_list = []
         repo_name = repo_url.split("/")[-1] 
 
         repo_path = f"{repo_name}"
@@ -69,8 +70,10 @@ def main(**kwargs):
                     if os.name == "nt":
                         #os.system(f"xcopy /E /Y /I {repo_path_parts} {oomp_path_parts}")
                         #for long filenames test
-                        #try robo copy if it generates an insufficient memory error use shutil                        
-                        result = subprocess.run(["xcopy", repo_path_parts, oomp_path_parts, "/E", "/Y", "/I"], stdout=subprocess.PIPE)
+                        #try robo copy if it generates an insufficient memory error use shutil      
+                        command = f"xcopy {repo_path_parts} {oomp_path_parts} /E /Y /I"                  
+                        command_list.append(command)
+                        #result = subprocess.run(["xcopy", repo_path_parts, oomp_path_parts, "/E", "/Y", "/I"], stdout=subprocess.PIPE)
                         
 
                         
@@ -91,24 +94,53 @@ def main(**kwargs):
                                 print(f"copying {source_folder} to {destination_folder}")
                                 if os.name == "nt":
                                     # try robo copy if it generates an insufficient memory error use shutil
-                                    result = subprocess.run(["xcopy", source_folder, destination_folder, "/E", "/Y", "/I"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
-                                    string_result = result.stdout.decode("utf-8")
-                                    print(string_result)
-                                    string_error = ""
-                                    if result.stderr != None:
-                                        string_error = result.stderr.decode("utf-8")
-                                    print(string_error)
-                                    if "Insufficient memory" in string_error:
-                                        print("      using shutil")
-                                        shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)
+                                    command = f"xcopy {source_folder} {destination_folder} /E /Y /I"
+                                    command_list.append(command)
+                                    #result = subprocess.run(["xcopy", source_folder, destination_folder, "/E", "/Y", "/I"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+                                    #string_result = result.stdout.decode("utf-8")
+                                    #print(string_result)
+                                    #string_error = ""
+                                    #if result.stderr != None:
+                                    #    string_error = result.stderr.decode("utf-8")
+                                    #print(string_error)
+                                    #if "Insufficient memory" in string_error:
+                                    #    print("      using shutil")
+                                    #    shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)
 
 
                                     #os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
                                 else:
                                     os.system(f"cp -r {source_folder} {destination_folder}")
+    #run command list multithreaded
+    if len(command_list) > 0:
+        import threading
+        threads = []
+
+        
+
+
+        for command in command_list:
+            thread = threading.Thread(target=run_command, args=(command,))
+            threads.append(thread)
+            thread.start()
+        for thread in threads:
+            thread.join()
                                 
 
-                        
+def run_command(command):
+    result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+    string_result = result.stdout.decode("utf-8")
+    print(string_result)
+    string_error = ""
+    if result.stderr != None:
+        string_error = result.stderr.decode("utf-8")
+    print(string_error)
+    if "Insufficient memory" in string_error:
+        print("      using shutil")
+        #parse source folder and destination from the xcopy command rtemembering it will use the \e \y \i switches so grab them from the end not the front
+        source_folder = command.split(" ")[-2]
+        destination_folder = command.split(" ")[-1]
+        shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)                   
 
 
             
