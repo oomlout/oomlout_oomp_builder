@@ -28,11 +28,12 @@ def main(**kwargs):
     times.append(time_entry)    
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    seconds = int(time_entry['time'] - hour*3600 - minute*60)
     print()
     print()
     print()
     print()
-    print(f"{time_name} took {hour} hours and {minute} minutes")
+    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
     
     
     #      load in the yaml files
@@ -48,11 +49,12 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    seconds = int(time_entry['time'] - hour*3600 - minute*60)
     print()
     print()
     print()
     print()
-    print(f"{time_name} took {hour} hours and {minute} minutes")
+    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
 
     #      make links
     import action_make_links
@@ -78,11 +80,12 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    seconds = int(time_entry['time'] - hour*3600 - minute*60)
     print()
     print()
     print()
     print()
-    print(f"{time_name} took {hour} hours and {minute} minutes")
+    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
 
     #      dump parts to yaml
     import action_dump
@@ -96,11 +99,12 @@ def main(**kwargs):
     
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
+    seconds = int(time_entry['time'] - hour*3600 - minute*60)
     print()
     print()
     print()
     print()
-    print(f"{time_name} took {hour} hours and {minute} minutes")
+    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
 
     #       create archive
     import action_create_archive
@@ -120,8 +124,10 @@ def main(**kwargs):
     for time_entry in times:
         hour = int(time_entry['time']/3600)
         minute = int((time_entry['time'] - hour*3600)/60)
+        seconds = int(time_entry['time'] - hour*3600 - minute*60)
 
-        print(f"{time_entry['name']} took {hour} hours and {minute} minutes")
+        print(f"{time_entry['name']} took {hour} hours and {minute} minutes and {seconds} seconds")
+
     
     
 
