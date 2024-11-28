@@ -39,12 +39,12 @@ def main(**kwargs):
 
     with open(filter_file, 'r') as stream:
         filters = yaml.safe_load(stream)
-
+    command_list = []
     # load repo_source
     with open(repo_source_yaml, 'r') as stream:
         repo_source = yaml.safe_load(stream)
     for repo_url in repo_source:
-        command_list = []
+        
         repo_name = repo_url.split("/")[-1] 
 
         repo_path = f"{repo_name}"
