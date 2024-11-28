@@ -111,16 +111,20 @@ def main(**kwargs):
                                     #os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
                                 else:
                                     os.system(f"cp -r {source_folder} {destination_folder}")
-    #run command list multithreaded
+    #run command list multithreaded limit to 1000 threads
     if len(command_list) > 0:
         import threading
+        semaphore = threading.Semaphore(1000)   
         threads = []
 
-        
+
+        def thread_function(command):
+            with semaphore:
+                run_command(command)
 
 
         for command in command_list:
-            thread = threading.Thread(target=run_command, args=(command,))
+            thread = threading.Thread(target=thread_function, args=(command,))
             threads.append(thread)
             thread.start()
         for thread in threads:
@@ -128,21 +132,22 @@ def main(**kwargs):
                                 
 
 def run_command(command):
-    error_checking = False
+    error_checking = True
     print(command)
     if error_checking:
-        result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+        result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)                                    
         string_result = result.stdout.decode("utf-8")
         print(string_result)
         string_error = ""
         if result.stderr != None:
             string_error = result.stderr.decode("utf-8")
         print(string_error)
-        if "Insufficient memory" in string_error:
+        if "Insufficient memory" in string_error or "incorrect" in string_error:
             print("      using shutil")
+            print(command)
             #parse source folder and destination from the xcopy command rtemembering it will use the \e \y \i switches so grab them from the end not the front
-            source_folder = command.split(" ")[-2]
-            destination_folder = command.split(" ")[-1]
+            source_folder = command.split(" ")[1]
+            destination_folder = command.split(" ")[2]
             shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)                   
     else:
         os.system(command)
