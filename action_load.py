@@ -56,7 +56,7 @@ def main(**kwargs):
                 if id not in parts:
                     #Exception(f"part_yaml has no id: {part_yaml}")
                     print(f"part_yaml has no id: {id}")
-                    time.sleep(2)
+                    #time.sleep(2)
                 else:
                     parts[id].update(part)
             else:
