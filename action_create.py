@@ -135,6 +135,7 @@ def main(**kwargs):
                                 
 
 def run_command(command):
+    global cnt_create
     error_checking = True
     #print(command)
     if error_checking:
