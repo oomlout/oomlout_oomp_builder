@@ -147,7 +147,7 @@ def run_command(command):
             string_error = result.stderr.decode("utf-8")
         #print(string_error)
         if "Insufficient memory" in string_error or "incorrect" in string_error:
-            print(",", end="")
+            #print(",", end="")
             #print(command)
             #parse source folder and destination from the xcopy command rtemembering it will use the \e \y \i switches so grab them from the end not the front
             source_folder = command.split(" ")[1]
