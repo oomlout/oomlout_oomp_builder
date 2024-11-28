@@ -128,19 +128,24 @@ def main(**kwargs):
                                 
 
 def run_command(command):
-    result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
-    string_result = result.stdout.decode("utf-8")
-    print(string_result)
-    string_error = ""
-    if result.stderr != None:
-        string_error = result.stderr.decode("utf-8")
-    print(string_error)
-    if "Insufficient memory" in string_error:
-        print("      using shutil")
-        #parse source folder and destination from the xcopy command rtemembering it will use the \e \y \i switches so grab them from the end not the front
-        source_folder = command.split(" ")[-2]
-        destination_folder = command.split(" ")[-1]
-        shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)                   
+    error_checking = False
+    print(command)
+    if error_checking:
+        result = subprocess.run([command], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+        string_result = result.stdout.decode("utf-8")
+        print(string_result)
+        string_error = ""
+        if result.stderr != None:
+            string_error = result.stderr.decode("utf-8")
+        print(string_error)
+        if "Insufficient memory" in string_error:
+            print("      using shutil")
+            #parse source folder and destination from the xcopy command rtemembering it will use the \e \y \i switches so grab them from the end not the front
+            source_folder = command.split(" ")[-2]
+            destination_folder = command.split(" ")[-1]
+            shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)                   
+    else:
+        os.system(command)
 
 
             
