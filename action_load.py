@@ -83,16 +83,41 @@ def main(**kwargs):
         stream.write(buffer.getvalue())
 
     #save all parts back to their directory to make the data injections permanent
+    import threading
+    semaphore = threading.Semaphore(1000)
+    threads = []
+
+    def create_thread(part, part_id, directory_oomp_parts):
+        with semaphore:
+            save_part_threading(part, part_id, directory_oomp_parts)
+            
     for part_id in parts:
         part = parts[part_id]
-        file_oomp_part = os.path.join(directory_oomp_parts, part_id, "working.yaml")
-        if not os.path.exists(os.path.dirname(file_oomp_part)):
-            os.makedirs(os.path.dirname(file_oomp_part))
-        with open(file_oomp_part, 'w') as stream:
-            print(f"saving {file_oomp_part}")
-            yaml.dump(part, stream)
+        
+        thread = threading.Thread(target=create_thread, args=(part, part_id, directory_oomp_parts))
+        threads.append(thread)
+        thread.start()
+    for thread in threads:
+        thread.join()
+
+
+        
+
+
+
+
+
+        
 
     return parts
+
+def save_part_threading(part, part_id, directory_oomp_parts):
+    file_oomp_part = os.path.join(directory_oomp_parts, part_id, "working.yaml")
+    if not os.path.exists(os.path.dirname(file_oomp_part)):
+        os.makedirs(os.path.dirname(file_oomp_part))
+    with open(file_oomp_part, 'w') as stream:
+        print(f"saving {file_oomp_part}")
+        yaml.dump(part, stream)
 
 def load_part_thread(file_yaml_part, parts):
     global cnt, cnt_error
