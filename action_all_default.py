@@ -22,7 +22,8 @@ def main(**kwargs):
     action_create.main(**kwargs)
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
-    times.append(time_entry)
+    times.append(time_entry)    
+    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
     
     #      load in the yaml files
     import action_load
@@ -33,7 +34,8 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
-    
+    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
+
     #      make links
     import action_make_links
     #action_make_links.main(**kwargs)
@@ -54,6 +56,7 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
+    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
 
     #      dump parts to yaml
     import action_dump
@@ -63,6 +66,7 @@ def main(**kwargs):
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
     times.append(time_entry)
+    print(f"{time_name} took {time_entry['time']/60:.2f} minutes")
 
     #       create archive
     import action_create_archive
