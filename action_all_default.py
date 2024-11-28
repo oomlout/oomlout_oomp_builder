@@ -34,6 +34,8 @@ def main(**kwargs):
     print()
     print()
     print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print()
+    print()
     
     
     #      load in the yaml files
@@ -55,6 +57,8 @@ def main(**kwargs):
     print()
     print()
     print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print()
+    print()
 
     #      make links
     import action_make_links
@@ -86,6 +90,8 @@ def main(**kwargs):
     print()
     print()
     print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print()
+    print()
 
     #      dump parts to yaml
     import action_dump
@@ -105,6 +111,8 @@ def main(**kwargs):
     print()
     print()
     print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print()
+    print()
 
     #       create archive
     import action_create_archive
@@ -127,6 +135,7 @@ def main(**kwargs):
         seconds = int(time_entry['time'] - hour*3600 - minute*60)
 
         print(f"{time_entry['name']} took {hour} hours and {minute} minutes and {seconds} seconds")
+        
 
     
     

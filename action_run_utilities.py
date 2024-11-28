@@ -58,7 +58,11 @@ def main(**kwargs):
             print()
             print()
             print()
-            print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+            print(f"{time_name} took)")
+            print(f"    {hour} hours and {minute} minutes and {seconds} seconds")
+            print()
+            print()
+
     return times
 
 
