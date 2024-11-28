@@ -112,12 +112,16 @@ def main(**kwargs):
     return parts
 
 def save_part_threading(part, part_id, directory_oomp_parts):
+    global cnt
     file_oomp_part = os.path.join(directory_oomp_parts, part_id, "working.yaml")
     if not os.path.exists(os.path.dirname(file_oomp_part)):
         os.makedirs(os.path.dirname(file_oomp_part))
     with open(file_oomp_part, 'w') as stream:
-        print(f"saving {file_oomp_part}")
+        #print(f"saving {file_oomp_part}")
+        cnt += 1
         yaml.dump(part, stream)
+    if cnt % 100 == 0:
+        print(f".", end="")
 
 def load_part_thread(file_yaml_part, parts):
     global cnt, cnt_error
