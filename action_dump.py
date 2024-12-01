@@ -3,6 +3,8 @@ import os
 import json
 import pickle
 
+cnt_dump = 1
+
 def main(**kwargs):
     parts = kwargs.get("parts", {})
     #dump parts to yaml
@@ -35,12 +37,16 @@ def create_recursive_thread(**kwargs):
                 os.makedirs(directory)
             file_yaml = f"{directory}/working.yaml"
             with open(file_yaml, 'w') as stream:
-                print(f"saving yaml {file_yaml}")
+                #print(f"saving yaml {file_yaml}")
                 yaml.dump(part, stream)
             file_json = f"{directory}/working.json"
             with open(file_json, 'w') as stream:
-                print(f"saving json {file_json}")
+                #print(f"saving json {file_json}")
                 json.dump(part, stream)
+            global cnt_dump
+            cnt_dump += 1
+            if cnt_dump % 100 == 0:
+                print(f".", end="")
 
 
 
