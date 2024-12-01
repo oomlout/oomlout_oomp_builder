@@ -134,7 +134,8 @@ def main(**kwargs):
         minute = int((time_entry['time'] - hour*3600)/60)
         seconds = int(time_entry['time'] - hour*3600 - minute*60)
 
-        print(f"{time_entry['name']} took {hour} hours and {minute} minutes and {seconds} seconds")
+        print(f"{time_entry['name']} took:")
+        print(f"        {hour} hours and {minute} minutes and {seconds} seconds")
         
 
     
