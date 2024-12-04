@@ -17,19 +17,19 @@ def main(**kwargs):
 
         def create_thread(**kwargs):
             with semaphore:
-                create_recursive_thread(**kwargs)
+                create_recursive_thread(part_id, **kwargs)
         
         for part_id in parts:
-            kwargs["part_id"] = part_id
-            thread = threading.Thread(target=create_thread, kwargs=pickle.loads(pickle.dumps(kwargs, -1)))  
+            #kwargs["part_id"] = part_id
+            thread = threading.Thread(target=create_thread, kwargs={"part_id": part_id, **kwargs})  
             threads.append(thread)
             thread.start()
         for thread in threads:
             thread.join()
 
 
-def create_recursive_thread(**kwargs):
-            part_id = kwargs.get("part_id", None)
+def create_recursive_thread(part_id, **kwargs):
+            #part_id = kwargs.get("part_id", None)
             parts = kwargs.get("parts", {})
             part = parts[part_id]
             directory = f"parts/{part_id}"
