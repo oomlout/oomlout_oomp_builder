@@ -17,10 +17,11 @@ def main(**kwargs):
 
         def create_thread(**kwargs):
             with semaphore:
+                kwargs.pop("part_id", "")
                 create_recursive_thread(part_id, **kwargs)
         
         for part_id in parts:
-            #kwargs["part_id"] = part_id
+            #kwargs["part_id"] = part_id            
             thread = threading.Thread(target=create_thread, kwargs={"part_id": part_id, **kwargs})  
             threads.append(thread)
             thread.start()
