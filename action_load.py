@@ -39,8 +39,11 @@ def main(**kwargs):
             
 
     #add data files
+    print(f"loading parts from {directory_oomp_data}")
     for file_name_yaml in file_names_yaml:
         file_yaml_data = glob.glob(f"{directory_oomp_data}/*/{file_name_yaml}")
+
+
 
     for file_yaml in file_yaml_data:
         with open(file_yaml, 'r') as stream:
@@ -59,6 +62,7 @@ def main(**kwargs):
                     #time.sleep(2)
                 else:
                     parts[id].update(part)
+                    print(f"." , end="", flush=True)
             else:
                 print(f"part_id {part_id} not in parts")
 
@@ -100,15 +104,7 @@ def main(**kwargs):
     for thread in threads:
         thread.join()
 
-
-        
-
-
-
-
-
-        
-
+  
     return parts
 
 def save_part_threading(part, part_id, directory_oomp_parts):
