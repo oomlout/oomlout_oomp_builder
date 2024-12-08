@@ -43,7 +43,8 @@ def create_recursive_thread(part_id, **kwargs):
             file_json = f"{directory}/working.json"
             with open(file_json, 'w') as stream:
                 #print(f"saving json {file_json}")
-                json.dump(part, stream)
+                #json.dump(part, stream)
+                 pass
             global cnt_dump
             cnt_dump += 1
             if cnt_dump % 100 == 0:
