@@ -121,10 +121,11 @@ def save_part_threading(part, part_id, directory_oomp_parts):
 
 def load_part_thread(file_yaml_part, parts):
     global cnt, cnt_error
-    with open(file_yaml_part, 'r') as stream:
-        part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
+    try:
+        with open(file_yaml_part, 'r') as stream:
+            part_yaml = yaml.load(stream, Loader=yaml.FullLoader)        
 
-        try:
+        
             id = part_yaml.get("id", part_yaml.get("oomp_id", None))
             if id is None:
                 #Exception(f"part_yaml has no id: {part_yaml}")
@@ -139,9 +140,10 @@ def load_part_thread(file_yaml_part, parts):
             cnt += 1
             if cnt % 100 == 0:
                 print(f".", end="")
-        except Exception as e:
-            print(f"error in {file_yaml_part}")
-            cnt_error += 1
+    except Exception as e:        
+        print(f"error in {file_yaml_part}")
+        print(e)
+        cnt_error += 1
 
 
 if __name__ == "__main__":
