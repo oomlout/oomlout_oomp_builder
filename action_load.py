@@ -66,6 +66,10 @@ def main(**kwargs):
             else:
                 print(f"part_id {part_id} not in parts")
 
+    #wait 20 seconds for things to finish
+    time.sleep(20)
+    
+
     # save parts to pickle
     if not os.path.exists(os.path.dirname(file_oomp_parts_pickle)):
         os.makedirs(os.path.dirname(file_oomp_parts_pickle))
