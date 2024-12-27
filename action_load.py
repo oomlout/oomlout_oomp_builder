@@ -67,6 +67,7 @@ def main(**kwargs):
                 print(f"part_id {part_id} not in parts")
 
     #wait 20 seconds for things to finish
+    import time
     time.sleep(20)
     
 
