@@ -118,23 +118,30 @@ def main(**kwargs):
                                     else:
                                         os.system(f"cp -r {source_folder} {destination_folder}")
     #run command list multithreaded limit to 1000 threads
+    
+    
     if len(command_list) > 0:
-        import threading
-        semaphore = threading.Semaphore(1000)   
-        threads = []
+        threading = False
+        if threading:
+            import threading
+            semaphore = threading.Semaphore(1000)   
+            threads = []
 
 
-        def thread_function(command):
-            with semaphore:
+            def thread_function(command):
+                with semaphore:
+                    run_command(command)
+
+
+            for command in command_list:
+                thread = threading.Thread(target=thread_function, args=(command,))
+                threads.append(thread)
+                thread.start()
+            for thread in threads:
+                thread.join()
+        else:
+            for command in command_list:
                 run_command(command)
-
-
-        for command in command_list:
-            thread = threading.Thread(target=thread_function, args=(command,))
-            threads.append(thread)
-            thread.start()
-        for thread in threads:
-            thread.join()
                                 
 
 def run_command(command):
