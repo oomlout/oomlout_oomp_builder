@@ -1,7 +1,6 @@
 
 import os
 import yaml
-import json
 
 utilities = []
 utilities.append("https://github.com/oomlout/oomlout_oomp_utility_readme_generation")

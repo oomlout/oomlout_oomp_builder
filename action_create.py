@@ -92,32 +92,33 @@ def main(**kwargs):
                         source_path = repo_path_parts
                         destination_path = oomp_path_parts
                         for root, dirs, files in os.walk(source_path):
-                            for filter_pattern in filters:
-                                for folder in fnmatch.filter(dirs, filter_pattern):
-                                    source_folder = os.path.join(root, folder)
-                                    destination_folder = os.path.join(destination_path, os.path.relpath(source_folder, source_path))                                
-                                    destination_folder = destination_folder.replace("_source", "") # move _source folders to regular one
-                                    #print(f"copying {source_folder} to {destination_folder}")
-                                    if os.name == "nt":
-                                        # try robo copy if it generates an insufficient memory error use shutil
-                                        command = f"xcopy {source_folder} {destination_folder} /E /Y /I"
-                                        command_list.append(command)
-                                        #result = subprocess.run(["xcopy", source_folder, destination_folder, "/E", "/Y", "/I"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
-                                        #string_result = result.stdout.decode("utf-8")
-                                        #print(string_result)
-                                        #string_error = ""
-                                        #if result.stderr != None:
-                                        #    string_error = result.stderr.decode("utf-8")
-                                        #print(string_error)
-                                        #if "Insufficient memory" in string_error:
-                                        #    print("      using shutil")
-                                        #    shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)
+                            if filters is not None:
+                                for filter_pattern in filters:
+                                    for folder in fnmatch.filter(dirs, filter_pattern):
+                                        source_folder = os.path.join(root, folder)
+                                        destination_folder = os.path.join(destination_path, os.path.relpath(source_folder, source_path))                                
+                                        destination_folder = destination_folder.replace("_source", "") # move _source folders to regular one
+                                        #print(f"copying {source_folder} to {destination_folder}")
+                                        if os.name == "nt":
+                                            # try robo copy if it generates an insufficient memory error use shutil
+                                            command = f"xcopy {source_folder} {destination_folder} /E /Y /I"
+                                            command_list.append(command)
+                                            #result = subprocess.run(["xcopy", source_folder, destination_folder, "/E", "/Y", "/I"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)                                    
+                                            #string_result = result.stdout.decode("utf-8")
+                                            #print(string_result)
+                                            #string_error = ""
+                                            #if result.stderr != None:
+                                            #    string_error = result.stderr.decode("utf-8")
+                                            #print(string_error)
+                                            #if "Insufficient memory" in string_error:
+                                            #    print("      using shutil")
+                                            #    shutil.copytree(source_folder, destination_folder, dirs_exist_ok=True)
 
 
-                                        #os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
-                                    else:
-                                        os.system(f"cp -r {source_folder} {destination_folder}")
-    #run command list multithreaded limit to 1000 threads
+                                            #os.system(f"xcopy /E /Y /I {source_folder} {destination_folder}")
+                                        else:
+                                            os.system(f"cp -r {source_folder} {destination_folder}")
+        #run command list multithreaded limit to 1000 threads
     
     
     if len(command_list) > 0:
