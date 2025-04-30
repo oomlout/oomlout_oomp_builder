@@ -40,8 +40,13 @@ def main(**kwargs):
     if not os.path.exists(filter_file):
         filter_file = "configuration/filter_default.yaml"
 
-    with open(filter_file, 'r') as stream:
-        filters = yaml.safe_load(stream)
+    #check if file exists
+    if not os.path.exists(filter_file):
+        print(f"{filter_file} doesn't exist using default")
+        filters = []
+    else:            
+        with open(filter_file, 'r') as stream:
+            filters = yaml.safe_load(stream)
     command_list = []
     # load repo_source
     with open(repo_source_yaml, 'r') as stream:
