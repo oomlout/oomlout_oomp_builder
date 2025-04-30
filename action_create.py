@@ -49,8 +49,12 @@ def main(**kwargs):
             filters = yaml.safe_load(stream)
     command_list = []
     # load repo_source
-    with open(repo_source_yaml, 'r') as stream:
-        repo_source = yaml.safe_load(stream)
+    #check if file exists
+    if not os.path.exists(repo_source_yaml):
+        repo_source = None
+    else:
+        with open(repo_source_yaml, 'r') as stream:
+            repo_source = yaml.safe_load(stream)
     
     if repo_source is not None:
         for repo_url in repo_source:
