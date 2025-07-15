@@ -80,7 +80,7 @@ def main(**kwargs):
         os.makedirs(os.path.dirname(file_oomp_parts_pickle))
 
     with open(file_oomp_parts_pickle, 'wb') as handle:
-        print(f"saving {file_oomp_parts_pickle}")
+        print(f"      ------>>  saving {file_oomp_parts_pickle}  <<------")
         pickle.dump(parts, handle)
 
     if not os.path.exists(os.path.dirname(file_oomp_parts_yaml)):
@@ -90,7 +90,7 @@ def main(**kwargs):
     
     # save parts to yaml    
     buffer = io.StringIO()
-    print(f"saving {file_oomp_parts_yaml}")
+    print(f"      ------>>  saving {file_oomp_parts_yaml}  <<------")
     yaml.dump(parts, buffer)
     with open(file_oomp_parts_yaml, 'w') as stream:
         stream.write(buffer.getvalue())
