@@ -26,6 +26,7 @@ def main(**kwargs):
         file_yaml_parts += glob.glob(f"{directory_oomp_parts}/*/{file_name_yaml}")
     
     
+    print("      ------>> loading parts from their directories <<------")
     for file_yaml_part in file_yaml_parts:
         import threading
         threading.Thread(target=load_part_thread, args=(file_yaml_part, parts)).start()
@@ -38,13 +39,14 @@ def main(**kwargs):
         
             
 
-    #add data files
-    print(f"loading parts from {directory_oomp_data}")
+    
     for file_name_yaml in file_names_yaml:
         file_yaml_data = glob.glob(f"{directory_oomp_data}/*/{file_name_yaml}")
 
 
-
+    #add data files
+    print()
+    print("      ------>> loading data from their repos <<------")
     for file_yaml in file_yaml_data:
         with open(file_yaml, 'r') as stream:
             data_yaml = yaml.load(stream, Loader=yaml.FullLoader)
@@ -57,14 +59,16 @@ def main(**kwargs):
                     Exception(f"part_yaml has no id: {data_yaml}")
                 print(f"updating {id}")
                 if id not in parts:
+                    pass
                     #Exception(f"part_yaml has no id: {part_yaml}")
-                    print(f"part_yaml has no id: {id}")
+                    #print(f"part_yaml has no id: {id}")
                     #time.sleep(2)
                 else:
                     parts[id].update(part)
                     print(f"." , end="", flush=True)
             else:
-                print(f"part_id {part_id} not in parts")
+                pass
+                #print(f"part_id {part_id} not in parts")
 
     #wait 20 seconds for things to finish
     import time
@@ -99,7 +103,9 @@ def main(**kwargs):
     def create_thread(part, part_id, directory_oomp_parts):
         with semaphore:
             save_part_threading(part, part_id, directory_oomp_parts)
-            
+
+
+    print(f"      ------>> saving parts back to their directories <<------")  
     for part_id in parts:
         part = parts[part_id]
         

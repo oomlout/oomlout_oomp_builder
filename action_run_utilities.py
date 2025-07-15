@@ -18,10 +18,13 @@ def main(**kwargs):
         
     if utilities != None:
         for utility in utilities:
+            print("#################################################################################")
+            print(f"######  starting utility: {utility}  ######")
+            print("#################################################################################")
             time_start = time.time()
             time_name = f"utility: {utility}"
             #clone utility from github into temporary
-            print(f"cloning {utility} from github")
+            print(f"      ------>>  cloning {utility} from github  <<------")
             repo_name = utility.split("/")[-1]
             repo_path = f"{repo_name}"
             #repo_path = os.path.join("temporary", repo_path)
