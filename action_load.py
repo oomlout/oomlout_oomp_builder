@@ -57,7 +57,7 @@ def main(**kwargs):
                 id = part.get("id", part.get("oomp_id", None))
                 if id is None:
                     Exception(f"part_yaml has no id: {data_yaml}")
-                print(f"updating {id}")
+                #print(f"updating {id}")
                 if id not in parts:
                     pass
                     #Exception(f"part_yaml has no id: {part_yaml}")
