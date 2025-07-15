@@ -129,7 +129,7 @@ def main(**kwargs):
                                             os.system(f"cp -r {source_folder} {destination_folder}")
         #run command list multithreaded limit to 1000 threads
     
-    
+    print("     ------>>  copying parts from repos <<------")
     if len(command_list) > 0:
         threading = False
         if threading:
