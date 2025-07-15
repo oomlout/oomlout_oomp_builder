@@ -54,14 +54,9 @@ def main(**kwargs):
             hour = int(time_entry['time']/3600)
             minute = int((time_entry['time'] - hour*3600)/60)
             seconds = int(time_entry['time'] - hour*3600 - minute*60)
-            print()
-            print()
-            print()
-            print()
-            print(f"{time_name} took)")
-            print(f"    {hour} hours and {minute} minutes and {seconds} seconds")
-            print()
-            print()
+            print(f"#################################################################################")
+            print(f"######  {time_name} took: {hour} hours and {minute} minutes and {seconds} seconds  ######")
+            print(f"#################################################################################")
 
     return times
 

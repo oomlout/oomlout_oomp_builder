@@ -20,7 +20,9 @@ def main(**kwargs):
     import action_create
     time_start = time.time()
     time_name = "action_create.main()"
-    print("starting action_create.main()")
+    print("#################################################")
+    print("######    starting action_create.main()    ######")
+    print("#################################################")
     action_create.main(**kwargs)
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
@@ -28,12 +30,9 @@ def main(**kwargs):
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
     seconds = int(time_entry['time'] - hour*3600 - minute*60)
-    print()
-    print()
-    print()
-    print()
-    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
-    print()
+    print("#################################################################################")
+    print(f"######  {time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print("#################################################################################")
     print()
     
     
@@ -41,7 +40,9 @@ def main(**kwargs):
     import action_load
     time_start = time.time()
     time_name = "action_load.main()"
-    print("starting action_load.main()")
+    print("#################################################")
+    print("######    starting action_load.main()    ######")
+    print("#################################################")
     parts = action_load.main(**kwargs)        
     kwargs["parts"] = parts
     time_end = time.time()
@@ -51,12 +52,9 @@ def main(**kwargs):
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
     seconds = int(time_entry['time'] - hour*3600 - minute*60)
-    print()
-    print()
-    print()
-    print()
-    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
-    print()
+    print()"#################################################################################")
+    print(f"######  {time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print("#################################################################################")
     print()
 
     #      make links
@@ -74,7 +72,9 @@ def main(**kwargs):
     import action_load
     time_start = time.time()
     time_name = "action_load.main() second time"
-    print("starting action_load.main() second time")
+    print("#################################################")
+    print("######    starting action_load.main()    ######")
+    print("#################################################")    
     parts = action_load.main(**kwargs)    
     kwargs["parts"] = parts
     time_end = time.time()
@@ -84,19 +84,18 @@ def main(**kwargs):
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
     seconds = int(time_entry['time'] - hour*3600 - minute*60)
-    print()
-    print()
-    print()
-    print()
-    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
-    print()
+    print("#################################################################################")
+    print(f"######  {time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print("#################################################################################")
     print()
 
     #      dump parts to yaml
     import action_dump
     time_start = time.time()
     time_name = "action_dump.main()"    
-    print("starting action_dump.main()")
+    print("#################################################")
+    print("######    starting action_dump.main()    ######")
+    print("#################################################")
     action_dump.main(**kwargs)
     time_end = time.time()
     time_entry = {"name": time_name, "time": time_end - time_start}
@@ -105,14 +104,9 @@ def main(**kwargs):
     hour = int(time_entry['time']/3600)
     minute = int((time_entry['time'] - hour*3600)/60)
     seconds = int(time_entry['time'] - hour*3600 - minute*60)
-    print()
-    print()
-    print()
-    print()
-    print(f"{time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
-    print()
-    print()
-
+    print("#################################################################################")
+    print(f"######  {time_name} took {hour} hours and {minute} minutes and {seconds} seconds")
+    print("#################################################################################")
     #       create archive
     import action_create_archive
     #action_create_archive.main(**kwargs)    
@@ -123,9 +117,9 @@ def main(**kwargs):
     times.append(time_entry)
 
     #print the times in a nice hour:min format
-    print()
-    print()
-    print()
+    print("#################################################################################")
+    print("######  All actions took:  ######")
+
     print()
     print("Times:")
     for time_entry in times:
@@ -133,12 +127,11 @@ def main(**kwargs):
         minute = int((time_entry['time'] - hour*3600)/60)
         seconds = int(time_entry['time'] - hour*3600 - minute*60)
 
-        print(f"{time_entry['name']} took:")
-        print(f"        {hour} hours and {minute} minutes and {seconds} seconds")
+        print(f"###### {time_entry['name']} took:{hour} hours and {minute} minutes and {seconds} seconds ######")
         
 
     
-    
+    print("#################################################################################")
 
 
 
