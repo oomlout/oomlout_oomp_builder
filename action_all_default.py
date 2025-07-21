@@ -11,12 +11,14 @@ def main(**kwargs):
 
     times = []
 
+    filt = kwargs.get("filter", "")
 
     parts = {}
     
     time_start_start = time.time()
 
     #      create
+    #   no changes for filter
     import action_create
     time_start = time.time()
     
@@ -40,6 +42,7 @@ def main(**kwargs):
     
     
     #      load in the yaml files
+    #      only load in items that have the filter in it
     import action_load
     time_start = time.time()
     time_name = "action_load.main()"
