@@ -12,10 +12,16 @@ directory_oomp_data = os.path.join(directory_oomp, "data")
 file_oomp_parts_pickle = os.path.join(directory_oomp, "temporary/parts.pickle")
 file_oomp_parts_yaml = os.path.join(directory_oomp, "temporary/parts.yaml")
 
+
+
+
 cnt = 1
 cnt_error = 0
 def main(**kwargs):
     global cnt, cnt_error
+    
+    filt = kwargs.get("filter", "")
+    
     parts = {}
 
     file_names_yaml = ["working.yaml"]
@@ -25,7 +31,14 @@ def main(**kwargs):
     for file_name_yaml in file_names_yaml:
         file_yaml_parts += glob.glob(f"{directory_oomp_parts}/*/{file_name_yaml}")
     
-    
+    #if filter isnt "" then folter the file_yaml_parts
+    if filt != "":
+        for i in range(len(file_yaml_parts)-1, -1, -1):
+            file_yaml_part = file_yaml_parts[i]
+            if filt not in file_yaml_part:
+                del file_yaml_parts[i]
+
+
     print("      ------>> loading parts from their directories <<------")
     for file_yaml_part in file_yaml_parts:
         import threading
